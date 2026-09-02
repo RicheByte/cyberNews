@@ -324,7 +324,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2571,
+      "count": 2572,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -4275,7 +4275,7 @@
       ]
     },
     "released security updates": {
-      "count": 123,
+      "count": 124,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -4308,7 +4308,8 @@
         "2026-08-02",
         "2026-08-03",
         "2026-08-17",
-        "2026-08-18"
+        "2026-08-18",
+        "2026-09-02"
       ]
     },
     "auditability collide daily": {
@@ -23336,7 +23337,7 @@
       ]
     },
     "software almost triple": {
-      "count": 178,
+      "count": 179,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23816,7 +23817,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 137,
+      "count": 138,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -23842,7 +23843,8 @@
         "2026-08-20",
         "2026-08-26",
         "2026-08-27",
-        "2026-09-01"
+        "2026-09-01",
+        "2026-09-02"
       ]
     },
     "shodan harvester keeps": {
@@ -24615,7 +24617,7 @@
       ]
     },
     "turn one's television": {
-      "count": 226,
+      "count": 227,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -27208,10 +27210,11 @@
       ]
     },
     "who's harvesting data": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-14",
-        "2026-08-19"
+        "2026-08-19",
+        "2026-09-02"
       ]
     },
     "single control plane": {
@@ -28813,7 +28816,7 @@
       ]
     },
     "sophisticated cybercrime syndicate": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-31",
         "2026-09-01",
@@ -28938,7 +28941,7 @@
       ]
     },
     "campaign uses etherhiding": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-01",
         "2026-09-02"
@@ -28965,7 +28968,7 @@
       ]
     },
     "enables bad actors": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-01",
         "2026-09-02"
@@ -28978,7 +28981,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-02"
       ]
@@ -28996,7 +28999,7 @@
       ]
     },
     "cve 2026 83548": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-02"
       ]
@@ -29012,20 +29015,63 @@
       "dates": [
         "2026-09-02"
       ]
+    },
+    "fake software updates": {
+      "count": 1,
+      "dates": [
+        "2026-09-02"
+      ]
+    },
+    "rockwell automation patches": {
+      "count": 1,
+      "dates": [
+        "2026-09-02"
+      ]
+    },
+    "4 2 17": {
+      "count": 1,
+      "dates": [
+        "2026-09-02"
+      ]
+    },
+    "anthropic details response": {
+      "count": 1,
+      "dates": [
+        "2026-09-02"
+      ]
+    },
+    "mistakenly block access": {
+      "count": 1,
+      "dates": [
+        "2026-09-02"
+      ]
+    },
+    "july 8 2026": {
+      "count": 1,
+      "dates": [
+        "2026-09-02"
+      ]
+    },
+    "vulnerabilities discovered internally": {
+      "count": 1,
+      "dates": [
+        "2026-09-02"
+      ]
+    },
+    "attack chain sonicwall": {
+      "count": 1,
+      "dates": [
+        "2026-09-02"
+      ]
+    },
+    "already semi public": {
+      "count": 1,
+      "dates": [
+        "2026-09-02"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-20 16:27",
-      "articles": 48,
-      "top_keywords": [
-        "remote code execution",
-        "critical netscaler flaw",
-        "prepared government agencies",
-        "android banking malware",
-        "hugging face incident"
-      ]
-    },
     {
       "timestamp": "2026-08-20 18:30",
       "articles": 48,
@@ -30113,6 +30159,17 @@
         "cve 2026 83548",
         "cve 2026 0768",
         "unpatched ios devices"
+      ]
+    },
+    {
+      "timestamp": "2026-09-02 14:00",
+      "articles": 48,
+      "top_keywords": [
+        "fake software updates",
+        "rockwell automation patches",
+        "individuals whose licenses",
+        "cve 2026 83548",
+        "4 2 17"
       ]
     }
   ]

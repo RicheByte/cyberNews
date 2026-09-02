@@ -1,72 +1,134 @@
 {
-  "last_updated": "2026-09-02 08:18",
+  "last_updated": "2026-09-02 14:00",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
+    "fake software updates",
+    "rockwell automation patches",
     "individuals whose licenses",
-    "peer p2p botnet",
     "cve 2026 83548",
-    "cve 2026 0768",
-    "unpatched ios devices",
+    "4 2 17",
+    "anthropic details response",
     "twitter whistleblower complaint",
-    "sprawling phishing campaign",
+    "turn one's television",
     "sophisticated cybercrime syndicate",
-    "comic streaming sites",
-    "campaign uses etherhiding",
-    "software giant fixed",
     "software almost triple",
+    "mistakenly block access",
     "enables bad actors",
-    "august 31 2026",
-    "disclosure threat actors",
-    "statement released today",
-    "building ai applications",
-    "ai takes hours",
-    "want repeatable ones",
-    "turn one's television"
+    "released security updates",
+    "july 8 2026",
+    "campaign uses etherhiding",
+    "who's harvesting data",
+    "vulnerabilities discovered internally",
+    "attack chain sonicwall",
+    "already semi public",
+    "vulnerability discoveries aided"
   ],
   "trending": [
     {
-      "keyword": "individuals whose licenses",
-      "mentions": 2
+      "keyword": "fake software updates",
+      "mentions": 1
     },
     {
-      "keyword": "peer p2p botnet",
+      "keyword": "rockwell automation patches",
       "mentions": 1
+    },
+    {
+      "keyword": "individuals whose licenses",
+      "mentions": 3
     },
     {
       "keyword": "cve 2026 83548",
+      "mentions": 2
+    },
+    {
+      "keyword": "4 2 17",
       "mentions": 1
     },
     {
-      "keyword": "cve 2026 0768",
+      "keyword": "anthropic details response",
       "mentions": 1
-    },
-    {
-      "keyword": "unpatched ios devices",
-      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2571
+      "mentions": 2572
     },
     {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 592
+      "keyword": "turn one's television",
+      "mentions": 227
     },
     {
       "keyword": "sophisticated cybercrime syndicate",
-      "mentions": 9
+      "mentions": 10
     },
     {
-      "keyword": "comic streaming sites",
-      "mentions": 4
-    },
-    {
-      "keyword": "campaign uses etherhiding",
-      "mentions": 4
+      "keyword": "software almost triple",
+      "mentions": 179
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access",
+      "link": "https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html",
+      "summary": "Virtualizor said hackers used a Border Gateway Protocol (BGP) hijack to divert Softaculous traffic. The hackers then used the diverted update traffic to deliver a malicious Virtualizor package to some installations. A hosting-provider account separately said 5 of its 34 checked Virtualizor hypervisors sustained root-level compromise. The incident window ran from approximately August 28 at 20:57",
+      "published": "Wed, 02 Sep 2026 18:42:45 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control",
+      "link": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called StreamRat that was promoted to Spanish-speaking users through a fake television-streaming campaign on Meta and can give operators near-complete control of infected devices. ThreatFabric said the campaign's advertisement focused on Spain and reached an estimated 570,950 Meta accounts in the European Union",
+      "published": "Wed, 02 Sep 2026 17:52:02 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "How to Secure Enterprise AI: From Adoption to Incident Readiness",
+      "link": "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html",
+      "summary": "The debate about whether AI delivers business value is over. The challenge now is implementing it at scale and securely across every function while meeting board-level pressure to move fast. Organizations must focus on adopting AI at business speed without losing control of cyber risk. Download the full eBook here. The Business Reality In Sygnia’s 2026 CISO Survey Report, which",
+      "published": "Wed, 02 Sep 2026 17:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html",
+      "summary": "SonicWall has released security updates to address two security flaws impacting its Secure Mobile Access (SMA) 1000 series VPN appliances that have been exploited in zero-day attacks. The vulnerabilities, discovered internally by SonicWall's William Perry and Adam Babis, are listed below - CVE-2026-83548 (CVSS score: 10.0) - A pre-authentication SSRF vulnerability in the Appliance",
+      "published": "Wed, 02 Sep 2026 16:23:49 +0530",
+      "value_score": 59,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends",
+      "link": "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html",
+      "summary": "Two vulnerabilities in GeoNetwork can be chained to achieve unauthenticated remote code execution (RCE) on the open-source geospatial metadata catalog, which sits behind many government and agency geoportals. The project shipped fixes in versions 4.4.12 and 4.2.17 on July 8, 2026, and published the vulnerability details on August 31. GeoNetwork originated at the United Nations Food and",
+      "published": "Wed, 02 Sep 2026 14:48:02 +0530",
+      "value_score": 50,
+      "value_signals": [
+        "RCE ×3"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands",
+      "link": "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html",
+      "summary": "The U.S. Department of Justice (DoJ) has charged a Russian national, extradited from Cyprus on August 28, with using roughly 255 fake accounts on a freelance platform to send malware-laced Excel attachments to about 80,000 of its users in 2016 and 2017. Searzhudin Tamirlanovich Aktulaev, 40, was arrested in Cyprus in May 2025, the U.S. Attorney's Office for the Northern District of California",
+      "published": "Wed, 02 Sep 2026 14:40:23 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another",
@@ -95,65 +157,35 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads",
-      "link": "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html",
-      "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the takedown of a long-standing peer-to-peer (P2P) botnet known as Sality as part of a coordinated law enforcement operation. The effort was undertaken on August 31, 2026, by authorities from the U.S., Bulgaria, Hungary, and Romania, in collaboration with private industry partners CrowdStrike and the Shadowserver Foundation. To that",
-      "published": "Wed, 02 Sep 2026 12:26:30 +0530",
-      "value_score": 20,
+      "source": "BleepingComputer",
+      "title": "Dropbox accounts breached through Lenovo email verification flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/",
+      "summary": "Dropbox is warning some users that an unauthorized party accessed their accounts by exploiting a flaw in Lenovo's email verification process to register fraudulent Lenovo IDs. [...]",
+      "published": "Wed, 02 Sep 2026 08:30:22 -0400",
+      "value_score": 16,
       "value_signals": [
-        "Botnet"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html",
-      "summary": "Threat actors are exploiting a newly patched critical security flaw impacting JFrog Artifactory merely days after public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-82329 (CVSS score: 9.8), a case of authentication bypass that could lead to administrative access in Artifactory. \"JFrog Artifactory contains an authentication weakness that, under default",
-      "published": "Tue, 01 Sep 2026 23:23:11 +0530",
-      "value_score": 65,
-      "value_signals": [
-        "CVE mentioned",
-        "Auth bypass",
-        "High severity ×2",
         "Exploit wording"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems",
-      "link": "https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html",
-      "summary": "Brazilian financial services, retail, and e-commerce organizations have become the target of a financially motivated threat actor dubbed Breeze Comet (formerly UNC5669) since 2024. Google Threat Intelligence Group (GTIG) and Mandiant teams described the threat actor as \"specializing in manipulating payment systems and banking software in Brazil to conduct fraudulent transfers.\" The adversary",
-      "published": "Tue, 01 Sep 2026 22:49:24 +0530",
+      "source": "BleepingComputer",
+      "title": "Microsoft Defender flags legitimate Google search links as malicious",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/",
+      "summary": "Microsoft is investigating an issue causing the Defender for Office 365 security software to mistakenly block access to legitimate Google search links. [...]",
+      "published": "Wed, 02 Sep 2026 06:29:39 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds",
-      "link": "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html",
-      "summary": "Cybersecurity researchers have identified a set of 13 malicious Composer theme packages on Packagist that are designed to inject JavaScript into Vietnamese movie and comic streaming sites that install those libraries and initiate the deployment of spyware aimed at unpatched iOS devices. \"The injected code runs two operations against a site's visitors: a mobile ad-fraud and gambling-redirect",
-      "published": "Tue, 01 Sep 2026 19:37:20 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests",
-      "link": "https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html",
-      "summary": "The Iranian Nimbus Manticore hacking group has been attributed to two previously undocumented malware families that highlight the continued evolution of its toolset and likely expand its targeting footprint to infect Linux and Apple macOS systems using cross-platform remote access trojans (RATs) developed using Node.js and JavaScript. Russian cybersecurity company Kaspersky is tracking the",
-      "published": "Tue, 01 Sep 2026 18:38:58 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Threat Actors Don’t Want Better Attacks. They Want Repeatable Ones",
-      "link": "https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html",
-      "summary": "The most common way into a company last year was to ask. A web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. Then it talks them through opening a terminal and pasting it in. The technique is called ClickFix, and it was the most common initial access method Microsoft’s team observed last year, accounting",
-      "published": "Tue, 01 Sep 2026 17:00:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "US charges Russian for infecting 80,000 freelancers with malware",
+      "link": "https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/",
+      "summary": "A California federal grand jury has indicted a Russian national for his role in a phishing campaign that infected thousands of freelancers with TVRAT and DarkVNC malware. [...]",
+      "published": "Wed, 02 Sep 2026 05:06:48 -0400",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -215,37 +247,6 @@
         "High severity",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers push malicious Virtualizor update in BGP hijacking attack",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/",
-      "summary": "Hackers delivered malicious updates to the Virtualizor VPS management software after hijacking BGP routing for its update infrastructure and redirecting update requests to malicious servers. [...]",
-      "published": "Tue, 01 Sep 2026 10:45:06 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×3"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Novocure data breach affects more than 1,400 cancer patients",
-      "link": "https://www.bleepingcomputer.com/news/security/novocure-data-breach-affects-more-than-1-400-cancer-patients/",
-      "summary": "Healthtech company Novocure says the data of an undisclosed number of employees and more than 1,400 U.S. cancer patients has been exposed in a mid-August cyberattack. [...]",
-      "published": "Tue, 01 Sep 2026 10:28:40 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Why Even the Best Edge Security Still Misses High-Risk Sessions",
-      "link": "https://www.bleepingcomputer.com/news/security/why-even-the-best-edge-security-still-misses-high-risk-sessions/",
-      "summary": "Attackers can hide behind residential proxies, VPNs, and other infrastructure that makes malicious sessions appear legitimate to existing edge security controls. Spur explains how session enrichment adds data points that help organizations identify risky sessions and make stronger enforcement decisions. [...]",
-      "published": "Tue, 01 Sep 2026 10:01:11 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -328,7 +329,7 @@
       "source": "Dark Reading",
       "title": "Old, Unpatched Flaws Give Attackers Access to Philippines Nuclear Agency",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/old-unpatched-flaws-attackers-philippines-nuclear-agency",
-      "summary": "Threat actors exploited commodity in ownCloud to gain initial access, resulting in stolen reactor databases, personnel records, and credential stores.",
+      "summary": "Threat actors exploited commodity vulnerabilities in ownCloud to gain initial access, resulting in stolen reactor databases, personnel records, and credential stores.",
       "published": "Wed, 02 Sep 2026 01:00:00 GMT",
       "value_score": 16,
       "value_signals": [
@@ -337,7 +338,7 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Attackers Pounce on Critical Artifactory Flaw Following Disclosure",
+      "title": "Attackers Pounce on Critical Artifactory Bug Following Disclosure",
       "link": "https://www.darkreading.com/application-security/attackers-pounce-critical-artifactory-flaw-disclosure",
       "summary": "CVE-2026-82329 is an authentication bypass flaw in JFrog's repository manager that enables bad actors to gain admin-level access on affected systems.",
       "published": "Tue, 01 Sep 2026 21:05:53 GMT",
@@ -361,7 +362,7 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Critical Langflow Flaw Exploited as Attacks on AI Platform Rise",
+      "title": "Critical Langflow Vulnerability Exploited as Attacks on AI Platform Rise",
       "link": "https://www.darkreading.com/vulnerabilities-threats/critical-langflow-flaw-exploited-attacks-rise",
       "summary": "The attacks targeting CVE-2026-0768 are the latest threat against the low-code AI development platform, which is receiving more attention from adversaries this year.",
       "published": "Tue, 01 Sep 2026 20:48:52 GMT",
@@ -412,6 +413,82 @@
     },
     {
       "source": "Security Week",
+      "title": "Rockwell Automation Patches Over a Dozen Vulnerabilities Across Products",
+      "link": "https://www.securityweek.com/rockwell-automation-patches-over-a-dozen-vulnerabilities-across-products/",
+      "summary": "The industrial giant has released advisories for its RSLinx Classic, ArmorStart, ControlFLASH, FactoryTalk, and other products. The post Rockwell Automation Patches Over a Dozen Vulnerabilities Across Products appeared first on SecurityWeek .",
+      "published": "Wed, 02 Sep 2026 12:39:07 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Exploit Published for Fresh Cleo Harmony Vulnerability",
+      "link": "https://www.securityweek.com/exploit-published-for-fresh-cleo-harmony-vulnerability/",
+      "summary": "The security defect allows remote attackers to bypass authentication through argument bearer manipulation. The post Exploit Published for Fresh Cleo Harmony Vulnerability appeared first on SecurityWeek .",
+      "published": "Wed, 02 Sep 2026 12:18:15 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Anthropic Details Response to Security Incidents, Unveils Enterprise Safeguards",
+      "link": "https://www.securityweek.com/anthropic-details-response-to-security-incidents-unveils-enterprise-safeguards/",
+      "summary": "Anthropic introduced Enterprise Frontier Safeguards (EFS), a system that combines zero data retention with automated monitoring for misuse. The post Anthropic Details Response to Security Incidents, Unveils Enterprise Safeguards appeared first on SecurityWeek .",
+      "published": "Wed, 02 Sep 2026 11:48:31 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Malicious Virtualizor Update Served via BGP Hijacking",
+      "link": "https://www.securityweek.com/malicious-virtualizor-update-served-via-bgp-hijacking/",
+      "summary": "Using a technically valid TLS certificate for Softaculous’ domains, a threat actor diverted traffic to fake software updates. The post Malicious Virtualizor Update Served via BGP Hijacking appeared first on SecurityWeek .",
+      "published": "Wed, 02 Sep 2026 11:31:36 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "OpenAI’s Astra Crosses ‘Critical’ Cyber Threshold After Finding Zero-Days",
+      "link": "https://www.securityweek.com/openais-astra-becomes-first-model-to-cross-critical-cybersecurity-threshold/",
+      "summary": "The designation applies when a model can independently find and exploit zero-day vulnerabilities across many well-defended systems. The post OpenAI’s Astra Crosses ‘Critical’ Cyber Threshold After Finding Zero-Days appeared first on SecurityWeek .",
+      "published": "Wed, 02 Sep 2026 10:38:13 +0000",
+      "value_score": 57,
+      "value_signals": [
+        "Zero-day",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Chrome and Firefox Updates Patch Dozens of Vulnerabilities",
+      "link": "https://www.securityweek.com/chrome-and-firefox-updates-patch-dozens-of-vulnerabilities/",
+      "summary": "The browser refreshes fix multiple use-after-free, sandbox escape, and privilege escalation bugs. The post Chrome and Firefox Updates Patch Dozens of Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Wed, 02 Sep 2026 09:12:29 +0000",
+      "value_score": 38,
+      "value_signals": [
+        "Privilege escalation",
+        "Patch/update ×3"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "23-Year-Old Sality P2P Botnet Disrupted",
+      "link": "https://www.securityweek.com/23-year-old-sality-p2p-botnet-disrupted/",
+      "summary": "The shutdown operation involved peer list manipulation and Sality payload URL takedown. The post 23-Year-Old Sality P2P Botnet Disrupted appeared first on SecurityWeek .",
+      "published": "Wed, 02 Sep 2026 08:38:00 +0000",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "SonicWall Warns of Two SMA1000 Zero-Days Exploited in Attacks",
       "link": "https://www.securityweek.com/sonicwall-warns-of-two-sma1000-zero-days-exploited-in-attacks/",
       "summary": "The vulnerabilities CVE-2026-83549 and CVE-2026-83548 can be chained for unauthenticated remote code execution. The post SonicWall Warns of Two SMA1000 Zero-Days Exploited in Attacks appeared first on SecurityWeek .",
@@ -422,79 +499,6 @@
         "RCE",
         "Multiple CVEs",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Palo Alto Networks Acquires AI Agent Platform Console",
-      "link": "https://www.securityweek.com/palo-alto-networks-acquires-ai-agent-platform-console/",
-      "summary": "The cybersecurity giant announced the acquisition alongside quarterly results showing a 34% increase in revenue and strong growth in next-generation security ARR. The post Palo Alto Networks Acquires AI Agent Platform Console appeared first on SecurityWeek .",
-      "published": "Tue, 01 Sep 2026 20:29:42 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Sevii Targets AI-Speed Attacks With Preemptive Autonomous Defense",
-      "link": "https://www.securityweek.com/sevii-targets-ai-speed-attacks-with-preemptive-autonomous-defense/",
-      "summary": "Sevii has expanded its ADR platform with AI agents designed to investigate, contain, and remediate AI-driven attacks within minutes. The post Sevii Targets AI-Speed Attacks With Preemptive Autonomous Defense appeared first on SecurityWeek .",
-      "published": "Tue, 01 Sep 2026 18:30:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Coast Guard Establishes Office of Maritime Cybersecurity Policy",
-      "link": "https://www.securityweek.com/coast-guard-establishes-office-of-maritime-cybersecurity-policy/",
-      "summary": "The new office will serve as the central authority for cybersecurity policy covering US ports, vessels, and maritime facilities. The post Coast Guard Establishes Office of Maritime Cybersecurity Policy appeared first on SecurityWeek .",
-      "published": "Tue, 01 Sep 2026 18:26:22 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Experiment: Porting a PLC Exploit With AI Takes Hours and Hundreds of Dollars",
-      "link": "https://www.securityweek.com/experiment-porting-a-plc-exploit-with-ai-takes-hours-and-hundreds-of-dollars/",
-      "summary": "Forescout researchers used Claude AI to port a remote code execution exploit between WAGO PLC models. The post Experiment: Porting a PLC Exploit With AI Takes Hours and Hundreds of Dollars appeared first on SecurityWeek .",
-      "published": "Tue, 01 Sep 2026 12:37:15 +0000",
-      "value_score": 36,
-      "value_signals": [
-        "RCE",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Hackers Start Exploiting Critical Langflow Vulnerability",
-      "link": "https://www.securityweek.com/hackers-start-exploiting-critical-langflow-vulnerability/",
-      "summary": "Tracked as CVE-2026-0768, the security defect allows unauthenticated attackers to execute arbitrary Python code remotely. The post Hackers Start Exploiting Critical Langflow Vulnerability appeared first on SecurityWeek .",
-      "published": "Tue, 01 Sep 2026 12:07:54 +0000",
-      "value_score": 50,
-      "value_signals": [
-        "CVE mentioned",
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Five Venezuelans Plead Guilty in US Court to ATM Jackpotting",
-      "link": "https://www.securityweek.com/five-venezuelans-plead-guilty-in-us-court-to-atm-jackpotting/",
-      "summary": "The defendants unsuccessfully attempted to physically install malware on ATMs to force them to dispense cash. The post Five Venezuelans Plead Guilty in US Court to ATM Jackpotting appeared first on SecurityWeek .",
-      "published": "Tue, 01 Sep 2026 11:24:25 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Ransomware Gang Claims Nutex Health Data Breach",
-      "link": "https://www.securityweek.com/ransomware-gang-claims-nutex-health-data-breach/",
-      "summary": "The company has notified the SEC that hackers accessed patient, employee, provider, business, and financial information. The post Ransomware Gang Claims Nutex Health Data Breach appeared first on SecurityWeek .",
-      "published": "Tue, 01 Sep 2026 10:47:47 +0000",
-      "value_score": 70,
-      "value_signals": [
-        "Ransomware ×2",
-        "Breach/leak ×2"
       ]
     },
     {

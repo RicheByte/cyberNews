@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-01 22:18 UTC  
+> **Last Updated:** 2026-09-02 02:28 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**gain unauthorized access** • **external actors attempted** • **enables bad actors** • **unpatched ios devices** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **sophisticated cybercrime syndicate** • **comic streaming sites** • **campaign uses etherhiding** • **software giant fixed** • **software almost triple** • **building ai applications** • **ai takes hours** • **disclosure threat actors** • **statement released today** • **web page tells** • **want repeatable ones** • **turn one's television** • **text history records** • **steal credentials tokens**
+**individuals whose licenses** • **gain unauthorized access** • **external actors attempted** • **enables bad actors** • **unpatched ios devices** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **sophisticated cybercrime syndicate** • **comic streaming sites** • **campaign uses etherhiding** • **software giant fixed** • **software almost triple** • **cybersecurity giant announced** • **building ai applications** • **ai takes hours** • **disclosure threat actors** • **statement released today** • **want repeatable ones** • **turn one's television** • **text history records**
 
 ---
 
@@ -38,6 +38,7 @@
 
 ### Krebs on Security
 
+- [FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/)
 - [Two Alleged ‘TeamPCP’ Hackers Arrested in Australia](https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/)
 - [Who’s Tracking You? Use This New Service to Find Out](https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/)
 - [Microsoft Plugs Nearly 400 Security Holes](https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/)
@@ -45,10 +46,10 @@
 - [Read This Before You Buy That TV Streaming Stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/)
 - [LG to Ban Residential Proxies from Smart TV Apps](https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/)
 - [Microsoft Patches a Record 570 Security Flaws](https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/)
-- [Lessons Learned from CISA’s Recent GitHub Leak](https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/)
 
 ### Dark Reading
 
+- [Old, Unpatched Flaws Give Attackers Access to Philippines Nuclear Agency](https://www.darkreading.com/cyberattacks-data-breaches/old-unpatched-flaws-attackers-philippines-nuclear-agency)
 - [Attackers Pounce on Critical Artifactory Flaw Following Disclosure](https://www.darkreading.com/application-security/attackers-pounce-critical-artifactory-flaw-disclosure)
 - [Stronger Security Drives Ransomware Groups to Recruit From Within](https://www.darkreading.com/cyber-risk/stronger-security-drives-ransomware-groups-to-recruit-from-within)
 - [Critical Langflow Flaw Exploited as Attacks on AI Platform Rise](https://www.darkreading.com/vulnerabilities-threats/critical-langflow-flaw-exploited-attacks-rise)
@@ -56,7 +57,6 @@
 - [ClickFix Campaign Compromises 31 Orgs, Abuses Polygon Blockchain](https://www.darkreading.com/endpoint-security/clickfix-campaign-comprises-31-orgs-abuses-polygon-blockchain)
 - [Anthropic Users Hit by Infostealer Attacks, Session Thefts](https://www.darkreading.com/cyberattacks-data-breaches/anthropic-users-infostealer-attacks-session-thefts)
 - ['TerminalFix' Campaign Weaponizes PowerShell for Enterprise Attacks](https://www.darkreading.com/threat-intelligence/terminalfix-campaign-weaponizes-powershell-enterprise-attacks)
-- [The Guardrails Debate: Security Researcher Changes His Mind](https://www.darkreading.com/cyber-risk/the-guardrails-debate-security-researcher-changes-his-mind)
 
 ### Security Week
 

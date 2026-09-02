@@ -1,8 +1,9 @@
 {
-  "last_updated": "2026-09-01 22:18",
+  "last_updated": "2026-09-02 02:28",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
+    "individuals whose licenses",
     "gain unauthorized access",
     "external actors attempted",
     "enables bad actors",
@@ -14,56 +15,55 @@
     "campaign uses etherhiding",
     "software giant fixed",
     "software almost triple",
+    "cybersecurity giant announced",
     "building ai applications",
     "ai takes hours",
     "disclosure threat actors",
     "statement released today",
-    "web page tells",
     "want repeatable ones",
     "turn one's television",
-    "text history records",
-    "steal credentials tokens"
+    "text history records"
   ],
   "trending": [
     {
-      "keyword": "gain unauthorized access",
-      "mentions": 63
-    },
-    {
-      "keyword": "external actors attempted",
-      "mentions": 3
-    },
-    {
-      "keyword": "enables bad actors",
+      "keyword": "individuals whose licenses",
       "mentions": 1
     },
     {
-      "keyword": "unpatched ios devices",
+      "keyword": "gain unauthorized access",
+      "mentions": 64
+    },
+    {
+      "keyword": "external actors attempted",
+      "mentions": 4
+    },
+    {
+      "keyword": "enables bad actors",
       "mentions": 2
+    },
+    {
+      "keyword": "unpatched ios devices",
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2569
+      "mentions": 2570
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 590
+      "mentions": 591
     },
     {
       "keyword": "sophisticated cybercrime syndicate",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "comic streaming sites",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "campaign uses etherhiding",
-      "mentions": 2
-    },
-    {
-      "keyword": "software giant fixed",
-      "mentions": 200
+      "mentions": 3
     }
   ],
   "articles": [
@@ -238,6 +238,15 @@
     },
     {
       "source": "Krebs on Security",
+      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+      "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verification company based in Louisiana. KrebsOnSecurity also has learned that the New Orleans field office of the Federal Bureau of Investigation (FBI) today",
+      "published": "Tue, 01 Sep 2026 22:40:28 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
       "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
       "link": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
       "summary": "Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In a statement released today, the Australian Federal Police (AFP) said two unnamed suspects from Western Australia, aged 21 and 23, were arrested in connection with a \"sophisticated cybercrime syndicate that allegedly created malicious open-source software to rob thousands of glob",
@@ -305,15 +314,14 @@
       ]
     },
     {
-      "source": "Krebs on Security",
-      "title": "Lessons Learned from CISA’s Recent GitHub Leak",
-      "link": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response provide important lessons that all security teams should absorb.",
-      "published": "Mon, 13 Jul 2026 15:03:28 +0000",
-      "value_score": 74,
+      "source": "Dark Reading",
+      "title": "Old, Unpatched Flaws Give Attackers Access to Philippines Nuclear Agency",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/old-unpatched-flaws-attackers-philippines-nuclear-agency",
+      "summary": "Threat actors exploited commodity in ownCloud to gain initial access, resulting in stolen reactor databases, personnel records, and credential stores.",
+      "published": "Wed, 02 Sep 2026 01:00:00 GMT",
+      "value_score": 16,
       "value_signals": [
-        "Breach/leak ×2",
-        "CISA/KEV ×3"
+        "Exploit wording"
       ]
     },
     {
@@ -390,17 +398,6 @@
       "published": "Mon, 31 Aug 2026 20:25:36 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "The Guardrails Debate: Security Researcher Changes His Mind",
-      "link": "https://www.darkreading.com/cyber-risk/the-guardrails-debate-security-researcher-changes-his-mind",
-      "summary": "While guardrails are critical, as evidenced by recent high-profile incidents, defenders need help staying ahead of attackers who do not play by the rules.",
-      "published": "Mon, 31 Aug 2026 20:09:24 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
     },
     {
       "source": "Security Week",

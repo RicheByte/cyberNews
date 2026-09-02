@@ -324,7 +324,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2570,
+      "count": 2571,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1996,7 +1996,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 591,
+      "count": 592,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -22339,7 +22339,7 @@
       ]
     },
     "disclosure threat actors": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-07",
         "2026-09-01",
@@ -23336,7 +23336,7 @@
       ]
     },
     "software almost triple": {
-      "count": 177,
+      "count": 178,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23420,7 +23420,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 201,
+      "count": 202,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -24615,7 +24615,7 @@
       ]
     },
     "turn one's television": {
-      "count": 225,
+      "count": 226,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -28758,7 +28758,7 @@
       ]
     },
     "statement released today": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-08-31",
         "2026-09-01",
@@ -28813,7 +28813,7 @@
       ]
     },
     "sophisticated cybercrime syndicate": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-08-31",
         "2026-09-01",
@@ -28911,7 +28911,7 @@
       ]
     },
     "ai takes hours": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-01",
         "2026-09-02"
@@ -28924,28 +28924,28 @@
       ]
     },
     "unpatched ios devices": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-01",
         "2026-09-02"
       ]
     },
     "comic streaming sites": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-01",
         "2026-09-02"
       ]
     },
     "campaign uses etherhiding": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-01",
         "2026-09-02"
       ]
     },
     "building ai applications": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-01",
         "2026-09-02"
@@ -28958,14 +28958,14 @@
       ]
     },
     "want repeatable ones": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-01",
         "2026-09-02"
       ]
     },
     "enables bad actors": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-01",
         "2026-09-02"
@@ -28978,7 +28978,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-02"
       ]
@@ -28988,20 +28988,33 @@
       "dates": [
         "2026-09-02"
       ]
+    },
+    "peer p2p botnet": {
+      "count": 1,
+      "dates": [
+        "2026-09-02"
+      ]
+    },
+    "cve 2026 83548": {
+      "count": 1,
+      "dates": [
+        "2026-09-02"
+      ]
+    },
+    "cve 2026 0768": {
+      "count": 1,
+      "dates": [
+        "2026-09-02"
+      ]
+    },
+    "august 31 2026": {
+      "count": 1,
+      "dates": [
+        "2026-09-02"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-20 14:29",
-      "articles": 48,
-      "top_keywords": [
-        "remote code execution",
-        "critical netscaler flaw",
-        "send http requests",
-        "cve 2026 19478",
-        "android banking malware"
-      ]
-    },
     {
       "timestamp": "2026-08-20 16:27",
       "articles": 48,
@@ -30088,6 +30101,17 @@
         "gain unauthorized access",
         "external actors attempted",
         "enables bad actors",
+        "unpatched ios devices"
+      ]
+    },
+    {
+      "timestamp": "2026-09-02 08:18",
+      "articles": 48,
+      "top_keywords": [
+        "individuals whose licenses",
+        "peer p2p botnet",
+        "cve 2026 83548",
+        "cve 2026 0768",
         "unpatched ios devices"
       ]
     }

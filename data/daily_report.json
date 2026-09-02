@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-02 02:28",
+  "last_updated": "2026-09-02 08:18",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "individuals whose licenses",
-    "gain unauthorized access",
-    "external actors attempted",
-    "enables bad actors",
+    "peer p2p botnet",
+    "cve 2026 83548",
+    "cve 2026 0768",
     "unpatched ios devices",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
@@ -15,58 +15,96 @@
     "campaign uses etherhiding",
     "software giant fixed",
     "software almost triple",
-    "cybersecurity giant announced",
-    "building ai applications",
-    "ai takes hours",
+    "enables bad actors",
+    "august 31 2026",
     "disclosure threat actors",
     "statement released today",
+    "building ai applications",
+    "ai takes hours",
     "want repeatable ones",
-    "turn one's television",
-    "text history records"
+    "turn one's television"
   ],
   "trending": [
     {
       "keyword": "individuals whose licenses",
-      "mentions": 1
-    },
-    {
-      "keyword": "gain unauthorized access",
-      "mentions": 64
-    },
-    {
-      "keyword": "external actors attempted",
-      "mentions": 4
-    },
-    {
-      "keyword": "enables bad actors",
       "mentions": 2
     },
     {
+      "keyword": "peer p2p botnet",
+      "mentions": 1
+    },
+    {
+      "keyword": "cve 2026 83548",
+      "mentions": 1
+    },
+    {
+      "keyword": "cve 2026 0768",
+      "mentions": 1
+    },
+    {
       "keyword": "unpatched ios devices",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2570
+      "mentions": 2571
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 591
+      "mentions": 592
     },
     {
       "keyword": "sophisticated cybercrime syndicate",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "comic streaming sites",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "campaign uses etherhiding",
-      "mentions": 3
+      "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another",
+      "link": "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html",
+      "summary": "Forescout Research - Vedere Labs said it used Anthropic's Claude to port a working pre-authentication remote code execution (RCE) exploit from one WAGO programmable logic controller (PLC) to another, executing attacker-supplied ARM shellcode on live hardware. The exploit targets CVE-2021-31886, a stack-based buffer overflow in the Nucleus FTP server's handling of the USER command",
+      "published": "Wed, 02 Sep 2026 13:17:13 +0530",
+      "value_score": 74,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE ×3",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html",
+      "summary": "Threat actors are exploiting a severe security vulnerability in Sangoma Switchvox, an enterprise VoIP platform, that could allow unauthenticated remote code execution. The vulnerability in question is CVE-2026-9586 (CVSS score: 9.3), a critical unauthenticated SQL injection vulnerability in Sangoma Switchvox SMB Edition 8.3 (104997) that can allow attackers to remotely execute arbitrary code as",
+      "published": "Wed, 02 Sep 2026 12:38:50 +0530",
+      "value_score": 70,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads",
+      "link": "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html",
+      "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the takedown of a long-standing peer-to-peer (P2P) botnet known as Sality as part of a coordinated law enforcement operation. The effort was undertaken on August 31, 2026, by authorities from the U.S., Bulgaria, Hungary, and Romania, in collaboration with private industry partners CrowdStrike and the Shadowserver Foundation. To that",
+      "published": "Wed, 02 Sep 2026 12:26:30 +0530",
+      "value_score": 20,
+      "value_signals": [
+        "Botnet"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
@@ -118,34 +156,27 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Attackers Steal METR API Key and Consume AI Credits Worth About $600,000",
-      "link": "https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html",
-      "summary": "METR (short for Model Evaluation and Threat Research and pronounced \"Meter\"), a research non-profit that evaluates frontier artificial intelligence (AI) models for their ability to carry out long-horizon, agentic tasks, disclosed that it suffered \"two notable security incidents\" where external actors attempted to gain unauthorized access to its systems. No sensitive information is believed to",
-      "published": "Tue, 01 Sep 2026 14:35:30 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis",
-      "link": "https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html",
-      "summary": "Cybersecurity researchers have disclosed a new technique dubbed GuardBreaker that's been put to use by a Russia-aligned threat actor known as UAC-0099 against a target in Ukraine with an aim to interfere with artificial intelligence (AI)-assisted analysis. The idea, ESET said in a series of posts on X, is to deliberately trip a large language model's (LLM) safety mechanisms and prevent its",
-      "published": "Tue, 01 Sep 2026 13:56:24 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html",
-      "summary": "Threat actors are exploiting two critical flaws impacting Langflow and Ruby on Rails, according to new findings from VulnCheck. The vulnerabilities in question are listed below - CVE-2026-0768 (CVSS score: 9.8) - A lack of proper validation of a user-supplied input vulnerability that could be exploited to execute arbitrary Python code in the context of the root user. CVE-2026-66066 aka",
-      "published": "Tue, 01 Sep 2026 12:52:30 +0530",
-      "value_score": 76,
+      "source": "BleepingComputer",
+      "title": "Sality botnet infrastructure dismantled in joint global takedown",
+      "link": "https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/",
+      "summary": "International law enforcement agencies and private partners have seized Sality malware infrastructure in a joint action aiming to disrupt and take down the peer-to-peer (P2P) botnet. [...]",
+      "published": "Wed, 02 Sep 2026 04:00:43 -0400",
+      "value_score": 30,
       "value_signals": [
-        "CVE mentioned ×2",
-        "High severity ×2",
-        "Multiple CVEs",
+        "Botnet ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "SonicWall warns of actively exploited SMA1000 zero-day flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/",
+      "summary": "SonicWall warned customers that threat actors are chaining two new SMA1000 zero-day vulnerabilities in remote code execution attacks. [...]",
+      "published": "Wed, 02 Sep 2026 02:39:29 -0400",
+      "value_score": 100,
+      "value_signals": [
+        "Zero-day ×2",
+        "Active exploitation",
+        "RCE",
         "Exploit wording"
       ]
     },
@@ -213,26 +244,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/why-even-the-best-edge-security-still-misses-high-risk-sessions/",
       "summary": "Attackers can hide behind residential proxies, VPNs, and other infrastructure that makes malicious sessions appear legitimate to existing edge security controls. Spur explains how session enrichment adds data points that help organizations identify risky sessions and make stronger enforcement decisions. [...]",
       "published": "Tue, 01 Sep 2026 10:01:11 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Nearly 22,000 Microsoft Exchange servers vulnerable to hijack attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/nearly-22-000-microsoft-exchange-servers-vulnerable-to-hijack-attacks/",
-      "summary": "Nearly 22,000 Microsoft Exchange servers exposed online remain unpatched against a high-severity authentication bypass vulnerability that allows attackers to hijack all user mailboxes. [...]",
-      "published": "Tue, 01 Sep 2026 08:38:35 -0400",
-      "value_score": 25,
-      "value_signals": [
-        "Auth bypass"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Five Venezuelans plead guilty to ATM jackpotting attacks in US",
-      "link": "https://www.bleepingcomputer.com/news/security/five-venezuelans-plead-guilty-to-atm-jackpotting-attacks-in-us/",
-      "summary": "Five Venezuelan nationals pleaded guilty to attempting to empty automated teller machines (ATMs) using malware in a series of ATM jackpotting attacks. [...]",
-      "published": "Tue, 01 Sep 2026 05:15:07 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -401,6 +412,20 @@
     },
     {
       "source": "Security Week",
+      "title": "SonicWall Warns of Two SMA1000 Zero-Days Exploited in Attacks",
+      "link": "https://www.securityweek.com/sonicwall-warns-of-two-sma1000-zero-days-exploited-in-attacks/",
+      "summary": "The vulnerabilities CVE-2026-83549 and CVE-2026-83548 can be chained for unauthenticated remote code execution. The post SonicWall Warns of Two SMA1000 Zero-Days Exploited in Attacks appeared first on SecurityWeek .",
+      "published": "Wed, 02 Sep 2026 05:04:52 +0000",
+      "value_score": 80,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "RCE",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Palo Alto Networks Acquires AI Agent Platform Console",
       "link": "https://www.securityweek.com/palo-alto-networks-acquires-ai-agent-platform-console/",
       "summary": "The cybersecurity giant announced the acquisition alongside quarterly results showing a 34% increase in revenue and strong growth in next-generation security ARR. The post Palo Alto Networks Acquires AI Agent Platform Console appeared first on SecurityWeek .",
@@ -470,21 +495,6 @@
       "value_signals": [
         "Ransomware ×2",
         "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Critical JFrog Artifactory Vulnerability Reportedly Exploited in the Wild",
-      "link": "https://www.securityweek.com/critical-jfrog-artifactory-vulnerability-reportedly-exploited-in-the-wild/",
-      "summary": "Exploitation of the authentication bypass vulnerability CVE-2026-82329 started just days after its public disclosure. The post Critical JFrog Artifactory Vulnerability Reportedly Exploited in the Wild appeared first on SecurityWeek .",
-      "published": "Tue, 01 Sep 2026 09:59:44 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "Active exploitation ×2",
-        "Auth bypass",
-        "High severity ×2",
-        "Exploit wording"
       ]
     },
     {

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-02 02:28 UTC |
+| 🕐 Last Updated | 2026-09-02 08:18 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`individuals whose licenses` • `gain unauthorized access` • `external actors attempted` • `enables bad actors` • `unpatched ios devices` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `sophisticated cybercrime syndicate` • `comic streaming sites` • `campaign uses etherhiding`
+`individuals whose licenses` • `peer p2p botnet` • `cve 2026 83548` • `cve 2026 0768` • `unpatched ios devices` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `sophisticated cybercrime syndicate` • `comic streaming sites` • `campaign uses etherhiding`
 
 ## 📄 Reports
 

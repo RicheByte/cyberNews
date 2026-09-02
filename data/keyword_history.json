@@ -324,7 +324,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2572,
+      "count": 2573,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -24671,11 +24671,12 @@
       ]
     },
     "unauthorized party accessed": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-23",
         "2026-07-24",
-        "2026-07-30"
+        "2026-07-30",
+        "2026-09-02"
       ]
     },
     "us ukraine targets": {
@@ -29017,37 +29018,37 @@
       ]
     },
     "fake software updates": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-02"
       ]
     },
     "rockwell automation patches": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-02"
       ]
     },
     "4 2 17": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-02"
       ]
     },
     "anthropic details response": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-02"
       ]
     },
     "mistakenly block access": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-02"
       ]
     },
     "july 8 2026": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-02"
       ]
@@ -29069,20 +29070,81 @@
       "dates": [
         "2026-09-02"
       ]
+    },
+    "provide administrative access": {
+      "count": 1,
+      "dates": [
+        "2026-09-02"
+      ]
+    },
+    "collect session information": {
+      "count": 1,
+      "dates": [
+        "2026-09-02"
+      ]
+    },
+    "6 point checklist": {
+      "count": 1,
+      "dates": [
+        "2026-09-02"
+      ]
+    },
+    "diverted update traffic": {
+      "count": 1,
+      "dates": [
+        "2026-09-02"
+      ]
+    },
+    "united nations food": {
+      "count": 1,
+      "dates": [
+        "2026-09-02"
+      ]
+    },
+    "sonicwall's william perry": {
+      "count": 1,
+      "dates": [
+        "2026-09-02"
+      ]
+    },
+    "secure enterprise ai": {
+      "count": 1,
+      "dates": [
+        "2026-09-02"
+      ]
+    },
+    "restoring operations quickly": {
+      "count": 1,
+      "dates": [
+        "2026-09-02"
+      ]
+    },
+    "project shipped fixes": {
+      "count": 1,
+      "dates": [
+        "2026-09-02"
+      ]
+    },
+    "privilege escalation bugs": {
+      "count": 1,
+      "dates": [
+        "2026-09-02"
+      ]
+    },
+    "preserving recovery points": {
+      "count": 1,
+      "dates": [
+        "2026-09-02"
+      ]
+    },
+    "joint action aiming": {
+      "count": 1,
+      "dates": [
+        "2026-09-02"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-20 18:30",
-      "articles": 48,
-      "top_keywords": [
-        "remote code execution",
-        "critical netscaler flaw",
-        "hugging face incident",
-        "attacks cert polska",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-08-20 20:20",
       "articles": 48,
@@ -30170,6 +30232,17 @@
         "individuals whose licenses",
         "cve 2026 83548",
         "4 2 17"
+      ]
+    },
+    {
+      "timestamp": "2026-09-02 19:09",
+      "articles": 40,
+      "top_keywords": [
+        "rockwell automation patches",
+        "fake software updates",
+        "4 2 17",
+        "provide administrative access",
+        "anthropic details response"
       ]
     }
   ]

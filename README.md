@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-02 14:00 UTC |
-| 📰 Articles Analyzed | 48 |
+| 🕐 Last Updated | 2026-09-02 19:09 UTC |
+| 📰 Articles Analyzed | 40 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`fake software updates` • `rockwell automation patches` • `individuals whose licenses` • `cve 2026 83548` • `4 2 17` • `anthropic details response` • `twitter whistleblower complaint` • `turn one's television` • `sophisticated cybercrime syndicate` • `software almost triple`
+`rockwell automation patches` • `fake software updates` • `4 2 17` • `provide administrative access` • `anthropic details response` • `twitter whistleblower complaint` • `collect session information` • `6 point checklist` • `diverted update traffic` • `mistakenly block access`
 
 ## 📄 Reports
 

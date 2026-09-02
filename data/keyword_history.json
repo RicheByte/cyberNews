@@ -324,7 +324,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2573,
+      "count": 2574,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -4275,7 +4275,7 @@
       ]
     },
     "released security updates": {
-      "count": 124,
+      "count": 125,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -13866,12 +13866,13 @@
       ]
     },
     "sql injection vulnerability": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-14",
         "2026-04-15",
         "2026-05-25",
-        "2026-05-27"
+        "2026-05-27",
+        "2026-09-02"
       ]
     },
     "high impact vulnerabilities": {
@@ -23337,7 +23338,7 @@
       ]
     },
     "software almost triple": {
-      "count": 179,
+      "count": 180,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23817,7 +23818,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 138,
+      "count": 139,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -24617,7 +24618,7 @@
       ]
     },
     "turn one's television": {
-      "count": 227,
+      "count": 228,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -24671,7 +24672,7 @@
       ]
     },
     "unauthorized party accessed": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-07-23",
         "2026-07-24",
@@ -27211,7 +27212,7 @@
       ]
     },
     "who's harvesting data": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-14",
         "2026-08-19",
@@ -28969,7 +28970,7 @@
       ]
     },
     "enables bad actors": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-01",
         "2026-09-02"
@@ -28982,7 +28983,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-02"
       ]
@@ -29018,13 +29019,13 @@
       ]
     },
     "fake software updates": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-02"
       ]
     },
     "rockwell automation patches": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-02"
       ]
@@ -29036,13 +29037,13 @@
       ]
     },
     "anthropic details response": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-02"
       ]
     },
     "mistakenly block access": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-02"
       ]
@@ -29054,7 +29055,7 @@
       ]
     },
     "vulnerabilities discovered internally": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-02"
       ]
@@ -29072,7 +29073,7 @@
       ]
     },
     "provide administrative access": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-02"
       ]
@@ -29084,13 +29085,13 @@
       ]
     },
     "6 point checklist": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-02"
       ]
     },
     "diverted update traffic": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-02"
       ]
@@ -29142,20 +29143,21 @@
       "dates": [
         "2026-09-02"
       ]
+    },
+    "access programs google": {
+      "count": 1,
+      "dates": [
+        "2026-09-02"
+      ]
+    },
+    "vendor's edge devices": {
+      "count": 1,
+      "dates": [
+        "2026-09-02"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-20 20:20",
-      "articles": 48,
-      "top_keywords": [
-        "critical netscaler flaw",
-        "think tanks within",
-        "hugging face incident",
-        "critical security flaw",
-        "ai security company"
-      ]
-    },
     {
       "timestamp": "2026-08-20 22:20",
       "articles": 48,
@@ -30243,6 +30245,17 @@
         "4 2 17",
         "provide administrative access",
         "anthropic details response"
+      ]
+    },
+    {
+      "timestamp": "2026-09-02 22:15",
+      "articles": 48,
+      "top_keywords": [
+        "sql injection vulnerability",
+        "fake software updates",
+        "rockwell automation patches",
+        "vulnerability discoveries aided",
+        "twitter whistleblower complaint"
       ]
     }
   ]

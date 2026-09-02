@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-09-02 19:09",
+  "last_updated": "2026-09-02 22:15",
   "sources_count": 8,
-  "articles_count": 40,
+  "articles_count": 48,
   "keywords": [
-    "rockwell automation patches",
+    "sql injection vulnerability",
     "fake software updates",
-    "4 2 17",
-    "provide administrative access",
-    "anthropic details response",
+    "rockwell automation patches",
+    "vulnerability discoveries aided",
     "twitter whistleblower complaint",
-    "collect session information",
-    "6 point checklist",
+    "turn one's television",
+    "individuals whose licenses",
+    "enables bad actors",
     "diverted update traffic",
+    "anthropic details response",
+    "6 point checklist",
+    "released security updates",
+    "software almost triple",
+    "who's harvesting data",
+    "provide administrative access",
     "mistakenly block access",
-    "united nations food",
-    "unauthorized party accessed",
-    "sonicwall's william perry",
-    "secure enterprise ai",
-    "restoring operations quickly",
-    "project shipped fixes",
-    "privilege escalation bugs",
-    "preserving recovery points",
-    "july 8 2026",
-    "joint action aiming"
+    "access programs google",
+    "vulnerabilities discovered internally",
+    "vendor's edge devices",
+    "unauthorized party accessed"
   ],
   "trending": [
     {
-      "keyword": "rockwell automation patches",
-      "mentions": 2
+      "keyword": "sql injection vulnerability",
+      "mentions": 9
     },
     {
       "keyword": "fake software updates",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "4 2 17",
-      "mentions": 2
+      "keyword": "rockwell automation patches",
+      "mentions": 3
     },
     {
-      "keyword": "provide administrative access",
-      "mentions": 1
-    },
-    {
-      "keyword": "anthropic details response",
-      "mentions": 2
+      "keyword": "vulnerability discoveries aided",
+      "mentions": 139
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2573
+      "mentions": 2574
     },
     {
-      "keyword": "collect session information",
-      "mentions": 1
+      "keyword": "turn one's television",
+      "mentions": 228
     },
     {
-      "keyword": "6 point checklist",
-      "mentions": 1
+      "keyword": "individuals whose licenses",
+      "mentions": 4
+    },
+    {
+      "keyword": "enables bad actors",
+      "mentions": 5
     },
     {
       "keyword": "diverted update traffic",
-      "mentions": 1
+      "mentions": 2
     },
     {
-      "keyword": "mistakenly block access",
-      "mentions": 2
+      "keyword": "anthropic details response",
+      "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs",
+      "link": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
+      "summary": "Google on Wednesday announced Gemini 3.8 Flash Cyber, which it described as its most capable cybersecurity model, and has made it available to a set of trusted defenders via a new initiative called the Fairwind Program. \"The Fairwind Program gives high-priority defenders (like governments, healthcare providers, and telecommunications services) early access to advanced models that help them",
+      "published": "Wed, 02 Sep 2026 23:57:49 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Fake Software Installers Disable Windows Update and Weaken Microsoft Defender",
@@ -141,15 +150,26 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends",
-      "link": "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html",
-      "summary": "Two vulnerabilities in GeoNetwork can be chained to achieve unauthenticated remote code execution (RCE) on the open-source geospatial metadata catalog, which sits behind many government and agency geoportals. The project shipped fixes in versions 4.4.12 and 4.2.17 on July 8, 2026, and published the vulnerability details on August 31. GeoNetwork originated at the United Nations Food and",
-      "published": "Wed, 02 Sep 2026 14:48:02 +0530",
-      "value_score": 50,
+      "source": "BleepingComputer",
+      "title": "Hackers exploit Sangoma Switchvox flaw to deploy reverse shells",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/",
+      "summary": "Attackers are actively exploiting CVE-2026-9586, an unauthenticated SQL injection vulnerability in the Sangoma Switchvox VoIP platform that can lead to remote code execution. [...]",
+      "published": "Wed, 02 Sep 2026 17:00:13 -0400",
+      "value_score": 54,
       "value_signals": [
-        "RCE ×3"
+        "CVE mentioned",
+        "RCE",
+        "Exploit wording"
       ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "WordPress backup plugin flaw exposes millions of sites to takeover attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/",
+      "summary": "An SQL injection vulnerability in the All-in-One WP Migration and Backup plugin for WordPress could allow unauthenticated attackers to execute remote code and take control of affected websites. [...]",
+      "published": "Wed, 02 Sep 2026 15:28:46 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -219,29 +239,112 @@
       ]
     },
     {
-      "source": "BleepingComputer",
-      "title": "SonicWall warns of actively exploited SMA1000 zero-day flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/",
-      "summary": "SonicWall warned customers that threat actors are chaining two new SMA1000 zero-day vulnerabilities in remote code execution attacks. [...]",
-      "published": "Wed, 02 Sep 2026 02:39:29 -0400",
-      "value_score": 100,
+      "source": "Krebs on Security",
+      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+      "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verification company based in Louisiana. KrebsOnSecurity also has learned that the New Orleans field office of the Federal Bureau of Investigation (FBI) today",
+      "published": "Tue, 01 Sep 2026 22:40:28 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
+      "link": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
+      "summary": "Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In a statement released today, the Australian Federal Police (AFP) said two unnamed suspects from Western Australia, aged 21 and 23, were arrested in connection with a \"sophisticated cybercrime syndicate that allegedly created malicious open-source software to rob thousands of glob",
+      "published": "Thu, 27 Aug 2026 11:04:15 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Who’s Tracking You? Use This New Service to Find Out",
+      "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
+      "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large advertising platforms. Not anymore: A powerful and free new service called DecryptAds scrapes and correlates this adtech data and makes it simple to quickly learn a great deal about the entities that",
+      "published": "Fri, 14 Aug 2026 11:24:35 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Microsoft Plugs Nearly 400 Security Holes",
+      "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
+      "summary": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today.",
+      "published": "Tue, 11 Aug 2026 21:28:35 +0000",
+      "value_score": 41,
       "value_signals": [
-        "Zero-day ×2",
         "Active exploitation",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
+      "link": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
+      "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&T customers.",
+      "published": "Thu, 06 Aug 2026 17:00:56 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Read This Before You Buy That TV Streaming Stick",
+      "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a groundbreaking new analysis finds these devices also routinely spoof themselves as mobile phones clicking ads on AI-generated websites as part of sprawling operation that seeks to defraud online merchants and advertising networks.",
+      "published": "Thu, 30 Jul 2026 16:49:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "LG to Ban Residential Proxies from Smart TV Apps",
+      "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+      "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers found that more than 42 percent of games and other apps available for download on LG's webOS store allow unknown third-parties to route their Internet traffic through a user's TV.",
+      "published": "Wed, 22 Jul 2026 01:10:38 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Microsoft Patches a Record 570 Security Flaws",
+      "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+      "summary": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning patch counts to vulnerability discoveries aided by artificial intelligence.",
+      "published": "Tue, 14 Jul 2026 19:22:42 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×3"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "AI’s Vulnerability Surge May Be More Manageable Than First Feared",
+      "link": "https://www.darkreading.com/application-security/ai-vulnerability-surge-manageable-than-first-feared",
+      "summary": "New research suggests the coming Vulnpocalypse may not be so overwhelming for enterprise security teams — if they have the right strategies.",
+      "published": "Wed, 02 Sep 2026 21:14:06 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "SonicWall SMA 1000 Zero-Days Enable Unauthenticated RCE",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/sonicwall-sma-1000-zero-days-unauthenticated-rce",
+      "summary": "The exploitation activity follows attacks earlier this summer on two other zero-day vulnerabilities in the vendor's edge devices.",
+      "published": "Wed, 02 Sep 2026 20:43:59 GMT",
+      "value_score": 61,
+      "value_signals": [
+        "Zero-day",
         "RCE",
         "Exploit wording"
       ]
     },
     {
-      "source": "BleepingComputer",
-      "title": "Hackers abuse Faronics Deploy admin tool to install ScreenConnect",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/",
-      "summary": "Phishing actors are abusing the legitimate Faronics Deploy endpoint-management platform to gain remote administrative control over victim computers and install the ScreenConnect remote support software. [...]",
-      "published": "Tue, 01 Sep 2026 16:53:23 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
+      "source": "Dark Reading",
+      "title": "AI Gives Cybercriminals a Dangerous Time Advantage",
+      "link": "https://www.darkreading.com/threat-intelligence/ai-gives-cybercriminals-dangerous-time-advantage",
+      "summary": "Former cybercriminal Brett Johnson provides a look inside the mind of a threat actor and discusses where AI provides the most value for attackers.",
+      "published": "Wed, 02 Sep 2026 19:46:31 GMT",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Dark Reading",
@@ -301,31 +404,11 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "AI Model Evaluator METR Hit by Credential Theft, Probing",
-      "link": "https://www.darkreading.com/identity-access-management-security/ai-model-evaluator-metr-credential-theft-probing",
-      "summary": "In one attack, threat actors stole an API key that ultimately led to the consumption of $600,000 in public AI model credits for the security nonprofit.",
-      "published": "Tue, 01 Sep 2026 20:13:09 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "ClickFix Campaign Compromises 31 Orgs, Abuses Polygon Blockchain",
-      "link": "https://www.darkreading.com/endpoint-security/clickfix-campaign-comprises-31-orgs-abuses-polygon-blockchain",
-      "summary": "The campaign uses EtherHiding to dynamically update its command-and-control server, abusing the blockchain as an attacker-controlled address book.",
-      "published": "Tue, 01 Sep 2026 13:56:42 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Anthropic Users Hit by Infostealer Attacks, Session Thefts",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-users-infostealer-attacks-session-thefts",
-      "summary": "A threat actor used a variety of infostealers to collect session information and access Claude accounts belonging to an unknown number of users.",
-      "published": "Mon, 31 Aug 2026 21:08:46 GMT",
+      "source": "Security Week",
+      "title": "OpenLeash Adds a Human Check to Risky AI Agent Actions",
+      "link": "https://www.securityweek.com/openleash-adds-a-human-check-to-risky-ai-agent-actions/",
+      "summary": "The security tool intercepts potentially dangerous agent actions, blocking clear threats and requesting human approval when intent is uncertain. The post OpenLeash Adds a Human Check to Risky AI Agent Actions appeared first on SecurityWeek .",
+      "published": "Wed, 02 Sep 2026 19:30:00 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -403,17 +486,6 @@
       "value_signals": [
         "Privilege escalation",
         "Patch/update ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "23-Year-Old Sality P2P Botnet Disrupted",
-      "link": "https://www.securityweek.com/23-year-old-sality-p2p-botnet-disrupted/",
-      "summary": "The shutdown operation involved peer list manipulation and Sality payload URL takedown. The post 23-Year-Old Sality P2P Botnet Disrupted appeared first on SecurityWeek .",
-      "published": "Wed, 02 Sep 2026 08:38:00 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×2"
       ]
     },
     {

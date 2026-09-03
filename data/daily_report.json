@@ -1,72 +1,98 @@
 {
-  "last_updated": "2026-09-03 02:36",
+  "last_updated": "2026-09-03 08:28",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "sql injection vulnerability",
     "fake software updates",
+    "sql injection vulnerability",
+    "anthropic details response",
     "rockwell automation patches",
+    "access programs google",
     "vulnerability discoveries aided",
     "twitter whistleblower complaint",
     "turn one's television",
     "individuals whose licenses",
     "enables bad actors",
     "diverted update traffic",
-    "anthropic details response",
     "6 point checklist",
-    "released security updates",
     "software almost triple",
+    "remote code execution",
+    "execute remote code",
     "who's harvesting data",
     "provide administrative access",
     "mistakenly block access",
-    "access programs google",
-    "vulnerabilities discovered internally",
     "vendor's edge devices",
     "unauthorized party accessed"
   ],
   "trending": [
     {
-      "keyword": "sql injection vulnerability",
-      "mentions": 10
-    },
-    {
       "keyword": "fake software updates",
-      "mentions": 4
-    },
-    {
-      "keyword": "rockwell automation patches",
-      "mentions": 4
-    },
-    {
-      "keyword": "vulnerability discoveries aided",
-      "mentions": 140
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2575
-    },
-    {
-      "keyword": "turn one's television",
-      "mentions": 229
-    },
-    {
-      "keyword": "individuals whose licenses",
       "mentions": 5
     },
     {
-      "keyword": "enables bad actors",
-      "mentions": 6
-    },
-    {
-      "keyword": "diverted update traffic",
-      "mentions": 3
+      "keyword": "sql injection vulnerability",
+      "mentions": 11
     },
     {
       "keyword": "anthropic details response",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "rockwell automation patches",
+      "mentions": 5
+    },
+    {
+      "keyword": "access programs google",
+      "mentions": 3
+    },
+    {
+      "keyword": "vulnerability discoveries aided",
+      "mentions": 141
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2576
+    },
+    {
+      "keyword": "turn one's television",
+      "mentions": 230
+    },
+    {
+      "keyword": "individuals whose licenses",
+      "mentions": 6
+    },
+    {
+      "keyword": "enables bad actors",
+      "mentions": 7
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon",
+      "link": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
+      "summary": "The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a privilege escalation flaw impacting Crowdstrike Falcon. \"FalconFlank is a 0day privilege escalation that abuses the office malicious macros remediation in CrowdStrike Falcon Sensor,\" the researcher said in a GitHub README file, adding",
+      "published": "Thu, 03 Sep 2026 11:56:59 +0530",
+      "value_score": 94,
+      "value_signals": [
+        "Zero-day ×2",
+        "Privilege escalation ×3",
+        "PoC available"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
+      "link": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added seven security flaws to its Known Exploited Vulnerabilities (KEV) catalog after they landed in attackers' crosshairs. The vulnerabilities are as follows - CVE-2026-83548 (CVSS score: 10.0) - A server-side request forgery vulnerability in SonicWall SMA 1000 Appliances that could allow a remote unauthenticated",
+      "published": "Thu, 03 Sep 2026 10:49:04 +0530",
+      "value_score": 74,
+      "value_signals": [
+        "CVE mentioned",
+        "CISA/KEV ×4",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs",
@@ -126,28 +152,6 @@
       "published": "Wed, 02 Sep 2026 17:52:02 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "How to Secure Enterprise AI: From Adoption to Incident Readiness",
-      "link": "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html",
-      "summary": "The debate about whether AI delivers business value is over. The challenge now is implementing it at scale and securely across every function while meeting board-level pressure to move fast. Organizations must focus on adopting AI at business speed without losing control of cyber risk. Download the full eBook here. The Business Reality In Sygnia’s 2026 CISO Survey Report, which",
-      "published": "Wed, 02 Sep 2026 17:00:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html",
-      "summary": "SonicWall has released security updates to address two security flaws impacting its Secure Mobile Access (SMA) 1000 series VPN appliances that have been exploited in zero-day attacks. The vulnerabilities, discovered internally by SonicWall's William Perry and Adam Babis, are listed below - CVE-2026-83548 (CVSS score: 10.0) - A pre-authentication SSRF vulnerability in the Appliance",
-      "published": "Wed, 02 Sep 2026 16:23:49 +0530",
-      "value_score": 59,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day",
-        "Exploit wording"
-      ]
     },
     {
       "source": "BleepingComputer",

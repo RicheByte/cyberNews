@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-03 02:36 UTC  
+> **Last Updated:** 2026-09-03 08:28 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**sql injection vulnerability** • **fake software updates** • **rockwell automation patches** • **vulnerability discoveries aided** • **twitter whistleblower complaint** • **turn one's television** • **individuals whose licenses** • **enables bad actors** • **diverted update traffic** • **anthropic details response** • **6 point checklist** • **released security updates** • **software almost triple** • **who's harvesting data** • **provide administrative access** • **mistakenly block access** • **access programs google** • **vulnerabilities discovered internally** • **vendor's edge devices** • **unauthorized party accessed**
+**fake software updates** • **sql injection vulnerability** • **anthropic details response** • **rockwell automation patches** • **access programs google** • **vulnerability discoveries aided** • **twitter whistleblower complaint** • **turn one's television** • **individuals whose licenses** • **enables bad actors** • **diverted update traffic** • **6 point checklist** • **software almost triple** • **remote code execution** • **execute remote code** • **who's harvesting data** • **provide administrative access** • **mistakenly block access** • **vendor's edge devices** • **unauthorized party accessed**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon](https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html)
+- [CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners](https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html)
 - [Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs](https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html)
 - [Fake Software Installers Disable Windows Update and Weaken Microsoft Defender](https://thehackernews.com/2026/09/fake-software-installers-disable.html)
 - [Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code](https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html)
 - [Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages](https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html)
 - [BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access](https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html)
 - [Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control](https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html)
-- [How to Secure Enterprise AI: From Adoption to Incident Readiness](https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html)
-- [Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain](https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html)
 
 ### BleepingComputer
 

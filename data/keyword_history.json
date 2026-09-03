@@ -324,7 +324,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2575,
+      "count": 2576,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -882,7 +882,7 @@
       ]
     },
     "remote code execution": {
-      "count": 495,
+      "count": 496,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -970,7 +970,8 @@
         "2026-08-06",
         "2026-08-20",
         "2026-08-21",
-        "2026-08-26"
+        "2026-08-26",
+        "2026-09-03"
       ]
     },
     "attacker remotely control": {
@@ -13868,7 +13869,7 @@
       ]
     },
     "sql injection vulnerability": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-14",
         "2026-04-15",
@@ -19428,10 +19429,11 @@
       ]
     },
     "execute remote code": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-08",
-        "2026-06-09"
+        "2026-06-09",
+        "2026-09-03"
       ]
     },
     "investigating user reports": {
@@ -23341,7 +23343,7 @@
       ]
     },
     "software almost triple": {
-      "count": 181,
+      "count": 182,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23822,7 +23824,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 140,
+      "count": 141,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -24623,7 +24625,7 @@
       ]
     },
     "turn one's television": {
-      "count": 229,
+      "count": 230,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -24678,7 +24680,7 @@
       ]
     },
     "unauthorized party accessed": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-07-23",
         "2026-07-24",
@@ -27219,7 +27221,7 @@
       ]
     },
     "who's harvesting data": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-14",
         "2026-08-19",
@@ -28978,7 +28980,7 @@
       ]
     },
     "enables bad actors": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-09-01",
         "2026-09-02",
@@ -28992,7 +28994,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-02",
         "2026-09-03"
@@ -29029,14 +29031,14 @@
       ]
     },
     "fake software updates": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-02",
         "2026-09-03"
       ]
     },
     "rockwell automation patches": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-02",
         "2026-09-03"
@@ -29049,14 +29051,14 @@
       ]
     },
     "anthropic details response": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-02",
         "2026-09-03"
       ]
     },
     "mistakenly block access": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-02",
         "2026-09-03"
@@ -29088,7 +29090,7 @@
       ]
     },
     "provide administrative access": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-02",
         "2026-09-03"
@@ -29101,14 +29103,14 @@
       ]
     },
     "6 point checklist": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-02",
         "2026-09-03"
       ]
     },
     "diverted update traffic": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-02",
         "2026-09-03"
@@ -29163,14 +29165,14 @@
       ]
     },
     "access programs google": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-02",
         "2026-09-03"
       ]
     },
     "vendor's edge devices": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-02",
         "2026-09-03"
@@ -29178,17 +29180,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-21 00:58",
-      "articles": 48,
-      "top_keywords": [
-        "critical netscaler flaw",
-        "think tanks within",
-        "ai security company",
-        "critical security flaw",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-08-21 02:56",
       "articles": 48,
@@ -30276,6 +30267,17 @@
         "rockwell automation patches",
         "vulnerability discoveries aided",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-09-03 08:28",
+      "articles": 48,
+      "top_keywords": [
+        "fake software updates",
+        "sql injection vulnerability",
+        "anthropic details response",
+        "rockwell automation patches",
+        "access programs google"
       ]
     }
   ]

@@ -324,7 +324,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2577,
+      "count": 2578,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -882,7 +882,7 @@
       ]
     },
     "remote code execution": {
-      "count": 497,
+      "count": 498,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2934,7 +2934,7 @@
       ]
     },
     "unauthenticated remote attacker": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-01-07",
         "2026-01-08",
@@ -2945,7 +2945,8 @@
         "2026-07-30",
         "2026-08-10",
         "2026-08-24",
-        "2026-08-25"
+        "2026-08-25",
+        "2026-09-03"
       ]
     },
     "remote authenticated attacker": {
@@ -9526,10 +9527,11 @@
       ]
     },
     "anthropic confirms claude": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-02",
-        "2026-03-03"
+        "2026-03-03",
+        "2026-09-03"
       ]
     },
     "vulnerable charging stations": {
@@ -23343,7 +23345,7 @@
       ]
     },
     "software almost triple": {
-      "count": 183,
+      "count": 184,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23428,7 +23430,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 202,
+      "count": 203,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -23464,7 +23466,8 @@
         "2026-08-30",
         "2026-08-31",
         "2026-09-01",
-        "2026-09-02"
+        "2026-09-02",
+        "2026-09-03"
       ]
     },
     "windows bind links": {
@@ -27689,9 +27692,10 @@
       ]
     },
     "openai confirms chatgpt": {
-      "count": 7,
+      "count": 8,
       "dates": [
-        "2026-08-20"
+        "2026-08-20",
+        "2026-09-03"
       ]
     },
     "signups fail chatgpt": {
@@ -28980,7 +28984,7 @@
       ]
     },
     "enables bad actors": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-09-01",
         "2026-09-02",
@@ -28994,7 +28998,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-09-02",
         "2026-09-03"
@@ -29179,13 +29183,13 @@
       ]
     },
     "deploy malicious payloads": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-03"
       ]
     },
     "ai runtime security": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-03"
       ]
@@ -29203,25 +29207,25 @@
       ]
     },
     "sophisticated threat group": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-03"
       ]
     },
     "sessions spread malware": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-03"
       ]
     },
     "malware delivery tool": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-03"
       ]
     },
     "canadian targeting due": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-03"
       ]
@@ -29237,20 +29241,39 @@
       "dates": [
         "2026-09-03"
       ]
+    },
+    "large model review": {
+      "count": 1,
+      "dates": [
+        "2026-09-03"
+      ]
+    },
+    "frontier ai agents": {
+      "count": 1,
+      "dates": [
+        "2026-09-03"
+      ]
+    },
+    "june 30 2026": {
+      "count": 1,
+      "dates": [
+        "2026-09-03"
+      ]
+    },
+    "ios xr version": {
+      "count": 1,
+      "dates": [
+        "2026-09-03"
+      ]
+    },
+    "multiple cyber attacks": {
+      "count": 1,
+      "dates": [
+        "2026-09-03"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-21 04:31",
-      "articles": 48,
-      "top_keywords": [
-        "critical netscaler flaw",
-        "think tanks within",
-        "ai security company",
-        "critical security flaw",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-08-21 06:35",
       "articles": 48,
@@ -30338,6 +30361,17 @@
         "deploy malicious payloads",
         "rockwell automation patches",
         "ai runtime security"
+      ]
+    },
+    {
+      "timestamp": "2026-09-03 19:01",
+      "articles": 48,
+      "top_keywords": [
+        "ai runtime security",
+        "large model review",
+        "anthropic confirms claude",
+        "remote code execution",
+        "frontier ai agents"
       ]
     }
   ]

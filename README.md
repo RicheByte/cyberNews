@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-03 14:03 UTC |
+| 🕐 Last Updated | 2026-09-03 19:01 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`remote code execution` • `sql injection vulnerability` • `deploy malicious payloads` • `rockwell automation patches` • `ai runtime security` • `execute remote code` • `enables bad actors` • `critical ios xr` • `access programs google` • `twitter whistleblower complaint`
+`ai runtime security` • `large model review` • `anthropic confirms claude` • `remote code execution` • `frontier ai agents` • `june 30 2026` • `enables bad actors` • `deploy malicious payloads` • `twitter whistleblower complaint` • `software giant fixed`
 
 ## 📄 Reports
 

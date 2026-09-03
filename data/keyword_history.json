@@ -324,7 +324,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2576,
+      "count": 2577,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -882,7 +882,7 @@
       ]
     },
     "remote code execution": {
-      "count": 496,
+      "count": 497,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -13869,7 +13869,7 @@
       ]
     },
     "sql injection vulnerability": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-04-14",
         "2026-04-15",
@@ -19429,7 +19429,7 @@
       ]
     },
     "execute remote code": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-06-08",
         "2026-06-09",
@@ -23343,7 +23343,7 @@
       ]
     },
     "software almost triple": {
-      "count": 182,
+      "count": 183,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23824,7 +23824,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 141,
+      "count": 142,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -28980,7 +28980,7 @@
       ]
     },
     "enables bad actors": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-09-01",
         "2026-09-02",
@@ -28994,7 +28994,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-09-02",
         "2026-09-03"
@@ -29038,7 +29038,7 @@
       ]
     },
     "rockwell automation patches": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-02",
         "2026-09-03"
@@ -29165,7 +29165,7 @@
       ]
     },
     "access programs google": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-02",
         "2026-09-03"
@@ -29177,20 +29177,69 @@
         "2026-09-02",
         "2026-09-03"
       ]
+    },
+    "deploy malicious payloads": {
+      "count": 1,
+      "dates": [
+        "2026-09-03"
+      ]
+    },
+    "ai runtime security": {
+      "count": 1,
+      "dates": [
+        "2026-09-03"
+      ]
+    },
+    "critical ios xr": {
+      "count": 1,
+      "dates": [
+        "2026-09-03"
+      ]
+    },
+    "targeted users looking": {
+      "count": 1,
+      "dates": [
+        "2026-09-03"
+      ]
+    },
+    "sophisticated threat group": {
+      "count": 1,
+      "dates": [
+        "2026-09-03"
+      ]
+    },
+    "sessions spread malware": {
+      "count": 1,
+      "dates": [
+        "2026-09-03"
+      ]
+    },
+    "malware delivery tool": {
+      "count": 1,
+      "dates": [
+        "2026-09-03"
+      ]
+    },
+    "canadian targeting due": {
+      "count": 1,
+      "dates": [
+        "2026-09-03"
+      ]
+    },
+    "malicious insiders pose": {
+      "count": 1,
+      "dates": [
+        "2026-09-03"
+      ]
+    },
+    "distribute malicious installers": {
+      "count": 1,
+      "dates": [
+        "2026-09-03"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-21 02:56",
-      "articles": 48,
-      "top_keywords": [
-        "critical netscaler flaw",
-        "think tanks within",
-        "ai security company",
-        "critical security flaw",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-08-21 04:31",
       "articles": 48,
@@ -30278,6 +30327,17 @@
         "anthropic details response",
         "rockwell automation patches",
         "access programs google"
+      ]
+    },
+    {
+      "timestamp": "2026-09-03 14:03",
+      "articles": 48,
+      "top_keywords": [
+        "remote code execution",
+        "sql injection vulnerability",
+        "deploy malicious payloads",
+        "rockwell automation patches",
+        "ai runtime security"
       ]
     }
   ]

@@ -1,72 +1,112 @@
 {
-  "last_updated": "2026-09-03 08:28",
+  "last_updated": "2026-09-03 14:03",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "fake software updates",
-    "sql injection vulnerability",
-    "anthropic details response",
-    "rockwell automation patches",
-    "access programs google",
-    "vulnerability discoveries aided",
-    "twitter whistleblower complaint",
-    "turn one's television",
-    "individuals whose licenses",
-    "enables bad actors",
-    "diverted update traffic",
-    "6 point checklist",
-    "software almost triple",
     "remote code execution",
+    "sql injection vulnerability",
+    "deploy malicious payloads",
+    "rockwell automation patches",
+    "ai runtime security",
     "execute remote code",
-    "who's harvesting data",
-    "provide administrative access",
-    "mistakenly block access",
-    "vendor's edge devices",
-    "unauthorized party accessed"
+    "enables bad actors",
+    "critical ios xr",
+    "access programs google",
+    "twitter whistleblower complaint",
+    "targeted users looking",
+    "sophisticated threat group",
+    "sessions spread malware",
+    "malware delivery tool",
+    "individuals whose licenses",
+    "canadian targeting due",
+    "software almost triple",
+    "malicious insiders pose",
+    "distribute malicious installers",
+    "vulnerability discoveries aided"
   ],
   "trending": [
     {
-      "keyword": "fake software updates",
-      "mentions": 5
+      "keyword": "remote code execution",
+      "mentions": 497
     },
     {
       "keyword": "sql injection vulnerability",
-      "mentions": 11
+      "mentions": 12
     },
     {
-      "keyword": "anthropic details response",
-      "mentions": 5
+      "keyword": "deploy malicious payloads",
+      "mentions": 1
     },
     {
       "keyword": "rockwell automation patches",
-      "mentions": 5
-    },
-    {
-      "keyword": "access programs google",
-      "mentions": 3
-    },
-    {
-      "keyword": "vulnerability discoveries aided",
-      "mentions": 141
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2576
-    },
-    {
-      "keyword": "turn one's television",
-      "mentions": 230
-    },
-    {
-      "keyword": "individuals whose licenses",
       "mentions": 6
     },
     {
-      "keyword": "enables bad actors",
+      "keyword": "ai runtime security",
+      "mentions": 1
+    },
+    {
+      "keyword": "execute remote code",
       "mentions": 7
+    },
+    {
+      "keyword": "enables bad actors",
+      "mentions": 8
+    },
+    {
+      "keyword": "critical ios xr",
+      "mentions": 1
+    },
+    {
+      "keyword": "access programs google",
+      "mentions": 4
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2577
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
+      "link": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html",
+      "summary": "An RMM phishing campaign initially associated with Canadian targeting due to its use of Canada Revenue Agency (CRA) tax forms as lures has turned out to be part of a broader campaign spanning 46 countries. Around 45% of observed activity was associated with the United States, making it the campaign's top geographic target. ANY.RUN research connected 601 cases to the wider operation, which uses",
+      "published": "Thu, 03 Sep 2026 17:28:00 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks",
+      "link": "https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html",
+      "summary": "Threat actors are leveraging the trusted Node.js JavaScript runtime in multiple cyber attacks as a way to deploy malicious payloads. According to a new report published by the Symantec Threat Hunter Team today, the attack method has been put to use in attacks targeting government departments, technology companies, and hotels since February 2026. \"The technique's appeal is that node.exe (the",
+      "published": "Thu, 03 Sep 2026 16:13:01 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means",
+      "link": "https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html",
+      "summary": "In early August, GitGuardian researchers found that a recent Shai-Hulud infostealer worm variant had evolved to scan for credentials across 469 locations across developer environments, Continuous Integration/Continuous Deployment (CI/CD) tooling, cloud configurations, and even AI tool configs. Earlier variants of the infostealer worm only checked 189 paths. The jump says a lot. Attackers have",
+      "published": "Thu, 03 Sep 2026 16:06:39 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone",
+      "link": "https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html",
+      "summary": "The iPhone belonging to a member of Serbia's student protest movement was infected with NSO Group's Pegasus spyware, according to new findings from the Citizen Lab in collaboration with the SHARE Foundation. \"Our analysis confirmed that an iMessage zero-click exploit was used to infect the device with NSO Group's Pegasus spyware,\" the Citizen Lab said. \"We found high-confidence indicators of",
+      "published": "Thu, 03 Sep 2026 14:13:17 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon",
@@ -114,44 +154,46 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code",
-      "link": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
-      "summary": "Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository's own Git configuration names a command that the agent runs on the developer's machine, four of them still unpatched at publication. The command executes as the user, outside the agent's sandbox and without an approval prompt, and exploitation requires the repository to arrive",
-      "published": "Wed, 02 Sep 2026 19:36:59 +0530",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages",
-      "link": "https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html",
-      "summary": "A Chinese-speaking cybercrime cluster known as Gambling Goblin has been observed installing malicious Apache modules on compromised web servers run by Brazilian government and educational institutions, and using them to divert visitors to attacker-controlled pages promoting online gambling and sports betting. Check Point Research said it has tracked the campaign since mid-2025. The modules",
-      "published": "Wed, 02 Sep 2026 19:14:16 +0530",
+      "source": "BleepingComputer",
+      "title": "Your Employee’s Password Appeared in an Infostealer Log. Now What?",
+      "link": "https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/",
+      "summary": "Infostealers can expose far more than passwords, including authenticated sessions that may let attackers bypass MFA. Flare explains how defenders can prioritize compromised identities, determine whether stolen access is still usable, and respond before it leads to account takeover. [...]",
+      "published": "Thu, 03 Sep 2026 09:50:59 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access",
-      "link": "https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html",
-      "summary": "Virtualizor said hackers used a Border Gateway Protocol (BGP) hijack to divert Softaculous traffic. The hackers then used the diverted update traffic to deliver a malicious Virtualizor package to some installations. A hosting-provider account separately said 5 of its 34 checked Virtualizor hypervisors sustained root-level compromise. The incident window ran from approximately August 28 at 20:57",
-      "published": "Wed, 02 Sep 2026 18:42:45 +0530",
+      "source": "BleepingComputer",
+      "title": "Microsoft says KB5120998 Windows update resets desktop settings",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-kb5120998-windows-update-resets-desktop-settings/",
+      "summary": "Microsoft has confirmed that desktop settings are lost or reset on some Windows devices after installing the KB5120998 August 2026 preview update. [...]",
+      "published": "Thu, 03 Sep 2026 08:16:32 -0400",
       "value_score": 26,
       "value_signals": [
         "Patch/update ×2"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control",
-      "link": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called StreamRat that was promoted to Spanish-speaking users through a fake television-streaming campaign on Meta and can give operators near-complete control of infected devices. ThreatFabric said the campaign's advertisement focused on Spain and reached an estimated 570,950 Meta accounts in the European Union",
-      "published": "Wed, 02 Sep 2026 17:52:02 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Plex warns users to patch security vulnerabilities immediately",
+      "link": "https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerabilities-immediately/",
+      "summary": "Plex urged users this week to update their desktop clients and media servers immediately to patch multiple security vulnerabilities. [...]",
+      "published": "Thu, 03 Sep 2026 07:02:22 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×3"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft Teams, Outlook fail to launch on ARM-based Windows PCs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/",
+      "summary": "Microsoft is working to fix a known issue that causes crashes and launch failures for Microsoft Teams and New Outlook users after installing updates released since the August 2026 Patch Tuesday. [...]",
+      "published": "Thu, 03 Sep 2026 04:55:25 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×2"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -198,48 +240,6 @@
       "value_score": 46,
       "value_signals": [
         "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Dropbox accounts breached through Lenovo email verification flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/",
-      "summary": "Dropbox is warning some users that an unauthorized party accessed their accounts by exploiting a flaw in Lenovo's email verification process to register fraudulent Lenovo IDs. [...]",
-      "published": "Wed, 02 Sep 2026 08:30:22 -0400",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft Defender flags legitimate Google search links as malicious",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/",
-      "summary": "Microsoft is investigating an issue causing the Defender for Office 365 security software to mistakenly block access to legitimate Google search links. [...]",
-      "published": "Wed, 02 Sep 2026 06:29:39 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "US charges Russian for infecting 80,000 freelancers with malware",
-      "link": "https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/",
-      "summary": "A California federal grand jury has indicted a Russian national for his role in a phishing campaign that infected thousands of freelancers with TVRAT and DarkVNC malware. [...]",
-      "published": "Wed, 02 Sep 2026 05:06:48 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Sality botnet infrastructure dismantled in joint global takedown",
-      "link": "https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/",
-      "summary": "International law enforcement agencies and private partners have seized Sality malware infrastructure in a joint action aiming to disrupt and take down the peer-to-peer (P2P) botnet. [...]",
-      "published": "Wed, 02 Sep 2026 04:00:43 -0400",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×2"
       ]
     },
     {
@@ -321,6 +321,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "'Breeze Comet' Tears Into Brazilian &amp; Global Financial Systems",
+      "link": "https://www.darkreading.com/threat-intelligence/breeze-comet-brazilian-global-financial-systems",
+      "summary": "Brazil's most sophisticated threat group is making light work of the country's financial systems, putting money directly into its own pocket.",
+      "published": "Thu, 03 Sep 2026 12:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "AI’s Vulnerability Surge May Be More Manageable Than First Feared",
       "link": "https://www.darkreading.com/application-security/ai-vulnerability-surge-manageable-than-first-feared",
       "summary": "New research suggests the coming Vulnpocalypse may not be so overwhelming for enterprise security teams — if they have the right strategies.",
@@ -395,16 +404,55 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Critical Langflow Vulnerability Exploited as Attacks on AI Platform Rise",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/critical-langflow-flaw-exploited-attacks-rise",
-      "summary": "The attacks targeting CVE-2026-0768 are the latest threat against the low-code AI development platform, which is receiving more attention from adversaries this year.",
-      "published": "Tue, 01 Sep 2026 20:48:52 GMT",
-      "value_score": 42,
+      "source": "Security Week",
+      "title": "HiddenLayer Raises $100 Million for AI Runtime Security",
+      "link": "https://www.securityweek.com/hiddenlayer-raises-100-million-for-ai-runtime-security/",
+      "summary": "The Austin-based company will invest in agentic runtime security capabilities to secure AI coding agents. The post HiddenLayer Raises $100 Million for AI Runtime Security appeared first on SecurityWeek .",
+      "published": "Thu, 03 Sep 2026 12:17:30 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "AI Agent Firewall Startup AIR Security Emerges From Stealth With $50 Million",
+      "link": "https://www.securityweek.com/ai-agent-firewall-startup-air-security-emerges-from-stealth-with-50-million/",
+      "summary": "The startup’s firewall evaluates AI skills, plugins and MCP servers for malicious instructions, excessive permissions and software supply chain risks. The post AI Agent Firewall Startup AIR Security Emerges From Stealth With $50 Million appeared first on SecurityWeek .",
+      "published": "Thu, 03 Sep 2026 12:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "153 Million Driver License Images Offered on Dark Web",
+      "link": "https://www.securityweek.com/153-million-driver-license-images-offered-on-dark-web/",
+      "summary": "Cybercriminals are offering digital scans of US and Canadian driver’s licenses, likely stolen from IDScan.net. The post 153 Million Driver License Images Offered on Dark Web appeared first on SecurityWeek .",
+      "published": "Thu, 03 Sep 2026 10:54:18 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability",
+      "link": "https://www.securityweek.com/over-3-million-wordpress-sites-affected-by-migration-plugin-vulnerability/",
+      "summary": "The high-severity SQL injection flaw (CVE-2026-19949) could allow unauthenticated attackers to achieve remote code execution. The post Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability appeared first on SecurityWeek .",
+      "published": "Thu, 03 Sep 2026 10:40:00 +0000",
+      "value_score": 48,
       "value_signals": [
         "CVE mentioned",
-        "High severity",
-        "Exploit wording"
+        "RCE"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Cisco Warns of Unpatched Secure Email Flaws, Patches Critical Switch Vulnerabilities",
+      "link": "https://www.securityweek.com/cisco-warns-of-unpatched-secure-email-flaws-patches-critical-switch-vulnerabilities/",
+      "summary": "Publicly disclosed S/MIME flaws could expose encrypted email content, while critical IOS XR and Nexus bugs could enable remote code execution and authentication bypass. The post Cisco Warns of Unpatched Secure Email Flaws, Patches Critical Switch Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Thu, 03 Sep 2026 10:30:00 +0000",
+      "value_score": 61,
+      "value_signals": [
+        "RCE",
+        "Auth bypass",
+        "High severity ×3"
       ]
     },
     {
@@ -435,62 +483,6 @@
       "published": "Wed, 02 Sep 2026 12:39:07 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Exploit Published for Fresh Cleo Harmony Vulnerability",
-      "link": "https://www.securityweek.com/exploit-published-for-fresh-cleo-harmony-vulnerability/",
-      "summary": "The security defect allows remote attackers to bypass authentication through argument bearer manipulation. The post Exploit Published for Fresh Cleo Harmony Vulnerability appeared first on SecurityWeek .",
-      "published": "Wed, 02 Sep 2026 12:18:15 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Anthropic Details Response to Security Incidents, Unveils Enterprise Safeguards",
-      "link": "https://www.securityweek.com/anthropic-details-response-to-security-incidents-unveils-enterprise-safeguards/",
-      "summary": "Anthropic introduced Enterprise Frontier Safeguards (EFS), a system that combines zero data retention with automated monitoring for misuse. The post Anthropic Details Response to Security Incidents, Unveils Enterprise Safeguards appeared first on SecurityWeek .",
-      "published": "Wed, 02 Sep 2026 11:48:31 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Malicious Virtualizor Update Served via BGP Hijacking",
-      "link": "https://www.securityweek.com/malicious-virtualizor-update-served-via-bgp-hijacking/",
-      "summary": "Using a technically valid TLS certificate for Softaculous’ domains, a threat actor diverted traffic to fake software updates. The post Malicious Virtualizor Update Served via BGP Hijacking appeared first on SecurityWeek .",
-      "published": "Wed, 02 Sep 2026 11:31:36 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "OpenAI’s Astra Crosses ‘Critical’ Cyber Threshold After Finding Zero-Days",
-      "link": "https://www.securityweek.com/openais-astra-becomes-first-model-to-cross-critical-cybersecurity-threshold/",
-      "summary": "The designation applies when a model can independently find and exploit zero-day vulnerabilities across many well-defended systems. The post OpenAI’s Astra Crosses ‘Critical’ Cyber Threshold After Finding Zero-Days appeared first on SecurityWeek .",
-      "published": "Wed, 02 Sep 2026 10:38:13 +0000",
-      "value_score": 57,
-      "value_signals": [
-        "Zero-day",
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Chrome and Firefox Updates Patch Dozens of Vulnerabilities",
-      "link": "https://www.securityweek.com/chrome-and-firefox-updates-patch-dozens-of-vulnerabilities/",
-      "summary": "The browser refreshes fix multiple use-after-free, sandbox escape, and privilege escalation bugs. The post Chrome and Firefox Updates Patch Dozens of Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Wed, 02 Sep 2026 09:12:29 +0000",
-      "value_score": 38,
-      "value_signals": [
-        "Privilege escalation",
-        "Patch/update ×3"
-      ]
     },
     {
       "source": "Threatpost",

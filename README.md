@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-03 08:28 UTC |
+| 🕐 Last Updated | 2026-09-03 14:03 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`fake software updates` • `sql injection vulnerability` • `anthropic details response` • `rockwell automation patches` • `access programs google` • `vulnerability discoveries aided` • `twitter whistleblower complaint` • `turn one's television` • `individuals whose licenses` • `enables bad actors`
+`remote code execution` • `sql injection vulnerability` • `deploy malicious payloads` • `rockwell automation patches` • `ai runtime security` • `execute remote code` • `enables bad actors` • `critical ios xr` • `access programs google` • `twitter whistleblower complaint`
 
 ## 📄 Reports
 

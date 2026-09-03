@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-03 19:01 UTC |
+| 🕐 Last Updated | 2026-09-03 22:09 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`ai runtime security` • `large model review` • `anthropic confirms claude` • `remote code execution` • `frontier ai agents` • `june 30 2026` • `enables bad actors` • `deploy malicious payloads` • `twitter whistleblower complaint` • `software giant fixed`
+`large model review` • `anthropic confirms claude` • `ai runtime security` • `large enterprises targeted` • `remote code execution` • `frontier ai agents` • `june 30 2026` • `vendor's edge devices` • `twitter whistleblower complaint` • `sessions spread malware`
 
 ## 📄 Reports
 

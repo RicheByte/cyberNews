@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-09-03 19:01",
+  "last_updated": "2026-09-03 22:09",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "ai runtime security",
     "large model review",
     "anthropic confirms claude",
+    "ai runtime security",
+    "large enterprises targeted",
     "remote code execution",
     "frontier ai agents",
     "june 30 2026",
-    "enables bad actors",
-    "deploy malicious payloads",
+    "vendor's edge devices",
     "twitter whistleblower complaint",
-    "software giant fixed",
-    "software almost triple",
     "sessions spread malware",
     "openai confirms chatgpt",
     "malware delivery tool",
     "ios xr version",
     "individuals whose licenses",
+    "deploy malicious payloads",
     "canadian targeting due",
     "sophisticated threat group",
     "unauthenticated remote attacker",
-    "multiple cyber attacks"
+    "ai generated malware",
+    "software giant fixed"
   ],
   "trending": [
     {
-      "keyword": "ai runtime security",
-      "mentions": 2
-    },
-    {
       "keyword": "large model review",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "anthropic confirms claude",
-      "mentions": 9
+      "mentions": 10
+    },
+    {
+      "keyword": "ai runtime security",
+      "mentions": 3
+    },
+    {
+      "keyword": "large enterprises targeted",
+      "mentions": 1
     },
     {
       "keyword": "remote code execution",
-      "mentions": 498
+      "mentions": 499
     },
     {
       "keyword": "frontier ai agents",
-      "mentions": 1
-    },
-    {
-      "keyword": "june 30 2026",
-      "mentions": 1
-    },
-    {
-      "keyword": "enables bad actors",
-      "mentions": 9
-    },
-    {
-      "keyword": "deploy malicious payloads",
       "mentions": 2
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2578
+      "keyword": "june 30 2026",
+      "mentions": 2
     },
     {
-      "keyword": "software giant fixed",
-      "mentions": 203
+      "keyword": "vendor's edge devices",
+      "mentions": 4
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2579
+    },
+    {
+      "keyword": "sessions spread malware",
+      "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
+      "link": "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html",
+      "summary": "The worst part is how normal these attacks look. A call from IT. A shared file. A trusted app. A simple request to click “Allow.” Why break in when someone might open the door? That idea runs through this edition. Attackers use real tools, fake login pages, old account links, and software guides that point to unsafe downloads. One wrong letter in a web address can be enough. There is also",
+      "published": "Thu, 03 Sep 2026 23:32:47 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root",
@@ -140,17 +151,24 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon",
-      "link": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
-      "summary": "The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a privilege escalation flaw impacting Crowdstrike Falcon. \"FalconFlank is a 0day privilege escalation that abuses the office malicious macros remediation in CrowdStrike Falcon Sensor,\" the researcher said in a GitHub README file, adding",
-      "published": "Thu, 03 Sep 2026 11:56:59 +0530",
-      "value_score": 94,
+      "source": "BleepingComputer",
+      "title": "French hospital fined €500,000 after breach exposes data of 727,000",
+      "link": "https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/",
+      "summary": "France's data protection authority (CNIL) has fined Hôpital privé de la Loire €500,000 ($580,000) for failing to adequately protect patients' and their relatives' data. [...]",
+      "published": "Thu, 03 Sep 2026 18:01:37 -0400",
+      "value_score": 22,
       "value_signals": [
-        "Zero-day ×2",
-        "Privilege escalation ×3",
-        "PoC available"
+        "Breach/leak"
       ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Coder's registry infrastructure compromised to push malicious modules",
+      "link": "https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/",
+      "summary": "Attackers compromised Coder's Cloudflare infrastructure and added unauthorized registry servers that delivered malicious Terraform modules containing credential-stealing code. [...]",
+      "published": "Thu, 03 Sep 2026 16:04:24 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -214,28 +232,6 @@
       "published": "Thu, 03 Sep 2026 09:50:59 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft says KB5120998 Windows update resets desktop settings",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-kb5120998-windows-update-resets-desktop-settings/",
-      "summary": "Microsoft has confirmed that desktop settings are lost or reset on some Windows devices after installing the KB5120998 August 2026 preview update. [...]",
-      "published": "Thu, 03 Sep 2026 08:16:32 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Plex warns users to patch security vulnerabilities immediately",
-      "link": "https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerabilities-immediately/",
-      "summary": "Plex urged users this week to update their desktop clients and media servers immediately to patch multiple security vulnerabilities. [...]",
-      "published": "Thu, 03 Sep 2026 07:02:22 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×3"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -316,6 +312,26 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Large Enterprises Targeted in Fake Merger &amp; Acquisition Scams",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/large-enterprises-fake-merger-acquisition-scams",
+      "summary": "Threat actors behind the \"Phantom Deal\" campaign are studying companies in extreme detail, aiming to dupe midlevel employees into initiating large financial transfers.",
+      "published": "Thu, 03 Sep 2026 20:18:14 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "What We Missed: Did ShinyHunters 'Breach' ReliaQuest?",
+      "link": "https://www.darkreading.com/cybersecurity-operations/what-we-missed-did-shinyhunters-breach-reliaquest",
+      "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from the latest antics of ShinyHunters to new research about the prevalence (or lack thereof) of AI-generated malware.",
+      "published": "Thu, 03 Sep 2026 19:42:39 GMT",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "AI 'Machine Speed' Cuts 2-Week Attack Down to 10 Hours",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-machine-speed-2-week-attack-10-hours",
       "summary": "The incident demonstrates how frontier AI agents can dramatically compress an attack timeline and coordinate a large-scale breach, according to researchers.",
@@ -373,30 +389,6 @@
       "published": "Wed, 02 Sep 2026 16:51:21 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Old, Unpatched Flaws Give Attackers Access to Philippines Nuclear Agency",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/old-unpatched-flaws-attackers-philippines-nuclear-agency",
-      "summary": "Threat actors exploited commodity vulnerabilities in ownCloud to gain initial access, resulting in stolen reactor databases, personnel records, and credential stores.",
-      "published": "Wed, 02 Sep 2026 01:00:00 GMT",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Attackers Pounce on Critical Artifactory Bug Following Disclosure",
-      "link": "https://www.darkreading.com/application-security/attackers-pounce-critical-artifactory-flaw-disclosure",
-      "summary": "CVE-2026-82329 is an authentication bypass flaw in JFrog's repository manager that enables bad actors to gain admin-level access on affected systems.",
-      "published": "Tue, 01 Sep 2026 21:05:53 GMT",
-      "value_score": 51,
-      "value_signals": [
-        "CVE mentioned",
-        "Auth bypass",
-        "High severity"
-      ]
     },
     {
       "source": "Security Week",

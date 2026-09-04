@@ -324,7 +324,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2583,
+      "count": 2584,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1249,7 +1249,7 @@
       ]
     },
     "national security risk": {
-      "count": 445,
+      "count": 446,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2001,7 +2001,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 593,
+      "count": 594,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -23351,7 +23351,7 @@
       ]
     },
     "software almost triple": {
-      "count": 184,
+      "count": 185,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23386,7 +23386,8 @@
         "2026-08-31",
         "2026-09-01",
         "2026-09-02",
-        "2026-09-03"
+        "2026-09-03",
+        "2026-09-04"
       ]
     },
     "spanish police dismantled": {
@@ -23436,7 +23437,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 207,
+      "count": 208,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -23834,7 +23835,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 144,
+      "count": 145,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -24636,7 +24637,7 @@
       ]
     },
     "turn one's television": {
-      "count": 231,
+      "count": 232,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26363,7 +26364,7 @@
       ]
     },
     "text history records": {
-      "count": 170,
+      "count": 171,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -28788,7 +28789,7 @@
       ]
     },
     "statement released today": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-08-31",
         "2026-09-01",
@@ -28844,7 +28845,7 @@
       ]
     },
     "sophisticated cybercrime syndicate": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-08-31",
         "2026-09-01",
@@ -28930,7 +28931,7 @@
       ]
     },
     "longest running spree": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-01",
         "2026-09-04"
@@ -29012,7 +29013,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29225,7 +29226,7 @@
       ]
     },
     "sophisticated threat group": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-09-03",
         "2026-09-04"
@@ -29299,7 +29300,7 @@
       ]
     },
     "large enterprises targeted": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-03",
         "2026-09-04"
@@ -29313,13 +29314,13 @@
       ]
     },
     "guardrails catch promises": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-04"
       ]
     },
     "defraud online merchants": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-04"
       ]
@@ -29331,7 +29332,7 @@
       ]
     },
     "enterprise security teams": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-04"
       ]
@@ -29343,7 +29344,7 @@
       ]
     },
     "anonymous security researcher": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-04"
       ]
@@ -29355,30 +29356,19 @@
       ]
     },
     "1 1 billion": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-04"
       ]
     },
     "critical infrastructure defenders": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-04"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-21 16:25",
-      "articles": 48,
-      "top_keywords": [
-        "think tanks within",
-        "cisa orders feds",
-        "twitter whistleblower complaint",
-        "poisoned arrayref version",
-        "budgets hinder progress"
-      ]
-    },
     {
       "timestamp": "2026-08-21 18:28",
       "articles": 48,
@@ -30466,6 +30456,17 @@
         "sophisticated threat group",
         "individuals whose licenses",
         "vendor's edge devices"
+      ]
+    },
+    {
+      "timestamp": "2026-09-04 20:09",
+      "articles": 48,
+      "top_keywords": [
+        "1 1 billion",
+        "enterprise security teams",
+        "sophisticated threat group",
+        "individuals whose licenses",
+        "twitter whistleblower complaint"
       ]
     }
   ]

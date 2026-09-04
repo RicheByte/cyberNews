@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-04 17:20 UTC  
+> **Last Updated:** 2026-09-04 20:09 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**1 1 billion** • **enterprise security teams** • **sophisticated threat group** • **individuals whose licenses** • **vendor's edge devices** • **twitter whistleblower complaint** • **longest running spree** • **large enterprises targeted** • **guardrails catch promises** • **defraud online merchants** • **critical infrastructure defenders** • **vulnerability discoveries aided** • **sprawling phishing campaign** • **national security risk** • **anonymous security researcher** • **statement released today** • **turn one's television** • **text history records** • **sophisticated cybercrime syndicate** • **software giant fixed**
+**1 1 billion** • **enterprise security teams** • **sophisticated threat group** • **individuals whose licenses** • **twitter whistleblower complaint** • **longest running spree** • **large enterprises targeted** • **guardrails catch promises** • **defraud online merchants** • **critical infrastructure defenders** • **vulnerability discoveries aided** • **sprawling phishing campaign** • **national security risk** • **anonymous security researcher** • **statement released today** • **turn one's television** • **text history records** • **sophisticated cybercrime syndicate** • **software giant fixed** • **software almost triple**
 
 ---
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
-- [Companies Have Six Months to Prepare for Automated Attacks](https://www.darkreading.com/cybersecurity-operations/companies-six-months-prepare-automated-attacks)
+- [Companies Have 6 Months to Prepare for Automated Attacks](https://www.darkreading.com/cybersecurity-operations/companies-six-months-prepare-automated-attacks)
 - [AI Is Ending the Era of Hidden Vulnerabilities — Are Vendors Ready?](https://www.darkreading.com/vulnerabilities-threats/ai-ending-era-hidden-vulnerabilities-are-vendors-ready)
 - [Large Enterprises Targeted in Fake Merger &amp; Acquisition Scams](https://www.darkreading.com/cyberattacks-data-breaches/large-enterprises-fake-merger-acquisition-scams)
 - [What We Missed: Did ShinyHunters 'Breach' ReliaQuest?](https://www.darkreading.com/cybersecurity-operations/what-we-missed-did-shinyhunters-breach-reliaquest)
+- [What the AI Warning Letter Completely Missed](https://www.darkreading.com/cyberattacks-data-breaches/ai-warning-letter-missed-people)
 - [AI 'Machine Speed' Cuts 2-Week Attack Down to 10 Hours](https://www.darkreading.com/cyberattacks-data-breaches/ai-machine-speed-2-week-attack-10-hours)
 - ['Breeze Comet' Tears Into Brazilian &amp; Global Financial Systems](https://www.darkreading.com/threat-intelligence/breeze-comet-brazilian-global-financial-systems)
 - [AI's Vulnerability Surge May Be More Manageable Than First Feared](https://www.darkreading.com/application-security/ai-vulnerability-surge-manageable-than-first-feared)
-- [SonicWall SMA 1000 Zero-Days Enable Unauthenticated RCE](https://www.darkreading.com/vulnerabilities-threats/sonicwall-sma-1000-zero-days-unauthenticated-rce)
 
 ### Security Week
 

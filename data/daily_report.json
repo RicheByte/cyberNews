@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04 17:20",
+  "last_updated": "2026-09-04 20:09",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -7,7 +7,6 @@
     "enterprise security teams",
     "sophisticated threat group",
     "individuals whose licenses",
-    "vendor's edge devices",
     "twitter whistleblower complaint",
     "longest running spree",
     "large enterprises targeted",
@@ -22,47 +21,48 @@
     "turn one's television",
     "text history records",
     "sophisticated cybercrime syndicate",
-    "software giant fixed"
+    "software giant fixed",
+    "software almost triple"
   ],
   "trending": [
     {
       "keyword": "1 1 billion",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "enterprise security teams",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "sophisticated threat group",
-      "mentions": 7
-    },
-    {
-      "keyword": "individuals whose licenses",
-      "mentions": 13
-    },
-    {
-      "keyword": "vendor's edge devices",
       "mentions": 8
     },
     {
+      "keyword": "individuals whose licenses",
+      "mentions": 14
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2583
+      "mentions": 2584
     },
     {
       "keyword": "longest running spree",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "large enterprises targeted",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "guardrails catch promises",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "defraud online merchants",
+      "mentions": 3
+    },
+    {
+      "keyword": "critical infrastructure defenders",
       "mentions": 2
     }
   ],
@@ -331,7 +331,7 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Companies Have Six Months to Prepare for Automated Attacks",
+      "title": "Companies Have 6 Months to Prepare for Automated Attacks",
       "link": "https://www.darkreading.com/cybersecurity-operations/companies-six-months-prepare-automated-attacks",
       "summary": "Frontier AI models have already demonstrated they can autonomously — and in some cases, inadvertently — conduct end-to-end compromises, but the situation will become more urgent very soon.",
       "published": "Fri, 04 Sep 2026 15:57:31 GMT",
@@ -369,6 +369,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "What the AI Warning Letter Completely Missed",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-warning-letter-missed-people",
+      "summary": "The recent AI warning letter is right about the \"window,\" but it omits naming who is coming through it or, critically, who will close it.",
+      "published": "Thu, 03 Sep 2026 17:23:14 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "AI 'Machine Speed' Cuts 2-Week Attack Down to 10 Hours",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-machine-speed-2-week-attack-10-hours",
       "summary": "The incident demonstrates how frontier AI agents can dramatically compress an attack timeline and coordinate a large-scale breach, according to researchers.",
@@ -395,19 +404,6 @@
       "published": "Wed, 02 Sep 2026 21:14:06 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "SonicWall SMA 1000 Zero-Days Enable Unauthenticated RCE",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/sonicwall-sma-1000-zero-days-unauthenticated-rce",
-      "summary": "The exploitation activity follows attacks earlier this summer on two other zero-day vulnerabilities in the vendor's edge devices.",
-      "published": "Wed, 02 Sep 2026 20:43:59 GMT",
-      "value_score": 61,
-      "value_signals": [
-        "Zero-day",
-        "RCE",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Security Week",

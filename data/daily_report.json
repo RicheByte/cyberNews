@@ -1,10 +1,9 @@
 {
-  "last_updated": "2026-09-04 20:09",
+  "last_updated": "2026-09-04 23:38",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "1 1 billion",
-    "enterprise security teams",
     "sophisticated threat group",
     "individuals whose licenses",
     "twitter whistleblower complaint",
@@ -13,11 +12,12 @@
     "guardrails catch promises",
     "defraud online merchants",
     "critical infrastructure defenders",
-    "vulnerability discoveries aided",
     "sprawling phishing campaign",
+    "vulnerability discoveries aided",
     "national security risk",
     "anonymous security researcher",
     "statement released today",
+    "unintended harm caused",
     "turn one's television",
     "text history records",
     "sophisticated cybercrime syndicate",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "1 1 billion",
-      "mentions": 2
-    },
-    {
-      "keyword": "enterprise security teams",
       "mentions": 3
     },
     {
       "keyword": "sophisticated threat group",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "individuals whose licenses",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2584
+      "mentions": 2585
     },
     {
       "keyword": "longest running spree",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "large enterprises targeted",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "guardrails catch promises",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "defraud online merchants",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "critical infrastructure defenders",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "sprawling phishing campaign",
+      "mentions": 595
     }
   ],
   "articles": [
@@ -349,6 +349,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Insurers Search for Answers to Rein in Rogue AI",
+      "link": "https://www.darkreading.com/cyber-risk/insurers-search-answers-rogue-ai",
+      "summary": "As incidents of unintended harm caused by rogue AI agents mount, CISOs and insurance firms are figuring out how to handle the fallout.",
+      "published": "Fri, 04 Sep 2026 12:15:03 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Large Enterprises Targeted in Fake Merger &amp; Acquisition Scams",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/large-enterprises-fake-merger-acquisition-scams",
       "summary": "Threat actors behind the \"Phantom Deal\" campaign are studying companies in extreme detail, aiming to dupe midlevel employees into initiating large financial transfers.",
@@ -393,15 +402,6 @@
       "link": "https://www.darkreading.com/threat-intelligence/breeze-comet-brazilian-global-financial-systems",
       "summary": "Brazil's most sophisticated threat group is making light work of the country's financial systems, putting money directly into its own pocket.",
       "published": "Thu, 03 Sep 2026 12:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "AI's Vulnerability Surge May Be More Manageable Than First Feared",
-      "link": "https://www.darkreading.com/application-security/ai-vulnerability-surge-manageable-than-first-feared",
-      "summary": "New research suggests the coming Vulnpocalypse may not be so overwhelming for enterprise security teams — if they have the right strategies.",
-      "published": "Wed, 02 Sep 2026 21:14:06 GMT",
       "value_score": 10,
       "value_signals": []
     },

@@ -324,7 +324,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2584,
+      "count": 2585,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1249,7 +1249,7 @@
       ]
     },
     "national security risk": {
-      "count": 446,
+      "count": 447,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2001,7 +2001,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 594,
+      "count": 595,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -23351,7 +23351,7 @@
       ]
     },
     "software almost triple": {
-      "count": 185,
+      "count": 186,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23437,7 +23437,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 208,
+      "count": 209,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -23835,7 +23835,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 145,
+      "count": 146,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -24637,7 +24637,7 @@
       ]
     },
     "turn one's television": {
-      "count": 232,
+      "count": 233,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26364,7 +26364,7 @@
       ]
     },
     "text history records": {
-      "count": 171,
+      "count": 172,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -28789,7 +28789,7 @@
       ]
     },
     "statement released today": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-08-31",
         "2026-09-01",
@@ -28845,7 +28845,7 @@
       ]
     },
     "sophisticated cybercrime syndicate": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-08-31",
         "2026-09-01",
@@ -28931,7 +28931,7 @@
       ]
     },
     "longest running spree": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-01",
         "2026-09-04"
@@ -29013,7 +29013,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29226,7 +29226,7 @@
       ]
     },
     "sophisticated threat group": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-09-03",
         "2026-09-04"
@@ -29300,7 +29300,7 @@
       ]
     },
     "large enterprises targeted": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-09-03",
         "2026-09-04"
@@ -29314,13 +29314,13 @@
       ]
     },
     "guardrails catch promises": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-04"
       ]
     },
     "defraud online merchants": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-04"
       ]
@@ -29344,7 +29344,7 @@
       ]
     },
     "anonymous security researcher": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-04"
       ]
@@ -29356,30 +29356,25 @@
       ]
     },
     "1 1 billion": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-04"
       ]
     },
     "critical infrastructure defenders": {
-      "count": 2,
+      "count": 3,
+      "dates": [
+        "2026-09-04"
+      ]
+    },
+    "unintended harm caused": {
+      "count": 1,
       "dates": [
         "2026-09-04"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-21 18:28",
-      "articles": 48,
-      "top_keywords": [
-        "think tanks within",
-        "sprawling phishing campaign",
-        "twitter whistleblower complaint",
-        "trusted execution environment",
-        "poisoned arrayref version"
-      ]
-    },
     {
       "timestamp": "2026-08-21 20:18",
       "articles": 48,
@@ -30467,6 +30462,17 @@
         "sophisticated threat group",
         "individuals whose licenses",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-09-04 23:38",
+      "articles": 48,
+      "top_keywords": [
+        "1 1 billion",
+        "sophisticated threat group",
+        "individuals whose licenses",
+        "twitter whistleblower complaint",
+        "longest running spree"
       ]
     }
   ]

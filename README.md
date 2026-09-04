@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-04 20:09 UTC |
+| 🕐 Last Updated | 2026-09-04 23:38 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`1 1 billion` • `enterprise security teams` • `sophisticated threat group` • `individuals whose licenses` • `twitter whistleblower complaint` • `longest running spree` • `large enterprises targeted` • `guardrails catch promises` • `defraud online merchants` • `critical infrastructure defenders`
+`1 1 billion` • `sophisticated threat group` • `individuals whose licenses` • `twitter whistleblower complaint` • `longest running spree` • `large enterprises targeted` • `guardrails catch promises` • `defraud online merchants` • `critical infrastructure defenders` • `sprawling phishing campaign`
 
 ## 📄 Reports
 

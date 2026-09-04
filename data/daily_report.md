@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-04 08:24 UTC  
+> **Last Updated:** 2026-09-04 13:55 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**large model review** • **anthropic confirms claude** • **ai runtime security** • **large enterprises targeted** • **remote code execution** • **frontier ai agents** • **june 30 2026** • **vendor's edge devices** • **twitter whistleblower complaint** • **sessions spread malware** • **openai confirms chatgpt** • **malware delivery tool** • **ios xr version** • **individuals whose licenses** • **deploy malicious payloads** • **canadian targeting due** • **sophisticated threat group** • **unauthenticated remote attacker** • **ai generated malware** • **software giant fixed**
+**guardrails catch promises** • **vendor's edge devices** • **twitter whistleblower complaint** • **openai confirms chatgpt** • **individuals whose licenses** • **defraud online merchants** • **large enterprises targeted** • **unauthenticated remote attacker** • **ios xr version** • **allows unauthenticated attackers** • **national security risk** • **june 30 2026** • **enterprise security teams** • **cve 2026 9586** • **anonymous security researcher** • **vulnerability discoveries aided** • **nexus vulnerability tracked** • **large model review** • **sophisticated threat group** • **statement released today**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws](https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html)
+- [Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws](https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html)
+- [Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day](https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html)
+- [GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests](https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html)
 - [ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories](https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html)
 - [Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root](https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html)
 - [BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory](https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html)
 - [Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data](https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html)
-- [US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries](https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html)
-- [Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks](https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html)
-- [Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means](https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html)
-- [Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone](https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html)
 
 ### BleepingComputer
 
+- [New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges](https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/)
+- [Exchange Online outage causes email delays, 'Server busy' errors](https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/)
+- [Google warns of new Chrome zero-day flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/)
 - [French hospital fined €500,000 after breach exposes data of 727,000](https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/)
 - [Coder's registry infrastructure compromised to push malicious modules](https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/)
 - [HPE patches critical ArubaOS-CX remote code execution flaw](https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/)
 - [Microsoft: KB5120998 mouse reset bug affects only non-English PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/)
 - [OpenAI confirms ChatGPT is down ahead of 'Astra' model launch](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/)
-- [Anthropic confirms Claude is down, multiple models affected](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/)
-- [Critical Elementor Pro flaw exploited to take over WordPress sites](https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/)
-- [Your Employee’s Password Appeared in an Infostealer Log. Now What?](https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [AI Is Ending the Era of Hidden Vulnerabilities — Are Vendors Ready?](https://www.darkreading.com/vulnerabilities-threats/ai-ending-era-hidden-vulnerabilities-are-vendors-ready)
 - [Large Enterprises Targeted in Fake Merger &amp; Acquisition Scams](https://www.darkreading.com/cyberattacks-data-breaches/large-enterprises-fake-merger-acquisition-scams)
 - [What We Missed: Did ShinyHunters 'Breach' ReliaQuest?](https://www.darkreading.com/cybersecurity-operations/what-we-missed-did-shinyhunters-breach-reliaquest)
 - [AI 'Machine Speed' Cuts 2-Week Attack Down to 10 Hours](https://www.darkreading.com/cyberattacks-data-breaches/ai-machine-speed-2-week-attack-10-hours)
@@ -56,18 +57,17 @@
 - [AI's Vulnerability Surge May Be More Manageable Than First Feared](https://www.darkreading.com/application-security/ai-vulnerability-surge-manageable-than-first-feared)
 - [SonicWall SMA 1000 Zero-Days Enable Unauthenticated RCE](https://www.darkreading.com/vulnerabilities-threats/sonicwall-sma-1000-zero-days-unauthenticated-rce)
 - [AI Gives Cybercriminals a Dangerous Time Advantage](https://www.darkreading.com/threat-intelligence/ai-gives-cybercriminals-dangerous-time-advantage)
-- [Threat Gang 'Springs' Vishing Attacks on Microsoft Teams Users](https://www.darkreading.com/cyberattacks-data-breaches/threat-gang-springs-vishing-attacks-microsoft-teams-users)
 
 ### Security Week
 
+- [Sangoma Switchvox Vulnerabilities Exploited in the Wild](https://www.securityweek.com/sangoma-switchvox-vulnerabilities-exploited-in-the-wild/)
+- [12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover](https://www.securityweek.com/12-year-old-postgresql-vulnerability-enables-database-server-takeover/)
+- [Catch Raises $5 Million for AI Executive Assistant With Guardrails](https://www.securityweek.com/catch-raises-5-million-for-ai-executive-assistant-with-guardrails/)
+- [VMware Workstation and Fusion Updates Patch Critical Vulnerability](https://www.securityweek.com/vmware-workstation-and-fusion-updates-patch-critical-vulnerability/)
+- [Google Patches 6th Chrome Zero-Day of 2026](https://www.securityweek.com/google-patches-6th-chrome-zero-day-of-2026/)
+- [Nvidia Is Buying AI Platform Hugging Face for $13 Billion](https://www.securityweek.com/nvidia-is-buying-ai-platform-hugging-face-for-13-billion/)
 - [Manchester Airports Group Data on 8.8 Million People Leaked After Ransom Refusal](https://www.securityweek.com/manchester-airports-group-data-on-8-8-million-people-leaked-after-ransom-refusal/)
 - [Capsule Security Launches ‘AI Circuit Breaker’ to Stop Rogue Agents](https://www.securityweek.com/capsule-security-launches-ai-circuit-breaker-to-stop-rogue-agents/)
-- [HiddenLayer Raises $100 Million for AI Runtime Security](https://www.securityweek.com/hiddenlayer-raises-100-million-for-ai-runtime-security/)
-- [AI Agent Firewall Startup AIR Security Emerges From Stealth With $50 Million](https://www.securityweek.com/ai-agent-firewall-startup-air-security-emerges-from-stealth-with-50-million/)
-- [153 Million Driver License Images Offered on Dark Web](https://www.securityweek.com/153-million-driver-license-images-offered-on-dark-web/)
-- [Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability](https://www.securityweek.com/over-3-million-wordpress-sites-affected-by-migration-plugin-vulnerability/)
-- [Cisco Warns of Unpatched Secure Email Flaws, Patches Critical Switch Vulnerabilities](https://www.securityweek.com/cisco-warns-of-unpatched-secure-email-flaws-patches-critical-switch-vulnerabilities/)
-- [OpenLeash Adds a Human Check to Risky AI Agent Actions](https://www.securityweek.com/openleash-adds-a-human-check-to-risky-ai-agent-actions/)
 
 ### Threatpost
 

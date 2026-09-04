@@ -324,7 +324,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2581,
+      "count": 2582,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1249,7 +1249,7 @@
       ]
     },
     "national security risk": {
-      "count": 443,
+      "count": 444,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1329,7 +1329,8 @@
         "2026-08-29",
         "2026-08-30",
         "2026-08-31",
-        "2026-09-01"
+        "2026-09-01",
+        "2026-09-04"
       ]
     },
     "open source millions": {
@@ -2936,7 +2937,7 @@
       ]
     },
     "unauthenticated remote attacker": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-01-07",
         "2026-01-08",
@@ -23832,7 +23833,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 142,
+      "count": 143,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -23860,7 +23861,8 @@
         "2026-08-27",
         "2026-09-01",
         "2026-09-02",
-        "2026-09-03"
+        "2026-09-03",
+        "2026-09-04"
       ]
     },
     "shodan harvester keeps": {
@@ -27697,7 +27699,7 @@
       ]
     },
     "openai confirms chatgpt": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-08-20",
         "2026-09-03",
@@ -28783,11 +28785,12 @@
       ]
     },
     "statement released today": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-31",
         "2026-09-01",
-        "2026-09-02"
+        "2026-09-02",
+        "2026-09-04"
       ]
     },
     "remain open questions": {
@@ -29004,7 +29007,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29183,7 +29186,7 @@
       ]
     },
     "vendor's edge devices": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29217,7 +29220,7 @@
       ]
     },
     "sophisticated threat group": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-03",
         "2026-09-04"
@@ -29257,7 +29260,7 @@
       ]
     },
     "large model review": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-03",
         "2026-09-04"
@@ -29271,14 +29274,14 @@
       ]
     },
     "june 30 2026": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-03",
         "2026-09-04"
       ]
     },
     "ios xr version": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-03",
         "2026-09-04"
@@ -29291,7 +29294,7 @@
       ]
     },
     "large enterprises targeted": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-03",
         "2026-09-04"
@@ -29303,20 +29306,51 @@
         "2026-09-03",
         "2026-09-04"
       ]
+    },
+    "guardrails catch promises": {
+      "count": 1,
+      "dates": [
+        "2026-09-04"
+      ]
+    },
+    "defraud online merchants": {
+      "count": 1,
+      "dates": [
+        "2026-09-04"
+      ]
+    },
+    "allows unauthenticated attackers": {
+      "count": 1,
+      "dates": [
+        "2026-09-04"
+      ]
+    },
+    "enterprise security teams": {
+      "count": 1,
+      "dates": [
+        "2026-09-04"
+      ]
+    },
+    "cve 2026 9586": {
+      "count": 1,
+      "dates": [
+        "2026-09-04"
+      ]
+    },
+    "anonymous security researcher": {
+      "count": 1,
+      "dates": [
+        "2026-09-04"
+      ]
+    },
+    "nexus vulnerability tracked": {
+      "count": 1,
+      "dates": [
+        "2026-09-04"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-21 12:35",
-      "articles": 48,
-      "top_keywords": [
-        "think tanks within",
-        "cisa orders feds",
-        "twitter whistleblower complaint",
-        "poisoned arrayref version",
-        "maintainer account behind"
-      ]
-    },
     {
       "timestamp": "2026-08-21 14:28",
       "articles": 48,
@@ -30404,6 +30438,17 @@
         "ai runtime security",
         "large enterprises targeted",
         "remote code execution"
+      ]
+    },
+    {
+      "timestamp": "2026-09-04 13:55",
+      "articles": 48,
+      "top_keywords": [
+        "guardrails catch promises",
+        "vendor's edge devices",
+        "twitter whistleblower complaint",
+        "openai confirms chatgpt",
+        "individuals whose licenses"
       ]
     }
   ]

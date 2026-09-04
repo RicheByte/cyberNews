@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-04 08:24 UTC |
+| 🕐 Last Updated | 2026-09-04 13:55 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`large model review` • `anthropic confirms claude` • `ai runtime security` • `large enterprises targeted` • `remote code execution` • `frontier ai agents` • `june 30 2026` • `vendor's edge devices` • `twitter whistleblower complaint` • `sessions spread malware`
+`guardrails catch promises` • `vendor's edge devices` • `twitter whistleblower complaint` • `openai confirms chatgpt` • `individuals whose licenses` • `defraud online merchants` • `large enterprises targeted` • `unauthenticated remote attacker` • `ios xr version` • `allows unauthenticated attackers`
 
 ## 📄 Reports
 

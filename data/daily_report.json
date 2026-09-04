@@ -1,72 +1,125 @@
 {
-  "last_updated": "2026-09-04 08:24",
+  "last_updated": "2026-09-04 13:55",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "large model review",
-    "anthropic confirms claude",
-    "ai runtime security",
-    "large enterprises targeted",
-    "remote code execution",
-    "frontier ai agents",
-    "june 30 2026",
+    "guardrails catch promises",
     "vendor's edge devices",
     "twitter whistleblower complaint",
-    "sessions spread malware",
     "openai confirms chatgpt",
-    "malware delivery tool",
-    "ios xr version",
     "individuals whose licenses",
-    "deploy malicious payloads",
-    "canadian targeting due",
-    "sophisticated threat group",
+    "defraud online merchants",
+    "large enterprises targeted",
     "unauthenticated remote attacker",
-    "ai generated malware",
-    "software giant fixed"
+    "ios xr version",
+    "allows unauthenticated attackers",
+    "national security risk",
+    "june 30 2026",
+    "enterprise security teams",
+    "cve 2026 9586",
+    "anonymous security researcher",
+    "vulnerability discoveries aided",
+    "nexus vulnerability tracked",
+    "large model review",
+    "sophisticated threat group",
+    "statement released today"
   ],
   "trending": [
     {
-      "keyword": "large model review",
-      "mentions": 4
-    },
-    {
-      "keyword": "anthropic confirms claude",
-      "mentions": 12
-    },
-    {
-      "keyword": "ai runtime security",
-      "mentions": 5
-    },
-    {
-      "keyword": "large enterprises targeted",
-      "mentions": 3
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 501
-    },
-    {
-      "keyword": "frontier ai agents",
-      "mentions": 4
-    },
-    {
-      "keyword": "june 30 2026",
-      "mentions": 4
+      "keyword": "guardrails catch promises",
+      "mentions": 1
     },
     {
       "keyword": "vendor's edge devices",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2581
+      "mentions": 2582
     },
     {
-      "keyword": "sessions spread malware",
+      "keyword": "openai confirms chatgpt",
+      "mentions": 12
+    },
+    {
+      "keyword": "individuals whose licenses",
+      "mentions": 12
+    },
+    {
+      "keyword": "defraud online merchants",
+      "mentions": 1
+    },
+    {
+      "keyword": "large enterprises targeted",
+      "mentions": 4
+    },
+    {
+      "keyword": "unauthenticated remote attacker",
+      "mentions": 38
+    },
+    {
+      "keyword": "ios xr version",
       "mentions": 5
+    },
+    {
+      "keyword": "allows unauthenticated attackers",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
+      "link": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html",
+      "summary": "Threat actors are exploiting two critical security flaws in WordPress plugins Super Forms and Elementor Pro, according to findings from Wordfence. The vulnerabilities in question are - CVE-2026-14894 (CVSS score: 9.8) - A missing file type validation vulnerability in Super Forms – Drag & Drop Form Builder that allows unauthenticated attackers to upload files of any type, including",
+      "published": "Fri, 04 Sep 2026 14:18:45 +0530",
+      "value_score": 62,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws",
+      "link": "https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html",
+      "summary": "Plex is urging users to update their instances to the latest version following the release of an update that patches multiple security flaws. The fixes are available in Plex Media Server 1.43.3 and Plex Desktop 1.115.0. The streaming media service did not elaborate on what those issues are, but said CVE identifiers have been requested for them. \"We recommend all server owners and Desktop users",
+      "published": "Fri, 04 Sep 2026 13:05:14 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day",
+      "link": "https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html",
+      "summary": "Google on Thursday released security updates to patch 12 vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, tracked as CVE-2026-85046 (CVSS score: 8.8), has been described as a type confusion bug in V8, Chrome's JavaScript and WebAssembly engine. \"Type confusion in V8 in Google Chrome prior to 152.0.7977.82 allowed a remote",
+      "published": "Fri, 04 Sep 2026 12:48:47 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day",
+        "Active exploitation ×2",
+        "Patch/update ×3",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests",
+      "link": "https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html",
+      "summary": "OpenAI on Thursday officially unveiled GPT‑6 Astra, which it described as the \"world's most intelligent and aligned model.\" The development comes days after the artificial intelligence (AI) company said the model had reached the \"Critical\" cybersecurity capability threshold under its Preparedness Framework. \"Astra is state-of-the-art on computer use, browsing, software engineering,",
+      "published": "Fri, 04 Sep 2026 12:17:52 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "PoC available",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
@@ -111,42 +164,36 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
-      "link": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html",
-      "summary": "An RMM phishing campaign initially associated with Canadian targeting due to its use of Canada Revenue Agency (CRA) tax forms as lures has turned out to be part of a broader campaign spanning 46 countries. Around 45% of observed activity was associated with the United States, making it the campaign's top geographic target. ANY.RUN research connected 601 cases to the wider operation, which uses",
-      "published": "Thu, 03 Sep 2026 17:28:00 +0530",
-      "value_score": 26,
+      "source": "BleepingComputer",
+      "title": "New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
+      "summary": "An anonymous security researcher who uses the \"Nightmare Eclipse\" handle released a CrowdStrike Falcon zero-day exploit named \"FalconFlank\" that lets attackers escalate privileges on up-to-date Windows systems. [...]",
+      "published": "Fri, 04 Sep 2026 09:22:01 -0400",
+      "value_score": 66,
       "value_signals": [
-        "Phishing ×2"
+        "Zero-day ×2",
+        "Exploit wording"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks",
-      "link": "https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html",
-      "summary": "Threat actors are leveraging the trusted Node.js JavaScript runtime in multiple cyber attacks as a way to deploy malicious payloads. According to a new report published by the Symantec Threat Hunter Team today, the attack method has been put to use in attacks targeting government departments, technology companies, and hotels since February 2026. \"The technique's appeal is that node.exe (the",
-      "published": "Thu, 03 Sep 2026 16:13:01 +0530",
+      "source": "BleepingComputer",
+      "title": "Exchange Online outage causes email delays, 'Server busy' errors",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/",
+      "summary": "Microsoft is working to resolve an ongoing Exchange Online outage that is delaying email sent to and received from external domains. [...]",
+      "published": "Fri, 04 Sep 2026 08:22:30 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means",
-      "link": "https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html",
-      "summary": "In early August, GitGuardian researchers found that a recent Shai-Hulud infostealer worm variant had evolved to scan for credentials across 469 locations across developer environments, Continuous Integration/Continuous Deployment (CI/CD) tooling, cloud configurations, and even AI tool configs. Earlier variants of the infostealer worm only checked 189 paths. The jump says a lot. Attackers have",
-      "published": "Thu, 03 Sep 2026 16:06:39 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone",
-      "link": "https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html",
-      "summary": "The iPhone belonging to a member of Serbia's student protest movement was infected with NSO Group's Pegasus spyware, according to new findings from the Citizen Lab in collaboration with the SHARE Foundation. \"Our analysis confirmed that an iMessage zero-click exploit was used to infect the device with NSO Group's Pegasus spyware,\" the Citizen Lab said. \"We found high-confidence indicators of",
-      "published": "Thu, 03 Sep 2026 14:13:17 +0530",
-      "value_score": 16,
+      "source": "BleepingComputer",
+      "title": "Google warns of new Chrome zero-day flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/",
+      "summary": "Google has updated the Chrome browser to address an actively exploited high-severity zero-day flaw in the V8 engine and 11 other vulnerabilities. [...]",
+      "published": "Fri, 04 Sep 2026 07:48:17 -0400",
+      "value_score": 91,
       "value_signals": [
+        "Zero-day ×2",
+        "Active exploitation",
         "Exploit wording"
       ]
     },
@@ -199,37 +246,6 @@
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/",
       "summary": "ChatGPT and Codex are experiencing a major outage, with users reporting errors across nearly every major ChatGPT feature. [...]",
       "published": "Thu, 03 Sep 2026 11:13:29 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Anthropic confirms Claude is down, multiple models affected",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/",
-      "summary": "Claude is experiencing an outage, with users encountering elevated errors when sending requests to multiple Anthropic AI models. [...]",
-      "published": "Thu, 03 Sep 2026 11:02:52 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Critical Elementor Pro flaw exploited to take over WordPress sites",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/",
-      "summary": "A recently patched critical vulnerability (CVE-2026-32475) in the Elementor Pro plugin for WordPress is being exploited in attacks that deliver a webshell payload and execute arbitrary commands on the server. [...]",
-      "published": "Thu, 03 Sep 2026 10:52:20 -0400",
-      "value_score": 50,
-      "value_signals": [
-        "CVE mentioned",
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Your Employee’s Password Appeared in an Infostealer Log. Now What?",
-      "link": "https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/",
-      "summary": "Infostealers can expose far more than passwords, including authenticated sessions that may let attackers bypass MFA. Flare explains how defenders can prioritize compromised identities, determine whether stolen access is still usable, and respond before it leads to account takeover. [...]",
-      "published": "Thu, 03 Sep 2026 09:50:59 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -312,6 +328,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "AI Is Ending the Era of Hidden Vulnerabilities — Are Vendors Ready?",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/ai-ending-era-hidden-vulnerabilities-are-vendors-ready",
+      "summary": "A tidal wave of bug reports is overwhelming software vendors, exposing secure-by-design failures and creating disclosure bottlenecks.",
+      "published": "Fri, 04 Sep 2026 13:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Large Enterprises Targeted in Fake Merger &amp; Acquisition Scams",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/large-enterprises-fake-merger-acquisition-scams",
       "summary": "Threat actors behind the \"Phantom Deal\" campaign are studying companies in extreme detail, aiming to dupe midlevel employees into initiating large financial transfers.",
@@ -382,11 +407,69 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Threat Gang 'Springs' Vishing Attacks on Microsoft Teams Users",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/threat-gang-springs-vishing-attacks-microsoft-teams-users",
-      "summary": "The \"Spring Ring\" operation aims to compromise users of the collaboration suite to remotely access their sessions, spread malware, and even take over infrastructure.",
-      "published": "Wed, 02 Sep 2026 16:51:21 GMT",
+      "source": "Security Week",
+      "title": "Sangoma Switchvox Vulnerabilities Exploited in the Wild",
+      "link": "https://www.securityweek.com/sangoma-switchvox-vulnerabilities-exploited-in-the-wild/",
+      "summary": "Tracked as CVE-2026-9586, the unauthenticated SQL injection flaw can be exploited remotely for arbitrary code execution. The post Sangoma Switchvox Vulnerabilities Exploited in the Wild appeared first on SecurityWeek .",
+      "published": "Fri, 04 Sep 2026 13:23:12 +0000",
+      "value_score": 84,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover",
+      "link": "https://www.securityweek.com/12-year-old-postgresql-vulnerability-enables-database-server-takeover/",
+      "summary": "Dubbed PostGREShell, CVE-2026-6471 turns low-level replication access into code execution, permanent superuser privileges and a persistent database backdoor. The post 12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover appeared first on SecurityWeek .",
+      "published": "Fri, 04 Sep 2026 12:06:13 +0000",
+      "value_score": 40,
+      "value_signals": [
+        "CVE mentioned",
+        "Backdoor"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Catch Raises $5 Million for AI Executive Assistant With Guardrails",
+      "link": "https://www.securityweek.com/catch-raises-5-million-for-ai-executive-assistant-with-guardrails/",
+      "summary": "Catch promises the capabilities of a trusted executive assistant, with built-in controls governing what data and systems it can access. The post Catch Raises $5 Million for AI Executive Assistant With Guardrails appeared first on SecurityWeek .",
+      "published": "Fri, 04 Sep 2026 11:55:17 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "VMware Workstation and Fusion Updates Patch Critical Vulnerability",
+      "link": "https://www.securityweek.com/vmware-workstation-and-fusion-updates-patch-critical-vulnerability/",
+      "summary": "The flaws could allow attackers with administrative access to a virtual machine to execute code on the host system. The post VMware Workstation and Fusion Updates Patch Critical Vulnerability appeared first on SecurityWeek .",
+      "published": "Fri, 04 Sep 2026 11:42:55 +0000",
+      "value_score": 42,
+      "value_signals": [
+        "Patch/update ×2",
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Google Patches 6th Chrome Zero-Day of 2026",
+      "link": "https://www.securityweek.com/google-patches-6th-chrome-zero-day-of-2026/",
+      "summary": "Google’s Chrome 152 security update resolves 12 vulnerabilities, including a high-severity type confusion flaw in the V8 engine. The post Google Patches 6th Chrome Zero-Day of 2026 appeared first on SecurityWeek .",
+      "published": "Fri, 04 Sep 2026 11:31:52 +0000",
+      "value_score": 68,
+      "value_signals": [
+        "Zero-day ×2",
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Nvidia Is Buying AI Platform Hugging Face for $13 Billion",
+      "link": "https://www.securityweek.com/nvidia-is-buying-ai-platform-hugging-face-for-13-billion/",
+      "summary": "The deal highlights Nvidia’s push to champion increasingly popular open-source AI models. The post Nvidia Is Buying AI Platform Hugging Face for $13 Billion appeared first on SecurityWeek .",
+      "published": "Fri, 04 Sep 2026 10:00:00 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -405,67 +488,6 @@
       "link": "https://www.securityweek.com/capsule-security-launches-ai-circuit-breaker-to-stop-rogue-agents/",
       "summary": "New models, trained using NVIDIA Nemotron 3 Ultra, aim to catch rogue agent behavior before it executes, without the latency of large-model review. The post Capsule Security Launches ‘AI Circuit Breaker’ to Stop Rogue Agents appeared first on SecurityWeek .",
       "published": "Thu, 03 Sep 2026 15:15:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "HiddenLayer Raises $100 Million for AI Runtime Security",
-      "link": "https://www.securityweek.com/hiddenlayer-raises-100-million-for-ai-runtime-security/",
-      "summary": "The Austin-based company will invest in agentic runtime security capabilities to secure AI coding agents. The post HiddenLayer Raises $100 Million for AI Runtime Security appeared first on SecurityWeek .",
-      "published": "Thu, 03 Sep 2026 12:17:30 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "AI Agent Firewall Startup AIR Security Emerges From Stealth With $50 Million",
-      "link": "https://www.securityweek.com/ai-agent-firewall-startup-air-security-emerges-from-stealth-with-50-million/",
-      "summary": "The startup’s firewall evaluates AI skills, plugins and MCP servers for malicious instructions, excessive permissions and software supply chain risks. The post AI Agent Firewall Startup AIR Security Emerges From Stealth With $50 Million appeared first on SecurityWeek .",
-      "published": "Thu, 03 Sep 2026 12:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "153 Million Driver License Images Offered on Dark Web",
-      "link": "https://www.securityweek.com/153-million-driver-license-images-offered-on-dark-web/",
-      "summary": "Cybercriminals are offering digital scans of US and Canadian driver’s licenses, likely stolen from IDScan.net. The post 153 Million Driver License Images Offered on Dark Web appeared first on SecurityWeek .",
-      "published": "Thu, 03 Sep 2026 10:54:18 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability",
-      "link": "https://www.securityweek.com/over-3-million-wordpress-sites-affected-by-migration-plugin-vulnerability/",
-      "summary": "The high-severity SQL injection flaw (CVE-2026-19949) could allow unauthenticated attackers to achieve remote code execution. The post Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability appeared first on SecurityWeek .",
-      "published": "Thu, 03 Sep 2026 10:40:00 +0000",
-      "value_score": 48,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Cisco Warns of Unpatched Secure Email Flaws, Patches Critical Switch Vulnerabilities",
-      "link": "https://www.securityweek.com/cisco-warns-of-unpatched-secure-email-flaws-patches-critical-switch-vulnerabilities/",
-      "summary": "Publicly disclosed S/MIME flaws could expose encrypted email content, while critical IOS XR and Nexus bugs could enable remote code execution and authentication bypass. The post Cisco Warns of Unpatched Secure Email Flaws, Patches Critical Switch Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Thu, 03 Sep 2026 10:30:00 +0000",
-      "value_score": 61,
-      "value_signals": [
-        "RCE",
-        "Auth bypass",
-        "High severity ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "OpenLeash Adds a Human Check to Risky AI Agent Actions",
-      "link": "https://www.securityweek.com/openleash-adds-a-human-check-to-risky-ai-agent-actions/",
-      "summary": "The security tool intercepts potentially dangerous agent actions, blocking clear threats and requesting human approval when intent is uncertain. The post OpenLeash Adds a Human Check to Risky AI Agent Actions appeared first on SecurityWeek .",
-      "published": "Wed, 02 Sep 2026 19:30:00 +0000",
       "value_score": 10,
       "value_signals": []
     },

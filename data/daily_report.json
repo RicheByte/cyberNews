@@ -1,72 +1,105 @@
 {
-  "last_updated": "2026-09-04 13:55",
+  "last_updated": "2026-09-04 17:20",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "guardrails catch promises",
+    "1 1 billion",
+    "enterprise security teams",
+    "sophisticated threat group",
+    "individuals whose licenses",
     "vendor's edge devices",
     "twitter whistleblower complaint",
-    "openai confirms chatgpt",
-    "individuals whose licenses",
-    "defraud online merchants",
+    "longest running spree",
     "large enterprises targeted",
-    "unauthenticated remote attacker",
-    "ios xr version",
-    "allows unauthenticated attackers",
-    "national security risk",
-    "june 30 2026",
-    "enterprise security teams",
-    "cve 2026 9586",
-    "anonymous security researcher",
+    "guardrails catch promises",
+    "defraud online merchants",
+    "critical infrastructure defenders",
     "vulnerability discoveries aided",
-    "nexus vulnerability tracked",
-    "large model review",
-    "sophisticated threat group",
-    "statement released today"
+    "sprawling phishing campaign",
+    "national security risk",
+    "anonymous security researcher",
+    "statement released today",
+    "turn one's television",
+    "text history records",
+    "sophisticated cybercrime syndicate",
+    "software giant fixed"
   ],
   "trending": [
     {
-      "keyword": "guardrails catch promises",
+      "keyword": "1 1 billion",
       "mentions": 1
     },
     {
-      "keyword": "vendor's edge devices",
+      "keyword": "enterprise security teams",
+      "mentions": 2
+    },
+    {
+      "keyword": "sophisticated threat group",
       "mentions": 7
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2582
-    },
-    {
-      "keyword": "openai confirms chatgpt",
-      "mentions": 12
-    },
-    {
       "keyword": "individuals whose licenses",
-      "mentions": 12
+      "mentions": 13
     },
     {
-      "keyword": "defraud online merchants",
-      "mentions": 1
+      "keyword": "vendor's edge devices",
+      "mentions": 8
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2583
+    },
+    {
+      "keyword": "longest running spree",
+      "mentions": 2
     },
     {
       "keyword": "large enterprises targeted",
-      "mentions": 4
-    },
-    {
-      "keyword": "unauthenticated remote attacker",
-      "mentions": 38
-    },
-    {
-      "keyword": "ios xr version",
       "mentions": 5
     },
     {
-      "keyword": "allows unauthenticated attackers",
-      "mentions": 1
+      "keyword": "guardrails catch promises",
+      "mentions": 2
+    },
+    {
+      "keyword": "defraud online merchants",
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
+      "link": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
+      "summary": "Microsoft is alerting of a \"high-volume phishing campaign\" that's using invisible Unicode tag characters to bypass email filters. \"Instead of using these characters to hide instructions from people while exposing them to AI models, the attacker used them to split financial lure words such as 'funding' to prevent email filters from parsing them,\" the Microsoft Security Research team said. The",
+      "published": "Fri, 04 Sep 2026 21:27:15 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
+      "link": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
+      "summary": "PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server. The flaw, tracked as CVE-2026-6471 (CVSS score: 7.2), has been present since logical decoding was introduced in PostgreSQL 9.4 in 2014. Versions before PostgreSQL 18.6, 17.11, 16.15, 15.19, and 14.24 are",
+      "published": "Fri, 04 Sep 2026 20:50:19 +0530",
+      "value_score": 28,
+      "value_signals": [
+        "CVE mentioned"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
+      "link": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
+      "summary": "A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served altered pages to selected visitors. The attackers named the implant ted in debug strings left in the binary. It is not a HAProxy vulnerability, and installing it requires code execution on the host and",
+      "published": "Fri, 04 Sep 2026 20:21:13 +0530",
+      "value_score": 22,
+      "value_signals": [
+        "Backdoor"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
@@ -132,36 +165,47 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root",
-      "link": "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html",
-      "summary": "Cisco has released patches to address a critical security flaw affecting 10 Silicon One-based Nexus 9000 switches that could allow an unauthenticated, remote attacker to execute code as root, alongside an IOS XR hardening release bundling 7 umbrella CVEs, 2 of which are rated 9.8, with no workaround for any IOS XR version. The Nexus vulnerability, tracked as CVE-2026-20212 (CVSS score: 9.8), is",
-      "published": "Thu, 03 Sep 2026 21:22:07 +0530",
-      "value_score": 44,
-      "value_signals": [
-        "CVE mentioned",
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory",
-      "link": "https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html",
-      "summary": "Cybersecurity researchers have disclosed details of a sophisticated Python-based Windows malware framework called BraZetsu that fuels an underground marketplace commercializing access to compromised hosts. \"Unlike the standard infostealer model, BraZetsu is a comprehensive master toolkit that empowers Initial Access Brokers (IABs) by turning compromised systems into highly valuable commercial",
-      "published": "Thu, 03 Sep 2026 20:56:47 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data",
-      "link": "https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html",
-      "summary": "Thomson Reuters disclosed on Wednesday that an unauthorized party obtained files from C-Track, the court case management platform sold by its West Publishing Corporation unit, in March 2026, affecting courts in 11 U.S. states, the U.S. Virgin Islands, and Ontario, Canada. West Publishing said it discovered the activity on June 30, 2026. A subset of court records could contain individuals' names",
-      "published": "Thu, 03 Sep 2026 20:09:05 +0530",
+      "source": "BleepingComputer",
+      "title": "IDScan sued over alleged data breach affecting 153 million drivers",
+      "link": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/",
+      "summary": "Multiple lawsuits have been filed against identity verification company IDScan after hackers allegedly breached the service and offered to sell more than 153 million driver's licenses. [...]",
+      "published": "Fri, 04 Sep 2026 12:56:45 -0400",
       "value_score": 22,
       "value_signals": [
         "Breach/leak"
       ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/",
+      "summary": "Attackers have begun targeting a critical-severity Citrix NetScaler auth bypass flaw (CVE-2026-19490) in the wild, according to vulnerability intelligence company Previdian. [...]",
+      "published": "Fri, 04 Sep 2026 11:25:59 -0400",
+      "value_score": 99,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation",
+        "Auth bypass ×2",
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft says some users can’t open the Teams desktop client",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/",
+      "summary": "Microsoft is working to resolve a known issue that causes delays or blocks some users from opening the Microsoft Teams desktop client on Windows systems. [...]",
+      "published": "Fri, 04 Sep 2026 10:30:15 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "39 New Methods That Compromise Passkey Authentication",
+      "link": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/",
+      "summary": "Passkeys eliminate many password-based attacks, but researchers have documented 39 methods for compromising authentication built around them. Token explains how attackers can abuse authentication prompts, synced credentials, enrollment, recovery, and other trust boundaries without breaking FIDO2 cryptography. [...]",
+      "published": "Fri, 04 Sep 2026 10:01:11 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -207,47 +251,6 @@
       "value_signals": [
         "Breach/leak"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Coder's registry infrastructure compromised to push malicious modules",
-      "link": "https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/",
-      "summary": "Attackers compromised Coder's Cloudflare infrastructure and added unauthorized registry servers that delivered malicious Terraform modules containing credential-stealing code. [...]",
-      "published": "Thu, 03 Sep 2026 16:04:24 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "HPE patches critical ArubaOS-CX remote code execution flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/",
-      "summary": "Hewlett Packard Enterprise (HPE) has patched a critical vulnerability in the ArubaOS-CX network operating system that could lead to remote code execution. [...]",
-      "published": "Thu, 03 Sep 2026 14:28:12 -0400",
-      "value_score": 66,
-      "value_signals": [
-        "RCE ×2",
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft: KB5120998 mouse reset bug affects only non-English PCs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/",
-      "summary": "Microsoft says a known issue that reverts mouse settings after installing the KB5120998 August 2026 preview update affects only non-English Windows 11 systems. [...]",
-      "published": "Thu, 03 Sep 2026 11:22:33 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OpenAI confirms ChatGPT is down ahead of 'Astra' model launch",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/",
-      "summary": "ChatGPT and Codex are experiencing a major outage, with users reporting errors across nearly every major ChatGPT feature. [...]",
-      "published": "Thu, 03 Sep 2026 11:13:29 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -328,6 +331,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Companies Have Six Months to Prepare for Automated Attacks",
+      "link": "https://www.darkreading.com/cybersecurity-operations/companies-six-months-prepare-automated-attacks",
+      "summary": "Frontier AI models have already demonstrated they can autonomously — and in some cases, inadvertently — conduct end-to-end compromises, but the situation will become more urgent very soon.",
+      "published": "Fri, 04 Sep 2026 15:57:31 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "AI Is Ending the Era of Hidden Vulnerabilities — Are Vendors Ready?",
       "link": "https://www.darkreading.com/vulnerabilities-threats/ai-ending-era-hidden-vulnerabilities-are-vendors-ready",
       "summary": "A tidal wave of bug reports is overwhelming software vendors, exposing secure-by-design failures and creating disclosure bottlenecks.",
@@ -398,13 +410,37 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "AI Gives Cybercriminals a Dangerous Time Advantage",
-      "link": "https://www.darkreading.com/threat-intelligence/ai-gives-cybercriminals-dangerous-time-advantage",
-      "summary": "Former cybercriminal Brett Johnson provides a look inside the mind of a threat actor and discusses where AI provides the most value for attackers.",
-      "published": "Wed, 02 Sep 2026 19:46:31 GMT",
+      "source": "Security Week",
+      "title": "In Other News: Microsoft’s Cloud Patches, Hacked Dropbox Accounts, Guardio’s $1.1B Valuation",
+      "link": "https://www.securityweek.com/in-other-news-microsofts-cloud-patches-hacked-dropbox-accounts-guardios-1-1b-valuation/",
+      "summary": "Noteworthy stories that might have slipped under the radar: Microsoft rolled out patches for cloud services, hackers compromised 5,000 Dropbox accounts, and Guardio is now valued at $1.1 billion. The post In Other News: Microsoft’s Cloud Patches, Hacked Dropbox Accounts, Guardio’s $1.1B Valuation appeared first on SecurityWeek .",
+      "published": "Fri, 04 Sep 2026 16:18:30 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "HPE Patches Critical RCE Vulnerabilities in AOS-CX",
+      "link": "https://www.securityweek.com/hpe-patches-critical-rce-vulnerabilities-in-aos-cx/",
+      "summary": "Nearly two dozen issues, tracked collectively as CVE-2026-73749 (CVSS score of 9.8), were addressed with the updates. The post HPE Patches Critical RCE Vulnerabilities in AOS-CX appeared first on SecurityWeek .",
+      "published": "Fri, 04 Sep 2026 16:11:06 +0000",
+      "value_score": 84,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE ×2",
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "OpenAI Pledges $1 Billion to Bring Frontier AI to Critical Infrastructure Defenders",
+      "link": "https://www.securityweek.com/openai-pledges-1-billion-to-bring-frontier-ai-to-critical-infrastructure-defenders/",
+      "summary": "The Daybreak initiative will provide subsidized AI cyber capabilities, training and technical assistance, though OpenAI has disclosed few details about costs and eligibility. The post OpenAI Pledges $1 Billion to Bring Frontier AI to Critical Infrastructure Defenders appeared first on SecurityWeek .",
+      "published": "Fri, 04 Sep 2026 16:07:22 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×2"
+      ]
     },
     {
       "source": "Security Week",
@@ -463,33 +499,6 @@
         "Zero-day ×2",
         "Patch/update"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Nvidia Is Buying AI Platform Hugging Face for $13 Billion",
-      "link": "https://www.securityweek.com/nvidia-is-buying-ai-platform-hugging-face-for-13-billion/",
-      "summary": "The deal highlights Nvidia’s push to champion increasingly popular open-source AI models. The post Nvidia Is Buying AI Platform Hugging Face for $13 Billion appeared first on SecurityWeek .",
-      "published": "Fri, 04 Sep 2026 10:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Manchester Airports Group Data on 8.8 Million People Leaked After Ransom Refusal",
-      "link": "https://www.securityweek.com/manchester-airports-group-data-on-8-8-million-people-leaked-after-ransom-refusal/",
-      "summary": "Hacker group published roughly 550GB of data after MAG reportedly refused to pay a ransom demand; the group says it gained access via exposed admin keys. The post Manchester Airports Group Data on 8.8 Million People Leaked After Ransom Refusal appeared first on SecurityWeek .",
-      "published": "Thu, 03 Sep 2026 15:35:19 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Capsule Security Launches ‘AI Circuit Breaker’ to Stop Rogue Agents",
-      "link": "https://www.securityweek.com/capsule-security-launches-ai-circuit-breaker-to-stop-rogue-agents/",
-      "summary": "New models, trained using NVIDIA Nemotron 3 Ultra, aim to catch rogue agent behavior before it executes, without the latency of large-model review. The post Capsule Security Launches ‘AI Circuit Breaker’ to Stop Rogue Agents appeared first on SecurityWeek .",
-      "published": "Thu, 03 Sep 2026 15:15:00 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

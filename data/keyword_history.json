@@ -324,7 +324,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2582,
+      "count": 2583,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1249,7 +1249,7 @@
       ]
     },
     "national security risk": {
-      "count": 444,
+      "count": 445,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2001,7 +2001,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 592,
+      "count": 593,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2114,7 +2114,8 @@
         "2026-08-26",
         "2026-08-31",
         "2026-09-01",
-        "2026-09-02"
+        "2026-09-02",
+        "2026-09-04"
       ]
     },
     "model agnostic abstractions": {
@@ -23435,7 +23436,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 206,
+      "count": 207,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -23833,7 +23834,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 143,
+      "count": 144,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -24635,7 +24636,7 @@
       ]
     },
     "turn one's television": {
-      "count": 230,
+      "count": 231,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -24672,7 +24673,8 @@
         "2026-08-31",
         "2026-09-01",
         "2026-09-02",
-        "2026-09-03"
+        "2026-09-03",
+        "2026-09-04"
       ]
     },
     "anthropic's claude cowork": {
@@ -26361,7 +26363,7 @@
       ]
     },
     "text history records": {
-      "count": 169,
+      "count": 170,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -26386,7 +26388,8 @@
         "2026-08-27",
         "2026-08-30",
         "2026-09-01",
-        "2026-09-02"
+        "2026-09-02",
+        "2026-09-04"
       ]
     },
     "chatgpt secure sandbox": {
@@ -28785,7 +28788,7 @@
       ]
     },
     "statement released today": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-08-31",
         "2026-09-01",
@@ -28841,11 +28844,12 @@
       ]
     },
     "sophisticated cybercrime syndicate": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-08-31",
         "2026-09-01",
-        "2026-09-02"
+        "2026-09-02",
+        "2026-09-04"
       ]
     },
     "cronos blockchain network": {
@@ -28926,9 +28930,10 @@
       ]
     },
     "longest running spree": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-09-01"
+        "2026-09-01",
+        "2026-09-04"
       ]
     },
     "external actors attempted": {
@@ -29007,7 +29012,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29186,7 +29191,7 @@
       ]
     },
     "vendor's edge devices": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29220,7 +29225,7 @@
       ]
     },
     "sophisticated threat group": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-09-03",
         "2026-09-04"
@@ -29294,7 +29299,7 @@
       ]
     },
     "large enterprises targeted": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-03",
         "2026-09-04"
@@ -29308,13 +29313,13 @@
       ]
     },
     "guardrails catch promises": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-04"
       ]
     },
     "defraud online merchants": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-04"
       ]
@@ -29326,7 +29331,7 @@
       ]
     },
     "enterprise security teams": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-04"
       ]
@@ -29338,7 +29343,7 @@
       ]
     },
     "anonymous security researcher": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-04"
       ]
@@ -29348,20 +29353,21 @@
       "dates": [
         "2026-09-04"
       ]
+    },
+    "1 1 billion": {
+      "count": 1,
+      "dates": [
+        "2026-09-04"
+      ]
+    },
+    "critical infrastructure defenders": {
+      "count": 1,
+      "dates": [
+        "2026-09-04"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-21 14:28",
-      "articles": 48,
-      "top_keywords": [
-        "think tanks within",
-        "cisa orders feds",
-        "twitter whistleblower complaint",
-        "poisoned arrayref version",
-        "maintainer account behind"
-      ]
-    },
     {
       "timestamp": "2026-08-21 16:25",
       "articles": 48,
@@ -30449,6 +30455,17 @@
         "twitter whistleblower complaint",
         "openai confirms chatgpt",
         "individuals whose licenses"
+      ]
+    },
+    {
+      "timestamp": "2026-09-04 17:20",
+      "articles": 48,
+      "top_keywords": [
+        "1 1 billion",
+        "enterprise security teams",
+        "sophisticated threat group",
+        "individuals whose licenses",
+        "vendor's edge devices"
       ]
     }
   ]

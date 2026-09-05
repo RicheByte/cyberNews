@@ -324,7 +324,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2586,
+      "count": 2587,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1250,7 +1250,7 @@
       ]
     },
     "national security risk": {
-      "count": 448,
+      "count": 449,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2003,7 +2003,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 596,
+      "count": 597,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -3355,7 +3355,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 336,
+      "count": 337,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3410,7 +3410,8 @@
         "2026-08-14",
         "2026-08-15",
         "2026-08-16",
-        "2026-08-17"
+        "2026-08-17",
+        "2026-09-05"
       ]
     },
     "authenticated remote attacker": {
@@ -23354,7 +23355,7 @@
       ]
     },
     "software almost triple": {
-      "count": 187,
+      "count": 188,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23441,7 +23442,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 210,
+      "count": 211,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -23840,7 +23841,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 147,
+      "count": 148,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -28797,7 +28798,7 @@
       ]
     },
     "statement released today": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-08-31",
         "2026-09-01",
@@ -28941,7 +28942,7 @@
       ]
     },
     "longest running spree": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-01",
         "2026-09-04",
@@ -29024,7 +29025,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29238,7 +29239,7 @@
       ]
     },
     "sophisticated threat group": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-09-03",
         "2026-09-04",
@@ -29313,7 +29314,7 @@
       ]
     },
     "large enterprises targeted": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-09-03",
         "2026-09-04",
@@ -29328,14 +29329,14 @@
       ]
     },
     "guardrails catch promises": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-04",
         "2026-09-05"
       ]
     },
     "defraud online merchants": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-04",
         "2026-09-05"
@@ -29360,7 +29361,7 @@
       ]
     },
     "anonymous security researcher": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-04",
         "2026-09-05"
@@ -29373,14 +29374,14 @@
       ]
     },
     "1 1 billion": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-04",
         "2026-09-05"
       ]
     },
     "critical infrastructure defenders": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-04",
         "2026-09-05"
@@ -29392,20 +29393,27 @@
         "2026-09-04",
         "2026-09-05"
       ]
+    },
+    "universities threat actors": {
+      "count": 1,
+      "dates": [
+        "2026-09-05"
+      ]
+    },
+    "conduct command execution": {
+      "count": 1,
+      "dates": [
+        "2026-09-05"
+      ]
+    },
+    "requires code execution": {
+      "count": 1,
+      "dates": [
+        "2026-09-05"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-21 22:17",
-      "articles": 48,
-      "top_keywords": [
-        "sprawling phishing campaign",
-        "twitter whistleblower complaint",
-        "trusted execution environment",
-        "poisoned arrayref version",
-        "multi stage downloader"
-      ]
-    },
     {
       "timestamp": "2026-08-22 00:55",
       "articles": 48,
@@ -30493,6 +30501,17 @@
         "individuals whose licenses",
         "twitter whistleblower complaint",
         "longest running spree"
+      ]
+    },
+    {
+      "timestamp": "2026-09-05 07:59",
+      "articles": 48,
+      "top_keywords": [
+        "1 1 billion",
+        "universities threat actors",
+        "conduct command execution",
+        "individuals whose licenses",
+        "sophisticated threat group"
       ]
     }
   ]

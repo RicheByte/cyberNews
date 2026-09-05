@@ -1,11 +1,13 @@
 {
-  "last_updated": "2026-09-05 02:33",
+  "last_updated": "2026-09-05 07:59",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "1 1 billion",
-    "sophisticated threat group",
+    "universities threat actors",
+    "conduct command execution",
     "individuals whose licenses",
+    "sophisticated threat group",
     "twitter whistleblower complaint",
     "longest running spree",
     "large enterprises targeted",
@@ -13,60 +15,73 @@
     "defraud online merchants",
     "critical infrastructure defenders",
     "sprawling phishing campaign",
+    "software giant fixed",
+    "software almost triple",
     "vulnerability discoveries aided",
+    "requires code execution",
+    "arbitrary code execution",
     "national security risk",
     "anonymous security researcher",
-    "statement released today",
-    "unintended harm caused",
-    "turn one's television",
-    "text history records",
-    "sophisticated cybercrime syndicate",
-    "software giant fixed",
-    "software almost triple"
+    "statement released today"
   ],
   "trending": [
     {
       "keyword": "1 1 billion",
-      "mentions": 4
+      "mentions": 5
     },
     {
-      "keyword": "sophisticated threat group",
-      "mentions": 10
+      "keyword": "universities threat actors",
+      "mentions": 1
+    },
+    {
+      "keyword": "conduct command execution",
+      "mentions": 1
     },
     {
       "keyword": "individuals whose licenses",
-      "mentions": 16
+      "mentions": 17
+    },
+    {
+      "keyword": "sophisticated threat group",
+      "mentions": 11
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2586
+      "mentions": 2587
     },
     {
       "keyword": "longest running spree",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "large enterprises targeted",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "guardrails catch promises",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "defraud online merchants",
-      "mentions": 5
-    },
-    {
-      "keyword": "critical infrastructure defenders",
-      "mentions": 4
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 596
+      "mentions": 6
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
+      "summary": "Threat actors are exploiting the newly disclosed PaperCut flaws to facilitate credential theft in attacks targeting the education sector in the U.S. and Europe. The Arctic Wolf Adversary Research Team said it observed attackers exploiting CVE-2026-81578 and CVE-2026-82078 – an authentication bypass and remote code execution chain – to conduct command execution and reconnaissance, as well as",
+      "published": "Sat, 05 Sep 2026 13:01:53 +0530",
+      "value_score": 95,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "RCE",
+        "Auth bypass",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
@@ -151,17 +166,6 @@
         "PoC available",
         "High severity",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
-      "link": "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html",
-      "summary": "The worst part is how normal these attacks look. A call from IT. A shared file. A trusted app. A simple request to click “Allow.” Why break in when someone might open the door? That idea runs through this edition. Attackers use real tools, fake login pages, old account links, and software guides that point to unsafe downloads. One wrong letter in a web address can be enough. There is also",
-      "published": "Thu, 03 Sep 2026 23:32:47 +0530",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
       ]
     },
     {

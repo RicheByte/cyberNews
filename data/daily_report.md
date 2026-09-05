@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-05 02:33 UTC  
+> **Last Updated:** 2026-09-05 07:59 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**1 1 billion** • **sophisticated threat group** • **individuals whose licenses** • **twitter whistleblower complaint** • **longest running spree** • **large enterprises targeted** • **guardrails catch promises** • **defraud online merchants** • **critical infrastructure defenders** • **sprawling phishing campaign** • **vulnerability discoveries aided** • **national security risk** • **anonymous security researcher** • **statement released today** • **unintended harm caused** • **turn one's television** • **text history records** • **sophisticated cybercrime syndicate** • **software giant fixed** • **software almost triple**
+**1 1 billion** • **universities threat actors** • **conduct command execution** • **individuals whose licenses** • **sophisticated threat group** • **twitter whistleblower complaint** • **longest running spree** • **large enterprises targeted** • **guardrails catch promises** • **defraud online merchants** • **critical infrastructure defenders** • **sprawling phishing campaign** • **software giant fixed** • **software almost triple** • **vulnerability discoveries aided** • **requires code execution** • **arbitrary code execution** • **national security risk** • **anonymous security researcher** • **statement released today**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities](https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html)
 - [Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters](https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html)
 - [PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution](https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html)
 - [New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic](https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html)
@@ -23,7 +24,6 @@
 - [Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws](https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html)
 - [Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day](https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html)
 - [GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests](https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html)
-- [ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories](https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html)
 
 ### BleepingComputer
 

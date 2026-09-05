@@ -324,7 +324,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2589,
+      "count": 2590,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2003,7 +2003,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 599,
+      "count": 600,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -3355,7 +3355,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 339,
+      "count": 340,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -23356,7 +23356,7 @@
       ]
     },
     "software almost triple": {
-      "count": 190,
+      "count": 191,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23443,7 +23443,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 213,
+      "count": 214,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -23842,7 +23842,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 150,
+      "count": 151,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -28943,7 +28943,7 @@
       ]
     },
     "longest running spree": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-09-01",
         "2026-09-04",
@@ -29026,7 +29026,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29240,7 +29240,7 @@
       ]
     },
     "sophisticated threat group": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-09-03",
         "2026-09-04",
@@ -29288,7 +29288,7 @@
       ]
     },
     "frontier ai agents": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-09-03",
         "2026-09-04",
@@ -29316,7 +29316,7 @@
       ]
     },
     "large enterprises targeted": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-09-03",
         "2026-09-04",
@@ -29331,14 +29331,14 @@
       ]
     },
     "guardrails catch promises": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-09-04",
         "2026-09-05"
       ]
     },
     "defraud online merchants": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-09-04",
         "2026-09-05"
@@ -29376,40 +29376,40 @@
       ]
     },
     "1 1 billion": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-09-04",
         "2026-09-05"
       ]
     },
     "critical infrastructure defenders": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-04",
         "2026-09-05"
       ]
     },
     "unintended harm caused": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-04",
         "2026-09-05"
       ]
     },
     "universities threat actors": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-05"
       ]
     },
     "conduct command execution": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-05"
       ]
     },
     "requires code execution": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-05"
       ]
@@ -29419,20 +29419,15 @@
       "dates": [
         "2026-09-05"
       ]
+    },
+    "18 000 posts": {
+      "count": 1,
+      "dates": [
+        "2026-09-05"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-22 04:26",
-      "articles": 48,
-      "top_keywords": [
-        "sprawling phishing campaign",
-        "twitter whistleblower complaint",
-        "trusted execution environment",
-        "poisoned arrayref version",
-        "multi stage downloader"
-      ]
-    },
     {
       "timestamp": "2026-08-22 06:29",
       "articles": 48,
@@ -30520,6 +30515,17 @@
         "universities threat actors",
         "conduct command execution",
         "individuals whose licenses"
+      ]
+    },
+    {
+      "timestamp": "2026-09-05 17:51",
+      "articles": 48,
+      "top_keywords": [
+        "1 1 billion",
+        "universities threat actors",
+        "conduct command execution",
+        "individuals whose licenses",
+        "arbitrary code execution"
       ]
     }
   ]

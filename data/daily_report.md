@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-05 19:49 UTC  
+> **Last Updated:** 2026-09-05 21:50 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**1 1 billion** • **universities threat actors** • **conduct command execution** • **individuals whose licenses** • **arbitrary code execution** • **twitter whistleblower complaint** • **software giant fixed** • **software almost triple** • **longest running spree** • **large enterprises targeted** • **guardrails catch promises** • **defraud online merchants** • **18 000 posts** • **sprawling phishing campaign** • **critical infrastructure defenders** • **sophisticated threat group** • **requires code execution** • **frontier ai agents** • **vulnerability discoveries aided** • **unintended harm caused**
+**1 1 billion** • **universities threat actors** • **conduct command execution** • **arbitrary code execution** • **individuals whose licenses** • **defraud online merchants** • **twitter whistleblower complaint** • **software giant fixed** • **software almost triple** • **longest running spree** • **large enterprises targeted** • **guardrails catch promises** • **18 000 posts** • **sprawling phishing campaign** • **critical infrastructure defenders** • **sophisticated threat group** • **vulnerability discoveries aided** • **integer overflow vulnerability** • **frontier ai agents** • **unintended harm caused**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores](https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html)
 - [Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials](https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html)
 - [Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code](https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html)
 - [Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted](https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html)
@@ -23,7 +24,6 @@
 - [Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities](https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html)
 - [Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters](https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html)
 - [PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution](https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html)
-- [New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic](https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html)
 
 ### BleepingComputer
 

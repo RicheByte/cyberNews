@@ -1,72 +1,85 @@
 {
-  "last_updated": "2026-09-05 19:49",
+  "last_updated": "2026-09-05 21:50",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "1 1 billion",
     "universities threat actors",
     "conduct command execution",
-    "individuals whose licenses",
     "arbitrary code execution",
+    "individuals whose licenses",
+    "defraud online merchants",
     "twitter whistleblower complaint",
     "software giant fixed",
     "software almost triple",
     "longest running spree",
     "large enterprises targeted",
     "guardrails catch promises",
-    "defraud online merchants",
     "18 000 posts",
     "sprawling phishing campaign",
     "critical infrastructure defenders",
     "sophisticated threat group",
-    "requires code execution",
-    "frontier ai agents",
     "vulnerability discoveries aided",
+    "integer overflow vulnerability",
+    "frontier ai agents",
     "unintended harm caused"
   ],
   "trending": [
     {
       "keyword": "1 1 billion",
-      "mentions": 9
-    },
-    {
-      "keyword": "universities threat actors",
-      "mentions": 5
-    },
-    {
-      "keyword": "conduct command execution",
-      "mentions": 5
-    },
-    {
-      "keyword": "individuals whose licenses",
-      "mentions": 21
-    },
-    {
-      "keyword": "arbitrary code execution",
-      "mentions": 341
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2591
-    },
-    {
-      "keyword": "software giant fixed",
-      "mentions": 215
-    },
-    {
-      "keyword": "software almost triple",
-      "mentions": 192
-    },
-    {
-      "keyword": "longest running spree",
       "mentions": 10
     },
     {
-      "keyword": "large enterprises targeted",
-      "mentions": 13
+      "keyword": "universities threat actors",
+      "mentions": 6
+    },
+    {
+      "keyword": "conduct command execution",
+      "mentions": 6
+    },
+    {
+      "keyword": "arbitrary code execution",
+      "mentions": 342
+    },
+    {
+      "keyword": "individuals whose licenses",
+      "mentions": 22
+    },
+    {
+      "keyword": "defraud online merchants",
+      "mentions": 11
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2592
+    },
+    {
+      "keyword": "software giant fixed",
+      "mentions": 216
+    },
+    {
+      "keyword": "software almost triple",
+      "mentions": 193
+    },
+    {
+      "keyword": "longest running spree",
+      "mentions": 11
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
+      "link": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html",
+      "summary": "Attackers are exploiting a new unpatched vulnerability in Magento Open Source and Adobe Commerce that lets them run malicious code on an online store's server without logging in, Dutch e-commerce security company Sansec said in an advisory published on September 5. Sansec, which discovered the flaw and named it StyleSmuggler, said attacks started on September 4. \"Sansec is publishing early",
+      "published": "Sun, 06 Sep 2026 01:44:47 +0530",
+      "value_score": 53,
+      "value_signals": [
+        "Zero-day",
+        "Backdoor",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
@@ -148,17 +161,6 @@
       "value_score": 28,
       "value_signals": [
         "CVE mentioned"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
-      "link": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
-      "summary": "A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served altered pages to selected visitors. The attackers named the implant ted in debug strings left in the binary. It is not a HAProxy vulnerability, and installing it requires code execution on the host and",
-      "published": "Fri, 04 Sep 2026 20:21:13 +0530",
-      "value_score": 22,
-      "value_signals": [
-        "Backdoor"
       ]
     },
     {

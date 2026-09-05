@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05 21:50",
+  "last_updated": "2026-09-05 23:29",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "1 1 billion",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "universities threat actors",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "conduct command execution",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 342
+      "mentions": 343
     },
     {
       "keyword": "individuals whose licenses",
-      "mentions": 22
+      "mentions": 23
     },
     {
       "keyword": "defraud online merchants",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2592
+      "mentions": 2593
     },
     {
       "keyword": "software giant fixed",
-      "mentions": 216
+      "mentions": 217
     },
     {
       "keyword": "software almost triple",
-      "mentions": 193
+      "mentions": 194
     },
     {
       "keyword": "longest running spree",
-      "mentions": 11
+      "mentions": 12
     }
   ],
   "articles": [
@@ -71,7 +71,7 @@
       "source": "The Hacker News",
       "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
       "link": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html",
-      "summary": "Attackers are exploiting a new unpatched vulnerability in Magento Open Source and Adobe Commerce that lets them run malicious code on an online store's server without logging in, Dutch e-commerce security company Sansec said in an advisory published on September 5. Sansec, which discovered the flaw and named it StyleSmuggler, said attacks started on September 4. \"Sansec is publishing early",
+      "summary": "Attackers are exploiting a new unpatched vulnerability in Magento Open Source and Adobe Commerce that lets them run malicious code on an online store's server without logging in, Dutch e-commerce security company Sansec said in an advisory published on September 5. Sansec, which discovered the flaw and named it StyleSmuggler, said attacks started on September 4. \"Sansec is",
       "published": "Sun, 06 Sep 2026 01:44:47 +0530",
       "value_score": 53,
       "value_signals": [

@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-09-05 07:59",
+  "last_updated": "2026-09-05 11:45",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "1 1 billion",
+    "remote openai admits",
     "universities threat actors",
     "conduct command execution",
     "individuals whose licenses",
-    "sophisticated threat group",
     "twitter whistleblower complaint",
+    "software giant fixed",
+    "software almost triple",
     "longest running spree",
     "large enterprises targeted",
     "guardrails catch promises",
     "defraud online merchants",
-    "critical infrastructure defenders",
     "sprawling phishing campaign",
-    "software giant fixed",
-    "software almost triple",
     "vulnerability discoveries aided",
     "requires code execution",
     "arbitrary code execution",
-    "national security risk",
-    "anonymous security researcher",
-    "statement released today"
+    "frontier ai agents",
+    "sophisticated threat group",
+    "statement released today",
+    "unintended harm caused"
   ],
   "trending": [
     {
       "keyword": "1 1 billion",
-      "mentions": 5
+      "mentions": 6
+    },
+    {
+      "keyword": "remote openai admits",
+      "mentions": 1
     },
     {
       "keyword": "universities threat actors",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "conduct command execution",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "individuals whose licenses",
-      "mentions": 17
-    },
-    {
-      "keyword": "sophisticated threat group",
-      "mentions": 11
+      "mentions": 18
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2587
+      "mentions": 2588
+    },
+    {
+      "keyword": "software giant fixed",
+      "mentions": 212
+    },
+    {
+      "keyword": "software almost triple",
+      "mentions": 189
     },
     {
       "keyword": "longest running spree",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "large enterprises targeted",
-      "mentions": 9
-    },
-    {
-      "keyword": "guardrails catch promises",
-      "mentions": 6
-    },
-    {
-      "keyword": "defraud online merchants",
-      "mentions": 6
+      "mentions": 10
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
+      "link": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
+      "summary": "A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 25-year-old German wiki between May and July 2026, using the site as a shared board to pool answers to a timed web task and pass around a way out of their sandbox. The activity was concentrated on DSEwiki, a German software developer wiki that runs",
+      "published": "Sat, 05 Sep 2026 13:25:10 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
@@ -156,16 +165,14 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests",
-      "link": "https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html",
-      "summary": "OpenAI on Thursday officially unveiled GPT‑6 Astra, which it described as the \"world's most intelligent and aligned model.\" The development comes days after the artificial intelligence (AI) company said the model had reached the \"Critical\" cybersecurity capability threshold under its Preparedness Framework. \"Astra is state-of-the-art on computer use, browsing, software engineering,",
-      "published": "Fri, 04 Sep 2026 12:17:52 +0530",
-      "value_score": 34,
+      "source": "BleepingComputer",
+      "title": "OpenAI admits it didn't disclose rogue AI wiki hijacking incident",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/",
+      "summary": "OpenAI admits it did not disclose an incident where autonomous AI agents hijacked a German wiki, created 18,000 posts, shared answers, and bypassed restrictions, saying it treated the activity as model \"misalignment\" rather than a security breach. [...]",
+      "published": "Sat, 05 Sep 2026 07:11:50 -0400",
+      "value_score": 22,
       "value_signals": [
-        "PoC available",
-        "High severity",
-        "Exploit wording"
+        "Breach/leak"
       ]
     },
     {
@@ -243,17 +250,6 @@
         "Zero-day ×2",
         "Active exploitation",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "French hospital fined €500,000 after breach exposes data of 727,000",
-      "link": "https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/",
-      "summary": "France's data protection authority (CNIL) has fined Hôpital privé de la Loire €500,000 ($580,000) for failing to adequately protect patients' and their relatives' data. [...]",
-      "published": "Thu, 03 Sep 2026 18:01:37 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
       ]
     },
     {

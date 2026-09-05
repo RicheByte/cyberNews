@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-05 11:45 UTC  
+> **Last Updated:** 2026-09-05 14:25 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**1 1 billion** • **remote openai admits** • **universities threat actors** • **conduct command execution** • **individuals whose licenses** • **twitter whistleblower complaint** • **software giant fixed** • **software almost triple** • **longest running spree** • **large enterprises targeted** • **guardrails catch promises** • **defraud online merchants** • **sprawling phishing campaign** • **vulnerability discoveries aided** • **requires code execution** • **arbitrary code execution** • **frontier ai agents** • **sophisticated threat group** • **statement released today** • **unintended harm caused**
+**1 1 billion** • **remote openai admits** • **universities threat actors** • **conduct command execution** • **individuals whose licenses** • **arbitrary code execution** • **twitter whistleblower complaint** • **software giant fixed** • **software almost triple** • **longest running spree** • **large enterprises targeted** • **guardrails catch promises** • **defraud online merchants** • **sprawling phishing campaign** • **run arbitrary code** • **vulnerability discoveries aided** • **requires code execution** • **frontier ai agents** • **sophisticated threat group** • **statement released today**
 
 ---
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites](https://www.securityweek.com/elementor-pro-wordpress-plugin-vulnerability-exploited-to-hack-sites/)
 - [In Other News: Microsoft’s Cloud Patches, Hacked Dropbox Accounts, Guardio’s $1.1B Valuation](https://www.securityweek.com/in-other-news-microsofts-cloud-patches-hacked-dropbox-accounts-guardios-1-1b-valuation/)
 - [HPE Patches Critical RCE Vulnerabilities in AOS-CX](https://www.securityweek.com/hpe-patches-critical-rce-vulnerabilities-in-aos-cx/)
 - [OpenAI Pledges $1 Billion to Bring Frontier AI to Critical Infrastructure Defenders](https://www.securityweek.com/openai-pledges-1-billion-to-bring-frontier-ai-to-critical-infrastructure-defenders/)
@@ -67,7 +68,6 @@
 - [12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover](https://www.securityweek.com/12-year-old-postgresql-vulnerability-enables-database-server-takeover/)
 - [Catch Raises $5 Million for AI Executive Assistant With Guardrails](https://www.securityweek.com/catch-raises-5-million-for-ai-executive-assistant-with-guardrails/)
 - [VMware Workstation and Fusion Updates Patch Critical Vulnerability](https://www.securityweek.com/vmware-workstation-and-fusion-updates-patch-critical-vulnerability/)
-- [Google Patches 6th Chrome Zero-Day of 2026](https://www.securityweek.com/google-patches-6th-chrome-zero-day-of-2026/)
 
 ### Threatpost
 

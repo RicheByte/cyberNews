@@ -324,7 +324,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2588,
+      "count": 2589,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2003,7 +2003,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 598,
+      "count": 599,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -3355,7 +3355,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 338,
+      "count": 339,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -4628,12 +4628,13 @@
       ]
     },
     "run arbitrary code": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-01-19",
         "2026-01-20",
         "2026-01-22",
-        "2026-05-20"
+        "2026-05-20",
+        "2026-09-05"
       ]
     },
     "42 000 impacted": {
@@ -23355,7 +23356,7 @@
       ]
     },
     "software almost triple": {
-      "count": 189,
+      "count": 190,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23442,7 +23443,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 212,
+      "count": 213,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -23841,7 +23842,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 149,
+      "count": 150,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -28798,7 +28799,7 @@
       ]
     },
     "statement released today": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-08-31",
         "2026-09-01",
@@ -28942,7 +28943,7 @@
       ]
     },
     "longest running spree": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-09-01",
         "2026-09-04",
@@ -29025,7 +29026,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29239,7 +29240,7 @@
       ]
     },
     "sophisticated threat group": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-09-03",
         "2026-09-04",
@@ -29287,7 +29288,7 @@
       ]
     },
     "frontier ai agents": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-03",
         "2026-09-04",
@@ -29315,7 +29316,7 @@
       ]
     },
     "large enterprises targeted": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-09-03",
         "2026-09-04",
@@ -29330,14 +29331,14 @@
       ]
     },
     "guardrails catch promises": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-09-04",
         "2026-09-05"
       ]
     },
     "defraud online merchants": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-09-04",
         "2026-09-05"
@@ -29375,7 +29376,7 @@
       ]
     },
     "1 1 billion": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-09-04",
         "2026-09-05"
@@ -29396,42 +29397,31 @@
       ]
     },
     "universities threat actors": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-05"
       ]
     },
     "conduct command execution": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-05"
       ]
     },
     "requires code execution": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-05"
       ]
     },
     "remote openai admits": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-05"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-22 02:48",
-      "articles": 48,
-      "top_keywords": [
-        "sprawling phishing campaign",
-        "twitter whistleblower complaint",
-        "trusted execution environment",
-        "poisoned arrayref version",
-        "multi stage downloader"
-      ]
-    },
     {
       "timestamp": "2026-08-22 04:26",
       "articles": 48,
@@ -30512,6 +30502,17 @@
     },
     {
       "timestamp": "2026-09-05 11:45",
+      "articles": 48,
+      "top_keywords": [
+        "1 1 billion",
+        "remote openai admits",
+        "universities threat actors",
+        "conduct command execution",
+        "individuals whose licenses"
+      ]
+    },
+    {
+      "timestamp": "2026-09-05 14:25",
       "articles": 48,
       "top_keywords": [
         "1 1 billion",

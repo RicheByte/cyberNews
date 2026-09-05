@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05 11:45",
+  "last_updated": "2026-09-05 14:25",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -8,6 +8,7 @@
     "universities threat actors",
     "conduct command execution",
     "individuals whose licenses",
+    "arbitrary code execution",
     "twitter whistleblower complaint",
     "software giant fixed",
     "software almost triple",
@@ -16,54 +17,53 @@
     "guardrails catch promises",
     "defraud online merchants",
     "sprawling phishing campaign",
+    "run arbitrary code",
     "vulnerability discoveries aided",
     "requires code execution",
-    "arbitrary code execution",
     "frontier ai agents",
     "sophisticated threat group",
-    "statement released today",
-    "unintended harm caused"
+    "statement released today"
   ],
   "trending": [
     {
       "keyword": "1 1 billion",
-      "mentions": 6
-    },
-    {
-      "keyword": "remote openai admits",
-      "mentions": 1
-    },
-    {
-      "keyword": "universities threat actors",
-      "mentions": 2
-    },
-    {
-      "keyword": "conduct command execution",
-      "mentions": 2
-    },
-    {
-      "keyword": "individuals whose licenses",
-      "mentions": 18
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2588
-    },
-    {
-      "keyword": "software giant fixed",
-      "mentions": 212
-    },
-    {
-      "keyword": "software almost triple",
-      "mentions": 189
-    },
-    {
-      "keyword": "longest running spree",
       "mentions": 7
     },
     {
-      "keyword": "large enterprises targeted",
-      "mentions": 10
+      "keyword": "remote openai admits",
+      "mentions": 2
+    },
+    {
+      "keyword": "universities threat actors",
+      "mentions": 3
+    },
+    {
+      "keyword": "conduct command execution",
+      "mentions": 3
+    },
+    {
+      "keyword": "individuals whose licenses",
+      "mentions": 19
+    },
+    {
+      "keyword": "arbitrary code execution",
+      "mentions": 339
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2589
+    },
+    {
+      "keyword": "software giant fixed",
+      "mentions": 213
+    },
+    {
+      "keyword": "software almost triple",
+      "mentions": 190
+    },
+    {
+      "keyword": "longest running spree",
+      "mentions": 8
     }
   ],
   "articles": [
@@ -407,6 +407,18 @@
     },
     {
       "source": "Security Week",
+      "title": "Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites",
+      "link": "https://www.securityweek.com/elementor-pro-wordpress-plugin-vulnerability-exploited-to-hack-sites/",
+      "summary": "Tracked as CVE-2026-32475 (CVSS score of 9.8), the bug described as an arbitrary file upload issue in the function that handles form submissions. The post Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites appeared first on SecurityWeek .",
+      "published": "Sat, 05 Sep 2026 13:00:28 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "CVE mentioned",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "In Other News: Microsoft’s Cloud Patches, Hacked Dropbox Accounts, Guardio’s $1.1B Valuation",
       "link": "https://www.securityweek.com/in-other-news-microsofts-cloud-patches-hacked-dropbox-accounts-guardios-1-1b-valuation/",
       "summary": "Noteworthy stories that might have slipped under the radar: Microsoft rolled out patches for cloud services, hackers compromised 5,000 Dropbox accounts, and Guardio is now valued at $1.1 billion. The post In Other News: Microsoft’s Cloud Patches, Hacked Dropbox Accounts, Guardio’s $1.1B Valuation appeared first on SecurityWeek .",
@@ -482,18 +494,6 @@
       "value_signals": [
         "Patch/update ×2",
         "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Google Patches 6th Chrome Zero-Day of 2026",
-      "link": "https://www.securityweek.com/google-patches-6th-chrome-zero-day-of-2026/",
-      "summary": "Google’s Chrome 152 security update resolves 12 vulnerabilities, including a high-severity type confusion flaw in the V8 engine. The post Google Patches 6th Chrome Zero-Day of 2026 appeared first on SecurityWeek .",
-      "published": "Fri, 04 Sep 2026 11:31:52 +0000",
-      "value_score": 68,
-      "value_signals": [
-        "Zero-day ×2",
-        "Patch/update"
       ]
     },
     {

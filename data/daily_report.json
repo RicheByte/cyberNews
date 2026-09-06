@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06 13:20",
+  "last_updated": "2026-09-06 16:39",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -8,62 +8,62 @@
     "conduct command execution",
     "arbitrary code execution",
     "individuals whose licenses",
-    "defraud online merchants",
     "twitter whistleblower complaint",
     "software giant fixed",
     "software almost triple",
     "persistent database backdoor",
     "large enterprises targeted",
     "guardrails catch promises",
+    "defraud online merchants",
     "18 000 posts",
     "critical infrastructure defenders",
     "sophisticated threat group",
+    "released security updates",
     "frontier ai agents",
     "vulnerability discoveries aided",
     "statement released today",
-    "released security updates",
     "integer overflow vulnerability"
   ],
   "trending": [
     {
       "keyword": "1 1 billion",
-      "mentions": 14
-    },
-    {
-      "keyword": "universities threat actors",
-      "mentions": 10
-    },
-    {
-      "keyword": "conduct command execution",
-      "mentions": 10
-    },
-    {
-      "keyword": "arbitrary code execution",
-      "mentions": 346
-    },
-    {
-      "keyword": "individuals whose licenses",
-      "mentions": 26
-    },
-    {
-      "keyword": "defraud online merchants",
       "mentions": 15
     },
     {
+      "keyword": "universities threat actors",
+      "mentions": 11
+    },
+    {
+      "keyword": "conduct command execution",
+      "mentions": 11
+    },
+    {
+      "keyword": "arbitrary code execution",
+      "mentions": 347
+    },
+    {
+      "keyword": "individuals whose licenses",
+      "mentions": 27
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2596
+      "mentions": 2597
     },
     {
       "keyword": "software giant fixed",
-      "mentions": 220
+      "mentions": 221
     },
     {
       "keyword": "software almost triple",
-      "mentions": 197
+      "mentions": 198
     },
     {
       "keyword": "persistent database backdoor",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "large enterprises targeted",
+      "mentions": 19
     }
   ],
   "articles": [
@@ -165,6 +165,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Attackers conceal phishing lures using invisible Unicode characters",
+      "link": "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/",
+      "summary": "Threat actors have adopted the ASCII smuggling technique in phishing campaigns, using invisible Unicode characters to evade email security filters. [...]",
+      "published": "Sun, 06 Sep 2026 10:23:46 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
       "link": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
       "summary": "A massive cybercriminal operation is leveraging thousands of compromised small-business websites to deliver ClickFix payloads stored in smart contracts on the BNB Smart Chain (BSC). [...]",
@@ -237,15 +248,6 @@
         "Zero-day ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Exchange Online outage causes email delays, 'Server busy' errors",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/",
-      "summary": "Microsoft is working to resolve an ongoing Exchange Online outage that is delaying email sent to and received from external domains. [...]",
-      "published": "Fri, 04 Sep 2026 08:22:30 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

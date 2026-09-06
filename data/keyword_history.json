@@ -324,7 +324,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2596,
+      "count": 2597,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3357,7 +3357,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 346,
+      "count": 347,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -4290,7 +4290,7 @@
       ]
     },
     "released security updates": {
-      "count": 127,
+      "count": 128,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -23360,7 +23360,7 @@
       ]
     },
     "software almost triple": {
-      "count": 197,
+      "count": 198,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23448,7 +23448,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 220,
+      "count": 221,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -23848,7 +23848,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 157,
+      "count": 158,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -28806,7 +28806,7 @@
       ]
     },
     "statement released today": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-08-31",
         "2026-09-01",
@@ -29035,7 +29035,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29250,7 +29250,7 @@
       ]
     },
     "sophisticated threat group": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-09-03",
         "2026-09-04",
@@ -29299,7 +29299,7 @@
       ]
     },
     "frontier ai agents": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-09-03",
         "2026-09-04",
@@ -29328,7 +29328,7 @@
       ]
     },
     "large enterprises targeted": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-09-03",
         "2026-09-04",
@@ -29344,7 +29344,7 @@
       ]
     },
     "guardrails catch promises": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-09-04",
         "2026-09-05",
@@ -29352,7 +29352,7 @@
       ]
     },
     "defraud online merchants": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-09-04",
         "2026-09-05",
@@ -29391,7 +29391,7 @@
       ]
     },
     "1 1 billion": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-09-04",
         "2026-09-05",
@@ -29399,7 +29399,7 @@
       ]
     },
     "critical infrastructure defenders": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-09-04",
         "2026-09-05",
@@ -29415,14 +29415,14 @@
       ]
     },
     "universities threat actors": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-09-05",
         "2026-09-06"
       ]
     },
     "conduct command execution": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-09-05",
         "2026-09-06"
@@ -29441,38 +29441,27 @@
       ]
     },
     "18 000 posts": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-09-05",
         "2026-09-06"
       ]
     },
     "integer overflow vulnerability": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-05",
         "2026-09-06"
       ]
     },
     "persistent database backdoor": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-06"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-22 18:20",
-      "articles": 48,
-      "top_keywords": [
-        "twitter whistleblower complaint",
-        "sprawling phishing campaign",
-        "poisoned arrayref version",
-        "multi stage downloader",
-        "fake lock screen"
-      ]
-    },
     {
       "timestamp": "2026-08-22 20:15",
       "articles": 48,
@@ -30553,6 +30542,17 @@
     },
     {
       "timestamp": "2026-09-06 13:20",
+      "articles": 48,
+      "top_keywords": [
+        "1 1 billion",
+        "universities threat actors",
+        "conduct command execution",
+        "arbitrary code execution",
+        "individuals whose licenses"
+      ]
+    },
+    {
+      "timestamp": "2026-09-06 16:39",
       "articles": 48,
       "top_keywords": [
         "1 1 billion",

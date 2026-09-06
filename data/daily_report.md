@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-06 13:20 UTC  
+> **Last Updated:** 2026-09-06 16:39 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**1 1 billion** • **universities threat actors** • **conduct command execution** • **arbitrary code execution** • **individuals whose licenses** • **defraud online merchants** • **twitter whistleblower complaint** • **software giant fixed** • **software almost triple** • **persistent database backdoor** • **large enterprises targeted** • **guardrails catch promises** • **18 000 posts** • **critical infrastructure defenders** • **sophisticated threat group** • **frontier ai agents** • **vulnerability discoveries aided** • **statement released today** • **released security updates** • **integer overflow vulnerability**
+**1 1 billion** • **universities threat actors** • **conduct command execution** • **arbitrary code execution** • **individuals whose licenses** • **twitter whistleblower complaint** • **software giant fixed** • **software almost triple** • **persistent database backdoor** • **large enterprises targeted** • **guardrails catch promises** • **defraud online merchants** • **18 000 posts** • **critical infrastructure defenders** • **sophisticated threat group** • **released security updates** • **frontier ai agents** • **vulnerability discoveries aided** • **statement released today** • **integer overflow vulnerability**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Attackers conceal phishing lures using invisible Unicode characters](https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/)
 - [Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain](https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/)
 - [OpenAI admits it didn't disclose rogue AI wiki hijacking incident](https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/)
 - [IDScan sued over alleged data breach affecting 153 million drivers](https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/)
@@ -34,7 +35,6 @@
 - [Microsoft says some users can’t open the Teams desktop client](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/)
 - [39 New Methods That Compromise Passkey Authentication](https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/)
 - [New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges](https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/)
-- [Exchange Online outage causes email delays, 'Server busy' errors](https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/)
 
 ### Krebs on Security
 

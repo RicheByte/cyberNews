@@ -1,8 +1,9 @@
 {
-  "last_updated": "2026-09-06 23:24",
+  "last_updated": "2026-09-07 02:27",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
+    "20 plus subscription",
     "1 1 billion",
     "universities threat actors",
     "conduct command execution",
@@ -18,52 +19,51 @@
     "18 000 posts",
     "critical infrastructure defenders",
     "sophisticated threat group",
-    "released security updates",
     "frontier ai agents",
     "vulnerability discoveries aided",
-    "statement released today",
-    "integer overflow vulnerability"
+    "integer overflow vulnerability",
+    "released security updates"
   ],
   "trending": [
     {
+      "keyword": "20 plus subscription",
+      "mentions": 1
+    },
+    {
       "keyword": "1 1 billion",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "universities threat actors",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "conduct command execution",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 350
+      "mentions": 351
     },
     {
       "keyword": "individuals whose licenses",
-      "mentions": 30
+      "mentions": 31
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2600
+      "mentions": 2601
     },
     {
       "keyword": "software giant fixed",
-      "mentions": 224
+      "mentions": 225
     },
     {
       "keyword": "software almost triple",
-      "mentions": 201
+      "mentions": 202
     },
     {
       "keyword": "persistent database backdoor",
-      "mentions": 5
-    },
-    {
-      "keyword": "large enterprises targeted",
-      "mentions": 22
+      "mentions": 6
     }
   ],
   "articles": [
@@ -165,6 +165,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "ChatGPT Astra is now rolling out to $20 Plus subscription",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/",
+      "summary": "OpenAI is now rolling out ChatGPT Astra, its most powerful model to date, to those with a $20 Plus subscription, but there's no word on when free users will get access.. [...]",
+      "published": "Sun, 06 Sep 2026 21:15:43 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Attackers conceal phishing lures using invisible Unicode characters",
       "link": "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/",
       "summary": "Threat actors have adopted the ASCII smuggling technique in phishing campaigns, using invisible Unicode characters to evade email security filters. [...]",
@@ -236,18 +245,6 @@
       "published": "Fri, 04 Sep 2026 10:01:11 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges",
-      "link": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
-      "summary": "An anonymous security researcher who uses the \"Nightmare Eclipse\" handle released a CrowdStrike Falcon zero-day exploit named \"FalconFlank\" that lets attackers escalate privileges on up-to-date Windows systems. [...]",
-      "published": "Fri, 04 Sep 2026 09:22:01 -0400",
-      "value_score": 66,
-      "value_signals": [
-        "Zero-day ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",

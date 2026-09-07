@@ -324,7 +324,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2601,
+      "count": 2602,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1252,7 +1252,7 @@
       ]
     },
     "national security risk": {
-      "count": 449,
+      "count": 450,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1334,7 +1334,8 @@
         "2026-08-31",
         "2026-09-01",
         "2026-09-04",
-        "2026-09-05"
+        "2026-09-05",
+        "2026-09-07"
       ]
     },
     "open source millions": {
@@ -3358,7 +3359,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 351,
+      "count": 352,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -23363,7 +23364,7 @@
       ]
     },
     "software almost triple": {
-      "count": 202,
+      "count": 203,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23452,7 +23453,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 225,
+      "count": 226,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -23853,7 +23854,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 162,
+      "count": 163,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -29041,7 +29042,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29257,7 +29258,7 @@
       ]
     },
     "sophisticated threat group": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-09-03",
         "2026-09-04",
@@ -29307,7 +29308,7 @@
       ]
     },
     "frontier ai agents": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-09-03",
         "2026-09-04",
@@ -29337,7 +29338,7 @@
       ]
     },
     "large enterprises targeted": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-09-03",
         "2026-09-04",
@@ -29354,7 +29355,7 @@
       ]
     },
     "guardrails catch promises": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-09-04",
         "2026-09-05",
@@ -29363,7 +29364,7 @@
       ]
     },
     "defraud online merchants": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-09-04",
         "2026-09-05",
@@ -29403,7 +29404,7 @@
       ]
     },
     "1 1 billion": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-09-04",
         "2026-09-05",
@@ -29412,7 +29413,7 @@
       ]
     },
     "critical infrastructure defenders": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-09-04",
         "2026-09-05",
@@ -29421,11 +29422,12 @@
       ]
     },
     "unintended harm caused": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-09-04",
         "2026-09-05",
-        "2026-09-06"
+        "2026-09-06",
+        "2026-09-07"
       ]
     },
     "universities threat actors": {
@@ -29457,7 +29459,7 @@
       ]
     },
     "18 000 posts": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-09-05",
         "2026-09-06",
@@ -29465,7 +29467,7 @@
       ]
     },
     "integer overflow vulnerability": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-09-05",
         "2026-09-06",
@@ -29473,13 +29475,19 @@
       ]
     },
     "persistent database backdoor": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-09-06",
         "2026-09-07"
       ]
     },
     "20 plus subscription": {
+      "count": 2,
+      "dates": [
+        "2026-09-07"
+      ]
+    },
+    "credential harvesting surveillance": {
       "count": 1,
       "dates": [
         "2026-09-07"
@@ -29487,17 +29495,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-23 04:30",
-      "articles": 48,
-      "top_keywords": [
-        "twitter whistleblower complaint",
-        "sprawling phishing campaign",
-        "poisoned arrayref version",
-        "multi stage downloader",
-        "fake lock screen"
-      ]
-    },
     {
       "timestamp": "2026-08-23 06:31",
       "articles": 48,
@@ -30585,6 +30582,17 @@
         "universities threat actors",
         "conduct command execution",
         "arbitrary code execution"
+      ]
+    },
+    {
+      "timestamp": "2026-09-07 08:50",
+      "articles": 48,
+      "top_keywords": [
+        "20 plus subscription",
+        "1 1 billion",
+        "individuals whose licenses",
+        "twitter whistleblower complaint",
+        "software giant fixed"
       ]
     }
   ]

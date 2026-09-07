@@ -1,13 +1,10 @@
 {
-  "last_updated": "2026-09-07 02:27",
+  "last_updated": "2026-09-07 08:50",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "20 plus subscription",
     "1 1 billion",
-    "universities threat actors",
-    "conduct command execution",
-    "arbitrary code execution",
     "individuals whose licenses",
     "twitter whistleblower complaint",
     "software giant fixed",
@@ -16,57 +13,69 @@
     "large enterprises targeted",
     "guardrails catch promises",
     "defraud online merchants",
+    "credential harvesting surveillance",
     "18 000 posts",
-    "critical infrastructure defenders",
     "sophisticated threat group",
+    "critical infrastructure defenders",
     "frontier ai agents",
     "vulnerability discoveries aided",
     "integer overflow vulnerability",
-    "released security updates"
+    "national security risk",
+    "arbitrary code execution",
+    "unintended harm caused"
   ],
   "trending": [
     {
       "keyword": "20 plus subscription",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "1 1 billion",
-      "mentions": 19
-    },
-    {
-      "keyword": "universities threat actors",
-      "mentions": 15
-    },
-    {
-      "keyword": "conduct command execution",
-      "mentions": 15
-    },
-    {
-      "keyword": "arbitrary code execution",
-      "mentions": 351
+      "mentions": 20
     },
     {
       "keyword": "individuals whose licenses",
-      "mentions": 31
+      "mentions": 32
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2601
+      "mentions": 2602
     },
     {
       "keyword": "software giant fixed",
-      "mentions": 225
+      "mentions": 226
     },
     {
       "keyword": "software almost triple",
-      "mentions": 202
+      "mentions": 203
     },
     {
       "keyword": "persistent database backdoor",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "large enterprises targeted",
+      "mentions": 24
+    },
+    {
+      "keyword": "guardrails catch promises",
+      "mentions": 21
+    },
+    {
+      "keyword": "defraud online merchants",
+      "mentions": 21
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies",
+      "link": "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html",
+      "summary": "Cybersecurity researchers have unpacked JSCeal, a sophisticated compiled V8 JavaScript (JSC) malware with credential harvesting, surveillance, and traffic-interception capabilities. \"The payloads are protected with javascript-obfuscator, using multiple techniques including RC4-protected strings, control-flow flattening, proxy functions, and operation wrappers,\" Check Point Research said in a",
+      "published": "Mon, 07 Sep 2026 13:23:04 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
@@ -149,18 +158,14 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
-      "summary": "Threat actors are exploiting the newly disclosed PaperCut flaws to facilitate credential theft in attacks targeting the education sector in the U.S. and Europe. The Arctic Wolf Adversary Research Team said it observed attackers exploiting CVE-2026-81578 and CVE-2026-82078 – an authentication bypass and remote code execution chain – to conduct command execution and reconnaissance, as well as",
-      "published": "Sat, 05 Sep 2026 13:01:53 +0530",
-      "value_score": 95,
+      "source": "BleepingComputer",
+      "title": "N-able patches max severity N-central flaw amid ongoing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/n-able-patches-max-severity-n-central-flaw-amid-ongoing-attacks/",
+      "summary": "N-able has released an emergency hotfix for a maximum-severity remote code execution (RCE) flaw affecting its N-central remote monitoring and management (RMM) platform. [...]",
+      "published": "Mon, 07 Sep 2026 02:17:41 -0400",
+      "value_score": 50,
       "value_signals": [
-        "CVE mentioned ×2",
-        "RCE",
-        "Auth bypass",
-        "Multiple CVEs",
-        "Exploit wording"
+        "RCE ×2"
       ]
     },
     {
@@ -234,15 +239,6 @@
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/",
       "summary": "Microsoft is working to resolve a known issue that causes delays or blocks some users from opening the Microsoft Teams desktop client on Windows systems. [...]",
       "published": "Fri, 04 Sep 2026 10:30:15 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "39 New Methods That Compromise Passkey Authentication",
-      "link": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/",
-      "summary": "Passkeys eliminate many password-based attacks, but researchers have documented 39 methods for compromising authentication built around them. Token explains how attackers can abuse authentication prompts, synced credentials, enrollment, recovery, and other trust boundaries without breaking FIDO2 cryptography. [...]",
-      "published": "Fri, 04 Sep 2026 10:01:11 -0400",
       "value_score": 10,
       "value_signals": []
     },

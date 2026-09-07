@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-07 08:50 UTC |
+| 🕐 Last Updated | 2026-09-07 15:27 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`20 plus subscription` • `1 1 billion` • `individuals whose licenses` • `twitter whistleblower complaint` • `software giant fixed` • `software almost triple` • `persistent database backdoor` • `large enterprises targeted` • `guardrails catch promises` • `defraud online merchants`
+`20 plus subscription` • `attackers stole data` • `sophisticated threat group` • `1 1 billion` • `national security risk` • `twitter whistleblower complaint` • `large enterprises targeted` • `individuals whose licenses` • `hijack routers hackers` • `software giant fixed`
 
 ## 📄 Reports
 

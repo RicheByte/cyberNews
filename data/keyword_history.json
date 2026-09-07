@@ -324,7 +324,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2602,
+      "count": 2603,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1252,7 +1252,7 @@
       ]
     },
     "national security risk": {
-      "count": 450,
+      "count": 451,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -23453,7 +23453,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 226,
+      "count": 227,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -27259,12 +27259,13 @@
       ]
     },
     "who's harvesting data": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-08-14",
         "2026-08-19",
         "2026-09-02",
-        "2026-09-03"
+        "2026-09-03",
+        "2026-09-07"
       ]
     },
     "single control plane": {
@@ -29042,7 +29043,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29258,7 +29259,7 @@
       ]
     },
     "sophisticated threat group": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-09-03",
         "2026-09-04",
@@ -29338,7 +29339,7 @@
       ]
     },
     "large enterprises targeted": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-09-03",
         "2026-09-04",
@@ -29364,7 +29365,7 @@
       ]
     },
     "defraud online merchants": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-09-04",
         "2026-09-05",
@@ -29404,7 +29405,7 @@
       ]
     },
     "1 1 billion": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-09-04",
         "2026-09-05",
@@ -29482,12 +29483,66 @@
       ]
     },
     "20 plus subscription": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-07"
       ]
     },
     "credential harvesting surveillance": {
+      "count": 2,
+      "dates": [
+        "2026-09-07"
+      ]
+    },
+    "attackers stole data": {
+      "count": 1,
+      "dates": [
+        "2026-09-07"
+      ]
+    },
+    "hijack routers hackers": {
+      "count": 1,
+      "dates": [
+        "2026-09-07"
+      ]
+    },
+    "long term surveillance": {
+      "count": 1,
+      "dates": [
+        "2026-09-07"
+      ]
+    },
+    "backdoored screenconnect instances": {
+      "count": 1,
+      "dates": [
+        "2026-09-07"
+      ]
+    },
+    "newly connected clients": {
+      "count": 1,
+      "dates": [
+        "2026-09-07"
+      ]
+    },
+    "hack sites tracked": {
+      "count": 1,
+      "dates": [
+        "2026-09-07"
+      ]
+    },
+    "data looks like": {
+      "count": 1,
+      "dates": [
+        "2026-09-07"
+      ]
+    },
+    "august data breach": {
+      "count": 1,
+      "dates": [
+        "2026-09-07"
+      ]
+    },
+    "worm like campaign": {
       "count": 1,
       "dates": [
         "2026-09-07"
@@ -29495,17 +29550,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-23 06:31",
-      "articles": 48,
-      "top_keywords": [
-        "twitter whistleblower complaint",
-        "sprawling phishing campaign",
-        "poisoned arrayref version",
-        "multi stage downloader",
-        "fake lock screen"
-      ]
-    },
     {
       "timestamp": "2026-08-23 08:22",
       "articles": 48,
@@ -30593,6 +30637,17 @@
         "individuals whose licenses",
         "twitter whistleblower complaint",
         "software giant fixed"
+      ]
+    },
+    {
+      "timestamp": "2026-09-07 15:27",
+      "articles": 48,
+      "top_keywords": [
+        "20 plus subscription",
+        "attackers stole data",
+        "sophisticated threat group",
+        "1 1 billion",
+        "national security risk"
       ]
     }
   ]

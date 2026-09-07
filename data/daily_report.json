@@ -1,72 +1,118 @@
 {
-  "last_updated": "2026-09-07 08:50",
+  "last_updated": "2026-09-07 15:27",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "20 plus subscription",
+    "attackers stole data",
+    "sophisticated threat group",
     "1 1 billion",
-    "individuals whose licenses",
+    "national security risk",
     "twitter whistleblower complaint",
-    "software giant fixed",
-    "software almost triple",
-    "persistent database backdoor",
     "large enterprises targeted",
-    "guardrails catch promises",
+    "individuals whose licenses",
+    "hijack routers hackers",
+    "software giant fixed",
+    "long term surveillance",
     "defraud online merchants",
     "credential harvesting surveillance",
-    "18 000 posts",
-    "sophisticated threat group",
-    "critical infrastructure defenders",
-    "frontier ai agents",
-    "vulnerability discoveries aided",
-    "integer overflow vulnerability",
-    "national security risk",
-    "arbitrary code execution",
-    "unintended harm caused"
+    "backdoored screenconnect instances",
+    "newly connected clients",
+    "hack sites tracked",
+    "who's harvesting data",
+    "data looks like",
+    "august data breach",
+    "worm like campaign"
   ],
   "trending": [
     {
       "keyword": "20 plus subscription",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "attackers stole data",
+      "mentions": 1
+    },
+    {
+      "keyword": "sophisticated threat group",
+      "mentions": 27
     },
     {
       "keyword": "1 1 billion",
-      "mentions": 20
+      "mentions": 21
     },
     {
-      "keyword": "individuals whose licenses",
-      "mentions": 32
+      "keyword": "national security risk",
+      "mentions": 451
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2602
-    },
-    {
-      "keyword": "software giant fixed",
-      "mentions": 226
-    },
-    {
-      "keyword": "software almost triple",
-      "mentions": 203
-    },
-    {
-      "keyword": "persistent database backdoor",
-      "mentions": 7
+      "mentions": 2603
     },
     {
       "keyword": "large enterprises targeted",
-      "mentions": 24
+      "mentions": 25
     },
     {
-      "keyword": "guardrails catch promises",
-      "mentions": 21
+      "keyword": "individuals whose licenses",
+      "mentions": 33
     },
     {
-      "keyword": "defraud online merchants",
-      "mentions": 21
+      "keyword": "hijack routers hackers",
+      "mentions": 1
+    },
+    {
+      "keyword": "software giant fixed",
+      "mentions": 227
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Your Cloud Security Checklist Doesn't Work the Way You Think It Does",
+      "link": "https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html",
+      "summary": "If managing security across multiple cloud providers wasn't hard enough, each one fails in a different way. For the 2026 Cloud Security Index, Intruder analyzed misconfiguration data from 3,000 organizations across AWS, Azure, and Google Cloud and found that risk profiles across providers have almost nothing in common. Here’s what the data looks like. How risk differs across cloud providers",
+      "published": "Mon, 07 Sep 2026 17:15:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts",
+      "link": "https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html",
+      "summary": "Cybersecurity researchers have disclosed details of worm-like activity that abuses ConnectWise ScreenConnect to distribute a malicious Visual Basic Script (VBScript) payload to newly connected systems. According to Huntress, three unrelated incidents have been found to use diverse initial access methods, namely a Quick Assist tech-support scam, a phishing-delivered MSI installer, and a fake",
+      "published": "Mon, 07 Sep 2026 17:06:39 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE — Public Exploit Released",
+      "link": "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html",
+      "summary": "A TantoSec proof-of-concept turns an AES-CBC \"padding oracle\" in Telerik UI for ASP.NET AJAX into unauthenticated remote code execution — but only against applications in a specific non-default configuration, and Progress patched the chain in July. There are no confirmed reports of exploitation in the wild. Security firm TantoSec has published a working exploit chain targeting vulnerabilities",
+      "published": "Mon, 07 Sep 2026 16:50:14 +0530",
+      "value_score": 81,
+      "value_signals": [
+        "Active exploitation",
+        "RCE ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw",
+      "link": "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html",
+      "summary": "Every on-premises N-central build below 2026.3.1.14 — including servers updated to Hotfix 3 a day earlier — needs Hotfix 4. N-able's incident notice says the flaw has been exploited in the wild; its release notes say that is unconfirmed. N-able has released its fourth hotfix in five weeks for the N-central remote monitoring and management (RMM) platform, this time for a",
+      "published": "Mon, 07 Sep 2026 14:01:12 +0530",
+      "value_score": 61,
+      "value_signals": [
+        "Active exploitation",
+        "RCE",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies",
@@ -112,50 +158,57 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
-      "link": "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
-      "summary": "JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerability in TeamCity to breach its own environment. \"Cadence users should immediately revoke or rotate all credentials and secrets that may have been used to run their Cadence executions,\" JetBrains said.",
-      "published": "Sat, 05 Sep 2026 22:22:33 +0530",
-      "value_score": 36,
+      "source": "BleepingComputer",
+      "title": "Mathspace discloses data breach affecting over 1 million people",
+      "link": "https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/",
+      "summary": "Online maths learning platform Mathspace disclosed over the weekend that attackers stole data from more than 1 million students, staff, and parents after breaching its Metabase internal reporting system. [...]",
+      "published": "Mon, 07 Sep 2026 09:05:11 -0400",
+      "value_score": 22,
       "value_signals": [
-        "Breach/leak",
-        "High severity",
-        "Exploit wording"
+        "Breach/leak"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code",
-      "link": "https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html",
-      "summary": "Broadcom has released security updates for two security flaws impacting VMware Workstation and Fusion, including one critical bug that could result in arbitrary code execution under certain conditions. The vulnerability, tracked as CVE-2026-59346 (CVSS score: 9.3), is an integer-overflow vulnerability that a local attacker with elevated privileges can exploit to run arbitrary code. \"A",
-      "published": "Sat, 05 Sep 2026 21:35:08 +0530",
-      "value_score": 50,
-      "value_signals": [
-        "CVE mentioned",
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted",
-      "link": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
-      "summary": "Hardware wallet manufacturer Trezor on Friday disclosed that another 67,000 customers from the U.S. have been impacted in a breach at its shipping provider ShipMonk. The exposed information includes customer names, email addresses, phone numbers, shipping addresses, and order numbers between November 2019 and August 2021. The breach does not affect the security of the company's hardware wallets",
-      "published": "Sat, 05 Sep 2026 19:47:02 +0530",
+      "source": "BleepingComputer",
+      "title": "Trezor data breach impact now reaches 81,000 customers",
+      "link": "https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/",
+      "summary": "Cryptocurrency hardware wallet maker Trezor says an August data breach at its shipping and logistics provider, ShipMonk, affects an additional 67,000 U.S. customers. [...]",
+      "published": "Mon, 07 Sep 2026 08:16:32 -0400",
       "value_score": 34,
       "value_signals": [
-        "Breach/leak ×3"
+        "Breach/leak ×2"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
-      "link": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
-      "summary": "A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 25-year-old German wiki between May and July 2026, using the site as a shared board to pool answers to a timed web task and pass around a way out of their sandbox. The activity was concentrated on DSEwiki, a German software developer wiki that runs",
-      "published": "Sat, 05 Sep 2026 13:25:10 +0530",
+      "source": "BleepingComputer",
+      "title": "ChatGPT can now connect to your personal apps to mimic writing style",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/",
+      "summary": "OpenAI appears to be testing a new \"Writing Style\" feature for ChatGPT that can learn how you write by looking at examples from your connected apps. [...]",
+      "published": "Mon, 07 Sep 2026 06:36:37 -0400",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Hackers exploit new MikroTik RouterOS flaws to hijack routers",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/",
+      "summary": "Hackers are exploiting a chain of two recently disclosed vulnerabilities in MikroTik routers to take control of devices with SSH services exposed to the internet. [...]",
+      "published": "Mon, 07 Sep 2026 06:32:40 -0400",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "ConnectWise warns of new ScreenConnect flaw without patch",
+      "link": "https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/",
+      "summary": "ConnectWise has shared temporary mitigation measures for a new ScreenConnect Remote Access vulnerability that it plans to patch later this week. [...]",
+      "published": "Mon, 07 Sep 2026 06:06:38 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×2"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -187,60 +240,6 @@
       "value_signals": [
         "Phishing ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
-      "link": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
-      "summary": "A massive cybercriminal operation is leveraging thousands of compromised small-business websites to deliver ClickFix payloads stored in smart contracts on the BNB Smart Chain (BSC). [...]",
-      "published": "Sat, 05 Sep 2026 10:29:13 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OpenAI admits it didn't disclose rogue AI wiki hijacking incident",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/",
-      "summary": "OpenAI admits it did not disclose an incident where autonomous AI agents hijacked a German wiki, created 18,000 posts, shared answers, and bypassed restrictions, saying it treated the activity as model \"misalignment\" rather than a security breach. [...]",
-      "published": "Sat, 05 Sep 2026 07:11:50 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "IDScan sued over alleged data breach affecting 153 million drivers",
-      "link": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/",
-      "summary": "Multiple lawsuits have been filed against identity verification company IDScan after hackers allegedly breached the service and offered to sell more than 153 million driver's licenses. [...]",
-      "published": "Fri, 04 Sep 2026 12:56:45 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/",
-      "summary": "Attackers have begun targeting a critical-severity Citrix NetScaler auth bypass flaw (CVE-2026-19490) in the wild, according to vulnerability intelligence company Previdian. [...]",
-      "published": "Fri, 04 Sep 2026 11:25:59 -0400",
-      "value_score": 99,
-      "value_signals": [
-        "CVE mentioned",
-        "Active exploitation",
-        "Auth bypass ×2",
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft says some users can’t open the Teams desktop client",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/",
-      "summary": "Microsoft is working to resolve a known issue that causes delays or blocks some users from opening the Microsoft Teams desktop client on Windows systems. [...]",
-      "published": "Fri, 04 Sep 2026 10:30:15 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -397,6 +396,64 @@
     },
     {
       "source": "Security Week",
+      "title": "Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits",
+      "link": "https://www.securityweek.com/nightmare-eclipse-drops-crowdstrike-nvidia-avast-zero-day-exploits/",
+      "summary": "The proof-of-concept (PoC) exploits lead to privilege escalation, spawning a shell with System privileges. The post Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits appeared first on SecurityWeek .",
+      "published": "Mon, 07 Sep 2026 12:15:57 +0000",
+      "value_score": 88,
+      "value_signals": [
+        "Zero-day ×2",
+        "Privilege escalation",
+        "PoC available",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "North Korean Hackers Deploy New Linux Espionage Toolkit",
+      "link": "https://www.securityweek.com/north-korean-hackers-deploy-new-linux-espionage-toolkit/",
+      "summary": "The stealthy toolkit embeds a backdoor in HAProxy and targets automotive and media organizations in South Korea for long-term surveillance. The post North Korean Hackers Deploy New Linux Espionage Toolkit appeared first on SecurityWeek .",
+      "published": "Mon, 07 Sep 2026 12:12:08 +0000",
+      "value_score": 22,
+      "value_signals": [
+        "Backdoor"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "OpenAI Agents Hijack Another Victim Website",
+      "link": "https://www.securityweek.com/openai-agents-hijack-another-victim-website/",
+      "summary": "OpenAI agents made 15,000–18,000 autonomous edits to a German wiki over three months, evading moderation and echoing tactics seen in the Hugging Face breach. The post OpenAI Agents Hijack Another Victim Website appeared first on SecurityWeek .",
+      "published": "Mon, 07 Sep 2026 12:03:04 +0000",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
+      "link": "https://www.securityweek.com/adobe-commerce-zero-day-exploited-to-backdoor-online-stores/",
+      "summary": "The StyleSmuggler zero-day allows attackers to execute code and deploy a stealthy backdoor on Adobe Commerce and Magento stores. The post Adobe Commerce Zero-Day Exploited to Backdoor Online Stores appeared first on SecurityWeek .",
+      "published": "Mon, 07 Sep 2026 11:58:37 +0000",
+      "value_score": 90,
+      "value_signals": [
+        "Zero-day ×3",
+        "Backdoor ×3",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Modified ScreenConnect Clients Used in Worm-Like Campaign",
+      "link": "https://www.securityweek.com/modified-screenconnect-clients-used-in-worm-like-campaign/",
+      "summary": "The attacks rely on backdoored ScreenConnect instances to transfer and execute payloads to newly connected clients. The post Modified ScreenConnect Clients Used in Worm-Like Campaign appeared first on SecurityWeek .",
+      "published": "Mon, 07 Sep 2026 11:45:48 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites",
       "link": "https://www.securityweek.com/elementor-pro-wordpress-plugin-vulnerability-exploited-to-hack-sites/",
       "summary": "Tracked as CVE-2026-32475 (CVSS score of 9.8), the bug described as an arbitrary file upload issue in the function that handles form submissions. The post Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites appeared first on SecurityWeek .",
@@ -426,63 +483,6 @@
       "value_signals": [
         "CVE mentioned",
         "RCE ×2",
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "OpenAI Pledges $1 Billion to Bring Frontier AI to Critical Infrastructure Defenders",
-      "link": "https://www.securityweek.com/openai-pledges-1-billion-to-bring-frontier-ai-to-critical-infrastructure-defenders/",
-      "summary": "The Daybreak initiative will provide subsidized AI cyber capabilities, training and technical assistance, though OpenAI has disclosed few details about costs and eligibility. The post OpenAI Pledges $1 Billion to Bring Frontier AI to Critical Infrastructure Defenders appeared first on SecurityWeek .",
-      "published": "Fri, 04 Sep 2026 16:07:22 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Sangoma Switchvox Vulnerabilities Exploited in the Wild",
-      "link": "https://www.securityweek.com/sangoma-switchvox-vulnerabilities-exploited-in-the-wild/",
-      "summary": "Tracked as CVE-2026-9586, the unauthenticated SQL injection flaw can be exploited remotely for arbitrary code execution. The post Sangoma Switchvox Vulnerabilities Exploited in the Wild appeared first on SecurityWeek .",
-      "published": "Fri, 04 Sep 2026 13:23:12 +0000",
-      "value_score": 84,
-      "value_signals": [
-        "CVE mentioned",
-        "Active exploitation ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover",
-      "link": "https://www.securityweek.com/12-year-old-postgresql-vulnerability-enables-database-server-takeover/",
-      "summary": "Dubbed PostGREShell, CVE-2026-6471 turns low-level replication access into code execution, permanent superuser privileges and a persistent database backdoor. The post 12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover appeared first on SecurityWeek .",
-      "published": "Fri, 04 Sep 2026 12:06:13 +0000",
-      "value_score": 40,
-      "value_signals": [
-        "CVE mentioned",
-        "Backdoor"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Catch Raises $5 Million for AI Executive Assistant With Guardrails",
-      "link": "https://www.securityweek.com/catch-raises-5-million-for-ai-executive-assistant-with-guardrails/",
-      "summary": "Catch promises the capabilities of a trusted executive assistant, with built-in controls governing what data and systems it can access. The post Catch Raises $5 Million for AI Executive Assistant With Guardrails appeared first on SecurityWeek .",
-      "published": "Fri, 04 Sep 2026 11:55:17 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "VMware Workstation and Fusion Updates Patch Critical Vulnerability",
-      "link": "https://www.securityweek.com/vmware-workstation-and-fusion-updates-patch-critical-vulnerability/",
-      "summary": "The flaws could allow attackers with administrative access to a virtual machine to execute code on the host system. The post VMware Workstation and Fusion Updates Patch Critical Vulnerability appeared first on SecurityWeek .",
-      "published": "Fri, 04 Sep 2026 11:42:55 +0000",
-      "value_score": 42,
-      "value_signals": [
-        "Patch/update ×2",
         "High severity ×2"
       ]
     },

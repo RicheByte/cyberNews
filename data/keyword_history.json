@@ -324,7 +324,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2604,
+      "count": 2605,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1252,7 +1252,7 @@
       ]
     },
     "national security risk": {
-      "count": 452,
+      "count": 453,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -24323,7 +24323,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 197,
+      "count": 198,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24359,7 +24359,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 144,
+      "count": 145,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -27261,7 +27261,7 @@
       ]
     },
     "who's harvesting data": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-08-14",
         "2026-08-19",
@@ -29045,7 +29045,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29261,7 +29261,7 @@
       ]
     },
     "sophisticated threat group": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-09-03",
         "2026-09-04",
@@ -29341,7 +29341,7 @@
       ]
     },
     "large enterprises targeted": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-09-03",
         "2026-09-04",
@@ -29407,7 +29407,7 @@
       ]
     },
     "1 1 billion": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-09-04",
         "2026-09-05",
@@ -29491,7 +29491,7 @@
       ]
     },
     "credential harvesting surveillance": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-07"
       ]
@@ -29509,78 +29509,67 @@
       ]
     },
     "long term surveillance": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-07"
       ]
     },
     "backdoored screenconnect instances": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-07"
       ]
     },
     "newly connected clients": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-07"
       ]
     },
     "hack sites tracked": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-07"
       ]
     },
     "data looks like": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-07"
       ]
     },
     "august data breach": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-07"
       ]
     },
     "worm like campaign": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-07"
       ]
     },
     "widespread data theft": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-07"
       ]
     },
     "secure preferences fake": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-07"
       ]
     },
     "code execution access": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-07"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-23 10:17",
-      "articles": 48,
-      "top_keywords": [
-        "twitter whistleblower complaint",
-        "sprawling phishing campaign",
-        "poisoned arrayref version",
-        "multi stage downloader",
-        "fake lock screen"
-      ]
-    },
     {
       "timestamp": "2026-08-23 12:28",
       "articles": 48,
@@ -30661,6 +30650,17 @@
     },
     {
       "timestamp": "2026-09-07 19:32",
+      "articles": 48,
+      "top_keywords": [
+        "sophisticated threat group",
+        "widespread data theft",
+        "residential proxy node",
+        "1 1 billion",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-09-07 22:26",
       "articles": 48,
       "top_keywords": [
         "sophisticated threat group",

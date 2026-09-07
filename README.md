@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-07 15:27 UTC |
+| 🕐 Last Updated | 2026-09-07 19:32 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`20 plus subscription` • `attackers stole data` • `sophisticated threat group` • `1 1 billion` • `national security risk` • `twitter whistleblower complaint` • `large enterprises targeted` • `individuals whose licenses` • `hijack routers hackers` • `software giant fixed`
+`sophisticated threat group` • `widespread data theft` • `residential proxy node` • `1 1 billion` • `twitter whistleblower complaint` • `secure preferences fake` • `national security risk` • `large enterprises targeted` • `individuals whose licenses` • `long term surveillance`
 
 ## 📄 Reports
 

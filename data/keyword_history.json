@@ -324,7 +324,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2603,
+      "count": 2604,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1252,7 +1252,7 @@
       ]
     },
     "national security risk": {
-      "count": 451,
+      "count": 452,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -24323,7 +24323,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 196,
+      "count": 197,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24354,11 +24354,12 @@
         "2026-08-26",
         "2026-08-29",
         "2026-08-30",
-        "2026-08-31"
+        "2026-08-31",
+        "2026-09-07"
       ]
     },
     "ban residential proxies": {
-      "count": 143,
+      "count": 144,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24377,7 +24378,8 @@
         "2026-08-05",
         "2026-08-06",
         "2026-08-07",
-        "2026-08-08"
+        "2026-08-08",
+        "2026-09-07"
       ]
     },
     "move comes less": {
@@ -27259,7 +27261,7 @@
       ]
     },
     "who's harvesting data": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-14",
         "2026-08-19",
@@ -29043,7 +29045,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29259,7 +29261,7 @@
       ]
     },
     "sophisticated threat group": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-09-03",
         "2026-09-04",
@@ -29339,7 +29341,7 @@
       ]
     },
     "large enterprises targeted": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-09-03",
         "2026-09-04",
@@ -29405,7 +29407,7 @@
       ]
     },
     "1 1 billion": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-09-04",
         "2026-09-05",
@@ -29489,7 +29491,7 @@
       ]
     },
     "credential harvesting surveillance": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-07"
       ]
@@ -29507,42 +29509,60 @@
       ]
     },
     "long term surveillance": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-07"
       ]
     },
     "backdoored screenconnect instances": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-07"
       ]
     },
     "newly connected clients": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-07"
       ]
     },
     "hack sites tracked": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-07"
       ]
     },
     "data looks like": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-07"
       ]
     },
     "august data breach": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-07"
       ]
     },
     "worm like campaign": {
+      "count": 2,
+      "dates": [
+        "2026-09-07"
+      ]
+    },
+    "widespread data theft": {
+      "count": 1,
+      "dates": [
+        "2026-09-07"
+      ]
+    },
+    "secure preferences fake": {
+      "count": 1,
+      "dates": [
+        "2026-09-07"
+      ]
+    },
+    "code execution access": {
       "count": 1,
       "dates": [
         "2026-09-07"
@@ -29550,17 +29570,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-23 08:22",
-      "articles": 48,
-      "top_keywords": [
-        "twitter whistleblower complaint",
-        "sprawling phishing campaign",
-        "poisoned arrayref version",
-        "multi stage downloader",
-        "fake lock screen"
-      ]
-    },
     {
       "timestamp": "2026-08-23 10:17",
       "articles": 48,
@@ -30648,6 +30657,17 @@
         "sophisticated threat group",
         "1 1 billion",
         "national security risk"
+      ]
+    },
+    {
+      "timestamp": "2026-09-07 19:32",
+      "articles": 48,
+      "top_keywords": [
+        "sophisticated threat group",
+        "widespread data theft",
+        "residential proxy node",
+        "1 1 billion",
+        "twitter whistleblower complaint"
       ]
     }
   ]

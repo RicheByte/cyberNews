@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-07 15:27 UTC  
+> **Last Updated:** 2026-09-07 19:32 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**20 plus subscription** • **attackers stole data** • **sophisticated threat group** • **1 1 billion** • **national security risk** • **twitter whistleblower complaint** • **large enterprises targeted** • **individuals whose licenses** • **hijack routers hackers** • **software giant fixed** • **long term surveillance** • **defraud online merchants** • **credential harvesting surveillance** • **backdoored screenconnect instances** • **newly connected clients** • **hack sites tracked** • **who's harvesting data** • **data looks like** • **august data breach** • **worm like campaign**
+**sophisticated threat group** • **widespread data theft** • **residential proxy node** • **1 1 billion** • **twitter whistleblower complaint** • **secure preferences fake** • **national security risk** • **large enterprises targeted** • **individuals whose licenses** • **long term surveillance** • **credential harvesting surveillance** • **ban residential proxies** • **backdoored screenconnect instances** • **code execution access** • **who's harvesting data** • **data looks like** • **august data breach** • **newly connected clients** • **hack sites tracked** • **worm like campaign**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution](https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html)
+- [Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks](https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html)
+- [⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More](https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html)
 - [Your Cloud Security Checklist Doesn't Work the Way You Think It Does](https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html)
 - [Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts](https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html)
 - [Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE — Public Exploit Released](https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html)
 - [N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw](https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html)
 - [JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies](https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html)
-- [Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication](https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html)
-- [Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner](https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html)
-- [Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores](https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html)
 
 ### BleepingComputer
 
+- [Magento StyleSmuggler zero-day exploited to deploy Linux backdoor](https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/)
+- [BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations](https://www.bleepingcomputer.com/news/security/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/)
 - [Mathspace discloses data breach affecting over 1 million people](https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/)
 - [Trezor data breach impact now reaches 81,000 customers](https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/)
 - [ChatGPT can now connect to your personal apps to mimic writing style](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/)
 - [Hackers exploit new MikroTik RouterOS flaws to hijack routers](https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/)
 - [ConnectWise warns of new ScreenConnect flaw without patch](https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/)
 - [N-able patches max severity N-central flaw amid ongoing attacks](https://www.bleepingcomputer.com/news/security/n-able-patches-max-severity-n-central-flaw-amid-ongoing-attacks/)
-- [ChatGPT Astra is now rolling out to $20 Plus subscription](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/)
-- [Attackers conceal phishing lures using invisible Unicode characters](https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/)
 
 ### Krebs on Security
 

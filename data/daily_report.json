@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08 02:40",
+  "last_updated": "2026-09-08 08:30",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -10,63 +10,72 @@
     "twitter whistleblower complaint",
     "secure preferences fake",
     "national security risk",
+    "long term surveillance",
     "large enterprises targeted",
     "individuals whose licenses",
-    "long term surveillance",
-    "credential harvesting surveillance",
     "ban residential proxies",
     "backdoored screenconnect instances",
+    "vietnam linked system",
+    "pay 26 million",
     "code execution access",
     "who's harvesting data",
+    "sharing sensitive data",
     "data looks like",
     "august data breach",
-    "newly connected clients",
-    "hack sites tracked",
-    "worm like campaign"
+    "newly connected clients"
   ],
   "trending": [
     {
       "keyword": "sophisticated threat group",
-      "mentions": 30
+      "mentions": 31
     },
     {
       "keyword": "widespread data theft",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 199
+      "mentions": 200
     },
     {
       "keyword": "1 1 billion",
-      "mentions": 24
+      "mentions": 25
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2606
+      "mentions": 2607
     },
     {
       "keyword": "secure preferences fake",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "national security risk",
-      "mentions": 454
-    },
-    {
-      "keyword": "large enterprises targeted",
-      "mentions": 28
-    },
-    {
-      "keyword": "individuals whose licenses",
-      "mentions": 36
+      "mentions": 455
     },
     {
       "keyword": "long term surveillance",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "large enterprises targeted",
+      "mentions": 29
+    },
+    {
+      "keyword": "individuals whose licenses",
+      "mentions": 37
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Grindr to Pay £26 Million to Settle U.K. Claims Over HIV Status Data Sharing",
+      "link": "https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html",
+      "summary": "Online dating app Grindr has opted to pay £26 million ($35.1 million) to settle a lawsuit in the U.K. over allegations that it shared users' personal information, including their HIV status, with third-parties. Grindr, which is the largest LGBTQ+ dating app, was sued in April 2024, accusing it of violating U.K. privacy laws by sharing sensitive data for commercial purposes such as advertising.",
+      "published": "Tue, 08 Sep 2026 12:30:43 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution",
@@ -143,13 +152,15 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies",
-      "link": "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html",
-      "summary": "Cybersecurity researchers have unpacked JSCeal, a sophisticated compiled V8 JavaScript (JSC) malware with credential harvesting, surveillance, and traffic-interception capabilities. \"The payloads are protected with javascript-obfuscator, using multiple techniques including RC4-protected strings, control-flow flattening, proxy functions, and operation wrappers,\" Check Point Research said in a",
-      "published": "Mon, 07 Sep 2026 13:23:04 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "220 million traveler records exposed in Vietnam-linked APIS leak",
+      "link": "https://www.bleepingcomputer.com/news/security/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak/",
+      "summary": "Exclusive: An exposed Advance Passenger Information System (APIS) database held 220 million passenger and crew records containing names, passport numbers, dates of birth, nationalities, and flight details spanning 2017 to 2026. Researchers accessed the Vietnam-linked system through a cloud-based path using default credentials. [...]",
+      "published": "Tue, 08 Sep 2026 03:35:50 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -226,17 +237,6 @@
       "value_score": 26,
       "value_signals": [
         "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "N-able patches max severity N-central flaw amid ongoing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/n-able-patches-max-severity-n-central-flaw-amid-ongoing-attacks/",
-      "summary": "N-able has released an emergency hotfix for a maximum-severity remote code execution (RCE) flaw affecting its N-central remote monitoring and management (RMM) platform. [...]",
-      "published": "Mon, 07 Sep 2026 02:17:41 -0400",
-      "value_score": 50,
-      "value_signals": [
-        "RCE ×2"
       ]
     },
     {

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-08 14:03 UTC  
+> **Last Updated:** 2026-09-08 19:12 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**multi agent frameworks** • **widespread data theft** • **students teachers staff** • **n central administrators** • **sophisticated threat group** • **residential proxy node** • **least 2015 driven** • **windows operating systems** • **twitter whistleblower complaint** • **secure preferences fake** • **long term surveillance** • **large enterprises targeted** • **individuals whose licenses** • **ban residential proxies** • **who's harvesting data** • **sharing sensitive data** • **attackers stole data** • **pay 26 million** • **unintended harm caused** • **turn one's television**
+**windows operating systems** • **brazilian financial institution** • **security updates released** • **least march 2026** • **victim's gmail data** • **versions 25h2 24h2** • **twitter whistleblower complaint** • **siphoning images collected** • **large enterprises targeted** • **individuals whose licenses** • **200 000 records** • **national security risk** • **kb5122880 cumulative updates** • **shinyhunters breach reliaquest** • **who's harvesting data** • **unintended harm caused** • **turn one's television** • **text history records** • **taking dangerous actions** • **students teachers staff**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution](https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html)
+- [Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC](https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html)
+- [ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account](https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html)
+- [Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours](https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html)
 - [WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls](https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html)
 - [What It Took to Reach 1 Billion Build Manifests](https://thehackernews.com/2026/09/what-it-took-to-reach-1-billion-build.html)
 - [FreeIPA Flaw Chain Lets Anonymous Clients Create Reusable Administrator Credentials](https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html)
 - [Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell](https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html)
-- [BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams](https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html)
-- [Grindr to Pay £26 Million to Settle U.K. Claims Over HIV Status Data Sharing](https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html)
-- [PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution](https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html)
-- [Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks](https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html)
 
 ### BleepingComputer
 
-- [Adobe fixes critical Magento zero-day exploited to backdoor servers](https://www.bleepingcomputer.com/news/security/adobe-fixes-critical-magento-zero-day-exploited-to-backdoor-servers/)
-- [Webinar: The forgotten Google Workspace access that can lead to a breach](https://www.bleepingcomputer.com/news/security/webinar-the-forgotten-google-workspace-access-that-can-lead-to-a-breach/)
-- [Hackers build AI frameworks for widescale credential theft](https://www.bleepingcomputer.com/news/security/hackers-build-ai-frameworks-for-widescale-credential-theft/)
-- [Microsoft: Windows Server 2025 changes causing app crashes](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2025-changes-may-cause-app-crashes/)
-- [220 million traveler records exposed in Vietnam-linked APIS leak](https://www.bleepingcomputer.com/news/security/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak/)
-- [Magento StyleSmuggler zero-day exploited to deploy Linux backdoor](https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/)
-- [BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations](https://www.bleepingcomputer.com/news/security/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/)
-- [Mathspace discloses data breach affecting over 1 million people](https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/)
+- [Microsoft releases Windows 10 KB5122878 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5122878-extended-security-update/)
+- [Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-patch-tuesday-fixes-966-flaws-2-zero-days/)
+- [Windows 11 cumulative updates KB5124008 & KB5122880 released](https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5124008-and-kb5122880-released/)
+- [ShinyHunters hackers claim breach of Florida "DAVID" DMV database](https://www.bleepingcomputer.com/news/security/shinyhunters-hackers-claim-breach-of-florida-david-dmv-database/)
+- [OpenAI says ChatGPT outage causes image generation errors](https://www.bleepingcomputer.com/news/technology/openai-says-chatgpt-outage-causes-image-generation-errors/)
+- [August updates trigger 0xc0000409 errors on Windows Server 2016](https://www.bleepingcomputer.com/news/microsoft/august-updates-trigger-0xc0000409-errors-on-windows-server-2016/)
+- [SAP warns of maximum severity 'OVERPASS' kernel vulnerability](https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-overpass-kernel-vulnerability/)
+- [OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-6-astra-can-find-zero-days-but-is-also-harder-to-monitor/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [ClickFix Campaigns Abuse Legitimate Services for Persistent Access](https://www.darkreading.com/endpoint-security/clickfix-campaigns-legitimate-services-persistent-access)
 - [Companies Have 6 Months to Prepare for Automated Attacks](https://www.darkreading.com/cybersecurity-operations/companies-six-months-prepare-automated-attacks)
 - [AI Is Ending the Era of Hidden Vulnerabilities — Are Vendors Ready?](https://www.darkreading.com/vulnerabilities-threats/ai-ending-era-hidden-vulnerabilities-are-vendors-ready)
 - [Insurers Search for Answers to Rein in Rogue AI](https://www.darkreading.com/cyber-risk/insurers-search-answers-rogue-ai)
@@ -56,18 +57,17 @@
 - [What We Missed: Did ShinyHunters 'Breach' ReliaQuest?](https://www.darkreading.com/cybersecurity-operations/what-we-missed-did-shinyhunters-breach-reliaquest)
 - [What the AI Warning Letter Completely Missed](https://www.darkreading.com/cyberattacks-data-breaches/ai-warning-letter-missed-people)
 - [AI 'Machine Speed' Cuts 2-Week Attack Down to 10 Hours](https://www.darkreading.com/cyberattacks-data-breaches/ai-machine-speed-2-week-attack-10-hours)
-- ['Breeze Comet' Tears Into Brazilian &amp; Global Financial Systems](https://www.darkreading.com/threat-intelligence/breeze-comet-brazilian-global-financial-systems)
 
 ### Security Week
 
+- [Adobe Patches Over 170 Vulnerabilities, Including Commerce Zero-Day](https://www.securityweek.com/adobe-patches-over-170-vulnerabilities-including-commerce-zero-day/)
+- [The Hidden Instructions That Can Hijack AI Agents](https://www.securityweek.com/the-hidden-instructions-that-can-hijack-ai-agents/)
+- [Hackers Return $263 Million Stolen From Liquid Network](https://www.securityweek.com/hackers-return-263-million-stolen-from-liquid-network/)
+- [Cylake Raises $245 Million Ahead of Cybersecurity Platform Beta](https://www.securityweek.com/cylake-raises-245-million-ahead-of-cybersecurity-platform-beta/)
+- [SAP Patches Critical Extended Passport Processing Vulnerability](https://www.securityweek.com/sap-patches-critical-extended-passport-processing-vulnerability/)
 - [Party’s Over for Crypto Scammers Who Went on a Spending Spree After a $240 Million Bitcoin Theft](https://www.securityweek.com/partys-over-for-crypto-scammers-who-went-on-a-spending-spree-after-a-240-million-bitcoin-theft/)
 - [MikroTik Patches Critical Flaws Chained to Hack Routers](https://www.securityweek.com/mikrotik-patches-critical-flaws-chained-to-hack-routers/)
 - [Mathspace Data Breach Exposes Over 1 Million People](https://www.securityweek.com/mathspace-data-breach-exposes-over-1-million-people/)
-- [N-able Patches Critical Zero-Day in N-central](https://www.securityweek.com/n-able-patches-critical-zero-day-in-n-central/)
-- [Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits](https://www.securityweek.com/nightmare-eclipse-drops-crowdstrike-nvidia-avast-zero-day-exploits/)
-- [North Korean Hackers Deploy New Linux Espionage Toolkit](https://www.securityweek.com/north-korean-hackers-deploy-new-linux-espionage-toolkit/)
-- [OpenAI Agents Hijack Another Victim Website](https://www.securityweek.com/openai-agents-hijack-another-victim-website/)
-- [Adobe Commerce Zero-Day Exploited to Backdoor Online Stores](https://www.securityweek.com/adobe-commerce-zero-day-exploited-to-backdoor-online-stores/)
 
 ### Threatpost
 

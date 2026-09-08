@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-08 14:03 UTC |
+| 🕐 Last Updated | 2026-09-08 19:12 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`multi agent frameworks` • `widespread data theft` • `students teachers staff` • `n central administrators` • `sophisticated threat group` • `residential proxy node` • `least 2015 driven` • `windows operating systems` • `twitter whistleblower complaint` • `secure preferences fake`
+`windows operating systems` • `brazilian financial institution` • `security updates released` • `least march 2026` • `victim's gmail data` • `versions 25h2 24h2` • `twitter whistleblower complaint` • `siphoning images collected` • `large enterprises targeted` • `individuals whose licenses`
 
 ## 📄 Reports
 

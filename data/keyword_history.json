@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 744,
+      "count": 745,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -325,7 +325,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2608,
+      "count": 2609,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1254,7 +1254,7 @@
       ]
     },
     "national security risk": {
-      "count": 455,
+      "count": 456,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -23347,9 +23347,10 @@
       ]
     },
     "versions 25h2 24h2": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-07-14"
+        "2026-07-14",
+        "2026-09-08"
       ]
     },
     "address multiple vulnerabilities": {
@@ -24666,7 +24667,7 @@
       ]
     },
     "turn one's television": {
-      "count": 235,
+      "count": 236,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26395,7 +26396,7 @@
       ]
     },
     "text history records": {
-      "count": 173,
+      "count": 174,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -26422,7 +26423,8 @@
         "2026-09-01",
         "2026-09-02",
         "2026-09-04",
-        "2026-09-05"
+        "2026-09-05",
+        "2026-09-08"
       ]
     },
     "chatgpt secure sandbox": {
@@ -27267,7 +27269,7 @@
       ]
     },
     "who's harvesting data": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-08-14",
         "2026-08-19",
@@ -29052,7 +29054,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29350,7 +29352,7 @@
       ]
     },
     "large enterprises targeted": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-09-03",
         "2026-09-04",
@@ -29436,7 +29438,7 @@
       ]
     },
     "unintended harm caused": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-09-04",
         "2026-09-05",
@@ -29617,7 +29619,7 @@
       ]
     },
     "students teachers staff": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-08"
       ]
@@ -29633,20 +29635,63 @@
       "dates": [
         "2026-09-08"
       ]
+    },
+    "brazilian financial institution": {
+      "count": 1,
+      "dates": [
+        "2026-09-08"
+      ]
+    },
+    "security updates released": {
+      "count": 1,
+      "dates": [
+        "2026-09-08"
+      ]
+    },
+    "least march 2026": {
+      "count": 1,
+      "dates": [
+        "2026-09-08"
+      ]
+    },
+    "victim's gmail data": {
+      "count": 1,
+      "dates": [
+        "2026-09-08"
+      ]
+    },
+    "siphoning images collected": {
+      "count": 1,
+      "dates": [
+        "2026-09-08"
+      ]
+    },
+    "200 000 records": {
+      "count": 1,
+      "dates": [
+        "2026-09-08"
+      ]
+    },
+    "kb5122880 cumulative updates": {
+      "count": 1,
+      "dates": [
+        "2026-09-08"
+      ]
+    },
+    "shinyhunters breach reliaquest": {
+      "count": 1,
+      "dates": [
+        "2026-09-08"
+      ]
+    },
+    "taking dangerous actions": {
+      "count": 1,
+      "dates": [
+        "2026-09-08"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-23 18:20",
-      "articles": 48,
-      "top_keywords": [
-        "national security risk",
-        "twitter whistleblower complaint",
-        "sprawling phishing campaign",
-        "poisoned arrayref version",
-        "multi stage downloader"
-      ]
-    },
     {
       "timestamp": "2026-08-23 20:15",
       "articles": 48,
@@ -30734,6 +30779,17 @@
         "students teachers staff",
         "n central administrators",
         "sophisticated threat group"
+      ]
+    },
+    {
+      "timestamp": "2026-09-08 19:12",
+      "articles": 48,
+      "top_keywords": [
+        "windows operating systems",
+        "brazilian financial institution",
+        "security updates released",
+        "least march 2026",
+        "victim's gmail data"
       ]
     }
   ]

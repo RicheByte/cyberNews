@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-09-08 19:12",
+  "last_updated": "2026-09-08 22:17",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "windows operating systems",
     "brazilian financial institution",
-    "security updates released",
     "least march 2026",
+    "windows operating systems",
     "victim's gmail data",
     "versions 25h2 24h2",
     "twitter whistleblower complaint",
+    "steal credit cards",
     "siphoning images collected",
-    "large enterprises targeted",
     "individuals whose licenses",
+    "fake e shops",
+    "deploy linux rootkit",
+    "sprawling phishing campaign",
+    "large enterprises targeted",
     "200 000 records",
+    "119 000 domains",
+    "security updates released",
+    "security experts warn",
     "national security risk",
-    "kb5122880 cumulative updates",
-    "shinyhunters breach reliaquest",
-    "who's harvesting data",
-    "unintended harm caused",
-    "turn one's television",
-    "text history records",
-    "taking dangerous actions",
-    "students teachers staff"
+    "holds real bitcoin",
+    "bugs allow attackers"
   ],
   "trending": [
     {
-      "keyword": "windows operating systems",
-      "mentions": 745
-    },
-    {
       "keyword": "brazilian financial institution",
-      "mentions": 1
-    },
-    {
-      "keyword": "security updates released",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "least march 2026",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 746
     },
     {
       "keyword": "victim's gmail data",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "versions 25h2 24h2",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2609
+      "mentions": 2610
     },
     {
-      "keyword": "siphoning images collected",
+      "keyword": "steal credit cards",
       "mentions": 1
     },
     {
-      "keyword": "large enterprises targeted",
-      "mentions": 31
+      "keyword": "siphoning images collected",
+      "mentions": 2
     },
     {
       "keyword": "individuals whose licenses",
-      "mentions": 39
+      "mentions": 40
+    },
+    {
+      "keyword": "fake e shops",
+      "mentions": 1
     }
   ],
   "articles": [
@@ -150,6 +150,39 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "DoppelCart fraud network uses 119,000 fake shops to steal credit cards",
+      "link": "https://www.bleepingcomputer.com/news/security/doppelcart-fraud-network-uses-119-000-fake-shops-to-steal-credit-cards/",
+      "summary": "A massive operation dubbed \"DoppelCart\" uses more than 119,000 domains to run a network of fake e-shops that steal payment card details. [...]",
+      "published": "Tue, 08 Sep 2026 16:35:14 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "The EU CRA's Real Question: What Shipped, and When Did You Know?",
+      "link": "https://www.bleepingcomputer.com/news/security/the-eu-cras-real-question-what-shipped-and-when-did-you-know/",
+      "summary": "The EU Cyber Resilience Act's vulnerability reporting requirements take effect September 11, giving software vendors as little as 24 hours to report actively exploited flaws. ActiveState explains why knowing exactly what shipped and when vulnerabilities were discovered will be critical to meeting the new requirements. [...]",
+      "published": "Tue, 08 Sep 2026 16:24:16 -0400",
+      "value_score": 49,
+      "value_signals": [
+        "Active exploitation",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Hackers breach F5 BIG-IP APM devices to deploy Linux rootkit",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-f5-big-ip-apm-devices-to-deploy-linux-rootkit/",
+      "summary": "A Linux rootkit targeting devices in F5 BIG-IP APM environments can intercept PHP file loading and inject a fileless web shell directly into memory, avoiding the need to write malicious code to disk. [...]",
+      "published": "Tue, 08 Sep 2026 16:08:55 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Microsoft releases Windows 10 KB5122878 extended security update",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5122878-extended-security-update/",
       "summary": "Microsoft has released the Windows 10 KB5122878 extended security update, which includes this month's record-breaking September 2026 Patch Tuesday fixes, along with a few bug fixes. [...]",
@@ -205,34 +238,14 @@
       "value_signals": []
     },
     {
-      "source": "BleepingComputer",
-      "title": "August updates trigger 0xc0000409 errors on Windows Server 2016",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/august-updates-trigger-0xc0000409-errors-on-windows-server-2016/",
-      "summary": "Microsoft says the August 2026 security update may trigger 0xc0000409 errors on Windows Server 2016 systems where the Compatibility Appraiser diagnostic service is enabled. [...]",
-      "published": "Tue, 08 Sep 2026 11:22:33 -0400",
+      "source": "Krebs on Security",
+      "title": "Microsoft Plugs Nearly 1,000 Security Holes",
+      "link": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
+      "summary": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations already are struggling to prioritize the more human-intensive endeavor of testing and deploying so many fixes each month.",
+      "published": "Tue, 08 Sep 2026 21:44:22 +0000",
       "value_score": 18,
       "value_signals": [
         "Patch/update"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "SAP warns of maximum severity 'OVERPASS' kernel vulnerability",
-      "link": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-overpass-kernel-vulnerability/",
-      "summary": "SAP has addressed 20 vulnerabilities across multiple products in its September 2026 security updates, including a maximum-severity memory corruption flaw in the SAP Kernel code. [...]",
-      "published": "Tue, 08 Sep 2026 10:55:20 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-6-astra-can-find-zero-days-but-is-also-harder-to-monitor/",
-      "summary": "OpenAI confirmed that GPT-6 Astra is the first model it has broadly deployed to reach the \"Critical level\" for cybersecurity capabilities. [...]",
-      "published": "Tue, 08 Sep 2026 10:40:32 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
       ]
     },
     {
@@ -302,15 +315,36 @@
       "value_signals": []
     },
     {
-      "source": "Krebs on Security",
-      "title": "Microsoft Patches a Record 570 Security Flaws",
-      "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
-      "summary": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning patch counts to vulnerability discoveries aided by artificial intelligence.",
-      "published": "Tue, 14 Jul 2026 19:22:42 +0000",
-      "value_score": 26,
+      "source": "Dark Reading",
+      "title": "Patch Tuesday Sets Another Record With 974 CVEs",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/patch-tuesday-another-record-974-cves",
+      "summary": "Attackers are actively exploiting two of the vulnerabilities and another 58 are more likely to be exploited, according to Microsoft.",
+      "published": "Tue, 08 Sep 2026 21:26:02 GMT",
+      "value_score": 24,
       "value_signals": [
-        "Patch/update ×3"
+        "Patch/update",
+        "Exploit wording"
       ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Attackers Use Multi-Hop Google Redirects for Phishing Campaign",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-multi-hop-google-redirects-phishing-campaign",
+      "summary": "Threat actors are abusing multiple Google services to evade detection, ultimately harvesting credentials or installing ScreenConnect remote access.",
+      "published": "Tue, 08 Sep 2026 21:03:46 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "OpenAI Agents Took Over Wiki Site Before Hugging Face Attack",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/openai-agents-wiki-site-hugging-face-attack",
+      "summary": "Researchers and OpenAI disagree on whether the earlier incident involving DseWiki was a “hack” that the company did not disclose.",
+      "published": "Tue, 08 Sep 2026 20:36:15 GMT",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Dark Reading",
@@ -358,34 +392,15 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "What We Missed: Did ShinyHunters 'Breach' ReliaQuest?",
-      "link": "https://www.darkreading.com/cybersecurity-operations/what-we-missed-did-shinyhunters-breach-reliaquest",
-      "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from the latest antics of ShinyHunters to new research about the prevalence (or lack thereof) of AI-generated malware.",
-      "published": "Thu, 03 Sep 2026 19:42:39 GMT",
-      "value_score": 22,
+      "source": "Security Week",
+      "title": "Microsoft Patches Record 974 Vulnerabilities, Including Two Exploited Zero-Days",
+      "link": "https://www.securityweek.com/microsoft-patches-record-974-vulnerabilities-including-two-exploited-zero-days/",
+      "summary": "The record-breaking September security update fixes two exploited privilege-escalation zero-days and 20 potentially wormable vulnerabilities. The post Microsoft Patches Record 974 Vulnerabilities, Including Two Exploited Zero-Days appeared first on SecurityWeek .",
+      "published": "Tue, 08 Sep 2026 19:20:06 +0000",
+      "value_score": 24,
       "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "What the AI Warning Letter Completely Missed",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-warning-letter-missed-people",
-      "summary": "The recent AI warning letter is right about the \"window,\" but it omits naming who is coming through it or, critically, who will close it.",
-      "published": "Thu, 03 Sep 2026 17:23:14 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "AI 'Machine Speed' Cuts 2-Week Attack Down to 10 Hours",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-machine-speed-2-week-attack-10-hours",
-      "summary": "The incident demonstrates how frontier AI agents can dramatically compress an attack timeline and coordinate a large-scale breach, according to researchers.",
-      "published": "Thu, 03 Sep 2026 14:38:49 GMT",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
+        "Patch/update",
+        "Exploit wording"
       ]
     },
     {
@@ -459,17 +474,6 @@
       "value_score": 26,
       "value_signals": [
         "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Mathspace Data Breach Exposes Over 1 Million People",
-      "link": "https://www.securityweek.com/mathspace-data-breach-exposes-over-1-million-people/",
-      "summary": "Hackers stole the information of students, teachers, staff, and parents/guardians from a self-hosted Metabase instance. The post Mathspace Data Breach Exposes Over 1 Million People appeared first on SecurityWeek .",
-      "published": "Tue, 08 Sep 2026 10:47:36 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
       ]
     },
     {

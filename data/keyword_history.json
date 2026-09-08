@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 745,
+      "count": 746,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -325,7 +325,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2609,
+      "count": 2610,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1254,7 +1254,7 @@
       ]
     },
     "national security risk": {
-      "count": 456,
+      "count": 457,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2009,7 +2009,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 605,
+      "count": 606,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2125,7 +2125,8 @@
         "2026-09-02",
         "2026-09-04",
         "2026-09-05",
-        "2026-09-06"
+        "2026-09-06",
+        "2026-09-08"
       ]
     },
     "model agnostic abstractions": {
@@ -20286,10 +20287,11 @@
       ]
     },
     "security experts warn": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-16",
-        "2026-06-17"
+        "2026-06-17",
+        "2026-09-08"
       ]
     },
     "targets 217 banking": {
@@ -23347,7 +23349,7 @@
       ]
     },
     "versions 25h2 24h2": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-14",
         "2026-09-08"
@@ -29054,7 +29056,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29352,7 +29354,7 @@
       ]
     },
     "large enterprises targeted": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-09-03",
         "2026-09-04",
@@ -29637,37 +29639,37 @@
       ]
     },
     "brazilian financial institution": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-08"
       ]
     },
     "security updates released": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-08"
       ]
     },
     "least march 2026": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-08"
       ]
     },
     "victim's gmail data": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-08"
       ]
     },
     "siphoning images collected": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-08"
       ]
     },
     "200 000 records": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-08"
       ]
@@ -29689,20 +29691,45 @@
       "dates": [
         "2026-09-08"
       ]
+    },
+    "steal credit cards": {
+      "count": 1,
+      "dates": [
+        "2026-09-08"
+      ]
+    },
+    "fake e shops": {
+      "count": 1,
+      "dates": [
+        "2026-09-08"
+      ]
+    },
+    "deploy linux rootkit": {
+      "count": 1,
+      "dates": [
+        "2026-09-08"
+      ]
+    },
+    "119 000 domains": {
+      "count": 1,
+      "dates": [
+        "2026-09-08"
+      ]
+    },
+    "holds real bitcoin": {
+      "count": 1,
+      "dates": [
+        "2026-09-08"
+      ]
+    },
+    "bugs allow attackers": {
+      "count": 1,
+      "dates": [
+        "2026-09-08"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-23 20:15",
-      "articles": 48,
-      "top_keywords": [
-        "national security risk",
-        "twitter whistleblower complaint",
-        "sprawling phishing campaign",
-        "poisoned arrayref version",
-        "multi stage downloader"
-      ]
-    },
     {
       "timestamp": "2026-08-23 22:15",
       "articles": 48,
@@ -30790,6 +30817,17 @@
         "security updates released",
         "least march 2026",
         "victim's gmail data"
+      ]
+    },
+    {
+      "timestamp": "2026-09-08 22:17",
+      "articles": 48,
+      "top_keywords": [
+        "brazilian financial institution",
+        "least march 2026",
+        "windows operating systems",
+        "victim's gmail data",
+        "versions 25h2 24h2"
       ]
     }
   ]

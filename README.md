@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-08 19:12 UTC |
+| 🕐 Last Updated | 2026-09-08 22:17 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`windows operating systems` • `brazilian financial institution` • `security updates released` • `least march 2026` • `victim's gmail data` • `versions 25h2 24h2` • `twitter whistleblower complaint` • `siphoning images collected` • `large enterprises targeted` • `individuals whose licenses`
+`brazilian financial institution` • `least march 2026` • `windows operating systems` • `victim's gmail data` • `versions 25h2 24h2` • `twitter whistleblower complaint` • `steal credit cards` • `siphoning images collected` • `individuals whose licenses` • `fake e shops`
 
 ## 📄 Reports
 

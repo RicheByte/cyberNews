@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-08 19:12 UTC  
+> **Last Updated:** 2026-09-08 22:17 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**windows operating systems** • **brazilian financial institution** • **security updates released** • **least march 2026** • **victim's gmail data** • **versions 25h2 24h2** • **twitter whistleblower complaint** • **siphoning images collected** • **large enterprises targeted** • **individuals whose licenses** • **200 000 records** • **national security risk** • **kb5122880 cumulative updates** • **shinyhunters breach reliaquest** • **who's harvesting data** • **unintended harm caused** • **turn one's television** • **text history records** • **taking dangerous actions** • **students teachers staff**
+**brazilian financial institution** • **least march 2026** • **windows operating systems** • **victim's gmail data** • **versions 25h2 24h2** • **twitter whistleblower complaint** • **steal credit cards** • **siphoning images collected** • **individuals whose licenses** • **fake e shops** • **deploy linux rootkit** • **sprawling phishing campaign** • **large enterprises targeted** • **200 000 records** • **119 000 domains** • **security updates released** • **security experts warn** • **national security risk** • **holds real bitcoin** • **bugs allow attackers**
 
 ---
 
@@ -27,17 +27,18 @@
 
 ### BleepingComputer
 
+- [DoppelCart fraud network uses 119,000 fake shops to steal credit cards](https://www.bleepingcomputer.com/news/security/doppelcart-fraud-network-uses-119-000-fake-shops-to-steal-credit-cards/)
+- [The EU CRA's Real Question: What Shipped, and When Did You Know?](https://www.bleepingcomputer.com/news/security/the-eu-cras-real-question-what-shipped-and-when-did-you-know/)
+- [Hackers breach F5 BIG-IP APM devices to deploy Linux rootkit](https://www.bleepingcomputer.com/news/security/hackers-breach-f5-big-ip-apm-devices-to-deploy-linux-rootkit/)
 - [Microsoft releases Windows 10 KB5122878 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5122878-extended-security-update/)
 - [Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-patch-tuesday-fixes-966-flaws-2-zero-days/)
 - [Windows 11 cumulative updates KB5124008 & KB5122880 released](https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5124008-and-kb5122880-released/)
 - [ShinyHunters hackers claim breach of Florida "DAVID" DMV database](https://www.bleepingcomputer.com/news/security/shinyhunters-hackers-claim-breach-of-florida-david-dmv-database/)
 - [OpenAI says ChatGPT outage causes image generation errors](https://www.bleepingcomputer.com/news/technology/openai-says-chatgpt-outage-causes-image-generation-errors/)
-- [August updates trigger 0xc0000409 errors on Windows Server 2016](https://www.bleepingcomputer.com/news/microsoft/august-updates-trigger-0xc0000409-errors-on-windows-server-2016/)
-- [SAP warns of maximum severity 'OVERPASS' kernel vulnerability](https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-overpass-kernel-vulnerability/)
-- [OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-6-astra-can-find-zero-days-but-is-also-harder-to-monitor/)
 
 ### Krebs on Security
 
+- [Microsoft Plugs Nearly 1,000 Security Holes](https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/)
 - [FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/)
 - [Two Alleged ‘TeamPCP’ Hackers Arrested in Australia](https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/)
 - [Who’s Tracking You? Use This New Service to Find Out](https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/)
@@ -45,21 +46,21 @@
 - [Canadian Man Pleads Guilty in Snowflake Extortions](https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/)
 - [Read This Before You Buy That TV Streaming Stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/)
 - [LG to Ban Residential Proxies from Smart TV Apps](https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/)
-- [Microsoft Patches a Record 570 Security Flaws](https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/)
 
 ### Dark Reading
 
+- [Patch Tuesday Sets Another Record With 974 CVEs](https://www.darkreading.com/vulnerabilities-threats/patch-tuesday-another-record-974-cves)
+- [Attackers Use Multi-Hop Google Redirects for Phishing Campaign](https://www.darkreading.com/cyberattacks-data-breaches/attackers-multi-hop-google-redirects-phishing-campaign)
+- [OpenAI Agents Took Over Wiki Site Before Hugging Face Attack](https://www.darkreading.com/cyberattacks-data-breaches/openai-agents-wiki-site-hugging-face-attack)
 - [ClickFix Campaigns Abuse Legitimate Services for Persistent Access](https://www.darkreading.com/endpoint-security/clickfix-campaigns-legitimate-services-persistent-access)
 - [Companies Have 6 Months to Prepare for Automated Attacks](https://www.darkreading.com/cybersecurity-operations/companies-six-months-prepare-automated-attacks)
 - [AI Is Ending the Era of Hidden Vulnerabilities — Are Vendors Ready?](https://www.darkreading.com/vulnerabilities-threats/ai-ending-era-hidden-vulnerabilities-are-vendors-ready)
 - [Insurers Search for Answers to Rein in Rogue AI](https://www.darkreading.com/cyber-risk/insurers-search-answers-rogue-ai)
 - [Large Enterprises Targeted in Fake Merger &amp; Acquisition Scams](https://www.darkreading.com/cyberattacks-data-breaches/large-enterprises-fake-merger-acquisition-scams)
-- [What We Missed: Did ShinyHunters 'Breach' ReliaQuest?](https://www.darkreading.com/cybersecurity-operations/what-we-missed-did-shinyhunters-breach-reliaquest)
-- [What the AI Warning Letter Completely Missed](https://www.darkreading.com/cyberattacks-data-breaches/ai-warning-letter-missed-people)
-- [AI 'Machine Speed' Cuts 2-Week Attack Down to 10 Hours](https://www.darkreading.com/cyberattacks-data-breaches/ai-machine-speed-2-week-attack-10-hours)
 
 ### Security Week
 
+- [Microsoft Patches Record 974 Vulnerabilities, Including Two Exploited Zero-Days](https://www.securityweek.com/microsoft-patches-record-974-vulnerabilities-including-two-exploited-zero-days/)
 - [Adobe Patches Over 170 Vulnerabilities, Including Commerce Zero-Day](https://www.securityweek.com/adobe-patches-over-170-vulnerabilities-including-commerce-zero-day/)
 - [The Hidden Instructions That Can Hijack AI Agents](https://www.securityweek.com/the-hidden-instructions-that-can-hijack-ai-agents/)
 - [Hackers Return $263 Million Stolen From Liquid Network](https://www.securityweek.com/hackers-return-263-million-stolen-from-liquid-network/)
@@ -67,7 +68,6 @@
 - [SAP Patches Critical Extended Passport Processing Vulnerability](https://www.securityweek.com/sap-patches-critical-extended-passport-processing-vulnerability/)
 - [Party’s Over for Crypto Scammers Who Went on a Spending Spree After a $240 Million Bitcoin Theft](https://www.securityweek.com/partys-over-for-crypto-scammers-who-went-on-a-spending-spree-after-a-240-million-bitcoin-theft/)
 - [MikroTik Patches Critical Flaws Chained to Hack Routers](https://www.securityweek.com/mikrotik-patches-critical-flaws-chained-to-hack-routers/)
-- [Mathspace Data Breach Exposes Over 1 Million People](https://www.securityweek.com/mathspace-data-breach-exposes-over-1-million-people/)
 
 ### Threatpost
 

@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 743,
+      "count": 744,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -320,11 +320,12 @@
         "2026-08-24",
         "2026-08-25",
         "2026-08-26",
-        "2026-08-27"
+        "2026-08-27",
+        "2026-09-08"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2607,
+      "count": 2608,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -24325,7 +24326,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 200,
+      "count": 201,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24362,7 +24363,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 147,
+      "count": 148,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24665,7 +24666,7 @@
       ]
     },
     "turn one's television": {
-      "count": 234,
+      "count": 235,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -24704,7 +24705,8 @@
         "2026-09-02",
         "2026-09-03",
         "2026-09-04",
-        "2026-09-05"
+        "2026-09-05",
+        "2026-09-08"
       ]
     },
     "anthropic's claude cowork": {
@@ -27265,7 +27267,7 @@
       ]
     },
     "who's harvesting data": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-08-14",
         "2026-08-19",
@@ -29050,7 +29052,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29267,7 +29269,7 @@
       ]
     },
     "sophisticated threat group": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-09-03",
         "2026-09-04",
@@ -29348,7 +29350,7 @@
       ]
     },
     "large enterprises targeted": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-09-03",
         "2026-09-04",
@@ -29434,12 +29436,13 @@
       ]
     },
     "unintended harm caused": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-09-04",
         "2026-09-05",
         "2026-09-06",
-        "2026-09-07"
+        "2026-09-07",
+        "2026-09-08"
       ]
     },
     "universities threat actors": {
@@ -29507,9 +29510,10 @@
       ]
     },
     "attackers stole data": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-09-07"
+        "2026-09-07",
+        "2026-09-08"
       ]
     },
     "hijack routers hackers": {
@@ -29519,7 +29523,7 @@
       ]
     },
     "long term surveillance": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-07",
         "2026-09-08"
@@ -29568,14 +29572,14 @@
       ]
     },
     "widespread data theft": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-07",
         "2026-09-08"
       ]
     },
     "secure preferences fake": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-07",
         "2026-09-08"
@@ -29595,12 +29599,36 @@
       ]
     },
     "pay 26 million": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-08"
       ]
     },
     "sharing sensitive data": {
+      "count": 2,
+      "dates": [
+        "2026-09-08"
+      ]
+    },
+    "multi agent frameworks": {
+      "count": 1,
+      "dates": [
+        "2026-09-08"
+      ]
+    },
+    "students teachers staff": {
+      "count": 1,
+      "dates": [
+        "2026-09-08"
+      ]
+    },
+    "n central administrators": {
+      "count": 1,
+      "dates": [
+        "2026-09-08"
+      ]
+    },
+    "least 2015 driven": {
       "count": 1,
       "dates": [
         "2026-09-08"
@@ -29608,17 +29636,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-23 16:17",
-      "articles": 48,
-      "top_keywords": [
-        "national security risk",
-        "twitter whistleblower complaint",
-        "sprawling phishing campaign",
-        "poisoned arrayref version",
-        "multi stage downloader"
-      ]
-    },
     {
       "timestamp": "2026-08-23 18:20",
       "articles": 48,
@@ -30706,6 +30723,17 @@
         "residential proxy node",
         "1 1 billion",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-09-08 14:03",
+      "articles": 48,
+      "top_keywords": [
+        "multi agent frameworks",
+        "widespread data theft",
+        "students teachers staff",
+        "n central administrators",
+        "sophisticated threat group"
       ]
     }
   ]

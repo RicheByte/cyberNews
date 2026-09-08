@@ -1,72 +1,124 @@
 {
-  "last_updated": "2026-09-08 08:30",
+  "last_updated": "2026-09-08 14:03",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "sophisticated threat group",
+    "multi agent frameworks",
     "widespread data theft",
+    "students teachers staff",
+    "n central administrators",
+    "sophisticated threat group",
     "residential proxy node",
-    "1 1 billion",
+    "least 2015 driven",
+    "windows operating systems",
     "twitter whistleblower complaint",
     "secure preferences fake",
-    "national security risk",
     "long term surveillance",
     "large enterprises targeted",
     "individuals whose licenses",
     "ban residential proxies",
-    "backdoored screenconnect instances",
-    "vietnam linked system",
-    "pay 26 million",
-    "code execution access",
     "who's harvesting data",
     "sharing sensitive data",
-    "data looks like",
-    "august data breach",
-    "newly connected clients"
+    "attackers stole data",
+    "pay 26 million",
+    "unintended harm caused",
+    "turn one's television"
   ],
   "trending": [
     {
-      "keyword": "sophisticated threat group",
-      "mentions": 31
+      "keyword": "multi agent frameworks",
+      "mentions": 1
     },
     {
       "keyword": "widespread data theft",
-      "mentions": 4
-    },
-    {
-      "keyword": "residential proxy node",
-      "mentions": 200
-    },
-    {
-      "keyword": "1 1 billion",
-      "mentions": 25
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2607
-    },
-    {
-      "keyword": "secure preferences fake",
-      "mentions": 4
-    },
-    {
-      "keyword": "national security risk",
-      "mentions": 455
-    },
-    {
-      "keyword": "long term surveillance",
       "mentions": 5
     },
     {
-      "keyword": "large enterprises targeted",
-      "mentions": 29
+      "keyword": "students teachers staff",
+      "mentions": 1
     },
     {
-      "keyword": "individuals whose licenses",
-      "mentions": 37
+      "keyword": "n central administrators",
+      "mentions": 1
+    },
+    {
+      "keyword": "sophisticated threat group",
+      "mentions": 32
+    },
+    {
+      "keyword": "residential proxy node",
+      "mentions": 201
+    },
+    {
+      "keyword": "least 2015 driven",
+      "mentions": 1
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 744
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2608
+    },
+    {
+      "keyword": "secure preferences fake",
+      "mentions": 5
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls",
+      "link": "https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html",
+      "summary": "Researchers at the security firm Calif have built a worm that takes over a WeChat account via an incoming call and demonstrated it spreading among three test phones. The person being called does not have to answer or touch their phone for it to work, but the caller must already be one of their WeChat contacts. Calif reported the flaw to Tencent in July and says the company has since",
+      "published": "Tue, 08 Sep 2026 17:24:29 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "What It Took to Reach 1 Billion Build Manifests",
+      "link": "https://thehackernews.com/2026/09/what-it-took-to-reach-1-billion-build.html",
+      "summary": "In the last six months, Chainguard doubled its output from 500 million to more than 1 billion container build manifests. We also surpassed 3,000 unique container images and 675,000 image versions in our catalog. Those are the headline numbers, but I want to share what's actually behind them. The number itself is less interesting than the system that produced it, and why we had to fundamentally",
+      "published": "Tue, 08 Sep 2026 17:19:02 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "FreeIPA Flaw Chain Lets Anonymous Clients Create Reusable Administrator Credentials",
+      "link": "https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html",
+      "summary": "A flaw in FreeIPA lets a client that has never logged in create a Kerberos identity of its own choosing in the directory and end up in the administrators group, Red Hat says. FreeIPA is the system that determines who may log in across a Linux domain and maintains all identities in a 389 Directory Server database accessed via LDAP. The attack needs a second flaw in that database software. The",
+      "published": "Tue, 08 Sep 2026 16:52:07 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell",
+      "link": "https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html",
+      "summary": "Adobe on Monday released security patches to address a maximum-severity flaw impacting Adobe Commerce and Magento Open Source that has come under active exploitation in the wild. The vulnerability, now tracked as CVE-2026-75650 (CVSS score: 10.0), has been codenamed StyleSmuggler by Sansec, which discovered zero-day exploitation starting September 4, 2026. \"This update resolves a critical",
+      "published": "Tue, 08 Sep 2026 14:43:47 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day ×2",
+        "Active exploitation",
+        "Patch/update",
+        "Backdoor",
+        "High severity"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams",
+      "link": "https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html",
+      "summary": "Cybersecurity researchers have disclosed details of a sprawling search engine optimization (SEO) poisoning campaign that paves the way for malware deployment and tech support scams. The campaign, discovered by the DFIR Report in March 2026, has been codenamed BengalSEO. It has operated out of the Indian state of Rajasthan since at least 2015, driven by two IT service providers named WeConnect",
+      "published": "Tue, 08 Sep 2026 14:13:51 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Grindr to Pay £26 Million to Settle U.K. Claims Over HIV Status Data Sharing",
@@ -97,59 +149,49 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
-      "link": "https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html",
-      "summary": "Turning off email images should at least stop the pictures. This week, attackers had a workaround: a scannable QR code built out of text. It still appears, even with images blocked. A small detail, but an annoying one if that was a precaution you were counting on. Elsewhere, a trusted software source delivered code that stole credentials, and a protocol designed for secure network management",
-      "published": "Mon, 07 Sep 2026 20:06:07 +0530",
+      "source": "BleepingComputer",
+      "title": "Adobe fixes critical Magento zero-day exploited to backdoor servers",
+      "link": "https://www.bleepingcomputer.com/news/security/adobe-fixes-critical-magento-zero-day-exploited-to-backdoor-servers/",
+      "summary": "Adobe has released an emergency fix for CVE-2026-75650, an actively exploited max-severity zero-day vulnerability dubbed StyleSmuggler, that impacts multiple versions of Magento and Adobe Commerce. [...]",
+      "published": "Tue, 08 Sep 2026 09:34:47 -0400",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day ×2",
+        "Active exploitation",
+        "Patch/update",
+        "Backdoor",
+        "High severity"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Webinar: The forgotten Google Workspace access that can lead to a breach",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-the-forgotten-google-workspace-access-that-can-lead-to-a-breach/",
+      "summary": "Third-party applications connected to Google Workspace can retain access long after their original purpose is forgotten. This webinar examines how overly permissive integrations contribute to breaches and which security controls can help fast-growing companies reduce their exposure. [...]",
+      "published": "Tue, 08 Sep 2026 08:40:48 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Hackers build AI frameworks for widescale credential theft",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-build-ai-frameworks-for-widescale-credential-theft/",
+      "summary": "Threat actors are increasingly switching from AI-powered coding assistants to multi-agent frameworks that automate every stage of an attack. [...]",
+      "published": "Tue, 08 Sep 2026 08:03:03 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Your Cloud Security Checklist Doesn't Work the Way You Think It Does",
-      "link": "https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html",
-      "summary": "If managing security across multiple cloud providers wasn't hard enough, each one fails in a different way. For the 2026 Cloud Security Index, Intruder analyzed misconfiguration data from 3,000 organizations across AWS, Azure, and Google Cloud and found that risk profiles across providers have almost nothing in common. Here’s what the data looks like. How risk differs across cloud providers",
-      "published": "Mon, 07 Sep 2026 17:15:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Microsoft: Windows Server 2025 changes causing app crashes",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2025-changes-may-cause-app-crashes/",
+      "summary": "Microsoft warned customers last week that they may experience application crashes on some Windows Server 2025 due to recent memory management changes. [...]",
+      "published": "Tue, 08 Sep 2026 07:57:51 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts",
-      "link": "https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html",
-      "summary": "Cybersecurity researchers have disclosed details of worm-like activity that abuses ConnectWise ScreenConnect to distribute a malicious Visual Basic Script (VBScript) payload to newly connected systems. According to Huntress, three unrelated incidents have been found to use diverse initial access methods, namely a Quick Assist tech-support scam, a phishing-delivered MSI installer, and a fake",
-      "published": "Mon, 07 Sep 2026 17:06:39 +0530",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE — Public Exploit Released",
-      "link": "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html",
-      "summary": "A TantoSec proof-of-concept turns an AES-CBC \"padding oracle\" in Telerik UI for ASP.NET AJAX into unauthenticated remote code execution — but only against applications in a specific non-default configuration, and Progress patched the chain in July. There are no confirmed reports of exploitation in the wild. Security firm TantoSec has published a working exploit chain targeting vulnerabilities",
-      "published": "Mon, 07 Sep 2026 16:50:14 +0530",
-      "value_score": 81,
-      "value_signals": [
-        "Active exploitation",
-        "RCE ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw",
-      "link": "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html",
-      "summary": "Every on-premises N-central build below 2026.3.1.14 — including servers updated to Hotfix 3 a day earlier — needs Hotfix 4. N-able's incident notice says the flaw has been exploited in the wild; its release notes say that is unconfirmed. N-able has released its fourth hotfix in five weeks for the N-central remote monitoring and management (RMM) platform, this time for a",
-      "published": "Mon, 07 Sep 2026 14:01:12 +0530",
-      "value_score": 61,
-      "value_signals": [
-        "Active exploitation",
-        "RCE",
-        "Exploit wording"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -195,48 +237,6 @@
       "value_score": 22,
       "value_signals": [
         "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Trezor data breach impact now reaches 81,000 customers",
-      "link": "https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/",
-      "summary": "Cryptocurrency hardware wallet maker Trezor says an August data breach at its shipping and logistics provider, ShipMonk, affects an additional 67,000 U.S. customers. [...]",
-      "published": "Mon, 07 Sep 2026 08:16:32 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "ChatGPT can now connect to your personal apps to mimic writing style",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/",
-      "summary": "OpenAI appears to be testing a new \"Writing Style\" feature for ChatGPT that can learn how you write by looking at examples from your connected apps. [...]",
-      "published": "Mon, 07 Sep 2026 06:36:37 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers exploit new MikroTik RouterOS flaws to hijack routers",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/",
-      "summary": "Hackers are exploiting a chain of two recently disclosed vulnerabilities in MikroTik routers to take control of devices with SSH services exposed to the internet. [...]",
-      "published": "Mon, 07 Sep 2026 06:32:40 -0400",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "ConnectWise warns of new ScreenConnect flaw without patch",
-      "link": "https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/",
-      "summary": "ConnectWise has shared temporary mitigation measures for a new ScreenConnect Remote Access vulnerability that it plans to patch later this week. [...]",
-      "published": "Mon, 07 Sep 2026 06:06:38 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
       ]
     },
     {
@@ -394,6 +394,49 @@
     },
     {
       "source": "Security Week",
+      "title": "Party’s Over for Crypto Scammers Who Went on a Spending Spree After a $240 Million Bitcoin Theft",
+      "link": "https://www.securityweek.com/partys-over-for-crypto-scammers-who-went-on-a-spending-spree-after-a-240-million-bitcoin-theft/",
+      "summary": "The scammers purchased fleets of sports cars, flew on private jets, hired security guards and rented mansions in Miami and the Hamptons. The post Party’s Over for Crypto Scammers Who Went on a Spending Spree After a $240 Million Bitcoin Theft appeared first on SecurityWeek .",
+      "published": "Tue, 08 Sep 2026 13:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "MikroTik Patches Critical Flaws Chained to Hack Routers",
+      "link": "https://www.securityweek.com/mikrotik-patches-critical-flaws-chained-to-hack-routers/",
+      "summary": "Dubbed MikroTrick, the bugs allow attackers to bypass authentication, overwrite configuration files, and take over devices. The post MikroTik Patches Critical Flaws Chained to Hack Routers appeared first on SecurityWeek .",
+      "published": "Tue, 08 Sep 2026 11:15:00 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Mathspace Data Breach Exposes Over 1 Million People",
+      "link": "https://www.securityweek.com/mathspace-data-breach-exposes-over-1-million-people/",
+      "summary": "Hackers stole the information of students, teachers, staff, and parents/guardians from a self-hosted Metabase instance. The post Mathspace Data Breach Exposes Over 1 Million People appeared first on SecurityWeek .",
+      "published": "Tue, 08 Sep 2026 10:47:36 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "N-able Patches Critical Zero-Day in N-central",
+      "link": "https://www.securityweek.com/n-able-patches-critical-zero-day-in-n-central/",
+      "summary": "Administrators are advised to check their deployments for newly created user accounts they don’t recognize. The post N-able Patches Critical Zero-Day in N-central appeared first on SecurityWeek .",
+      "published": "Tue, 08 Sep 2026 10:37:58 +0000",
+      "value_score": 76,
+      "value_signals": [
+        "Zero-day ×2",
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits",
       "link": "https://www.securityweek.com/nightmare-eclipse-drops-crowdstrike-nvidia-avast-zero-day-exploits/",
       "summary": "The proof-of-concept (PoC) exploits lead to privilege escalation, spawning a shell with System privileges. The post Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits appeared first on SecurityWeek .",
@@ -439,49 +482,6 @@
         "Zero-day ×3",
         "Backdoor ×3",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Modified ScreenConnect Clients Used in Worm-Like Campaign",
-      "link": "https://www.securityweek.com/modified-screenconnect-clients-used-in-worm-like-campaign/",
-      "summary": "The attacks rely on backdoored ScreenConnect instances to transfer and execute payloads to newly connected clients. The post Modified ScreenConnect Clients Used in Worm-Like Campaign appeared first on SecurityWeek .",
-      "published": "Mon, 07 Sep 2026 11:45:48 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites",
-      "link": "https://www.securityweek.com/elementor-pro-wordpress-plugin-vulnerability-exploited-to-hack-sites/",
-      "summary": "Tracked as CVE-2026-32475 (CVSS score of 9.8), the bug described as an arbitrary file upload issue in the function that handles form submissions. The post Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites appeared first on SecurityWeek .",
-      "published": "Sat, 05 Sep 2026 13:00:28 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "CVE mentioned",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "In Other News: Microsoft’s Cloud Patches, Hacked Dropbox Accounts, Guardio’s $1.1B Valuation",
-      "link": "https://www.securityweek.com/in-other-news-microsofts-cloud-patches-hacked-dropbox-accounts-guardios-1-1b-valuation/",
-      "summary": "Noteworthy stories that might have slipped under the radar: Microsoft rolled out patches for cloud services, hackers compromised 5,000 Dropbox accounts, and Guardio is now valued at $1.1 billion. The post In Other News: Microsoft’s Cloud Patches, Hacked Dropbox Accounts, Guardio’s $1.1B Valuation appeared first on SecurityWeek .",
-      "published": "Fri, 04 Sep 2026 16:18:30 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "HPE Patches Critical RCE Vulnerabilities in AOS-CX",
-      "link": "https://www.securityweek.com/hpe-patches-critical-rce-vulnerabilities-in-aos-cx/",
-      "summary": "Nearly two dozen issues, tracked collectively as CVE-2026-73749 (CVSS score of 9.8), were addressed with the updates. The post HPE Patches Critical RCE Vulnerabilities in AOS-CX appeared first on SecurityWeek .",
-      "published": "Fri, 04 Sep 2026 16:11:06 +0000",
-      "value_score": 84,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE ×2",
-        "High severity ×2"
       ]
     },
     {

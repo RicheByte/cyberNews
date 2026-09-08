@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-08 08:30 UTC  
+> **Last Updated:** 2026-09-08 14:03 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**sophisticated threat group** • **widespread data theft** • **residential proxy node** • **1 1 billion** • **twitter whistleblower complaint** • **secure preferences fake** • **national security risk** • **long term surveillance** • **large enterprises targeted** • **individuals whose licenses** • **ban residential proxies** • **backdoored screenconnect instances** • **vietnam linked system** • **pay 26 million** • **code execution access** • **who's harvesting data** • **sharing sensitive data** • **data looks like** • **august data breach** • **newly connected clients**
+**multi agent frameworks** • **widespread data theft** • **students teachers staff** • **n central administrators** • **sophisticated threat group** • **residential proxy node** • **least 2015 driven** • **windows operating systems** • **twitter whistleblower complaint** • **secure preferences fake** • **long term surveillance** • **large enterprises targeted** • **individuals whose licenses** • **ban residential proxies** • **who's harvesting data** • **sharing sensitive data** • **attackers stole data** • **pay 26 million** • **unintended harm caused** • **turn one's television**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls](https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html)
+- [What It Took to Reach 1 Billion Build Manifests](https://thehackernews.com/2026/09/what-it-took-to-reach-1-billion-build.html)
+- [FreeIPA Flaw Chain Lets Anonymous Clients Create Reusable Administrator Credentials](https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html)
+- [Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell](https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html)
+- [BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams](https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html)
 - [Grindr to Pay £26 Million to Settle U.K. Claims Over HIV Status Data Sharing](https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html)
 - [PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution](https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html)
 - [Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks](https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html)
-- [⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More](https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html)
-- [Your Cloud Security Checklist Doesn't Work the Way You Think It Does](https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html)
-- [Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts](https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html)
-- [Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE — Public Exploit Released](https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html)
-- [N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw](https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html)
 
 ### BleepingComputer
 
+- [Adobe fixes critical Magento zero-day exploited to backdoor servers](https://www.bleepingcomputer.com/news/security/adobe-fixes-critical-magento-zero-day-exploited-to-backdoor-servers/)
+- [Webinar: The forgotten Google Workspace access that can lead to a breach](https://www.bleepingcomputer.com/news/security/webinar-the-forgotten-google-workspace-access-that-can-lead-to-a-breach/)
+- [Hackers build AI frameworks for widescale credential theft](https://www.bleepingcomputer.com/news/security/hackers-build-ai-frameworks-for-widescale-credential-theft/)
+- [Microsoft: Windows Server 2025 changes causing app crashes](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2025-changes-may-cause-app-crashes/)
 - [220 million traveler records exposed in Vietnam-linked APIS leak](https://www.bleepingcomputer.com/news/security/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak/)
 - [Magento StyleSmuggler zero-day exploited to deploy Linux backdoor](https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/)
 - [BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations](https://www.bleepingcomputer.com/news/security/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/)
 - [Mathspace discloses data breach affecting over 1 million people](https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/)
-- [Trezor data breach impact now reaches 81,000 customers](https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/)
-- [ChatGPT can now connect to your personal apps to mimic writing style](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/)
-- [Hackers exploit new MikroTik RouterOS flaws to hijack routers](https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/)
-- [ConnectWise warns of new ScreenConnect flaw without patch](https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Party’s Over for Crypto Scammers Who Went on a Spending Spree After a $240 Million Bitcoin Theft](https://www.securityweek.com/partys-over-for-crypto-scammers-who-went-on-a-spending-spree-after-a-240-million-bitcoin-theft/)
+- [MikroTik Patches Critical Flaws Chained to Hack Routers](https://www.securityweek.com/mikrotik-patches-critical-flaws-chained-to-hack-routers/)
+- [Mathspace Data Breach Exposes Over 1 Million People](https://www.securityweek.com/mathspace-data-breach-exposes-over-1-million-people/)
+- [N-able Patches Critical Zero-Day in N-central](https://www.securityweek.com/n-able-patches-critical-zero-day-in-n-central/)
 - [Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits](https://www.securityweek.com/nightmare-eclipse-drops-crowdstrike-nvidia-avast-zero-day-exploits/)
 - [North Korean Hackers Deploy New Linux Espionage Toolkit](https://www.securityweek.com/north-korean-hackers-deploy-new-linux-espionage-toolkit/)
 - [OpenAI Agents Hijack Another Victim Website](https://www.securityweek.com/openai-agents-hijack-another-victim-website/)
 - [Adobe Commerce Zero-Day Exploited to Backdoor Online Stores](https://www.securityweek.com/adobe-commerce-zero-day-exploited-to-backdoor-online-stores/)
-- [Modified ScreenConnect Clients Used in Worm-Like Campaign](https://www.securityweek.com/modified-screenconnect-clients-used-in-worm-like-campaign/)
-- [Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites](https://www.securityweek.com/elementor-pro-wordpress-plugin-vulnerability-exploited-to-hack-sites/)
-- [In Other News: Microsoft’s Cloud Patches, Hacked Dropbox Accounts, Guardio’s $1.1B Valuation](https://www.securityweek.com/in-other-news-microsofts-cloud-patches-hacked-dropbox-accounts-guardios-1-1b-valuation/)
-- [HPE Patches Critical RCE Vulnerabilities in AOS-CX](https://www.securityweek.com/hpe-patches-critical-rce-vulnerabilities-in-aos-cx/)
 
 ### Threatpost
 

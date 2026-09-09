@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-09-08 22:17",
+  "last_updated": "2026-09-09 02:40",
   "sources_count": 8,
-  "articles_count": 48,
+  "articles_count": 40,
   "keywords": [
     "brazilian financial institution",
     "least march 2026",
-    "windows operating systems",
     "victim's gmail data",
-    "versions 25h2 24h2",
     "twitter whistleblower complaint",
-    "steal credit cards",
     "siphoning images collected",
     "individuals whose licenses",
-    "fake e shops",
-    "deploy linux rootkit",
+    "cybersecurity platform beta",
     "sprawling phishing campaign",
     "large enterprises targeted",
-    "200 000 records",
-    "119 000 domains",
-    "security updates released",
     "security experts warn",
     "national security risk",
-    "holds real bitcoin",
-    "bugs allow attackers"
+    "974 cves attackers",
+    "windows operating systems",
+    "who's harvesting data",
+    "unintended harm caused",
+    "turn one's television",
+    "text history records",
+    "taking dangerous actions",
+    "statement released today",
+    "sports cars flew"
   ],
   "trending": [
     {
       "keyword": "brazilian financial institution",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "least march 2026",
-      "mentions": 2
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 746
+      "mentions": 3
     },
     {
       "keyword": "victim's gmail data",
-      "mentions": 2
-    },
-    {
-      "keyword": "versions 25h2 24h2",
-      "mentions": 4
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2610
-    },
-    {
-      "keyword": "steal credit cards",
-      "mentions": 1
+      "mentions": 2611
     },
     {
       "keyword": "siphoning images collected",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "individuals whose licenses",
-      "mentions": 40
+      "mentions": 41
     },
     {
-      "keyword": "fake e shops",
+      "keyword": "cybersecurity platform beta",
       "mentions": 1
+    },
+    {
+      "keyword": "sprawling phishing campaign",
+      "mentions": 607
+    },
+    {
+      "keyword": "large enterprises targeted",
+      "mentions": 33
+    },
+    {
+      "keyword": "security experts warn",
+      "mentions": 6
     }
   ],
   "articles": [
@@ -147,95 +147,6 @@
         "Backdoor",
         "High severity"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "DoppelCart fraud network uses 119,000 fake shops to steal credit cards",
-      "link": "https://www.bleepingcomputer.com/news/security/doppelcart-fraud-network-uses-119-000-fake-shops-to-steal-credit-cards/",
-      "summary": "A massive operation dubbed \"DoppelCart\" uses more than 119,000 domains to run a network of fake e-shops that steal payment card details. [...]",
-      "published": "Tue, 08 Sep 2026 16:35:14 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "The EU CRA's Real Question: What Shipped, and When Did You Know?",
-      "link": "https://www.bleepingcomputer.com/news/security/the-eu-cras-real-question-what-shipped-and-when-did-you-know/",
-      "summary": "The EU Cyber Resilience Act's vulnerability reporting requirements take effect September 11, giving software vendors as little as 24 hours to report actively exploited flaws. ActiveState explains why knowing exactly what shipped and when vulnerabilities were discovered will be critical to meeting the new requirements. [...]",
-      "published": "Tue, 08 Sep 2026 16:24:16 -0400",
-      "value_score": 49,
-      "value_signals": [
-        "Active exploitation",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers breach F5 BIG-IP APM devices to deploy Linux rootkit",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-f5-big-ip-apm-devices-to-deploy-linux-rootkit/",
-      "summary": "A Linux rootkit targeting devices in F5 BIG-IP APM environments can intercept PHP file loading and inject a fileless web shell directly into memory, avoiding the need to write malicious code to disk. [...]",
-      "published": "Tue, 08 Sep 2026 16:08:55 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft releases Windows 10 KB5122878 extended security update",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5122878-extended-security-update/",
-      "summary": "Microsoft has released the Windows 10 KB5122878 extended security update, which includes this month's record-breaking September 2026 Patch Tuesday fixes, along with a few bug fixes. [...]",
-      "published": "Tue, 08 Sep 2026 14:49:19 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×3"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-patch-tuesday-fixes-966-flaws-2-zero-days/",
-      "summary": "Today is Microsoft's September 2026 Patch Tuesday, with security updates released for a record-breaking 966 flaws, including two actively exploited zero-day vulnerabilities. [...]",
-      "published": "Tue, 08 Sep 2026 14:18:05 -0400",
-      "value_score": 82,
-      "value_signals": [
-        "Zero-day",
-        "Active exploitation",
-        "Patch/update ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Windows 11 cumulative updates KB5124008 & KB5122880 released",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5124008-and-kb5122880-released/",
-      "summary": "Microsoft has released Windows 11 KB5124008 and KB5122880 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
-      "published": "Tue, 08 Sep 2026 13:57:03 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "ShinyHunters hackers claim breach of Florida \"DAVID\" DMV database",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hackers-claim-breach-of-florida-david-dmv-database/",
-      "summary": "The ShinyHunters extortion gang claims it breached an online platform for the Florida Department of Motor Vehicles database known as \"DAVID\" and stole over 200,000 records about drivers in the state. [...]",
-      "published": "Tue, 08 Sep 2026 12:35:47 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OpenAI says ChatGPT outage causes image generation errors",
-      "link": "https://www.bleepingcomputer.com/news/technology/openai-says-chatgpt-outage-causes-image-generation-errors/",
-      "summary": "OpenAI is investigating an ongoing incident causing ChatGPT image generation failures and delays when uploading files. [...]",
-      "published": "Tue, 08 Sep 2026 12:28:42 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

@@ -1,14 +1,14 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-08 22:17 UTC  
+> **Last Updated:** 2026-09-09 02:40 UTC  
 > **Sources Monitored:** 8  
-> **Articles Analyzed:** 48
+> **Articles Analyzed:** 40
 
 ---
 
 ## 🔥 Rising Topics & Keywords
 
-**brazilian financial institution** • **least march 2026** • **windows operating systems** • **victim's gmail data** • **versions 25h2 24h2** • **twitter whistleblower complaint** • **steal credit cards** • **siphoning images collected** • **individuals whose licenses** • **fake e shops** • **deploy linux rootkit** • **sprawling phishing campaign** • **large enterprises targeted** • **200 000 records** • **119 000 domains** • **security updates released** • **security experts warn** • **national security risk** • **holds real bitcoin** • **bugs allow attackers**
+**brazilian financial institution** • **least march 2026** • **victim's gmail data** • **twitter whistleblower complaint** • **siphoning images collected** • **individuals whose licenses** • **cybersecurity platform beta** • **sprawling phishing campaign** • **large enterprises targeted** • **security experts warn** • **national security risk** • **974 cves attackers** • **windows operating systems** • **who's harvesting data** • **unintended harm caused** • **turn one's television** • **text history records** • **taking dangerous actions** • **statement released today** • **sports cars flew**
 
 ---
 
@@ -24,17 +24,6 @@
 - [What It Took to Reach 1 Billion Build Manifests](https://thehackernews.com/2026/09/what-it-took-to-reach-1-billion-build.html)
 - [FreeIPA Flaw Chain Lets Anonymous Clients Create Reusable Administrator Credentials](https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html)
 - [Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell](https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html)
-
-### BleepingComputer
-
-- [DoppelCart fraud network uses 119,000 fake shops to steal credit cards](https://www.bleepingcomputer.com/news/security/doppelcart-fraud-network-uses-119-000-fake-shops-to-steal-credit-cards/)
-- [The EU CRA's Real Question: What Shipped, and When Did You Know?](https://www.bleepingcomputer.com/news/security/the-eu-cras-real-question-what-shipped-and-when-did-you-know/)
-- [Hackers breach F5 BIG-IP APM devices to deploy Linux rootkit](https://www.bleepingcomputer.com/news/security/hackers-breach-f5-big-ip-apm-devices-to-deploy-linux-rootkit/)
-- [Microsoft releases Windows 10 KB5122878 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5122878-extended-security-update/)
-- [Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-patch-tuesday-fixes-966-flaws-2-zero-days/)
-- [Windows 11 cumulative updates KB5124008 & KB5122880 released](https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5124008-and-kb5122880-released/)
-- [ShinyHunters hackers claim breach of Florida "DAVID" DMV database](https://www.bleepingcomputer.com/news/security/shinyhunters-hackers-claim-breach-of-florida-david-dmv-database/)
-- [OpenAI says ChatGPT outage causes image generation errors](https://www.bleepingcomputer.com/news/technology/openai-says-chatgpt-outage-causes-image-generation-errors/)
 
 ### Krebs on Security
 

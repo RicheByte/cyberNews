@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-09 08:32 UTC |
+| 🕐 Last Updated | 2026-09-09 14:05 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`brazilian financial institution` • `deploy linux rootkit` • `least march 2026` • `victim's gmail data` • `twitter whistleblower complaint` • `steal credit cards` • `siphoning images collected` • `individuals whose licenses` • `include 723 flaws` • `fake e shops`
+`security researcher known` • `mail related privileges` • `chinese language group` • `multiple security vulnerabilities` • `security experts warn` • `twitter whistleblower complaint` • `steal credit cards` • `sprawling phishing campaign` • `longest running spree` • `individuals whose licenses`
 
 ## 📄 Reports
 

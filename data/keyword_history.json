@@ -326,7 +326,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2612,
+      "count": 2613,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1256,7 +1256,7 @@
       ]
     },
     "national security risk": {
-      "count": 459,
+      "count": 460,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2012,7 +2012,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 608,
+      "count": 609,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -20291,7 +20291,7 @@
       ]
     },
     "security experts warn": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -24674,7 +24674,7 @@
       ]
     },
     "turn one's television": {
-      "count": 237,
+      "count": 238,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26404,7 +26404,7 @@
       ]
     },
     "text history records": {
-      "count": 175,
+      "count": 176,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -28981,12 +28981,13 @@
       ]
     },
     "longest running spree": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-09-01",
         "2026-09-04",
         "2026-09-05",
-        "2026-09-06"
+        "2026-09-06",
+        "2026-09-09"
       ]
     },
     "external actors attempted": {
@@ -29065,7 +29066,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29451,7 +29452,7 @@
       ]
     },
     "unintended harm caused": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-09-04",
         "2026-09-05",
@@ -29710,14 +29711,14 @@
       ]
     },
     "steal credit cards": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-08",
         "2026-09-09"
       ]
     },
     "fake e shops": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-08",
         "2026-09-09"
@@ -29757,7 +29758,7 @@
       ]
     },
     "974 cves attackers": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-09"
       ]
@@ -29779,20 +29780,57 @@
       "dates": [
         "2026-09-09"
       ]
+    },
+    "security researcher known": {
+      "count": 1,
+      "dates": [
+        "2026-09-09"
+      ]
+    },
+    "mail related privileges": {
+      "count": 1,
+      "dates": [
+        "2026-09-09"
+      ]
+    },
+    "chinese language group": {
+      "count": 1,
+      "dates": [
+        "2026-09-09"
+      ]
+    },
+    "multiple security vulnerabilities": {
+      "count": 1,
+      "dates": [
+        "2026-09-09"
+      ]
+    },
+    "adult without exposing": {
+      "count": 1,
+      "dates": [
+        "2026-09-09"
+      ]
+    },
+    "vulnerability codenamed shieldcrash": {
+      "count": 1,
+      "dates": [
+        "2026-09-09"
+      ]
+    },
+    "operating system sandbox": {
+      "count": 1,
+      "dates": [
+        "2026-09-09"
+      ]
+    },
+    "host phishing sites": {
+      "count": 1,
+      "dates": [
+        "2026-09-09"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-24 02:57",
-      "articles": 48,
-      "top_keywords": [
-        "national security risk",
-        "twitter whistleblower complaint",
-        "sprawling phishing campaign",
-        "poisoned arrayref version",
-        "multi stage downloader"
-      ]
-    },
     {
       "timestamp": "2026-08-24 04:38",
       "articles": 48,
@@ -30880,6 +30918,17 @@
         "least march 2026",
         "victim's gmail data",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-09-09 14:05",
+      "articles": 48,
+      "top_keywords": [
+        "security researcher known",
+        "mail related privileges",
+        "chinese language group",
+        "multiple security vulnerabilities",
+        "security experts warn"
       ]
     }
   ]

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-09 02:40 UTC |
-| 📰 Articles Analyzed | 40 |
+| 🕐 Last Updated | 2026-09-09 08:32 UTC |
+| 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`brazilian financial institution` • `least march 2026` • `victim's gmail data` • `twitter whistleblower complaint` • `siphoning images collected` • `individuals whose licenses` • `cybersecurity platform beta` • `sprawling phishing campaign` • `large enterprises targeted` • `security experts warn`
+`brazilian financial institution` • `deploy linux rootkit` • `least march 2026` • `victim's gmail data` • `twitter whistleblower complaint` • `steal credit cards` • `siphoning images collected` • `individuals whose licenses` • `include 723 flaws` • `fake e shops`
 
 ## 📄 Reports
 

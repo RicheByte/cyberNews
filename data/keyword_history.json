@@ -326,7 +326,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2611,
+      "count": 2612,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1256,7 +1256,7 @@
       ]
     },
     "national security risk": {
-      "count": 458,
+      "count": 459,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2012,7 +2012,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 607,
+      "count": 608,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -20291,7 +20291,7 @@
       ]
     },
     "security experts warn": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -27278,7 +27278,7 @@
       ]
     },
     "who's harvesting data": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-08-14",
         "2026-08-19",
@@ -29065,7 +29065,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29364,7 +29364,7 @@
       ]
     },
     "large enterprises targeted": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-09-03",
         "2026-09-04",
@@ -29451,7 +29451,7 @@
       ]
     },
     "unintended harm caused": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-09-04",
         "2026-09-05",
@@ -29651,7 +29651,7 @@
       ]
     },
     "brazilian financial institution": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-08",
         "2026-09-09"
@@ -29664,21 +29664,21 @@
       ]
     },
     "least march 2026": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-08",
         "2026-09-09"
       ]
     },
     "victim's gmail data": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-08",
         "2026-09-09"
       ]
     },
     "siphoning images collected": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-08",
         "2026-09-09"
@@ -29710,33 +29710,38 @@
       ]
     },
     "steal credit cards": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-09-08"
+        "2026-09-08",
+        "2026-09-09"
       ]
     },
     "fake e shops": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-09-08"
+        "2026-09-08",
+        "2026-09-09"
       ]
     },
     "deploy linux rootkit": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-09-08"
+        "2026-09-08",
+        "2026-09-09"
       ]
     },
     "119 000 domains": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-09-08"
+        "2026-09-08",
+        "2026-09-09"
       ]
     },
     "holds real bitcoin": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-09-08"
+        "2026-09-08",
+        "2026-09-09"
       ]
     },
     "bugs allow attackers": {
@@ -29752,7 +29757,7 @@
       ]
     },
     "974 cves attackers": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-09"
       ]
@@ -29762,20 +29767,21 @@
       "dates": [
         "2026-09-09"
       ]
+    },
+    "include 723 flaws": {
+      "count": 1,
+      "dates": [
+        "2026-09-09"
+      ]
+    },
+    "second chatgpt account": {
+      "count": 1,
+      "dates": [
+        "2026-09-09"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-24 00:57",
-      "articles": 48,
-      "top_keywords": [
-        "national security risk",
-        "twitter whistleblower complaint",
-        "sprawling phishing campaign",
-        "poisoned arrayref version",
-        "multi stage downloader"
-      ]
-    },
     {
       "timestamp": "2026-08-24 02:57",
       "articles": 48,
@@ -30863,6 +30869,17 @@
         "victim's gmail data",
         "twitter whistleblower complaint",
         "siphoning images collected"
+      ]
+    },
+    {
+      "timestamp": "2026-09-09 08:32",
+      "articles": 48,
+      "top_keywords": [
+        "brazilian financial institution",
+        "deploy linux rootkit",
+        "least march 2026",
+        "victim's gmail data",
+        "twitter whistleblower complaint"
       ]
     }
   ]

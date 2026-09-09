@@ -326,7 +326,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2614,
+      "count": 2615,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1256,7 +1256,7 @@
       ]
     },
     "national security risk": {
-      "count": 461,
+      "count": 462,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2012,7 +2012,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 610,
+      "count": 611,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -19728,7 +19728,7 @@
       ]
     },
     "stronger identity verification": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-06-10",
         "2026-06-11",
@@ -20292,7 +20292,7 @@
       ]
     },
     "security experts warn": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -24675,7 +24675,7 @@
       ]
     },
     "turn one's television": {
-      "count": 239,
+      "count": 240,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26405,7 +26405,7 @@
       ]
     },
     "text history records": {
-      "count": 177,
+      "count": 178,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -28896,7 +28896,7 @@
       ]
     },
     "sophisticated cybercrime syndicate": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-08-31",
         "2026-09-01",
@@ -28984,7 +28984,7 @@
       ]
     },
     "longest running spree": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-09-01",
         "2026-09-04",
@@ -29069,7 +29069,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 44,
+      "count": 45,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29797,13 +29797,13 @@
       ]
     },
     "chinese language group": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-09"
       ]
     },
     "multiple security vulnerabilities": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-09"
       ]
@@ -29821,7 +29821,7 @@
       ]
     },
     "operating system sandbox": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-09"
       ]
@@ -29833,18 +29833,42 @@
       ]
     },
     "us market presence": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-09"
       ]
     },
     "unauthenticated entry point": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-09"
       ]
     },
     "state sponsored adversaries": {
+      "count": 2,
+      "dates": [
+        "2026-09-09"
+      ]
+    },
+    "reduce development costs": {
+      "count": 1,
+      "dates": [
+        "2026-09-09"
+      ]
+    },
+    "openai agents took": {
+      "count": 1,
+      "dates": [
+        "2026-09-09"
+      ]
+    },
+    "shinyhunters threat group": {
+      "count": 1,
+      "dates": [
+        "2026-09-09"
+      ]
+    },
+    "thursday released updates": {
       "count": 1,
       "dates": [
         "2026-09-09"
@@ -29852,17 +29876,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-24 06:44",
-      "articles": 48,
-      "top_keywords": [
-        "national security risk",
-        "twitter whistleblower complaint",
-        "sprawling phishing campaign",
-        "poisoned arrayref version",
-        "multi stage downloader"
-      ]
-    },
     {
       "timestamp": "2026-08-24 08:40",
       "articles": 48,
@@ -30950,6 +30963,17 @@
         "security experts warn",
         "chinese language group",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-09-09 22:10",
+      "articles": 48,
+      "top_keywords": [
+        "multiple security vulnerabilities",
+        "security experts warn",
+        "chinese language group",
+        "twitter whistleblower complaint",
+        "reduce development costs"
       ]
     }
   ]

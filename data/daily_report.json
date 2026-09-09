@@ -1,72 +1,92 @@
 {
-  "last_updated": "2026-09-09 19:00",
+  "last_updated": "2026-09-09 22:10",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "mail related privileges",
     "multiple security vulnerabilities",
     "security experts warn",
     "chinese language group",
     "twitter whistleblower complaint",
+    "reduce development costs",
+    "openai agents took",
     "longest running spree",
     "individuals whose licenses",
-    "adult without exposing",
+    "shinyhunters threat group",
     "sprawling phishing campaign",
     "national security risk",
     "operating system sandbox",
     "us market presence",
     "unauthenticated entry point",
     "turn one's television",
+    "thursday released updates",
     "text history records",
     "stronger identity verification",
     "state sponsored adversaries",
-    "sophisticated cybercrime syndicate",
-    "siphoning images collected",
-    "remained walled away"
+    "sophisticated cybercrime syndicate"
   ],
   "trending": [
     {
-      "keyword": "mail related privileges",
-      "mentions": 2
-    },
-    {
       "keyword": "multiple security vulnerabilities",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "security experts warn",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "chinese language group",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2614
+      "mentions": 2615
+    },
+    {
+      "keyword": "reduce development costs",
+      "mentions": 1
+    },
+    {
+      "keyword": "openai agents took",
+      "mentions": 1
     },
     {
       "keyword": "longest running spree",
-      "mentions": 16
+      "mentions": 17
     },
     {
       "keyword": "individuals whose licenses",
-      "mentions": 44
+      "mentions": 45
     },
     {
-      "keyword": "adult without exposing",
-      "mentions": 2
+      "keyword": "shinyhunters threat group",
+      "mentions": 1
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 610
-    },
-    {
-      "keyword": "national security risk",
-      "mentions": 461
+      "mentions": 611
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto",
+      "link": "https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html",
+      "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced coordinated actions aimed at an illicit online marketplace called Xinbi Guarantee that offered scam services, including seizing Telegram channels used to run the service, confiscating two cryptocurrency wallets, and deploying the Scam Center Strike Force to Madagascar to help disrupt 13 scam compounds run by Chinese organized crime",
+      "published": "Wed, 09 Sep 2026 23:56:05 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week",
+      "link": "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html",
+      "summary": "Multiple espionage-motivated threat activity clusters have been found deploying a previously undocumented exploit kit called BlueMoon that chains together multiple vulnerabilities in Microsoft Windows and Google Chrome. The first in-the-wild use of BlueMoon has been attributed to the China-aligned state-sponsored group tracked as APT31 (aka Bronze Vinewood, Judgement Panda, JungleBamboo,",
+      "published": "Wed, 09 Sep 2026 22:04:05 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA",
@@ -130,20 +150,35 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "New cPanel Flaw Lets a Hosting Account With Mail Privileges Run Code as Root",
-      "link": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account.html",
-      "summary": "cPanel has patched a flaw that it says lets a single hosting account take control of an entire server. An authenticated account holder with mail-related privileges can create files of their choosing on the server through EmailTrack and, from there, run code as the root user. cPanel published the advisory on September 8 and says every supported version of cPanel and WHM is affected.",
-      "published": "Wed, 09 Sep 2026 13:49:32 +0530",
+      "source": "BleepingComputer",
+      "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
+      "summary": "Cisco has confirmed that a maximum-severity authentication bypass vulnerability tracked as CVE-2026-20079 in its Secure Firewall Management Center (FMC) software is being actively exploited in attacks. [...]",
+      "published": "Wed, 09 Sep 2026 17:40:44 -0400",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Active exploitation",
+        "Auth bypass",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "AdaptHealth confirms 4.1 million people exposed in July cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/",
+      "summary": "Healthcare company AdaptHealth has confirmed that data of 4.1 million people was exposed in a cyberattack discovered in July that was attributed to the ShinyHunters threat group. [...]",
+      "published": "Wed, 09 Sep 2026 17:30:36 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "F5 BIG-IP APM Malware Injects a PHP Web Shell Into Memory, Evading Disk Scans",
-      "link": "https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html",
-      "summary": "Malware linked to break-ins at F5 BIG-IP Access Policy Manager appliances hides a PHP web shell in memory instead of in a file on disk, Sophos said in an analysis published on September 7. When Apache loads any of the three appliances' own PHP scripts, the malware adds the web shell to the copy held in memory, so a check of the file on disk can come back clean. Those three scripts are",
-      "published": "Wed, 09 Sep 2026 13:06:49 +0530",
+      "source": "BleepingComputer",
+      "title": "Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking",
+      "link": "https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/",
+      "summary": "The Carnegie Mellon University CERT Coordination Center (CERT/CC) is warning that Skullcandy Dime 3 wireless earbuds accept Bluetooth pairing requests from nearby unpaired devices without requiring user interaction. [...]",
+      "published": "Wed, 09 Sep 2026 17:02:14 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -194,41 +229,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/",
       "summary": "An Ohio man was sentenced to 15 years in prison for multiple cybercrimes, including sextortion and cyberstalking of numerous victims using AI-generated sexually explicit content. [...]",
       "published": "Wed, 09 Sep 2026 04:44:22 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM access",
-      "link": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/",
-      "summary": "An anonymous security researcher known as Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldCrash\" right after Microsoft rolled out its September 2026 Patch Tuesday security updates. [...]",
-      "published": "Wed, 09 Sep 2026 03:30:15 -0400",
-      "value_score": 74,
-      "value_signals": [
-        "Zero-day ×2",
-        "Patch/update",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Google warns of new Chrome zero-day bug exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/",
-      "summary": "Google has patched 230 vulnerabilities on Tuesday, including another actively exploited Chrome zero-day bug, the seventh such vulnerability patched since the start of the year. [...]",
-      "published": "Wed, 09 Sep 2026 02:25:48 -0400",
-      "value_score": 91,
-      "value_signals": [
-        "Zero-day ×2",
-        "Active exploitation",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft adds age-awareness APIs that can tell if users are children, teens, or adults",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-age-awareness-apis-that-can-tell-if-users-are-children-teens-or-adults/",
-      "summary": "Microsoft is adding new age-awareness APIs to Windows 11 that will allow apps to determine whether someone is a child, teenager, or adult without exposing their exact date of birth. [...]",
-      "published": "Tue, 08 Sep 2026 21:16:27 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -311,6 +311,26 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Mythos Vulnerability Firehose Hits a Human Bottleneck",
+      "link": "https://www.darkreading.com/application-security/mythos-vulnerability-firehose-hits-human-bottleneck",
+      "summary": "An analysis of Project Glasswing findings shows only a fraction have reached disclosure, and an even smaller number have been fixed.",
+      "published": "Wed, 09 Sep 2026 21:19:55 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "US Government Accuses Chinese AI Firms of Distilling Frontier Models",
+      "link": "https://www.darkreading.com/application-security/us-government-chinese-ai-firms-distilling-frontier-models",
+      "summary": "US agencies claim Chinese companies covertly extracted billions of tokens from OpenAI, Anthropic, Google Gemini, and SpaceX's Grok to reduce development costs.",
+      "published": "Wed, 09 Sep 2026 19:47:50 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Identity-Based AI Attack Threatens Security of Enterprise Data",
       "link": "https://www.darkreading.com/threat-intelligence/identity-based-ai-attack-security-enterprise-data",
       "summary": "\"Workflow identity hijacking\" can bypass standard security controls and hijack an organization's data by sending a basic request through an unauthenticated entry point.",
@@ -369,24 +389,6 @@
       "value_signals": [
         "Phishing"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Companies Have 6 Months to Prepare for Automated Attacks",
-      "link": "https://www.darkreading.com/cybersecurity-operations/companies-six-months-prepare-automated-attacks",
-      "summary": "Frontier AI models have already demonstrated they can autonomously — and in some cases, inadvertently — conduct end-to-end compromises, but the situation will become more urgent very soon.",
-      "published": "Fri, 04 Sep 2026 15:57:31 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "AI Is Ending the Era of Hidden Vulnerabilities — Are Vendors Ready?",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/ai-ending-era-hidden-vulnerabilities-are-vendors-ready",
-      "summary": "A tidal wave of bug reports is overwhelming software vendors, exposing secure-by-design failures and creating disclosure bottlenecks.",
-      "published": "Fri, 04 Sep 2026 13:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

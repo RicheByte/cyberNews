@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-09-09 14:05",
+  "last_updated": "2026-09-09 19:00",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "security researcher known",
     "mail related privileges",
-    "chinese language group",
     "multiple security vulnerabilities",
     "security experts warn",
+    "chinese language group",
     "twitter whistleblower complaint",
-    "steal credit cards",
-    "sprawling phishing campaign",
     "longest running spree",
     "individuals whose licenses",
-    "fake e shops",
     "adult without exposing",
+    "sprawling phishing campaign",
     "national security risk",
-    "vulnerability codenamed shieldcrash",
     "operating system sandbox",
-    "host phishing sites",
-    "974 cves attackers",
-    "unintended harm caused",
+    "us market presence",
+    "unauthenticated entry point",
     "turn one's television",
-    "text history records"
+    "text history records",
+    "stronger identity verification",
+    "state sponsored adversaries",
+    "sophisticated cybercrime syndicate",
+    "siphoning images collected",
+    "remained walled away"
   ],
   "trending": [
     {
-      "keyword": "security researcher known",
-      "mentions": 1
-    },
-    {
       "keyword": "mail related privileges",
-      "mentions": 1
-    },
-    {
-      "keyword": "chinese language group",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "multiple security vulnerabilities",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "security experts warn",
-      "mentions": 8
+      "mentions": 9
+    },
+    {
+      "keyword": "chinese language group",
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2613
-    },
-    {
-      "keyword": "steal credit cards",
-      "mentions": 3
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 609
+      "mentions": 2614
     },
     {
       "keyword": "longest running spree",
-      "mentions": 15
+      "mentions": 16
     },
     {
       "keyword": "individuals whose licenses",
-      "mentions": 43
+      "mentions": 44
+    },
+    {
+      "keyword": "adult without exposing",
+      "mentions": 2
+    },
+    {
+      "keyword": "sprawling phishing campaign",
+      "mentions": 610
+    },
+    {
+      "keyword": "national security risk",
+      "mentions": 461
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA",
+      "link": "https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html",
+      "summary": "Cybercriminals are hijacking artificial intelligence (AI) user accounts via information stealer logs to create \"stolen keys\" that grant illicit access to tools from model providers like Google, Anthropic, and others. Information stealers like Lumma Stealer or Vidar are equipped to harvest a wide range of data from compromised systems. This can include credential, session tokens, and API",
+      "published": "Wed, 09 Sep 2026 19:53:55 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Webinar: Learn How to Answer “Are We Exposed?” Faster After a New CVE",
@@ -139,18 +148,24 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Researcher Drops New Microsoft Defender PoC Showing ShieldBreak Patch Can Be Bypassed",
-      "link": "https://thehackernews.com/2026/09/researcher-drops-new-microsoft-defender.html",
-      "summary": "The security researcher known as Chaotic Eclipse has dropped a proof-of-concept (PoC) for yet another zero-day in Microsoft Defender. The vulnerability, codenamed ShieldCrash, is assessed to be a patch bypass for CVE-2026-69414 (CVSS score: 7.8), also called ShieldBreak, which the researcher reported last month. \"Microsoft has failed to properly patch ShieldBreak CVE-2026-69414,\" Chaotic",
-      "published": "Wed, 09 Sep 2026 12:17:27 +0530",
-      "value_score": 100,
+      "source": "BleepingComputer",
+      "title": "US says Chinese firms extracted billions of tokens from frontier AI models",
+      "link": "https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/",
+      "summary": "U.S. cybersecurity and intelligence agencies say that six Chinese AI companies conducted industrial-scale distillation attacks on American frontier AI models since at least late 2024. [...]",
+      "published": "Wed, 09 Sep 2026 12:48:33 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Veradigm warns of patient data breach after ransomware gang claims attack",
+      "link": "https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/",
+      "summary": "Healthcare technology company Veradigm disclosed a data breach after a cybersecurity incident at one of its third-party vendors exposed patients' personal data. [...]",
+      "published": "Wed, 09 Sep 2026 11:31:23 -0400",
+      "value_score": 52,
       "value_signals": [
-        "CVE mentioned ×2",
-        "Zero-day",
-        "PoC available ×2",
-        "Patch/update ×3",
-        "Multiple CVEs"
+        "Ransomware",
+        "Breach/leak ×2"
       ]
     },
     {
@@ -216,28 +231,6 @@
       "published": "Tue, 08 Sep 2026 21:16:27 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "DoppelCart fraud network uses 119,000 fake shops to steal credit cards",
-      "link": "https://www.bleepingcomputer.com/news/security/doppelcart-fraud-network-uses-119-000-fake-shops-to-steal-credit-cards/",
-      "summary": "A massive operation dubbed \"DoppelCart\" uses more than 119,000 domains to run a network of fake e-shops that steal payment card details. [...]",
-      "published": "Tue, 08 Sep 2026 16:35:14 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "The EU CRA's Real Question: What Shipped, and When Did You Know?",
-      "link": "https://www.bleepingcomputer.com/news/security/the-eu-cras-real-question-what-shipped-and-when-did-you-know/",
-      "summary": "The EU Cyber Resilience Act's vulnerability reporting requirements take effect September 11, giving software vendors as little as 24 hours to report actively exploited flaws. ActiveState explains why knowing exactly what shipped and when vulnerabilities were discovered will be critical to meeting the new requirements. [...]",
-      "published": "Tue, 08 Sep 2026 16:24:16 -0400",
-      "value_score": 49,
-      "value_signals": [
-        "Active exploitation",
-        "High severity",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -318,6 +311,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Identity-Based AI Attack Threatens Security of Enterprise Data",
+      "link": "https://www.darkreading.com/threat-intelligence/identity-based-ai-attack-security-enterprise-data",
+      "summary": "\"Workflow identity hijacking\" can bypass standard security controls and hijack an organization's data by sending a basic request through an unauthenticated entry point.",
+      "published": "Wed, 09 Sep 2026 14:39:44 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Patch Tuesday Sets Another Record With 974 CVEs",
       "link": "https://www.darkreading.com/vulnerabilities-threats/patch-tuesday-another-record-974-cves",
       "summary": "Attackers are actively exploiting two of the vulnerabilities and another 58 are more likely to be exploited, according to Microsoft.",
@@ -387,13 +389,56 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Insurers Search for Answers to Rein in Rogue AI",
-      "link": "https://www.darkreading.com/cyber-risk/insurers-search-answers-rogue-ai",
-      "summary": "As incidents of unintended harm caused by rogue AI agents mount, CISOs and insurance firms are figuring out how to handle the fallout.",
-      "published": "Fri, 04 Sep 2026 12:15:03 GMT",
+      "source": "Security Week",
+      "title": "HelmGuard Raises $7.3 Million for Agentic GRC and Security",
+      "link": "https://www.securityweek.com/helmguard-raises-7-3-million-for-agentic-grc-and-security/",
+      "summary": "The company will increase its US market presence and will expand its engineering and go-to-market teams. The post HelmGuard Raises $7.3 Million for Agentic GRC and Security appeared first on SecurityWeek .",
+      "published": "Wed, 09 Sep 2026 17:23:58 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "AI Is Giving Lesser-Resourced Attackers Nation-State-Level Reach, Google Warns",
+      "link": "https://www.securityweek.com/ai-is-giving-lesser-resourced-attackers-nation-state-level-reach-google-warns/",
+      "summary": "Criminal and state-sponsored adversaries are increasingly using AI to automate and scale their attacks, according to GTIG. The post AI Is Giving Lesser-Resourced Attackers Nation-State-Level Reach, Google Warns appeared first on SecurityWeek .",
+      "published": "Wed, 09 Sep 2026 16:56:25 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Android’s September 2026 Updates Patch 180 Vulnerabilities",
+      "link": "https://www.securityweek.com/androids-september-2026-updates-patch-180-vulnerabilities/",
+      "summary": "The security updates resolve critical flaws across Android’s Framework, System, and Kernel components. The post Android’s September 2026 Updates Patch 180 Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Wed, 09 Sep 2026 16:30:40 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Patch/update ×2",
+        "High severity"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Chipmaker Patch Tuesday: Nvidia, AMD, Arm Issue Security Advisories",
+      "link": "https://www.securityweek.com/chipmaker-patch-tuesday-nvidia-amd-arm-issue-security-advisories/",
+      "summary": "Major chipmakers announced patches for vulnerabilities recently discovered in their products. The post Chipmaker Patch Tuesday: Nvidia, AMD, Arm Issue Security Advisories appeared first on SecurityWeek .",
+      "published": "Wed, 09 Sep 2026 16:22:54 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Fortinet Patches Critical Vulnerabilities in FortiMonitorOnSight, Chrome Extension",
+      "link": "https://www.securityweek.com/fortinet-patches-critical-vulnerabilities-in-fortimonitoronsight-chrome-extension/",
+      "summary": "The critical, unauthenticated bugs allow attackers to bypass authentication and proxy a user’s browser traffic. The post Fortinet Patches Critical Vulnerabilities in FortiMonitorOnSight, Chrome Extension appeared first on SecurityWeek .",
+      "published": "Wed, 09 Sep 2026 14:33:52 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×3"
+      ]
     },
     {
       "source": "Security Week",
@@ -423,63 +468,6 @@
       "value_signals": [
         "Patch/update ×4",
         "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Ivanti Patches Critical Flaws Across Enterprise Security Products",
-      "link": "https://www.securityweek.com/ivanti-patches-critical-flaws-across-enterprise-security-products/",
-      "summary": "Six critical vulnerabilities in Neurons for ITSM could enable remote code execution, while Sentry and EPMM received patches for authentication bypass flaws. The post Ivanti Patches Critical Flaws Across Enterprise Security Products appeared first on SecurityWeek .",
-      "published": "Wed, 09 Sep 2026 10:28:34 +0000",
-      "value_score": 61,
-      "value_signals": [
-        "RCE",
-        "Auth bypass",
-        "High severity ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "This Key Will Self-Destruct: An Open Standard for Revocable API Keys",
-      "link": "https://www.securityweek.com/this-key-will-self-destruct-an-open-standard-for-revocable-api-keys/",
-      "summary": "Every leaked credential should be dead, or dying, within sixty seconds of being found. Here's a proposal to make that the default. The post This Key Will Self-Destruct: An Open Standard for Revocable API Keys appeared first on SecurityWeek .",
-      "published": "Wed, 09 Sep 2026 10:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "New Phishing Attack Creates Malicious Pages Inside the Victim’s Browser",
-      "link": "https://www.securityweek.com/new-phishing-attack-creates-malicious-pages-inside-the-victims-browser/",
-      "summary": "Attackers are using trusted Microsoft services and blob URLs to generate stealthy phishing pages that leave defenders with no static website to detect or block. The post New Phishing Attack Creates Malicious Pages Inside the Victim’s Browser appeared first on SecurityWeek .",
-      "published": "Wed, 09 Sep 2026 10:00:00 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Chrome 153 Patches Seventh Zero-Day of 2026",
-      "link": "https://www.securityweek.com/chrome-153-patches-seventh-zero-day-of-2026/",
-      "summary": "The Chrome update includes 230 security fixes, and users are advised to update their browsers as soon as possible. The post Chrome 153 Patches Seventh Zero-Day of 2026 appeared first on SecurityWeek .",
-      "published": "Wed, 09 Sep 2026 09:45:00 +0000",
-      "value_score": 76,
-      "value_signals": [
-        "Zero-day ×2",
-        "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Microsoft Patches Record 974 Vulnerabilities, Including Two Exploited Zero-Days",
-      "link": "https://www.securityweek.com/microsoft-patches-record-974-vulnerabilities-including-two-exploited-zero-days/",
-      "summary": "The record-breaking September security update fixes two exploited privilege-escalation zero-days and 20 potentially wormable vulnerabilities. The post Microsoft Patches Record 974 Vulnerabilities, Including Two Exploited Zero-Days appeared first on SecurityWeek .",
-      "published": "Tue, 08 Sep 2026 19:20:06 +0000",
-      "value_score": 24,
-      "value_signals": [
-        "Patch/update",
-        "Exploit wording"
       ]
     },
     {

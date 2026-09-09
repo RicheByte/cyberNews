@@ -326,7 +326,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2613,
+      "count": 2614,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1256,7 +1256,7 @@
       ]
     },
     "national security risk": {
-      "count": 460,
+      "count": 461,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2012,7 +2012,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 609,
+      "count": 610,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -19728,12 +19728,13 @@
       ]
     },
     "stronger identity verification": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-06-10",
         "2026-06-11",
         "2026-08-25",
-        "2026-08-26"
+        "2026-08-26",
+        "2026-09-09"
       ]
     },
     "infostealers turn millions": {
@@ -20291,7 +20292,7 @@
       ]
     },
     "security experts warn": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -24674,7 +24675,7 @@
       ]
     },
     "turn one's television": {
-      "count": 238,
+      "count": 239,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26404,7 +26405,7 @@
       ]
     },
     "text history records": {
-      "count": 176,
+      "count": 177,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -27299,7 +27300,7 @@
       ]
     },
     "remained walled away": {
-      "count": 62,
+      "count": 63,
       "dates": [
         "2026-08-14",
         "2026-08-15",
@@ -27311,7 +27312,8 @@
         "2026-08-24",
         "2026-08-26",
         "2026-08-30",
-        "2026-08-31"
+        "2026-08-31",
+        "2026-09-09"
       ]
     },
     "ai agent control": {
@@ -28894,13 +28896,14 @@
       ]
     },
     "sophisticated cybercrime syndicate": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-08-31",
         "2026-09-01",
         "2026-09-02",
         "2026-09-04",
-        "2026-09-05"
+        "2026-09-05",
+        "2026-09-09"
       ]
     },
     "cronos blockchain network": {
@@ -28981,7 +28984,7 @@
       ]
     },
     "longest running spree": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-09-01",
         "2026-09-04",
@@ -29066,7 +29069,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29679,7 +29682,7 @@
       ]
     },
     "siphoning images collected": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-08",
         "2026-09-09"
@@ -29788,25 +29791,25 @@
       ]
     },
     "mail related privileges": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-09"
       ]
     },
     "chinese language group": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-09"
       ]
     },
     "multiple security vulnerabilities": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-09"
       ]
     },
     "adult without exposing": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-09"
       ]
@@ -29818,7 +29821,7 @@
       ]
     },
     "operating system sandbox": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-09"
       ]
@@ -29828,20 +29831,27 @@
       "dates": [
         "2026-09-09"
       ]
+    },
+    "us market presence": {
+      "count": 1,
+      "dates": [
+        "2026-09-09"
+      ]
+    },
+    "unauthenticated entry point": {
+      "count": 1,
+      "dates": [
+        "2026-09-09"
+      ]
+    },
+    "state sponsored adversaries": {
+      "count": 1,
+      "dates": [
+        "2026-09-09"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-24 04:38",
-      "articles": 48,
-      "top_keywords": [
-        "national security risk",
-        "twitter whistleblower complaint",
-        "sprawling phishing campaign",
-        "poisoned arrayref version",
-        "multi stage downloader"
-      ]
-    },
     {
       "timestamp": "2026-08-24 06:44",
       "articles": 48,
@@ -30929,6 +30939,17 @@
         "chinese language group",
         "multiple security vulnerabilities",
         "security experts warn"
+      ]
+    },
+    {
+      "timestamp": "2026-09-09 19:00",
+      "articles": 48,
+      "top_keywords": [
+        "mail related privileges",
+        "multiple security vulnerabilities",
+        "security experts warn",
+        "chinese language group",
+        "twitter whistleblower complaint"
       ]
     }
   ]

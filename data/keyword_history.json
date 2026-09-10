@@ -326,7 +326,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2616,
+      "count": 2617,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1257,7 +1257,7 @@
       ]
     },
     "national security risk": {
-      "count": 463,
+      "count": 464,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2014,7 +2014,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 612,
+      "count": 613,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -14078,10 +14078,11 @@
       ]
     },
     "tuesday released updates": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-15",
-        "2026-04-16"
+        "2026-04-16",
+        "2026-09-10"
       ]
     },
     "servers microsoft confirmed": {
@@ -19731,7 +19732,7 @@
       ]
     },
     "stronger identity verification": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-06-10",
         "2026-06-11",
@@ -20296,7 +20297,7 @@
       ]
     },
     "security experts warn": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -24680,7 +24681,7 @@
       ]
     },
     "turn one's television": {
-      "count": 241,
+      "count": 242,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26411,7 +26412,7 @@
       ]
     },
     "text history records": {
-      "count": 179,
+      "count": 180,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -28903,7 +28904,7 @@
       ]
     },
     "sophisticated cybercrime syndicate": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-08-31",
         "2026-09-01",
@@ -28992,7 +28993,7 @@
       ]
     },
     "longest running spree": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-09-01",
         "2026-09-04",
@@ -29078,7 +29079,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 46,
+      "count": 47,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29833,7 +29834,7 @@
       ]
     },
     "operating system sandbox": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-09",
         "2026-09-10"
@@ -29846,42 +29847,42 @@
       ]
     },
     "us market presence": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-09",
         "2026-09-10"
       ]
     },
     "unauthenticated entry point": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-09",
         "2026-09-10"
       ]
     },
     "state sponsored adversaries": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-09",
         "2026-09-10"
       ]
     },
     "reduce development costs": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-09",
         "2026-09-10"
       ]
     },
     "openai agents took": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-09",
         "2026-09-10"
       ]
     },
     "shinyhunters threat group": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-09",
         "2026-09-10"
@@ -29893,20 +29894,21 @@
         "2026-09-09",
         "2026-09-10"
       ]
+    },
+    "september 2026 patches": {
+      "count": 1,
+      "dates": [
+        "2026-09-10"
+      ]
+    },
+    "windows machines running": {
+      "count": 1,
+      "dates": [
+        "2026-09-10"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-24 10:31",
-      "articles": 48,
-      "top_keywords": [
-        "earlier consent decree",
-        "rethinking application security",
-        "windows 11 25h2",
-        "twitter whistleblower complaint",
-        "multi stage downloader"
-      ]
-    },
     {
       "timestamp": "2026-08-24 12:37",
       "articles": 48,
@@ -30994,6 +30996,17 @@
         "chinese language group",
         "twitter whistleblower complaint",
         "reduce development costs"
+      ]
+    },
+    {
+      "timestamp": "2026-09-10 08:34",
+      "articles": 48,
+      "top_keywords": [
+        "security experts warn",
+        "twitter whistleblower complaint",
+        "shinyhunters threat group",
+        "reduce development costs",
+        "openai agents took"
       ]
     }
   ]

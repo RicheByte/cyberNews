@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-10 02:43 UTC  
+> **Last Updated:** 2026-09-10 08:34 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**multiple security vulnerabilities** • **security experts warn** • **chinese language group** • **twitter whistleblower complaint** • **reduce development costs** • **openai agents took** • **longest running spree** • **individuals whose licenses** • **shinyhunters threat group** • **sprawling phishing campaign** • **national security risk** • **operating system sandbox** • **us market presence** • **unauthenticated entry point** • **turn one's television** • **thursday released updates** • **text history records** • **stronger identity verification** • **state sponsored adversaries** • **sophisticated cybercrime syndicate**
+**security experts warn** • **twitter whistleblower complaint** • **shinyhunters threat group** • **reduce development costs** • **openai agents took** • **individuals whose licenses** • **longest running spree** • **national security risk** • **september 2026 patches** • **operating system sandbox** • **windows machines running** • **us market presence** • **unauthenticated entry point** • **turn one's television** • **tuesday released updates** • **text history records** • **stronger identity verification** • **state sponsored adversaries** • **sprawling phishing campaign** • **sophisticated cybercrime syndicate**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Microsoft fixes bug that wiped Windows desktop settings](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-wiped-windows-desktop-settings/)
+- [Trezor warns users of email provider breach, phishing attacks](https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/)
 - [Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/)
 - [AdaptHealth confirms 4.1 million people exposed in July cyberattack](https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/)
 - [Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking](https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/)
 - [US says Chinese firms extracted billions of tokens from frontier AI models](https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/)
 - [Veradigm warns of patient data breach after ransomware gang claims attack](https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/)
 - [MFA's Weakest Link: Account Recovery Is the New Attack Path](https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/)
-- [Over 36,000 exposed Plex servers vulnerable to recent flaws](https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/)
-- [Man gets 15 years for extorting women with AI-generated porn videos](https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [EU Cyber Resilience Act to Enforce New Reporting Requirements](https://www.darkreading.com/cybersecurity-operations/eu-cyber-resilience-act-reporting-requirements)
 - [Mythos Vulnerability Firehose Hits a Human Bottleneck](https://www.darkreading.com/application-security/mythos-vulnerability-firehose-hits-human-bottleneck)
 - [US Government Accuses Chinese AI Firms of Distilling Frontier Models](https://www.darkreading.com/application-security/us-government-chinese-ai-firms-distilling-frontier-models)
 - [Identity-Based AI Attack Threatens Security of Enterprise Data](https://www.darkreading.com/threat-intelligence/identity-based-ai-attack-security-enterprise-data)
@@ -56,18 +57,17 @@
 - [Attackers Use Multi-Hop Google Redirects for Phishing Campaign](https://www.darkreading.com/cyberattacks-data-breaches/attackers-multi-hop-google-redirects-phishing-campaign)
 - [OpenAI Agents Took Over Wiki Site Before Hugging Face Attack](https://www.darkreading.com/cyberattacks-data-breaches/openai-agents-wiki-site-hugging-face-attack)
 - [ClickFix Campaigns Abuse Legitimate Services for Persistent Access](https://www.darkreading.com/endpoint-security/clickfix-campaigns-legitimate-services-persistent-access)
-- [Cybercriminals Hack Brazilian Government Servers to Host Phishing Sites](https://www.darkreading.com/threat-intelligence/cybercriminals-hack-brazilian-government-servers-host-phishing-sites)
 
 ### Security Week
 
+- [New ‘ShieldCrash’ Zero-Day Exploit Targets Microsoft Defender](https://www.securityweek.com/new-shieldcrash-zero-day-exploit-targets-microsoft-defender/)
+- [Fortinet Code Execution Flaw Exploited in PivotC2 RAT Attacks](https://www.securityweek.com/fortinet-code-execution-flaw-exploited-in-pivotc2-rat-attacks/)
 - [HelmGuard Raises $7.3 Million for Agentic GRC and Security](https://www.securityweek.com/helmguard-raises-7-3-million-for-agentic-grc-and-security/)
 - [AI Is Giving Lesser-Resourced Attackers Nation-State-Level Reach, Google Warns](https://www.securityweek.com/ai-is-giving-lesser-resourced-attackers-nation-state-level-reach-google-warns/)
 - [Android’s September 2026 Updates Patch 180 Vulnerabilities](https://www.securityweek.com/androids-september-2026-updates-patch-180-vulnerabilities/)
 - [Chipmaker Patch Tuesday: Nvidia, AMD, Arm Issue Security Advisories](https://www.securityweek.com/chipmaker-patch-tuesday-nvidia-amd-arm-issue-security-advisories/)
 - [Fortinet Patches Critical Vulnerabilities in FortiMonitorOnSight, Chrome Extension](https://www.securityweek.com/fortinet-patches-critical-vulnerabilities-in-fortimonitoronsight-chrome-extension/)
 - [US Agencies Warn China Is Systematically Extracting Frontier AI Capabilities](https://www.securityweek.com/us-agencies-warn-china-is-systematically-extracting-frontier-ai-capabilities/)
-- [Meta Launches Personal AI Agent, Muse, Emphasizes Safety and Privacy](https://www.securityweek.com/meta-launches-personal-ai-agent-muse-emphasizes-safety-and-privacy/)
-- [ICS Patch Tuesday: Schneider Electric, Siemens Fix Critical Flaws](https://www.securityweek.com/ics-patch-tuesday-schneider-electric-siemens-fix-critical-flaws/)
 
 ### Threatpost
 

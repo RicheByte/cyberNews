@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-09-10 02:43",
+  "last_updated": "2026-09-10 08:34",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "multiple security vulnerabilities",
     "security experts warn",
-    "chinese language group",
     "twitter whistleblower complaint",
+    "shinyhunters threat group",
     "reduce development costs",
     "openai agents took",
-    "longest running spree",
     "individuals whose licenses",
-    "shinyhunters threat group",
-    "sprawling phishing campaign",
+    "longest running spree",
     "national security risk",
+    "september 2026 patches",
     "operating system sandbox",
+    "windows machines running",
     "us market presence",
     "unauthenticated entry point",
     "turn one's television",
-    "thursday released updates",
+    "tuesday released updates",
     "text history records",
     "stronger identity verification",
     "state sponsored adversaries",
+    "sprawling phishing campaign",
     "sophisticated cybercrime syndicate"
   ],
   "trending": [
     {
-      "keyword": "multiple security vulnerabilities",
-      "mentions": 4
-    },
-    {
       "keyword": "security experts warn",
-      "mentions": 11
-    },
-    {
-      "keyword": "chinese language group",
-      "mentions": 4
+      "mentions": 12
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2616
-    },
-    {
-      "keyword": "reduce development costs",
-      "mentions": 2
-    },
-    {
-      "keyword": "openai agents took",
-      "mentions": 2
-    },
-    {
-      "keyword": "longest running spree",
-      "mentions": 18
-    },
-    {
-      "keyword": "individuals whose licenses",
-      "mentions": 46
+      "mentions": 2617
     },
     {
       "keyword": "shinyhunters threat group",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 612
+      "keyword": "reduce development costs",
+      "mentions": 3
+    },
+    {
+      "keyword": "openai agents took",
+      "mentions": 3
+    },
+    {
+      "keyword": "individuals whose licenses",
+      "mentions": 47
+    },
+    {
+      "keyword": "longest running spree",
+      "mentions": 19
+    },
+    {
+      "keyword": "national security risk",
+      "mentions": 464
+    },
+    {
+      "keyword": "september 2026 patches",
+      "mentions": 1
+    },
+    {
+      "keyword": "operating system sandbox",
+      "mentions": 5
     }
   ],
   "articles": [
@@ -138,7 +138,7 @@
       "source": "The Hacker News",
       "title": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox",
       "link": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html",
-      "summary": "Google on Thursday released updates to patch 230 security vulnerabilities, including one that has come under active exploitation in the wild. The medium-severity vulnerability, assigned the CVE identifier CVE-2026-87491 (CVSS score: N/A), has been described as an out-of-bounds bug in V8, Chrome's JavaScript and WebAssembly engine. \"Out-of-bounds write in V8 in Google Chrome prior to",
+      "summary": "Google on Tuesday released updates to patch 230 security vulnerabilities, including one that has come under active exploitation in the wild. The medium-severity vulnerability, assigned the CVE identifier CVE-2026-87491 (CVSS score: N/A), has been described as an out-of-bounds bug in V8, Chrome's JavaScript and WebAssembly engine. \"Out-of-bounds write in V8 in Google Chrome prior to",
       "published": "Wed, 09 Sep 2026 14:41:03 +0530",
       "value_score": 100,
       "value_signals": [
@@ -147,6 +147,29 @@
         "Active exploitation ×2",
         "Patch/update",
         "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft fixes bug that wiped Windows desktop settings",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-wiped-windows-desktop-settings/",
+      "summary": "Microsoft says the September 2026 Patch Tuesday updates fix a known issue causing desktop settings to be lost or reset on some Windows devices. [...]",
+      "published": "Thu, 10 Sep 2026 04:08:16 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Trezor warns users of email provider breach, phishing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/",
+      "summary": "Trezor warned customers on Wednesday that threat actors who breached its third-party email provider are targeting them in phishing attacks. [...]",
+      "published": "Thu, 10 Sep 2026 02:56:33 -0400",
+      "value_score": 38,
+      "value_signals": [
+        "Breach/leak",
+        "Phishing ×2"
       ]
     },
     {
@@ -213,24 +236,6 @@
       "value_signals": [
         "High severity"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Over 36,000 exposed Plex servers vulnerable to recent flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/",
-      "summary": "Over 36,000 Plex Media servers exposed online remain unpatched against multiple security vulnerabilities and are vulnerable to attacks. [...]",
-      "published": "Wed, 09 Sep 2026 06:11:29 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Man gets 15 years for extorting women with AI-generated porn videos",
-      "link": "https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/",
-      "summary": "An Ohio man was sentenced to 15 years in prison for multiple cybercrimes, including sextortion and cyberstalking of numerous victims using AI-generated sexually explicit content. [...]",
-      "published": "Wed, 09 Sep 2026 04:44:22 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -311,6 +316,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "EU Cyber Resilience Act to Enforce New Reporting Requirements",
+      "link": "https://www.darkreading.com/cybersecurity-operations/eu-cyber-resilience-act-reporting-requirements",
+      "summary": "Starting Friday, businesses operating in the EU will have just 24 hours to notify the government any time they discover serious product security incidents.",
+      "published": "Thu, 10 Sep 2026 07:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Mythos Vulnerability Firehose Hits a Human Bottleneck",
       "link": "https://www.darkreading.com/application-security/mythos-vulnerability-firehose-hits-human-bottleneck",
       "summary": "An analysis of Project Glasswing findings shows only a fraction have reached disclosure, and an even smaller number have been fixed.",
@@ -380,14 +394,27 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Cybercriminals Hack Brazilian Government Servers to Host Phishing Sites",
-      "link": "https://www.darkreading.com/threat-intelligence/cybercriminals-hack-brazilian-government-servers-host-phishing-sites",
-      "summary": "A Chinese-language group is compromising government and education sites to create a reverse-proxy network with gambling-themed sites.",
-      "published": "Tue, 08 Sep 2026 12:00:00 GMT",
-      "value_score": 18,
+      "source": "Security Week",
+      "title": "New ‘ShieldCrash’ Zero-Day Exploit Targets Microsoft Defender",
+      "link": "https://www.securityweek.com/new-shieldcrash-zero-day-exploit-targets-microsoft-defender/",
+      "summary": "The exploit provides full System privileges on Windows machines running the September 2026 patches. The post New ‘ShieldCrash’ Zero-Day Exploit Targets Microsoft Defender appeared first on SecurityWeek .",
+      "published": "Thu, 10 Sep 2026 07:09:36 +0000",
+      "value_score": 66,
       "value_signals": [
-        "Phishing"
+        "Zero-day ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Fortinet Code Execution Flaw Exploited in PivotC2 RAT Attacks",
+      "link": "https://www.securityweek.com/fortinet-code-execution-flaw-exploited-in-pivotc2-rat-attacks/",
+      "summary": "The high-severity, unauthenticated vulnerability tracked as CVE-2025-25249 was patched in January 2026. The post Fortinet Code Execution Flaw Exploited in PivotC2 RAT Attacks appeared first on SecurityWeek .",
+      "published": "Thu, 10 Sep 2026 06:33:36 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "CVE mentioned",
+        "Exploit wording"
       ]
     },
     {
@@ -450,27 +477,6 @@
       "published": "Wed, 09 Sep 2026 12:32:13 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Meta Launches Personal AI Agent, Muse, Emphasizes Safety and Privacy",
-      "link": "https://www.securityweek.com/meta-launches-personal-ai-agent-muse-emphasizes-safety-and-privacy/",
-      "summary": "Muse runs on a dedicated, secure virtual machine that houses both the agent and the user’s data. The post Meta Launches Personal AI Agent, Muse, Emphasizes Safety and Privacy appeared first on SecurityWeek .",
-      "published": "Wed, 09 Sep 2026 12:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "ICS Patch Tuesday: Schneider Electric, Siemens Fix Critical Flaws",
-      "link": "https://www.securityweek.com/ics-patch-tuesday-schneider-electric-siemens-fix-critical-flaws/",
-      "summary": "AVEVA and Rockwell Automation also released patches for vulnerabilities affecting industrial control system products. The post ICS Patch Tuesday: Schneider Electric, Siemens Fix Critical Flaws appeared first on SecurityWeek .",
-      "published": "Wed, 09 Sep 2026 10:49:30 +0000",
-      "value_score": 42,
-      "value_signals": [
-        "Patch/update ×4",
-        "High severity ×2"
-      ]
     },
     {
       "source": "Threatpost",

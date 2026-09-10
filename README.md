@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-10 14:00 UTC |
+| 🕐 Last Updated | 2026-09-10 18:53 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`widened scan turns` • `authentication bypass flaw` • `endpoint remediation join` • `authentication nearly 1` • `second android app` • `gigabud banking trojan` • `artificial intelligence ai` • `unauthenticated remote attacker` • `twitter whistleblower complaint` • `shinyhunters threat group`
+`widened scan turns` • `authentication bypass flaw` • `second android app` • `endpoint remediation join` • `authentication nearly 1` • `anthropic researcher resigns` • `artificial intelligence ai` • `top 4 threats` • `gigabud banking trojan` • `unauthenticated remote attacker`
 
 ## 📄 Reports
 

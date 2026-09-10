@@ -326,7 +326,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2618,
+      "count": 2619,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2322,7 +2322,7 @@
       ]
     },
     "authentication bypass flaw": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2025-12-31",
         "2026-01-01",
@@ -2957,7 +2957,7 @@
       ]
     },
     "unauthenticated remote attacker": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-01-07",
         "2026-01-08",
@@ -16083,7 +16083,7 @@
       ]
     },
     "artificial intelligence ai": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-05",
         "2026-09-10"
@@ -20300,7 +20300,7 @@
       ]
     },
     "security experts warn": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -29082,7 +29082,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 48,
+      "count": 49,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29775,7 +29775,7 @@
       ]
     },
     "974 cves attackers": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-09",
         "2026-09-10"
@@ -29912,37 +29912,37 @@
       ]
     },
     "widened scan turns": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-10"
       ]
     },
     "endpoint remediation join": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-10"
       ]
     },
     "authentication nearly 1": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-10"
       ]
     },
     "second android app": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-10"
       ]
     },
     "gigabud banking trojan": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-10"
       ]
     },
     "frontier pace governance": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-10"
       ]
@@ -29954,7 +29954,7 @@
       ]
     },
     "least september 3": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-10"
       ]
@@ -29970,20 +29970,45 @@
       "dates": [
         "2026-09-10"
       ]
+    },
+    "anthropic researcher resigns": {
+      "count": 1,
+      "dates": [
+        "2026-09-10"
+      ]
+    },
+    "top 4 threats": {
+      "count": 1,
+      "dates": [
+        "2026-09-10"
+      ]
+    },
+    "impacting cisco citrix": {
+      "count": 1,
+      "dates": [
+        "2026-09-10"
+      ]
+    },
+    "disgruntled researcher continued": {
+      "count": 1,
+      "dates": [
+        "2026-09-10"
+      ]
+    },
+    "android typically reserves": {
+      "count": 1,
+      "dates": [
+        "2026-09-10"
+      ]
+    },
+    "prophet security breaks": {
+      "count": 1,
+      "dates": [
+        "2026-09-10"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-24 14:35",
-      "articles": 48,
-      "top_keywords": [
-        "earlier consent decree",
-        "atm jackpotting scheme",
-        "spring application framework",
-        "rethinking application security",
-        "reduce application risk"
-      ]
-    },
     {
       "timestamp": "2026-08-24 16:29",
       "articles": 48,
@@ -31071,6 +31096,17 @@
         "endpoint remediation join",
         "authentication nearly 1",
         "second android app"
+      ]
+    },
+    {
+      "timestamp": "2026-09-10 18:53",
+      "articles": 48,
+      "top_keywords": [
+        "widened scan turns",
+        "authentication bypass flaw",
+        "second android app",
+        "endpoint remediation join",
+        "authentication nearly 1"
       ]
     }
   ]

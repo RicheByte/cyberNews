@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-10 14:00 UTC  
+> **Last Updated:** 2026-09-10 18:53 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**widened scan turns** • **authentication bypass flaw** • **endpoint remediation join** • **authentication nearly 1** • **second android app** • **gigabud banking trojan** • **artificial intelligence ai** • **unauthenticated remote attacker** • **twitter whistleblower complaint** • **shinyhunters threat group** • **individuals whose licenses** • **frontier pace governance** • **974 cves attackers** • **intelligence agencies say** • **least september 3** • **security experts warn** • **wiz research scanned** • **wiped mouse settings** • **unauthenticated entry point** • **turn one's television**
+**widened scan turns** • **authentication bypass flaw** • **second android app** • **endpoint remediation join** • **authentication nearly 1** • **anthropic researcher resigns** • **artificial intelligence ai** • **top 4 threats** • **gigabud banking trojan** • **unauthenticated remote attacker** • **twitter whistleblower complaint** • **individuals whose licenses** • **impacting cisco citrix** • **frontier pace governance** • **974 cves attackers** • **disgruntled researcher continued** • **android typically reserves** • **least september 3** • **security experts warn** • **prophet security breaks**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories](https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html)
+- [Google Play Early Access Abused to Push Thousands of Deceptive Android Apps](https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html)
 - [Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE](https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html)
 - [PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances](https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html)
 - [Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks](https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html)
 - [CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline](https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html)
 - [Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example "sk-1234" Admin Key](https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html)
 - [Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6](https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html)
-- [U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto](https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html)
-- [Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week](https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html)
 
 ### BleepingComputer
 
+- [AI-powered attack exploited PaperCut flaws to hack 395 organizations](https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/)
+- [Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers](https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/)
+- [IDScan confirms breach tied to 153 million stolen driver’s licenses](https://www.bleepingcomputer.com/news/security/idscan-confirms-breach-tied-to-153-million-stolen-drivers-licenses/)
+- [New 'BlueMoon' kit exploited Windows and Chrome zero-day flaws](https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/)
+- [The Top 4 Threats We Found by Investigating Every Alert for a Quarter](https://www.bleepingcomputer.com/news/security/the-top-4-threats-we-found-by-investigating-every-alert-for-a-quarter/)
 - [Microsoft says September updates fix mouse settings reset issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-resolves-mouse-settings-reset-bug-windows-11-update/)
 - [CISA: WatchGuard RCE flaw now exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/)
 - [Microsoft fixes bug that wiped Windows desktop settings](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-wiped-windows-desktop-settings/)
-- [Trezor warns users of email provider breach, phishing attacks](https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/)
-- [Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/)
-- [AdaptHealth confirms 4.1 million people exposed in July cyberattack](https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/)
-- [Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking](https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/)
-- [US says Chinese firms extracted billions of tokens from frontier AI models](https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Nightmare-Eclipse Strikes Again With 'ShieldCrash' Windows Exploit](https://www.darkreading.com/vulnerabilities-threats/nightmare-eclipse-strikes-again-shieldcrash-windows-exploit)
 - [EU Cyber Resilience Act to Enforce New Reporting Requirements](https://www.darkreading.com/cybersecurity-operations/eu-cyber-resilience-act-reporting-requirements)
 - [Mythos Vulnerability Firehose Hits a Human Bottleneck](https://www.darkreading.com/application-security/mythos-vulnerability-firehose-hits-human-bottleneck)
 - [US Government Accuses Chinese AI Firms of Distilling Frontier Models](https://www.darkreading.com/application-security/us-government-chinese-ai-firms-distilling-frontier-models)
@@ -56,18 +57,17 @@
 - [Patch Tuesday Sets Another Record With 974 CVEs](https://www.darkreading.com/vulnerabilities-threats/patch-tuesday-another-record-974-cves)
 - [Attackers Use Multi-Hop Google Redirects for Phishing Campaign](https://www.darkreading.com/cyberattacks-data-breaches/attackers-multi-hop-google-redirects-phishing-campaign)
 - [OpenAI Agents Took Over Wiki Site Before Hugging Face Attack](https://www.darkreading.com/cyberattacks-data-breaches/openai-agents-wiki-site-hugging-face-attack)
-- [ClickFix Campaigns Abuse Legitimate Services for Persistent Access](https://www.darkreading.com/endpoint-security/clickfix-campaigns-legitimate-services-persistent-access)
 
 ### Security Week
 
+- [Cybersecurity M&A Roundup: 33 Deals Announced in August 2026](https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-august-2026/)
+- [Anthropic Researcher Resigns With Warning About the Dangers of AI Development](https://www.securityweek.com/anthropic-researcher-resigns-with-warning-about-the-dangers-of-ai-development/)
+- [Hacker Conversations: Vinnie Liu, Performer Turned Ringmaster](https://www.securityweek.com/hacker-conversations-vinnie-liu-performer-turned-ringmaster/)
 - [Deceptive Android Apps Exploit Google Play Early Access to Evade Reviews](https://www.securityweek.com/deceptive-android-apps-exploit-google-play-early-access-to-evade-reviews/)
 - [Webinar Today: Keep Pace With AI – A New Operating Model for Endpoint Remediation](https://www.securityweek.com/webinar-today-keep-pace-with-ai-a-new-operating-model-for-endpoint-remediation/)
 - [Critical NetScaler Vulnerability Exploited in Attacks](https://www.securityweek.com/critical-netscaler-vulnerability-exploited-in-attacks/)
 - [Widened Scan Turns Up Fourth Rogue Claude Cyber Incident](https://www.securityweek.com/widened-scan-turns-up-fourth-rogue-claude-cyber-incident/)
 - [4.1 Million Impacted by AdaptHealth Data Breach](https://www.securityweek.com/4-1-million-impacted-by-adapthealth-data-breach/)
-- [Organizations Warned of Cisco Secure FMC Exploitation](https://www.securityweek.com/organizations-warned-of-cisco-secure-fmc-exploitation/)
-- [New ‘ShieldCrash’ Zero-Day Exploit Targets Microsoft Defender](https://www.securityweek.com/new-shieldcrash-zero-day-exploit-targets-microsoft-defender/)
-- [Fortinet Code Execution Flaw Exploited in PivotC2 RAT Attacks](https://www.securityweek.com/fortinet-code-execution-flaw-exploited-in-pivotc2-rat-attacks/)
 
 ### Threatpost
 

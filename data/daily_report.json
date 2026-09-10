@@ -1,72 +1,92 @@
 {
-  "last_updated": "2026-09-10 14:00",
+  "last_updated": "2026-09-10 18:53",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "widened scan turns",
     "authentication bypass flaw",
+    "second android app",
     "endpoint remediation join",
     "authentication nearly 1",
-    "second android app",
-    "gigabud banking trojan",
+    "anthropic researcher resigns",
     "artificial intelligence ai",
+    "top 4 threats",
+    "gigabud banking trojan",
     "unauthenticated remote attacker",
     "twitter whistleblower complaint",
-    "shinyhunters threat group",
     "individuals whose licenses",
+    "impacting cisco citrix",
     "frontier pace governance",
     "974 cves attackers",
-    "intelligence agencies say",
+    "disgruntled researcher continued",
+    "android typically reserves",
     "least september 3",
     "security experts warn",
-    "wiz research scanned",
-    "wiped mouse settings",
-    "unauthenticated entry point",
-    "turn one's television"
+    "prophet security breaks"
   ],
   "trending": [
     {
       "keyword": "widened scan turns",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "authentication bypass flaw",
-      "mentions": 47
-    },
-    {
-      "keyword": "endpoint remediation join",
-      "mentions": 1
-    },
-    {
-      "keyword": "authentication nearly 1",
-      "mentions": 1
+      "mentions": 48
     },
     {
       "keyword": "second android app",
-      "mentions": 1
+      "mentions": 2
     },
     {
-      "keyword": "gigabud banking trojan",
+      "keyword": "endpoint remediation join",
+      "mentions": 2
+    },
+    {
+      "keyword": "authentication nearly 1",
+      "mentions": 2
+    },
+    {
+      "keyword": "anthropic researcher resigns",
       "mentions": 1
     },
     {
       "keyword": "artificial intelligence ai",
+      "mentions": 3
+    },
+    {
+      "keyword": "top 4 threats",
+      "mentions": 1
+    },
+    {
+      "keyword": "gigabud banking trojan",
       "mentions": 2
     },
     {
       "keyword": "unauthenticated remote attacker",
-      "mentions": 39
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2618
-    },
-    {
-      "keyword": "shinyhunters threat group",
-      "mentions": 4
+      "mentions": 40
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories",
+      "link": "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html",
+      "summary": "A lot of this week’s security news has the same awkward answer to one question: “Why was that allowed to work?” An extension asks for access and takes too much. A trusted service becomes part of a phishing chain. An old bug still gets results. An exposed system stays exposed. A package looks useful right up until it isn’t. Different stories, same basic problem: the path in was often already",
+      "published": "Thu, 10 Sep 2026 23:17:38 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Google Play Early Access Abused to Push Thousands of Deceptive Android Apps",
+      "link": "https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html",
+      "summary": "Bad actors are misusing Google Play's Early Access program to push deceptive apps that claim to offer money, rewards, casino winnings, and premium content. Early Access apps are apps that haven't been released on the official Android app marketplace. The main idea behind the program is for developers to solicit user feedback for new applications or features they may be working on before their",
+      "published": "Thu, 10 Sep 2026 20:06:47 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE",
@@ -132,24 +152,59 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto",
-      "link": "https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html",
-      "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced coordinated actions aimed at an illicit online marketplace called Xinbi Guarantee that offered scam services, including seizing Telegram channels used to run the service, confiscating two cryptocurrency wallets, and deploying the Scam Center Strike Force to Madagascar to help disrupt 13 scam compounds run by Chinese organized crime",
-      "published": "Wed, 09 Sep 2026 23:56:05 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week",
-      "link": "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html",
-      "summary": "Multiple espionage-motivated threat activity clusters have been found deploying a previously undocumented exploit kit called BlueMoon that chains together multiple vulnerabilities in Microsoft Windows and Google Chrome. The first in-the-wild use of BlueMoon has been attributed to the China-aligned state-sponsored group tracked as APT31 (aka Bronze Vinewood, Judgement Panda, JungleBamboo,",
-      "published": "Wed, 09 Sep 2026 22:04:05 +0530",
+      "source": "BleepingComputer",
+      "title": "AI-powered attack exploited PaperCut flaws to hack 395 organizations",
+      "link": "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/",
+      "summary": "A threat actor, likely Russian-speaking, used hundreds of AI agents to develop and launch a global exploitation campaign targeting vulnerable PaperCut NG/MF servers. [...]",
+      "published": "Thu, 10 Sep 2026 11:55:56 -0400",
       "value_score": 16,
       "value_signals": [
         "Exploit wording"
       ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/",
+      "summary": "Cisco Talos says two recently patched Secure Firewall Management Center (FMC) vulnerabilities have been exploited by three separate threat clusters linked to ransomware and state-sponsored attacks. [...]",
+      "published": "Thu, 10 Sep 2026 11:43:58 -0400",
+      "value_score": 52,
+      "value_signals": [
+        "Ransomware ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "IDScan confirms breach tied to 153 million stolen driver’s licenses",
+      "link": "https://www.bleepingcomputer.com/news/security/idscan-confirms-breach-tied-to-153-million-stolen-drivers-licenses/",
+      "summary": "Identity verification company IDScan has confirmed that hackers accessed customer data stored in its cloud platform, days after reports linked the company to a massive database containing more than 153 million driver's license scans. [...]",
+      "published": "Thu, 10 Sep 2026 10:55:33 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "New 'BlueMoon' kit exploited Windows and Chrome zero-day flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/",
+      "summary": "Multiple cyber-espionage groups deployed an exploit kit dubbed \"BlueMoon\" that leveraged zero-day vulnerabilities in Microsoft Windows and Google Chrome. [...]",
+      "published": "Thu, 10 Sep 2026 10:11:34 -0400",
+      "value_score": 66,
+      "value_signals": [
+        "Zero-day ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "The Top 4 Threats We Found by Investigating Every Alert for a Quarter",
+      "link": "https://www.bleepingcomputer.com/news/security/the-top-4-threats-we-found-by-investigating-every-alert-for-a-quarter/",
+      "summary": "Identity was the target in roughly half of all confirmed malicious activity. Prophet Security breaks down the four main attack patterns seen across customer environments between May and July 2026, and explains why some attacks succeeded while others were blocked. [...]",
+      "published": "Thu, 10 Sep 2026 10:00:10 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -188,60 +243,6 @@
       "value_signals": [
         "Patch/update ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Trezor warns users of email provider breach, phishing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/",
-      "summary": "Trezor warned customers on Wednesday that threat actors who breached its third-party email provider are targeting them in phishing attacks. [...]",
-      "published": "Thu, 10 Sep 2026 02:56:33 -0400",
-      "value_score": 38,
-      "value_signals": [
-        "Breach/leak",
-        "Phishing ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
-      "summary": "Cisco has confirmed that a maximum-severity authentication bypass vulnerability tracked as CVE-2026-20079 in its Secure Firewall Management Center (FMC) software is being actively exploited in attacks. [...]",
-      "published": "Wed, 09 Sep 2026 17:40:44 -0400",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "Active exploitation",
-        "Auth bypass",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "AdaptHealth confirms 4.1 million people exposed in July cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/",
-      "summary": "Healthcare company AdaptHealth has confirmed that data of 4.1 million people was exposed in a cyberattack discovered in July that was attributed to the ShinyHunters threat group. [...]",
-      "published": "Wed, 09 Sep 2026 17:30:36 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking",
-      "link": "https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/",
-      "summary": "The Carnegie Mellon University CERT Coordination Center (CERT/CC) is warning that Skullcandy Dime 3 wireless earbuds accept Bluetooth pairing requests from nearby unpaired devices without requiring user interaction. [...]",
-      "published": "Wed, 09 Sep 2026 17:02:14 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "US says Chinese firms extracted billions of tokens from frontier AI models",
-      "link": "https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/",
-      "summary": "U.S. cybersecurity and intelligence agencies say that six Chinese AI companies conducted industrial-scale distillation attacks on American frontier AI models since at least late 2024. [...]",
-      "published": "Wed, 09 Sep 2026 12:48:33 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -322,9 +323,21 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Nightmare-Eclipse Strikes Again With 'ShieldCrash' Windows Exploit",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/nightmare-eclipse-strikes-again-shieldcrash-windows-exploit",
+      "summary": "The disgruntled researcher continued their vendetta against Microsoft by publishing yet another zero-day exploit for Windows Defender.",
+      "published": "Thu, 10 Sep 2026 15:29:12 GMT",
+      "value_score": 41,
+      "value_signals": [
+        "Zero-day",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "EU Cyber Resilience Act to Enforce New Reporting Requirements",
       "link": "https://www.darkreading.com/cybersecurity-operations/eu-cyber-resilience-act-reporting-requirements",
-      "summary": "Starting Friday, businesses operating in the EU will have just 24 hours to notify the government any time they discover serious product security incidents.",
+      "summary": "Starting Friday, European organizations will have just 24 hours to notify the EU government any time they discover serious product security incidents.",
       "published": "Thu, 10 Sep 2026 07:00:00 GMT",
       "value_score": 10,
       "value_signals": []
@@ -333,7 +346,7 @@
       "source": "Dark Reading",
       "title": "Mythos Vulnerability Firehose Hits a Human Bottleneck",
       "link": "https://www.darkreading.com/application-security/mythos-vulnerability-firehose-hits-human-bottleneck",
-      "summary": "An analysis of Project Glasswing findings shows only a fraction have reached disclosure, and an even smaller number have been fixed.",
+      "summary": "An analysis of Project Glasswing findings shows only a fraction of the bugs it has discovered have reached disclosure, and an even smaller number have been fixed.",
       "published": "Wed, 09 Sep 2026 21:19:55 GMT",
       "value_score": 18,
       "value_signals": [
@@ -362,7 +375,7 @@
       "source": "Dark Reading",
       "title": "Patch Tuesday Sets Another Record With 974 CVEs",
       "link": "https://www.darkreading.com/vulnerabilities-threats/patch-tuesday-another-record-974-cves",
-      "summary": "Attackers are actively exploiting two of the vulnerabilities and another 58 are more likely to be exploited, according to Microsoft.",
+      "summary": "Attackers are actively exploiting two of the vulnerabilities, and another 58 are more likely to be exploited, according to Microsoft.",
       "published": "Tue, 08 Sep 2026 21:26:02 GMT",
       "value_score": 24,
       "value_signals": [
@@ -385,17 +398,35 @@
       "source": "Dark Reading",
       "title": "OpenAI Agents Took Over Wiki Site Before Hugging Face Attack",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/openai-agents-wiki-site-hugging-face-attack",
-      "summary": "Researchers and OpenAI disagree on whether the earlier incident involving DseWiki, which the company did not disclose, was a “hack.\"",
+      "summary": "Researchers and OpenAI disagree on whether an earlier incident involving DseWiki, which the company did not disclose, was a “hack.\"",
       "published": "Tue, 08 Sep 2026 20:36:15 GMT",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "ClickFix Campaigns Abuse Legitimate Services for Persistent Access",
-      "link": "https://www.darkreading.com/endpoint-security/clickfix-campaigns-legitimate-services-persistent-access",
-      "summary": "Two separate attacks demonstrate how threat actors are finding new ways to compromise organizations by using the popular social engineering tactic.",
-      "published": "Tue, 08 Sep 2026 17:25:37 GMT",
+      "source": "Security Week",
+      "title": "Cybersecurity M&A Roundup: 33 Deals Announced in August 2026",
+      "link": "https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-august-2026/",
+      "summary": "Significant cybersecurity M&A deals announced by Brinqa, Cribl, Echo, Fortinet, Kiteworks, Palo Alto Networks, and Visa. The post Cybersecurity M&A Roundup: 33 Deals Announced in August 2026 appeared first on SecurityWeek .",
+      "published": "Thu, 10 Sep 2026 16:14:58 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Anthropic Researcher Resigns With Warning About the Dangers of AI Development",
+      "link": "https://www.securityweek.com/anthropic-researcher-resigns-with-warning-about-the-dangers-of-ai-development/",
+      "summary": "Both Anthropic and OpenAI have seen high-profile resignations in recent years that were tied to safety concerns. The post Anthropic Researcher Resigns With Warning About the Dangers of AI Development appeared first on SecurityWeek .",
+      "published": "Thu, 10 Sep 2026 14:52:07 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Hacker Conversations: Vinnie Liu, Performer Turned Ringmaster",
+      "link": "https://www.securityweek.com/hacker-conversations-vinnie-liu-performer-turned-ringmaster/",
+      "summary": "Vinnie Liu was recruited by the NSA when he was just 17 years old. He is now the CEO of Bishop Fox. The post Hacker Conversations: Vinnie Liu, Performer Turned Ringmaster appeared first on SecurityWeek .",
+      "published": "Thu, 10 Sep 2026 14:30:00 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -452,43 +483,6 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Organizations Warned of Cisco Secure FMC Exploitation",
-      "link": "https://www.securityweek.com/organizations-warned-of-cisco-secure-fmc-exploitation/",
-      "summary": "Cisco and CISA have flagged exploitation of CVE-2026-20079, a vulnerability disclosed in March 2026. The post Organizations Warned of Cisco Secure FMC Exploitation appeared first on SecurityWeek .",
-      "published": "Thu, 10 Sep 2026 10:06:20 +0000",
-      "value_score": 54,
-      "value_signals": [
-        "CVE mentioned",
-        "CISA/KEV",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "New ‘ShieldCrash’ Zero-Day Exploit Targets Microsoft Defender",
-      "link": "https://www.securityweek.com/new-shieldcrash-zero-day-exploit-targets-microsoft-defender/",
-      "summary": "The exploit provides full System privileges on Windows machines running the September 2026 patches. The post New ‘ShieldCrash’ Zero-Day Exploit Targets Microsoft Defender appeared first on SecurityWeek .",
-      "published": "Thu, 10 Sep 2026 07:09:36 +0000",
-      "value_score": 66,
-      "value_signals": [
-        "Zero-day ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Fortinet Code Execution Flaw Exploited in PivotC2 RAT Attacks",
-      "link": "https://www.securityweek.com/fortinet-code-execution-flaw-exploited-in-pivotc2-rat-attacks/",
-      "summary": "The high-severity, unauthenticated vulnerability tracked as CVE-2025-25249 was patched in January 2026. The post Fortinet Code Execution Flaw Exploited in PivotC2 RAT Attacks appeared first on SecurityWeek .",
-      "published": "Thu, 10 Sep 2026 06:33:36 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "CVE mentioned",
-        "Exploit wording"
       ]
     },
     {

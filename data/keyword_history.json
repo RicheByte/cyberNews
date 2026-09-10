@@ -326,7 +326,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2617,
+      "count": 2618,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2322,7 +2322,7 @@
       ]
     },
     "authentication bypass flaw": {
-      "count": 46,
+      "count": 47,
       "dates": [
         "2025-12-31",
         "2026-01-01",
@@ -2332,7 +2332,8 @@
         "2026-05-06",
         "2026-08-29",
         "2026-08-30",
-        "2026-08-31"
+        "2026-08-31",
+        "2026-09-10"
       ]
     },
     "bypass authentication mechanisms": {
@@ -2956,7 +2957,7 @@
       ]
     },
     "unauthenticated remote attacker": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-01-07",
         "2026-01-08",
@@ -2969,7 +2970,8 @@
         "2026-08-24",
         "2026-08-25",
         "2026-09-03",
-        "2026-09-04"
+        "2026-09-04",
+        "2026-09-10"
       ]
     },
     "remote authenticated attacker": {
@@ -16081,9 +16083,10 @@
       ]
     },
     "artificial intelligence ai": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-05-05"
+        "2026-05-05",
+        "2026-09-10"
       ]
     },
     "south america since": {
@@ -20297,7 +20300,7 @@
       ]
     },
     "security experts warn": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -24681,7 +24684,7 @@
       ]
     },
     "turn one's television": {
-      "count": 242,
+      "count": 243,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -29079,7 +29082,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29772,9 +29775,10 @@
       ]
     },
     "974 cves attackers": {
-      "count": 3,
+      "count": 4,
       "dates": [
-        "2026-09-09"
+        "2026-09-09",
+        "2026-09-10"
       ]
     },
     "sports cars flew": {
@@ -29854,7 +29858,7 @@
       ]
     },
     "unauthenticated entry point": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-09",
         "2026-09-10"
@@ -29882,7 +29886,7 @@
       ]
     },
     "shinyhunters threat group": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-09",
         "2026-09-10"
@@ -29906,20 +29910,69 @@
       "dates": [
         "2026-09-10"
       ]
+    },
+    "widened scan turns": {
+      "count": 1,
+      "dates": [
+        "2026-09-10"
+      ]
+    },
+    "endpoint remediation join": {
+      "count": 1,
+      "dates": [
+        "2026-09-10"
+      ]
+    },
+    "authentication nearly 1": {
+      "count": 1,
+      "dates": [
+        "2026-09-10"
+      ]
+    },
+    "second android app": {
+      "count": 1,
+      "dates": [
+        "2026-09-10"
+      ]
+    },
+    "gigabud banking trojan": {
+      "count": 1,
+      "dates": [
+        "2026-09-10"
+      ]
+    },
+    "frontier pace governance": {
+      "count": 1,
+      "dates": [
+        "2026-09-10"
+      ]
+    },
+    "intelligence agencies say": {
+      "count": 1,
+      "dates": [
+        "2026-09-10"
+      ]
+    },
+    "least september 3": {
+      "count": 1,
+      "dates": [
+        "2026-09-10"
+      ]
+    },
+    "wiz research scanned": {
+      "count": 1,
+      "dates": [
+        "2026-09-10"
+      ]
+    },
+    "wiped mouse settings": {
+      "count": 1,
+      "dates": [
+        "2026-09-10"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-24 12:37",
-      "articles": 48,
-      "top_keywords": [
-        "earlier consent decree",
-        "atm jackpotting scheme",
-        "rethinking application security",
-        "spring application framework",
-        "reduce application risk"
-      ]
-    },
     {
       "timestamp": "2026-08-24 14:35",
       "articles": 48,
@@ -31007,6 +31060,17 @@
         "shinyhunters threat group",
         "reduce development costs",
         "openai agents took"
+      ]
+    },
+    {
+      "timestamp": "2026-09-10 14:00",
+      "articles": 48,
+      "top_keywords": [
+        "widened scan turns",
+        "authentication bypass flaw",
+        "endpoint remediation join",
+        "authentication nearly 1",
+        "second android app"
       ]
     }
   ]

@@ -1,72 +1,136 @@
 {
-  "last_updated": "2026-09-10 08:34",
+  "last_updated": "2026-09-10 14:00",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "security experts warn",
+    "widened scan turns",
+    "authentication bypass flaw",
+    "endpoint remediation join",
+    "authentication nearly 1",
+    "second android app",
+    "gigabud banking trojan",
+    "artificial intelligence ai",
+    "unauthenticated remote attacker",
     "twitter whistleblower complaint",
     "shinyhunters threat group",
-    "reduce development costs",
-    "openai agents took",
     "individuals whose licenses",
-    "longest running spree",
-    "national security risk",
-    "september 2026 patches",
-    "operating system sandbox",
-    "windows machines running",
-    "us market presence",
+    "frontier pace governance",
+    "974 cves attackers",
+    "intelligence agencies say",
+    "least september 3",
+    "security experts warn",
+    "wiz research scanned",
+    "wiped mouse settings",
     "unauthenticated entry point",
-    "turn one's television",
-    "tuesday released updates",
-    "text history records",
-    "stronger identity verification",
-    "state sponsored adversaries",
-    "sprawling phishing campaign",
-    "sophisticated cybercrime syndicate"
+    "turn one's television"
   ],
   "trending": [
     {
-      "keyword": "security experts warn",
-      "mentions": 12
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2617
-    },
-    {
-      "keyword": "shinyhunters threat group",
-      "mentions": 3
-    },
-    {
-      "keyword": "reduce development costs",
-      "mentions": 3
-    },
-    {
-      "keyword": "openai agents took",
-      "mentions": 3
-    },
-    {
-      "keyword": "individuals whose licenses",
-      "mentions": 47
-    },
-    {
-      "keyword": "longest running spree",
-      "mentions": 19
-    },
-    {
-      "keyword": "national security risk",
-      "mentions": 464
-    },
-    {
-      "keyword": "september 2026 patches",
+      "keyword": "widened scan turns",
       "mentions": 1
     },
     {
-      "keyword": "operating system sandbox",
-      "mentions": 5
+      "keyword": "authentication bypass flaw",
+      "mentions": 47
+    },
+    {
+      "keyword": "endpoint remediation join",
+      "mentions": 1
+    },
+    {
+      "keyword": "authentication nearly 1",
+      "mentions": 1
+    },
+    {
+      "keyword": "second android app",
+      "mentions": 1
+    },
+    {
+      "keyword": "gigabud banking trojan",
+      "mentions": 1
+    },
+    {
+      "keyword": "artificial intelligence ai",
+      "mentions": 2
+    },
+    {
+      "keyword": "unauthenticated remote attacker",
+      "mentions": 39
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2618
+    },
+    {
+      "keyword": "shinyhunters threat group",
+      "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE",
+      "link": "https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html",
+      "summary": "Check Point has patched two critical vulnerabilities in the way its firewall and management products handle VPN certificates. The company says both could allow an unauthenticated remote attacker to run code, but only \"under specific conditions\" that it has not described. One flaw affects Check Point's Security Gateways, its firewall appliances. The other affects those gateways and the Security",
+      "published": "Thu, 10 Sep 2026 17:15:05 +0530",
+      "value_score": 38,
+      "value_signals": [
+        "RCE",
+        "High severity"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances",
+      "link": "https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html",
+      "summary": "A suspected Russian-speaking cyber actor has been attributed to the use of artificial intelligence (AI) to devise exploits targeting a recently disclosed pair of security flaws in PaperCut NG/MF and break into hundreds of instances. According to independent reports from Blackpoint Cyber and GreyNoise, the activity originates from \"45.142.193[.]132,\" an IP address that has been linked to",
+      "published": "Thu, 10 Sep 2026 17:11:53 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks",
+      "link": "https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html",
+      "summary": "The Gigabud banking trojan now installs a second Android app that creates a work profile on an infected phone and drops a tampered banking app inside it, security firm Group-IB said in a report published on September 9. A work profile is a separate space that Android typically reserves for employer apps, and what's inside it is kept separate from everything in the personal space. That",
+      "published": "Thu, 10 Sep 2026 17:03:43 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline",
+      "link": "https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added three flaws, each impacting Cisco, Citrix, and Fortinet, to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the patches by September 12, 2026. The vulnerabilities are listed below - CVE-2026-20079 (CVSS score: 10.0) - An authentication",
+      "published": "Thu, 10 Sep 2026 16:06:46 +0530",
+      "value_score": 82,
+      "value_signals": [
+        "CVE mentioned",
+        "Patch/update",
+        "CISA/KEV ×4",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example \"sk-1234\" Admin Key",
+      "link": "https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html",
+      "summary": "Nearly one in ten of the internet-facing LiteLLM servers that Wiz Research scanned in February accepted sk-1234, the example admin key in LiteLLM's own setup guide. LiteLLM is an open-source AI gateway, the software a company puts between its applications and the model providers it pays for. That key is the gateway's administrator credential. Anyone who holds it can read every",
+      "published": "Thu, 10 Sep 2026 12:42:55 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6",
+      "link": "https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html",
+      "summary": "Anthropic on Wednesday disclosed a fourth incident in which its artificial intelligence (AI) model broke into real third-party systems, marking the latest in a growing list of cases that have raised concerns about the security risks posed by autonomous AI agents. The AI company said the incident dates back to January 2026 and involved an early version of Claude Opus 4.6 that breached \"",
+      "published": "Thu, 10 Sep 2026 12:34:01 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto",
@@ -88,64 +152,29 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA",
-      "link": "https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html",
-      "summary": "Cybercriminals are hijacking artificial intelligence (AI) user accounts via information stealer logs to create \"stolen keys\" that grant illicit access to tools from model providers like Google, Anthropic, and others. Information stealers like Lumma Stealer or Vidar are equipped to harvest a wide range of data from compromised systems. This can include credential, session tokens, and API",
-      "published": "Wed, 09 Sep 2026 19:53:55 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Webinar: Learn How to Answer “Are We Exposed?” Faster After a New CVE",
-      "link": "https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html",
-      "summary": "A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed? For many security teams, answering that means jumping between vulnerability scanners, endpoint tools, cloud inventories, SBOMs, repositories, and application data to build enough context to act. As AI accelerates vulnerability discovery and research, that delay matters more",
-      "published": "Wed, 09 Sep 2026 17:27:36 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval",
-      "link": "https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html",
-      "summary": "A flaw in DeepSeek Harness, DeepSeek's open-source tool for running AI coding agents on a developer's machine, let a sandboxed agent turn off its own sandbox with a single command. The tool runs an agent's commands inside an operating-system sandbox, so that an agent working on untrusted files cannot write outside its workspace. The agent could remove that limit by calling the tool's own web",
-      "published": "Wed, 09 Sep 2026 16:47:07 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Alby Hub Critical Flaw Could Let Attackers Take Over Internet-Exposed Bitcoin Wallets",
-      "link": "https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html",
-      "summary": "Bitcoin wallet company Alby has warned of a critical flaw in Alby Hub that could have let an attacker take over a wallet and send its funds, but only where the owner had made the Hub reachable from the internet. Alby Hub is a self-hosted Lightning wallet, meaning the owner runs it on their own computer or server, and it holds their bitcoin. The flaw affects versions v1.7.0 through",
-      "published": "Wed, 09 Sep 2026 16:13:04 +0530",
+      "source": "BleepingComputer",
+      "title": "Microsoft says September updates fix mouse settings reset issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-resolves-mouse-settings-reset-bug-windows-11-update/",
+      "summary": "Microsoft has fixed a known issue that wiped mouse settings on some Windows 11 systems after installing the KB5120998 August 2026 preview update. [...]",
+      "published": "Thu, 10 Sep 2026 07:14:28 -0400",
       "value_score": 26,
       "value_signals": [
-        "High severity ×2"
+        "Patch/update ×3"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok",
-      "link": "https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html",
-      "summary": "U.S. cybersecurity and intelligence agencies have accused China-based artificial intelligence (AI) companies of conducting \"systematic extraction\" of proprietary functionalities and capabilities of American frontier models through distillation attacks. The activity has been described as occurring at an industrial-scale and one that forms the \"core\" of their AI development strategy, according to",
-      "published": "Wed, 09 Sep 2026 15:02:26 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox",
-      "link": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html",
-      "summary": "Google on Tuesday released updates to patch 230 security vulnerabilities, including one that has come under active exploitation in the wild. The medium-severity vulnerability, assigned the CVE identifier CVE-2026-87491 (CVSS score: N/A), has been described as an out-of-bounds bug in V8, Chrome's JavaScript and WebAssembly engine. \"Out-of-bounds write in V8 in Google Chrome prior to",
-      "published": "Wed, 09 Sep 2026 14:41:03 +0530",
+      "source": "BleepingComputer",
+      "title": "CISA: WatchGuard RCE flaw now exploited in ransomware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a critical WatchGuard Firebox firewall vulnerability, which it flagged as actively exploited in December. [...]",
+      "published": "Thu, 10 Sep 2026 05:10:20 -0400",
       "value_score": 100,
       "value_signals": [
-        "CVE mentioned",
-        "Zero-day",
-        "Active exploitation ×2",
-        "Patch/update",
+        "Active exploitation",
+        "Ransomware ×2",
+        "RCE",
+        "CISA/KEV ×2",
+        "High severity",
         "Exploit wording"
       ]
     },
@@ -213,29 +242,6 @@
       "published": "Wed, 09 Sep 2026 12:48:33 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Veradigm warns of patient data breach after ransomware gang claims attack",
-      "link": "https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/",
-      "summary": "Healthcare technology company Veradigm disclosed a data breach after a cybersecurity incident at one of its third-party vendors exposed patients' personal data. [...]",
-      "published": "Wed, 09 Sep 2026 11:31:23 -0400",
-      "value_score": 52,
-      "value_signals": [
-        "Ransomware",
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "MFA's Weakest Link: Account Recovery Is the New Attack Path",
-      "link": "https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/",
-      "summary": "MFA makes account takeover harder, but attackers are increasingly targeting the recovery processes used to reset passwords and authentication methods. Specops explains why stronger identity verification at the service desk is critical to preventing social engineering attacks from turning account recovery into account takeover. [...]",
-      "published": "Wed, 09 Sep 2026 10:01:11 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -395,6 +401,74 @@
     },
     {
       "source": "Security Week",
+      "title": "Deceptive Android Apps Exploit Google Play Early Access to Evade Reviews",
+      "link": "https://www.securityweek.com/deceptive-android-apps-exploit-google-play-early-access-to-evade-reviews/",
+      "summary": "Deceptive apps in Early Access are being used by dishonest developers for their own benefit. The post Deceptive Android Apps Exploit Google Play Early Access to Evade Reviews appeared first on SecurityWeek .",
+      "published": "Thu, 10 Sep 2026 13:39:52 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Webinar Today: Keep Pace With AI – A New Operating Model for Endpoint Remediation",
+      "link": "https://www.securityweek.com/webinar-today-keep-pace-with-ai-a-new-operating-model-for-endpoint-remediation/",
+      "summary": "Join the webinar for a focused, 20-minute discussion on Frontier Pace Governance, an approach to balancing automation, policy, and business risk as IT operations accelerate. The post Webinar Today: Keep Pace With AI – A New Operating Model for Endpoint Remediation appeared first on SecurityWeek .",
+      "published": "Thu, 10 Sep 2026 13:30:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Critical NetScaler Vulnerability Exploited in Attacks",
+      "link": "https://www.securityweek.com/critical-netscaler-vulnerability-exploited-in-attacks/",
+      "summary": "Tracked as CVE-2026-19490, the authentication bypass flaw has been exploited in the wild since at least September 3. The post Critical NetScaler Vulnerability Exploited in Attacks appeared first on SecurityWeek .",
+      "published": "Thu, 10 Sep 2026 12:20:21 +0000",
+      "value_score": 90,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation",
+        "Auth bypass",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Widened Scan Turns Up Fourth Rogue Claude Cyber Incident",
+      "link": "https://www.securityweek.com/widened-scan-turns-up-fourth-rogue-claude-cyber-incident/",
+      "summary": "Anthropic is most concerned about Claude Mythos 5’s reckless behavior after recent incidents in which real systems were hacked. The post Widened Scan Turns Up Fourth Rogue Claude Cyber Incident appeared first on SecurityWeek .",
+      "published": "Thu, 10 Sep 2026 11:52:44 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "4.1 Million Impacted by AdaptHealth Data Breach",
+      "link": "https://www.securityweek.com/4-1-million-impacted-by-adapthealth-data-breach/",
+      "summary": "In June 2026, hackers stole personal, health, and insurance information from AdaptHealth’s systems. The post 4.1 Million Impacted by AdaptHealth Data Breach appeared first on SecurityWeek .",
+      "published": "Thu, 10 Sep 2026 11:20:43 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Organizations Warned of Cisco Secure FMC Exploitation",
+      "link": "https://www.securityweek.com/organizations-warned-of-cisco-secure-fmc-exploitation/",
+      "summary": "Cisco and CISA have flagged exploitation of CVE-2026-20079, a vulnerability disclosed in March 2026. The post Organizations Warned of Cisco Secure FMC Exploitation appeared first on SecurityWeek .",
+      "published": "Thu, 10 Sep 2026 10:06:20 +0000",
+      "value_score": 54,
+      "value_signals": [
+        "CVE mentioned",
+        "CISA/KEV",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "New ‘ShieldCrash’ Zero-Day Exploit Targets Microsoft Defender",
       "link": "https://www.securityweek.com/new-shieldcrash-zero-day-exploit-targets-microsoft-defender/",
       "summary": "The exploit provides full System privileges on Windows machines running the September 2026 patches. The post New ‘ShieldCrash’ Zero-Day Exploit Targets Microsoft Defender appeared first on SecurityWeek .",
@@ -416,67 +490,6 @@
         "CVE mentioned",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "HelmGuard Raises $7.3 Million for Agentic GRC and Security",
-      "link": "https://www.securityweek.com/helmguard-raises-7-3-million-for-agentic-grc-and-security/",
-      "summary": "The company will increase its US market presence and will expand its engineering and go-to-market teams. The post HelmGuard Raises $7.3 Million for Agentic GRC and Security appeared first on SecurityWeek .",
-      "published": "Wed, 09 Sep 2026 17:23:58 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "AI Is Giving Lesser-Resourced Attackers Nation-State-Level Reach, Google Warns",
-      "link": "https://www.securityweek.com/ai-is-giving-lesser-resourced-attackers-nation-state-level-reach-google-warns/",
-      "summary": "Criminal and state-sponsored adversaries are increasingly using AI to automate and scale their attacks, according to GTIG. The post AI Is Giving Lesser-Resourced Attackers Nation-State-Level Reach, Google Warns appeared first on SecurityWeek .",
-      "published": "Wed, 09 Sep 2026 16:56:25 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Android’s September 2026 Updates Patch 180 Vulnerabilities",
-      "link": "https://www.securityweek.com/androids-september-2026-updates-patch-180-vulnerabilities/",
-      "summary": "The security updates resolve critical flaws across Android’s Framework, System, and Kernel components. The post Android’s September 2026 Updates Patch 180 Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Wed, 09 Sep 2026 16:30:40 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Patch/update ×2",
-        "High severity"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Chipmaker Patch Tuesday: Nvidia, AMD, Arm Issue Security Advisories",
-      "link": "https://www.securityweek.com/chipmaker-patch-tuesday-nvidia-amd-arm-issue-security-advisories/",
-      "summary": "Major chipmakers announced patches for vulnerabilities recently discovered in their products. The post Chipmaker Patch Tuesday: Nvidia, AMD, Arm Issue Security Advisories appeared first on SecurityWeek .",
-      "published": "Wed, 09 Sep 2026 16:22:54 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Fortinet Patches Critical Vulnerabilities in FortiMonitorOnSight, Chrome Extension",
-      "link": "https://www.securityweek.com/fortinet-patches-critical-vulnerabilities-in-fortimonitoronsight-chrome-extension/",
-      "summary": "The critical, unauthenticated bugs allow attackers to bypass authentication and proxy a user’s browser traffic. The post Fortinet Patches Critical Vulnerabilities in FortiMonitorOnSight, Chrome Extension appeared first on SecurityWeek .",
-      "published": "Wed, 09 Sep 2026 14:33:52 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "US Agencies Warn China Is Systematically Extracting Frontier AI Capabilities",
-      "link": "https://www.securityweek.com/us-agencies-warn-china-is-systematically-extracting-frontier-ai-capabilities/",
-      "summary": "Distillation is an ‘attack’ against an AI model designed to capture outputs, understand reasoning processes, and subsequently train a different model. The post US Agencies Warn China Is Systematically Extracting Frontier AI Capabilities appeared first on SecurityWeek .",
-      "published": "Wed, 09 Sep 2026 12:32:13 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

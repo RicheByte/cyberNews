@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-09-11 17:41",
+  "last_updated": "2026-09-11 20:20",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "surfshark systems targeted",
+    "national security risk",
     "generative threat group",
-    "cyber espionage group",
     "typing chinese characters",
     "twitter whistleblower complaint",
     "self hosted servers",
-    "security experts warn",
-    "national security risk",
     "legitimate training method",
     "individuals whose licenses",
+    "data governance financials",
     "brevo marketing platform",
+    "security experts warn",
+    "cyber espionage group",
+    "shieldcrash windows exploit",
+    "microsoft 365 services",
     "widely incorporating ai",
     "ai assisted workflow",
-    "data governance financials",
-    "shieldcrash windows exploit",
-    "cyber kill chain",
-    "microsoft 365 services",
     "windows operating systems",
     "large advertising platforms",
-    "high severity vulnerabilities"
+    "high severity vulnerabilities",
+    "who's harvesting data"
   ],
   "trending": [
     {
       "keyword": "surfshark systems targeted",
-      "mentions": 2
-    },
-    {
-      "keyword": "generative threat group",
-      "mentions": 1
-    },
-    {
-      "keyword": "cyber espionage group",
-      "mentions": 1
-    },
-    {
-      "keyword": "typing chinese characters",
       "mentions": 3
     },
     {
+      "keyword": "national security risk",
+      "mentions": 467
+    },
+    {
+      "keyword": "generative threat group",
+      "mentions": 2
+    },
+    {
+      "keyword": "typing chinese characters",
+      "mentions": 4
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2624
+      "mentions": 2625
     },
     {
       "keyword": "self hosted servers",
-      "mentions": 1
-    },
-    {
-      "keyword": "security experts warn",
-      "mentions": 18
-    },
-    {
-      "keyword": "national security risk",
-      "mentions": 466
+      "mentions": 2
     },
     {
       "keyword": "legitimate training method",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "individuals whose licenses",
-      "mentions": 54
+      "mentions": 55
+    },
+    {
+      "keyword": "data governance financials",
+      "mentions": 3
+    },
+    {
+      "keyword": "brevo marketing platform",
+      "mentions": 3
     }
   ],
   "articles": [
@@ -155,6 +155,26 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hackers abused Claude to extract secrets from 1.8M Android apps",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/",
+      "summary": "Anthropic says multiple threat groups, including the financially motivated and state-sponsored espionage groups linked to Russia and China, tried to abuse its Claude AI model for malicious purposes. [...]",
+      "published": "Fri, 11 Sep 2026 16:19:09 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Florida confirms DMV database breached via stolen police account",
+      "link": "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/",
+      "summary": "The Florida Department of Highway Safety and Motor Vehicles (FLHSMV) has confirmed that its DAVID driver database suffered a data breach, saying the attackers gained access using credentials belonging to a police department employee. [...]",
+      "published": "Fri, 11 Sep 2026 15:00:29 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
       "link": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
       "summary": "Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts and steal data from Microsoft 365 services. [...]",
@@ -219,28 +239,6 @@
       "value_signals": [
         "Breach/leak",
         "Phishing ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Conti ransomware gang member sentenced to 4 years in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/",
-      "summary": "A Ukrainian national has been sentenced to four years in prison for his role in Conti ransomware attacks between 2021 and 2022. [...]",
-      "published": "Fri, 11 Sep 2026 02:48:37 -0400",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Android malware encrypts files, steals data, and harasses victims",
-      "link": "https://www.bleepingcomputer.com/news/security/new-android-malware-encrypts-files-steals-data-and-harasses-victims/",
-      "summary": "A new Android malware strain called Mantax Otax combines ransomware and spyware capabilities to encrypt files, steal sensitive data, and spam and harass victims. [...]",
-      "published": "Thu, 10 Sep 2026 17:40:43 -0400",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
       ]
     },
     {
@@ -322,6 +320,45 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Threat Actor Generates 1M Personalized Fraud Emails in 3 Days",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/1m-personalized-fraud-emails-3-days",
+      "summary": "Cybercriminals behind malicious email campaigns no longer have to compromise volume for credibility, or vice versa, thanks to AI.",
+      "published": "Fri, 11 Sep 2026 19:21:08 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "CISA Calls for More Guidance, Less Spin, as Cyber Outages Escalate",
+      "link": "https://www.darkreading.com/cyber-risk/cisa-calls-for-more-guidance-less-spin-as-cyber-outages-escalate",
+      "summary": "A new joint government advisory signals a regulatory shift, pressing organizations to adopt more transparent breach notification and incident response protocols.",
+      "published": "Fri, 11 Sep 2026 18:44:03 GMT",
+      "value_score": 42,
+      "value_signals": [
+        "Breach/leak",
+        "CISA/KEV"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Why AI Is So Good at Scamming Humans",
+      "link": "https://www.darkreading.com/cyber-risk/ai-scamming-humans",
+      "summary": "Fred Heiding of Menlo Park Intelligence talks with the Dark Reading News Desk about his research on frontier models, and their ability to influence human behavior and create emotional dependency.",
+      "published": "Fri, 11 Sep 2026 18:14:06 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "AI Governance Can't Wait",
+      "link": "https://www.darkreading.com/cyber-risk/ai-governance-cannot-wait",
+      "summary": "Adversaries can manipulate AI defensive reasoning to silently compromise target networks.",
+      "published": "Fri, 11 Sep 2026 17:10:56 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Papercut AI Swarm Attack Heralds Changes for Cyber Kill Chain",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/papercut-ai-swarm-attack-cyber-kill-chain",
       "summary": "From creating lab environments for staging and testing agentic attacks to reconnaissance to lateral movement and exfiltration, the most innovative attackers are widely incorporating AI.",
@@ -362,44 +399,6 @@
         "Zero-day",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "EU Cyber Resilience Act to Enforce New Reporting Requirements",
-      "link": "https://www.darkreading.com/cybersecurity-operations/eu-cyber-resilience-act-reporting-requirements",
-      "summary": "Starting Friday, European organizations will have just 24 hours to notify the EU government any time they discover serious product security incidents.",
-      "published": "Thu, 10 Sep 2026 07:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Mythos Vulnerability Firehose Hits a Human Bottleneck",
-      "link": "https://www.darkreading.com/application-security/mythos-vulnerability-firehose-hits-human-bottleneck",
-      "summary": "An analysis of Project Glasswing findings shows only a fraction of the bugs it has discovered have reached disclosure, and an even smaller number have been fixed.",
-      "published": "Wed, 09 Sep 2026 21:19:55 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "US Government Accuses Chinese AI Firms of Distilling Frontier Models",
-      "link": "https://www.darkreading.com/application-security/us-government-chinese-ai-firms-distilling-frontier-models",
-      "summary": "US agencies claim Chinese companies covertly extracted billions of tokens from OpenAI, Anthropic, Google Gemini, and SpaceX's Grok to reduce development costs.",
-      "published": "Wed, 09 Sep 2026 19:47:50 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Identity-Based AI Attack Threatens Security of Enterprise Data",
-      "link": "https://www.darkreading.com/threat-intelligence/identity-based-ai-attack-security-enterprise-data",
-      "summary": "\"Workflow identity hijacking\" can bypass standard security controls and hijack an organization's data by sending a basic request through an unauthenticated entry point.",
-      "published": "Wed, 09 Sep 2026 14:39:44 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

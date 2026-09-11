@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-11 17:41 UTC  
+> **Last Updated:** 2026-09-11 20:20 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**surfshark systems targeted** • **generative threat group** • **cyber espionage group** • **typing chinese characters** • **twitter whistleblower complaint** • **self hosted servers** • **security experts warn** • **national security risk** • **legitimate training method** • **individuals whose licenses** • **brevo marketing platform** • **widely incorporating ai** • **ai assisted workflow** • **data governance financials** • **shieldcrash windows exploit** • **cyber kill chain** • **microsoft 365 services** • **windows operating systems** • **large advertising platforms** • **high severity vulnerabilities**
+**surfshark systems targeted** • **national security risk** • **generative threat group** • **typing chinese characters** • **twitter whistleblower complaint** • **self hosted servers** • **legitimate training method** • **individuals whose licenses** • **data governance financials** • **brevo marketing platform** • **security experts warn** • **cyber espionage group** • **shieldcrash windows exploit** • **microsoft 365 services** • **widely incorporating ai** • **ai assisted workflow** • **windows operating systems** • **large advertising platforms** • **high severity vulnerabilities** • **who's harvesting data**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Hackers abused Claude to extract secrets from 1.8M Android apps](https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/)
+- [Florida confirms DMV database breached via stolen police account](https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/)
 - [Passkey-themed phishing attacks lead to Microsoft 365 data theft](https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/)
 - [Artifactory flaws chained in attacks deploying backdoor malware](https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/)
 - [How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface](https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/)
 - [GitLab urges users to patch max severity path traversal flaw](https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/)
 - [Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/)
 - [Trezor: 347,000 users targeted in phishing attacks after Brevo breach](https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/)
-- [Conti ransomware gang member sentenced to 4 years in prison](https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/)
-- [New Android malware encrypts files, steals data, and harasses victims](https://www.bleepingcomputer.com/news/security/new-android-malware-encrypts-files-steals-data-and-harasses-victims/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Threat Actor Generates 1M Personalized Fraud Emails in 3 Days](https://www.darkreading.com/cyberattacks-data-breaches/1m-personalized-fraud-emails-3-days)
+- [CISA Calls for More Guidance, Less Spin, as Cyber Outages Escalate](https://www.darkreading.com/cyber-risk/cisa-calls-for-more-guidance-less-spin-as-cyber-outages-escalate)
+- [Why AI Is So Good at Scamming Humans](https://www.darkreading.com/cyber-risk/ai-scamming-humans)
+- [AI Governance Can't Wait](https://www.darkreading.com/cyber-risk/ai-governance-cannot-wait)
 - [Papercut AI Swarm Attack Heralds Changes for Cyber Kill Chain](https://www.darkreading.com/cyberattacks-data-breaches/papercut-ai-swarm-attack-cyber-kill-chain)
 - [Indonesia Hit by Android Banking App-Cloning Campaign](https://www.darkreading.com/mobile-security/indonesia-android-banking-app-cloning-campaign)
 - [Voice Callers Exploit BYOD to Reach Microsoft 365, Corporate Data](https://www.darkreading.com/threat-intelligence/voice-callers-exploit-byod-microsoft-365-corporate-data)
 - [Nightmare-Eclipse Strikes Again With 'ShieldCrash' Windows Exploit](https://www.darkreading.com/vulnerabilities-threats/nightmare-eclipse-strikes-again-shieldcrash-windows-exploit)
-- [EU Cyber Resilience Act to Enforce New Reporting Requirements](https://www.darkreading.com/cybersecurity-operations/eu-cyber-resilience-act-reporting-requirements)
-- [Mythos Vulnerability Firehose Hits a Human Bottleneck](https://www.darkreading.com/application-security/mythos-vulnerability-firehose-hits-human-bottleneck)
-- [US Government Accuses Chinese AI Firms of Distilling Frontier Models](https://www.darkreading.com/application-security/us-government-chinese-ai-firms-distilling-frontier-models)
-- [Identity-Based AI Attack Threatens Security of Enterprise Data](https://www.darkreading.com/threat-intelligence/identity-based-ai-attack-security-enterprise-data)
 
 ### Security Week
 

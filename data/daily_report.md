@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-10 22:12 UTC  
+> **Last Updated:** 2026-09-11 02:36 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**widened scan turns** • **second android app** • **endpoint remediation join** • **authentication bypass flaw** • **anthropic researcher resigns** • **artificial intelligence ai** • **september 12 2026** • **least september 3** • **internal test servers** • **gigabud banking trojan** • **unauthenticated remote attacker** • **twitter whistleblower complaint** • **individuals whose licenses** • **impacting cisco citrix** • **frontier pace governance** • **974 cves attackers** • **shieldcrash windows exploit** • **disgruntled researcher continued** • **authentication nearly 1** • **android typically reserves**
+**widened scan turns** • **second android app** • **endpoint remediation join** • **authentication bypass flaw** • **anthropic researcher resigns** • **artificial intelligence ai** • **september 12 2026** • **least september 3** • **internal test servers** • **twitter whistleblower complaint** • **individuals whose licenses** • **impacting cisco citrix** • **frontier pace governance** • **devise exploits targeting** • **android typically reserves** • **974 cves attackers** • **shieldcrash windows exploit** • **disgruntled researcher continued** • **authentication nearly 1** • **security experts warn**
 
 ---
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Indonesia Hit by Android Banking App-Cloning Campaign](https://www.darkreading.com/mobile-security/indonesia-android-banking-app-cloning-campaign)
 - [Voice Callers Exploit BYOD to Reach Microsoft 365, Corporate Data](https://www.darkreading.com/threat-intelligence/voice-callers-exploit-byod-microsoft-365-corporate-data)
 - [Nightmare-Eclipse Strikes Again With 'ShieldCrash' Windows Exploit](https://www.darkreading.com/vulnerabilities-threats/nightmare-eclipse-strikes-again-shieldcrash-windows-exploit)
 - [EU Cyber Resilience Act to Enforce New Reporting Requirements](https://www.darkreading.com/cybersecurity-operations/eu-cyber-resilience-act-reporting-requirements)
@@ -56,7 +57,6 @@
 - [US Government Accuses Chinese AI Firms of Distilling Frontier Models](https://www.darkreading.com/application-security/us-government-chinese-ai-firms-distilling-frontier-models)
 - [Identity-Based AI Attack Threatens Security of Enterprise Data](https://www.darkreading.com/threat-intelligence/identity-based-ai-attack-security-enterprise-data)
 - [Patch Tuesday Sets Another Record With 974 CVEs](https://www.darkreading.com/vulnerabilities-threats/patch-tuesday-another-record-974-cves)
-- [Attackers Use Multi-Hop Google Redirects for Phishing Campaign](https://www.darkreading.com/cyberattacks-data-breaches/attackers-multi-hop-google-redirects-phishing-campaign)
 
 ### Security Week
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10 22:12",
+  "last_updated": "2026-09-11 02:36",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -12,58 +12,58 @@
     "september 12 2026",
     "least september 3",
     "internal test servers",
-    "gigabud banking trojan",
-    "unauthenticated remote attacker",
     "twitter whistleblower complaint",
     "individuals whose licenses",
     "impacting cisco citrix",
     "frontier pace governance",
+    "devise exploits targeting",
+    "android typically reserves",
     "974 cves attackers",
     "shieldcrash windows exploit",
     "disgruntled researcher continued",
     "authentication nearly 1",
-    "android typically reserves"
+    "security experts warn"
   ],
   "trending": [
     {
       "keyword": "widened scan turns",
-      "mentions": 3
-    },
-    {
-      "keyword": "second android app",
-      "mentions": 3
-    },
-    {
-      "keyword": "endpoint remediation join",
-      "mentions": 3
-    },
-    {
-      "keyword": "authentication bypass flaw",
-      "mentions": 49
-    },
-    {
-      "keyword": "anthropic researcher resigns",
-      "mentions": 2
-    },
-    {
-      "keyword": "artificial intelligence ai",
       "mentions": 4
     },
     {
+      "keyword": "second android app",
+      "mentions": 4
+    },
+    {
+      "keyword": "endpoint remediation join",
+      "mentions": 4
+    },
+    {
+      "keyword": "authentication bypass flaw",
+      "mentions": 50
+    },
+    {
+      "keyword": "anthropic researcher resigns",
+      "mentions": 3
+    },
+    {
+      "keyword": "artificial intelligence ai",
+      "mentions": 5
+    },
+    {
       "keyword": "september 12 2026",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "least september 3",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "internal test servers",
-      "mentions": 1
+      "mentions": 2
     },
     {
-      "keyword": "gigabud banking trojan",
-      "mentions": 3
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2621
     }
   ],
   "articles": [
@@ -316,6 +316,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Indonesia Hit by Android Banking App-Cloning Campaign",
+      "link": "https://www.darkreading.com/mobile-security/indonesia-android-banking-app-cloning-campaign",
+      "summary": "The GoldFactory threat group exploits the Android Work Profile feature to deliver the Gigabud Trojan, while Mantax Otax spreads separately.",
+      "published": "Fri, 11 Sep 2026 01:00:00 GMT",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Voice Callers Exploit BYOD to Reach Microsoft 365, Corporate Data",
       "link": "https://www.darkreading.com/threat-intelligence/voice-callers-exploit-byod-microsoft-365-corporate-data",
       "summary": "Threat actors are leveraging Microsoft's Graph API to identify lucrative targets, then passing their access to extortion groups like ShinyHunters.",
@@ -385,17 +396,6 @@
       "value_signals": [
         "Patch/update",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Attackers Use Multi-Hop Google Redirects for Phishing Campaign",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-multi-hop-google-redirects-phishing-campaign",
-      "summary": "Threat actors are abusing multiple Google services to evade detection, ultimately harvesting credentials or installing ScreenConnect remote access.",
-      "published": "Tue, 08 Sep 2026 21:03:46 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
       ]
     },
     {

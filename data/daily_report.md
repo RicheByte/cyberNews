@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-11 08:29 UTC  
+> **Last Updated:** 2026-09-11 13:59 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**authentication bypass vulnerability** • **endpoint remediation join** • **anthropic researcher resigns** • **least september 3** • **cve 2026 19490** • **artificial intelligence ai** • **typing chinese characters** • **twitter whistleblower complaint** • **individuals whose licenses** • **frontier pace governance** • **974 cves attackers** • **security experts warn** • **papercut ng mf** • **disgruntled researcher continued** • **affected users saying** • **today issued updates** • **configuration error exposed** • **papercut flaws exploited** • **shieldcrash windows exploit** • **unauthenticated entry point**
+**authentication bypass vulnerability** • **surfshark systems targeted** • **security experts warn** • **national security risk** • **typing chinese characters** • **twitter whistleblower complaint** • **shieldcrash windows exploit** • **individuals whose licenses** • **data governance financials** • **brevo marketing platform** • **974 cves attackers** • **cve 2026 85706** • **cve 2026 85103** • **cve 2026 85102** • **windows operating systems** • **critical vulnerabilities might** • **configuration error exposed** • **papercut flaws exploited** • **who's harvesting data** • **unauthenticated entry point**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Your Critical Vulnerabilities Might Not Be Your Biggest Risk](https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html)
 - [Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors](https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html)
 - [China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor](https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html)
 - [PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws](https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html)
@@ -23,18 +24,17 @@
 - [ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories](https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html)
 - [Google Play Early Access Abused to Push Thousands of Deceptive Android Apps](https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html)
 - [Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE](https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html)
-- [PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances](https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html)
 
 ### BleepingComputer
 
+- [GitLab urges users to patch max severity path traversal flaw](https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/)
+- [Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/)
 - [Trezor: 347,000 users targeted in phishing attacks after Brevo breach](https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/)
 - [Conti ransomware gang member sentenced to 4 years in prison](https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/)
 - [New Android malware encrypts files, steals data, and harasses victims](https://www.bleepingcomputer.com/news/security/new-android-malware-encrypts-files-steals-data-and-harasses-victims/)
 - [September Windows Server updates break Remote Desktop Services](https://www.bleepingcomputer.com/news/microsoft/september-windows-server-updates-break-remote-desktop-services/)
 - [Surfshark VPN says hackers breached internal testing, proxy servers](https://www.bleepingcomputer.com/news/security/surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers/)
 - [Microsoft Excel KB5002914 update breaks copy and paste for some users](https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users/)
-- [AI-powered attack exploited PaperCut flaws to hack 395 organizations](https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/)
-- [Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers](https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Trezor Says 347,000 Users Received Phishing Emails After Brevo Hack](https://www.securityweek.com/trezor-says-347000-users-received-phishing-emails-after-brevo-hack/)
+- [Ukrainian Conti Ransomware Developer Sentenced to 4 Years in US Prison](https://www.securityweek.com/ukrainian-conti-ransomware-developer-sentenced-to-4-years-in-us-prison/)
+- [Check Point Patches Critical VPN Vulnerabilities](https://www.securityweek.com/check-point-patches-critical-vpn-vulnerabilities/)
+- [Kiteworks Acquires Bonfy.AI to Fill the AI Gap in Data Governance](https://www.securityweek.com/kiteworks-acquires-bonfy-ai-to-fill-the-ai-gap-in-data-governance/)
+- [Surfshark Systems Targeted by Hackers](https://www.securityweek.com/surfshark-systems-targeted-by-hackers/)
+- [Anthropic Says Russian Hackers Used Claude AI to Automate Malware Evasion](https://www.securityweek.com/anthropic-says-russian-hackers-used-claude-ai-to-automate-malware-evasion/)
 - [PaperCut Flaws Exploited in AI-Powered Attacks](https://www.securityweek.com/papercut-flaws-exploited-in-ai-powered-attacks/)
 - [Mandiant Founder Kevin Mandia Joins Amazon Board](https://www.securityweek.com/mandiant-founder-kevin-mandia-joins-amazon-board/)
-- [Cybersecurity M&A Roundup: 33 Deals Announced in August 2026](https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-august-2026/)
-- [Anthropic Researcher Resigns With Warning About the Dangers of AI Development](https://www.securityweek.com/anthropic-researcher-resigns-with-warning-about-the-dangers-of-ai-development/)
-- [Hacker Conversations: Vinnie Liu, Performer Turned Ringmaster](https://www.securityweek.com/hacker-conversations-vinnie-liu-performer-turned-ringmaster/)
-- [Deceptive Android Apps Exploit Google Play Early Access to Evade Reviews](https://www.securityweek.com/deceptive-android-apps-exploit-google-play-early-access-to-evade-reviews/)
-- [Webinar Today: Keep Pace With AI – A New Operating Model for Endpoint Remediation](https://www.securityweek.com/webinar-today-keep-pace-with-ai-a-new-operating-model-for-endpoint-remediation/)
-- [Critical NetScaler Vulnerability Exploited in Attacks](https://www.securityweek.com/critical-netscaler-vulnerability-exploited-in-attacks/)
 
 ### Threatpost
 

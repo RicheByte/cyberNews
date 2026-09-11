@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 747,
+      "count": 748,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -322,11 +322,12 @@
         "2026-08-26",
         "2026-08-27",
         "2026-09-08",
-        "2026-09-09"
+        "2026-09-09",
+        "2026-09-11"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2622,
+      "count": 2623,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1258,7 +1259,7 @@
       ]
     },
     "national security risk": {
-      "count": 464,
+      "count": 465,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1344,7 +1345,8 @@
         "2026-09-07",
         "2026-09-08",
         "2026-09-09",
-        "2026-09-10"
+        "2026-09-10",
+        "2026-09-11"
       ]
     },
     "open source millions": {
@@ -5163,7 +5165,7 @@
       ]
     },
     "authentication bypass vulnerability": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-01-22",
         "2026-01-23",
@@ -20304,7 +20306,7 @@
       ]
     },
     "security experts warn": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -27295,7 +27297,7 @@
       ]
     },
     "who's harvesting data": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-08-14",
         "2026-08-19",
@@ -27303,7 +27305,8 @@
         "2026-09-03",
         "2026-09-07",
         "2026-09-08",
-        "2026-09-09"
+        "2026-09-09",
+        "2026-09-11"
       ]
     },
     "single control plane": {
@@ -29087,7 +29090,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 52,
+      "count": 53,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29781,7 +29784,7 @@
       ]
     },
     "974 cves attackers": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-09-09",
         "2026-09-10",
@@ -29865,7 +29868,7 @@
       ]
     },
     "unauthenticated entry point": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-09-09",
         "2026-09-10",
@@ -30040,7 +30043,7 @@
       ]
     },
     "shieldcrash windows exploit": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-10",
         "2026-09-11"
@@ -30059,7 +30062,7 @@
       ]
     },
     "typing chinese characters": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-11"
       ]
@@ -30083,12 +30086,54 @@
       ]
     },
     "configuration error exposed": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-11"
       ]
     },
     "papercut flaws exploited": {
+      "count": 2,
+      "dates": [
+        "2026-09-11"
+      ]
+    },
+    "surfshark systems targeted": {
+      "count": 1,
+      "dates": [
+        "2026-09-11"
+      ]
+    },
+    "data governance financials": {
+      "count": 1,
+      "dates": [
+        "2026-09-11"
+      ]
+    },
+    "brevo marketing platform": {
+      "count": 1,
+      "dates": [
+        "2026-09-11"
+      ]
+    },
+    "cve 2026 85706": {
+      "count": 1,
+      "dates": [
+        "2026-09-11"
+      ]
+    },
+    "cve 2026 85103": {
+      "count": 1,
+      "dates": [
+        "2026-09-11"
+      ]
+    },
+    "cve 2026 85102": {
+      "count": 1,
+      "dates": [
+        "2026-09-11"
+      ]
+    },
+    "critical vulnerabilities might": {
       "count": 1,
       "dates": [
         "2026-09-11"
@@ -30096,17 +30141,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-24 22:19",
-      "articles": 48,
-      "top_keywords": [
-        "expose internal devices",
-        "atm jackpotting scheme",
-        "spring application framework",
-        "rethinking application security",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-08-25 00:57",
       "articles": 48,
@@ -31194,6 +31228,17 @@
         "anthropic researcher resigns",
         "least september 3",
         "cve 2026 19490"
+      ]
+    },
+    {
+      "timestamp": "2026-09-11 13:59",
+      "articles": 48,
+      "top_keywords": [
+        "authentication bypass vulnerability",
+        "surfshark systems targeted",
+        "security experts warn",
+        "national security risk",
+        "typing chinese characters"
       ]
     }
   ]

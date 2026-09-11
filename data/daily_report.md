@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-11 02:36 UTC  
+> **Last Updated:** 2026-09-11 08:29 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**widened scan turns** • **second android app** • **endpoint remediation join** • **authentication bypass flaw** • **anthropic researcher resigns** • **artificial intelligence ai** • **september 12 2026** • **least september 3** • **internal test servers** • **twitter whistleblower complaint** • **individuals whose licenses** • **impacting cisco citrix** • **frontier pace governance** • **devise exploits targeting** • **android typically reserves** • **974 cves attackers** • **shieldcrash windows exploit** • **disgruntled researcher continued** • **authentication nearly 1** • **security experts warn**
+**authentication bypass vulnerability** • **endpoint remediation join** • **anthropic researcher resigns** • **least september 3** • **cve 2026 19490** • **artificial intelligence ai** • **typing chinese characters** • **twitter whistleblower complaint** • **individuals whose licenses** • **frontier pace governance** • **974 cves attackers** • **security experts warn** • **papercut ng mf** • **disgruntled researcher continued** • **affected users saying** • **today issued updates** • **configuration error exposed** • **papercut flaws exploited** • **shieldcrash windows exploit** • **unauthenticated entry point**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors](https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html)
+- [China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor](https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html)
+- [PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws](https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html)
+- [Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware](https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html)
 - [ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories](https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html)
 - [Google Play Early Access Abused to Push Thousands of Deceptive Android Apps](https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html)
 - [Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE](https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html)
 - [PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances](https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html)
-- [Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks](https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html)
-- [CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline](https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html)
-- [Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example "sk-1234" Admin Key](https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html)
-- [Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6](https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html)
 
 ### BleepingComputer
 
+- [Trezor: 347,000 users targeted in phishing attacks after Brevo breach](https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/)
+- [Conti ransomware gang member sentenced to 4 years in prison](https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/)
 - [New Android malware encrypts files, steals data, and harasses victims](https://www.bleepingcomputer.com/news/security/new-android-malware-encrypts-files-steals-data-and-harasses-victims/)
 - [September Windows Server updates break Remote Desktop Services](https://www.bleepingcomputer.com/news/microsoft/september-windows-server-updates-break-remote-desktop-services/)
 - [Surfshark VPN says hackers breached internal testing, proxy servers](https://www.bleepingcomputer.com/news/security/surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers/)
 - [Microsoft Excel KB5002914 update breaks copy and paste for some users](https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users/)
 - [AI-powered attack exploited PaperCut flaws to hack 395 organizations](https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/)
 - [Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers](https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/)
-- [IDScan confirms breach tied to 153 million stolen driver’s licenses](https://www.bleepingcomputer.com/news/security/idscan-confirms-breach-tied-to-153-million-stolen-drivers-licenses/)
-- [New 'BlueMoon' kit exploited Windows and Chrome zero-day flaws](https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [PaperCut Flaws Exploited in AI-Powered Attacks](https://www.securityweek.com/papercut-flaws-exploited-in-ai-powered-attacks/)
 - [Mandiant Founder Kevin Mandia Joins Amazon Board](https://www.securityweek.com/mandiant-founder-kevin-mandia-joins-amazon-board/)
 - [Cybersecurity M&A Roundup: 33 Deals Announced in August 2026](https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-august-2026/)
 - [Anthropic Researcher Resigns With Warning About the Dangers of AI Development](https://www.securityweek.com/anthropic-researcher-resigns-with-warning-about-the-dangers-of-ai-development/)
@@ -67,7 +68,6 @@
 - [Deceptive Android Apps Exploit Google Play Early Access to Evade Reviews](https://www.securityweek.com/deceptive-android-apps-exploit-google-play-early-access-to-evade-reviews/)
 - [Webinar Today: Keep Pace With AI – A New Operating Model for Endpoint Remediation](https://www.securityweek.com/webinar-today-keep-pace-with-ai-a-new-operating-model-for-endpoint-remediation/)
 - [Critical NetScaler Vulnerability Exploited in Attacks](https://www.securityweek.com/critical-netscaler-vulnerability-exploited-in-attacks/)
-- [Widened Scan Turns Up Fourth Rogue Claude Cyber Incident](https://www.securityweek.com/widened-scan-turns-up-fourth-rogue-claude-cyber-incident/)
 
 ### Threatpost
 

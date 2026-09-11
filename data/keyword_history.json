@@ -326,7 +326,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2621,
+      "count": 2622,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -5163,12 +5163,13 @@
       ]
     },
     "authentication bypass vulnerability": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-01-22",
         "2026-01-23",
         "2026-04-15",
-        "2026-04-16"
+        "2026-04-16",
+        "2026-09-11"
       ]
     },
     "us tech concern": {
@@ -16085,7 +16086,7 @@
       ]
     },
     "artificial intelligence ai": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-05",
         "2026-09-10",
@@ -20303,7 +20304,7 @@
       ]
     },
     "security experts warn": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -29086,7 +29087,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 51,
+      "count": 52,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29780,7 +29781,7 @@
       ]
     },
     "974 cves attackers": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-09-09",
         "2026-09-10",
@@ -29864,10 +29865,11 @@
       ]
     },
     "unauthenticated entry point": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-09",
-        "2026-09-10"
+        "2026-09-10",
+        "2026-09-11"
       ]
     },
     "state sponsored adversaries": {
@@ -29925,7 +29927,7 @@
       ]
     },
     "endpoint remediation join": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-10",
         "2026-09-11"
@@ -29952,7 +29954,7 @@
       ]
     },
     "frontier pace governance": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-10",
         "2026-09-11"
@@ -29965,7 +29967,7 @@
       ]
     },
     "least september 3": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-10",
         "2026-09-11"
@@ -29984,7 +29986,7 @@
       ]
     },
     "anthropic researcher resigns": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-10",
         "2026-09-11"
@@ -30004,7 +30006,7 @@
       ]
     },
     "disgruntled researcher continued": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-10",
         "2026-09-11"
@@ -30038,7 +30040,7 @@
       ]
     },
     "shieldcrash windows exploit": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-10",
         "2026-09-11"
@@ -30049,20 +30051,51 @@
       "dates": [
         "2026-09-11"
       ]
+    },
+    "cve 2026 19490": {
+      "count": 1,
+      "dates": [
+        "2026-09-11"
+      ]
+    },
+    "typing chinese characters": {
+      "count": 1,
+      "dates": [
+        "2026-09-11"
+      ]
+    },
+    "papercut ng mf": {
+      "count": 1,
+      "dates": [
+        "2026-09-11"
+      ]
+    },
+    "affected users saying": {
+      "count": 1,
+      "dates": [
+        "2026-09-11"
+      ]
+    },
+    "today issued updates": {
+      "count": 1,
+      "dates": [
+        "2026-09-11"
+      ]
+    },
+    "configuration error exposed": {
+      "count": 1,
+      "dates": [
+        "2026-09-11"
+      ]
+    },
+    "papercut flaws exploited": {
+      "count": 1,
+      "dates": [
+        "2026-09-11"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-24 20:22",
-      "articles": 48,
-      "top_keywords": [
-        "atm jackpotting scheme",
-        "spring application framework",
-        "rethinking application security",
-        "windows operating systems",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-08-24 22:19",
       "articles": 48,
@@ -31150,6 +31183,17 @@
         "endpoint remediation join",
         "authentication bypass flaw",
         "anthropic researcher resigns"
+      ]
+    },
+    {
+      "timestamp": "2026-09-11 08:29",
+      "articles": 48,
+      "top_keywords": [
+        "authentication bypass vulnerability",
+        "endpoint remediation join",
+        "anthropic researcher resigns",
+        "least september 3",
+        "cve 2026 19490"
       ]
     }
   ]

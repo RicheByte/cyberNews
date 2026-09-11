@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 748,
+      "count": 749,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -327,7 +327,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2623,
+      "count": 2624,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1259,7 +1259,7 @@
       ]
     },
     "national security risk": {
-      "count": 465,
+      "count": 466,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -12857,14 +12857,15 @@
       ]
     },
     "high severity vulnerabilities": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-04-02",
         "2026-04-03",
         "2026-04-29",
         "2026-04-30",
         "2026-05-25",
-        "2026-05-26"
+        "2026-05-26",
+        "2026-09-11"
       ]
     },
     "teams pull deploy": {
@@ -20306,7 +20307,7 @@
       ]
     },
     "security experts warn": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -29090,7 +29091,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 53,
+      "count": 54,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -30043,7 +30044,7 @@
       ]
     },
     "shieldcrash windows exploit": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-10",
         "2026-09-11"
@@ -30062,7 +30063,7 @@
       ]
     },
     "typing chinese characters": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-11"
       ]
@@ -30098,19 +30099,19 @@
       ]
     },
     "surfshark systems targeted": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-11"
       ]
     },
     "data governance financials": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-11"
       ]
     },
     "brevo marketing platform": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-11"
       ]
@@ -30138,20 +30139,63 @@
       "dates": [
         "2026-09-11"
       ]
+    },
+    "generative threat group": {
+      "count": 1,
+      "dates": [
+        "2026-09-11"
+      ]
+    },
+    "cyber espionage group": {
+      "count": 1,
+      "dates": [
+        "2026-09-11"
+      ]
+    },
+    "self hosted servers": {
+      "count": 1,
+      "dates": [
+        "2026-09-11"
+      ]
+    },
+    "legitimate training method": {
+      "count": 1,
+      "dates": [
+        "2026-09-11"
+      ]
+    },
+    "widely incorporating ai": {
+      "count": 1,
+      "dates": [
+        "2026-09-11"
+      ]
+    },
+    "ai assisted workflow": {
+      "count": 1,
+      "dates": [
+        "2026-09-11"
+      ]
+    },
+    "cyber kill chain": {
+      "count": 1,
+      "dates": [
+        "2026-09-11"
+      ]
+    },
+    "microsoft 365 services": {
+      "count": 1,
+      "dates": [
+        "2026-09-11"
+      ]
+    },
+    "large advertising platforms": {
+      "count": 1,
+      "dates": [
+        "2026-09-11"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-25 00:57",
-      "articles": 48,
-      "top_keywords": [
-        "expose internal devices",
-        "atm jackpotting scheme",
-        "spring application framework",
-        "rethinking application security",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-08-25 02:52",
       "articles": 48,
@@ -31239,6 +31283,17 @@
         "security experts warn",
         "national security risk",
         "typing chinese characters"
+      ]
+    },
+    {
+      "timestamp": "2026-09-11 17:41",
+      "articles": 48,
+      "top_keywords": [
+        "surfshark systems targeted",
+        "generative threat group",
+        "cyber espionage group",
+        "typing chinese characters",
+        "twitter whistleblower complaint"
       ]
     }
   ]

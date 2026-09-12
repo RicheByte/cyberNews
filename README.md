@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-11 23:48 UTC |
+| 🕐 Last Updated | 2026-09-12 02:45 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`surfshark systems targeted` • `national security risk` • `generative threat group` • `typing chinese characters` • `twitter whistleblower complaint` • `self hosted servers` • `legitimate training method` • `individuals whose licenses` • `data governance financials` • `brevo marketing platform`
+`national security risk` • `generative threat group` • `typing chinese characters` • `twitter whistleblower complaint` • `self hosted servers` • `legitimate training method` • `individuals whose licenses` • `data governance financials` • `brevo marketing platform` • `security experts warn`
 
 ## 📄 Reports
 

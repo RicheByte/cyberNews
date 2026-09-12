@@ -1,9 +1,8 @@
 {
-  "last_updated": "2026-09-11 23:48",
+  "last_updated": "2026-09-12 02:45",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "surfshark systems targeted",
     "national security risk",
     "generative threat group",
     "typing chinese characters",
@@ -19,51 +18,52 @@
     "microsoft 365 services",
     "widely incorporating ai",
     "ai assisted workflow",
-    "windows operating systems",
     "large advertising platforms",
     "high severity vulnerabilities",
-    "who's harvesting data"
+    "who's harvesting data",
+    "vice versa thanks",
+    "text history records"
   ],
   "trending": [
     {
-      "keyword": "surfshark systems targeted",
-      "mentions": 4
-    },
-    {
       "keyword": "national security risk",
-      "mentions": 468
+      "mentions": 469
     },
     {
       "keyword": "generative threat group",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "typing chinese characters",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2626
+      "mentions": 2627
     },
     {
       "keyword": "self hosted servers",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "legitimate training method",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "individuals whose licenses",
-      "mentions": 56
+      "mentions": 57
     },
     {
       "keyword": "data governance financials",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "brevo marketing platform",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "security experts warn",
+      "mentions": 21
     }
   ],
   "articles": [
@@ -402,6 +402,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Users in Houthi-Held Yemen Tried to Develop Advanced Weapons With AI, Anthropic Says",
+      "link": "https://www.securityweek.com/users-in-houthi-held-yemen-tried-to-develop-advanced-weapons-with-ai-anthropic-says/",
+      "summary": "Anthropic said the users did not succeed in “fielding an operational device” but did carry out a failed test of a guided rocket. The post Users in Houthi-Held Yemen Tried to Develop Advanced Weapons With AI, Anthropic Says appeared first on SecurityWeek .",
+      "published": "Sat, 12 Sep 2026 01:50:53 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Phishing Research Challenges Conventional Security Awareness Testing",
       "link": "https://www.securityweek.com/phishing-research-challenges-conventional-security-awareness-testing/",
       "summary": "Analysis of 2.47 million simulated attacks shows why organizations should measure credential leaks and reporting, not just clicks. The post Phishing Research Challenges Conventional Security Awareness Testing appeared first on SecurityWeek .",
@@ -477,15 +486,6 @@
       "link": "https://www.securityweek.com/kiteworks-acquires-bonfy-ai-to-fill-the-ai-gap-in-data-governance/",
       "summary": "Financials have not been disclosed, but the estimated cost is in the tens of millions of dollars. The post Kiteworks Acquires Bonfy.AI to Fill the AI Gap in Data Governance appeared first on SecurityWeek .",
       "published": "Fri, 11 Sep 2026 10:56:16 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Surfshark Systems Targeted by Hackers",
-      "link": "https://www.securityweek.com/surfshark-systems-targeted-by-hackers/",
-      "summary": "A misconfigured test server containing engineering material, including internal configurations, was accessed by threat actors. The post Surfshark Systems Targeted by Hackers appeared first on SecurityWeek .",
-      "published": "Fri, 11 Sep 2026 09:41:03 +0000",
       "value_score": 10,
       "value_signals": []
     },

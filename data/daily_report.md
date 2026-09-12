@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-11 23:48 UTC  
+> **Last Updated:** 2026-09-12 02:45 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**surfshark systems targeted** • **national security risk** • **generative threat group** • **typing chinese characters** • **twitter whistleblower complaint** • **self hosted servers** • **legitimate training method** • **individuals whose licenses** • **data governance financials** • **brevo marketing platform** • **security experts warn** • **cyber espionage group** • **shieldcrash windows exploit** • **microsoft 365 services** • **widely incorporating ai** • **ai assisted workflow** • **windows operating systems** • **large advertising platforms** • **high severity vulnerabilities** • **who's harvesting data**
+**national security risk** • **generative threat group** • **typing chinese characters** • **twitter whistleblower complaint** • **self hosted servers** • **legitimate training method** • **individuals whose licenses** • **data governance financials** • **brevo marketing platform** • **security experts warn** • **cyber espionage group** • **shieldcrash windows exploit** • **microsoft 365 services** • **widely incorporating ai** • **ai assisted workflow** • **large advertising platforms** • **high severity vulnerabilities** • **who's harvesting data** • **vice versa thanks** • **text history records**
 
 ---
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Users in Houthi-Held Yemen Tried to Develop Advanced Weapons With AI, Anthropic Says](https://www.securityweek.com/users-in-houthi-held-yemen-tried-to-develop-advanced-weapons-with-ai-anthropic-says/)
 - [Phishing Research Challenges Conventional Security Awareness Testing](https://www.securityweek.com/phishing-research-challenges-conventional-security-awareness-testing/)
 - [GitLab Vulnerability Exploited One Day After Disclosure](https://www.securityweek.com/gitlab-vulnerability-exploited-one-day-after-disclosure/)
 - [In Other News: InjectEave Attack, SIM Swapper Sentenced, Glasswing Findings Review](https://www.securityweek.com/in-other-news-injecteave-attack-sim-swapper-sentenced-glasswing-findings-review/)
@@ -67,7 +68,6 @@
 - [Ukrainian Conti Ransomware Developer Sentenced to 4 Years in US Prison](https://www.securityweek.com/ukrainian-conti-ransomware-developer-sentenced-to-4-years-in-us-prison/)
 - [Check Point Patches Critical VPN Vulnerabilities](https://www.securityweek.com/check-point-patches-critical-vpn-vulnerabilities/)
 - [Kiteworks Acquires Bonfy.AI to Fill the AI Gap in Data Governance](https://www.securityweek.com/kiteworks-acquires-bonfy-ai-to-fill-the-ai-gap-in-data-governance/)
-- [Surfshark Systems Targeted by Hackers](https://www.securityweek.com/surfshark-systems-targeted-by-hackers/)
 
 ### Threatpost
 

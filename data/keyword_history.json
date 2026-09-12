@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 752,
+      "count": 753,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -328,7 +328,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2629,
+      "count": 2630,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1261,7 +1261,7 @@
       ]
     },
     "national security risk": {
-      "count": 471,
+      "count": 472,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -12860,7 +12860,7 @@
       ]
     },
     "high severity vulnerabilities": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-04-02",
         "2026-04-03",
@@ -20311,7 +20311,7 @@
       ]
     },
     "security experts warn": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -26428,7 +26428,7 @@
       ]
     },
     "text history records": {
-      "count": 183,
+      "count": 184,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -29012,7 +29012,7 @@
       ]
     },
     "longest running spree": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-09-01",
         "2026-09-04",
@@ -29099,7 +29099,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 59,
+      "count": 60,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -30053,7 +30053,7 @@
       ]
     },
     "shieldcrash windows exploit": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-09-10",
         "2026-09-11",
@@ -30123,7 +30123,7 @@
       ]
     },
     "brevo marketing platform": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-09-11",
         "2026-09-12"
@@ -30154,21 +30154,21 @@
       ]
     },
     "generative threat group": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-09-11",
         "2026-09-12"
       ]
     },
     "cyber espionage group": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-09-11",
         "2026-09-12"
       ]
     },
     "self hosted servers": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-09-11",
         "2026-09-12"
@@ -30182,65 +30182,54 @@
       ]
     },
     "widely incorporating ai": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-09-11",
         "2026-09-12"
       ]
     },
     "ai assisted workflow": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-09-11",
         "2026-09-12"
       ]
     },
     "cyber kill chain": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-11",
         "2026-09-12"
       ]
     },
     "microsoft 365 services": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-09-11",
         "2026-09-12"
       ]
     },
     "large advertising platforms": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-09-11",
         "2026-09-12"
       ]
     },
     "vice versa thanks": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-12"
       ]
     },
     "take administrator control": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-12"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-25 12:36",
-      "articles": 48,
-      "top_keywords": [
-        "oracle weblogic server",
-        "taiwan charges 9",
-        "leaving defenders without",
-        "twitter whistleblower complaint",
-        "expose internal devices"
-      ]
-    },
     {
       "timestamp": "2026-08-25 14:38",
       "articles": 48,
@@ -31328,6 +31317,17 @@
         "shieldcrash windows exploit",
         "twitter whistleblower complaint",
         "longest running spree"
+      ]
+    },
+    {
+      "timestamp": "2026-09-12 16:40",
+      "articles": 48,
+      "top_keywords": [
+        "national security risk",
+        "generative threat group",
+        "shieldcrash windows exploit",
+        "brevo marketing platform",
+        "twitter whistleblower complaint"
       ]
     }
   ]

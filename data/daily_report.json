@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-09-12 13:18",
+  "last_updated": "2026-09-12 16:40",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "national security risk",
     "generative threat group",
     "shieldcrash windows exploit",
+    "brevo marketing platform",
     "twitter whistleblower complaint",
     "longest running spree",
     "individuals whose licenses",
     "cyber kill chain",
-    "brevo marketing platform",
     "security experts warn",
     "cyber espionage group",
     "self hosted servers",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "national security risk",
-      "mentions": 471
+      "mentions": 472
     },
     {
       "keyword": "generative threat group",
-      "mentions": 6
-    },
-    {
-      "keyword": "shieldcrash windows exploit",
-      "mentions": 10
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2629
-    },
-    {
-      "keyword": "longest running spree",
-      "mentions": 20
-    },
-    {
-      "keyword": "individuals whose licenses",
-      "mentions": 59
-    },
-    {
-      "keyword": "cyber kill chain",
-      "mentions": 2
-    },
-    {
-      "keyword": "brevo marketing platform",
       "mentions": 7
     },
     {
+      "keyword": "shieldcrash windows exploit",
+      "mentions": 11
+    },
+    {
+      "keyword": "brevo marketing platform",
+      "mentions": 8
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2630
+    },
+    {
+      "keyword": "longest running spree",
+      "mentions": 21
+    },
+    {
+      "keyword": "individuals whose licenses",
+      "mentions": 60
+    },
+    {
+      "keyword": "cyber kill chain",
+      "mentions": 3
+    },
+    {
       "keyword": "security experts warn",
-      "mentions": 23
+      "mentions": 24
     },
     {
       "keyword": "cyber espionage group",
-      "mentions": 6
+      "mentions": 7
     }
   ],
   "articles": [
@@ -151,6 +151,20 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent",
+      "link": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
+      "summary": "The Dutch Nationaal Cyber Security Centrum (NCSC) is warning of imminent exploitation of two critical flaws in Check Point VPN tracked as CVE-2026-85102 and CVE-2026-85103. [...]",
+      "published": "Sat, 12 Sep 2026 10:14:32 -0400",
+      "value_score": 76,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "High severity ×2",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Hackers abused Claude to extract secrets from 1.8M Android apps",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/",
       "summary": "Anthropic says multiple threat groups, including the financially motivated and state-sponsored espionage groups linked to Russia and China, tried to abuse its Claude AI model for malicious purposes. [...]",
@@ -223,18 +237,6 @@
       "value_score": 26,
       "value_signals": [
         "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Trezor: 347,000 users targeted in phishing attacks after Brevo breach",
-      "link": "https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/",
-      "summary": "Trezor has revealed that phishing attacks against its customers earlier this week targeted 347,000 email addresses and affected 2,500 users who clicked an embedded malicious link. [...]",
-      "published": "Fri, 11 Sep 2026 03:55:15 -0400",
-      "value_score": 38,
-      "value_signals": [
-        "Breach/leak",
-        "Phishing ×2"
       ]
     },
     {

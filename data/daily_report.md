@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-12 13:18 UTC  
+> **Last Updated:** 2026-09-12 16:40 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**national security risk** • **generative threat group** • **shieldcrash windows exploit** • **twitter whistleblower complaint** • **longest running spree** • **individuals whose licenses** • **cyber kill chain** • **brevo marketing platform** • **security experts warn** • **cyber espionage group** • **self hosted servers** • **windows operating systems** • **microsoft 365 services** • **widely incorporating ai** • **ai assisted workflow** • **large advertising platforms** • **high severity vulnerabilities** • **vice versa thanks** • **text history records** • **take administrator control**
+**national security risk** • **generative threat group** • **shieldcrash windows exploit** • **brevo marketing platform** • **twitter whistleblower complaint** • **longest running spree** • **individuals whose licenses** • **cyber kill chain** • **security experts warn** • **cyber espionage group** • **self hosted servers** • **windows operating systems** • **microsoft 365 services** • **widely incorporating ai** • **ai assisted workflow** • **large advertising platforms** • **high severity vulnerabilities** • **vice versa thanks** • **text history records** • **take administrator control**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent](https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/)
 - [Hackers abused Claude to extract secrets from 1.8M Android apps](https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/)
 - [Florida confirms DMV database breached via stolen police account](https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/)
 - [Passkey-themed phishing attacks lead to Microsoft 365 data theft](https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/)
@@ -34,7 +35,6 @@
 - [How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface](https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/)
 - [GitLab urges users to patch max severity path traversal flaw](https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/)
 - [Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/)
-- [Trezor: 347,000 users targeted in phishing attacks after Brevo breach](https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/)
 
 ### Krebs on Security
 

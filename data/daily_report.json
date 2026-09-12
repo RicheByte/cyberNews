@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12 16:40",
+  "last_updated": "2026-09-12 20:03",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -8,12 +8,12 @@
     "shieldcrash windows exploit",
     "brevo marketing platform",
     "twitter whistleblower complaint",
+    "security experts warn",
+    "repository commits api",
     "longest running spree",
     "individuals whose licenses",
     "cyber kill chain",
-    "security experts warn",
     "cyber espionage group",
-    "self hosted servers",
     "windows operating systems",
     "microsoft 365 services",
     "widely incorporating ai",
@@ -22,51 +22,65 @@
     "high severity vulnerabilities",
     "vice versa thanks",
     "text history records",
-    "take administrator control"
+    "sydney von arx"
   ],
   "trending": [
     {
       "keyword": "national security risk",
-      "mentions": 472
+      "mentions": 473
     },
     {
       "keyword": "generative threat group",
-      "mentions": 7
-    },
-    {
-      "keyword": "shieldcrash windows exploit",
-      "mentions": 11
-    },
-    {
-      "keyword": "brevo marketing platform",
       "mentions": 8
     },
     {
+      "keyword": "shieldcrash windows exploit",
+      "mentions": 12
+    },
+    {
+      "keyword": "brevo marketing platform",
+      "mentions": 9
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2630
-    },
-    {
-      "keyword": "longest running spree",
-      "mentions": 21
-    },
-    {
-      "keyword": "individuals whose licenses",
-      "mentions": 60
-    },
-    {
-      "keyword": "cyber kill chain",
-      "mentions": 3
+      "mentions": 2631
     },
     {
       "keyword": "security experts warn",
-      "mentions": 24
+      "mentions": 25
     },
     {
-      "keyword": "cyber espionage group",
-      "mentions": 7
+      "keyword": "repository commits api",
+      "mentions": 1
+    },
+    {
+      "keyword": "longest running spree",
+      "mentions": 22
+    },
+    {
+      "keyword": "individuals whose licenses",
+      "mentions": 61
+    },
+    {
+      "keyword": "cyber kill chain",
+      "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
+      "link": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild. Details of the vulnerabilities are as follows - CVE-2026-42016 (CVSS score: 8.1) - An incorrect authorization",
+      "published": "Sat, 12 Sep 2026 21:24:45 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation ×2",
+        "CISA/KEV ×5",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
@@ -136,17 +150,6 @@
       "value_score": 26,
       "value_signals": [
         "High severity ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors",
-      "link": "https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html",
-      "summary": "Attackers have chained two flaws in JFrog Artifactory, the repository that software build pipelines pull from, to take administrator control of self-hosted servers and plant backdoors, cloud security company Wiz said in a report. Wiz saw the attacks between August 15 and September 8. JFrog had fixed both flaws before then, so only servers that had not been updated were open to them.",
-      "published": "Fri, 11 Sep 2026 13:01:05 +0530",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
       ]
     },
     {

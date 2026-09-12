@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-12 16:40 UTC  
+> **Last Updated:** 2026-09-12 20:03 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**national security risk** • **generative threat group** • **shieldcrash windows exploit** • **brevo marketing platform** • **twitter whistleblower complaint** • **longest running spree** • **individuals whose licenses** • **cyber kill chain** • **security experts warn** • **cyber espionage group** • **self hosted servers** • **windows operating systems** • **microsoft 365 services** • **widely incorporating ai** • **ai assisted workflow** • **large advertising platforms** • **high severity vulnerabilities** • **vice versa thanks** • **text history records** • **take administrator control**
+**national security risk** • **generative threat group** • **shieldcrash windows exploit** • **brevo marketing platform** • **twitter whistleblower complaint** • **security experts warn** • **repository commits api** • **longest running spree** • **individuals whose licenses** • **cyber kill chain** • **cyber espionage group** • **windows operating systems** • **microsoft 365 services** • **widely incorporating ai** • **ai assisted workflow** • **large advertising platforms** • **high severity vulnerabilities** • **vice versa thanks** • **text history records** • **sydney von arx**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV](https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html)
 - [When the Whole Company Adopts AI: What It Does to Your SOC](https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html)
 - [OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers](https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html)
 - [GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure](https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html)
@@ -23,7 +24,6 @@
 - [Claude Used to Automate Exploitation and Data Theft Across Multiple Victims](https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html)
 - [Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection](https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html)
 - [Your Critical Vulnerabilities Might Not Be Your Biggest Risk](https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html)
-- [Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors](https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html)
 
 ### BleepingComputer
 

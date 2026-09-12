@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-12 08:17 UTC  
+> **Last Updated:** 2026-09-12 13:18 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**national security risk** • **generative threat group** • **typing chinese characters** • **twitter whistleblower complaint** • **self hosted servers** • **legitimate training method** • **individuals whose licenses** • **data governance financials** • **brevo marketing platform** • **security experts warn** • **cyber espionage group** • **shieldcrash windows exploit** • **microsoft 365 services** • **widely incorporating ai** • **ai assisted workflow** • **large advertising platforms** • **high severity vulnerabilities** • **who's harvesting data** • **vice versa thanks** • **text history records**
+**national security risk** • **generative threat group** • **shieldcrash windows exploit** • **twitter whistleblower complaint** • **longest running spree** • **individuals whose licenses** • **cyber kill chain** • **brevo marketing platform** • **security experts warn** • **cyber espionage group** • **self hosted servers** • **windows operating systems** • **microsoft 365 services** • **widely incorporating ai** • **ai assisted workflow** • **large advertising platforms** • **high severity vulnerabilities** • **vice versa thanks** • **text history records** • **take administrator control**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [When the Whole Company Adopts AI: What It Does to Your SOC](https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html)
+- [OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers](https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html)
 - [GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure](https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html)
 - [Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks](https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html)
 - [Claude Used to Automate Exploitation and Data Theft Across Multiple Victims](https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html)
 - [Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection](https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html)
 - [Your Critical Vulnerabilities Might Not Be Your Biggest Risk](https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html)
 - [Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors](https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html)
-- [China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor](https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html)
-- [PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws](https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html)
 
 ### BleepingComputer
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [BlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Days](https://www.securityweek.com/bluemoon-exploit-kit-chains-recent-chrome-windows-zero-days/)
 - [Users in Houthi-Held Yemen Tried to Develop Advanced Weapons With AI, Anthropic Says](https://www.securityweek.com/users-in-houthi-held-yemen-tried-to-develop-advanced-weapons-with-ai-anthropic-says/)
 - [Phishing Research Challenges Conventional Security Awareness Testing](https://www.securityweek.com/phishing-research-challenges-conventional-security-awareness-testing/)
 - [GitLab Vulnerability Exploited One Day After Disclosure](https://www.securityweek.com/gitlab-vulnerability-exploited-one-day-after-disclosure/)
@@ -67,7 +68,6 @@
 - [Trezor Says 347,000 Users Received Phishing Emails After Brevo Hack](https://www.securityweek.com/trezor-says-347000-users-received-phishing-emails-after-brevo-hack/)
 - [Ukrainian Conti Ransomware Developer Sentenced to 4 Years in US Prison](https://www.securityweek.com/ukrainian-conti-ransomware-developer-sentenced-to-4-years-in-us-prison/)
 - [Check Point Patches Critical VPN Vulnerabilities](https://www.securityweek.com/check-point-patches-critical-vpn-vulnerabilities/)
-- [Kiteworks Acquires Bonfy.AI to Fill the AI Gap in Data Governance](https://www.securityweek.com/kiteworks-acquires-bonfy-ai-to-fill-the-ai-gap-in-data-governance/)
 
 ### Threatpost
 

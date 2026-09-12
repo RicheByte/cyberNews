@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 751,
+      "count": 752,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -323,11 +323,12 @@
         "2026-08-27",
         "2026-09-08",
         "2026-09-09",
-        "2026-09-11"
+        "2026-09-11",
+        "2026-09-12"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2628,
+      "count": 2629,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1260,7 +1261,7 @@
       ]
     },
     "national security risk": {
-      "count": 470,
+      "count": 471,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -12859,7 +12860,7 @@
       ]
     },
     "high severity vulnerabilities": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-04-02",
         "2026-04-03",
@@ -20310,7 +20311,7 @@
       ]
     },
     "security experts warn": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -26427,7 +26428,7 @@
       ]
     },
     "text history records": {
-      "count": 182,
+      "count": 183,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -29011,14 +29012,15 @@
       ]
     },
     "longest running spree": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-09-01",
         "2026-09-04",
         "2026-09-05",
         "2026-09-06",
         "2026-09-09",
-        "2026-09-10"
+        "2026-09-10",
+        "2026-09-12"
       ]
     },
     "external actors attempted": {
@@ -29097,7 +29099,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 58,
+      "count": 59,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -30051,7 +30053,7 @@
       ]
     },
     "shieldcrash windows exploit": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-09-10",
         "2026-09-11",
@@ -30121,7 +30123,7 @@
       ]
     },
     "brevo marketing platform": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-09-11",
         "2026-09-12"
@@ -30152,21 +30154,21 @@
       ]
     },
     "generative threat group": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-11",
         "2026-09-12"
       ]
     },
     "cyber espionage group": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-11",
         "2026-09-12"
       ]
     },
     "self hosted servers": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-11",
         "2026-09-12"
@@ -30180,58 +30182,54 @@
       ]
     },
     "widely incorporating ai": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-11",
         "2026-09-12"
       ]
     },
     "ai assisted workflow": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-11",
         "2026-09-12"
       ]
     },
     "cyber kill chain": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-09-11"
+        "2026-09-11",
+        "2026-09-12"
       ]
     },
     "microsoft 365 services": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-11",
         "2026-09-12"
       ]
     },
     "large advertising platforms": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-11",
         "2026-09-12"
       ]
     },
     "vice versa thanks": {
-      "count": 2,
+      "count": 3,
+      "dates": [
+        "2026-09-12"
+      ]
+    },
+    "take administrator control": {
+      "count": 1,
       "dates": [
         "2026-09-12"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-25 10:24",
-      "articles": 48,
-      "top_keywords": [
-        "expose internal devices",
-        "atm jackpotting scheme",
-        "oracle weblogic server",
-        "leaving defenders without",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-08-25 12:36",
       "articles": 48,
@@ -31319,6 +31317,17 @@
         "typing chinese characters",
         "twitter whistleblower complaint",
         "self hosted servers"
+      ]
+    },
+    {
+      "timestamp": "2026-09-12 13:18",
+      "articles": 48,
+      "top_keywords": [
+        "national security risk",
+        "generative threat group",
+        "shieldcrash windows exploit",
+        "twitter whistleblower complaint",
+        "longest running spree"
       ]
     }
   ]

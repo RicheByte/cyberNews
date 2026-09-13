@@ -329,7 +329,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2635,
+      "count": 2636,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1263,7 +1263,7 @@
       ]
     },
     "national security risk": {
-      "count": 477,
+      "count": 478,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -12863,7 +12863,7 @@
       ]
     },
     "high severity vulnerabilities": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-04-02",
         "2026-04-03",
@@ -20315,7 +20315,7 @@
       ]
     },
     "security experts warn": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -24702,7 +24702,7 @@
       ]
     },
     "turn one's television": {
-      "count": 243,
+      "count": 244,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -24744,7 +24744,8 @@
         "2026-09-05",
         "2026-09-08",
         "2026-09-09",
-        "2026-09-10"
+        "2026-09-10",
+        "2026-09-13"
       ]
     },
     "anthropic's claude cowork": {
@@ -26433,7 +26434,7 @@
       ]
     },
     "text history records": {
-      "count": 188,
+      "count": 189,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -29018,7 +29019,7 @@
       ]
     },
     "longest running spree": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-09-01",
         "2026-09-04",
@@ -29106,7 +29107,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 65,
+      "count": 66,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -30132,7 +30133,7 @@
       ]
     },
     "brevo marketing platform": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-09-11",
         "2026-09-12",
@@ -30164,7 +30165,7 @@
       ]
     },
     "generative threat group": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-09-11",
         "2026-09-12",
@@ -30172,7 +30173,7 @@
       ]
     },
     "cyber espionage group": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-09-11",
         "2026-09-12",
@@ -30187,14 +30188,15 @@
       ]
     },
     "legitimate training method": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-11",
-        "2026-09-12"
+        "2026-09-12",
+        "2026-09-13"
       ]
     },
     "widely incorporating ai": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-09-11",
         "2026-09-12",
@@ -30202,7 +30204,7 @@
       ]
     },
     "ai assisted workflow": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-09-11",
         "2026-09-12",
@@ -30210,7 +30212,7 @@
       ]
     },
     "cyber kill chain": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-09-11",
         "2026-09-12",
@@ -30218,7 +30220,7 @@
       ]
     },
     "microsoft 365 services": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-09-11",
         "2026-09-12",
@@ -30226,7 +30228,7 @@
       ]
     },
     "large advertising platforms": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-09-11",
         "2026-09-12",
@@ -30234,7 +30236,7 @@
       ]
     },
     "vice versa thanks": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-09-12",
         "2026-09-13"
@@ -30247,7 +30249,7 @@
       ]
     },
     "repository commits api": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-12",
         "2026-09-13"
@@ -30261,7 +30263,7 @@
       ]
     },
     "send phishing emails": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-13"
       ]
@@ -30274,17 +30276,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-26 00:58",
-      "articles": 48,
-      "top_keywords": [
-        "alice raises 140m",
-        "abuse legitimate services",
-        "taiwan charges 9",
-        "leaving defenders without",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-08-26 02:58",
       "articles": 48,
@@ -31369,6 +31360,17 @@
       "top_keywords": [
         "generative threat group",
         "shieldcrash windows exploit",
+        "brevo marketing platform",
+        "twitter whistleblower complaint",
+        "repository commits api"
+      ]
+    },
+    {
+      "timestamp": "2026-09-13 18:28",
+      "articles": 48,
+      "top_keywords": [
+        "cyber espionage group",
+        "generative threat group",
         "brevo marketing platform",
         "twitter whistleblower complaint",
         "repository commits api"

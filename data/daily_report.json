@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-09-13 14:01",
+  "last_updated": "2026-09-13 18:28",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
+    "cyber espionage group",
     "generative threat group",
-    "shieldcrash windows exploit",
     "brevo marketing platform",
     "twitter whistleblower complaint",
     "repository commits api",
     "longest running spree",
+    "legitimate training method",
     "individuals whose licenses",
     "cyber kill chain",
     "security experts warn",
     "national security risk",
-    "cyber espionage group",
     "send phishing emails",
-    "microsoft 365 services",
     "widely incorporating ai",
     "ai assisted workflow",
-    "windows operating systems",
+    "microsoft 365 services",
     "large advertising platforms",
     "high severity vulnerabilities",
-    "exfiltrate data microsoft",
-    "vice versa thanks"
+    "vice versa thanks",
+    "turn one's television",
+    "text history records"
   ],
   "trending": [
     {
-      "keyword": "generative threat group",
-      "mentions": 12
-    },
-    {
-      "keyword": "shieldcrash windows exploit",
-      "mentions": 16
-    },
-    {
-      "keyword": "brevo marketing platform",
+      "keyword": "cyber espionage group",
       "mentions": 13
     },
     {
+      "keyword": "generative threat group",
+      "mentions": 13
+    },
+    {
+      "keyword": "brevo marketing platform",
+      "mentions": 14
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2635
+      "mentions": 2636
     },
     {
       "keyword": "repository commits api",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "longest running spree",
-      "mentions": 26
+      "mentions": 27
+    },
+    {
+      "keyword": "legitimate training method",
+      "mentions": 6
     },
     {
       "keyword": "individuals whose licenses",
-      "mentions": 65
+      "mentions": 66
     },
     {
       "keyword": "cyber kill chain",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "security experts warn",
-      "mentions": 29
-    },
-    {
-      "keyword": "national security risk",
-      "mentions": 477
+      "mentions": 30
     }
   ],
   "articles": [
@@ -155,6 +155,20 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/",
+      "summary": "Threat actors linked to a China-aligned espionage group are exploiting a critical vulnerability (CVE-2026-51990) in Tencent's Sogou Input Method for Windows to deploy the GrayRabbit backdoor. [...]",
+      "published": "Sun, 13 Sep 2026 10:26:32 -0400",
+      "value_score": 54,
+      "value_signals": [
+        "CVE mentioned",
+        "Backdoor",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent",
       "link": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
       "summary": "The Dutch Nationaal Cyber Security Centrum (NCSC) is warning of imminent exploitation of two critical flaws in Check Point VPN tracked as CVE-2026-85102 and CVE-2026-85103. [...]",
@@ -229,17 +243,6 @@
       "value_score": 44,
       "value_signals": [
         "CVE mentioned",
-        "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/",
-      "summary": "Microsoft has fixed a bug that prevented Teams and Outlook from launching on ARM-based Windows devices after installing updates released since the August 2026 Patch Tuesday. [...]",
-      "published": "Fri, 11 Sep 2026 05:39:37 -0400",
-      "value_score": 26,
-      "value_signals": [
         "Patch/update ×2"
       ]
     },

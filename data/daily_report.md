@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-13 14:01 UTC  
+> **Last Updated:** 2026-09-13 18:28 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**generative threat group** • **shieldcrash windows exploit** • **brevo marketing platform** • **twitter whistleblower complaint** • **repository commits api** • **longest running spree** • **individuals whose licenses** • **cyber kill chain** • **security experts warn** • **national security risk** • **cyber espionage group** • **send phishing emails** • **microsoft 365 services** • **widely incorporating ai** • **ai assisted workflow** • **windows operating systems** • **large advertising platforms** • **high severity vulnerabilities** • **exfiltrate data microsoft** • **vice versa thanks**
+**cyber espionage group** • **generative threat group** • **brevo marketing platform** • **twitter whistleblower complaint** • **repository commits api** • **longest running spree** • **legitimate training method** • **individuals whose licenses** • **cyber kill chain** • **security experts warn** • **national security risk** • **send phishing emails** • **widely incorporating ai** • **ai assisted workflow** • **microsoft 365 services** • **large advertising platforms** • **high severity vulnerabilities** • **vice versa thanks** • **turn one's television** • **text history records**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Hackers exploit Tencent app flaw to deploy GrayRabbit malware](https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/)
 - [Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent](https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/)
 - [Hackers abused Claude to extract secrets from 1.8M Android apps](https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/)
 - [Florida confirms DMV database breached via stolen police account](https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/)
@@ -34,7 +35,6 @@
 - [Artifactory flaws chained in attacks deploying backdoor malware](https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/)
 - [How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface](https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/)
 - [GitLab urges users to patch max severity path traversal flaw](https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/)
-- [Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/)
 
 ### Krebs on Security
 

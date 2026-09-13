@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-13 08:42 UTC  
+> **Last Updated:** 2026-09-13 14:01 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**national security risk** • **generative threat group** • **shieldcrash windows exploit** • **brevo marketing platform** • **twitter whistleblower complaint** • **security experts warn** • **repository commits api** • **longest running spree** • **individuals whose licenses** • **cyber kill chain** • **cyber espionage group** • **windows operating systems** • **microsoft 365 services** • **widely incorporating ai** • **ai assisted workflow** • **large advertising platforms** • **high severity vulnerabilities** • **vice versa thanks** • **text history records** • **sydney von arx**
+**generative threat group** • **shieldcrash windows exploit** • **brevo marketing platform** • **twitter whistleblower complaint** • **repository commits api** • **longest running spree** • **individuals whose licenses** • **cyber kill chain** • **security experts warn** • **national security risk** • **cyber espionage group** • **send phishing emails** • **microsoft 365 services** • **widely incorporating ai** • **ai assisted workflow** • **windows operating systems** • **large advertising platforms** • **high severity vulnerabilities** • **exfiltrate data microsoft** • **vice versa thanks**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data](https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html)
 - [CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV](https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html)
 - [When the Whole Company Adopts AI: What It Does to Your SOC](https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html)
 - [OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers](https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html)
@@ -23,7 +24,6 @@
 - [Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks](https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html)
 - [Claude Used to Automate Exploitation and Data Theft Across Multiple Victims](https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html)
 - [Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection](https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html)
-- [Your Critical Vulnerabilities Might Not Be Your Biggest Risk](https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html)
 
 ### BleepingComputer
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Anthropic CEO Dario Amodei Says AI Industry Needs to Give Safety Measures Time to Catch Up](https://www.securityweek.com/anthropic-ceo-dario-amodei-says-ai-industry-needs-to-give-safety-measures-time-to-catch-up/)
 - [BlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Days](https://www.securityweek.com/bluemoon-exploit-kit-chains-recent-chrome-windows-zero-days/)
 - [Users in Houthi-Held Yemen Tried to Develop Advanced Weapons With AI, Anthropic Says](https://www.securityweek.com/users-in-houthi-held-yemen-tried-to-develop-advanced-weapons-with-ai-anthropic-says/)
 - [Phishing Research Challenges Conventional Security Awareness Testing](https://www.securityweek.com/phishing-research-challenges-conventional-security-awareness-testing/)
@@ -67,7 +68,6 @@
 - [In Other News: InjectEave Attack, SIM Swapper Sentenced, Glasswing Findings Review](https://www.securityweek.com/in-other-news-injecteave-attack-sim-swapper-sentenced-glasswing-findings-review/)
 - [Trezor Says 347,000 Users Received Phishing Emails After Brevo Hack](https://www.securityweek.com/trezor-says-347000-users-received-phishing-emails-after-brevo-hack/)
 - [Ukrainian Conti Ransomware Developer Sentenced to 4 Years in US Prison](https://www.securityweek.com/ukrainian-conti-ransomware-developer-sentenced-to-4-years-in-us-prison/)
-- [Check Point Patches Critical VPN Vulnerabilities](https://www.securityweek.com/check-point-patches-critical-vpn-vulnerabilities/)
 
 ### Threatpost
 

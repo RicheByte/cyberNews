@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-13 08:42 UTC |
+| 🕐 Last Updated | 2026-09-13 14:01 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`national security risk` • `generative threat group` • `shieldcrash windows exploit` • `brevo marketing platform` • `twitter whistleblower complaint` • `security experts warn` • `repository commits api` • `longest running spree` • `individuals whose licenses` • `cyber kill chain`
+`generative threat group` • `shieldcrash windows exploit` • `brevo marketing platform` • `twitter whistleblower complaint` • `repository commits api` • `longest running spree` • `individuals whose licenses` • `cyber kill chain` • `security experts warn` • `national security risk`
 
 ## 📄 Reports
 

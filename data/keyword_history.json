@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 757,
+      "count": 758,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -329,7 +329,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2634,
+      "count": 2635,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1263,7 +1263,7 @@
       ]
     },
     "national security risk": {
-      "count": 476,
+      "count": 477,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -12863,7 +12863,7 @@
       ]
     },
     "high severity vulnerabilities": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-04-02",
         "2026-04-03",
@@ -20315,7 +20315,7 @@
       ]
     },
     "security experts warn": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -29018,7 +29018,7 @@
       ]
     },
     "longest running spree": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-09-01",
         "2026-09-04",
@@ -29106,7 +29106,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 64,
+      "count": 65,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -30061,7 +30061,7 @@
       ]
     },
     "shieldcrash windows exploit": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-09-10",
         "2026-09-11",
@@ -30132,7 +30132,7 @@
       ]
     },
     "brevo marketing platform": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-09-11",
         "2026-09-12",
@@ -30164,7 +30164,7 @@
       ]
     },
     "generative threat group": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-09-11",
         "2026-09-12",
@@ -30172,7 +30172,7 @@
       ]
     },
     "cyber espionage group": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-09-11",
         "2026-09-12",
@@ -30194,7 +30194,7 @@
       ]
     },
     "widely incorporating ai": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-09-11",
         "2026-09-12",
@@ -30202,7 +30202,7 @@
       ]
     },
     "ai assisted workflow": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-09-11",
         "2026-09-12",
@@ -30210,7 +30210,7 @@
       ]
     },
     "cyber kill chain": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-09-11",
         "2026-09-12",
@@ -30218,7 +30218,7 @@
       ]
     },
     "microsoft 365 services": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-09-11",
         "2026-09-12",
@@ -30226,7 +30226,7 @@
       ]
     },
     "large advertising platforms": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-09-11",
         "2026-09-12",
@@ -30234,7 +30234,7 @@
       ]
     },
     "vice versa thanks": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-09-12",
         "2026-09-13"
@@ -30247,7 +30247,7 @@
       ]
     },
     "repository commits api": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-12",
         "2026-09-13"
@@ -30259,20 +30259,21 @@
         "2026-09-12",
         "2026-09-13"
       ]
+    },
+    "send phishing emails": {
+      "count": 1,
+      "dates": [
+        "2026-09-13"
+      ]
+    },
+    "exfiltrate data microsoft": {
+      "count": 1,
+      "dates": [
+        "2026-09-13"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-25 22:20",
-      "articles": 48,
-      "top_keywords": [
-        "alice raises 140m",
-        "abuse legitimate services",
-        "taiwan charges 9",
-        "leaving defenders without",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-08-26 00:58",
       "articles": 48,
@@ -31360,6 +31361,17 @@
         "shieldcrash windows exploit",
         "brevo marketing platform",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-09-13 14:01",
+      "articles": 48,
+      "top_keywords": [
+        "generative threat group",
+        "shieldcrash windows exploit",
+        "brevo marketing platform",
+        "twitter whistleblower complaint",
+        "repository commits api"
       ]
     }
   ]

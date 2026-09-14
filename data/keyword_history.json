@@ -329,7 +329,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2638,
+      "count": 2639,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1264,7 +1264,7 @@
       ]
     },
     "national security risk": {
-      "count": 480,
+      "count": 481,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -20318,7 +20318,7 @@
       ]
     },
     "security experts warn": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -24366,7 +24366,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 201,
+      "count": 202,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24399,7 +24399,8 @@
         "2026-08-30",
         "2026-08-31",
         "2026-09-07",
-        "2026-09-08"
+        "2026-09-08",
+        "2026-09-14"
       ]
     },
     "ban residential proxies": {
@@ -24706,7 +24707,7 @@
       ]
     },
     "turn one's television": {
-      "count": 246,
+      "count": 247,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26439,7 +26440,7 @@
       ]
     },
     "text history records": {
-      "count": 191,
+      "count": 192,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -27340,7 +27341,7 @@
       ]
     },
     "remained walled away": {
-      "count": 63,
+      "count": 64,
       "dates": [
         "2026-08-14",
         "2026-08-15",
@@ -27353,7 +27354,8 @@
         "2026-08-26",
         "2026-08-30",
         "2026-08-31",
-        "2026-09-09"
+        "2026-09-09",
+        "2026-09-14"
       ]
     },
     "ai agent control": {
@@ -28936,7 +28938,7 @@
       ]
     },
     "sophisticated cybercrime syndicate": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-08-31",
         "2026-09-01",
@@ -28944,7 +28946,8 @@
         "2026-09-04",
         "2026-09-05",
         "2026-09-09",
-        "2026-09-10"
+        "2026-09-10",
+        "2026-09-14"
       ]
     },
     "cronos blockchain network": {
@@ -29025,7 +29028,7 @@
       ]
     },
     "longest running spree": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-09-01",
         "2026-09-04",
@@ -29114,7 +29117,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 68,
+      "count": 69,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29732,10 +29735,11 @@
       ]
     },
     "siphoning images collected": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-08",
-        "2026-09-09"
+        "2026-09-09",
+        "2026-09-14"
       ]
     },
     "200 000 records": {
@@ -30199,7 +30203,7 @@
       ]
     },
     "legitimate training method": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-09-11",
         "2026-09-12",
@@ -30208,7 +30212,7 @@
       ]
     },
     "widely incorporating ai": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-09-11",
         "2026-09-12",
@@ -30226,7 +30230,7 @@
       ]
     },
     "cyber kill chain": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-09-11",
         "2026-09-12",
@@ -30235,7 +30239,7 @@
       ]
     },
     "microsoft 365 services": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-09-11",
         "2026-09-12",
@@ -30253,7 +30257,7 @@
       ]
     },
     "vice versa thanks": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-09-12",
         "2026-09-13",
@@ -30267,7 +30271,7 @@
       ]
     },
     "repository commits api": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-09-12",
         "2026-09-13",
@@ -30275,10 +30279,11 @@
       ]
     },
     "sydney von arx": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-12",
-        "2026-09-13"
+        "2026-09-13",
+        "2026-09-14"
       ]
     },
     "send phishing emails": {
@@ -30293,20 +30298,21 @@
       "dates": [
         "2026-09-13"
       ]
+    },
+    "threat actor impersonating": {
+      "count": 1,
+      "dates": [
+        "2026-09-14"
+      ]
+    },
+    "worm like attacks": {
+      "count": 1,
+      "dates": [
+        "2026-09-14"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-26 06:37",
-      "articles": 48,
-      "top_keywords": [
-        "alice raises 140m",
-        "abuse legitimate services",
-        "leaving defenders without",
-        "twitter whistleblower complaint",
-        "stronger identity verification"
-      ]
-    },
     {
       "timestamp": "2026-08-26 08:36",
       "articles": 48,
@@ -31394,6 +31400,17 @@
         "brevo marketing platform",
         "twitter whistleblower complaint",
         "repository commits api"
+      ]
+    },
+    {
+      "timestamp": "2026-09-14 09:28",
+      "articles": 48,
+      "top_keywords": [
+        "twitter whistleblower complaint",
+        "repository commits api",
+        "longest running spree",
+        "legitimate training method",
+        "individuals whose licenses"
       ]
     }
   ]

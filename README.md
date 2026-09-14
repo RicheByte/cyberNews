@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-14 02:58 UTC |
+| 🕐 Last Updated | 2026-09-14 09:28 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`cyber espionage group` • `generative threat group` • `brevo marketing platform` • `twitter whistleblower complaint` • `repository commits api` • `longest running spree` • `legitimate training method` • `individuals whose licenses` • `cyber kill chain` • `security experts warn`
+`twitter whistleblower complaint` • `repository commits api` • `longest running spree` • `legitimate training method` • `individuals whose licenses` • `cyber kill chain` • `security experts warn` • `national security risk` • `threat actor impersonating` • `microsoft 365 services`
 
 ## 📄 Reports
 

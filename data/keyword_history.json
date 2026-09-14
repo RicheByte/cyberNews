@@ -329,7 +329,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2639,
+      "count": 2640,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1264,7 +1264,7 @@
       ]
     },
     "national security risk": {
-      "count": 481,
+      "count": 482,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -24707,7 +24707,7 @@
       ]
     },
     "turn one's television": {
-      "count": 247,
+      "count": 248,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -28938,7 +28938,7 @@
       ]
     },
     "sophisticated cybercrime syndicate": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-08-31",
         "2026-09-01",
@@ -29028,7 +29028,7 @@
       ]
     },
     "longest running spree": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-09-01",
         "2026-09-04",
@@ -29117,7 +29117,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 69,
+      "count": 70,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -30230,7 +30230,7 @@
       ]
     },
     "cyber kill chain": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-09-11",
         "2026-09-12",
@@ -30257,7 +30257,7 @@
       ]
     },
     "vice versa thanks": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-09-12",
         "2026-09-13",
@@ -30271,7 +30271,7 @@
       ]
     },
     "repository commits api": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-09-12",
         "2026-09-13",
@@ -30279,7 +30279,7 @@
       ]
     },
     "sydney von arx": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-12",
         "2026-09-13",
@@ -30294,13 +30294,14 @@
       ]
     },
     "exfiltrate data microsoft": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-09-13"
+        "2026-09-13",
+        "2026-09-14"
       ]
     },
     "threat actor impersonating": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-14"
       ]
@@ -30310,20 +30311,57 @@
       "dates": [
         "2026-09-14"
       ]
+    },
+    "beijing hits back": {
+      "count": 1,
+      "dates": [
+        "2026-09-14"
+      ]
+    },
+    "telus warns customers": {
+      "count": 1,
+      "dates": [
+        "2026-09-14"
+      ]
+    },
+    "exploits test defenses": {
+      "count": 1,
+      "dates": [
+        "2026-09-14"
+      ]
+    },
+    "malicious oauth applications": {
+      "count": 1,
+      "dates": [
+        "2026-09-14"
+      ]
+    },
+    "value security leaders": {
+      "count": 1,
+      "dates": [
+        "2026-09-14"
+      ]
+    },
+    "accelerator patch automation": {
+      "count": 1,
+      "dates": [
+        "2026-09-14"
+      ]
+    },
+    "third party impersonating": {
+      "count": 1,
+      "dates": [
+        "2026-09-14"
+      ]
+    },
+    "teams keep pace": {
+      "count": 1,
+      "dates": [
+        "2026-09-14"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-26 08:36",
-      "articles": 48,
-      "top_keywords": [
-        "alice raises 140m",
-        "activation lock feature",
-        "twitter whistleblower complaint",
-        "stronger identity verification",
-        "ollama api paving"
-      ]
-    },
     {
       "timestamp": "2026-08-26 10:29",
       "articles": 48,
@@ -31411,6 +31449,17 @@
         "longest running spree",
         "legitimate training method",
         "individuals whose licenses"
+      ]
+    },
+    {
+      "timestamp": "2026-09-14 16:06",
+      "articles": 48,
+      "top_keywords": [
+        "beijing hits back",
+        "longest running spree",
+        "twitter whistleblower complaint",
+        "telus warns customers",
+        "repository commits api"
       ]
     }
   ]

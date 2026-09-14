@@ -1,72 +1,92 @@
 {
-  "last_updated": "2026-09-14 09:28",
+  "last_updated": "2026-09-14 16:06",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "twitter whistleblower complaint",
-    "repository commits api",
+    "beijing hits back",
     "longest running spree",
-    "legitimate training method",
+    "twitter whistleblower complaint",
+    "telus warns customers",
+    "repository commits api",
     "individuals whose licenses",
+    "exploits test defenses",
     "cyber kill chain",
-    "security experts warn",
+    "malicious oauth applications",
+    "exfiltrate data microsoft",
+    "value security leaders",
     "national security risk",
     "threat actor impersonating",
-    "microsoft 365 services",
-    "widely incorporating ai",
-    "worm like attacks",
+    "accelerator patch automation",
     "vice versa thanks",
     "turn one's television",
-    "text history records",
+    "third party impersonating",
+    "teams keep pace",
     "sydney von arx",
-    "sophisticated cybercrime syndicate",
-    "siphoning images collected",
-    "residential proxy node",
-    "remained walled away"
+    "sophisticated cybercrime syndicate"
   ],
   "trending": [
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2639
-    },
-    {
-      "keyword": "repository commits api",
-      "mentions": 9
-    },
-    {
-      "keyword": "longest running spree",
-      "mentions": 30
-    },
-    {
-      "keyword": "legitimate training method",
-      "mentions": 9
-    },
-    {
-      "keyword": "individuals whose licenses",
-      "mentions": 69
-    },
-    {
-      "keyword": "cyber kill chain",
-      "mentions": 12
-    },
-    {
-      "keyword": "security experts warn",
-      "mentions": 33
-    },
-    {
-      "keyword": "national security risk",
-      "mentions": 481
-    },
-    {
-      "keyword": "threat actor impersonating",
+      "keyword": "beijing hits back",
       "mentions": 1
     },
     {
-      "keyword": "microsoft 365 services",
-      "mentions": 16
+      "keyword": "longest running spree",
+      "mentions": 31
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2640
+    },
+    {
+      "keyword": "telus warns customers",
+      "mentions": 1
+    },
+    {
+      "keyword": "repository commits api",
+      "mentions": 10
+    },
+    {
+      "keyword": "individuals whose licenses",
+      "mentions": 70
+    },
+    {
+      "keyword": "exploits test defenses",
+      "mentions": 1
+    },
+    {
+      "keyword": "cyber kill chain",
+      "mentions": 13
+    },
+    {
+      "keyword": "malicious oauth applications",
+      "mentions": 1
+    },
+    {
+      "keyword": "exfiltrate data microsoft",
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
+      "link": "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html",
+      "summary": "AI keeps showing up in the wrong places. Attackers are using it to speed up exploits, test defenses, and automate more of the job. Some models are also crossing lines on their own. That is not a great combination. The rest of the week is more familiar: old bugs still working, fresh exploit chains, exposed systems, weak defaults, and simple paths that should have been harder to abuse. A few of",
+      "published": "Mon, 14 Sep 2026 20:10:34 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "AI Changed the Exposure Problem. Validation Needs to Change With It.",
+      "link": "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html",
+      "summary": "There's a lot of noise around AI and cybersecurity right now. What’s actually important is far simpler, if often lost in the hubbub. Vulnerability discovery is getting faster and happening at a much greater scale, while defenders still have to work out which findings actually deserve their action. In the first half of 2026, a whopping 35,853 CVEs were published, roughly 49% more than in the",
+      "published": "Mon, 14 Sep 2026 17:28:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users",
@@ -134,24 +154,33 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks",
-      "link": "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html",
-      "summary": "Anthropic on Thursday said it identified and disrupted industrial-scale illicit distillation attacks against Claude from seven labs based in China, including Alibaba, Moonshot, DeepSeek, Z.ai (aka Zhipu), and MiniMax. Knowledge distillation by itself is a legitimate training method. It refers to a machine learning technique where a large, powerful AI model assumes the role of a \"teacher\" to",
-      "published": "Fri, 11 Sep 2026 21:45:29 +0530",
+      "source": "BleepingComputer",
+      "title": "Why Patch Automation Needs Brakes, Not Just an Accelerator",
+      "link": "https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/",
+      "summary": "Patch automation can help IT teams keep pace with growing update volumes, but deploying faster also means bad updates can spread faster. Action1 explains how update rings, predefined success criteria, and human oversight can make automated patching faster without sacrificing control. [...]",
+      "published": "Mon, 14 Sep 2026 10:01:11 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×4"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Webinar: How malicious OAuth apps can lead to Google Workspace breaches",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/",
+      "summary": "Attackers can combine social engineering with malicious OAuth applications to gain access to Google Workspace data without relying solely on stolen passwords. This webinar examines two attacks to show how these breaches unfold and which security controls can help stop them. [...]",
+      "published": "Mon, 14 Sep 2026 08:15:23 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
-      "link": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
-      "summary": "Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and August 2026. The threat actors, which the artificial intelligence (AI) company has branded Generative Threat Groups (GTGs), span state-sponsored groups, financially motivated criminals, commercial",
-      "published": "Fri, 11 Sep 2026 19:59:47 +0530",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "Microsoft: September updates cause RDS failures on Windows Server",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-cause-rds-failures-on-windows-server/",
+      "summary": "Microsoft has confirmed reports that the September 2026 security updates cause Remote Desktop Services (RDS) failures on Windows Server systems. [...]",
+      "published": "Mon, 14 Sep 2026 05:50:25 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -211,37 +240,6 @@
         "High severity ×2",
         "Multiple CVEs",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers abused Claude to extract secrets from 1.8M Android apps",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/",
-      "summary": "Anthropic says multiple threat groups, including the financially motivated and state-sponsored espionage groups linked to Russia and China, tried to abuse its Claude AI model for malicious purposes. [...]",
-      "published": "Fri, 11 Sep 2026 16:19:09 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Florida confirms DMV database breached via stolen police account",
-      "link": "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/",
-      "summary": "The Florida Department of Highway Safety and Motor Vehicles (FLHSMV) has confirmed that its DAVID driver database suffered a data breach, saying the attackers gained access using credentials belonging to a police department employee. [...]",
-      "published": "Fri, 11 Sep 2026 15:00:29 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
-      "link": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
-      "summary": "Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts and steal data from Microsoft 365 services. [...]",
-      "published": "Fri, 11 Sep 2026 13:26:50 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
       ]
     },
     {
@@ -344,6 +342,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "SpiderSilk Hunts External Threats With AI-Based Scanner",
+      "link": "https://www.darkreading.com/endpoint-security/spidersilk-hunts-external-threats-ai-scanning",
+      "summary": "The Dubai-based threat detection startup uses artificial intelligence tools to scan billions of IP addresses to find exposed assets, leaked data, and zero-day vulnerabilities.",
+      "published": "Fri, 11 Sep 2026 18:27:28 GMT",
+      "value_score": 35,
+      "value_signals": [
+        "Zero-day"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Why AI Is So Good at Scamming Humans",
       "link": "https://www.darkreading.com/cyber-risk/ai-scamming-humans",
       "summary": "Fred Heiding of Menlo Park Intelligence talks with the Dark Reading News Desk about his research on frontier models, and their ability to influence human behavior and create emotional dependency.",
@@ -392,16 +401,74 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Nightmare-Eclipse Strikes Again With 'ShieldCrash' Windows Exploit",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/nightmare-eclipse-strikes-again-shieldcrash-windows-exploit",
-      "summary": "The disgruntled researcher continued their vendetta against Microsoft by publishing yet another zero-day exploit for Windows Defender.",
-      "published": "Thu, 10 Sep 2026 15:29:12 GMT",
-      "value_score": 41,
+      "source": "Security Week",
+      "title": "Beijing Hits Back at Anthropic CEO’s Call to Curb China’s AI Development",
+      "link": "https://www.securityweek.com/beijing-hits-back-at-anthropic-ceos-call-to-curb-chinas-ai-development/",
+      "summary": "China’s Ministry of Foreign Affairs responded to a question about Amodei’s essay by saying that all parties should work together on AI. The post Beijing Hits Back at Anthropic CEO’s Call to Curb China’s AI Development appeared first on SecurityWeek .",
+      "published": "Mon, 14 Sep 2026 14:28:26 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "New Warnings About the Risks of AI to Humanity Revive a Long-Running Debate",
+      "link": "https://www.securityweek.com/new-warnings-about-the-risks-of-ai-to-humanity-revive-a-long-running-debate/",
+      "summary": "Concerns over the potential risks of the technology are rising as new AI models become more powerful, heightening both the potential for misuse by people with criminal aims. The post New Warnings About the Risks of AI to Humanity Revive a Long-Running Debate appeared first on SecurityWeek .",
+      "published": "Mon, 14 Sep 2026 13:31:15 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Personal, Financial Info Exposed in Revolut Data Breach",
+      "link": "https://www.securityweek.com/personal-financial-info-exposed-in-revolut-data-breach/",
+      "summary": "The company unintentionally disclosed users’ information to a third party impersonating a government agency. The post Personal, Financial Info Exposed in Revolut Data Breach appeared first on SecurityWeek .",
+      "published": "Mon, 14 Sep 2026 13:03:35 +0000",
+      "value_score": 34,
       "value_signals": [
-        "Zero-day",
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "The Race to Control AI and Protect What Makes Us Human",
+      "link": "https://www.securityweek.com/the-race-to-control-ai-and-protect-what-makes-us-human/",
+      "summary": "As researchers warn that misaligned AI could threaten human survival, even beneficial systems may erode the critical thinking that defines our humanity. The post The Race to Control AI and Protect What Makes Us Human appeared first on SecurityWeek .",
+      "published": "Mon, 14 Sep 2026 13:00:00 +0000",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Chinese Hackers Exploit Critical Tencent Software Flaw for One-Click Code Execution",
+      "link": "https://www.securityweek.com/chinese-hackers-exploit-critical-tencent-software-flaw-for-one-click-code-execution/",
+      "summary": "The Chinese-language input method editor for Windows can allow attackers to execute arbitrary code remotely. The post Chinese Hackers Exploit Critical Tencent Software Flaw for One-Click Code Execution appeared first on SecurityWeek .",
+      "published": "Mon, 14 Sep 2026 11:51:29 +0000",
+      "value_score": 32,
+      "value_signals": [
+        "High severity ×2",
         "Exploit wording"
       ]
+    },
+    {
+      "source": "Security Week",
+      "title": "CISOs Race to Control AI Agents Without Destroying Their Value",
+      "link": "https://www.securityweek.com/cisos-race-to-control-ai-agents-without-destroying-their-value/",
+      "summary": "Security leaders are struggling to modernize cyber hygiene and prevent over-privileged agents from causing unintended harm. The post CISOs Race to Control AI Agents Without Destroying Their Value appeared first on SecurityWeek .",
+      "published": "Mon, 14 Sep 2026 10:30:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Telus Warns Customers of Account Breaches",
+      "link": "https://www.securityweek.com/telus-warns-customers-of-account-breaches/",
+      "summary": "Stolen credentials were used in a multi-month campaign to access subscriber personal data and billing records. The post Telus Warns Customers of Account Breaches appeared first on SecurityWeek .",
+      "published": "Mon, 14 Sep 2026 09:56:57 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -413,80 +480,6 @@
       "value_signals": [
         "Backdoor ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "ConnectWise Patches ScreenConnect Vulnerability Exploited in Worm-Like Attacks",
-      "link": "https://www.securityweek.com/connectwise-patches-screenconnect-vulnerability-exploited-in-worm-like-attacks/",
-      "summary": "The flaw allows attackers to send files and execute them without authorization through an active remote session. The post ConnectWise Patches ScreenConnect Vulnerability Exploited in Worm-Like Attacks appeared first on SecurityWeek .",
-      "published": "Mon, 14 Sep 2026 08:25:14 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Anthropic CEO Dario Amodei Says AI Industry Needs to Give Safety Measures Time to Catch Up",
-      "link": "https://www.securityweek.com/anthropic-ceo-dario-amodei-says-ai-industry-needs-to-give-safety-measures-time-to-catch-up/",
-      "summary": "Dario Amodei warned that within six to 12 months AI could be capable of leading a swarm of agents that could take over the entire internet. The post Anthropic CEO Dario Amodei Says AI Industry Needs to Give Safety Measures Time to Catch Up appeared first on SecurityWeek .",
-      "published": "Sun, 13 Sep 2026 13:27:25 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "BlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Days",
-      "link": "https://www.securityweek.com/bluemoon-exploit-kit-chains-recent-chrome-windows-zero-days/",
-      "summary": "Multiple espionage-motivated threat actors have adopted BlueMoon in opportunistic, rushed deployments. The post BlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Days appeared first on SecurityWeek .",
-      "published": "Sat, 12 Sep 2026 11:10:00 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Users in Houthi-Held Yemen Tried to Develop Advanced Weapons With AI, Anthropic Says",
-      "link": "https://www.securityweek.com/users-in-houthi-held-yemen-tried-to-develop-advanced-weapons-with-ai-anthropic-says/",
-      "summary": "Anthropic said the users did not succeed in “fielding an operational device” but did carry out a failed test of a guided rocket. The post Users in Houthi-Held Yemen Tried to Develop Advanced Weapons With AI, Anthropic Says appeared first on SecurityWeek .",
-      "published": "Sat, 12 Sep 2026 01:50:53 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Phishing Research Challenges Conventional Security Awareness Testing",
-      "link": "https://www.securityweek.com/phishing-research-challenges-conventional-security-awareness-testing/",
-      "summary": "Analysis of 2.47 million simulated attacks shows why organizations should measure credential leaks and reporting, not just clicks. The post Phishing Research Challenges Conventional Security Awareness Testing appeared first on SecurityWeek .",
-      "published": "Fri, 11 Sep 2026 17:23:36 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "GitLab Vulnerability Exploited One Day After Disclosure",
-      "link": "https://www.securityweek.com/gitlab-vulnerability-exploited-one-day-after-disclosure/",
-      "summary": "The critical-severity path traversal flaw allows unauthenticated attackers to read arbitrary files from the GitLab server. The post GitLab Vulnerability Exploited One Day After Disclosure appeared first on SecurityWeek .",
-      "published": "Fri, 11 Sep 2026 16:11:08 +0000",
-      "value_score": 24,
-      "value_signals": [
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "In Other News: InjectEave Attack, SIM Swapper Sentenced, Glasswing Findings Review",
-      "link": "https://www.securityweek.com/in-other-news-injecteave-attack-sim-swapper-sentenced-glasswing-findings-review/",
-      "summary": "Noteworthy stories that might have slipped under the radar: Invisible Unicode slips past phishing filters, US puts $10 million bounty on Iranian cyber official, military ties of Chinese hacking group QTFY. The post In Other News: InjectEave Attack, SIM Swapper Sentenced, Glasswing Findings Review appeared first on SecurityWeek .",
-      "published": "Fri, 11 Sep 2026 14:19:18 +0000",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
       ]
     },
     {

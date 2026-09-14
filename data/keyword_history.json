@@ -329,7 +329,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2640,
+      "count": 2641,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1264,7 +1264,7 @@
       ]
     },
     "national security risk": {
-      "count": 482,
+      "count": 483,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -27318,7 +27318,7 @@
       ]
     },
     "who's harvesting data": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-08-14",
         "2026-08-19",
@@ -27328,7 +27328,8 @@
         "2026-09-08",
         "2026-09-09",
         "2026-09-11",
-        "2026-09-12"
+        "2026-09-12",
+        "2026-09-14"
       ]
     },
     "single control plane": {
@@ -29028,7 +29029,7 @@
       ]
     },
     "longest running spree": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-09-01",
         "2026-09-04",
@@ -29117,7 +29118,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 70,
+      "count": 71,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -30313,13 +30314,13 @@
       ]
     },
     "beijing hits back": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-14"
       ]
     },
     "telus warns customers": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-14"
       ]
@@ -30331,19 +30332,19 @@
       ]
     },
     "malicious oauth applications": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-14"
       ]
     },
     "value security leaders": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-14"
       ]
     },
     "accelerator patch automation": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-14"
       ]
@@ -30359,20 +30360,69 @@
       "dates": [
         "2026-09-14"
       ]
+    },
+    "anthropic ceo time": {
+      "count": 1,
+      "dates": [
+        "2026-09-14"
+      ]
+    },
+    "steal cloud credentials": {
+      "count": 1,
+      "dates": [
+        "2026-09-14"
+      ]
+    },
+    "silently dropping writes": {
+      "count": 1,
+      "dates": [
+        "2026-09-14"
+      ]
+    },
+    "risk prevention efforts": {
+      "count": 1,
+      "dates": [
+        "2026-09-14"
+      ]
+    },
+    "growing update volumes": {
+      "count": 1,
+      "dates": [
+        "2026-09-14"
+      ]
+    },
+    "enterprise edition instances": {
+      "count": 1,
+      "dates": [
+        "2026-09-14"
+      ]
+    },
+    "commercial bot service": {
+      "count": 1,
+      "dates": [
+        "2026-09-14"
+      ]
+    },
+    "updates ship continuously": {
+      "count": 1,
+      "dates": [
+        "2026-09-14"
+      ]
+    },
+    "multi national campaign": {
+      "count": 1,
+      "dates": [
+        "2026-09-14"
+      ]
+    },
+    "automated security review": {
+      "count": 1,
+      "dates": [
+        "2026-09-14"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-26 10:29",
-      "articles": 48,
-      "top_keywords": [
-        "alice raises 140m",
-        "chrome 152 patches",
-        "activation lock feature",
-        "twitter whistleblower complaint",
-        "stronger identity verification"
-      ]
-    },
     {
       "timestamp": "2026-08-26 12:39",
       "articles": 48,
@@ -31460,6 +31510,17 @@
         "twitter whistleblower complaint",
         "telus warns customers",
         "repository commits api"
+      ]
+    },
+    {
+      "timestamp": "2026-09-14 21:19",
+      "articles": 48,
+      "top_keywords": [
+        "beijing hits back",
+        "anthropic ceo time",
+        "telus warns customers",
+        "steal cloud credentials",
+        "national security risk"
       ]
     }
   ]

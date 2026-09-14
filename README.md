@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-14 16:06 UTC |
+| 🕐 Last Updated | 2026-09-14 21:19 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`beijing hits back` • `longest running spree` • `twitter whistleblower complaint` • `telus warns customers` • `repository commits api` • `individuals whose licenses` • `exploits test defenses` • `cyber kill chain` • `malicious oauth applications` • `exfiltrate data microsoft`
+`beijing hits back` • `anthropic ceo time` • `telus warns customers` • `steal cloud credentials` • `national security risk` • `twitter whistleblower complaint` • `silently dropping writes` • `risk prevention efforts` • `longest running spree` • `individuals whose licenses`
 
 ## 📄 Reports
 

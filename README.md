@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-15 17:52 UTC |
+| 🕐 Last Updated | 2026-09-15 20:46 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`240 000 hit` • `exein secures 270m` • `multi platform campaign` • `extract cloud credentials` • `cve probing along` • `twitter whistleblower complaint` • `individuals whose licenses` • `email parsing logic` • `chinese threat actor` • `national security risk`
+`240 000 hit` • `exein secures 270m` • `multi platform campaign` • `cve probing along` • `twitter whistleblower complaint` • `malicious browser extension` • `individuals whose licenses` • `gotten pretty good` • `email parsing logic` • `cyber outages escalate`
 
 ## 📄 Reports
 

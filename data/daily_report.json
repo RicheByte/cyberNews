@@ -1,72 +1,118 @@
 {
-  "last_updated": "2026-09-15 07:04",
+  "last_updated": "2026-09-15 13:03",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
+    "240 000 hit",
     "beijing hits back",
     "anthropic ceo time",
-    "telus warns customers",
-    "steal cloud credentials",
-    "execute arbitrary commands",
-    "chinese threat actor",
-    "national security risk",
-    "twitter whistleblower complaint",
+    "extract cloud credentials",
+    "microsoft ai code",
     "silently dropping writes",
-    "risk prevention efforts",
+    "national security risk",
+    "cloud security company",
+    "humanist ai code",
+    "twitter whistleblower complaint",
     "longest running spree",
     "individuals whose licenses",
-    "growing update volumes",
-    "enterprise edition instances",
     "email parsing logic",
-    "updates ship continuously",
-    "multi national campaign",
+    "chinese threat actor",
+    "risk prevention efforts",
     "september 1 2026",
-    "value security leaders",
-    "automated security review"
+    "security experts warn",
+    "microsoft azure instances",
+    "ssh attack chains",
+    "vulnerable marimo notebook"
   ],
   "trending": [
     {
+      "keyword": "240 000 hit",
+      "mentions": 1
+    },
+    {
       "keyword": "beijing hits back",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "anthropic ceo time",
-      "mentions": 3
-    },
-    {
-      "keyword": "telus warns customers",
       "mentions": 4
     },
     {
-      "keyword": "steal cloud credentials",
-      "mentions": 3
+      "keyword": "extract cloud credentials",
+      "mentions": 1
     },
     {
-      "keyword": "execute arbitrary commands",
-      "mentions": 29
-    },
-    {
-      "keyword": "chinese threat actor",
-      "mentions": 15
-    },
-    {
-      "keyword": "national security risk",
-      "mentions": 485
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2643
+      "keyword": "microsoft ai code",
+      "mentions": 1
     },
     {
       "keyword": "silently dropping writes",
-      "mentions": 3
+      "mentions": 4
     },
     {
-      "keyword": "risk prevention efforts",
-      "mentions": 3
+      "keyword": "national security risk",
+      "mentions": 486
+    },
+    {
+      "keyword": "cloud security company",
+      "mentions": 1
+    },
+    {
+      "keyword": "humanist ai code",
+      "mentions": 1
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2644
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds",
+      "link": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html",
+      "summary": "With artificial intelligence (AI) shrinking the window between vulnerability discovery and exploitation and lowering the barrier to entry for bad actors, new findings from Sysdig show that skilled human operators can move just as swiftly after gaining initial access. In one instance highlighted by the cloud security company, the threat actor pivoted from a vulnerable Marimo notebook to an SSH",
+      "published": "Tue, 15 Sep 2026 17:22:28 +0530",
+      "value_score": 36,
+      "value_signals": [
+        "RCE",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point",
+      "link": "https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html",
+      "summary": "Introduction Security teams have gotten pretty good at testing against what can hurt them. Can this EDR agent catch this payload? Will my organization fail the phishing simulation? Does this SIEM rule fire on this particular technique? And, in more mature organizations, this testing happens continuously rather than as a one-off exercise. But no matter how much you validate against these",
+      "published": "Tue, 15 Sep 2026 16:56:36 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers",
+      "link": "https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html",
+      "summary": "Cybersecurity researchers have disclosed details of a mass-scanning campaign that has targeted Vite deployments siphon sensitive data. The first is an automated effort aimed at internet-exposed Vite development servers that's designed to steal cloud credentials, configurations from Amazon Web Services (AWS) and Microsoft Azure instances, and infrastructure state files, per F5 Labs. The",
+      "published": "Tue, 15 Sep 2026 16:42:32 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server",
+      "link": "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html",
+      "summary": "A critical vulnerability in LiteSpeed Web Server Enterprise could let a low-privilege website user gain root access on a shared-hosting server, cPanel warned in an advisory published on September 14. On such servers, many customers' sites run on a single machine, and an attacker with one of those hosting accounts could exploit the flaw to access or alter other sites and the server itself,",
+      "published": "Tue, 15 Sep 2026 12:22:16 +0530",
+      "value_score": 24,
+      "value_signals": [
+        "High severity",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution",
@@ -116,45 +162,51 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
-      "link": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
-      "summary": "A flaw in Telegram Desktop let a bot's message plant hidden JavaScript inside chats that users exported to HTML files, security researchers at ExPatch said in a writeup published on September 12. In Telegram, the message looked ordinary, with a link button, and the script ran only when someone opened the export file in a web browser. It could then copy every message in that file to",
-      "published": "Mon, 14 Sep 2026 23:28:16 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
-      "link": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
-      "summary": "A suspected Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a multi-national campaign. \"Red Heron scanned 1,386 Gitea instances across seven countries and maintained a separate dataset of 477 Taiwan-based systems,\" Acronis Threat Research Unit (TRU)",
-      "published": "Mon, 14 Sep 2026 22:26:30 +0530",
-      "value_score": 36,
+      "source": "BleepingComputer",
+      "title": "CISA: Critical VMware RCE flaw now exploited by ransomware gangs",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned security teams that ransomware gangs have now joined ongoing attacks exploiting a critical VMware vCenter vulnerability patched in July. [...]",
+      "published": "Tue, 15 Sep 2026 08:16:32 -0400",
+      "value_score": 100,
       "value_signals": [
+        "Ransomware ×2",
         "RCE",
+        "CISA/KEV ×2",
+        "High severity ×2",
         "Exploit wording"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution",
-      "link": "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html",
-      "summary": "WordPress has announced it's launching an automated security review for every release of a plugin before it's distributed through the WordPress.org update API so as to analyze it for potential security issues and ensure there are no risks involved. \"New plugins are reviewed before they enter the directory, but updates ship continuously after that,\" David Perez, WordPress Official Plugin",
-      "published": "Mon, 14 Sep 2026 21:30:04 +0530",
-      "value_score": 18,
+      "source": "BleepingComputer",
+      "title": "Suspected Black Axe gang leaders face cybercrime charges in the US",
+      "link": "https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/",
+      "summary": "Five alleged leaders of the Black Axe cybercrime syndicate, known for its involvement in global-scale cyber-enabled financial fraud, have been extradited to the United States to face wire fraud and money laundering charges. [...]",
+      "published": "Tue, 15 Sep 2026 05:50:25 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft confirms KB5002914 Excel update breaks copy and paste",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/",
+      "summary": "Microsoft has confirmed that copy and paste may silently fail for some Excel users after installing the September 2026 KB5002914 security update. [...]",
+      "published": "Tue, 15 Sep 2026 04:40:20 -0400",
+      "value_score": 26,
       "value_signals": [
-        "Patch/update"
+        "Patch/update ×2"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
-      "link": "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html",
-      "summary": "AI keeps showing up in the wrong places. Attackers are using it to speed up exploits, test defenses, and automate more of the job. Some models are also crossing lines on their own. That is not a great combination. The rest of the week is more familiar: old bugs still working, fresh exploit chains, exposed systems, weak defaults, and simple paths that should have been harder to abuse. A few of",
-      "published": "Mon, 14 Sep 2026 20:10:34 +0530",
-      "value_score": 16,
+      "source": "BleepingComputer",
+      "title": "Cisco patches Secure Email Gateway zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/",
+      "summary": "Cisco warned customers to patch a critical Secure Email Gateway zero-day security flaw that threat actors have been exploiting in attacks. [...]",
+      "published": "Tue, 15 Sep 2026 03:31:09 -0400",
+      "value_score": 82,
       "value_signals": [
+        "Zero-day ×2",
+        "Patch/update",
+        "High severity",
         "Exploit wording"
       ]
     },
@@ -195,44 +247,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/",
       "summary": "A browser extension called Twitch Enhanced Viewer | JeetBot, available in the official Chrome and Firefox stores, sends users' Twitch OAuth session tokens to a commercial bot service. [...]",
       "published": "Mon, 14 Sep 2026 15:03:51 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers hijack HBO Max Reddit account to push malware in ClickFix ads",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/",
-      "summary": "Hackers compromised HBO Max's official Reddit account and used it to push malicious ads that launched ClickFix attacks to infect Windows and macOS devices with information-stealing malware. [...]",
-      "published": "Mon, 14 Sep 2026 14:34:16 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/",
-      "summary": "A mass-scanning campaign targeting internet-exposed Vite development servers is attempting to steal cloud credentials and configurations from AWS and Azure deployments. [...]",
-      "published": "Mon, 14 Sep 2026 12:15:58 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Why Patch Automation Needs Brakes, Not Just an Accelerator",
-      "link": "https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/",
-      "summary": "Patch automation can help IT teams keep pace with growing update volumes, but deploying faster also means bad updates can spread faster. Action1 explains how update rings, predefined success criteria, and human oversight can make automated patching faster without sacrificing control. [...]",
-      "published": "Mon, 14 Sep 2026 10:01:11 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×4"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Webinar: How malicious OAuth apps can lead to Google Workspace breaches",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/",
-      "summary": "Attackers can combine social engineering with malicious OAuth applications to gain access to Google Workspace data without relying solely on stolen passwords. This webinar examines two attacks to show how these breaches unfold and which security controls can help stop them. [...]",
-      "published": "Mon, 14 Sep 2026 08:15:23 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -396,6 +410,56 @@
     },
     {
       "source": "Security Week",
+      "title": "OpenAI Investigates Report Linking AI Agents to RubyGems Attack",
+      "link": "https://www.securityweek.com/openai-investigates-report-linking-ai-agents-to-rubygems-attack/",
+      "summary": "The incident occurred in May, when RubyGems maintainers suspended new account registrations due to what appeared like malicious activity. The post OpenAI Investigates Report Linking AI Agents to RubyGems Attack appeared first on SecurityWeek .",
+      "published": "Tue, 15 Sep 2026 12:42:32 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "240,000 Hit by Data Breach at Japan’s Digital Agency",
+      "link": "https://www.securityweek.com/240000-hit-by-data-breach-at-japans-digital-agency/",
+      "summary": "Hackers exploited a vulnerability in a VPN product to steal the personal information of roughly 240,000 people. The post 240,000 Hit by Data Breach at Japan’s Digital Agency appeared first on SecurityWeek .",
+      "published": "Tue, 15 Sep 2026 11:45:31 +0000",
+      "value_score": 40,
+      "value_signals": [
+        "Breach/leak ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Apple Patches 200 Vulnerabilities With New iOS 27, macOS Golden Gate 27 Releases",
+      "link": "https://www.securityweek.com/apple-patches-200-vulnerabilities-with-new-ios-27-macos-golden-gate-27-releases/",
+      "summary": "The updates resolve kernel vulnerabilities that could lead to memory corruption, privilege escalation, system termination, and information leaks. The post Apple Patches 200 Vulnerabilities With New iOS 27, macOS Golden Gate 27 Releases appeared first on SecurityWeek .",
+      "published": "Tue, 15 Sep 2026 11:06:11 +0000",
+      "value_score": 22,
+      "value_signals": [
+        "Privilege escalation"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Microsoft AI Code of Conduct Sets Cyberattack Boundaries, Chain of Command, Safety Constraints",
+      "link": "https://www.securityweek.com/microsoft-ai-code-of-conduct-sets-cyberattack-boundaries-chain-of-command-safety-constraints/",
+      "summary": "The Humanist AI Code of Conduct draws a line between defensive cyber research and operational attack capability. The post Microsoft AI Code of Conduct Sets Cyberattack Boundaries, Chain of Command, Safety Constraints appeared first on SecurityWeek .",
+      "published": "Tue, 15 Sep 2026 09:40:25 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Hacked HBO Max Reddit Account Used for Malware Delivery via ClickFix Attack",
+      "link": "https://www.securityweek.com/hacked-hbo-reddit-account-used-for-malware-delivery-via-clickfix-attack/",
+      "summary": "Ads led to a ClickFix page designed to trick macOS and Windows users into installing malware. The post Hacked HBO Max Reddit Account Used for Malware Delivery via ClickFix Attack appeared first on SecurityWeek .",
+      "published": "Tue, 15 Sep 2026 09:09:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Root RCE Zero-Day in Cisco Secure Email Gateway Under Active Exploitation",
       "link": "https://www.securityweek.com/root-rce-zero-day-in-cisco-secure-email-gateway-under-active-exploitation/",
       "summary": "An unauthenticated attacker can exploit CVE-2026-76461 to execute arbitrary commands on the underlying OS with root privileges. The post Root RCE Zero-Day in Cisco Secure Email Gateway Under Active Exploitation appeared first on SecurityWeek .",
@@ -423,58 +487,6 @@
       "link": "https://www.securityweek.com/new-warnings-about-the-risks-of-ai-to-humanity-revive-a-long-running-debate/",
       "summary": "Concerns over the potential risks of the technology are rising as new AI models become more powerful, heightening both the potential for misuse by people with criminal aims. The post New Warnings About the Risks of AI to Humanity Revive a Long-Running Debate appeared first on SecurityWeek .",
       "published": "Mon, 14 Sep 2026 13:31:15 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Personal, Financial Info Exposed in Revolut Data Breach",
-      "link": "https://www.securityweek.com/personal-financial-info-exposed-in-revolut-data-breach/",
-      "summary": "The company unintentionally disclosed users’ information to a third party impersonating a government agency. The post Personal, Financial Info Exposed in Revolut Data Breach appeared first on SecurityWeek .",
-      "published": "Mon, 14 Sep 2026 13:03:35 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "The Race to Control AI and Protect What Makes Us Human",
-      "link": "https://www.securityweek.com/the-race-to-control-ai-and-protect-what-makes-us-human/",
-      "summary": "As researchers warn that misaligned AI could threaten human survival, even beneficial systems may erode the critical thinking that defines our humanity. The post The Race to Control AI and Protect What Makes Us Human appeared first on SecurityWeek .",
-      "published": "Mon, 14 Sep 2026 13:00:00 +0000",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Chinese Hackers Exploit Critical Tencent Software Flaw for One-Click Code Execution",
-      "link": "https://www.securityweek.com/chinese-hackers-exploit-critical-tencent-software-flaw-for-one-click-code-execution/",
-      "summary": "The Chinese-language input method editor for Windows can allow attackers to execute arbitrary code remotely. The post Chinese Hackers Exploit Critical Tencent Software Flaw for One-Click Code Execution appeared first on SecurityWeek .",
-      "published": "Mon, 14 Sep 2026 11:51:29 +0000",
-      "value_score": 32,
-      "value_signals": [
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "CISOs Race to Control AI Agents Without Destroying Their Value",
-      "link": "https://www.securityweek.com/cisos-race-to-control-ai-agents-without-destroying-their-value/",
-      "summary": "Security leaders are struggling to modernize cyber hygiene and prevent over-privileged agents from causing unintended harm. The post CISOs Race to Control AI Agents Without Destroying Their Value appeared first on SecurityWeek .",
-      "published": "Mon, 14 Sep 2026 10:30:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Telus Warns Customers of Account Breaches",
-      "link": "https://www.securityweek.com/telus-warns-customers-of-account-breaches/",
-      "summary": "Stolen credentials were used in a multi-month campaign to access subscriber personal data and billing records. The post Telus Warns Customers of Account Breaches appeared first on SecurityWeek .",
-      "published": "Mon, 14 Sep 2026 09:56:57 +0000",
       "value_score": 10,
       "value_signals": []
     },

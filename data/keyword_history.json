@@ -329,7 +329,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2643,
+      "count": 2644,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1265,7 +1265,7 @@
       ]
     },
     "national security risk": {
-      "count": 485,
+      "count": 486,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -7056,7 +7056,7 @@
       ]
     },
     "chinese threat actor": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-02-06",
         "2026-03-09",
@@ -20322,7 +20322,7 @@
       ]
     },
     "security experts warn": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -20332,7 +20332,8 @@
         "2026-09-11",
         "2026-09-12",
         "2026-09-13",
-        "2026-09-14"
+        "2026-09-14",
+        "2026-09-15"
       ]
     },
     "targets 217 banking": {
@@ -29034,7 +29035,7 @@
       ]
     },
     "longest running spree": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-09-01",
         "2026-09-04",
@@ -29124,7 +29125,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 73,
+      "count": 74,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -30321,7 +30322,7 @@
       ]
     },
     "beijing hits back": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-14",
         "2026-09-15"
@@ -30374,7 +30375,7 @@
       ]
     },
     "anthropic ceo time": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-14",
         "2026-09-15"
@@ -30388,14 +30389,14 @@
       ]
     },
     "silently dropping writes": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-14",
         "2026-09-15"
       ]
     },
     "risk prevention efforts": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-14",
         "2026-09-15"
@@ -30444,12 +30445,60 @@
       ]
     },
     "email parsing logic": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-15"
       ]
     },
     "september 1 2026": {
+      "count": 2,
+      "dates": [
+        "2026-09-15"
+      ]
+    },
+    "240 000 hit": {
+      "count": 1,
+      "dates": [
+        "2026-09-15"
+      ]
+    },
+    "extract cloud credentials": {
+      "count": 1,
+      "dates": [
+        "2026-09-15"
+      ]
+    },
+    "microsoft ai code": {
+      "count": 1,
+      "dates": [
+        "2026-09-15"
+      ]
+    },
+    "cloud security company": {
+      "count": 1,
+      "dates": [
+        "2026-09-15"
+      ]
+    },
+    "humanist ai code": {
+      "count": 1,
+      "dates": [
+        "2026-09-15"
+      ]
+    },
+    "microsoft azure instances": {
+      "count": 1,
+      "dates": [
+        "2026-09-15"
+      ]
+    },
+    "ssh attack chains": {
+      "count": 1,
+      "dates": [
+        "2026-09-15"
+      ]
+    },
+    "vulnerable marimo notebook": {
       "count": 1,
       "dates": [
         "2026-09-15"
@@ -30457,17 +30506,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-26 16:43",
-      "articles": 48,
-      "top_keywords": [
-        "chrome 152 patches",
-        "well known pattern",
-        "twitter whistleblower complaint",
-        "there's never time",
-        "ai hypothesis engine"
-      ]
-    },
     {
       "timestamp": "2026-08-26 19:40",
       "articles": 48,
@@ -31555,6 +31593,17 @@
         "telus warns customers",
         "steal cloud credentials",
         "execute arbitrary commands"
+      ]
+    },
+    {
+      "timestamp": "2026-09-15 13:03",
+      "articles": 48,
+      "top_keywords": [
+        "240 000 hit",
+        "beijing hits back",
+        "anthropic ceo time",
+        "extract cloud credentials",
+        "microsoft ai code"
       ]
     }
   ]

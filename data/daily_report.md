@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-15 00:10 UTC  
+> **Last Updated:** 2026-09-15 07:04 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**beijing hits back** • **anthropic ceo time** • **telus warns customers** • **steal cloud credentials** • **national security risk** • **twitter whistleblower complaint** • **silently dropping writes** • **risk prevention efforts** • **longest running spree** • **individuals whose licenses** • **growing update volumes** • **enterprise edition instances** • **commercial bot service** • **updates ship continuously** • **multi national campaign** • **malicious oauth applications** • **value security leaders** • **automated security review** • **accelerator patch automation** • **who's harvesting data**
+**beijing hits back** • **anthropic ceo time** • **telus warns customers** • **steal cloud credentials** • **execute arbitrary commands** • **chinese threat actor** • **national security risk** • **twitter whistleblower complaint** • **silently dropping writes** • **risk prevention efforts** • **longest running spree** • **individuals whose licenses** • **growing update volumes** • **enterprise edition instances** • **email parsing logic** • **updates ship continuously** • **multi national campaign** • **september 1 2026** • **value security leaders** • **automated security review**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution](https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html)
+- [China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE](https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html)
 - [New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing](https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html)
 - [3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials](https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html)
 - [Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports](https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html)
 - [Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries](https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html)
 - [WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution](https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html)
 - [⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits](https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html)
-- [AI Changed the Exposure Problem. Validation Needs to Change With It.](https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html)
-- [Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users](https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html)
 
 ### BleepingComputer
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Root RCE Zero-Day in Cisco Secure Email Gateway Under Active Exploitation](https://www.securityweek.com/root-rce-zero-day-in-cisco-secure-email-gateway-under-active-exploitation/)
 - [Beijing Hits Back at Anthropic CEO’s Call to Curb China’s AI Development](https://www.securityweek.com/beijing-hits-back-at-anthropic-ceos-call-to-curb-chinas-ai-development/)
 - [New Warnings About the Risks of AI to Humanity Revive a Long-Running Debate](https://www.securityweek.com/new-warnings-about-the-risks-of-ai-to-humanity-revive-a-long-running-debate/)
 - [Personal, Financial Info Exposed in Revolut Data Breach](https://www.securityweek.com/personal-financial-info-exposed-in-revolut-data-breach/)
@@ -67,7 +68,6 @@
 - [Chinese Hackers Exploit Critical Tencent Software Flaw for One-Click Code Execution](https://www.securityweek.com/chinese-hackers-exploit-critical-tencent-software-flaw-for-one-click-code-execution/)
 - [CISOs Race to Control AI Agents Without Destroying Their Value](https://www.securityweek.com/cisos-race-to-control-ai-agents-without-destroying-their-value/)
 - [Telus Warns Customers of Account Breaches](https://www.securityweek.com/telus-warns-customers-of-account-breaches/)
-- [Three JFrog Artifactory Flaws Exploited for Backdoor Deployment](https://www.securityweek.com/three-jfrog-artifactory-flaws-exploited-for-backdoor-deployment/)
 
 ### Threatpost
 

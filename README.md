@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-15 13:03 UTC |
+| 🕐 Last Updated | 2026-09-15 17:52 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`240 000 hit` • `beijing hits back` • `anthropic ceo time` • `extract cloud credentials` • `microsoft ai code` • `silently dropping writes` • `national security risk` • `cloud security company` • `humanist ai code` • `twitter whistleblower complaint`
+`240 000 hit` • `exein secures 270m` • `multi platform campaign` • `extract cloud credentials` • `cve probing along` • `twitter whistleblower complaint` • `individuals whose licenses` • `email parsing logic` • `chinese threat actor` • `national security risk`
 
 ## 📄 Reports
 

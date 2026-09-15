@@ -329,7 +329,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2644,
+      "count": 2645,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1265,7 +1265,7 @@
       ]
     },
     "national security risk": {
-      "count": 486,
+      "count": 487,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -7056,7 +7056,7 @@
       ]
     },
     "chinese threat actor": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-02-06",
         "2026-03-09",
@@ -13440,9 +13440,10 @@
       ]
     },
     "picus security explains": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-04-08"
+        "2026-04-08",
+        "2026-09-15"
       ]
     },
     "address security vulnerabilities": {
@@ -20322,7 +20323,7 @@
       ]
     },
     "security experts warn": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -29125,7 +29126,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 74,
+      "count": 75,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -30396,7 +30397,7 @@
       ]
     },
     "risk prevention efforts": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-14",
         "2026-09-15"
@@ -30445,43 +30446,43 @@
       ]
     },
     "email parsing logic": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-15"
       ]
     },
     "september 1 2026": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-15"
       ]
     },
     "240 000 hit": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-15"
       ]
     },
     "extract cloud credentials": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-15"
       ]
     },
     "microsoft ai code": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-15"
       ]
     },
     "cloud security company": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-15"
       ]
     },
     "humanist ai code": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-15"
       ]
@@ -30493,12 +30494,36 @@
       ]
     },
     "ssh attack chains": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-15"
       ]
     },
     "vulnerable marimo notebook": {
+      "count": 2,
+      "dates": [
+        "2026-09-15"
+      ]
+    },
+    "exein secures 270m": {
+      "count": 1,
+      "dates": [
+        "2026-09-15"
+      ]
+    },
+    "multi platform campaign": {
+      "count": 1,
+      "dates": [
+        "2026-09-15"
+      ]
+    },
+    "cve probing along": {
+      "count": 1,
+      "dates": [
+        "2026-09-15"
+      ]
+    },
+    "physical ai security": {
       "count": 1,
       "dates": [
         "2026-09-15"
@@ -30506,17 +30531,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-26 19:40",
-      "articles": 48,
-      "top_keywords": [
-        "chrome 152 patches",
-        "well known pattern",
-        "twitter whistleblower complaint",
-        "there's never time",
-        "cyber espionage actor"
-      ]
-    },
     {
       "timestamp": "2026-08-26 22:39",
       "articles": 48,
@@ -31604,6 +31618,17 @@
         "anthropic ceo time",
         "extract cloud credentials",
         "microsoft ai code"
+      ]
+    },
+    {
+      "timestamp": "2026-09-15 17:52",
+      "articles": 48,
+      "top_keywords": [
+        "240 000 hit",
+        "exein secures 270m",
+        "multi platform campaign",
+        "extract cloud credentials",
+        "cve probing along"
       ]
     }
   ]

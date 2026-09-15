@@ -1,72 +1,90 @@
 {
-  "last_updated": "2026-09-15 13:03",
+  "last_updated": "2026-09-15 17:52",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "240 000 hit",
-    "beijing hits back",
-    "anthropic ceo time",
+    "exein secures 270m",
+    "multi platform campaign",
     "extract cloud credentials",
-    "microsoft ai code",
-    "silently dropping writes",
-    "national security risk",
-    "cloud security company",
-    "humanist ai code",
+    "cve probing along",
     "twitter whistleblower complaint",
-    "longest running spree",
     "individuals whose licenses",
     "email parsing logic",
     "chinese threat actor",
+    "national security risk",
+    "microsoft ai code",
+    "humanist ai code",
     "risk prevention efforts",
+    "physical ai security",
+    "ssh attack chains",
     "september 1 2026",
     "security experts warn",
-    "microsoft azure instances",
-    "ssh attack chains",
+    "picus security explains",
+    "cloud security company",
     "vulnerable marimo notebook"
   ],
   "trending": [
     {
       "keyword": "240 000 hit",
+      "mentions": 2
+    },
+    {
+      "keyword": "exein secures 270m",
       "mentions": 1
     },
     {
-      "keyword": "beijing hits back",
-      "mentions": 5
-    },
-    {
-      "keyword": "anthropic ceo time",
-      "mentions": 4
+      "keyword": "multi platform campaign",
+      "mentions": 1
     },
     {
       "keyword": "extract cloud credentials",
-      "mentions": 1
+      "mentions": 2
     },
     {
-      "keyword": "microsoft ai code",
-      "mentions": 1
-    },
-    {
-      "keyword": "silently dropping writes",
-      "mentions": 4
-    },
-    {
-      "keyword": "national security risk",
-      "mentions": 486
-    },
-    {
-      "keyword": "cloud security company",
-      "mentions": 1
-    },
-    {
-      "keyword": "humanist ai code",
+      "keyword": "cve probing along",
       "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2644
+      "mentions": 2645
+    },
+    {
+      "keyword": "individuals whose licenses",
+      "mentions": 75
+    },
+    {
+      "keyword": "email parsing logic",
+      "mentions": 3
+    },
+    {
+      "keyword": "chinese threat actor",
+      "mentions": 17
+    },
+    {
+      "keyword": "national security risk",
+      "mentions": 487
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists",
+      "link": "https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html",
+      "summary": "Cybersecurity agencies in the United States, the United Kingdom, and the Netherlands have detailed a Windows malware that they say Iran's intelligence service uses to spy on dissidents, journalists, and activists around the world. The malware is controlled via the Telegram messaging app and can copy a target's emails and chat messages, take screenshots, and activate the microphone to record",
+      "published": "Tue, 15 Sep 2026 21:59:51 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "BambooToken Malware Uses MQTT to Control Windows and Linux Systems",
+      "link": "https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html",
+      "summary": "Cybersecurity researchers have disclosed details of a multi-platform campaign that uses the Message Queueing Telemetry Transport (MQTT) protocol as a communication channel to control Windows and Linux systems. The emerging malware family, codenamed BambooToken, is assessed to be active since at least February 2023 and put to use in attacks targeting organizations across Asia and South America.",
+      "published": "Tue, 15 Sep 2026 20:53:19 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds",
@@ -142,23 +160,48 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
-      "link": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
-      "summary": "Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's memory, so the processor keeps reading old encrypted data as if it were current. The attack requires an attacker who already controls the server's software and can briefly access the machine to insert a small circuit",
-      "published": "Mon, 14 Sep 2026 23:32:13 +0530",
+      "source": "BleepingComputer",
+      "title": "CenterPoint Energy confirms customer data stolen in cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/",
+      "summary": "CenterPoint Energy disclosed a breach compromising some customers' personal information after an attacker leaked data allegedly stolen from the utility company. [...]",
+      "published": "Tue, 15 Sep 2026 12:40:14 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "BambooToken malware controls Windows and Linux systems via MQTT",
+      "link": "https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/",
+      "summary": "A previously unknown malware framework called BambooToken, active since at least 2023, is now using the Message Queuing Telemetry Transport (MQTT) protocol to communicate with Windows and Linux systems. [...]",
+      "published": "Tue, 15 Sep 2026 11:00:00 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
-      "link": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
-      "summary": "An attacker was operating inside the network of 3BB, one of Thailand's largest broadband providers, and maintained remote control of internal machines using a legitimate management tool called MeshCentral, threat intelligence firm Hunt.io said. The company uncovered the intrusion by examining a server the attacker had left open on the internet, which held the attacker's own tools and a list of",
-      "published": "Mon, 14 Sep 2026 23:31:49 +0530",
-      "value_score": 22,
+      "source": "BleepingComputer",
+      "title": "Hackers target WordPress sites via third-party WooCommerce plugin",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/",
+      "summary": "Hackers are actively exploiting a critical vulnerability in the WooCommerce Wholesale Lead Capture premium plugin for WordPress to upload a PHP backdoor. [...]",
+      "published": "Tue, 15 Sep 2026 10:45:10 -0400",
+      "value_score": 36,
       "value_signals": [
-        "Backdoor"
+        "Backdoor",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "What Zero-Day Response Should Be in the Post-Mythos Era",
+      "link": "https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/",
+      "summary": "AI is shrinking the time between vulnerability disclosure and exploitation, leaving defenders less time to wait for patches or public exploits. Picus Security explains how exploitability validation, security control testing, and autonomous pentesting can help teams close exposure gaps before attackers arrive. [...]",
+      "published": "Tue, 15 Sep 2026 09:45:54 -0400",
+      "value_score": 41,
+      "value_signals": [
+        "Zero-day",
+        "Exploit wording"
       ]
     },
     {
@@ -209,46 +252,6 @@
         "High severity",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft releases emergency Windows updates to fix RDS failures",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-windows-updates-to-fix-rds-failures/",
-      "summary": "Microsoft has released emergency out-of-band Windows updates to fix Remote Desktop Services failures caused by this month's security updates, along with Hyper-V and USB audio problems on some Windows versions. [...]",
-      "published": "Mon, 14 Sep 2026 16:52:18 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Japan's Digital Agency says VPN flaw exposed 246,000 personnel records",
-      "link": "https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/",
-      "summary": "Japan's Digital Agency has discovered a data breach that may have exposed around 246,000 record rows containing personal information of government employees. [...]",
-      "published": "Mon, 14 Sep 2026 16:36:02 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Homebrew 7.0.0 gets built-in GUI, better security controls",
-      "link": "https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/",
-      "summary": "Homebrew package manager version 7.0.0 has been released with a built-in vulnerability scanner, stronger security controls, and the full release of its native BrewUI graphical interface. [...]",
-      "published": "Mon, 14 Sep 2026 15:51:04 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Twitch extension with 30K installs exposes users’ OAuth tokens",
-      "link": "https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/",
-      "summary": "A browser extension called Twitch Enhanced Viewer | JeetBot, available in the official Chrome and Firefox stores, sends users' Twitch OAuth session tokens to a commercial bot service. [...]",
-      "published": "Mon, 14 Sep 2026 15:03:51 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -329,6 +332,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "VectraRAT Can Hack Windows Enterprises for $250 per Month",
+      "link": "https://www.darkreading.com/endpoint-security/vectrarat-hack-windows-enterprises",
+      "summary": "The full-service malware-as-a-service (MaaS) platform offers a Windows implant, command-and-control (C2) infrastructure, and an operator panel for comprehensive remote access.",
+      "published": "Tue, 15 Sep 2026 16:45:37 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "'Sandworm' Chains Cisco Vulnerabilities to Deploy Cyclops Blink",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/sandworm-chains-cisco-vulnerabilities-cyclops-blink",
       "summary": "The notorious Russian threat group is spreading an upgraded version of the botnet malware, which the FBI disrupted in 2022.",
@@ -400,13 +412,44 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "AI Governance Can't Wait",
-      "link": "https://www.darkreading.com/cyber-risk/ai-governance-cannot-wait",
-      "summary": "Adversaries can manipulate AI defensive reasoning to silently compromise target networks.",
-      "published": "Fri, 11 Sep 2026 17:10:56 GMT",
+      "source": "Security Week",
+      "title": "$1 Million Sandbox Challenge Uncovers Linux Kernel Flaws",
+      "link": "https://www.securityweek.com/1-million-sandbox-challenge-uncovers-linux-kernel-flaws/",
+      "summary": "AI-assisted researchers flooded Vercel with reports, forcing the company to automate vulnerability triage. The post $1 Million Sandbox Challenge Uncovers Linux Kernel Flaws appeared first on SecurityWeek .",
+      "published": "Tue, 15 Sep 2026 16:00:00 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Exein Secures $270M at $1.7B Valuation for Physical AI Security",
+      "link": "https://www.securityweek.com/exein-secures-270m-at-1-7b-valuation-for-physical-ai-security/",
+      "summary": "The cybersecurity startup is building a proprietary foundation model and plans to accelerate global expansion. The post Exein Secures $270M at $1.7B Valuation for Physical AI Security appeared first on SecurityWeek .",
+      "published": "Tue, 15 Sep 2026 15:45:13 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Texas Utility CenterPoint Energy Confirms Breach After Hacker Leaks Data",
+      "link": "https://www.securityweek.com/texas-utility-centerpoint-energy-confirms-breach-after-hacker-leaks-data/",
+      "summary": "A hacker claims to have stolen 7.5 million customer records after breaching the company’s systems. The post Texas Utility CenterPoint Energy Confirms Breach After Hacker Leaks Data appeared first on SecurityWeek .",
+      "published": "Tue, 15 Sep 2026 15:30:24 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Thai Broadband Provider Hacked via Fortinet Vulnerability",
+      "link": "https://www.securityweek.com/thai-broadband-provider-hacked-via-fortinet-vulnerability/",
+      "summary": "The hackers staged numerous scripts for reconnaissance and CVE probing, along with brute-force utilities and privilege escalation tools. The post Thai Broadband Provider Hacked via Fortinet Vulnerability appeared first on SecurityWeek .",
+      "published": "Tue, 15 Sep 2026 13:33:58 +0000",
+      "value_score": 22,
+      "value_signals": [
+        "Privilege escalation"
+      ]
     },
     {
       "source": "Security Week",
@@ -446,47 +489,6 @@
       "link": "https://www.securityweek.com/microsoft-ai-code-of-conduct-sets-cyberattack-boundaries-chain-of-command-safety-constraints/",
       "summary": "The Humanist AI Code of Conduct draws a line between defensive cyber research and operational attack capability. The post Microsoft AI Code of Conduct Sets Cyberattack Boundaries, Chain of Command, Safety Constraints appeared first on SecurityWeek .",
       "published": "Tue, 15 Sep 2026 09:40:25 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Hacked HBO Max Reddit Account Used for Malware Delivery via ClickFix Attack",
-      "link": "https://www.securityweek.com/hacked-hbo-reddit-account-used-for-malware-delivery-via-clickfix-attack/",
-      "summary": "Ads led to a ClickFix page designed to trick macOS and Windows users into installing malware. The post Hacked HBO Max Reddit Account Used for Malware Delivery via ClickFix Attack appeared first on SecurityWeek .",
-      "published": "Tue, 15 Sep 2026 09:09:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Root RCE Zero-Day in Cisco Secure Email Gateway Under Active Exploitation",
-      "link": "https://www.securityweek.com/root-rce-zero-day-in-cisco-secure-email-gateway-under-active-exploitation/",
-      "summary": "An unauthenticated attacker can exploit CVE-2026-76461 to execute arbitrary commands on the underlying OS with root privileges. The post Root RCE Zero-Day in Cisco Secure Email Gateway Under Active Exploitation appeared first on SecurityWeek .",
-      "published": "Tue, 15 Sep 2026 05:18:51 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day ×2",
-        "RCE ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Beijing Hits Back at Anthropic CEO’s Call to Curb China’s AI Development",
-      "link": "https://www.securityweek.com/beijing-hits-back-at-anthropic-ceos-call-to-curb-chinas-ai-development/",
-      "summary": "China’s Ministry of Foreign Affairs responded to a question about Amodei’s essay by saying that all parties should work together on AI. The post Beijing Hits Back at Anthropic CEO’s Call to Curb China’s AI Development appeared first on SecurityWeek .",
-      "published": "Mon, 14 Sep 2026 14:28:26 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "New Warnings About the Risks of AI to Humanity Revive a Long-Running Debate",
-      "link": "https://www.securityweek.com/new-warnings-about-the-risks-of-ai-to-humanity-revive-a-long-running-debate/",
-      "summary": "Concerns over the potential risks of the technology are rising as new AI models become more powerful, heightening both the potential for misuse by people with criminal aims. The post New Warnings About the Risks of AI to Humanity Revive a Long-Running Debate appeared first on SecurityWeek .",
-      "published": "Mon, 14 Sep 2026 13:31:15 +0000",
       "value_score": 10,
       "value_signals": []
     },

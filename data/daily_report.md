@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-14 21:19 UTC  
+> **Last Updated:** 2026-09-15 00:10 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- ['Sandworm' Chains Cisco Vulnerabilities to Deploy Cyclops Blink](https://www.darkreading.com/cyberattacks-data-breaches/sandworm-chains-cisco-vulnerabilities-cyclops-blink)
 - [Maximum Severity GitLab Flaw Puts Supply Chains at Risk](https://www.darkreading.com/cyberattacks-data-breaches/maximum-severity-gitlab-flaw-supply-chains-risk)
 - [Anthropic CEO: Time to Shift From Improving to Controlling AI](https://www.darkreading.com/cyber-risk/anthropic-ceo-shift-from-improving-to-controlling-ai)
 - [Threat Actor Generates 1M Personalized Fraud Emails in 3 Days](https://www.darkreading.com/cyberattacks-data-breaches/1m-personalized-fraud-emails-3-days)
@@ -56,7 +57,6 @@
 - [SpiderSilk Hunts External Threats With AI-Based Scanner](https://www.darkreading.com/endpoint-security/spidersilk-hunts-external-threats-ai-scanning)
 - [Why AI Is So Good at Scamming Humans](https://www.darkreading.com/cyber-risk/ai-scamming-humans)
 - [AI Governance Can't Wait](https://www.darkreading.com/cyber-risk/ai-governance-cannot-wait)
-- [Papercut AI Swarm Attack Heralds Changes for Cyber Kill Chain](https://www.darkreading.com/cyberattacks-data-breaches/papercut-ai-swarm-attack-cyber-kill-chain)
 
 ### Security Week
 

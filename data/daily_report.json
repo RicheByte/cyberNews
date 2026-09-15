@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14 21:19",
+  "last_updated": "2026-09-15 00:10",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "beijing hits back",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "anthropic ceo time",
-      "mentions": 1
-    },
-    {
-      "keyword": "telus warns customers",
       "mentions": 2
     },
     {
+      "keyword": "telus warns customers",
+      "mentions": 3
+    },
+    {
       "keyword": "steal cloud credentials",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "national security risk",
-      "mentions": 483
+      "mentions": 484
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2641
+      "mentions": 2642
     },
     {
       "keyword": "silently dropping writes",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "risk prevention efforts",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "longest running spree",
-      "mentions": 32
+      "mentions": 33
     },
     {
       "keyword": "individuals whose licenses",
-      "mentions": 71
+      "mentions": 72
     }
   ],
   "articles": [
@@ -305,6 +305,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "'Sandworm' Chains Cisco Vulnerabilities to Deploy Cyclops Blink",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/sandworm-chains-cisco-vulnerabilities-cyclops-blink",
+      "summary": "The notorious Russian threat group is spreading an upgraded version of the botnet malware, which the FBI disrupted in 2022.",
+      "published": "Mon, 14 Sep 2026 21:37:28 GMT",
+      "value_score": 20,
+      "value_signals": [
+        "Botnet"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Maximum Severity GitLab Flaw Puts Supply Chains at Risk",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/maximum-severity-gitlab-flaw-supply-chains-risk",
       "summary": "CVE-2026-85706 is a path traversal vulnerability with a 10 out of 10 CVSS score, affecting both GitLab Community Edition and Enterprise Edition instances.",
@@ -370,15 +381,6 @@
       "link": "https://www.darkreading.com/cyber-risk/ai-governance-cannot-wait",
       "summary": "Adversaries can manipulate AI defensive reasoning to silently compromise target networks.",
       "published": "Fri, 11 Sep 2026 17:10:56 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Papercut AI Swarm Attack Heralds Changes for Cyber Kill Chain",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/papercut-ai-swarm-attack-cyber-kill-chain",
-      "summary": "From creating lab environments for staging and testing agentic attacks to reconnaissance to lateral movement and exfiltration, the most innovative attackers are widely incorporating AI.",
-      "published": "Fri, 11 Sep 2026 15:48:27 GMT",
       "value_score": 10,
       "value_signals": []
     },

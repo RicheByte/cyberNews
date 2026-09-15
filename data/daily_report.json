@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15 20:46",
+  "last_updated": "2026-09-15 23:54",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "240 000 hit",
-      "mentions": 3
-    },
-    {
-      "keyword": "exein secures 270m",
-      "mentions": 2
-    },
-    {
-      "keyword": "multi platform campaign",
-      "mentions": 2
-    },
-    {
-      "keyword": "cve probing along",
-      "mentions": 2
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2646
-    },
-    {
-      "keyword": "malicious browser extension",
-      "mentions": 1
-    },
-    {
-      "keyword": "individuals whose licenses",
-      "mentions": 76
-    },
-    {
-      "keyword": "gotten pretty good",
-      "mentions": 1
-    },
-    {
-      "keyword": "email parsing logic",
       "mentions": 4
     },
     {
+      "keyword": "exein secures 270m",
+      "mentions": 3
+    },
+    {
+      "keyword": "multi platform campaign",
+      "mentions": 3
+    },
+    {
+      "keyword": "cve probing along",
+      "mentions": 3
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2647
+    },
+    {
+      "keyword": "malicious browser extension",
+      "mentions": 2
+    },
+    {
+      "keyword": "individuals whose licenses",
+      "mentions": 77
+    },
+    {
+      "keyword": "gotten pretty good",
+      "mentions": 2
+    },
+    {
+      "keyword": "email parsing logic",
+      "mentions": 5
+    },
+    {
       "keyword": "cyber outages escalate",
-      "mentions": 1
+      "mentions": 2
     }
   ],
   "articles": [
@@ -156,6 +156,19 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Acronis warns of actively exploited flaw in its cPanel backup plugin",
+      "link": "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/",
+      "summary": "Acronis disclosed a high-severity Linux local privilege escalation vulnerability in its backup plugin for cPanel, WebHost Manager (WHM), and Plesk that may be exploited in the wild. [...]",
+      "published": "Tue, 15 Sep 2026 17:37:35 -0400",
+      "value_score": 78,
+      "value_signals": [
+        "Active exploitation ×2",
+        "Privilege escalation",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites",
       "link": "https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/",
       "summary": "Malicious versions of the Admin Menu Editor Pro plugin for WordPress have been distributed to more than 200 customers after a threat actor compromised the maintainer's website and pushed updates that created a hidden user account. [...]",
@@ -231,17 +244,6 @@
       "published": "Tue, 15 Sep 2026 05:50:25 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft confirms KB5002914 Excel update breaks copy and paste",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/",
-      "summary": "Microsoft has confirmed that copy and paste may silently fail for some Excel users after installing the September 2026 KB5002914 security update. [...]",
-      "published": "Tue, 15 Sep 2026 04:40:20 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
-      ]
     },
     {
       "source": "Krebs on Security",

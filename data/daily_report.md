@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-16 08:59 UTC  
+> **Last Updated:** 2026-09-16 14:31 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**exein secures 270m** • **cve 2026 5430** • **wso2 api manager** • **multi platform campaign** • **twitter whistleblower complaint** • **national security risk** • **individuals whose licenses** • **gotten pretty good** • **forged admin tokens** • **physical ai security** • **risk prevention efforts** • **extract cloud credentials** • **cve probing along** • **cloud security company** • **frontier ai improvements** • **security experts warn** • **picus security explains** • **elastic security labs** • **who's harvesting data** • **vulnerable marimo notebook**
+**280 000 impacted** • **privilege escalation flaw** • **pixel devices google** • **threat actor compromised** • **national security risk** • **wso2 api manager** • **twitter whistleblower complaint** • **individuals whose licenses** • **eu chief warns** • **enterprise edition instances** • **control c2 infrastructure** • **anthropic ceo time** • **support international growth** • **risk prevention efforts** • **enter extended support** • **who's harvesting data** • **frontier ai improvements** • **security experts warn** • **identity security n0va** • **windows operating systems**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories](https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html)
+- [Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix](https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html)
+- [N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security](https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html)
+- [Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation](https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html)
+- [Threat Intelligence Alone Won't Close the Exploitation Gap](https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html)
+- [Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks](https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html)
 - [Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells](https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html)
 - [Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens](https://thehackernews.com/2026/09/active-exploitation-attempts-target.html)
-- [KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens](https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html)
-- [Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists](https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html)
-- [BambooToken Malware Uses MQTT to Control Windows and Linux Systems](https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html)
-- [Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds](https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html)
-- [Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point](https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html)
-- [Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers](https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html)
 
 ### BleepingComputer
 
+- [The true cost of a ransomware attack, with and without BCDR](https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/)
+- [Microsoft says Copilot buttons still missing in classic Outlook](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-missing-outlook-copilot-buttons/)
+- [Webinar: What happens in the first hours of a Google Workspace breach](https://www.bleepingcomputer.com/news/security/webinar-what-happens-in-the-first-hours-of-a-google-workspace-breach/)
+- [Critical ScreenConnect flaw now actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/)
+- [Windows Server 2022 reaches end of mainstream support next month](https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-next-month/)
 - [Google fixes actively exploited Android zero-day on Pixel devices](https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/)
 - [Acronis warns of actively exploited flaw in its cPanel backup plugin](https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/)
 - [Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites](https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/)
-- [CenterPoint Energy confirms customer data stolen in cyberattack](https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/)
-- [BambooToken malware controls Windows and Linux systems via MQTT](https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/)
-- [Hackers target WordPress sites via third-party WooCommerce plugin](https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/)
-- [What Zero-Day Response Should Be in the Post-Mythos Era](https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/)
-- [CISA: Critical VMware RCE flaw now exploited by ransomware gangs](https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
-- [Enterprises Warned of Attacks Exploiting WSO2 Vulnerability](https://www.securityweek.com/enterprises-warned-of-attacks-exploiting-wso2-vulnerability/)
-- [Oracle Patches 800+ Vulnerabilities in September 2026 Security Update](https://www.securityweek.com/oracle-patches-800-vulnerabilities-in-september-2026-security-update/)
-- [Microsoft Commits to Sweeping AI Privacy Rules for Students. Will Other Tech Giants Follow?](https://www.securityweek.com/microsoft-commits-to-sweeping-ai-privacy-rules-for-students-will-other-tech-giants-follow/)
-- [“We Think the Security Control Is Working” Is No Longer Good Enough](https://www.securityweek.com/we-think-the-security-control-is-working-is-no-longer-good-enough/)
-- [$1 Million Sandbox Challenge Uncovers Linux Kernel Flaws](https://www.securityweek.com/1-million-sandbox-challenge-uncovers-linux-kernel-flaws/)
-- [Exein Secures $270M at $1.7B Valuation for Physical AI Security](https://www.securityweek.com/exein-secures-270m-at-1-7b-valuation-for-physical-ai-security/)
-- [Texas Utility CenterPoint Energy Confirms Breach After Hacker Leaks Data](https://www.securityweek.com/texas-utility-centerpoint-energy-confirms-breach-after-hacker-leaks-data/)
-- [Thai Broadband Provider Hacked via Fortinet Vulnerability](https://www.securityweek.com/thai-broadband-provider-hacked-via-fortinet-vulnerability/)
+- [EU Chief Warns of AI-Powered Hacking, Moves to Rein In Social Media](https://www.securityweek.com/eu-chief-warns-of-ai-powered-hacking-moves-to-rein-in-social-media/)
+- [AIUC Raises $40 Million to Certify Enterprise AI Agents](https://www.securityweek.com/aiuc-raises-40-million-to-certify-enterprise-ai-agents/)
+- [Pixel Modem Zero-Day Exploited in Targeted Attacks](https://www.securityweek.com/pixel-modem-zero-day-exploited-in-targeted-attacks/)
+- [US, UK, Dutch Agencies Expose Iranian ‘Chosen Brick’ Surveillance Malware](https://www.securityweek.com/us-uk-dutch-agencies-expose-iranian-chosen-brick-surveillance-malware/)
+- [Unauthenticated RCE Flaws Could Expose 200,000+ WordPress Sites to Takeover](https://www.securityweek.com/unauthenticated-rce-flaws-could-expose-200000-wordpress-sites-to-takeover/)
+- [Hackuity Raises $19 Million for AI-Powered Vulnerability Management](https://www.securityweek.com/hackuity-raises-19-million-for-ai-powered-vulnerability-management/)
+- [280,000 Impacted by Premier Medical Group Data Breach](https://www.securityweek.com/280000-impacted-by-premier-medical-group-data-breach/)
+- [Chrome, Firefox Updates Patch 115 Vulnerabilities](https://www.securityweek.com/chrome-firefox-updates-patch-115-vulnerabilities/)
 
 ### Threatpost
 

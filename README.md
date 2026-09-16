@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-16 08:59 UTC |
+| 🕐 Last Updated | 2026-09-16 14:31 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`exein secures 270m` • `cve 2026 5430` • `wso2 api manager` • `multi platform campaign` • `twitter whistleblower complaint` • `national security risk` • `individuals whose licenses` • `gotten pretty good` • `forged admin tokens` • `physical ai security`
+`280 000 impacted` • `privilege escalation flaw` • `pixel devices google` • `threat actor compromised` • `national security risk` • `wso2 api manager` • `twitter whistleblower complaint` • `individuals whose licenses` • `eu chief warns` • `enterprise edition instances`
 
 ## 📄 Reports
 

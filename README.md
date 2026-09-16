@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-16 02:57 UTC |
+| 🕐 Last Updated | 2026-09-16 08:59 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`240 000 hit` • `exein secures 270m` • `multi platform campaign` • `cve probing along` • `twitter whistleblower complaint` • `malicious browser extension` • `individuals whose licenses` • `gotten pretty good` • `email parsing logic` • `risk prevention efforts`
+`exein secures 270m` • `cve 2026 5430` • `wso2 api manager` • `multi platform campaign` • `twitter whistleblower complaint` • `national security risk` • `individuals whose licenses` • `gotten pretty good` • `forged admin tokens` • `physical ai security`
 
 ## 📄 Reports
 

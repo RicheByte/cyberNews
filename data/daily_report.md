@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-16 02:57 UTC  
+> **Last Updated:** 2026-09-16 08:59 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**240 000 hit** • **exein secures 270m** • **multi platform campaign** • **cve probing along** • **twitter whistleblower complaint** • **malicious browser extension** • **individuals whose licenses** • **gotten pretty good** • **email parsing logic** • **risk prevention efforts** • **national security risk** • **extract cloud credentials** • **physical ai security** • **frontier ai improvements** • **ssh attack chains** • **vulnerable marimo notebook** • **vice versa thanks** • **turn one's television** • **toolkit called kremlin** • **text history records**
+**exein secures 270m** • **cve 2026 5430** • **wso2 api manager** • **multi platform campaign** • **twitter whistleblower complaint** • **national security risk** • **individuals whose licenses** • **gotten pretty good** • **forged admin tokens** • **physical ai security** • **risk prevention efforts** • **extract cloud credentials** • **cve probing along** • **cloud security company** • **frontier ai improvements** • **security experts warn** • **picus security explains** • **elastic security labs** • **who's harvesting data** • **vulnerable marimo notebook**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells](https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html)
+- [Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens](https://thehackernews.com/2026/09/active-exploitation-attempts-target.html)
 - [KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens](https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html)
 - [Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists](https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html)
 - [BambooToken Malware Uses MQTT to Control Windows and Linux Systems](https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html)
 - [Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds](https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html)
 - [Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point](https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html)
 - [Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers](https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html)
-- [LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server](https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html)
-- [Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution](https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html)
 
 ### BleepingComputer
 
+- [Google fixes actively exploited Android zero-day on Pixel devices](https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/)
 - [Acronis warns of actively exploited flaw in its cPanel backup plugin](https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/)
 - [Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites](https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/)
 - [CenterPoint Energy confirms customer data stolen in cyberattack](https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/)
@@ -34,7 +35,6 @@
 - [Hackers target WordPress sites via third-party WooCommerce plugin](https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/)
 - [What Zero-Day Response Should Be in the Post-Mythos Era](https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/)
 - [CISA: Critical VMware RCE flaw now exploited by ransomware gangs](https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/)
-- [Suspected Black Axe gang leaders face cybercrime charges in the US](https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Enterprises Warned of Attacks Exploiting WSO2 Vulnerability](https://www.securityweek.com/enterprises-warned-of-attacks-exploiting-wso2-vulnerability/)
+- [Oracle Patches 800+ Vulnerabilities in September 2026 Security Update](https://www.securityweek.com/oracle-patches-800-vulnerabilities-in-september-2026-security-update/)
 - [Microsoft Commits to Sweeping AI Privacy Rules for Students. Will Other Tech Giants Follow?](https://www.securityweek.com/microsoft-commits-to-sweeping-ai-privacy-rules-for-students-will-other-tech-giants-follow/)
 - [“We Think the Security Control Is Working” Is No Longer Good Enough](https://www.securityweek.com/we-think-the-security-control-is-working-is-no-longer-good-enough/)
 - [$1 Million Sandbox Challenge Uncovers Linux Kernel Flaws](https://www.securityweek.com/1-million-sandbox-challenge-uncovers-linux-kernel-flaws/)
 - [Exein Secures $270M at $1.7B Valuation for Physical AI Security](https://www.securityweek.com/exein-secures-270m-at-1-7b-valuation-for-physical-ai-security/)
 - [Texas Utility CenterPoint Energy Confirms Breach After Hacker Leaks Data](https://www.securityweek.com/texas-utility-centerpoint-energy-confirms-breach-after-hacker-leaks-data/)
 - [Thai Broadband Provider Hacked via Fortinet Vulnerability](https://www.securityweek.com/thai-broadband-provider-hacked-via-fortinet-vulnerability/)
-- [OpenAI Investigates Report Linking AI Agents to RubyGems Attack](https://www.securityweek.com/openai-investigates-report-linking-ai-agents-to-rubygems-attack/)
-- [240,000 Hit by Data Breach at Japan’s Digital Agency](https://www.securityweek.com/240000-hit-by-data-breach-at-japans-digital-agency/)
 
 ### Threatpost
 

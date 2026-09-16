@@ -329,7 +329,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2648,
+      "count": 2649,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1266,7 +1266,7 @@
       ]
     },
     "national security risk": {
-      "count": 490,
+      "count": 491,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -13442,10 +13442,11 @@
       ]
     },
     "picus security explains": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-08",
-        "2026-09-15"
+        "2026-09-15",
+        "2026-09-16"
       ]
     },
     "address security vulnerabilities": {
@@ -14303,10 +14304,11 @@
       ]
     },
     "elastic security labs": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-16",
-        "2026-04-17"
+        "2026-04-17",
+        "2026-09-16"
       ]
     },
     "horner automation cscape": {
@@ -20325,7 +20327,7 @@
       ]
     },
     "security experts warn": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -20336,7 +20338,8 @@
         "2026-09-12",
         "2026-09-13",
         "2026-09-14",
-        "2026-09-15"
+        "2026-09-15",
+        "2026-09-16"
       ]
     },
     "targets 217 banking": {
@@ -27329,7 +27332,7 @@
       ]
     },
     "who's harvesting data": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-08-14",
         "2026-08-19",
@@ -27341,7 +27344,8 @@
         "2026-09-11",
         "2026-09-12",
         "2026-09-14",
-        "2026-09-15"
+        "2026-09-15",
+        "2026-09-16"
       ]
     },
     "single control plane": {
@@ -29131,7 +29135,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 78,
+      "count": 79,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -30405,7 +30409,7 @@
       ]
     },
     "risk prevention efforts": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-09-14",
         "2026-09-15",
@@ -30475,7 +30479,7 @@
       ]
     },
     "extract cloud credentials": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-15",
         "2026-09-16"
@@ -30488,9 +30492,10 @@
       ]
     },
     "cloud security company": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-09-15"
+        "2026-09-15",
+        "2026-09-16"
       ]
     },
     "humanist ai code": {
@@ -30513,35 +30518,35 @@
       ]
     },
     "vulnerable marimo notebook": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-15",
         "2026-09-16"
       ]
     },
     "exein secures 270m": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-15",
         "2026-09-16"
       ]
     },
     "multi platform campaign": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-15",
         "2026-09-16"
       ]
     },
     "cve probing along": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-15",
         "2026-09-16"
       ]
     },
     "physical ai security": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-15",
         "2026-09-16"
@@ -30555,7 +30560,7 @@
       ]
     },
     "gotten pretty good": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-15",
         "2026-09-16"
@@ -30568,7 +30573,7 @@
       ]
     },
     "frontier ai improvements": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-15",
         "2026-09-16"
@@ -30580,20 +30585,27 @@
         "2026-09-15",
         "2026-09-16"
       ]
+    },
+    "cve 2026 5430": {
+      "count": 1,
+      "dates": [
+        "2026-09-16"
+      ]
+    },
+    "wso2 api manager": {
+      "count": 1,
+      "dates": [
+        "2026-09-16"
+      ]
+    },
+    "forged admin tokens": {
+      "count": 1,
+      "dates": [
+        "2026-09-16"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-28 03:58",
-      "articles": 48,
-      "top_keywords": [
-        "trump order aims",
-        "okta shares surge",
-        "hugging face reveal",
-        "help smbs strengthen",
-        "causes system crashes"
-      ]
-    },
     {
       "timestamp": "2026-08-28 16:26",
       "articles": 48,
@@ -31680,6 +31692,17 @@
         "exein secures 270m",
         "multi platform campaign",
         "cve probing along",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-09-16 08:59",
+      "articles": 48,
+      "top_keywords": [
+        "exein secures 270m",
+        "cve 2026 5430",
+        "wso2 api manager",
+        "multi platform campaign",
         "twitter whistleblower complaint"
       ]
     }

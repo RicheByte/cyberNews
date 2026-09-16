@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-16 14:31 UTC |
+| 🕐 Last Updated | 2026-09-16 19:18 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`280 000 impacted` • `privilege escalation flaw` • `pixel devices google` • `threat actor compromised` • `national security risk` • `wso2 api manager` • `twitter whistleblower complaint` • `individuals whose licenses` • `eu chief warns` • `enterprise edition instances`
+`ai agent powered` • `eu chief warns` • `pixel devices google` • `national security risk` • `twitter whistleblower complaint` • `nighteagle hacking cat` • `individuals whose licenses` • `impersonate trusted services` • `enterprise edition instances` • `defraud online merchants`
 
 ## 📄 Reports
 

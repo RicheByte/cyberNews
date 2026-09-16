@@ -1,72 +1,105 @@
 {
-  "last_updated": "2026-09-16 14:31",
+  "last_updated": "2026-09-16 19:18",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "280 000 impacted",
-    "privilege escalation flaw",
-    "pixel devices google",
-    "threat actor compromised",
-    "national security risk",
-    "wso2 api manager",
-    "twitter whistleblower complaint",
-    "individuals whose licenses",
+    "ai agent powered",
     "eu chief warns",
+    "pixel devices google",
+    "national security risk",
+    "twitter whistleblower complaint",
+    "nighteagle hacking cat",
+    "individuals whose licenses",
+    "impersonate trusted services",
     "enterprise edition instances",
+    "defraud online merchants",
     "control c2 infrastructure",
-    "anthropic ceo time",
+    "browser's agentic ai",
     "support international growth",
-    "risk prevention efforts",
     "enter extended support",
-    "who's harvesting data",
-    "frontier ai improvements",
+    "threat actor known",
+    "vulnerability operations platform",
+    "windows operating systems",
     "security experts warn",
     "identity security n0va",
-    "windows operating systems"
+    "will share insights"
   ],
   "trending": [
     {
-      "keyword": "280 000 impacted",
+      "keyword": "ai agent powered",
       "mentions": 1
-    },
-    {
-      "keyword": "privilege escalation flaw",
-      "mentions": 8
-    },
-    {
-      "keyword": "pixel devices google",
-      "mentions": 1
-    },
-    {
-      "keyword": "threat actor compromised",
-      "mentions": 1
-    },
-    {
-      "keyword": "national security risk",
-      "mentions": 492
-    },
-    {
-      "keyword": "wso2 api manager",
-      "mentions": 2
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2650
-    },
-    {
-      "keyword": "individuals whose licenses",
-      "mentions": 80
     },
     {
       "keyword": "eu chief warns",
+      "mentions": 2
+    },
+    {
+      "keyword": "pixel devices google",
+      "mentions": 2
+    },
+    {
+      "keyword": "national security risk",
+      "mentions": 493
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2651
+    },
+    {
+      "keyword": "nighteagle hacking cat",
+      "mentions": 1
+    },
+    {
+      "keyword": "individuals whose licenses",
+      "mentions": 81
+    },
+    {
+      "keyword": "impersonate trusted services",
       "mentions": 1
     },
     {
       "keyword": "enterprise edition instances",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "defraud online merchants",
+      "mentions": 23
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
+      "summary": "A critical security flaw in Issabel Framework, a web-based framework for the open-source unified communications PBX software, has come under active exploitation. The vulnerability in question is CVE-2026-89026 (CVSS v3.1 score: 9.8/CVSS v4.0 score: 9.3), which can allow an unauthenticated remote attacker to execute arbitrary operating system (OS) commands by taking advantage of a hard-coded",
+      "published": "Wed, 16 Sep 2026 21:20:59 +0530",
+      "value_score": 42,
+      "value_signals": [
+        "CVE mentioned",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers",
+      "link": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html",
+      "summary": "Enterprises in Russia have emerged as the target of three threat activity clusters tracked as NightEagle, Hacking Cat, and Toy Ghouls, according to multiple reports from Kaspersky. The cybersecurity vendor said it has identified attacks mounted by NightEagle (aka APT-Q-95), a threat actor known to be active since at least 2023, that involve new techniques for persistence and lateral movement.",
+      "published": "Wed, 16 Sep 2026 20:57:49 +0530",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude",
+      "link": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html",
+      "summary": "Security researchers at Forever Security have shown that one ordinary browser extension could take control of the AI assistants built into five Chromium-based products: Gemini Live in Chrome, Perplexity Comet, Microsoft Edge, Opera Neon and the Claude in Chrome extension. Once the extension was installed, it could access each product's built-in AI with a single click. On Comet, Edge,",
+      "published": "Wed, 16 Sep 2026 20:06:44 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories",
@@ -125,44 +158,23 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks",
-      "link": "https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html",
-      "summary": "Acronis has warned that a high-severity security flaw in its Backup plugin for cPanel and Web Host Manager (WHM) deployments has been exploited in the wild. The vulnerability, tracked as CVE-2026-87886 (CVSS score: 7.8), is described as a case of local privilege escalation due to insecure file permissions. It affects the following versions - Acronis Backup plugin for cPanel & WHM (Linux",
-      "published": "Wed, 16 Sep 2026 16:38:54 +0530",
-      "value_score": 71,
-      "value_signals": [
-        "CVE mentioned",
-        "Active exploitation",
-        "Privilege escalation",
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "Malware bypasses browser checks to force install Chrome, Edge extensions",
+      "link": "https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/",
+      "summary": "A banking malware operation active since mid-2025 has been using a toolkit named KREMLIN to install malicious Chrome and Edge extensions that steal credentials, session tokens, and sensitive data. [...]",
+      "published": "Wed, 16 Sep 2026 14:50:53 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html",
-      "summary": "Threat actors are exploiting a critical security flaw in WooCommerce Wholesale Lead Capture, a premium WordPress plugin that has more than 6,000 active installs. \"This vulnerability can be leveraged by unauthenticated attackers to upload arbitrary files, including PHP backdoors, and achieve remote code execution,\" Wordfence said. The WordPress security company said it has blocked over",
-      "published": "Wed, 16 Sep 2026 11:18:28 +0530",
-      "value_score": 44,
+      "source": "BleepingComputer",
+      "title": "Spain's data agency gets first report of AI-powered data breach",
+      "link": "https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/",
+      "summary": "The Spanish Data Protection Agency (AEPD) was notified of an attack allegedly carried out with an AI agent powered by a known large language model (LLM). [...]",
+      "published": "Wed, 16 Sep 2026 13:26:41 -0400",
+      "value_score": 22,
       "value_signals": [
-        "RCE",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens",
-      "link": "https://thehackernews.com/2026/09/active-exploitation-attempts-target.html",
-      "summary": "A critical security flaw in WSO2 API Manager has come under active exploitation in the wild, according to findings from watchTowr. The vulnerability, tracked as CVE-2026-5430 (CVSS score: 9.8/10.0), is a case of improper verification of a cryptographic signature that could result in account takeover. Hacktron Team has been credited with discovering and reporting the flaw. \"JWT authentication",
-      "published": "Wed, 16 Sep 2026 10:48:06 +0530",
-      "value_score": 67,
-      "value_signals": [
-        "CVE mentioned",
-        "Active exploitation",
-        "High severity",
-        "Exploit wording"
+        "Breach/leak"
       ]
     },
     {
@@ -233,24 +245,11 @@
       ]
     },
     {
-      "source": "BleepingComputer",
-      "title": "Acronis warns of actively exploited flaw in its cPanel backup plugin",
-      "link": "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/",
-      "summary": "Acronis disclosed a high-severity Linux local privilege escalation vulnerability in its backup plugin for cPanel, WebHost Manager (WHM), and Plesk that may be exploited in the wild. [...]",
-      "published": "Tue, 15 Sep 2026 17:37:35 -0400",
-      "value_score": 78,
-      "value_signals": [
-        "Active exploitation ×2",
-        "Privilege escalation",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites",
-      "link": "https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/",
-      "summary": "Malicious versions of the Admin Menu Editor Pro plugin for WordPress have been distributed to more than 200 customers after a threat actor compromised the maintainer's website and pushed updates that created a hidden user account. [...]",
-      "published": "Tue, 15 Sep 2026 16:34:15 -0400",
+      "source": "Krebs on Security",
+      "title": "Data Broker Radaris Loses Domains in Privacy Fight",
+      "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
+      "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines against data brokers that publish personal information on state law enforcement officials. In the face of repeated stonewalling and prevarication by attorneys for Radaris, the judge i",
+      "published": "Wed, 16 Sep 2026 18:14:22 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -323,11 +322,20 @@
       "value_signals": []
     },
     {
-      "source": "Krebs on Security",
-      "title": "LG to Ban Residential Proxies from Smart TV Apps",
-      "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
-      "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers found that more than 42 percent of games and other apps available for download on LG's webOS store allow unknown third-parties to route their Internet traffic through a user's TV.",
-      "published": "Wed, 22 Jul 2026 01:10:38 +0000",
+      "source": "Dark Reading",
+      "title": "Fighting Your Dragons Through Tough Tech Times",
+      "link": "https://www.darkreading.com/cybersecurity-careers/finding-hope-brutal-job-market",
+      "summary": "Cybersecurity industry veteran Hal Pomeranz gives a pep talk on career anxiety and self-doubt and shares how to build meaningful connections during historical tech industry downturns.",
+      "published": "Wed, 16 Sep 2026 18:00:54 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "BragJack Attack Can Turn a Browser's Agentic AI Against It",
+      "link": "https://www.darkreading.com/endpoint-security/bragjack-browser-agentic-ai",
+      "summary": "A new type of attack hijacks the AI assistant built directly into various browsers to access sensitive information, execute malicious actions, and exfiltrate data.",
+      "published": "Wed, 16 Sep 2026 16:43:37 GMT",
       "value_score": 10,
       "value_signals": []
     },
@@ -394,20 +402,22 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Anthropic CEO: Time to Shift From Improving to Controlling AI",
-      "link": "https://www.darkreading.com/cyber-risk/anthropic-ceo-shift-from-improving-to-controlling-ai",
-      "summary": "Dario Amodei says it's time to slow the pace of frontier AI improvements so that security and risk prevention efforts can catch up. What does this mean for enterprises?",
-      "published": "Mon, 14 Sep 2026 16:41:10 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Security Week",
+      "title": "First Agentic AI Data Breach Reported to Spanish Regulator",
+      "link": "https://www.securityweek.com/first-agentic-ai-data-breach-reported-to-spanish-regulator/",
+      "summary": "Spanish regulators say an AI agent chained together a successful login, vulnerability discovery, and access to personal data in a potential milestone for autonomous cyberattacks. The post First Agentic AI Data Breach Reported to Spanish Regulator appeared first on SecurityWeek .",
+      "published": "Wed, 16 Sep 2026 16:39:19 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Threat Actor Generates 1M Personalized Fraud Emails in 3 Days",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/1m-personalized-fraud-emails-3-days",
-      "summary": "Cybercriminals behind malicious email campaigns no longer have to compromise volume for credibility, or vice versa, thanks to AI.",
-      "published": "Fri, 11 Sep 2026 19:21:08 GMT",
+      "source": "Security Week",
+      "title": "Virtual Event Today: Attack Surface Management Summit",
+      "link": "https://www.securityweek.com/virtual-event-today-attack-surface-management-summit-2/",
+      "summary": "Join SecurityWeek today for a virtual summit exploring the strategies and tools organizations need to discover, prioritize, and defend their expanding attack surfaces. The post Virtual Event Today: Attack Surface Management Summit appeared first on SecurityWeek .",
+      "published": "Wed, 16 Sep 2026 14:35:04 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -471,28 +481,6 @@
       "published": "Wed, 16 Sep 2026 11:11:23 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "280,000 Impacted by Premier Medical Group Data Breach",
-      "link": "https://www.securityweek.com/280000-impacted-by-premier-medical-group-data-breach/",
-      "summary": "In June 2026, hackers accessed files containing patients’ names, contact information, diagnosis details, and health insurance information. The post 280,000 Impacted by Premier Medical Group Data Breach appeared first on SecurityWeek .",
-      "published": "Wed, 16 Sep 2026 10:47:18 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Chrome, Firefox Updates Patch 115 Vulnerabilities",
-      "link": "https://www.securityweek.com/chrome-firefox-updates-patch-115-vulnerabilities/",
-      "summary": "Google resolved 42 security defects in Chrome, and Mozilla fixed 73 bugs in Firefox. The post Chrome, Firefox Updates Patch 115 Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Wed, 16 Sep 2026 10:28:36 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×3"
-      ]
     },
     {
       "source": "Threatpost",

@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 759,
+      "count": 760,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -330,7 +330,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2650,
+      "count": 2651,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -734,7 +734,7 @@
       ]
     },
     "threat actor known": {
-      "count": 65,
+      "count": 66,
       "dates": [
         "2025-12-17",
         "2025-12-30",
@@ -751,7 +751,8 @@
         "2026-08-10",
         "2026-08-11",
         "2026-08-31",
-        "2026-09-01"
+        "2026-09-01",
+        "2026-09-16"
       ]
     },
     "firefox web browser": {
@@ -1267,7 +1268,7 @@
       ]
     },
     "national security risk": {
-      "count": 492,
+      "count": 493,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -9462,7 +9463,7 @@
       ]
     },
     "control c2 infrastructure": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-02-27",
         "2026-02-28",
@@ -20330,7 +20331,7 @@
       ]
     },
     "security experts warn": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -29138,7 +29139,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 80,
+      "count": 81,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29472,12 +29473,13 @@
       ]
     },
     "defraud online merchants": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-09-04",
         "2026-09-05",
         "2026-09-06",
-        "2026-09-07"
+        "2026-09-07",
+        "2026-09-16"
       ]
     },
     "allows unauthenticated attackers": {
@@ -30428,7 +30430,7 @@
       ]
     },
     "enterprise edition instances": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-14",
         "2026-09-15",
@@ -30616,7 +30618,7 @@
       ]
     },
     "pixel devices google": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-16"
       ]
@@ -30628,24 +30630,60 @@
       ]
     },
     "eu chief warns": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-16"
       ]
     },
     "support international growth": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-16"
       ]
     },
     "enter extended support": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-16"
       ]
     },
     "identity security n0va": {
+      "count": 2,
+      "dates": [
+        "2026-09-16"
+      ]
+    },
+    "ai agent powered": {
+      "count": 1,
+      "dates": [
+        "2026-09-16"
+      ]
+    },
+    "nighteagle hacking cat": {
+      "count": 1,
+      "dates": [
+        "2026-09-16"
+      ]
+    },
+    "impersonate trusted services": {
+      "count": 1,
+      "dates": [
+        "2026-09-16"
+      ]
+    },
+    "browser's agentic ai": {
+      "count": 1,
+      "dates": [
+        "2026-09-16"
+      ]
+    },
+    "vulnerability operations platform": {
+      "count": 1,
+      "dates": [
+        "2026-09-16"
+      ]
+    },
+    "will share insights": {
       "count": 1,
       "dates": [
         "2026-09-16"
@@ -30653,17 +30691,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-29 01:23",
-      "articles": 48,
-      "top_keywords": [
-        "trump order aims",
-        "software giant fixed",
-        "fresh emergency fix",
-        "extortion attempt following",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-08-29 08:32",
       "articles": 48,
@@ -31751,6 +31778,17 @@
         "pixel devices google",
         "threat actor compromised",
         "national security risk"
+      ]
+    },
+    {
+      "timestamp": "2026-09-16 19:18",
+      "articles": 48,
+      "top_keywords": [
+        "ai agent powered",
+        "eu chief warns",
+        "pixel devices google",
+        "national security risk",
+        "twitter whistleblower complaint"
       ]
     }
   ]

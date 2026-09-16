@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15 23:54",
+  "last_updated": "2026-09-16 02:57",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -12,7 +12,6 @@
     "individuals whose licenses",
     "gotten pretty good",
     "email parsing logic",
-    "cyber outages escalate",
     "risk prevention efforts",
     "national security risk",
     "extract cloud credentials",
@@ -22,48 +21,49 @@
     "vulnerable marimo notebook",
     "vice versa thanks",
     "turn one's television",
-    "toolkit called kremlin"
+    "toolkit called kremlin",
+    "text history records"
   ],
   "trending": [
     {
       "keyword": "240 000 hit",
-      "mentions": 4
-    },
-    {
-      "keyword": "exein secures 270m",
-      "mentions": 3
-    },
-    {
-      "keyword": "multi platform campaign",
-      "mentions": 3
-    },
-    {
-      "keyword": "cve probing along",
-      "mentions": 3
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2647
-    },
-    {
-      "keyword": "malicious browser extension",
-      "mentions": 2
-    },
-    {
-      "keyword": "individuals whose licenses",
-      "mentions": 77
-    },
-    {
-      "keyword": "gotten pretty good",
-      "mentions": 2
-    },
-    {
-      "keyword": "email parsing logic",
       "mentions": 5
     },
     {
-      "keyword": "cyber outages escalate",
-      "mentions": 2
+      "keyword": "exein secures 270m",
+      "mentions": 4
+    },
+    {
+      "keyword": "multi platform campaign",
+      "mentions": 4
+    },
+    {
+      "keyword": "cve probing along",
+      "mentions": 4
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2648
+    },
+    {
+      "keyword": "malicious browser extension",
+      "mentions": 3
+    },
+    {
+      "keyword": "individuals whose licenses",
+      "mentions": 78
+    },
+    {
+      "keyword": "gotten pretty good",
+      "mentions": 3
+    },
+    {
+      "keyword": "email parsing logic",
+      "mentions": 6
+    },
+    {
+      "keyword": "risk prevention efforts",
+      "mentions": 8
     }
   ],
   "articles": [
@@ -324,6 +324,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Cyber Op Targets South Korean Media &amp; Automotive Sectors",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/cyber-south-korean-media-automotive",
+      "summary": "A likely North Korean advanced persistent threat (APT) group used a previously undocumented Linux espionage toolkit to compromise load balancers, gain access to communications, and further exploit networks.",
+      "published": "Wed, 16 Sep 2026 01:00:00 GMT",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Microsoft Issues Emergency Fixes After Massive Patch Tuesday",
       "link": "https://www.darkreading.com/application-security/microsoft-emergency-fixes-patch-tuesday",
       "summary": "You can't make an omelet without breaking a few eggs, and you can't patch nearly 1,000 CVEs without a few glitches.",
@@ -390,18 +401,6 @@
       "published": "Fri, 11 Sep 2026 19:21:08 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "CISA Calls for More Guidance, Less Spin, as Cyber Outages Escalate",
-      "link": "https://www.darkreading.com/cyber-risk/cisa-calls-for-more-guidance-less-spin-as-cyber-outages-escalate",
-      "summary": "A new joint government advisory signals a regulatory shift, pressing organizations to adopt more transparent breach notification and incident response protocols.",
-      "published": "Fri, 11 Sep 2026 18:44:03 GMT",
-      "value_score": 42,
-      "value_signals": [
-        "Breach/leak",
-        "CISA/KEV"
-      ]
     },
     {
       "source": "Security Week",

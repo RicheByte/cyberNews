@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-15 23:54 UTC  
+> **Last Updated:** 2026-09-16 02:57 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**240 000 hit** • **exein secures 270m** • **multi platform campaign** • **cve probing along** • **twitter whistleblower complaint** • **malicious browser extension** • **individuals whose licenses** • **gotten pretty good** • **email parsing logic** • **cyber outages escalate** • **risk prevention efforts** • **national security risk** • **extract cloud credentials** • **physical ai security** • **frontier ai improvements** • **ssh attack chains** • **vulnerable marimo notebook** • **vice versa thanks** • **turn one's television** • **toolkit called kremlin**
+**240 000 hit** • **exein secures 270m** • **multi platform campaign** • **cve probing along** • **twitter whistleblower complaint** • **malicious browser extension** • **individuals whose licenses** • **gotten pretty good** • **email parsing logic** • **risk prevention efforts** • **national security risk** • **extract cloud credentials** • **physical ai security** • **frontier ai improvements** • **ssh attack chains** • **vulnerable marimo notebook** • **vice versa thanks** • **turn one's television** • **toolkit called kremlin** • **text history records**
 
 ---
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Cyber Op Targets South Korean Media &amp; Automotive Sectors](https://www.darkreading.com/cyberattacks-data-breaches/cyber-south-korean-media-automotive)
 - [Microsoft Issues Emergency Fixes After Massive Patch Tuesday](https://www.darkreading.com/application-security/microsoft-emergency-fixes-patch-tuesday)
 - [Black Hat USA 2026 | The 'Breaking' News: The OpenAI–Hugging Face Incident](https://www.darkreading.com/vulnerabilities-threats/bhusa26huggingfacetalk)
 - [VectraRAT Can Hack Windows Enterprises for $250 per Month](https://www.darkreading.com/endpoint-security/vectrarat-hack-windows-enterprises)
@@ -56,7 +57,6 @@
 - [Maximum Severity GitLab Flaw Puts Supply Chains at Risk](https://www.darkreading.com/cyberattacks-data-breaches/maximum-severity-gitlab-flaw-supply-chains-risk)
 - [Anthropic CEO: Time to Shift From Improving to Controlling AI](https://www.darkreading.com/cyber-risk/anthropic-ceo-shift-from-improving-to-controlling-ai)
 - [Threat Actor Generates 1M Personalized Fraud Emails in 3 Days](https://www.darkreading.com/cyberattacks-data-breaches/1m-personalized-fraud-emails-3-days)
-- [CISA Calls for More Guidance, Less Spin, as Cyber Outages Escalate](https://www.darkreading.com/cyber-risk/cisa-calls-for-more-guidance-less-spin-as-cyber-outages-escalate)
 
 ### Security Week
 

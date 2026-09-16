@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-09-16 19:18",
+  "last_updated": "2026-09-16 22:34",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "ai agent powered",
+    "valid domain credentials",
+    "targets government agencies",
     "eu chief warns",
-    "pixel devices google",
-    "national security risk",
     "twitter whistleblower complaint",
+    "omelet without breaking",
     "nighteagle hacking cat",
     "individuals whose licenses",
     "impersonate trusted services",
-    "enterprise edition instances",
     "defraud online merchants",
     "control c2 infrastructure",
     "browser's agentic ai",
-    "support international growth",
-    "enter extended support",
+    "windows operating systems",
     "threat actor known",
     "vulnerability operations platform",
-    "windows operating systems",
-    "security experts warn",
-    "identity security n0va",
-    "will share insights"
+    "virtual summit exploring",
+    "toolkit named kremlin",
+    "text history records",
+    "support international growth",
+    "sophisticated cybercrime syndicate"
   ],
   "trending": [
     {
       "keyword": "ai agent powered",
+      "mentions": 2
+    },
+    {
+      "keyword": "valid domain credentials",
+      "mentions": 1
+    },
+    {
+      "keyword": "targets government agencies",
       "mentions": 1
     },
     {
       "keyword": "eu chief warns",
-      "mentions": 2
-    },
-    {
-      "keyword": "pixel devices google",
-      "mentions": 2
-    },
-    {
-      "keyword": "national security risk",
-      "mentions": 493
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2651
+      "mentions": 2652
+    },
+    {
+      "keyword": "omelet without breaking",
+      "mentions": 1
     },
     {
       "keyword": "nighteagle hacking cat",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "individuals whose licenses",
-      "mentions": 81
+      "mentions": 82
     },
     {
       "keyword": "impersonate trusted services",
-      "mentions": 1
-    },
-    {
-      "keyword": "enterprise edition instances",
-      "mentions": 5
+      "mentions": 2
     },
     {
       "keyword": "defraud online merchants",
-      "mentions": 23
+      "mentions": 24
     }
   ],
   "articles": [
@@ -159,6 +159,26 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Windows 11 KB5124008 update breaks domain trust for some users",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/",
+      "summary": "Microsoft is investigating reports that the Windows 11 KB5124008 security update is breaking domain trust relationships on some enterprise systems, preventing users from logging in with valid domain credentials. [...]",
+      "published": "Wed, 16 Sep 2026 16:39:29 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Iranian hackers use CHOSEN BRICK Windows malware to spy on targets",
+      "link": "https://www.bleepingcomputer.com/news/security/iranian-hackers-use-chosen-brick-windows-malware-to-spy-on-targets/",
+      "summary": "Government agencies are warning that Iranian state-linked hackers are using a Windows malware strain named CHOSEN BRICK to target dissidents, activists, and journalists worldwide. [...]",
+      "published": "Wed, 16 Sep 2026 16:24:55 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Malware bypasses browser checks to force install Chrome, Edge extensions",
       "link": "https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/",
       "summary": "A banking malware operation active since mid-2025 has been using a toolkit named KREMLIN to install malicious Chrome and Edge extensions that steal credentials, session tokens, and sensitive data. [...]",
@@ -219,28 +239,6 @@
         "Active exploitation ×2",
         "CISA/KEV",
         "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Windows Server 2022 reaches end of mainstream support next month",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-next-month/",
-      "summary": "Microsoft has reminded customers that Windows Server 2022 will reach the end of mainstream support next month and enter extended support until October 2031. [...]",
-      "published": "Wed, 16 Sep 2026 05:10:20 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Google fixes actively exploited Android zero-day on Pixel devices",
-      "link": "https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/",
-      "summary": "Google has released the September 2026 security patches to address 110 vulnerabilities affecting its Pixel devices, including one zero-day flaw actively exploited in targeted attacks. [...]",
-      "published": "Wed, 16 Sep 2026 03:00:19 -0400",
-      "value_score": 100,
-      "value_signals": [
-        "Zero-day ×2",
-        "Active exploitation ×2",
         "Exploit wording"
       ]
     },
@@ -323,6 +321,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "AI Security Spending Jumps as Fear Outpaces Proof of Value",
+      "link": "https://www.darkreading.com/cybersecurity-operations/ai-security-spending-jumps-fear-outpaces-proof-value",
+      "summary": "CISOs are not waiting for AI to prove its cybersecurity value before investing in the technology. Is it the right move?",
+      "published": "Wed, 16 Sep 2026 21:26:55 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Fighting Your Dragons Through Tough Tech Times",
       "link": "https://www.darkreading.com/cybersecurity-careers/finding-hope-brutal-job-market",
       "summary": "Cybersecurity industry veteran Hal Pomeranz gives a pep talk on career anxiety and self-doubt and shares how to build meaningful connections during historical tech industry downturns.",
@@ -363,9 +370,9 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Black Hat USA 2026 | The 'Breaking' News: The OpenAI–Hugging Face Incident",
+      "title": "Black Hat USA 2026 | OpenAI's Deep Dive Into Hugging Face Incident",
       "link": "https://www.darkreading.com/vulnerabilities-threats/bhusa26huggingfacetalk",
-      "summary": "The 'Breaking' News: The OpenAI–Hugging Face Incident - A Technical Reconstruction and Its Implications for AI At this Black Hat USA 2026 talk, OpenAI security engineers and researchers will reconstruct the OpenAI-Hugging Face incident and examine its implications for AI security, cyber resilience, and alignment. Throughout the session, they will share insights that address key topics raised by the Black Hat Review Board, including model safeguards, evaluation and containment practices, defensiv",
+      "summary": "At Black Hat USA, OpenAI engineers reconstruct the Hugging Face incident and explore lessons learned about AI safeguards and cyber resilience.",
       "published": "Tue, 15 Sep 2026 19:27:19 GMT",
       "value_score": 10,
       "value_signals": []
@@ -388,17 +395,6 @@
       "value_score": 20,
       "value_signals": [
         "Botnet"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Maximum Severity GitLab Flaw Puts Supply Chains at Risk",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/maximum-severity-gitlab-flaw-supply-chains-risk",
-      "summary": "CVE-2026-85706 is a path traversal vulnerability with a 10 out of 10 CVSS score, affecting both GitLab Community Edition and Enterprise Edition instances.",
-      "published": "Mon, 14 Sep 2026 20:19:22 GMT",
-      "value_score": 28,
-      "value_signals": [
-        "CVE mentioned"
       ]
     },
     {

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-17 19:29 UTC  
+> **Last Updated:** 2026-09-17 22:36 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**remote code execution** • **leaked api keys** • **disclosing model misalignment** • **windows operating systems** • **least august 2025** • **cisco fixes dozens** • **twitter whistleblower complaint** • **released security updates** • **individuals whose licenses** • **gyazo image links** • **defraud online merchants** • **cloudflare api key** • **ciso's expert guide** • **windows implant command** • **tl dr exploitation** • **concerning model behavior** • **ai systems grow** • **security experts warn** • **national security risk** • **identity security ai**
+**remote code execution** • **cisco fixes dozens** • **windows operating systems** • **leaked api keys** • **discovered targeting users** • **disclosing model misalignment** • **least august 2025** • **twitter whistleblower complaint** • **individuals whose licenses** • **gyazo image links** • **defraud online merchants** • **cloudflare api key** • **ciso's expert guide** • **tl dr exploitation** • **concerning model behavior** • **ai systems grow** • **security experts warn** • **national security risk** • **identity security ai** • **text history records**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [New RatHat Android malware uses AI to automate device control](https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/)
 - [OpenAI details more cases of AI agents taking unauthorized actions](https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/)
 - [Brevo supply-chain attack injected ClickFix scripts on customer sites](https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/)
 - [What Recent AI-Powered Attacks Mean for Your Identity Security](https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/)
@@ -34,7 +35,6 @@
 - [US takes down NightmareStresser DDoS-for-hire platform](https://www.bleepingcomputer.com/news/security/fbi-seizes-nightmarestresser-service-linked-to-thousands-of-ddos-attacks/)
 - [Chinese hackers use SparroWocky malware in govt espionage attacks](https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/)
 - [Microsoft shares workaround for Windows domain login issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-workaround-for-windows-domain-login-authentication-issues/)
-- [Cisco warns of max severity ISE zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [CISA Ditches Weekly Vulnerability Roundups for Risk-Based Focus](https://www.darkreading.com/cyber-risk/cisa-ditches-weekly-vuln-roundups-risk-based-focus)
+- [China's FamousSparrow APT Spies on US Politics in Latin America](https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-spies-latin-america)
 - [[Virtual Event] Cybersecurity Outlook 2027](https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027)
 - [AI Security Spending Jumps as Fear Outpaces Proof of Value](https://www.darkreading.com/cybersecurity-operations/ai-security-spending-jumps-fear-outpaces-proof-value)
 - [Fighting Your Dragons Through Tough Tech Times](https://www.darkreading.com/cybersecurity-careers/finding-hope-brutal-job-market)
 - [BragJack Attack Can Turn a Browser's Agentic AI Against It](https://www.darkreading.com/endpoint-security/bragjack-browser-agentic-ai)
 - [Cyber Op Targets South Korean Media &amp; Automotive Sectors](https://www.darkreading.com/cyberattacks-data-breaches/cyber-south-korean-media-automotive)
 - [Microsoft Issues Emergency Fixes After Massive Patch Tuesday](https://www.darkreading.com/application-security/microsoft-emergency-fixes-patch-tuesday)
-- [Black Hat USA 2026 | OpenAI's Deep Dive Into Hugging Face Incident](https://www.darkreading.com/vulnerabilities-threats/bhusa26huggingfacetalk)
-- [VectraRAT Can Hack Windows Enterprises for $250 per Month](https://www.darkreading.com/endpoint-security/vectrarat-hack-windows-enterprises)
 
 ### Security Week
 

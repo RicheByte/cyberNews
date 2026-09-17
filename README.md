@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-17 19:29 UTC |
+| 🕐 Last Updated | 2026-09-17 22:36 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`remote code execution` • `leaked api keys` • `disclosing model misalignment` • `windows operating systems` • `least august 2025` • `cisco fixes dozens` • `twitter whistleblower complaint` • `released security updates` • `individuals whose licenses` • `gyazo image links`
+`remote code execution` • `cisco fixes dozens` • `windows operating systems` • `leaked api keys` • `discovered targeting users` • `disclosing model misalignment` • `least august 2025` • `twitter whistleblower complaint` • `individuals whose licenses` • `gyazo image links`
 
 ## 📄 Reports
 

@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-09-17 19:29",
+  "last_updated": "2026-09-17 22:36",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "remote code execution",
-    "leaked api keys",
-    "disclosing model misalignment",
-    "windows operating systems",
-    "least august 2025",
     "cisco fixes dozens",
+    "windows operating systems",
+    "leaked api keys",
+    "discovered targeting users",
+    "disclosing model misalignment",
+    "least august 2025",
     "twitter whistleblower complaint",
-    "released security updates",
     "individuals whose licenses",
     "gyazo image links",
     "defraud online merchants",
     "cloudflare api key",
     "ciso's expert guide",
-    "windows implant command",
     "tl dr exploitation",
     "concerning model behavior",
     "ai systems grow",
     "security experts warn",
     "national security risk",
-    "identity security ai"
+    "identity security ai",
+    "text history records"
   ],
   "trending": [
     {
       "keyword": "remote code execution",
-      "mentions": 503
+      "mentions": 504
+    },
+    {
+      "keyword": "cisco fixes dozens",
+      "mentions": 3
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 766
     },
     {
       "keyword": "leaked api keys",
+      "mentions": 2
+    },
+    {
+      "keyword": "discovered targeting users",
       "mentions": 1
     },
     {
       "keyword": "disclosing model misalignment",
-      "mentions": 1
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 765
+      "mentions": 2
     },
     {
       "keyword": "least august 2025",
-      "mentions": 5
-    },
-    {
-      "keyword": "cisco fixes dozens",
-      "mentions": 2
+      "mentions": 6
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2656
-    },
-    {
-      "keyword": "released security updates",
-      "mentions": 135
+      "mentions": 2657
     },
     {
       "keyword": "individuals whose licenses",
-      "mentions": 86
+      "mentions": 87
     },
     {
       "keyword": "gyazo image links",
-      "mentions": 2
+      "mentions": 3
     }
   ],
   "articles": [
@@ -161,6 +161,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "New RatHat Android malware uses AI to automate device control",
+      "link": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
+      "summary": "A new Android malware called RatHat has been discovered, targeting users with an AI-powered subsystem that helps operators remotely navigate compromised devices. [...]",
+      "published": "Thu, 17 Sep 2026 17:50:26 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "OpenAI details more cases of AI agents taking unauthorized actions",
       "link": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/",
       "summary": "OpenAI has presented new examples of what they call \"AI model misalignment\" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and leveraging exposed API keys. [...]",
@@ -224,19 +233,6 @@
       "value_score": 18,
       "value_signals": [
         "Patch/update"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Cisco warns of max severity ISE zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/",
-      "summary": "Cisco has released security updates to address a maximum-severity Identity Services Engine vulnerability that attackers are actively exploiting in the wild. [...]",
-      "published": "Thu, 17 Sep 2026 03:20:54 -0400",
-      "value_score": 66,
-      "value_signals": [
-        "Zero-day",
-        "Active exploitation",
-        "Exploit wording"
       ]
     },
     {
@@ -318,6 +314,28 @@
     },
     {
       "source": "Dark Reading",
+      "title": "CISA Ditches Weekly Vulnerability Roundups for Risk-Based Focus",
+      "link": "https://www.darkreading.com/cyber-risk/cisa-ditches-weekly-vuln-roundups-risk-based-focus",
+      "summary": "The move is consistent with the agency's advice on the need for organizations to prioritize the vulnerabilities that actually matter.",
+      "published": "Thu, 17 Sep 2026 21:23:50 GMT",
+      "value_score": 30,
+      "value_signals": [
+        "CISA/KEV"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "China's FamousSparrow APT Spies on US Politics in Latin America",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-spies-latin-america",
+      "summary": "Amid the US and China's fight for eco-colonial influence in Latin America, a stealthy backdoor has taken flight.",
+      "published": "Thu, 17 Sep 2026 19:15:38 GMT",
+      "value_score": 22,
+      "value_signals": [
+        "Backdoor"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "[Virtual Event] Cybersecurity Outlook 2027",
       "link": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
       "summary": "",
@@ -373,24 +391,6 @@
       "value_signals": [
         "Patch/update ×2"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Black Hat USA 2026 | OpenAI's Deep Dive Into Hugging Face Incident",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/bhusa26huggingfacetalk",
-      "summary": "At Black Hat USA, OpenAI engineers reconstruct the Hugging Face incident and explore lessons learned about AI safeguards and cyber resilience.",
-      "published": "Tue, 15 Sep 2026 19:27:19 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "VectraRAT Can Hack Windows Enterprises for $250 per Month",
-      "link": "https://www.darkreading.com/endpoint-security/vectrarat-hack-windows-enterprises",
-      "summary": "The full-service malware-as-a-service (MaaS) platform offers a Windows implant, command-and-control (C2) infrastructure, and an operator panel for comprehensive remote access.",
-      "published": "Tue, 15 Sep 2026 16:45:37 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

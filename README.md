@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-17 03:00 UTC |
+| 🕐 Last Updated | 2026-09-17 09:06 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`ai agent powered` • `valid domain credentials` • `targets government agencies` • `eu chief warns` • `twitter whistleblower complaint` • `omelet without breaking` • `nighteagle hacking cat` • `individuals whose licenses` • `impersonate trusted services` • `defraud online merchants`
+`valid domain credentials` • `cisa releases guidance` • `ai agent powered` • `post ai agents` • `omelet without breaking` • `windows operating systems` • `twitter whistleblower complaint` • `toolkit named kremlin` • `nighteagle hacking cat` • `leaked credential shows`
 
 ## 📄 Reports
 

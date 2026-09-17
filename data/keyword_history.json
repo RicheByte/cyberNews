@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 762,
+      "count": 763,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -331,7 +331,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2653,
+      "count": 2654,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -736,7 +736,7 @@
       ]
     },
     "threat actor known": {
-      "count": 68,
+      "count": 69,
       "dates": [
         "2025-12-17",
         "2025-12-30",
@@ -4327,7 +4327,7 @@
       ]
     },
     "released security updates": {
-      "count": 132,
+      "count": 133,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -4364,7 +4364,8 @@
         "2026-09-02",
         "2026-09-03",
         "2026-09-06",
-        "2026-09-07"
+        "2026-09-07",
+        "2026-09-17"
       ]
     },
     "auditability collide daily": {
@@ -29145,7 +29146,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 83,
+      "count": 84,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29480,7 +29481,7 @@
       ]
     },
     "defraud online merchants": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-09-04",
         "2026-09-05",
@@ -30638,7 +30639,7 @@
       ]
     },
     "eu chief warns": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-16",
         "2026-09-17"
@@ -30664,28 +30665,28 @@
       ]
     },
     "ai agent powered": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-16",
         "2026-09-17"
       ]
     },
     "nighteagle hacking cat": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-16",
         "2026-09-17"
       ]
     },
     "impersonate trusted services": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-16",
         "2026-09-17"
       ]
     },
     "browser's agentic ai": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-16",
         "2026-09-17"
@@ -30705,7 +30706,7 @@
       ]
     },
     "valid domain credentials": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-16",
         "2026-09-17"
@@ -30719,27 +30720,51 @@
       ]
     },
     "omelet without breaking": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-16",
         "2026-09-17"
       ]
     },
     "virtual summit exploring": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-16",
         "2026-09-17"
       ]
     },
     "toolkit named kremlin": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-16",
         "2026-09-17"
       ]
     },
     "bank accounts directly": {
+      "count": 2,
+      "dates": [
+        "2026-09-17"
+      ]
+    },
+    "cisa releases guidance": {
+      "count": 1,
+      "dates": [
+        "2026-09-17"
+      ]
+    },
+    "post ai agents": {
+      "count": 1,
+      "dates": [
+        "2026-09-17"
+      ]
+    },
+    "leaked credential shows": {
+      "count": 1,
+      "dates": [
+        "2026-09-17"
+      ]
+    },
+    "windows implant command": {
       "count": 1,
       "dates": [
         "2026-09-17"
@@ -30747,17 +30772,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-29 19:05",
-      "articles": 48,
-      "top_keywords": [
-        "trump order aims",
-        "authentication bypass flaw",
-        "software giant fixed",
-        "fresh emergency fix",
-        "extortion attempt following"
-      ]
-    },
     {
       "timestamp": "2026-08-29 22:12",
       "articles": 48,
@@ -31845,6 +31859,17 @@
         "targets government agencies",
         "eu chief warns",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-09-17 09:06",
+      "articles": 48,
+      "top_keywords": [
+        "valid domain credentials",
+        "cisa releases guidance",
+        "ai agent powered",
+        "post ai agents",
+        "omelet without breaking"
       ]
     }
   ]

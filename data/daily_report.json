@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16 22:34",
+  "last_updated": "2026-09-17 03:00",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -13,7 +13,7 @@
     "individuals whose licenses",
     "impersonate trusted services",
     "defraud online merchants",
-    "control c2 infrastructure",
+    "bank accounts directly",
     "browser's agentic ai",
     "windows operating systems",
     "threat actor known",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "ai agent powered",
-      "mentions": 2
-    },
-    {
-      "keyword": "valid domain credentials",
-      "mentions": 1
-    },
-    {
-      "keyword": "targets government agencies",
-      "mentions": 1
-    },
-    {
-      "keyword": "eu chief warns",
       "mentions": 3
     },
     {
+      "keyword": "valid domain credentials",
+      "mentions": 2
+    },
+    {
+      "keyword": "targets government agencies",
+      "mentions": 2
+    },
+    {
+      "keyword": "eu chief warns",
+      "mentions": 4
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2652
+      "mentions": 2653
     },
     {
       "keyword": "omelet without breaking",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "nighteagle hacking cat",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "individuals whose licenses",
-      "mentions": 82
+      "mentions": 83
     },
     {
       "keyword": "impersonate trusted services",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "defraud online merchants",
-      "mentions": 24
+      "mentions": 25
     }
   ],
   "articles": [
@@ -159,6 +159,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Anthropic wants Claude to analyze your bank account and financial data",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/",
+      "summary": "Anthropic is testing a new personal finance feature called \"Claude Money\" that will allow you to connect your bank accounts directly to Claude and \"understand your money.\" [...]",
+      "published": "Wed, 16 Sep 2026 20:35:48 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Windows 11 KB5124008 update breaks domain trust for some users",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/",
       "summary": "Microsoft is investigating reports that the Windows 11 KB5124008 security update is breaking domain trust relationships on some enterprise systems, preventing users from logging in with valid domain credentials. [...]",
@@ -226,20 +235,6 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Critical ScreenConnect flaw now actively exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/",
-      "summary": "Attackers now exploit a critical-severity ConnectWise ScreenConnect vulnerability in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
-      "published": "Wed, 16 Sep 2026 07:14:28 -0400",
-      "value_score": 100,
-      "value_signals": [
-        "Active exploitation ×2",
-        "CISA/KEV",
-        "High severity ×2",
-        "Exploit wording"
       ]
     },
     {

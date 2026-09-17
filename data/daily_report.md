@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-16 22:34 UTC  
+> **Last Updated:** 2026-09-17 03:00 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**ai agent powered** • **valid domain credentials** • **targets government agencies** • **eu chief warns** • **twitter whistleblower complaint** • **omelet without breaking** • **nighteagle hacking cat** • **individuals whose licenses** • **impersonate trusted services** • **defraud online merchants** • **control c2 infrastructure** • **browser's agentic ai** • **windows operating systems** • **threat actor known** • **vulnerability operations platform** • **virtual summit exploring** • **toolkit named kremlin** • **text history records** • **support international growth** • **sophisticated cybercrime syndicate**
+**ai agent powered** • **valid domain credentials** • **targets government agencies** • **eu chief warns** • **twitter whistleblower complaint** • **omelet without breaking** • **nighteagle hacking cat** • **individuals whose licenses** • **impersonate trusted services** • **defraud online merchants** • **bank accounts directly** • **browser's agentic ai** • **windows operating systems** • **threat actor known** • **vulnerability operations platform** • **virtual summit exploring** • **toolkit named kremlin** • **text history records** • **support international growth** • **sophisticated cybercrime syndicate**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Anthropic wants Claude to analyze your bank account and financial data](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/)
 - [Windows 11 KB5124008 update breaks domain trust for some users](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/)
 - [Iranian hackers use CHOSEN BRICK Windows malware to spy on targets](https://www.bleepingcomputer.com/news/security/iranian-hackers-use-chosen-brick-windows-malware-to-spy-on-targets/)
 - [Malware bypasses browser checks to force install Chrome, Edge extensions](https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/)
@@ -34,7 +35,6 @@
 - [The true cost of a ransomware attack, with and without BCDR](https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/)
 - [Microsoft says Copilot buttons still missing in classic Outlook](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-missing-outlook-copilot-buttons/)
 - [Webinar: What happens in the first hours of a Google Workspace breach](https://www.bleepingcomputer.com/news/security/webinar-what-happens-in-the-first-hours-of-a-google-workspace-breach/)
-- [Critical ScreenConnect flaw now actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/)
 
 ### Krebs on Security
 

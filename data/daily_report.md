@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-17 09:06 UTC  
+> **Last Updated:** 2026-09-17 14:35 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**valid domain credentials** • **cisa releases guidance** • **ai agent powered** • **post ai agents** • **omelet without breaking** • **windows operating systems** • **twitter whistleblower complaint** • **toolkit named kremlin** • **nighteagle hacking cat** • **leaked credential shows** • **individuals whose licenses** • **impersonate trusted services** • **eu chief warns** • **defraud online merchants** • **bank accounts directly** • **released security updates** • **windows implant command** • **threat actor known** • **browser's agentic ai** • **virtual summit exploring**
+**remote code execution** • **windows operating systems** • **cisco fixes dozens** • **least august 2025** • **released security updates** • **twitter whistleblower complaint** • **omelet without breaking** • **individuals whose licenses** • **gyazo image links** • **defraud online merchants** • **ciso's expert guide** • **ai systems grow** • **windows implant command** • **tl dr exploitation** • **post ai agents** • **security experts warn** • **national security risk** • **identity security ai** • **post ransomware attacks** • **unauthorized uploads openai**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
-- [Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution](https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html)
-- [Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers](https://thehackernews.com/2026/09/three-threat-groups-target-russian.html)
-- [One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude](https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html)
-- [Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories](https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html)
-- [Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix](https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html)
-- [N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security](https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html)
-- [Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation](https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html)
-- [Threat Intelligence Alone Won't Close the Exploitation Gap](https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html)
+- [Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone](https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html)
+- [Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar](https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html)
+- [CISO's Expert Guide to Agentic Pentesting for Websites](https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html)
+- [China-Aligned FamousSparrow Deploys SparroWocky Backdoor Across Latin America](https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html)
+- [OpenAI Reveals Six Model Incidents Involving Hidden Failures and Unauthorized Uploads](https://thehackernews.com/2026/09/openai-reveals-six-model-incidents.html)
+- [BIND 9 Update Fixes 14 Flaws, Including an Unauthenticated Crash Over DNS-over-HTTPS](https://thehackernews.com/2026/09/bind-9-update-fixes-14-flaws-including.html)
+- [Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records](https://thehackernews.com/2026/09/gyazo-breach-exposes-2362-million-user.html)
+- [Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks](https://thehackernews.com/2026/09/cisco-warns-of-new-zero-day-ise-auth.html)
 
 ### BleepingComputer
 
+- [What Recent AI-Powered Attacks Mean for Your Identity Security](https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/)
+- [Windows 11 24H2 Home and Pro reach end of support in October](https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/)
+- [US takes down NightmareStresser DDoS-for-hire platform](https://www.bleepingcomputer.com/news/security/fbi-seizes-nightmarestresser-service-linked-to-thousands-of-ddos-attacks/)
 - [Chinese hackers use SparroWocky malware in govt espionage attacks](https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/)
 - [Microsoft shares workaround for Windows domain login issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-workaround-for-windows-domain-login-authentication-issues/)
 - [Cisco warns of max severity ISE zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/)
 - [Anthropic wants Claude to analyze your bank account and financial data](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/)
 - [Windows 11 KB5124008 update breaks domain trust for some users](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/)
-- [Iranian hackers use CHOSEN BRICK Windows malware to spy on targets](https://www.bleepingcomputer.com/news/security/iranian-hackers-use-chosen-brick-windows-malware-to-spy-on-targets/)
-- [Malware bypasses browser checks to force install Chrome, Edge extensions](https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/)
-- [Spain's data agency gets first report of AI-powered data breach](https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
-- [CISA Releases Guidance on Deploying Cyber Decoys](https://www.securityweek.com/cisa-releases-guidance-on-deploying-cyber-decoys/)
+- [CISA Retires Weekly Vulnerability Bulletin in Risk-Based Pivot](https://www.securityweek.com/cisa-retires-weekly-vulnerability-bulletin-in-risk-based-pivot/)
+- [Revolut Data Breach: 5 Months, 680 High-Profile Accounts, $3M Ransom](https://www.securityweek.com/revolut-data-breach-5-months-680-high-profile-accounts-3m-ransom/)
+- [Comp AI Raises $34 Million for AI-Native Compliance and Security](https://www.securityweek.com/comp-ai-raises-34-million-for-ai-native-compliance-and-security/)
+- [ISC Patches 14 Vulnerabilities in BIND 9 Security Update](https://www.securityweek.com/isc-patches-14-vulnerabilities-in-bind-9-security-update/)
+- [Ransomware Attacks on Manufacturers Surge as Supply Chain Risk Grows](https://www.securityweek.com/ransomware-attacks-on-manufacturers-surge-as-supply-chain-risk-grows/)
+- [Cisco Fixes Dozens of Flaws Across FMC, ISE and Nexus Dashboard](https://www.securityweek.com/cisco-fixes-dozens-of-flaws-across-fmc-ise-and-nexus-dashboard/)
+- [CISA Releases Cyber Decoy Guidance to Strengthen Critical Infrastructure Defenses](https://www.securityweek.com/cisa-releases-guidance-on-deploying-cyber-decoys/)
 - [AI Agents Can Retrain Own Models Mid-Task, Leaking Secrets and Erasing Refusals](https://www.securityweek.com/ai-agents-can-retrain-own-models-mid-task-leaking-secrets-and-erasing-refusals/)
-- [Active Exploitation Triggers Emergency Patch for Cisco ISE Zero-Day](https://www.securityweek.com/active-exploitation-triggers-emergency-patch-for-cisco-ise-zero-day/)
-- [First Agentic AI Data Breach Reported to Spanish Regulator](https://www.securityweek.com/first-agentic-ai-data-breach-reported-to-spanish-regulator/)
-- [Virtual Event Today: Attack Surface Management Summit](https://www.securityweek.com/virtual-event-today-attack-surface-management-summit-2/)
-- [EU Chief Warns of AI-Powered Hacking, Moves to Rein In Social Media](https://www.securityweek.com/eu-chief-warns-of-ai-powered-hacking-moves-to-rein-in-social-media/)
-- [AIUC Raises $40 Million to Certify Enterprise AI Agents](https://www.securityweek.com/aiuc-raises-40-million-to-certify-enterprise-ai-agents/)
-- [Pixel Modem Zero-Day Exploited in Targeted Attacks](https://www.securityweek.com/pixel-modem-zero-day-exploited-in-targeted-attacks/)
 
 ### Threatpost
 

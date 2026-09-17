@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 763,
+      "count": 764,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -331,7 +331,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2654,
+      "count": 2655,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -905,7 +905,7 @@
       ]
     },
     "remote code execution": {
-      "count": 501,
+      "count": 502,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -995,7 +995,8 @@
         "2026-08-21",
         "2026-08-26",
         "2026-09-03",
-        "2026-09-04"
+        "2026-09-04",
+        "2026-09-17"
       ]
     },
     "attacker remotely control": {
@@ -1271,7 +1272,7 @@
       ]
     },
     "national security risk": {
-      "count": 493,
+      "count": 494,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1363,7 +1364,8 @@
         "2026-09-13",
         "2026-09-14",
         "2026-09-15",
-        "2026-09-16"
+        "2026-09-16",
+        "2026-09-17"
       ]
     },
     "open source millions": {
@@ -4327,7 +4329,7 @@
       ]
     },
     "released security updates": {
-      "count": 133,
+      "count": 134,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -20335,7 +20337,7 @@
       ]
     },
     "security experts warn": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -20347,7 +20349,8 @@
         "2026-09-13",
         "2026-09-14",
         "2026-09-15",
-        "2026-09-16"
+        "2026-09-16",
+        "2026-09-17"
       ]
     },
     "targets 217 banking": {
@@ -26180,9 +26183,10 @@
       ]
     },
     "least august 2025": {
-      "count": 3,
+      "count": 4,
       "dates": [
-        "2026-08-05"
+        "2026-08-05",
+        "2026-09-17"
       ]
     },
     "311 000 impacted": {
@@ -29146,7 +29150,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 84,
+      "count": 85,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29481,7 +29485,7 @@
       ]
     },
     "defraud online merchants": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-09-04",
         "2026-09-05",
@@ -30720,7 +30724,7 @@
       ]
     },
     "omelet without breaking": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-16",
         "2026-09-17"
@@ -30753,7 +30757,7 @@
       ]
     },
     "post ai agents": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-17"
       ]
@@ -30765,6 +30769,54 @@
       ]
     },
     "windows implant command": {
+      "count": 2,
+      "dates": [
+        "2026-09-17"
+      ]
+    },
+    "cisco fixes dozens": {
+      "count": 1,
+      "dates": [
+        "2026-09-17"
+      ]
+    },
+    "gyazo image links": {
+      "count": 1,
+      "dates": [
+        "2026-09-17"
+      ]
+    },
+    "ciso's expert guide": {
+      "count": 1,
+      "dates": [
+        "2026-09-17"
+      ]
+    },
+    "ai systems grow": {
+      "count": 1,
+      "dates": [
+        "2026-09-17"
+      ]
+    },
+    "tl dr exploitation": {
+      "count": 1,
+      "dates": [
+        "2026-09-17"
+      ]
+    },
+    "identity security ai": {
+      "count": 1,
+      "dates": [
+        "2026-09-17"
+      ]
+    },
+    "post ransomware attacks": {
+      "count": 1,
+      "dates": [
+        "2026-09-17"
+      ]
+    },
+    "unauthorized uploads openai": {
       "count": 1,
       "dates": [
         "2026-09-17"
@@ -30772,17 +30824,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-29 22:12",
-      "articles": 48,
-      "top_keywords": [
-        "trump order aims",
-        "authentication bypass flaw",
-        "software giant fixed",
-        "fresh emergency fix",
-        "extortion attempt following"
-      ]
-    },
     {
       "timestamp": "2026-08-30 03:09",
       "articles": 48,
@@ -31870,6 +31911,17 @@
         "ai agent powered",
         "post ai agents",
         "omelet without breaking"
+      ]
+    },
+    {
+      "timestamp": "2026-09-17 14:35",
+      "articles": 48,
+      "top_keywords": [
+        "remote code execution",
+        "windows operating systems",
+        "cisco fixes dozens",
+        "least august 2025",
+        "released security updates"
       ]
     }
   ]

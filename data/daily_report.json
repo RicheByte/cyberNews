@@ -1,120 +1,134 @@
 {
-  "last_updated": "2026-09-17 09:06",
+  "last_updated": "2026-09-17 14:35",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "valid domain credentials",
-    "cisa releases guidance",
-    "ai agent powered",
-    "post ai agents",
-    "omelet without breaking",
+    "remote code execution",
     "windows operating systems",
-    "twitter whistleblower complaint",
-    "toolkit named kremlin",
-    "nighteagle hacking cat",
-    "leaked credential shows",
-    "individuals whose licenses",
-    "impersonate trusted services",
-    "eu chief warns",
-    "defraud online merchants",
-    "bank accounts directly",
+    "cisco fixes dozens",
+    "least august 2025",
     "released security updates",
+    "twitter whistleblower complaint",
+    "omelet without breaking",
+    "individuals whose licenses",
+    "gyazo image links",
+    "defraud online merchants",
+    "ciso's expert guide",
+    "ai systems grow",
     "windows implant command",
-    "threat actor known",
-    "browser's agentic ai",
-    "virtual summit exploring"
+    "tl dr exploitation",
+    "post ai agents",
+    "security experts warn",
+    "national security risk",
+    "identity security ai",
+    "post ransomware attacks",
+    "unauthorized uploads openai"
   ],
   "trending": [
     {
-      "keyword": "valid domain credentials",
-      "mentions": 3
-    },
-    {
-      "keyword": "cisa releases guidance",
-      "mentions": 1
-    },
-    {
-      "keyword": "ai agent powered",
-      "mentions": 4
-    },
-    {
-      "keyword": "post ai agents",
-      "mentions": 1
-    },
-    {
-      "keyword": "omelet without breaking",
-      "mentions": 3
+      "keyword": "remote code execution",
+      "mentions": 502
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 763
+      "mentions": 764
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2654
+      "keyword": "cisco fixes dozens",
+      "mentions": 1
     },
     {
-      "keyword": "toolkit named kremlin",
-      "mentions": 3
-    },
-    {
-      "keyword": "nighteagle hacking cat",
+      "keyword": "least august 2025",
       "mentions": 4
     },
     {
-      "keyword": "leaked credential shows",
+      "keyword": "released security updates",
+      "mentions": 134
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2655
+    },
+    {
+      "keyword": "omelet without breaking",
+      "mentions": 4
+    },
+    {
+      "keyword": "individuals whose licenses",
+      "mentions": 85
+    },
+    {
+      "keyword": "gyazo image links",
       "mentions": 1
+    },
+    {
+      "keyword": "defraud online merchants",
+      "mentions": 27
     }
   ],
   "articles": [
     {
       "source": "The Hacker News",
-      "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
-      "summary": "A critical security flaw in Issabel Framework, a web-based framework for the open-source unified communications PBX software, has come under active exploitation. The vulnerability in question is CVE-2026-89026 (CVSS v3.1 score: 9.8/CVSS v4.0 score: 9.3), which can allow an unauthenticated remote attacker to execute arbitrary operating system (OS) commands by taking advantage of a hard-coded",
-      "published": "Wed, 16 Sep 2026 21:20:59 +0530",
-      "value_score": 42,
+      "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
+      "link": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
+      "summary": "Every release of the Unbound DNS resolver before 1.26.1 has a critical heap overflow in its DNSSEC validator, maintainer NLnet Labs said in an advisory on Wednesday. An attacker who controls a malicious zone and queries a vulnerable resolver can trigger it, enabling remote code execution. Unbound 1.26.1, released the same day, fixes the bug, tracked as CVE-2026-81642, along with",
+      "published": "Thu, 17 Sep 2026 18:00:00 +0530",
+      "value_score": 84,
       "value_signals": [
         "CVE mentioned",
-        "High severity",
+        "RCE ×2",
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
+      "link": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
+      "summary": "A new CVE drops. Your scanner finds it. The severity score looks ugly. But that still does not answer the question that matters: Can it actually be exploited in your environment? Mythos-class AI is compressing the time between disclosure and working exploitation, while many security programs still validate risk on weekly or quarterly cycles. The dangerous gap is no longer just technical. It is",
+      "published": "Thu, 17 Sep 2026 17:20:00 +0530",
+      "value_score": 16,
+      "value_signals": [
         "Exploit wording"
       ]
     },
     {
       "source": "The Hacker News",
-      "title": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers",
-      "link": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html",
-      "summary": "Enterprises in Russia have emerged as the target of three threat activity clusters tracked as NightEagle, Hacking Cat, and Toy Ghouls, according to multiple reports from Kaspersky. The cybersecurity vendor said it has identified attacks mounted by NightEagle (aka APT-Q-95), a threat actor known to be active since at least 2023, that involve new techniques for persistence and lateral movement.",
-      "published": "Wed, 16 Sep 2026 20:57:49 +0530",
-      "value_score": 28,
+      "title": "CISO's Expert Guide to Agentic Pentesting for Websites",
+      "link": "https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html",
+      "summary": "Attackers now weaponize new vulnerabilities in about five days (Mandiant, part of Google Cloud). The median organization takes 43 days to patch one (Verizon DBIR 2026). A new free guide explains how autonomous AI agents are closing that gap, and what security leaders must demand before pointing one at production. TL;DR Exploitation is now the front door. It starts 31% of breaches (Verizon DBIR",
+      "published": "Thu, 17 Sep 2026 16:20:53 +0530",
+      "value_score": 24,
       "value_signals": [
-        "Ransomware"
+        "Patch/update",
+        "Exploit wording"
       ]
     },
     {
       "source": "The Hacker News",
-      "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude",
-      "link": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html",
-      "summary": "Security researchers at Forever Security have shown that one ordinary browser extension could take control of the AI assistants built into five Chromium-based products: Gemini Live in Chrome, Perplexity Comet, Microsoft Edge, Opera Neon and the Claude in Chrome extension. Once the extension was installed, it could access each product's built-in AI with a single click. On Comet, Edge,",
-      "published": "Wed, 16 Sep 2026 20:06:44 +0530",
+      "title": "China-Aligned FamousSparrow Deploys SparroWocky Backdoor Across Latin America",
+      "link": "https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html",
+      "summary": "The China-aligned state-sponsored threat actor known as FamousSparrow has been observed deploying a previously unreported backdoor called SparroWocky in attacks targeting multiple countries in Latin America since at least August 2025. \"SparroWocky is a modular, C++ backdoor,\" ESET security researchers Alexandre Côté Cyr and Romain Dumont said in a technical report shared with The Hacker News",
+      "published": "Thu, 17 Sep 2026 15:35:45 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "Backdoor ×3"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "OpenAI Reveals Six Model Incidents Involving Hidden Failures and Unauthorized Uploads",
+      "link": "https://thehackernews.com/2026/09/openai-reveals-six-model-incidents.html",
+      "summary": "OpenAI on Wednesday disclosed six new instances of \"unexpected or concerning model behavior\" that took place over the past six months, while sharing a new framework for reporting, tracking, investigating, and disclosing model misalignment in a bid to improve transparency. \"As AI systems grow more advanced and more widely deployed, we need to build a broader and better-informed consensus on the",
+      "published": "Thu, 17 Sep 2026 15:23:38 +0530",
       "value_score": 10,
       "value_signals": []
     },
     {
       "source": "The Hacker News",
-      "title": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories",
-      "link": "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html",
-      "summary": "Mandiant says an attacker hijacked an active AI coding-assistant session at an unnamed software-as-a-service provider and later spread Shai-Hulud across about 100 internal code repositories. Before the repository spread, the assistant recommended software that the attacker had poisoned, and the recommendation was accepted. The worm stole repository secrets and source code for the",
-      "published": "Wed, 16 Sep 2026 19:07:07 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix",
-      "link": "https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html",
-      "summary": "Parallels Desktop for Mac has a flaw that lets an ordinary local account run code as root, the highest level of access on a Mac, software company JFrog said this week. The attack needs code already running on the machine as a normal user, so it does not work over the network. JFrog says the fix is in Parallels Desktop 27, a version that Intel Macs cannot install. Yuval Moravchick, who leads",
-      "published": "Wed, 16 Sep 2026 18:44:05 +0530",
+      "title": "BIND 9 Update Fixes 14 Flaws, Including an Unauthenticated Crash Over DNS-over-HTTPS",
+      "link": "https://thehackernews.com/2026/09/bind-9-update-fixes-14-flaws-including.html",
+      "summary": "The Internet Systems Consortium (ISC) has released BIND 9.20.29 and 9.21.26 to fix fourteen security flaws it disclosed on 16 September in BIND 9, its open-source DNS server software. One of them affects any BIND server that answers DNS-over-HTTPS (DoH). A sender with no credentials can crash the server process, named, with a single request that carries an invalid SIG",
+      "published": "Thu, 17 Sep 2026 13:30:29 +0530",
       "value_score": 26,
       "value_signals": [
         "Patch/update ×2"
@@ -122,40 +136,55 @@
     },
     {
       "source": "The Hacker News",
-      "title": "N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security",
-      "link": "https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html",
-      "summary": "N0va is targeting organizations across North America and Europe with phishing campaigns that impersonate trusted services and abuse legitimate authentication flows. Successful attacks can give threat actors access to valid accounts without relying on obvious malware activity. From there, a single compromised identity can open the door to sensitive data, business systems, and additional cloud",
-      "published": "Wed, 16 Sep 2026 17:28:00 +0530",
-      "value_score": 18,
+      "title": "Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records",
+      "link": "https://thehackernews.com/2026/09/gyazo-breach-exposes-2362-million-user.html",
+      "summary": "A security breach at Gyazo, Helpfeel's image-sharing service, exposed about 23.62 million user records, including email addresses and password hashes, the Kyoto-based company said in a notice published Wednesday. It also exposed about 490 million image metadata records, mostly for images from January 2019 or earlier, including the IDs that make up Gyazo image links. Helpfeel said",
+      "published": "Thu, 17 Sep 2026 13:00:01 +0530",
+      "value_score": 34,
       "value_signals": [
-        "Phishing"
+        "Breach/leak ×2"
       ]
     },
     {
       "source": "The Hacker News",
-      "title": "Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation",
-      "link": "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html",
-      "summary": "Google has disclosed that a high-severity security flaw in its Pixel Cellular Modem has come under exploitation in the wild. The vulnerability, tracked as CVE-2026-58704 (CVSS score: 8.0), is a privilege escalation flaw. \"In Cellular Modem, there is a possible permission bypass due to a logic error in the code,\" according to a description of the bug in the NIST National Vulnerability Database",
-      "published": "Wed, 16 Sep 2026 16:45:58 +0530",
-      "value_score": 71,
+      "title": "Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks",
+      "link": "https://thehackernews.com/2026/09/cisco-warns-of-new-zero-day-ise-auth.html",
+      "summary": "Cisco has warned of a fresh maximum-severity security flaw impacting Identity Services Engine (ISE) that has come under active exploitation. The vulnerability, tracked as CVE-2026-76460 (CVSS score: 10.0), could allow an unauthenticated, remote attacker to bypass authentication. \"This vulnerability is due to insufficient authentication control on an API endpoint,\" Cisco said. \"An attacker",
+      "published": "Thu, 17 Sep 2026 12:09:40 +0530",
+      "value_score": 74,
       "value_signals": [
         "CVE mentioned",
-        "Active exploitation",
-        "Privilege escalation",
+        "Zero-day",
+        "Auth bypass",
         "Exploit wording"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Threat Intelligence Alone Won't Close the Exploitation Gap",
-      "link": "https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html",
-      "summary": "A leaked credential shows up in a criminal marketplace, or a vulnerability gets a disclosure advisory, and either one can be weaponized against a real target before most security teams have triaged the alert. Attackers are combining that kind of intelligence with AI-assisted exploitation to accelerate the path from exposure to breach faster than most security programs are built to react.",
-      "published": "Wed, 16 Sep 2026 16:45:48 +0530",
-      "value_score": 28,
-      "value_signals": [
-        "Breach/leak",
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "What Recent AI-Powered Attacks Mean for Your Identity Security",
+      "link": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
+      "summary": "AI is making credential theft faster and easier to scale, giving attackers more opportunities to abuse valid identities. Specops explains why identity security must go beyond successful authentication by verifying that both the user and the device requesting access can be trusted. [...]",
+      "published": "Thu, 17 Sep 2026 10:01:11 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Windows 11 24H2 Home and Pro reach end of support in October",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/",
+      "summary": "Microsoft reminded customers this week that devices running Windows 11 24H2 Home and Pro editions will stop receiving updates next month. [...]",
+      "published": "Thu, 17 Sep 2026 09:09:09 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "US takes down NightmareStresser DDoS-for-hire platform",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-seizes-nightmarestresser-service-linked-to-thousands-of-ddos-attacks/",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) seized the domains used by NightmareStresser, one of the world's longest-running distributed denial-of-service (DDoS) platforms. [...]",
+      "published": "Thu, 17 Sep 2026 07:33:35 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -210,35 +239,6 @@
       "value_score": 26,
       "value_signals": [
         "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Iranian hackers use CHOSEN BRICK Windows malware to spy on targets",
-      "link": "https://www.bleepingcomputer.com/news/security/iranian-hackers-use-chosen-brick-windows-malware-to-spy-on-targets/",
-      "summary": "Government agencies are warning that Iranian state-linked hackers are using a Windows malware strain named CHOSEN BRICK to target dissidents, activists, and journalists worldwide. [...]",
-      "published": "Wed, 16 Sep 2026 16:24:55 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Malware bypasses browser checks to force install Chrome, Edge extensions",
-      "link": "https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/",
-      "summary": "A banking malware operation active since mid-2025 has been using a toolkit named KREMLIN to install malicious Chrome and Edge extensions that steal credentials, session tokens, and sensitive data. [...]",
-      "published": "Wed, 16 Sep 2026 14:50:53 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Spain's data agency gets first report of AI-powered data breach",
-      "link": "https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/",
-      "summary": "The Spanish Data Protection Agency (AEPD) was notified of an attack allegedly carried out with an AI agent powered by a known large language model (LLM). [...]",
-      "published": "Wed, 16 Sep 2026 13:26:41 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
       ]
     },
     {
@@ -398,13 +398,80 @@
     },
     {
       "source": "Security Week",
-      "title": "CISA Releases Guidance on Deploying Cyber Decoys",
-      "link": "https://www.securityweek.com/cisa-releases-guidance-on-deploying-cyber-decoys/",
-      "summary": "Complementing Zero Trust models, decoys enable organizations to detect, observe, and block malicious activity in their environments. The post CISA Releases Guidance on Deploying Cyber Decoys appeared first on SecurityWeek .",
-      "published": "Thu, 17 Sep 2026 07:53:43 +0000",
+      "title": "CISA Retires Weekly Vulnerability Bulletin in Risk-Based Pivot",
+      "link": "https://www.securityweek.com/cisa-retires-weekly-vulnerability-bulletin-in-risk-based-pivot/",
+      "summary": "The decision follows BOD 26-04, which directs federal organizations to prioritize vulnerabilities based on real-world risk. The post CISA Retires Weekly Vulnerability Bulletin in Risk-Based Pivot appeared first on SecurityWeek .",
+      "published": "Thu, 17 Sep 2026 14:28:00 +0000",
       "value_score": 50,
       "value_signals": [
         "CISA/KEV ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Revolut Data Breach: 5 Months, 680 High-Profile Accounts, $3M Ransom",
+      "link": "https://www.securityweek.com/revolut-data-breach-5-months-680-high-profile-accounts-3m-ransom/",
+      "summary": "Revolut allegedly fed customer information to hackers impersonating an Italian government agency for five months. The post Revolut Data Breach: 5 Months, 680 High-Profile Accounts, $3M Ransom appeared first on SecurityWeek .",
+      "published": "Thu, 17 Sep 2026 13:57:41 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Comp AI Raises $34 Million for AI-Native Compliance and Security",
+      "link": "https://www.securityweek.com/comp-ai-raises-34-million-for-ai-native-compliance-and-security/",
+      "summary": "The company plans to expand into continuous cybersecurity, offering security testing across applications and infrastructure. The post Comp AI Raises $34 Million for AI-Native Compliance and Security appeared first on SecurityWeek .",
+      "published": "Thu, 17 Sep 2026 13:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "ISC Patches 14 Vulnerabilities in BIND 9 Security Update",
+      "link": "https://www.securityweek.com/isc-patches-14-vulnerabilities-in-bind-9-security-update/",
+      "summary": "Attackers could exploit the flaws to increase resource usage, trigger an unexpected program exit, or terminate the named process. The post ISC Patches 14 Vulnerabilities in BIND 9 Security Update appeared first on SecurityWeek .",
+      "published": "Thu, 17 Sep 2026 12:39:28 +0000",
+      "value_score": 32,
+      "value_signals": [
+        "Patch/update ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Ransomware Attacks on Manufacturers Surge as Supply Chain Risk Grows",
+      "link": "https://www.securityweek.com/ransomware-attacks-on-manufacturers-surge-as-supply-chain-risk-grows/",
+      "summary": "Research shows attacks on manufacturers rose 40% in early 2026, as ransomware groups increasingly exploit the supply-chain disruption caused by operational shutdowns. The post Ransomware Attacks on Manufacturers Surge as Supply Chain Risk Grows appeared first on SecurityWeek .",
+      "published": "Thu, 17 Sep 2026 12:29:53 +0000",
+      "value_score": 52,
+      "value_signals": [
+        "Ransomware ×3",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Cisco Fixes Dozens of Flaws Across FMC, ISE and Nexus Dashboard",
+      "link": "https://www.securityweek.com/cisco-fixes-dozens-of-flaws-across-fmc-ise-and-nexus-dashboard/",
+      "summary": "The vulnerabilities may lead to root access, command execution, bypasses, SQL injection, and remote code execution. The post Cisco Fixes Dozens of Flaws Across FMC, ISE and Nexus Dashboard appeared first on SecurityWeek .",
+      "published": "Thu, 17 Sep 2026 12:17:40 +0000",
+      "value_score": 30,
+      "value_signals": [
+        "RCE"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "CISA Releases Cyber Decoy Guidance to Strengthen Critical Infrastructure Defenses",
+      "link": "https://www.securityweek.com/cisa-releases-guidance-on-deploying-cyber-decoys/",
+      "summary": "Complementing Zero Trust models, decoys enable organizations to detect, observe, and block malicious activity in their environments. The post CISA Releases Cyber Decoy Guidance to Strengthen Critical Infrastructure Defenses appeared first on SecurityWeek .",
+      "published": "Thu, 17 Sep 2026 07:53:43 +0000",
+      "value_score": 66,
+      "value_signals": [
+        "CISA/KEV ×2",
+        "High severity ×2"
       ]
     },
     {
@@ -415,71 +482,6 @@
       "published": "Thu, 17 Sep 2026 07:41:29 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Active Exploitation Triggers Emergency Patch for Cisco ISE Zero-Day",
-      "link": "https://www.securityweek.com/active-exploitation-triggers-emergency-patch-for-cisco-ise-zero-day/",
-      "summary": "Remote, unauthenticated attackers can exploit the vulnerability to bypass authentication via crafted requests. The post Active Exploitation Triggers Emergency Patch for Cisco ISE Zero-Day appeared first on SecurityWeek .",
-      "published": "Thu, 17 Sep 2026 06:19:52 +0000",
-      "value_score": 82,
-      "value_signals": [
-        "Zero-day ×2",
-        "Patch/update ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "First Agentic AI Data Breach Reported to Spanish Regulator",
-      "link": "https://www.securityweek.com/first-agentic-ai-data-breach-reported-to-spanish-regulator/",
-      "summary": "Spanish regulators say an AI agent chained together a successful login, vulnerability discovery, and access to personal data in a potential milestone for autonomous cyberattacks. The post First Agentic AI Data Breach Reported to Spanish Regulator appeared first on SecurityWeek .",
-      "published": "Wed, 16 Sep 2026 16:39:19 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Virtual Event Today: Attack Surface Management Summit",
-      "link": "https://www.securityweek.com/virtual-event-today-attack-surface-management-summit-2/",
-      "summary": "Join SecurityWeek today for a virtual summit exploring the strategies and tools organizations need to discover, prioritize, and defend their expanding attack surfaces. The post Virtual Event Today: Attack Surface Management Summit appeared first on SecurityWeek .",
-      "published": "Wed, 16 Sep 2026 14:35:04 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "EU Chief Warns of AI-Powered Hacking, Moves to Rein In Social Media",
-      "link": "https://www.securityweek.com/eu-chief-warns-of-ai-powered-hacking-moves-to-rein-in-social-media/",
-      "summary": "Ursula von der Leyen warns that advanced AI could unleash hacking on an unprecedented scale as Europe prepares new protections against social media’s “capture” of children. The post EU Chief Warns of AI-Powered Hacking, Moves to Rein In Social Media appeared first on SecurityWeek .",
-      "published": "Wed, 16 Sep 2026 14:15:18 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "AIUC Raises $40 Million to Certify Enterprise AI Agents",
-      "link": "https://www.securityweek.com/aiuc-raises-40-million-to-certify-enterprise-ai-agents/",
-      "summary": "The company provides a standard for AI systems, testing them against risks such as jailbreaks, prompt injections, and unauthorized actions. The post AIUC Raises $40 Million to Certify Enterprise AI Agents appeared first on SecurityWeek .",
-      "published": "Wed, 16 Sep 2026 13:38:36 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Pixel Modem Zero-Day Exploited in Targeted Attacks",
-      "link": "https://www.securityweek.com/pixel-modem-zero-day-exploited-in-targeted-attacks/",
-      "summary": "Google announced patches for the exploited privilege escalation vulnerability (CVE-2026-58704) on September 15. The post Pixel Modem Zero-Day Exploited in Targeted Attacks appeared first on SecurityWeek .",
-      "published": "Wed, 16 Sep 2026 13:10:54 +0000",
-      "value_score": 96,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day ×2",
-        "Privilege escalation",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

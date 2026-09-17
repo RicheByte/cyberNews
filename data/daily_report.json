@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-09-17 14:35",
+  "last_updated": "2026-09-17 19:29",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "remote code execution",
+    "leaked api keys",
+    "disclosing model misalignment",
     "windows operating systems",
-    "cisco fixes dozens",
     "least august 2025",
-    "released security updates",
+    "cisco fixes dozens",
     "twitter whistleblower complaint",
-    "omelet without breaking",
+    "released security updates",
     "individuals whose licenses",
     "gyazo image links",
     "defraud online merchants",
+    "cloudflare api key",
     "ciso's expert guide",
-    "ai systems grow",
     "windows implant command",
     "tl dr exploitation",
-    "post ai agents",
+    "concerning model behavior",
+    "ai systems grow",
     "security experts warn",
     "national security risk",
-    "identity security ai",
-    "post ransomware attacks",
-    "unauthorized uploads openai"
+    "identity security ai"
   ],
   "trending": [
     {
       "keyword": "remote code execution",
-      "mentions": 502
+      "mentions": 503
+    },
+    {
+      "keyword": "leaked api keys",
+      "mentions": 1
+    },
+    {
+      "keyword": "disclosing model misalignment",
+      "mentions": 1
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 764
-    },
-    {
-      "keyword": "cisco fixes dozens",
-      "mentions": 1
+      "mentions": 765
     },
     {
       "keyword": "least august 2025",
-      "mentions": 4
+      "mentions": 5
     },
     {
-      "keyword": "released security updates",
-      "mentions": 134
+      "keyword": "cisco fixes dozens",
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2655
+      "mentions": 2656
     },
     {
-      "keyword": "omelet without breaking",
-      "mentions": 4
+      "keyword": "released security updates",
+      "mentions": 135
     },
     {
       "keyword": "individuals whose licenses",
-      "mentions": 85
+      "mentions": 86
     },
     {
       "keyword": "gyazo image links",
-      "mentions": 1
-    },
-    {
-      "keyword": "defraud online merchants",
-      "mentions": 27
+      "mentions": 2
     }
   ],
   "articles": [
@@ -161,6 +161,24 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "OpenAI details more cases of AI agents taking unauthorized actions",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/",
+      "summary": "OpenAI has presented new examples of what they call \"AI model misalignment\" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and leveraging exposed API keys. [...]",
+      "published": "Thu, 17 Sep 2026 14:55:12 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites",
+      "link": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
+      "summary": "Brevo confirmed that attackers stole a Cloudflare API key and used it to inject malicious ClickFix scripts into its websites and JavaScript files embedded on customer sites to distribute malware. [...]",
+      "published": "Thu, 17 Sep 2026 13:11:34 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "What Recent AI-Powered Attacks Mean for Your Identity Security",
       "link": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
       "summary": "AI is making credential theft faster and easier to scale, giving attackers more opportunities to abuse valid identities. Specops explains why identity security must go beyond successful authentication by verifying that both the user and the device requesting access can be trusted. [...]",
@@ -219,26 +237,6 @@
         "Zero-day",
         "Active exploitation",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Anthropic wants Claude to analyze your bank account and financial data",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/",
-      "summary": "Anthropic is testing a new personal finance feature called \"Claude Money\" that will allow you to connect your bank accounts directly to Claude and \"understand your money.\" [...]",
-      "published": "Wed, 16 Sep 2026 20:35:48 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Windows 11 KB5124008 update breaks domain trust for some users",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/",
-      "summary": "Microsoft is investigating reports that the Windows 11 KB5124008 security update is breaking domain trust relationships on some enterprise systems, preventing users from logging in with valid domain credentials. [...]",
-      "published": "Wed, 16 Sep 2026 16:39:29 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
       ]
     },
     {
@@ -320,6 +318,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "[Virtual Event] Cybersecurity Outlook 2027",
+      "link": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
+      "summary": "",
+      "published": "2026-12-03T16:00:00.000Z",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "AI Security Spending Jumps as Fear Outpaces Proof of Value",
       "link": "https://www.darkreading.com/cybersecurity-operations/ai-security-spending-jumps-fear-outpaces-proof-value",
       "summary": "CISOs are not waiting for AI to prove its cybersecurity value before investing in the technology. Is it the right move?",
@@ -386,15 +393,22 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "'Sandworm' Chains Cisco Vulnerabilities to Deploy Cyclops Blink",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/sandworm-chains-cisco-vulnerabilities-cyclops-blink",
-      "summary": "The notorious Russian threat group is spreading an upgraded version of the botnet malware, which the FBI disrupted in 2022.",
-      "published": "Mon, 14 Sep 2026 21:37:28 GMT",
-      "value_score": 20,
-      "value_signals": [
-        "Botnet"
-      ]
+      "source": "Security Week",
+      "title": "Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels",
+      "link": "https://www.securityweek.com/cyberattacks-on-two-oil-tankers-prompt-coast-guard-fbi-to-board-vessels/",
+      "summary": "The Coast Guard confirmed evidence of malicious cyber activity on the VL Prosperity, but has not attributed the attack to Iran. The post Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels appeared first on SecurityWeek .",
+      "published": "Thu, 17 Sep 2026 17:09:40 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "OpenAI Says Its Models Searched GitHub for Leaked API Keys During Training",
+      "link": "https://www.securityweek.com/openai-says-its-models-hunted-github-for-leaked-api-keys-during-training/",
+      "summary": "OpenAI published a framework for disclosing model misalignment alongside six reports describing problematic behavior. The post OpenAI Says Its Models Searched GitHub for Leaked API Keys During Training appeared first on SecurityWeek .",
+      "published": "Thu, 17 Sep 2026 15:45:29 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -461,27 +475,6 @@
       "value_signals": [
         "RCE"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "CISA Releases Cyber Decoy Guidance to Strengthen Critical Infrastructure Defenses",
-      "link": "https://www.securityweek.com/cisa-releases-guidance-on-deploying-cyber-decoys/",
-      "summary": "Complementing Zero Trust models, decoys enable organizations to detect, observe, and block malicious activity in their environments. The post CISA Releases Cyber Decoy Guidance to Strengthen Critical Infrastructure Defenses appeared first on SecurityWeek .",
-      "published": "Thu, 17 Sep 2026 07:53:43 +0000",
-      "value_score": 66,
-      "value_signals": [
-        "CISA/KEV ×2",
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "AI Agents Can Retrain Own Models Mid-Task, Leaking Secrets and Erasing Refusals",
-      "link": "https://www.securityweek.com/ai-agents-can-retrain-own-models-mid-task-leaking-secrets-and-erasing-refusals/",
-      "summary": "New research from Irregular shows AI agents can retrain and redeploy their own underlying models during routine maintenance tasks. The post AI Agents Can Retrain Own Models Mid-Task, Leaking Secrets and Erasing Refusals appeared first on SecurityWeek .",
-      "published": "Thu, 17 Sep 2026 07:41:29 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

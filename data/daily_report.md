@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-17 14:35 UTC  
+> **Last Updated:** 2026-09-17 19:29 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**remote code execution** • **windows operating systems** • **cisco fixes dozens** • **least august 2025** • **released security updates** • **twitter whistleblower complaint** • **omelet without breaking** • **individuals whose licenses** • **gyazo image links** • **defraud online merchants** • **ciso's expert guide** • **ai systems grow** • **windows implant command** • **tl dr exploitation** • **post ai agents** • **security experts warn** • **national security risk** • **identity security ai** • **post ransomware attacks** • **unauthorized uploads openai**
+**remote code execution** • **leaked api keys** • **disclosing model misalignment** • **windows operating systems** • **least august 2025** • **cisco fixes dozens** • **twitter whistleblower complaint** • **released security updates** • **individuals whose licenses** • **gyazo image links** • **defraud online merchants** • **cloudflare api key** • **ciso's expert guide** • **windows implant command** • **tl dr exploitation** • **concerning model behavior** • **ai systems grow** • **security experts warn** • **national security risk** • **identity security ai**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [OpenAI details more cases of AI agents taking unauthorized actions](https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/)
+- [Brevo supply-chain attack injected ClickFix scripts on customer sites](https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/)
 - [What Recent AI-Powered Attacks Mean for Your Identity Security](https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/)
 - [Windows 11 24H2 Home and Pro reach end of support in October](https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/)
 - [US takes down NightmareStresser DDoS-for-hire platform](https://www.bleepingcomputer.com/news/security/fbi-seizes-nightmarestresser-service-linked-to-thousands-of-ddos-attacks/)
 - [Chinese hackers use SparroWocky malware in govt espionage attacks](https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/)
 - [Microsoft shares workaround for Windows domain login issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-workaround-for-windows-domain-login-authentication-issues/)
 - [Cisco warns of max severity ISE zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/)
-- [Anthropic wants Claude to analyze your bank account and financial data](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/)
-- [Windows 11 KB5124008 update breaks domain trust for some users](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [[Virtual Event] Cybersecurity Outlook 2027](https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027)
 - [AI Security Spending Jumps as Fear Outpaces Proof of Value](https://www.darkreading.com/cybersecurity-operations/ai-security-spending-jumps-fear-outpaces-proof-value)
 - [Fighting Your Dragons Through Tough Tech Times](https://www.darkreading.com/cybersecurity-careers/finding-hope-brutal-job-market)
 - [BragJack Attack Can Turn a Browser's Agentic AI Against It](https://www.darkreading.com/endpoint-security/bragjack-browser-agentic-ai)
@@ -56,18 +57,17 @@
 - [Microsoft Issues Emergency Fixes After Massive Patch Tuesday](https://www.darkreading.com/application-security/microsoft-emergency-fixes-patch-tuesday)
 - [Black Hat USA 2026 | OpenAI's Deep Dive Into Hugging Face Incident](https://www.darkreading.com/vulnerabilities-threats/bhusa26huggingfacetalk)
 - [VectraRAT Can Hack Windows Enterprises for $250 per Month](https://www.darkreading.com/endpoint-security/vectrarat-hack-windows-enterprises)
-- ['Sandworm' Chains Cisco Vulnerabilities to Deploy Cyclops Blink](https://www.darkreading.com/cyberattacks-data-breaches/sandworm-chains-cisco-vulnerabilities-cyclops-blink)
 
 ### Security Week
 
+- [Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels](https://www.securityweek.com/cyberattacks-on-two-oil-tankers-prompt-coast-guard-fbi-to-board-vessels/)
+- [OpenAI Says Its Models Searched GitHub for Leaked API Keys During Training](https://www.securityweek.com/openai-says-its-models-hunted-github-for-leaked-api-keys-during-training/)
 - [CISA Retires Weekly Vulnerability Bulletin in Risk-Based Pivot](https://www.securityweek.com/cisa-retires-weekly-vulnerability-bulletin-in-risk-based-pivot/)
 - [Revolut Data Breach: 5 Months, 680 High-Profile Accounts, $3M Ransom](https://www.securityweek.com/revolut-data-breach-5-months-680-high-profile-accounts-3m-ransom/)
 - [Comp AI Raises $34 Million for AI-Native Compliance and Security](https://www.securityweek.com/comp-ai-raises-34-million-for-ai-native-compliance-and-security/)
 - [ISC Patches 14 Vulnerabilities in BIND 9 Security Update](https://www.securityweek.com/isc-patches-14-vulnerabilities-in-bind-9-security-update/)
 - [Ransomware Attacks on Manufacturers Surge as Supply Chain Risk Grows](https://www.securityweek.com/ransomware-attacks-on-manufacturers-surge-as-supply-chain-risk-grows/)
 - [Cisco Fixes Dozens of Flaws Across FMC, ISE and Nexus Dashboard](https://www.securityweek.com/cisco-fixes-dozens-of-flaws-across-fmc-ise-and-nexus-dashboard/)
-- [CISA Releases Cyber Decoy Guidance to Strengthen Critical Infrastructure Defenses](https://www.securityweek.com/cisa-releases-guidance-on-deploying-cyber-decoys/)
-- [AI Agents Can Retrain Own Models Mid-Task, Leaking Secrets and Erasing Refusals](https://www.securityweek.com/ai-agents-can-retrain-own-models-mid-task-leaking-secrets-and-erasing-refusals/)
 
 ### Threatpost
 

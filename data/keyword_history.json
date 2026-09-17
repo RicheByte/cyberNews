@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 764,
+      "count": 765,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -331,7 +331,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2655,
+      "count": 2656,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -905,7 +905,7 @@
       ]
     },
     "remote code execution": {
-      "count": 502,
+      "count": 503,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1272,7 +1272,7 @@
       ]
     },
     "national security risk": {
-      "count": 494,
+      "count": 495,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -4329,7 +4329,7 @@
       ]
     },
     "released security updates": {
-      "count": 134,
+      "count": 135,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -20337,7 +20337,7 @@
       ]
     },
     "security experts warn": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -26183,7 +26183,7 @@
       ]
     },
     "least august 2025": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-05",
         "2026-09-17"
@@ -29150,7 +29150,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 85,
+      "count": 86,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29485,7 +29485,7 @@
       ]
     },
     "defraud online merchants": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-09-04",
         "2026-09-05",
@@ -30769,43 +30769,43 @@
       ]
     },
     "windows implant command": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-17"
       ]
     },
     "cisco fixes dozens": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-17"
       ]
     },
     "gyazo image links": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-17"
       ]
     },
     "ciso's expert guide": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-17"
       ]
     },
     "ai systems grow": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-17"
       ]
     },
     "tl dr exploitation": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-17"
       ]
     },
     "identity security ai": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-17"
       ]
@@ -30821,20 +30821,33 @@
       "dates": [
         "2026-09-17"
       ]
+    },
+    "leaked api keys": {
+      "count": 1,
+      "dates": [
+        "2026-09-17"
+      ]
+    },
+    "disclosing model misalignment": {
+      "count": 1,
+      "dates": [
+        "2026-09-17"
+      ]
+    },
+    "cloudflare api key": {
+      "count": 1,
+      "dates": [
+        "2026-09-17"
+      ]
+    },
+    "concerning model behavior": {
+      "count": 1,
+      "dates": [
+        "2026-09-17"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-30 03:09",
-      "articles": 48,
-      "top_keywords": [
-        "trump order aims",
-        "authentication bypass flaw",
-        "software giant fixed",
-        "fresh emergency fix",
-        "extortion attempt following"
-      ]
-    },
     {
       "timestamp": "2026-08-30 09:40",
       "articles": 40,
@@ -31922,6 +31935,17 @@
         "cisco fixes dozens",
         "least august 2025",
         "released security updates"
+      ]
+    },
+    {
+      "timestamp": "2026-09-17 19:29",
+      "articles": 48,
+      "top_keywords": [
+        "remote code execution",
+        "leaked api keys",
+        "disclosing model misalignment",
+        "windows operating systems",
+        "least august 2025"
       ]
     }
   ]

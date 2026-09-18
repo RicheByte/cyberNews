@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 767,
+      "count": 768,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -332,7 +332,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2658,
+      "count": 2659,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1275,7 +1275,7 @@
       ]
     },
     "national security risk": {
-      "count": 497,
+      "count": 498,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -20341,7 +20341,7 @@
       ]
     },
     "security experts warn": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -26471,7 +26471,7 @@
       ]
     },
     "text history records": {
-      "count": 197,
+      "count": 198,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -28975,7 +28975,7 @@
       ]
     },
     "sophisticated cybercrime syndicate": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-08-31",
         "2026-09-01",
@@ -28986,7 +28986,8 @@
         "2026-09-10",
         "2026-09-14",
         "2026-09-16",
-        "2026-09-17"
+        "2026-09-17",
+        "2026-09-18"
       ]
     },
     "cronos blockchain network": {
@@ -29157,7 +29158,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 88,
+      "count": 89,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29493,7 +29494,7 @@
       ]
     },
     "defraud online merchants": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-09-04",
         "2026-09-05",
@@ -29782,11 +29783,12 @@
       ]
     },
     "siphoning images collected": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-09-08",
         "2026-09-09",
-        "2026-09-14"
+        "2026-09-14",
+        "2026-09-18"
       ]
     },
     "200 000 records": {
@@ -30798,7 +30800,7 @@
       ]
     },
     "ciso's expert guide": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-17",
         "2026-09-18"
@@ -30812,14 +30814,14 @@
       ]
     },
     "tl dr exploitation": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-17",
         "2026-09-18"
       ]
     },
     "identity security ai": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-17",
         "2026-09-18"
@@ -30838,7 +30840,7 @@
       ]
     },
     "leaked api keys": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-17",
         "2026-09-18"
@@ -30852,7 +30854,7 @@
       ]
     },
     "cloudflare api key": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-17",
         "2026-09-18"
@@ -30871,20 +30873,45 @@
         "2026-09-17",
         "2026-09-18"
       ]
+    },
+    "security management server": {
+      "count": 1,
+      "dates": [
+        "2026-09-18"
+      ]
+    },
+    "javascript files embedded": {
+      "count": 1,
+      "dates": [
+        "2026-09-18"
+      ]
+    },
+    "control compromised devices": {
+      "count": 1,
+      "dates": [
+        "2026-09-18"
+      ]
+    },
+    "work often enough": {
+      "count": 1,
+      "dates": [
+        "2026-09-18"
+      ]
+    },
+    "unexpected program exit": {
+      "count": 1,
+      "dates": [
+        "2026-09-18"
+      ]
+    },
+    "risk based pivot": {
+      "count": 1,
+      "dates": [
+        "2026-09-18"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-30 18:59",
-      "articles": 48,
-      "top_keywords": [
-        "authentication bypass flaw",
-        "software giant fixed",
-        "trump order aims",
-        "fresh emergency fix",
-        "extortion attempt following"
-      ]
-    },
     {
       "timestamp": "2026-08-30 22:18",
       "articles": 48,
@@ -31972,6 +31999,17 @@
         "windows operating systems",
         "leaked api keys",
         "discovered targeting users"
+      ]
+    },
+    {
+      "timestamp": "2026-09-18 08:40",
+      "articles": 48,
+      "top_keywords": [
+        "security management server",
+        "windows operating systems",
+        "twitter whistleblower complaint",
+        "tl dr exploitation",
+        "javascript files embedded"
       ]
     }
   ]

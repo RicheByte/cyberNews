@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-18 18:48 UTC |
+| 🕐 Last Updated | 2026-09-18 22:11 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`least 2022 nightmarestresser` • `azure ai foundry` • `achieve privilege escalation` • `ai built exploit` • `twitter whistleblower complaint` • `secure enterprise sharing` • `longest running ddos` • `individuals whose licenses` • `defraud online merchants` • `control compromised devices`
+`azure ai foundry` • `least 2022 nightmarestresser` • `ai built exploit` • `achieve privilege escalation` • `ai driven attacks` • `twitter whistleblower complaint` • `secure enterprise sharing` • `mfa won't save` • `individuals whose licenses` • `enable local root`
 
 ## 📄 Reports
 

@@ -1,72 +1,84 @@
 {
-  "last_updated": "2026-09-18 18:48",
+  "last_updated": "2026-09-18 22:11",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "least 2022 nightmarestresser",
     "azure ai foundry",
-    "achieve privilege escalation",
+    "least 2022 nightmarestresser",
     "ai built exploit",
+    "achieve privilege escalation",
+    "ai driven attacks",
     "twitter whistleblower complaint",
     "secure enterprise sharing",
-    "longest running ddos",
+    "mfa won't save",
     "individuals whose licenses",
+    "enable local root",
     "defraud online merchants",
-    "control compromised devices",
-    "build meaningful connections",
+    "ai powered dlp",
+    "ai create demand",
+    "ai branded products",
     "npm package registry",
     "13 npm packages",
-    "browser's agentic ai",
-    "ai powered dlp",
-    "ai branded products",
-    "websites code repositories",
+    "longest running ddos",
     "text history records",
     "sophisticated cybercrime syndicate",
-    "sites still call"
+    "siphoning images collected"
   ],
   "trending": [
     {
-      "keyword": "least 2022 nightmarestresser",
-      "mentions": 2
-    },
-    {
       "keyword": "azure ai foundry",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "achieve privilege escalation",
-      "mentions": 2
+      "keyword": "least 2022 nightmarestresser",
+      "mentions": 3
     },
     {
       "keyword": "ai built exploit",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2661
+      "keyword": "achieve privilege escalation",
+      "mentions": 3
     },
     {
-      "keyword": "secure enterprise sharing",
+      "keyword": "ai driven attacks",
       "mentions": 1
     },
     {
-      "keyword": "longest running ddos",
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2662
+    },
+    {
+      "keyword": "secure enterprise sharing",
       "mentions": 2
     },
     {
+      "keyword": "mfa won't save",
+      "mentions": 1
+    },
+    {
       "keyword": "individuals whose licenses",
-      "mentions": 91
+      "mentions": 92
     },
     {
-      "keyword": "defraud online merchants",
-      "mentions": 33
-    },
-    {
-      "keyword": "control compromised devices",
-      "mentions": 3
+      "keyword": "enable local root",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
+      "link": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html",
+      "summary": "A security researcher has released working exploit code for four Linux kernel flaws that each let a local user gain root, the highest level of access on a machine. Kernel maintainers have fixed all four over the past few weeks, so a system running an up-to-date kernel is not affected. But the exploit code is now public, and any machine still running an older kernel should be updated. The flaws",
+      "published": "Fri, 18 Sep 2026 23:32:24 +0530",
+      "value_score": 24,
+      "value_signals": [
+        "Patch/update",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
@@ -138,17 +150,6 @@
       "published": "Fri, 18 Sep 2026 14:48:03 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
-      "link": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
-      "summary": "Cybersecurity researchers have flagged a new Android malware called RatHat that's assessed to be operated by China-based threat actors and features an artificial intelligence (AI)-powered system to navigate and control compromised devices. \"Distributed primarily via targeted smishing (SMS/text phishing) and malvertising campaigns leading to deceptive third-party download portals, RatHat uses",
-      "published": "Fri, 18 Sep 2026 11:47:25 +0530",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -308,6 +309,46 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Vectra AI Launches Ascent to Help Address New Era of AI-Driven Attacks",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/vectra-ai-launches-ascent-new-era-ai-driven-attacks",
+      "summary": "The new program expands Vectra AI's partner strategy as increasingly complex security environments and the growing use of AI create demand for broader AI expertise, services, and security outcomes.",
+      "published": "Fri, 18 Sep 2026 20:24:51 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Cisco Zero-Day Highlights API Endpoint Authentication Issues",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/cisco-zero-day-api-endpoint-authentication-issues",
+      "summary": "The authentication bypass flaw CVE-2026-76460 impacts Cisco's Identity Services Engine (ISE) and received a maximum 10 out of 10 CVSS score.",
+      "published": "Fri, 18 Sep 2026 19:26:47 GMT",
+      "value_score": 68,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day",
+        "Auth bypass"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "EY Survey Finds Autonomous AI Implementation Outpaces Oversight",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ey-survey-autonomous-ai-implementation-outpaces-oversight",
+      "summary": "A new survey of senior AI execs shows that while organizations are rapidly deploying AI and autonomous systems, their process and controls are not keeping pace.",
+      "published": "Fri, 18 Sep 2026 19:23:48 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "MFA Won't Save You From OAuth Consent Abuse",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/mfa-oauth-consent-abuse",
+      "summary": "MFA is essential, but it cannot replace OAuth governance, least-privilege scopes, consent monitoring, and rapid revocation.",
+      "published": "Fri, 18 Sep 2026 18:15:20 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "AI Agent Breaches Spanish Organization, Modifies Personal Data",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-breaches-spanish-organization-personal-data",
       "summary": "AI-driven cyberattacks used to be exotic. Soon, it'll be odd if threat actors aren't using agents to do all of their bidding.",
@@ -345,44 +386,6 @@
       "published": "2026-12-03T16:00:00.000Z",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "AI Security Spending Jumps as Fear Outpaces Proof of Value",
-      "link": "https://www.darkreading.com/cybersecurity-operations/ai-security-spending-jumps-fear-outpaces-proof-value",
-      "summary": "CISOs are not waiting for AI to prove its cybersecurity value before investing in the technology. Is it the right move?",
-      "published": "Wed, 16 Sep 2026 21:26:55 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Fighting Your Dragons Through Tough Tech Times",
-      "link": "https://www.darkreading.com/cybersecurity-careers/finding-hope-brutal-job-market",
-      "summary": "Cybersecurity industry veteran Hal Pomeranz gives a pep talk on career anxiety and self-doubt and shares how to build meaningful connections during historical tech industry downturns.",
-      "published": "Wed, 16 Sep 2026 18:00:54 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "BragJack Attack Can Turn a Browser's Agentic AI Against It",
-      "link": "https://www.darkreading.com/endpoint-security/bragjack-browser-agentic-ai",
-      "summary": "A new type of attack hijacks the AI assistant built directly into various browsers to access sensitive information, execute malicious actions, and exfiltrate data.",
-      "published": "Wed, 16 Sep 2026 16:43:37 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Cyber Op Targets South Korean Media &amp; Automotive Sectors",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/cyber-south-korean-media-automotive",
-      "summary": "A likely North Korean advanced persistent threat (APT) group used a previously undocumented Linux espionage toolkit to compromise load balancers, gain access to communications, and further exploit networks.",
-      "published": "Wed, 16 Sep 2026 01:00:00 GMT",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "Security Week",

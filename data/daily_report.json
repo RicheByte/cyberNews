@@ -1,72 +1,94 @@
 {
-  "last_updated": "2026-09-18 14:02",
+  "last_updated": "2026-09-18 18:48",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "least 2022 nightmarestresser",
     "azure ai foundry",
     "achieve privilege escalation",
-    "injected malicious scripts",
     "ai built exploit",
     "twitter whistleblower complaint",
+    "secure enterprise sharing",
     "longest running ddos",
     "individuals whose licenses",
     "defraud online merchants",
     "control compromised devices",
     "build meaningful connections",
     "npm package registry",
-    "compromised api key",
     "13 npm packages",
-    "identity security ai",
-    "security management server",
-    "security experts warn",
-    "national security risk",
-    "lean security teams",
-    "browser's agentic ai"
+    "browser's agentic ai",
+    "ai powered dlp",
+    "ai branded products",
+    "websites code repositories",
+    "text history records",
+    "sophisticated cybercrime syndicate",
+    "sites still call"
   ],
   "trending": [
     {
       "keyword": "least 2022 nightmarestresser",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "azure ai foundry",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "achieve privilege escalation",
-      "mentions": 1
-    },
-    {
-      "keyword": "injected malicious scripts",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "ai built exploit",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2660
+      "mentions": 2661
     },
     {
-      "keyword": "longest running ddos",
+      "keyword": "secure enterprise sharing",
       "mentions": 1
     },
     {
+      "keyword": "longest running ddos",
+      "mentions": 2
+    },
+    {
       "keyword": "individuals whose licenses",
-      "mentions": 90
+      "mentions": 91
     },
     {
       "keyword": "defraud online merchants",
-      "mentions": 32
+      "mentions": 33
     },
     {
       "keyword": "control compromised devices",
-      "mentions": 2
+      "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
+      "link": "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html",
+      "summary": "WordPress today released patches to fix a new set of vulnerabilities in its core software, one of which could allow a crafted web link, opened by a logged-in administrator, to install a theme from the official WordPress.org directory without anyone clicking Install. The security firm pwn.ai, whose researchers reported the flaw, calls the attack chain Click2Shell. On its own the flaw only",
+      "published": "Fri, 18 Sep 2026 22:26:19 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
+      "link": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
+      "summary": "The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks targeting government and defense entities in India and Afghanistan. The attacks, per Zscaler ThreatLabz, involve the use of previously undocumented tools called RUSTYSHADE, RUSTYMOVE, PSNATCH, and BASHNATCH. The activity has been codenamed Operation",
+      "published": "Fri, 18 Sep 2026 20:54:16 +0530",
+      "value_score": 22,
+      "value_signals": [
+        "Backdoor"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
@@ -129,23 +151,41 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
-      "link": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
-      "summary": "A critical vulnerability in Check Point's Security Management and Log Servers could allow an attacker without login credentials to run code as root on those servers over the network. The Security Management Server is the system that controls firewall policy and administrator access. Check Point has released a fix through its LivePatch update channel and says it has no indication that the flaw",
-      "published": "Thu, 17 Sep 2026 23:38:28 +0530",
-      "value_score": 42,
+      "source": "BleepingComputer",
+      "title": "Gyazo server flaw exploited to steal 23.6 million user records",
+      "link": "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/",
+      "summary": "The Gyazo image-sharing platform has confirmed it suffered a data breach after hackers exploited a server vulnerability that allowed them to steal 23.6 million user records. [...]",
+      "published": "Fri, 18 Sep 2026 12:00:38 -0400",
+      "value_score": 28,
       "value_signals": [
-        "Patch/update ×2",
-        "High severity ×2"
+        "Breach/leak",
+        "Exploit wording"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories",
-      "link": "https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html",
-      "summary": "Attackers keep finding new keys. The funny part is that defenders keep inventing where to store them. This week, those keys sit in AI tools, exposed services, old bugs, weak logins, and software sold like a monthly subscription. Some attacks use new tricks. Others just reuse what was already lying around. Both work often enough. So the threat landscape is not getting cleaner. It is just",
-      "published": "Thu, 17 Sep 2026 23:02:22 +0530",
+      "source": "BleepingComputer",
+      "title": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/",
+      "summary": "An ongoing malware campaign uses SEO-optimized GitHub repositories to impersonate well-known software firms to push a previously undocumented information stealer called Rapuncel. [...]",
+      "published": "Fri, 18 Sep 2026 11:19:06 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Secure enterprise sharing with access reviews for Microsoft 365",
+      "link": "https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/",
+      "summary": "Microsoft 365 makes sharing files easy, but access can remain long after its original purpose has ended, leaving organizations with little visibility into who can still reach sensitive data. tenfold Software explains how centralized access governance and owner-driven reviews can help identify and remove unnecessary access. [...]",
+      "published": "Fri, 18 Sep 2026 10:00:10 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft Teams will let admins block custom file extensions",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/",
+      "summary": "Microsoft Teams will soon let administrators tweak the list of file extensions commonly associated with security threats to meet their company's security requirements. [...]",
+      "published": "Fri, 18 Sep 2026 09:58:40 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -188,42 +228,6 @@
       "value_signals": [
         "Patch/update ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New RatHat Android malware uses AI to automate device control",
-      "link": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
-      "summary": "A new Android malware called RatHat has been discovered, targeting users with an AI-powered subsystem that helps operators remotely navigate compromised devices. [...]",
-      "published": "Thu, 17 Sep 2026 17:50:26 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OpenAI details more cases of AI agents taking unauthorized actions",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/",
-      "summary": "OpenAI has presented new examples of what they call \"AI model misalignment\" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and leveraging exposed API keys. [...]",
-      "published": "Thu, 17 Sep 2026 14:55:12 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites",
-      "link": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
-      "summary": "Brevo confirmed that attackers stole a Cloudflare API key and used it to inject malicious ClickFix scripts into its websites and JavaScript files embedded on customer sites to distribute malware. [...]",
-      "published": "Thu, 17 Sep 2026 13:11:34 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "What Recent AI-Powered Attacks Mean for Your Identity Security",
-      "link": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
-      "summary": "AI is making credential theft faster and easier to scale, giving attackers more opportunities to abuse valid identities. Specops explains why identity security must go beyond successful authentication by verifying that both the user and the device requesting access can be trusted. [...]",
-      "published": "Thu, 17 Sep 2026 10:01:11 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -382,6 +386,19 @@
     },
     {
       "source": "Security Week",
+      "title": "In Other News: Ransomware Developer Sentenced, Plugin4Shell AI Attack, Critical SAP Flaw",
+      "link": "https://www.securityweek.com/in-other-news-ransomware-developer-sentenced-plugin4shell-ai-attack-critical-sap-flaw/",
+      "summary": "Noteworthy stories that might have slipped under the radar: Mandiant's 2026 AI risk report, PhantomRaven malware used by bug bounty hunter, WordPress plugin bug exploited. The post In Other News: Ransomware Developer Sentenced, Plugin4Shell AI Attack, Critical SAP Flaw appeared first on SecurityWeek .",
+      "published": "Fri, 18 Sep 2026 14:25:00 +0000",
+      "value_score": 68,
+      "value_signals": [
+        "Ransomware ×2",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "AI-Built Exploit and Sign-In Flaw Opened Path to Internal OpenAI Code",
       "link": "https://www.securityweek.com/ai-built-exploit-and-sign-in-flaw-opened-path-to-internal-openai-code/",
       "summary": "Hacktron researchers earned a bug bounty after demonstrating access to OpenAI employee accounts. The post AI-Built Exploit and Sign-In Flaw Opened Path to Internal OpenAI Code appeared first on SecurityWeek .",
@@ -455,19 +472,6 @@
       "published": "Fri, 18 Sep 2026 07:25:27 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Check Point, Kaspersky, Tanium Patch Product Vulnerabilities",
-      "link": "https://www.securityweek.com/check-point-kaspersky-tanium-patch-product-vulnerabilities/",
-      "summary": "Check Point Security Management and Log Servers are affected by a critical vulnerability that can allow remote code execution with root privileges. The post Check Point, Kaspersky, Tanium Patch Product Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Fri, 18 Sep 2026 07:14:04 +0000",
-      "value_score": 54,
-      "value_signals": [
-        "RCE",
-        "Patch/update ×2",
-        "High severity"
-      ]
     },
     {
       "source": "Threatpost",

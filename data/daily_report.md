@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-18 08:40 UTC  
+> **Last Updated:** 2026-09-18 14:02 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**security management server** • **windows operating systems** • **twitter whistleblower complaint** • **tl dr exploitation** • **javascript files embedded** • **individuals whose licenses** • **defraud online merchants** • **control compromised devices** • **ciso's expert guide** • **leaked api keys** • **cloudflare api key** • **security experts warn** • **national security risk** • **identity security ai** • **work often enough** • **unexpected program exit** • **text history records** • **sophisticated cybercrime syndicate** • **siphoning images collected** • **risk based pivot**
+**least 2022 nightmarestresser** • **azure ai foundry** • **achieve privilege escalation** • **injected malicious scripts** • **ai built exploit** • **twitter whistleblower complaint** • **longest running ddos** • **individuals whose licenses** • **defraud online merchants** • **control compromised devices** • **build meaningful connections** • **npm package registry** • **compromised api key** • **13 npm packages** • **identity security ai** • **security management server** • **security experts warn** • **national security risk** • **lean security teams** • **browser's agentic ai**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation](https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html)
+- [An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.](https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html)
+- [Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents](https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html)
+- [WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage](https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html)
+- [Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer](https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html)
 - [RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall](https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html)
 - [Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root](https://thehackernews.com/2026/09/critical-check-point-management-server.html)
 - [ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories](https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html)
-- [Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files](https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html)
-- [Iran-Linked Handala Hack Tied to HEAVYGRAM Telegram Backdoor That Can Steal Passwords](https://thehackernews.com/2026/09/iran-linked-handala-hack-tied-to.html)
-- [Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone](https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html)
-- [Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar](https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html)
-- [CISO's Expert Guide to Agentic Pentesting for Websites](https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html)
 
 ### BleepingComputer
 
+- [Webinar: Which Google Workspace security controls actually matter?](https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/)
+- [Microsoft fixes bug behind ‘Defender Antivirus is turned off’ alerts](https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/)
+- [New Check Point flaw lets hackers execute code with root privileges](https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/)
 - [Microsoft fixes broken copy and paste for Excel 2016 users](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/)
 - [New RatHat Android malware uses AI to automate device control](https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/)
 - [OpenAI details more cases of AI agents taking unauthorized actions](https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/)
 - [Brevo supply-chain attack injected ClickFix scripts on customer sites](https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/)
 - [What Recent AI-Powered Attacks Mean for Your Identity Security](https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/)
-- [Windows 11 24H2 Home and Pro reach end of support in October](https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/)
-- [US takes down NightmareStresser DDoS-for-hire platform](https://www.bleepingcomputer.com/news/security/fbi-seizes-nightmarestresser-service-linked-to-thousands-of-ddos-attacks/)
-- [Chinese hackers use SparroWocky malware in govt espionage attacks](https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [AI-Built Exploit and Sign-In Flaw Opened Path to Internal OpenAI Code](https://www.securityweek.com/ai-built-exploit-and-sign-in-flaw-opened-path-to-internal-openai-code/)
+- [23 Million User Records Compromised in Gyazo Data Breach](https://www.securityweek.com/23-million-user-records-compromised-in-gyazo-data-breach/)
+- [Microsoft Patches 18 Vulnerabilities in AI, Cloud Products](https://www.securityweek.com/microsoft-patches-18-vulnerabilities-in-ai-cloud-products/)
+- [NightmareStresser DDoS Service Disrupted in International Operation](https://www.securityweek.com/nightmarestresser-ddos-service-disrupted-in-international-operation/)
+- [Brevo Supply Chain Attack Injects Malware Into 100,000 Websites](https://www.securityweek.com/brevo-supply-chain-attack-injects-malware-into-100000-websites/)
+- [Critical Orkes Conductor Vulnerability Exploited in Attacks](https://www.securityweek.com/critical-orkes-conductor-vulnerability-exploited-in-attacks/)
 - [MIND Secures $72 Million for AI-Powered DLP](https://www.securityweek.com/mind-secures-72-million-for-ai-powered-dlp/)
 - [Check Point, Kaspersky, Tanium Patch Product Vulnerabilities](https://www.securityweek.com/check-point-kaspersky-tanium-patch-product-vulnerabilities/)
-- [Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels](https://www.securityweek.com/cyberattacks-on-two-oil-tankers-prompt-coast-guard-fbi-to-board-vessels/)
-- [OpenAI Says Its Models Searched GitHub for Leaked API Keys During Training](https://www.securityweek.com/openai-says-its-models-hunted-github-for-leaked-api-keys-during-training/)
-- [CISA Retires Weekly Vulnerability Bulletin in Risk-Based Pivot](https://www.securityweek.com/cisa-retires-weekly-vulnerability-bulletin-in-risk-based-pivot/)
-- [Revolut Data Breach: 5 Months, 680 High-Profile Accounts, $3M Ransom](https://www.securityweek.com/revolut-data-breach-5-months-680-high-profile-accounts-3m-ransom/)
-- [Comp AI Raises $34 Million for AI-Native Compliance and Security](https://www.securityweek.com/comp-ai-raises-34-million-for-ai-native-compliance-and-security/)
-- [ISC Patches 14 Vulnerabilities in BIND 9 Security Update](https://www.securityweek.com/isc-patches-14-vulnerabilities-in-bind-9-security-update/)
 
 ### Threatpost
 

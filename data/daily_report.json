@@ -1,72 +1,122 @@
 {
-  "last_updated": "2026-09-18 08:40",
+  "last_updated": "2026-09-18 14:02",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "security management server",
-    "windows operating systems",
+    "least 2022 nightmarestresser",
+    "azure ai foundry",
+    "achieve privilege escalation",
+    "injected malicious scripts",
+    "ai built exploit",
     "twitter whistleblower complaint",
-    "tl dr exploitation",
-    "javascript files embedded",
+    "longest running ddos",
     "individuals whose licenses",
     "defraud online merchants",
     "control compromised devices",
-    "ciso's expert guide",
-    "leaked api keys",
-    "cloudflare api key",
+    "build meaningful connections",
+    "npm package registry",
+    "compromised api key",
+    "13 npm packages",
+    "identity security ai",
+    "security management server",
     "security experts warn",
     "national security risk",
-    "identity security ai",
-    "work often enough",
-    "unexpected program exit",
-    "text history records",
-    "sophisticated cybercrime syndicate",
-    "siphoning images collected",
-    "risk based pivot"
+    "lean security teams",
+    "browser's agentic ai"
   ],
   "trending": [
     {
-      "keyword": "security management server",
+      "keyword": "least 2022 nightmarestresser",
       "mentions": 1
     },
     {
-      "keyword": "windows operating systems",
-      "mentions": 768
+      "keyword": "azure ai foundry",
+      "mentions": 1
+    },
+    {
+      "keyword": "achieve privilege escalation",
+      "mentions": 1
+    },
+    {
+      "keyword": "injected malicious scripts",
+      "mentions": 1
+    },
+    {
+      "keyword": "ai built exploit",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2659
+      "mentions": 2660
     },
     {
-      "keyword": "tl dr exploitation",
-      "mentions": 5
-    },
-    {
-      "keyword": "javascript files embedded",
+      "keyword": "longest running ddos",
       "mentions": 1
     },
     {
       "keyword": "individuals whose licenses",
-      "mentions": 89
+      "mentions": 90
     },
     {
       "keyword": "defraud online merchants",
-      "mentions": 31
+      "mentions": 32
     },
     {
       "keyword": "control compromised devices",
-      "mentions": 1
-    },
-    {
-      "keyword": "ciso's expert guide",
-      "mentions": 5
-    },
-    {
-      "keyword": "leaked api keys",
-      "mentions": 4
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
+      "link": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
+      "summary": "Microsoft has released fixes for a maximum-severity security flaw in Azure AI Foundry that could be exploited to achieve privilege escalation. No customer action is required. The vulnerability, tracked as CVE-2026-85889, carries a CVSS score of 10.0. \"Missing authentication for critical function in Azure AI Foundry allows an unauthorized attacker to elevate privileges over a network,\"",
+      "published": "Fri, 18 Sep 2026 18:17:04 +0530",
+      "value_score": 66,
+      "value_signals": [
+        "CVE mentioned",
+        "Privilege escalation ×2",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.",
+      "link": "https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html",
+      "summary": "In July 2025, someone registered a domain that used to belong to a content delivery network. The CDN had been wound down years earlier, and the domain it served assets from was allowed to expire. What it had not lost were its callers. Thousands of websites, code repositories, and documentation pages still carry hard-coded references to hostnames beneath it. The new owner holds",
+      "published": "Fri, 18 Sep 2026 16:31:16 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents",
+      "link": "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html",
+      "summary": "A flaw in four widely used AI coding agents lets someone who controls a plugin's code repository swap the plugin an agent installs for a malicious one, even when the agent locked that plugin to a specific reviewed version, security firm Air Security said on Thursday. The firm said Anthropic has patched the flaw in Claude Code 2.1.179 and OpenAI in Codex 0.146.0, that GitHub Copilot has no",
+      "published": "Fri, 18 Sep 2026 16:31:01 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage",
+      "link": "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html",
+      "summary": "Cybersecurity researchers have discovered a cluster of 13 npm packages that have been found to deliver a previously undocumented JavaScript stealer codenamed WeaselBiscuit. The new malware family, per OpenSourceMalware, exhibits functional overlaps with two malware strains associated with the Democratic People's Republic of Korea's (DPRK) Contagious Interview campaign: BeaverTail and",
+      "published": "Fri, 18 Sep 2026 16:10:06 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
+      "link": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
+      "summary": "A financially motivated threat actor has been linked to the development and distribution of a JavaScript (JS)-based information stealer known as PhantomRaven via the npm package registry. \"The developer likely wrote the malware using a large language model (LLM), an assessment made with high confidence based on verbose comments, placeholder code, and statistical token-analysis patterns,\"",
+      "published": "Fri, 18 Sep 2026 14:48:03 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
@@ -100,62 +150,32 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files",
-      "link": "https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html",
-      "summary": "Malicious code running inside a Docker Sandboxes virtual machine on macOS could escape the project directory shared into it and read or change files anywhere else on the host, Docker warns in a security announcement on September 15. The escape runs with the rights of the host account that runs the virtual machine. The flaw, CVE-2026-77179, is rated Critical, affects versions",
-      "published": "Thu, 17 Sep 2026 21:07:56 +0530",
-      "value_score": 44,
-      "value_signals": [
-        "CVE mentioned",
-        "High severity ×2"
-      ]
+      "source": "BleepingComputer",
+      "title": "Webinar: Which Google Workspace security controls actually matter?",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/",
+      "summary": "Fast-growing companies face countless recommendations for securing Google Workspace, but not every control provides the same value. This webinar examines real-world breaches to explore which security controls matter most, which may be overrated, and where lean security teams should focus their resources. [...]",
+      "published": "Fri, 18 Sep 2026 09:10:19 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Iran-Linked Handala Hack Tied to HEAVYGRAM Telegram Backdoor That Can Steal Passwords",
-      "link": "https://thehackernews.com/2026/09/iran-linked-handala-hack-tied-to.html",
-      "summary": "The Iran-linked \"hacktivist\" persona known as Handala Hack has been attributed to a Telegram-based surveillance backdoor called HEAVYGRAM and a Delphi-based utility known as CRUDEEXCLUDE. \"HEAVYGRAM offers builtin commands supporting remote command execution, system, network and process information discovery, data and Telegram session files exfiltration, screenshot capture, DLL sideloading,",
-      "published": "Thu, 17 Sep 2026 19:33:13 +0530",
-      "value_score": 34,
-      "value_signals": [
-        "Backdoor ×2"
-      ]
+      "source": "BleepingComputer",
+      "title": "Microsoft fixes bug behind ‘Defender Antivirus is turned off’ alerts",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/",
+      "summary": "Microsoft has resolved a known issue that causes incorrect alerts warning that Defender Antivirus was turned off after installing recent updates. [...]",
+      "published": "Fri, 18 Sep 2026 08:16:32 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
-      "link": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
-      "summary": "Every release of the Unbound DNS resolver before 1.26.1 has a critical heap overflow in its DNSSEC validator, maintainer NLnet Labs said in an advisory on Wednesday. An attacker who controls a malicious zone and queries a vulnerable resolver can trigger it, enabling remote code execution. Unbound 1.26.1, released the same day, fixes the bug, tracked as CVE-2026-81642, along with",
-      "published": "Thu, 17 Sep 2026 18:00:00 +0530",
-      "value_score": 84,
+      "source": "BleepingComputer",
+      "title": "New Check Point flaw lets hackers execute code with root privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/",
+      "summary": "Check Point Software has released security updates to address a critical vulnerability that can let attackers execute code with root privileges on management systems. [...]",
+      "published": "Fri, 18 Sep 2026 05:34:33 -0400",
+      "value_score": 18,
       "value_signals": [
-        "CVE mentioned",
-        "RCE ×2",
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
-      "link": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
-      "summary": "A new CVE drops. Your scanner finds it. The severity score looks ugly. But that still does not answer the question that matters: Can it actually be exploited in your environment? Mythos-class AI is compressing the time between disclosure and working exploitation, while many security programs still validate risk on weekly or quarterly cycles. The dangerous gap is no longer just technical. It is",
-      "published": "Thu, 17 Sep 2026 17:20:00 +0530",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "CISO's Expert Guide to Agentic Pentesting for Websites",
-      "link": "https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html",
-      "summary": "Attackers now weaponize new vulnerabilities in about five days (Mandiant, part of Google Cloud). The median organization takes 43 days to patch one (Verizon DBIR 2026). A new free guide explains how autonomous AI agents are closing that gap, and what security leaders must demand before pointing one at production. TL;DR Exploitation is now the front door. It starts 31% of breaches (Verizon DBIR",
-      "published": "Thu, 17 Sep 2026 16:20:53 +0530",
-      "value_score": 24,
-      "value_signals": [
-        "Patch/update",
-        "Exploit wording"
+        "High severity"
       ]
     },
     {
@@ -204,35 +224,6 @@
       "published": "Thu, 17 Sep 2026 10:01:11 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Windows 11 24H2 Home and Pro reach end of support in October",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/",
-      "summary": "Microsoft reminded customers this week that devices running Windows 11 24H2 Home and Pro editions will stop receiving updates next month. [...]",
-      "published": "Thu, 17 Sep 2026 09:09:09 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "US takes down NightmareStresser DDoS-for-hire platform",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-seizes-nightmarestresser-service-linked-to-thousands-of-ddos-attacks/",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) seized the domains used by NightmareStresser, one of the world's longest-running distributed denial-of-service (DDoS) platforms. [...]",
-      "published": "Thu, 17 Sep 2026 07:33:35 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Chinese hackers use SparroWocky malware in govt espionage attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/",
-      "summary": "The China-linked espionage group FamousSparrow has been using a new backdoor named SparroWocky in attacks on government organizations in Latin America. [...]",
-      "published": "Thu, 17 Sep 2026 05:00:00 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Backdoor"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -391,6 +382,73 @@
     },
     {
       "source": "Security Week",
+      "title": "AI-Built Exploit and Sign-In Flaw Opened Path to Internal OpenAI Code",
+      "link": "https://www.securityweek.com/ai-built-exploit-and-sign-in-flaw-opened-path-to-internal-openai-code/",
+      "summary": "Hacktron researchers earned a bug bounty after demonstrating access to OpenAI employee accounts. The post AI-Built Exploit and Sign-In Flaw Opened Path to Internal OpenAI Code appeared first on SecurityWeek .",
+      "published": "Fri, 18 Sep 2026 12:45:24 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "23 Million User Records Compromised in Gyazo Data Breach",
+      "link": "https://www.securityweek.com/23-million-user-records-compromised-in-gyazo-data-breach/",
+      "summary": "Gyazo maker Helpfeel said the attacker exploited a vulnerability in its image upload server to gain unauthorized access. The post 23 Million User Records Compromised in Gyazo Data Breach appeared first on SecurityWeek .",
+      "published": "Fri, 18 Sep 2026 11:38:40 +0000",
+      "value_score": 40,
+      "value_signals": [
+        "Breach/leak ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Microsoft Patches 18 Vulnerabilities in AI, Cloud Products",
+      "link": "https://www.securityweek.com/microsoft-patches-18-vulnerabilities-in-ai-cloud-products/",
+      "summary": "Microsoft fixed vulnerabilities across Azure and AI-branded products, with privilege escalation flaws accounting for the majority. The post Microsoft Patches 18 Vulnerabilities in AI, Cloud Products appeared first on SecurityWeek .",
+      "published": "Fri, 18 Sep 2026 10:57:03 +0000",
+      "value_score": 30,
+      "value_signals": [
+        "Privilege escalation",
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "NightmareStresser DDoS Service Disrupted in International Operation",
+      "link": "https://www.securityweek.com/nightmarestresser-ddos-service-disrupted-in-international-operation/",
+      "summary": "Active since at least 2022, NightmareStresser was one of the longest-running DDoS-for-hire services in the world. The post NightmareStresser DDoS Service Disrupted in International Operation appeared first on SecurityWeek .",
+      "published": "Fri, 18 Sep 2026 10:12:33 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Brevo Supply Chain Attack Injects Malware Into 100,000 Websites",
+      "link": "https://www.securityweek.com/brevo-supply-chain-attack-injects-malware-into-100000-websites/",
+      "summary": "Hackers used a compromised API key to deploy a Cloudflare worker that injected malicious scripts. The post Brevo Supply Chain Attack Injects Malware Into 100,000 Websites appeared first on SecurityWeek .",
+      "published": "Fri, 18 Sep 2026 09:46:57 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Critical Orkes Conductor Vulnerability Exploited in Attacks",
+      "link": "https://www.securityweek.com/critical-orkes-conductor-vulnerability-exploited-in-attacks/",
+      "summary": "CVE-2026-58138 is an unauthenticated remote code execution vulnerability that attackers can exploit via inline workflow definitions. The post Critical Orkes Conductor Vulnerability Exploited in Attacks appeared first on SecurityWeek .",
+      "published": "Fri, 18 Sep 2026 08:42:18 +0000",
+      "value_score": 70,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "MIND Secures $72 Million for AI-Powered DLP",
       "link": "https://www.securityweek.com/mind-secures-72-million-for-ai-powered-dlp/",
       "summary": "The company will use the funding to accelerate platform development and expand its presence in key enterprise markets. The post MIND Secures $72 Million for AI-Powered DLP appeared first on SecurityWeek .",
@@ -409,67 +467,6 @@
         "RCE",
         "Patch/update ×2",
         "High severity"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels",
-      "link": "https://www.securityweek.com/cyberattacks-on-two-oil-tankers-prompt-coast-guard-fbi-to-board-vessels/",
-      "summary": "The Coast Guard confirmed evidence of malicious cyber activity on the VL Prosperity, but has not attributed the attack to Iran. The post Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels appeared first on SecurityWeek .",
-      "published": "Thu, 17 Sep 2026 17:09:40 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "OpenAI Says Its Models Searched GitHub for Leaked API Keys During Training",
-      "link": "https://www.securityweek.com/openai-says-its-models-hunted-github-for-leaked-api-keys-during-training/",
-      "summary": "OpenAI published a framework for disclosing model misalignment alongside six reports describing problematic behavior. The post OpenAI Says Its Models Searched GitHub for Leaked API Keys During Training appeared first on SecurityWeek .",
-      "published": "Thu, 17 Sep 2026 15:45:29 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "CISA Retires Weekly Vulnerability Bulletin in Risk-Based Pivot",
-      "link": "https://www.securityweek.com/cisa-retires-weekly-vulnerability-bulletin-in-risk-based-pivot/",
-      "summary": "The decision follows BOD 26-04, which directs federal organizations to prioritize vulnerabilities based on real-world risk. The post CISA Retires Weekly Vulnerability Bulletin in Risk-Based Pivot appeared first on SecurityWeek .",
-      "published": "Thu, 17 Sep 2026 14:28:00 +0000",
-      "value_score": 50,
-      "value_signals": [
-        "CISA/KEV ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Revolut Data Breach: 5 Months, 680 High-Profile Accounts, $3M Ransom",
-      "link": "https://www.securityweek.com/revolut-data-breach-5-months-680-high-profile-accounts-3m-ransom/",
-      "summary": "Revolut allegedly fed customer information to hackers impersonating an Italian government agency for five months. The post Revolut Data Breach: 5 Months, 680 High-Profile Accounts, $3M Ransom appeared first on SecurityWeek .",
-      "published": "Thu, 17 Sep 2026 13:57:41 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Comp AI Raises $34 Million for AI-Native Compliance and Security",
-      "link": "https://www.securityweek.com/comp-ai-raises-34-million-for-ai-native-compliance-and-security/",
-      "summary": "The company plans to expand into continuous cybersecurity, offering security testing across applications and infrastructure. The post Comp AI Raises $34 Million for AI-Native Compliance and Security appeared first on SecurityWeek .",
-      "published": "Thu, 17 Sep 2026 13:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "ISC Patches 14 Vulnerabilities in BIND 9 Security Update",
-      "link": "https://www.securityweek.com/isc-patches-14-vulnerabilities-in-bind-9-security-update/",
-      "summary": "Attackers could exploit the flaws to increase resource usage, trigger an unexpected program exit, or terminate the named process. The post ISC Patches 14 Vulnerabilities in BIND 9 Security Update appeared first on SecurityWeek .",
-      "published": "Thu, 17 Sep 2026 12:39:28 +0000",
-      "value_score": 32,
-      "value_signals": [
-        "Patch/update ×2",
-        "Exploit wording"
       ]
     },
     {

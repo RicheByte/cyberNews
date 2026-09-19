@@ -1,78 +1,100 @@
 {
-  "last_updated": "2026-09-19 13:38",
+  "last_updated": "2026-09-19 16:58",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "least 2022 nightmarestresser",
     "ai built exploit",
+    "least 2022 nightmarestresser",
+    "high severity flaw",
+    "image upload server",
     "twitter whistleblower complaint",
     "test run conducted",
     "secure enterprise sharing",
+    "multicloud environments complicate",
     "mfa won't save",
+    "longest running ddos",
     "individuals whose licenses",
-    "image upload server",
-    "enable local root",
     "defraud online merchants",
-    "cve 2026 28326",
-    "ai powered dlp",
+    "several openai employees",
+    "modern identity security",
+    "flaw opened path",
+    "mythos class ai",
     "ai driven attacks",
     "ai create demand",
     "ai branded products",
-    "several openai employees",
-    "released security updates",
-    "longest running ddos",
-    "github access open",
-    "flaw opened path"
+    "github access open"
   ],
   "trending": [
     {
-      "keyword": "least 2022 nightmarestresser",
-      "mentions": 6
-    },
-    {
       "keyword": "ai built exploit",
-      "mentions": 6
+      "mentions": 7
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2665
+      "keyword": "least 2022 nightmarestresser",
+      "mentions": 7
     },
     {
-      "keyword": "test run conducted",
-      "mentions": 1
-    },
-    {
-      "keyword": "secure enterprise sharing",
-      "mentions": 5
-    },
-    {
-      "keyword": "mfa won't save",
-      "mentions": 4
-    },
-    {
-      "keyword": "individuals whose licenses",
-      "mentions": 95
+      "keyword": "high severity flaw",
+      "mentions": 20
     },
     {
       "keyword": "image upload server",
+      "mentions": 3
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2666
+    },
+    {
+      "keyword": "test run conducted",
       "mentions": 2
     },
     {
-      "keyword": "enable local root",
-      "mentions": 4
+      "keyword": "secure enterprise sharing",
+      "mentions": 6
     },
     {
-      "keyword": "defraud online merchants",
-      "mentions": 37
+      "keyword": "multicloud environments complicate",
+      "mentions": 1
+    },
+    {
+      "keyword": "mfa won't save",
+      "mentions": 5
+    },
+    {
+      "keyword": "longest running ddos",
+      "mentions": 7
     }
   ],
   "articles": [
     {
       "source": "The Hacker News",
+      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
+      "link": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
+      "summary": "A new CVE drops. Your scanner finds it. The severity score looks ugly. But that still does not answer the question that matters: Can it actually be exploited in your environment? Mythos-class AI is compressing the time between disclosure and working exploitation, while many security programs still validate risk on weekly or quarterly cycles. The dangerous gap is no longer just technical. It is",
+      "published": "Sat, 19 Sep 2026 18:58:48 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Identity Visibility in 2026: The Foundation of Identity Security",
+      "link": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
+      "summary": "Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial access vectors in breach research, including Verizon's annual Data Breach Investigations Report. This article explains what identity visibility means in IAM, why cloud and multicloud environments complicate it, which capabilities matter in",
+      "published": "Sat, 19 Sep 2026 18:58:41 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
       "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
       "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
       "summary": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository. The chain began with a bug in the software that runs OpenAI's public help forum and moved through a weakness in OpenAI's own login system. This was security research,",
-      "published": "Sat, 19 Sep 2026 15:31:10 +0530",
+      "published": "Sat, 19 Sep 2026 18:58:35 +0530",
       "value_score": 10,
       "value_signals": []
     },
@@ -137,32 +159,39 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
-      "link": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html",
-      "summary": "A security researcher has released working exploit code for four Linux kernel flaws that each let a local user gain root, the highest level of access on a machine. Kernel maintainers have fixed all four over the past few weeks, so a system running an up-to-date kernel is not affected. But the exploit code is now public, and any machine still running an older kernel should be updated. The flaws",
-      "published": "Fri, 18 Sep 2026 23:32:24 +0530",
-      "value_score": 24,
-      "value_signals": [
-        "Patch/update",
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "BragJack attacks hijack AI browser agents through malicious extensions",
+      "link": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
+      "summary": "BragJack, a proof-of-concept attack from Forever Security's Gal Weizman, hijacks the AI assistants in Chrome, Edge, Opera Neon, Perplexity Comet, and Claude in Chrome using one malicious extension. The Prompt Forcing technique earned over $20,000 in bounties and two CVEs. [...]",
+      "published": "Sat, 19 Sep 2026 10:56:31 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
-      "link": "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html",
-      "summary": "WordPress today released patches to fix a new set of vulnerabilities in its core software, one of which could allow a crafted web link, opened by a logged-in administrator, to install a theme from the official WordPress.org directory without anyone clicking Install. The security firm pwn.ai, whose researchers reported the flaw, calls the attack chain Click2Shell. On its own the flaw only",
-      "published": "Fri, 18 Sep 2026 22:26:19 +0530",
-      "value_score": 18,
+      "source": "BleepingComputer",
+      "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide",
+      "link": "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/",
+      "summary": "A joint law enforcement advisory warns that the North Korean hacking group WaterPlum compromised at least 30,000 devices worldwide from December 2025 through July 2026 and transferred more than $10.7 million in stolen cryptocurrency to North Korea. [...]",
+      "published": "Sat, 19 Sep 2026 10:05:15 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
+      "summary": "The ShinyHunters extortion gang breached the Clop (aka Cl0p) ransomware operation's data leak site, defacing the Tor site and allegedly stealing server data and the private keys for its onion service. [...]",
+      "published": "Sat, 19 Sep 2026 09:48:32 -0400",
+      "value_score": 70,
       "value_signals": [
-        "Patch/update"
+        "Ransomware ×2",
+        "Breach/leak ×2"
       ]
     },
     {
       "source": "BleepingComputer",
-      "title": "Calling viral AI actress Tilly Norwood? Agree to a face scan first",
-      "link": "https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/",
+      "title": "Viral AI actress' hotline face-scans every caller, watches their mood",
+      "link": "https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/",
       "summary": "AI actress Tilly Norwood went viral after glitching into Chinese on Piers Morgan Uncensored last night. Her \"Talking Tilly\" video call service face-scans every caller for an 18+ age check, senses callers' moods during calls, and shuts down permanently on September 27. We tried it and read the fine print. [...]",
       "published": "Sat, 19 Sep 2026 07:38:20 -0400",
       "value_score": 10,
@@ -206,35 +235,6 @@
       "published": "Fri, 18 Sep 2026 09:58:40 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Webinar: Which Google Workspace security controls actually matter?",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/",
-      "summary": "Fast-growing companies face countless recommendations for securing Google Workspace, but not every control provides the same value. This webinar examines real-world breaches to explore which security controls matter most, which may be overrated, and where lean security teams should focus their resources. [...]",
-      "published": "Fri, 18 Sep 2026 09:10:19 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft fixes bug behind ‘Defender Antivirus is turned off’ alerts",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/",
-      "summary": "Microsoft has resolved a known issue that causes incorrect alerts warning that Defender Antivirus was turned off after installing recent updates. [...]",
-      "published": "Fri, 18 Sep 2026 08:16:32 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Check Point flaw lets hackers execute code with root privileges",
-      "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/",
-      "summary": "Check Point Software has released security updates to address a critical vulnerability that can let attackers execute code with root privileges on management systems. [...]",
-      "published": "Fri, 18 Sep 2026 05:34:33 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -395,6 +395,15 @@
     },
     {
       "source": "Security Week",
+      "title": "TigerByte Cyber Emerges From Stealth With $3 Million in Funding",
+      "link": "https://www.securityweek.com/tigerbyte-cyber-emerges-from-stealth-with-3-million-in-funding/",
+      "summary": "The company has secured over $7 million in contracts with US government agencies, including the US Space Force, the US Navy, and DARPA. The post TigerByte Cyber Emerges From Stealth With $3 Million in Funding appeared first on SecurityWeek .",
+      "published": "Sat, 19 Sep 2026 14:30:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "In Other News: Ransomware Developer Sentenced, Plugin4Shell AI Attack, Critical SAP Flaw",
       "link": "https://www.securityweek.com/in-other-news-ransomware-developer-sentenced-plugin4shell-ai-attack-critical-sap-flaw/",
       "summary": "Noteworthy stories that might have slipped under the radar: Mandiant's 2026 AI risk report, PhantomRaven malware used by bug bounty hunter, WordPress plugin bug exploited. The post In Other News: Ransomware Developer Sentenced, Plugin4Shell AI Attack, Critical SAP Flaw appeared first on SecurityWeek .",
@@ -472,15 +481,6 @@
         "High severity ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "MIND Secures $72 Million for AI-Powered DLP",
-      "link": "https://www.securityweek.com/mind-secures-72-million-for-ai-powered-dlp/",
-      "summary": "The company will use the funding to accelerate platform development and expand its presence in key enterprise markets. The post MIND Secures $72 Million for AI-Powered DLP appeared first on SecurityWeek .",
-      "published": "Fri, 18 Sep 2026 07:25:27 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

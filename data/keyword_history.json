@@ -332,7 +332,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2665,
+      "count": 2666,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -21564,12 +21564,13 @@
       ]
     },
     "high severity flaw": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-06-26",
         "2026-06-27",
         "2026-06-28",
-        "2026-06-29"
+        "2026-06-29",
+        "2026-09-19"
       ]
     },
     "creating openai tenants": {
@@ -29162,7 +29163,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 95,
+      "count": 96,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29499,7 +29500,7 @@
       ]
     },
     "defraud online merchants": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-09-04",
         "2026-09-05",
@@ -30919,7 +30920,7 @@
       ]
     },
     "least 2022 nightmarestresser": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-09-18",
         "2026-09-19"
@@ -30946,14 +30947,14 @@
       ]
     },
     "ai built exploit": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-09-18",
         "2026-09-19"
       ]
     },
     "longest running ddos": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-09-18",
         "2026-09-19"
@@ -30992,7 +30993,7 @@
       ]
     },
     "secure enterprise sharing": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-18",
         "2026-09-19"
@@ -31006,7 +31007,7 @@
       ]
     },
     "ai branded products": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-18",
         "2026-09-19"
@@ -31026,14 +31027,14 @@
       ]
     },
     "ai driven attacks": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-18",
         "2026-09-19"
       ]
     },
     "mfa won't save": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-18",
         "2026-09-19"
@@ -31047,14 +31048,14 @@
       ]
     },
     "ai create demand": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-18",
         "2026-09-19"
       ]
     },
     "image upload server": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-19"
       ]
@@ -31066,13 +31067,13 @@
       ]
     },
     "flaw opened path": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-19"
       ]
     },
     "test run conducted": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-19"
       ]
@@ -31084,12 +31085,30 @@
       ]
     },
     "several openai employees": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-19"
       ]
     },
     "github access open": {
+      "count": 2,
+      "dates": [
+        "2026-09-19"
+      ]
+    },
+    "multicloud environments complicate": {
+      "count": 1,
+      "dates": [
+        "2026-09-19"
+      ]
+    },
+    "modern identity security": {
+      "count": 1,
+      "dates": [
+        "2026-09-19"
+      ]
+    },
+    "mythos class ai": {
       "count": 1,
       "dates": [
         "2026-09-19"
@@ -31097,17 +31116,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-01 09:05",
-      "articles": 48,
-      "top_keywords": [
-        "execute arbitrary code",
-        "securing claude code",
-        "papercut exploitation escalates",
-        "active intrusions cisa",
-        "sophisticated multistage attack"
-      ]
-    },
     {
       "timestamp": "2026-09-01 14:27",
       "articles": 48,
@@ -32195,6 +32203,17 @@
         "twitter whistleblower complaint",
         "test run conducted",
         "secure enterprise sharing"
+      ]
+    },
+    {
+      "timestamp": "2026-09-19 16:58",
+      "articles": 48,
+      "top_keywords": [
+        "ai built exploit",
+        "least 2022 nightmarestresser",
+        "high severity flaw",
+        "image upload server",
+        "twitter whistleblower complaint"
       ]
     }
   ]

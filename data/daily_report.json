@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19 16:58",
+  "last_updated": "2026-09-19 19:55",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -16,8 +16,8 @@
     "individuals whose licenses",
     "defraud online merchants",
     "several openai employees",
-    "modern identity security",
     "flaw opened path",
+    "modern identity security",
     "mythos class ai",
     "ai driven attacks",
     "ai create demand",
@@ -27,46 +27,55 @@
   "trending": [
     {
       "keyword": "ai built exploit",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "least 2022 nightmarestresser",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "high severity flaw",
-      "mentions": 20
+      "mentions": 21
     },
     {
       "keyword": "image upload server",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2666
+      "mentions": 2667
     },
     {
       "keyword": "test run conducted",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "secure enterprise sharing",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "multicloud environments complicate",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "mfa won't save",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "longest running ddos",
-      "mentions": 7
+      "mentions": 8
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
+      "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
+      "summary": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository. The chain began with a bug in the software that runs OpenAI's public help forum and moved through a weakness in OpenAI's own login system. This was security research,",
+      "published": "Sun, 20 Sep 2026 00:06:53 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
@@ -88,15 +97,6 @@
       "value_signals": [
         "Breach/leak ×2"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
-      "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
-      "summary": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository. The chain began with a bug in the software that runs OpenAI's public help forum and moved through a weakness in OpenAI's own login system. This was security research,",
-      "published": "Sat, 19 Sep 2026 18:58:35 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "The Hacker News",

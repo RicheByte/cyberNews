@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-19 02:46 UTC  
+> **Last Updated:** 2026-09-19 08:27 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**azure ai foundry** • **least 2022 nightmarestresser** • **ai built exploit** • **achieve privilege escalation** • **ai driven attacks** • **twitter whistleblower complaint** • **secure enterprise sharing** • **mfa won't save** • **individuals whose licenses** • **enable local root** • **defraud online merchants** • **ai powered dlp** • **ai create demand** • **ai branded products** • **npm package registry** • **13 npm packages** • **longest running ddos** • **text history records** • **sophisticated cybercrime syndicate** • **siphoning images collected**
+**azure ai foundry** • **least 2022 nightmarestresser** • **ai built exploit** • **achieve privilege escalation** • **ai driven attacks** • **twitter whistleblower complaint** • **secure enterprise sharing** • **mfa won't save** • **individuals whose licenses** • **image upload server** • **enable local root** • **defraud online merchants** • **accelerate platform development** • **websites code repositories** • **ai powered dlp** • **ai create demand** • **ai branded products** • **flaw opened path** • **longest running ddos** • **text history records**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories](https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html)
+- [CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild](https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html)
 - [Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root](https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html)
 - [New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution](https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html)
 - [Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2](https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html)
 - [Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation](https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html)
 - [An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.](https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html)
 - [Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents](https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html)
-- [WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage](https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html)
-- [Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer](https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html)
 
 ### BleepingComputer
 

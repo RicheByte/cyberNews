@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19 02:46",
+  "last_updated": "2026-09-19 08:27",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -12,61 +12,84 @@
     "secure enterprise sharing",
     "mfa won't save",
     "individuals whose licenses",
+    "image upload server",
     "enable local root",
     "defraud online merchants",
+    "accelerate platform development",
+    "websites code repositories",
     "ai powered dlp",
     "ai create demand",
     "ai branded products",
-    "npm package registry",
-    "13 npm packages",
+    "flaw opened path",
     "longest running ddos",
-    "text history records",
-    "sophisticated cybercrime syndicate",
-    "siphoning images collected"
+    "text history records"
   ],
   "trending": [
     {
       "keyword": "azure ai foundry",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "least 2022 nightmarestresser",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "ai built exploit",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "achieve privilege escalation",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "ai driven attacks",
-      "mentions": 2
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2663
-    },
-    {
-      "keyword": "secure enterprise sharing",
       "mentions": 3
     },
     {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2664
+    },
+    {
+      "keyword": "secure enterprise sharing",
+      "mentions": 4
+    },
+    {
       "keyword": "mfa won't save",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "individuals whose licenses",
-      "mentions": 93
+      "mentions": 94
     },
     {
-      "keyword": "enable local root",
-      "mentions": 2
+      "keyword": "image upload server",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories",
+      "link": "https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html",
+      "summary": "An attacker copied about 170 of CrowdSec's private GitHub repositories on May 22 using the account of an employee who had just left, CrowdSec said on September 18. The French security company had kept his GitHub access open. CrowdSec says his laptop was compromised in May's supply chain attack on TanStack, in which malicious versions of TanStack's npm packages stole credentials from",
+      "published": "Sat, 19 Sep 2026 12:44:54 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild",
+      "link": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added three security flaws impacting the Linux kernel to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2025-39682 (CVSS score: 9.8) - An improper check for unusual or exceptional conditions vulnerability in the TLS receive path",
+      "published": "Sat, 19 Sep 2026 11:54:10 +0530",
+      "value_score": 99,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation",
+        "CISA/KEV ×4",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
@@ -130,24 +153,6 @@
       "link": "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html",
       "summary": "A flaw in four widely used AI coding agents lets someone who controls a plugin's code repository swap the plugin an agent installs for a malicious one, even when the agent locked that plugin to a specific reviewed version, security firm Air Security said on Thursday. The firm said Anthropic has patched the flaw in Claude Code 2.1.179 and OpenAI in Codex 0.146.0, that GitHub Copilot has no",
       "published": "Fri, 18 Sep 2026 16:31:01 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage",
-      "link": "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html",
-      "summary": "Cybersecurity researchers have discovered a cluster of 13 npm packages that have been found to deliver a previously undocumented JavaScript stealer codenamed WeaselBiscuit. The new malware family, per OpenSourceMalware, exhibits functional overlaps with two malware strains associated with the Democratic People's Republic of Korea's (DPRK) Contagious Interview campaign: BeaverTail and",
-      "published": "Fri, 18 Sep 2026 16:10:06 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
-      "link": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
-      "summary": "A financially motivated threat actor has been linked to the development and distribution of a JavaScript (JS)-based information stealer known as PhantomRaven via the npm package registry. \"The developer likely wrote the malware using a large language model (LLM), an assessment made with high confidence based on verbose comments, placeholder code, and statistical token-analysis patterns,\"",
-      "published": "Fri, 18 Sep 2026 14:48:03 +0530",
       "value_score": 10,
       "value_signals": []
     },

@@ -1,72 +1,118 @@
 {
-  "last_updated": "2026-09-19 08:27",
+  "last_updated": "2026-09-19 13:38",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "azure ai foundry",
     "least 2022 nightmarestresser",
     "ai built exploit",
-    "achieve privilege escalation",
-    "ai driven attacks",
     "twitter whistleblower complaint",
+    "test run conducted",
     "secure enterprise sharing",
     "mfa won't save",
     "individuals whose licenses",
     "image upload server",
     "enable local root",
     "defraud online merchants",
-    "accelerate platform development",
-    "websites code repositories",
+    "cve 2026 28326",
     "ai powered dlp",
+    "ai driven attacks",
     "ai create demand",
     "ai branded products",
-    "flaw opened path",
+    "several openai employees",
+    "released security updates",
     "longest running ddos",
-    "text history records"
+    "github access open",
+    "flaw opened path"
   ],
   "trending": [
     {
-      "keyword": "azure ai foundry",
-      "mentions": 5
-    },
-    {
       "keyword": "least 2022 nightmarestresser",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "ai built exploit",
-      "mentions": 5
-    },
-    {
-      "keyword": "achieve privilege escalation",
-      "mentions": 5
-    },
-    {
-      "keyword": "ai driven attacks",
-      "mentions": 3
+      "mentions": 6
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2664
+      "mentions": 2665
+    },
+    {
+      "keyword": "test run conducted",
+      "mentions": 1
     },
     {
       "keyword": "secure enterprise sharing",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "mfa won't save",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "individuals whose licenses",
-      "mentions": 94
+      "mentions": 95
     },
     {
       "keyword": "image upload server",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "enable local root",
+      "mentions": 4
+    },
+    {
+      "keyword": "defraud online merchants",
+      "mentions": 37
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
+      "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
+      "summary": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository. The chain began with a bug in the software that runs OpenAI's public help forum and moved through a weakness in OpenAI's own login system. This was security research,",
+      "published": "Sat, 19 Sep 2026 15:31:10 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
+      "link": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
+      "summary": "SolarWinds has released security updates to address a high-severity flaw in Access Rights Manager (ARM) that, if successfully exploited, could lead to an unauthenticated remote code execution vulnerability. The vulnerability, tracked as CVE-2026-28326, is rated 8.8 out of 10.0 on the CVSS scoring system. The issue affects all versions of Access Rights Manager 2026.2 and prior. \"SolarWinds",
+      "published": "Sat, 19 Sep 2026 15:01:17 +0530",
+      "value_score": 74,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
+      "link": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
+      "summary": "A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet. The vulnerability in question is CVE-2026-58138 (CVSS v3.1 score: 9.8/CVSS v4 score: 9.3), which relates to a case of unauthenticated remote code execution. \"Orkes Conductor 3.21.21 before 3.30.2 contains an unauthenticated remote code execution vulnerability that allows remote",
+      "published": "Sat, 19 Sep 2026 13:48:54 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation ×3",
+        "RCE ×3",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
+      "link": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
+      "summary": "Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation. The development was first reported by The Wall Street Journal. The incidents occurred in May 2026 as part of a test run conducted by Israeli company Irregular. The evaluation partner was also involved in similar hacks disclosed",
+      "published": "Sat, 19 Sep 2026 13:21:34 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories",
@@ -114,45 +160,11 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
-      "link": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
-      "summary": "The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks targeting government and defense entities in India and Afghanistan. The attacks, per Zscaler ThreatLabz, involve the use of previously undocumented tools called RUSTYSHADE, RUSTYMOVE, PSNATCH, and BASHNATCH. The activity has been codenamed Operation",
-      "published": "Fri, 18 Sep 2026 20:54:16 +0530",
-      "value_score": 22,
-      "value_signals": [
-        "Backdoor"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
-      "link": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
-      "summary": "Microsoft has released fixes for a maximum-severity security flaw in Azure AI Foundry that could be exploited to achieve privilege escalation. No customer action is required. The vulnerability, tracked as CVE-2026-85889, carries a CVSS score of 10.0. \"Missing authentication for critical function in Azure AI Foundry allows an unauthorized attacker to elevate privileges over a network,\"",
-      "published": "Fri, 18 Sep 2026 18:17:04 +0530",
-      "value_score": 66,
-      "value_signals": [
-        "CVE mentioned",
-        "Privilege escalation ×2",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.",
-      "link": "https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html",
-      "summary": "In July 2025, someone registered a domain that used to belong to a content delivery network. The CDN had been wound down years earlier, and the domain it served assets from was allowed to expire. What it had not lost were its callers. Thousands of websites, code repositories, and documentation pages still carry hard-coded references to hostnames beneath it. The new owner holds",
-      "published": "Fri, 18 Sep 2026 16:31:16 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents",
-      "link": "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html",
-      "summary": "A flaw in four widely used AI coding agents lets someone who controls a plugin's code repository swap the plugin an agent installs for a malicious one, even when the agent locked that plugin to a specific reviewed version, security firm Air Security said on Thursday. The firm said Anthropic has patched the flaw in Claude Code 2.1.179 and OpenAI in Codex 0.146.0, that GitHub Copilot has no",
-      "published": "Fri, 18 Sep 2026 16:31:01 +0530",
+      "source": "BleepingComputer",
+      "title": "Calling viral AI actress Tilly Norwood? Agree to a face scan first",
+      "link": "https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/",
+      "summary": "AI actress Tilly Norwood went viral after glitching into Chinese on Piers Morgan Uncensored last night. Her \"Talking Tilly\" video call service face-scans every caller for an 18+ age check, senses callers' moods during calls, and shuts down permanently on September 27. We tried it and read the fine print. [...]",
+      "published": "Sat, 19 Sep 2026 07:38:20 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -222,17 +234,6 @@
       "value_score": 18,
       "value_signals": [
         "High severity"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft fixes broken copy and paste for Excel 2016 users",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/",
-      "summary": "Microsoft has fixed a known issue that causes copy-and-paste failures for some Excel users after installing the September 2026 KB5002914 security update. [...]",
-      "published": "Fri, 18 Sep 2026 03:35:31 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
       ]
     },
     {

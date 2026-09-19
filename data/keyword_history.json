@@ -332,7 +332,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2664,
+      "count": 2665,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -4334,7 +4334,7 @@
       ]
     },
     "released security updates": {
-      "count": 135,
+      "count": 136,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -4372,7 +4372,8 @@
         "2026-09-03",
         "2026-09-06",
         "2026-09-07",
-        "2026-09-17"
+        "2026-09-17",
+        "2026-09-19"
       ]
     },
     "auditability collide daily": {
@@ -29161,7 +29162,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 94,
+      "count": 95,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29498,7 +29499,7 @@
       ]
     },
     "defraud online merchants": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-09-04",
         "2026-09-05",
@@ -30918,7 +30919,7 @@
       ]
     },
     "least 2022 nightmarestresser": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-18",
         "2026-09-19"
@@ -30945,14 +30946,14 @@
       ]
     },
     "ai built exploit": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-18",
         "2026-09-19"
       ]
     },
     "longest running ddos": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-18",
         "2026-09-19"
@@ -30991,21 +30992,21 @@
       ]
     },
     "secure enterprise sharing": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-18",
         "2026-09-19"
       ]
     },
     "ai powered dlp": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-18",
         "2026-09-19"
       ]
     },
     "ai branded products": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-18",
         "2026-09-19"
@@ -31025,35 +31026,35 @@
       ]
     },
     "ai driven attacks": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-18",
         "2026-09-19"
       ]
     },
     "mfa won't save": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-18",
         "2026-09-19"
       ]
     },
     "enable local root": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-18",
         "2026-09-19"
       ]
     },
     "ai create demand": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-18",
         "2026-09-19"
       ]
     },
     "image upload server": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-19"
       ]
@@ -31065,6 +31066,30 @@
       ]
     },
     "flaw opened path": {
+      "count": 2,
+      "dates": [
+        "2026-09-19"
+      ]
+    },
+    "test run conducted": {
+      "count": 1,
+      "dates": [
+        "2026-09-19"
+      ]
+    },
+    "cve 2026 28326": {
+      "count": 1,
+      "dates": [
+        "2026-09-19"
+      ]
+    },
+    "several openai employees": {
+      "count": 1,
+      "dates": [
+        "2026-09-19"
+      ]
+    },
+    "github access open": {
       "count": 1,
       "dates": [
         "2026-09-19"
@@ -31072,17 +31097,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-01 03:10",
-      "articles": 48,
-      "top_keywords": [
-        "cronos blockchain network",
-        "execute arbitrary code",
-        "securing claude code",
-        "shinyhunters extortion group",
-        "statement released today"
-      ]
-    },
     {
       "timestamp": "2026-09-01 09:05",
       "articles": 48,
@@ -32170,6 +32184,17 @@
         "ai built exploit",
         "achieve privilege escalation",
         "ai driven attacks"
+      ]
+    },
+    {
+      "timestamp": "2026-09-19 13:38",
+      "articles": 48,
+      "top_keywords": [
+        "least 2022 nightmarestresser",
+        "ai built exploit",
+        "twitter whistleblower complaint",
+        "test run conducted",
+        "secure enterprise sharing"
       ]
     }
   ]

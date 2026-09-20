@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20 13:53",
+  "last_updated": "2026-09-20 17:14",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -8,62 +8,62 @@
     "high severity flaw",
     "image upload server",
     "twitter whistleblower complaint",
-    "secure enterprise sharing",
     "multicloud environments complicate",
     "mfa won't save",
     "longest running ddos",
     "individuals whose licenses",
     "defraud online merchants",
+    "hiding malicious code",
     "modern identity security",
     "flaw opened path",
     "mythos class ai",
     "ai driven attacks",
     "ai create demand",
     "ai branded products",
+    "identity visibility means",
     "github access open",
-    "security experts warn",
-    "released security updates"
+    "security experts warn"
   ],
   "trending": [
     {
       "keyword": "ai built exploit",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "least 2022 nightmarestresser",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "high severity flaw",
-      "mentions": 25
+      "mentions": 26
     },
     {
       "keyword": "image upload server",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2671
-    },
-    {
-      "keyword": "secure enterprise sharing",
-      "mentions": 11
+      "mentions": 2672
     },
     {
       "keyword": "multicloud environments complicate",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "mfa won't save",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "longest running ddos",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "individuals whose licenses",
-      "mentions": 101
+      "mentions": 102
+    },
+    {
+      "keyword": "defraud online merchants",
+      "mentions": 44
     }
   ],
   "articles": [
@@ -160,6 +160,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Malicious npm packages evade install-script defenses at runtime",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
+      "summary": "An ongoing npm malware campaign involving the 'indexed-btree' package shows how threat actors bypass supply chain defenses by hiding malicious code in a package's normal runtime behavior rather than in installation scripts. [...]",
+      "published": "Sun, 20 Sep 2026 10:11:21 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Researchers escape OpenAI Codex sandbox to run commands on host",
       "link": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/",
       "summary": "Researchers escaped OpenAI's Codex sandbox two ways, one running commands on a developer's machine from its most locked-down mode. OpenAI has patched both. [...]",
@@ -224,15 +233,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/",
       "summary": "An ongoing malware campaign uses SEO-optimized GitHub repositories to impersonate well-known software firms to push a previously undocumented information stealer called Rapuncel. [...]",
       "published": "Fri, 18 Sep 2026 11:19:06 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Secure enterprise sharing with access reviews for Microsoft 365",
-      "link": "https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/",
-      "summary": "Microsoft 365 makes sharing files easy, but access can remain long after its original purpose has ended, leaving organizations with little visibility into who can still reach sensitive data. tenfold Software explains how centralized access governance and owner-driven reviews can help identify and remove unnecessary access. [...]",
-      "published": "Fri, 18 Sep 2026 10:00:10 -0400",
       "value_score": 10,
       "value_signals": []
     },

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-20 13:53 UTC |
+| 🕐 Last Updated | 2026-09-20 17:14 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`ai built exploit` • `least 2022 nightmarestresser` • `high severity flaw` • `image upload server` • `twitter whistleblower complaint` • `secure enterprise sharing` • `multicloud environments complicate` • `mfa won't save` • `longest running ddos` • `individuals whose licenses`
+`ai built exploit` • `least 2022 nightmarestresser` • `high severity flaw` • `image upload server` • `twitter whistleblower complaint` • `multicloud environments complicate` • `mfa won't save` • `longest running ddos` • `individuals whose licenses` • `defraud online merchants`
 
 ## 📄 Reports
 

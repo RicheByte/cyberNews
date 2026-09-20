@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-20 08:58 UTC  
+> **Last Updated:** 2026-09-20 13:53 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**ai built exploit** • **least 2022 nightmarestresser** • **high severity flaw** • **image upload server** • **twitter whistleblower complaint** • **test run conducted** • **secure enterprise sharing** • **multicloud environments complicate** • **mfa won't save** • **longest running ddos** • **individuals whose licenses** • **defraud online merchants** • **several openai employees** • **flaw opened path** • **modern identity security** • **mythos class ai** • **ai driven attacks** • **ai create demand** • **ai branded products** • **github access open**
+**ai built exploit** • **least 2022 nightmarestresser** • **high severity flaw** • **image upload server** • **twitter whistleblower complaint** • **secure enterprise sharing** • **multicloud environments complicate** • **mfa won't save** • **longest running ddos** • **individuals whose licenses** • **defraud online merchants** • **modern identity security** • **flaw opened path** • **mythos class ai** • **ai driven attacks** • **ai create demand** • **ai branded products** • **github access open** • **security experts warn** • **released security updates**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Researchers escape OpenAI Codex sandbox to run commands on host](https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/)
 - [BragJack attacks hijack AI browser agents through malicious extensions](https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/)
 - [North Korean WaterPlum hackers infected 30,000 devices worldwide](https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/)
 - [ShinyHunters hacks Clop leak site, threatens to extort ransomware gang](https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/)
@@ -34,7 +35,6 @@
 - [Gyazo server flaw exploited to steal 23.6 million user records](https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/)
 - [Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer](https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/)
 - [Secure enterprise sharing with access reviews for Microsoft 365](https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/)
-- [Microsoft Teams will let admins block custom file extensions](https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/)
 
 ### Krebs on Security
 

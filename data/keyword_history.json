@@ -333,7 +333,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2677,
+      "count": 2678,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1279,7 +1279,7 @@
       ]
     },
     "national security risk": {
-      "count": 500,
+      "count": 501,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -20349,7 +20349,7 @@
       ]
     },
     "security experts warn": {
-      "count": 51,
+      "count": 52,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -29175,7 +29175,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 107,
+      "count": 108,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -31061,7 +31061,7 @@
       ]
     },
     "mfa won't save": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-09-18",
         "2026-09-19",
@@ -31121,10 +31121,11 @@
       ]
     },
     "several openai employees": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-09-19",
-        "2026-09-20"
+        "2026-09-20",
+        "2026-09-21"
       ]
     },
     "github access open": {
@@ -31186,31 +31187,31 @@
       ]
     },
     "office users microsoft": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-21"
       ]
     },
     "least 40 companies": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-21"
       ]
     },
     "dragos completes netrise": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-21"
       ]
     },
     "accidental global ciso": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-21"
       ]
     },
     "ot cybersecurity push": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-21"
       ]
@@ -31220,20 +31221,63 @@
       "dates": [
         "2026-09-21"
       ]
+    },
+    "fined 403 million": {
+      "count": 1,
+      "dates": [
+        "2026-09-21"
+      ]
+    },
+    "windows kernel driver": {
+      "count": 1,
+      "dates": [
+        "2026-09-21"
+      ]
+    },
+    "address password mfa": {
+      "count": 1,
+      "dates": [
+        "2026-09-21"
+      ]
+    },
+    "location data google": {
+      "count": 1,
+      "dates": [
+        "2026-09-21"
+      ]
+    },
+    "post google hit": {
+      "count": 1,
+      "dates": [
+        "2026-09-21"
+      ]
+    },
+    "alerted multiple merchants": {
+      "count": 1,
+      "dates": [
+        "2026-09-21"
+      ]
+    },
+    "463 million fine": {
+      "count": 1,
+      "dates": [
+        "2026-09-21"
+      ]
+    },
+    "gdpr violations tied": {
+      "count": 1,
+      "dates": [
+        "2026-09-21"
+      ]
+    },
+    "security teams need": {
+      "count": 1,
+      "dates": [
+        "2026-09-21"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-03 19:01",
-      "articles": 48,
-      "top_keywords": [
-        "ai runtime security",
-        "large model review",
-        "anthropic confirms claude",
-        "remote code execution",
-        "frontier ai agents"
-      ]
-    },
     {
       "timestamp": "2026-09-03 22:09",
       "articles": 48,
@@ -32321,6 +32365,17 @@
         "dragos completes netrise",
         "twitter whistleblower complaint",
         "text history records"
+      ]
+    },
+    {
+      "timestamp": "2026-09-21 21:35",
+      "articles": 48,
+      "top_keywords": [
+        "fined 403 million",
+        "windows kernel driver",
+        "address password mfa",
+        "location data google",
+        "office users microsoft"
       ]
     }
   ]

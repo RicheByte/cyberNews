@@ -1,72 +1,99 @@
 {
-  "last_updated": "2026-09-21 16:08",
+  "last_updated": "2026-09-21 21:35",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
+    "fined 403 million",
+    "windows kernel driver",
+    "address password mfa",
+    "location data google",
     "office users microsoft",
+    "several openai employees",
+    "post google hit",
     "least 40 companies",
     "dragos completes netrise",
     "twitter whistleblower complaint",
-    "text history records",
-    "multicloud environments complicate",
-    "individuals whose licenses",
-    "high severity flaw",
-    "hiding malicious code",
-    "defraud online merchants",
-    "accidental global ciso",
-    "released security updates",
-    "mfa won't save",
     "ot cybersecurity push",
+    "individuals whose licenses",
+    "alerted multiple merchants",
+    "accidental global ciso",
+    "mfa won't save",
+    "463 million fine",
+    "gdpr violations tied",
+    "security teams need",
     "security experts warn",
-    "national security risk",
-    "modern identity security",
-    "continuous security assessment",
-    "windows operating systems",
-    "who's harvesting data"
+    "national security risk"
   ],
   "trending": [
     {
+      "keyword": "fined 403 million",
+      "mentions": 1
+    },
+    {
+      "keyword": "windows kernel driver",
+      "mentions": 1
+    },
+    {
+      "keyword": "address password mfa",
+      "mentions": 1
+    },
+    {
+      "keyword": "location data google",
+      "mentions": 1
+    },
+    {
       "keyword": "office users microsoft",
+      "mentions": 2
+    },
+    {
+      "keyword": "several openai employees",
+      "mentions": 7
+    },
+    {
+      "keyword": "post google hit",
       "mentions": 1
     },
     {
       "keyword": "least 40 companies",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "dragos completes netrise",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2677
-    },
-    {
-      "keyword": "text history records",
-      "mentions": 203
-    },
-    {
-      "keyword": "multicloud environments complicate",
-      "mentions": 12
-    },
-    {
-      "keyword": "individuals whose licenses",
-      "mentions": 107
-    },
-    {
-      "keyword": "high severity flaw",
-      "mentions": 31
-    },
-    {
-      "keyword": "hiding malicious code",
-      "mentions": 6
-    },
-    {
-      "keyword": "defraud online merchants",
-      "mentions": 49
+      "mentions": 2678
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR",
+      "link": "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html",
+      "summary": "A fake LastPass Authenticator installer offered on GitHub installs a Windows kernel driver that shuts off antivirus and other security software before a password stealer runs if a victim downloads and runs it, researchers at LastPass and Delphos Labs said on September 17. Microsoft's own hardware-compatibility program signs the driver, scored zero detections on VirusTotal when researchers",
+      "published": "Mon, 21 Sep 2026 23:01:01 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto",
+      "link": "https://thehackernews.com/2026/09/contagious-interview-campaign.html",
+      "summary": "The North Korean threat actors behind the Contagious Interview campaign have compromised at least 30,000 devices located in more than 100 countries and siphoned funds or account credentials from over 7,000 cryptocurrency wallets, according to a new joint cybersecurity advisory. The primary targets of the campaign are individual web designers, engineers, and specialists in cryptocurrency,",
+      "published": "Mon, 21 Sep 2026 22:49:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Google Fined €403 Million Over GDPR Violations Tied to Location Data",
+      "link": "https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html",
+      "summary": "Google has been fined €403 million for breaking the EU's data protection law, the GDPR, in the way three of its features handled people's location data from May 2018 to February 2020. Ireland's Data Protection Commission (DPC), Google's lead regulator in the EU, also ordered the company to make its processing comply with the law within 6 months. The DPC has not said publicly which",
+      "published": "Mon, 21 Sep 2026 22:27:31 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks",
@@ -119,39 +146,48 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
-      "link": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
-      "summary": "A new CVE drops. Your scanner finds it. The severity score looks ugly. But that still does not answer the question that matters: Can it actually be exploited in your environment? Mythos-class AI is compressing the time between disclosure and working exploitation, while many security programs still validate risk on weekly or quarterly cycles. The dangerous gap is no longer just technical. It is",
-      "published": "Sat, 19 Sep 2026 18:58:48 +0530",
+      "source": "BleepingComputer",
+      "title": "BigCommerce alerts merchants of data breach linked to Ribon apps",
+      "link": "https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/",
+      "summary": "Ecommerce platform BigCommerce has alerted multiple merchants to data breaches after attackers compromised credentials for third-party Ribon applications and used them to inject malicious scripts into online stores. [...]",
+      "published": "Mon, 21 Sep 2026 17:18:49 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "CISA alerts of active exploitation of three Linux kernel flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting three Linux kernel vulnerabilities, one of them rated critical. [...]",
+      "published": "Mon, 21 Sep 2026 16:12:17 -0400",
+      "value_score": 64,
+      "value_signals": [
+        "CISA/KEV ×2",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server",
+      "link": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/",
+      "summary": "Technical details and a proof-of-concept exploit have been published for a new WordPress cross-site request forgery (CSRF) vulnerability dubbed 'Click2Shell' that affects the platform's Core component. [...]",
+      "published": "Mon, 21 Sep 2026 14:23:11 -0400",
       "value_score": 16,
       "value_signals": [
         "Exploit wording"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Identity Visibility in 2026: The Foundation of Identity Security",
-      "link": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
-      "summary": "Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial access vectors in breach research, including Verizon's annual Data Breach Investigations Report. This article explains what identity visibility means in IAM, why cloud and multicloud environments complicate it, which capabilities matter in",
-      "published": "Sat, 19 Sep 2026 18:58:41 +0530",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
-      "link": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
-      "summary": "SolarWinds has released security updates to address a high-severity flaw in Access Rights Manager (ARM) that, if successfully exploited, could lead to an unauthenticated remote code execution vulnerability. The vulnerability, tracked as CVE-2026-28326, is rated 8.8 out of 10.0 on the CVSS scoring system. The issue affects all versions of Access Rights Manager 2026.2 and prior. \"SolarWinds",
-      "published": "Sat, 19 Sep 2026 15:01:17 +0530",
-      "value_score": 74,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE ×2",
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "Microsoft to retire Microsoft 365 Companion apps in December",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-microsoft-365-companion-apps-in-december/",
+      "summary": "Microsoft will retire the Calendar, People, and Files Microsoft 365 companion apps on December 16 and has asked admins to remove them from managed devices. [...]",
+      "published": "Mon, 21 Sep 2026 13:54:49 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -192,42 +228,6 @@
       "value_signals": [
         "Phishing"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft: September updates break File History backup feature",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/",
-      "summary": "Microsoft warned that the built-in File History backup feature in Windows may stop working on some systems after installing the September 2026 security updates. [...]",
-      "published": "Mon, 21 Sep 2026 07:45:54 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Malicious npm packages evade install-script defenses at runtime",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
-      "summary": "An ongoing npm malware campaign involving the 'indexed-btree' package shows how threat actors bypass supply chain defenses by hiding malicious code in a package's normal runtime behavior rather than in installation scripts. [...]",
-      "published": "Sun, 20 Sep 2026 10:11:21 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Researchers escape OpenAI Codex sandbox to run commands on host",
-      "link": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/",
-      "summary": "Researchers escaped OpenAI's Codex sandbox two ways, one running commands on a developer's machine from its most locked-down mode. OpenAI has patched both. [...]",
-      "published": "Sun, 20 Sep 2026 08:00:00 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "BragJack attacks hijack AI browser agents through malicious extensions",
-      "link": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
-      "summary": "BragJack, a proof-of-concept attack from Forever Security's Gal Weizman, hijacks the AI assistants in Chrome, Edge, Opera Neon, Perplexity Comet, and Claude in Chrome using one malicious extension. The Prompt Forcing technique earned over $20,000 in bounties and two CVEs. [...]",
-      "published": "Sat, 19 Sep 2026 10:56:31 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -308,6 +308,24 @@
     },
     {
       "source": "Dark Reading",
+      "title": "ShinyHunters Hacked Clop. Now What About Clop's Victims?",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-hacked-clop-what-about-clops-victims",
+      "summary": "ShinyHunters defaced Clop's Dark Web site and claims to have stolen victim data, potentially exposing organizations that paid ransoms to renewed extortion attempts.",
+      "published": "Mon, 21 Sep 2026 20:07:56 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Cybercriminals Are Hiding New Malware in Torrents for Popular Films",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-hiding-new-malware-torrents-popular-films",
+      "summary": "Victims have been identified in Africa, including in Kenya and Uganda.",
+      "published": "Mon, 21 Sep 2026 19:11:26 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Rogue Behavior: OpenAI Reveals More Model Misalignment Incidents",
       "link": "https://www.darkreading.com/cyber-risk/rogue-behavior-openai-more-model-misalignment-incidents",
       "summary": "The AI giant disclosed six examples of concerning model activity and published a new framework for investigating and disclosing such incidents.",
@@ -365,25 +383,14 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "CISA Ditches Weekly Vulnerability Roundups for Risk-Based Focus",
-      "link": "https://www.darkreading.com/cyber-risk/cisa-ditches-weekly-vuln-roundups-risk-based-focus",
-      "summary": "The move is consistent with the agency's advice on the need for organizations to prioritize the vulnerabilities that actually matter.",
-      "published": "Thu, 17 Sep 2026 21:23:50 GMT",
-      "value_score": 30,
+      "source": "Security Week",
+      "title": "Google Hit With $463 Million Fine for EU Location Data Rule Breach",
+      "link": "https://www.securityweek.com/google-hit-with-463-million-fine-for-eu-location-data-rule-breach/",
+      "summary": "Google has been fined 403 million euros ($463 million) for breaching the European Union’s strict privacy rules because it mishandled users’ location data. The post Google Hit With $463 Million Fine for EU Location Data Rule Breach appeared first on SecurityWeek .",
+      "published": "Mon, 21 Sep 2026 17:19:53 +0000",
+      "value_score": 34,
       "value_signals": [
-        "CISA/KEV"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "China's FamousSparrow APT Spies on US Politics in Latin America",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-spies-latin-america",
-      "summary": "Amid the US and China's fight for eco-colonial influence in Latin America, a stealthy backdoor has taken flight.",
-      "published": "Thu, 17 Sep 2026 19:15:38 GMT",
-      "value_score": 22,
-      "value_signals": [
-        "Backdoor"
+        "Breach/leak ×2"
       ]
     },
     {
@@ -450,17 +457,6 @@
       "published": "Mon, 21 Sep 2026 10:03:44 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Organizations Warned of 3 Exploited Linux Kernel Vulnerabilities",
-      "link": "https://www.securityweek.com/organizations-warned-of-3-exploited-linux-kernel-vulnerabilities/",
-      "summary": "Attackers could exploit the flaws to cause denial-of-service conditions, disclose memory, or modify memory. The post Organizations Warned of 3 Exploited Linux Kernel Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Mon, 21 Sep 2026 09:31:12 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

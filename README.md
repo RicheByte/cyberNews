@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-21 16:08 UTC |
+| 🕐 Last Updated | 2026-09-21 21:35 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`office users microsoft` • `least 40 companies` • `dragos completes netrise` • `twitter whistleblower complaint` • `text history records` • `multicloud environments complicate` • `individuals whose licenses` • `high severity flaw` • `hiding malicious code` • `defraud online merchants`
+`fined 403 million` • `windows kernel driver` • `address password mfa` • `location data google` • `office users microsoft` • `several openai employees` • `post google hit` • `least 40 companies` • `dragos completes netrise` • `twitter whistleblower complaint`
 
 ## 📄 Reports
 

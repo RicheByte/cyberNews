@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-21 09:31 UTC  
+> **Last Updated:** 2026-09-21 16:08 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**tigerbyte cyber emerges** • **ai built exploit** • **least 2022 nightmarestresser** • **high severity flaw** • **image upload server** • **hiding malicious code** • **twitter whistleblower complaint** • **multicloud environments complicate** • **mfa won't save** • **longest running ddos** • **individuals whose licenses** • **defraud online merchants** • **flaw opened path** • **modern identity security** • **mythos class ai** • **latest ai giant** • **ai create demand** • **ai branded products** • **identity visibility means** • **security experts warn**
+**office users microsoft** • **least 40 companies** • **dragos completes netrise** • **twitter whistleblower complaint** • **text history records** • **multicloud environments complicate** • **individuals whose licenses** • **high severity flaw** • **hiding malicious code** • **defraud online merchants** • **accidental global ciso** • **released security updates** • **mfa won't save** • **ot cybersecurity push** • **security experts warn** • **national security risk** • **modern identity security** • **continuous security assessment** • **windows operating systems** • **who's harvesting data**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks](https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html)
+- [TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data](https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html)
 - [ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure](https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html)
 - [Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors](https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html)
 - [Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws](https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html)
 - [Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar](https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html)
 - [Identity Visibility in 2026: The Foundation of Identity Security](https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html)
 - [SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE](https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html)
-- [Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild](https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html)
-- [Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up](https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html)
 
 ### BleepingComputer
 
+- [Google fined €403 million over location data privacy violations](https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/)
+- [Microsoft fixes broken Excel copy and paste for all Office users](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/)
+- [FBI's CJIS v6.1: What Security Teams Need to Know.](https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/)
+- [Microsoft reminds admins to migrate Entra ID users to passkeys](https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/)
+- [Microsoft: September updates break File History backup feature](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/)
 - [Malicious npm packages evade install-script defenses at runtime](https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/)
 - [Researchers escape OpenAI Codex sandbox to run commands on host](https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/)
 - [BragJack attacks hijack AI browser agents through malicious extensions](https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/)
-- [North Korean WaterPlum hackers infected 30,000 devices worldwide](https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/)
-- [ShinyHunters hacks Clop leak site, threatens to extort ransomware gang](https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/)
-- [Viral AI actress' hotline face-scans every caller, watches their mood](https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/)
-- [Gyazo server flaw exploited to steal 23.6 million user records](https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/)
-- [Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer](https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Rogue Behavior: OpenAI Reveals More Model Misalignment Incidents](https://www.darkreading.com/cyber-risk/rogue-behavior-openai-more-model-misalignment-incidents)
 - [Vectra AI Launches Ascent to Help Address New Era of AI-Driven Attacks](https://www.darkreading.com/cyberattacks-data-breaches/vectra-ai-launches-ascent-new-era-ai-driven-attacks)
 - [Cisco Zero-Day Highlights API Endpoint Authentication Issues](https://www.darkreading.com/vulnerabilities-threats/cisco-zero-day-api-endpoint-authentication-issues)
 - [EY Survey Finds Autonomous AI Implementation Outpaces Oversight](https://www.darkreading.com/cyberattacks-data-breaches/ey-survey-autonomous-ai-implementation-outpaces-oversight)
@@ -56,18 +57,17 @@
 - [AI Agent Breaches Spanish Organization, Modifies Personal Data](https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-breaches-spanish-organization-personal-data)
 - [CISA Ditches Weekly Vulnerability Roundups for Risk-Based Focus](https://www.darkreading.com/cyber-risk/cisa-ditches-weekly-vuln-roundups-risk-based-focus)
 - [China's FamousSparrow APT Spies on US Politics in Latin America](https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-spies-latin-america)
-- [[Virtual Event] Cybersecurity Outlook 2027](https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027)
 
 ### Security Week
 
+- [Fake LastPass Installers Push Kernel-Level EDR Killer, ‘Rapuncel’ Stealer](https://www.securityweek.com/fake-lastpass-installers-push-kernel-level-edr-killer-rapuncel-stealer/)
+- [CISO Conversations: Noopur Davis – The Accidental Global CISO at Comcast](https://www.securityweek.com/ciso-conversations-noopur-davis-the-accidental-global-ciso-at-comcast/)
+- [Dragos Completes NetRise and runZero Acquisitions Following Accenture Deal](https://www.securityweek.com/dragos-completes-netrise-and-runzero-acquisitions-following-accenture-deal/)
+- [RatHat Android Trojan Uses AI for Automation](https://www.securityweek.com/rathat-android-trojan-uses-ai-for-automation/)
+- [Rust Team Members and Popular Crate Owners Targeted via Video Calls](https://www.securityweek.com/rust-team-members-and-popular-crate-owners-targeted-via-video-calls/)
+- [CrowdSec Confirms Source Code Stolen in Supply Chain Attack](https://www.securityweek.com/crowdsec-confirms-source-code-stolen-in-supply-chain-attack/)
+- [Colorado Water Utilities Hit by Cyberattacks Targeting OT Systems](https://www.securityweek.com/colorado-water-utilities-hit-by-cyberattacks-targeting-ot-systems/)
 - [Organizations Warned of 3 Exploited Linux Kernel Vulnerabilities](https://www.securityweek.com/organizations-warned-of-3-exploited-linux-kernel-vulnerabilities/)
-- [Google Confirms Gemini AI Breached Three Firms](https://www.securityweek.com/google-confirms-gemini-ai-breached-three-firms/)
-- [TigerByte Cyber Emerges From Stealth With $3 Million in Funding](https://www.securityweek.com/tigerbyte-cyber-emerges-from-stealth-with-3-million-in-funding/)
-- [In Other News: Ransomware Developer Sentenced, Plugin4Shell AI Attack, Critical SAP Flaw](https://www.securityweek.com/in-other-news-ransomware-developer-sentenced-plugin4shell-ai-attack-critical-sap-flaw/)
-- [AI-Built Exploit and Sign-In Flaw Opened Path to Internal OpenAI Code](https://www.securityweek.com/ai-built-exploit-and-sign-in-flaw-opened-path-to-internal-openai-code/)
-- [23 Million User Records Compromised in Gyazo Data Breach](https://www.securityweek.com/23-million-user-records-compromised-in-gyazo-data-breach/)
-- [Microsoft Patches 18 Vulnerabilities in AI, Cloud Products](https://www.securityweek.com/microsoft-patches-18-vulnerabilities-in-ai-cloud-products/)
-- [NightmareStresser DDoS Service Disrupted in International Operation](https://www.securityweek.com/nightmarestresser-ddos-service-disrupted-in-international-operation/)
 
 ### Threatpost
 

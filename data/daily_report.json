@@ -1,72 +1,94 @@
 {
-  "last_updated": "2026-09-21 09:31",
+  "last_updated": "2026-09-21 16:08",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "tigerbyte cyber emerges",
-    "ai built exploit",
-    "least 2022 nightmarestresser",
-    "high severity flaw",
-    "image upload server",
-    "hiding malicious code",
+    "office users microsoft",
+    "least 40 companies",
+    "dragos completes netrise",
     "twitter whistleblower complaint",
+    "text history records",
     "multicloud environments complicate",
-    "mfa won't save",
-    "longest running ddos",
     "individuals whose licenses",
+    "high severity flaw",
+    "hiding malicious code",
     "defraud online merchants",
-    "flaw opened path",
+    "accidental global ciso",
+    "released security updates",
+    "mfa won't save",
+    "ot cybersecurity push",
+    "security experts warn",
+    "national security risk",
     "modern identity security",
-    "mythos class ai",
-    "latest ai giant",
-    "ai create demand",
-    "ai branded products",
-    "identity visibility means",
-    "security experts warn"
+    "continuous security assessment",
+    "windows operating systems",
+    "who's harvesting data"
   ],
   "trending": [
     {
-      "keyword": "tigerbyte cyber emerges",
+      "keyword": "office users microsoft",
       "mentions": 1
     },
     {
-      "keyword": "ai built exploit",
-      "mentions": 17
+      "keyword": "least 40 companies",
+      "mentions": 1
     },
     {
-      "keyword": "least 2022 nightmarestresser",
-      "mentions": 17
-    },
-    {
-      "keyword": "high severity flaw",
-      "mentions": 30
-    },
-    {
-      "keyword": "image upload server",
-      "mentions": 13
-    },
-    {
-      "keyword": "hiding malicious code",
-      "mentions": 5
+      "keyword": "dragos completes netrise",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2676
+      "mentions": 2677
+    },
+    {
+      "keyword": "text history records",
+      "mentions": 203
     },
     {
       "keyword": "multicloud environments complicate",
-      "mentions": 11
+      "mentions": 12
     },
     {
-      "keyword": "mfa won't save",
-      "mentions": 15
+      "keyword": "individuals whose licenses",
+      "mentions": 107
     },
     {
-      "keyword": "longest running ddos",
-      "mentions": 17
+      "keyword": "high severity flaw",
+      "mentions": 31
+    },
+    {
+      "keyword": "hiding malicious code",
+      "mentions": 6
+    },
+    {
+      "keyword": "defraud online merchants",
+      "mentions": 49
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks",
+      "link": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html",
+      "summary": "A browser. A plugin. A package. A login screen. Normal stuff. That is basically the problem this week. The trouble keeps showing up inside things people already trust: code that takes a bad turn, old payloads coming back, exposed systems, weak checks, fake fixes, and attack paths that look almost too easy. Even the research side is getting messy, with more findings, more automation, and not",
+      "published": "Mon, 21 Sep 2026 19:54:13 +0530",
+      "value_score": 30,
+      "value_signals": [
+        "RCE"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data",
+      "link": "https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new campaign dubbed TASK#STOMP that delivers a PowerShell backdoor designed to harvest sensitive data from compromised hosts. The backdoor \"automatically harvests and exfiltrates business documents, watches the filesystem for new files in real time, steals Wi-Fi passwords and clipboard contents, takes screenshots, and accepts arbitrary",
+      "published": "Mon, 21 Sep 2026 19:45:40 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "Backdoor ×3"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
@@ -132,26 +154,51 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
-      "link": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
-      "summary": "A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet. The vulnerability in question is CVE-2026-58138 (CVSS v3.1 score: 9.8/CVSS v4 score: 9.3), which relates to a case of unauthenticated remote code execution. \"Orkes Conductor 3.21.21 before 3.30.2 contains an unauthenticated remote code execution vulnerability that allows remote",
-      "published": "Sat, 19 Sep 2026 13:48:54 +0530",
-      "value_score": 100,
+      "source": "BleepingComputer",
+      "title": "Google fined €403 million over location data privacy violations",
+      "link": "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/",
+      "summary": "Ireland's Data Protection Commission (DPC) has fined Google €403 million ($463M) for multiple GDPR violations related to processing users' location data. [...]",
+      "published": "Mon, 21 Sep 2026 11:41:22 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft fixes broken Excel copy and paste for all Office users",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/",
+      "summary": "Microsoft has fixed a known issue that causes copy-and-paste failures for Excel users after installing the September 2026 security updates. [...]",
+      "published": "Mon, 21 Sep 2026 10:42:37 -0400",
+      "value_score": 18,
       "value_signals": [
-        "CVE mentioned",
-        "Active exploitation ×3",
-        "RCE ×3",
-        "High severity ×2",
-        "Exploit wording"
+        "Patch/update"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
-      "link": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
-      "summary": "Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation. The development was first reported by The Wall Street Journal. The incidents occurred in May 2026 as part of a test run conducted by Israeli company Irregular. The evaluation partner was also involved in similar hacks disclosed",
-      "published": "Sat, 19 Sep 2026 13:21:34 +0530",
+      "source": "BleepingComputer",
+      "title": "FBI's CJIS v6.1: What Security Teams Need to Know.",
+      "link": "https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/",
+      "summary": "The FBI's CJIS Security Policy v6.1 strengthens requirements around encryption and vulnerability scanning while continuing the shift toward more continuous security assessment. Specops explains what changed and how agencies can address password, MFA, and identity requirements as they prepare for upcoming audits. [...]",
+      "published": "Mon, 21 Sep 2026 10:02:12 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft reminds admins to migrate Entra ID users to passkeys",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/",
+      "summary": "Microsoft has reminded admins to migrate Entra ID users to phishing-resistant authentication methods to avoid sign-in disruptions after it retires SMS first-factor sign-in starting in February 2027. [...]",
+      "published": "Mon, 21 Sep 2026 09:16:20 -0400",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft: September updates break File History backup feature",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/",
+      "summary": "Microsoft warned that the built-in File History backup feature in Windows may stop working on some systems after installing the September 2026 security updates. [...]",
+      "published": "Mon, 21 Sep 2026 07:45:54 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -179,57 +226,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
       "summary": "BragJack, a proof-of-concept attack from Forever Security's Gal Weizman, hijacks the AI assistants in Chrome, Edge, Opera Neon, Perplexity Comet, and Claude in Chrome using one malicious extension. The Prompt Forcing technique earned over $20,000 in bounties and two CVEs. [...]",
       "published": "Sat, 19 Sep 2026 10:56:31 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide",
-      "link": "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/",
-      "summary": "A joint law enforcement advisory warns that the North Korean hacking group WaterPlum compromised at least 30,000 devices worldwide from December 2025 through July 2026 and transferred more than $10.7 million in stolen cryptocurrency to North Korea. [...]",
-      "published": "Sat, 19 Sep 2026 10:05:15 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
-      "summary": "The ShinyHunters extortion gang breached the Clop (aka Cl0p) ransomware operation's data leak site, defacing the Tor site and allegedly stealing server data and the private keys for its onion service. [...]",
-      "published": "Sat, 19 Sep 2026 09:48:32 -0400",
-      "value_score": 70,
-      "value_signals": [
-        "Ransomware ×2",
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Viral AI actress' hotline face-scans every caller, watches their mood",
-      "link": "https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/",
-      "summary": "AI actress Tilly Norwood went viral after glitching into Chinese on Piers Morgan Uncensored last night. Her \"Talking Tilly\" video call service face-scans every caller for an 18+ age check, senses callers' moods during calls, and shuts down permanently on September 27. We tried it and read the fine print. [...]",
-      "published": "Sat, 19 Sep 2026 07:38:20 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Gyazo server flaw exploited to steal 23.6 million user records",
-      "link": "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/",
-      "summary": "The Gyazo image-sharing platform has confirmed it suffered a data breach after hackers exploited a server vulnerability that allowed them to steal 23.6 million user records. [...]",
-      "published": "Fri, 18 Sep 2026 12:00:38 -0400",
-      "value_score": 28,
-      "value_signals": [
-        "Breach/leak",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/",
-      "summary": "An ongoing malware campaign uses SEO-optimized GitHub repositories to impersonate well-known software firms to push a previously undocumented information stealer called Rapuncel. [...]",
-      "published": "Fri, 18 Sep 2026 11:19:06 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -312,6 +308,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Rogue Behavior: OpenAI Reveals More Model Misalignment Incidents",
+      "link": "https://www.darkreading.com/cyber-risk/rogue-behavior-openai-more-model-misalignment-incidents",
+      "summary": "The AI giant disclosed six examples of concerning model activity and published a new framework for investigating and disclosing such incidents.",
+      "published": "Mon, 21 Sep 2026 14:47:19 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Vectra AI Launches Ascent to Help Address New Era of AI-Driven Attacks",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/vectra-ai-launches-ascent-new-era-ai-driven-attacks",
       "summary": "The new program expands Vectra AI's partner strategy as increasingly complex security environments and the growing use of AI create demand for broader AI expertise, services, and security outcomes.",
@@ -382,11 +387,67 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "[Virtual Event] Cybersecurity Outlook 2027",
-      "link": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
-      "summary": "",
-      "published": "2026-12-03T16:00:00.000Z",
+      "source": "Security Week",
+      "title": "Fake LastPass Installers Push Kernel-Level EDR Killer, ‘Rapuncel’ Stealer",
+      "link": "https://www.securityweek.com/fake-lastpass-installers-push-kernel-level-edr-killer-rapuncel-stealer/",
+      "summary": "The attackers impersonate at least 40 companies and disable 145 security products to deploy infostealer malware. The post Fake LastPass Installers Push Kernel-Level EDR Killer, ‘Rapuncel’ Stealer appeared first on SecurityWeek .",
+      "published": "Mon, 21 Sep 2026 15:46:58 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "CISO Conversations: Noopur Davis – The Accidental Global CISO at Comcast",
+      "link": "https://www.securityweek.com/ciso-conversations-noopur-davis-the-accidental-global-ciso-at-comcast/",
+      "summary": "Noopur Davis never planned a career in cybersecurity. She was a developer at Intergraph, and for many years that was all she wanted to be. The post CISO Conversations: Noopur Davis – The Accidental Global CISO at Comcast appeared first on SecurityWeek .",
+      "published": "Mon, 21 Sep 2026 14:30:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Dragos Completes NetRise and runZero Acquisitions Following Accenture Deal",
+      "link": "https://www.securityweek.com/dragos-completes-netrise-and-runzero-acquisitions-following-accenture-deal/",
+      "summary": "The transaction is part of the $4.1 billion deal in which Accenture acquired a majority stake in Dragos in an OT cybersecurity push. The post Dragos Completes NetRise and runZero Acquisitions Following Accenture Deal appeared first on SecurityWeek .",
+      "published": "Mon, 21 Sep 2026 14:00:13 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "RatHat Android Trojan Uses AI for Automation",
+      "link": "https://www.securityweek.com/rathat-android-trojan-uses-ai-for-automation/",
+      "summary": "The malware relies on AI for real-time device navigation and control, increasing adaptability and evasion. The post RatHat Android Trojan Uses AI for Automation appeared first on SecurityWeek .",
+      "published": "Mon, 21 Sep 2026 12:51:41 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Rust Team Members and Popular Crate Owners Targeted via Video Calls",
+      "link": "https://www.securityweek.com/rust-team-members-and-popular-crate-owners-targeted-via-video-calls/",
+      "summary": "It’s unclear if the attacks are part of previous campaigns against Rust, but the techniques used by the attackers match those used by North Korea. The post Rust Team Members and Popular Crate Owners Targeted via Video Calls appeared first on SecurityWeek .",
+      "published": "Mon, 21 Sep 2026 11:57:35 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "CrowdSec Confirms Source Code Stolen in Supply Chain Attack",
+      "link": "https://www.securityweek.com/crowdsec-confirms-source-code-stolen-in-supply-chain-attack/",
+      "summary": "The cybersecurity firm believes the data breach was the result of the May 2026 TanStack supply chain attack. The post CrowdSec Confirms Source Code Stolen in Supply Chain Attack appeared first on SecurityWeek .",
+      "published": "Mon, 21 Sep 2026 10:55:46 +0000",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Colorado Water Utilities Hit by Cyberattacks Targeting OT Systems",
+      "link": "https://www.securityweek.com/colorado-water-utilities-hit-by-cyberattacks-targeting-ot-systems/",
+      "summary": "The hackers changed equipment settings, disabled remote access and alarms, and altered pumping cycles, officials said. The post Colorado Water Utilities Hit by Cyberattacks Targeting OT Systems appeared first on SecurityWeek .",
+      "published": "Mon, 21 Sep 2026 10:03:44 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -400,81 +461,6 @@
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Google Confirms Gemini AI Breached Three Firms",
-      "link": "https://www.securityweek.com/google-confirms-gemini-ai-breached-three-firms/",
-      "summary": "Google is the latest AI giant to confirm that its models escaped a testing environment and hacked real companies. The post Google Confirms Gemini AI Breached Three Firms appeared first on SecurityWeek .",
-      "published": "Mon, 21 Sep 2026 07:20:46 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "TigerByte Cyber Emerges From Stealth With $3 Million in Funding",
-      "link": "https://www.securityweek.com/tigerbyte-cyber-emerges-from-stealth-with-3-million-in-funding/",
-      "summary": "The company has secured over $7 million in contracts with US government agencies, including the US Space Force, the US Navy, and DARPA. The post TigerByte Cyber Emerges From Stealth With $3 Million in Funding appeared first on SecurityWeek .",
-      "published": "Sat, 19 Sep 2026 14:30:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "In Other News: Ransomware Developer Sentenced, Plugin4Shell AI Attack, Critical SAP Flaw",
-      "link": "https://www.securityweek.com/in-other-news-ransomware-developer-sentenced-plugin4shell-ai-attack-critical-sap-flaw/",
-      "summary": "Noteworthy stories that might have slipped under the radar: Mandiant's 2026 AI risk report, PhantomRaven malware used by bug bounty hunter, WordPress plugin bug exploited. The post In Other News: Ransomware Developer Sentenced, Plugin4Shell AI Attack, Critical SAP Flaw appeared first on SecurityWeek .",
-      "published": "Fri, 18 Sep 2026 14:25:00 +0000",
-      "value_score": 68,
-      "value_signals": [
-        "Ransomware ×2",
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "AI-Built Exploit and Sign-In Flaw Opened Path to Internal OpenAI Code",
-      "link": "https://www.securityweek.com/ai-built-exploit-and-sign-in-flaw-opened-path-to-internal-openai-code/",
-      "summary": "Hacktron researchers earned a bug bounty after demonstrating access to OpenAI employee accounts. The post AI-Built Exploit and Sign-In Flaw Opened Path to Internal OpenAI Code appeared first on SecurityWeek .",
-      "published": "Fri, 18 Sep 2026 12:45:24 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "23 Million User Records Compromised in Gyazo Data Breach",
-      "link": "https://www.securityweek.com/23-million-user-records-compromised-in-gyazo-data-breach/",
-      "summary": "Gyazo maker Helpfeel said the attacker exploited a vulnerability in its image upload server to gain unauthorized access. The post 23 Million User Records Compromised in Gyazo Data Breach appeared first on SecurityWeek .",
-      "published": "Fri, 18 Sep 2026 11:38:40 +0000",
-      "value_score": 40,
-      "value_signals": [
-        "Breach/leak ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Microsoft Patches 18 Vulnerabilities in AI, Cloud Products",
-      "link": "https://www.securityweek.com/microsoft-patches-18-vulnerabilities-in-ai-cloud-products/",
-      "summary": "Microsoft fixed vulnerabilities across Azure and AI-branded products, with privilege escalation flaws accounting for the majority. The post Microsoft Patches 18 Vulnerabilities in AI, Cloud Products appeared first on SecurityWeek .",
-      "published": "Fri, 18 Sep 2026 10:57:03 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Privilege escalation",
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "NightmareStresser DDoS Service Disrupted in International Operation",
-      "link": "https://www.securityweek.com/nightmarestresser-ddos-service-disrupted-in-international-operation/",
-      "summary": "Active since at least 2022, NightmareStresser was one of the longest-running DDoS-for-hire services in the world. The post NightmareStresser DDoS Service Disrupted in International Operation appeared first on SecurityWeek .",
-      "published": "Fri, 18 Sep 2026 10:12:33 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

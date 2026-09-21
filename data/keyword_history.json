@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 768,
+      "count": 769,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -328,11 +328,12 @@
         "2026-09-13",
         "2026-09-16",
         "2026-09-17",
-        "2026-09-18"
+        "2026-09-18",
+        "2026-09-21"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2676,
+      "count": 2677,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1278,7 +1279,7 @@
       ]
     },
     "national security risk": {
-      "count": 499,
+      "count": 500,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1372,7 +1373,8 @@
         "2026-09-15",
         "2026-09-16",
         "2026-09-17",
-        "2026-09-18"
+        "2026-09-18",
+        "2026-09-21"
       ]
     },
     "open source millions": {
@@ -4336,7 +4338,7 @@
       ]
     },
     "released security updates": {
-      "count": 137,
+      "count": 138,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -4376,7 +4378,8 @@
         "2026-09-07",
         "2026-09-17",
         "2026-09-19",
-        "2026-09-20"
+        "2026-09-20",
+        "2026-09-21"
       ]
     },
     "auditability collide daily": {
@@ -20346,7 +20349,7 @@
       ]
     },
     "security experts warn": {
-      "count": 50,
+      "count": 51,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -21569,7 +21572,7 @@
       ]
     },
     "high severity flaw": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-06-26",
         "2026-06-27",
@@ -26481,7 +26484,7 @@
       ]
     },
     "text history records": {
-      "count": 202,
+      "count": 203,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -26518,7 +26521,8 @@
         "2026-09-16",
         "2026-09-17",
         "2026-09-18",
-        "2026-09-19"
+        "2026-09-19",
+        "2026-09-21"
       ]
     },
     "chatgpt secure sandbox": {
@@ -27363,7 +27367,7 @@
       ]
     },
     "who's harvesting data": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-08-14",
         "2026-08-19",
@@ -27376,7 +27380,8 @@
         "2026-09-12",
         "2026-09-14",
         "2026-09-15",
-        "2026-09-16"
+        "2026-09-16",
+        "2026-09-21"
       ]
     },
     "single control plane": {
@@ -29170,7 +29175,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 106,
+      "count": 107,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29509,7 +29514,7 @@
       ]
     },
     "defraud online merchants": {
-      "count": 48,
+      "count": 49,
       "dates": [
         "2026-09-04",
         "2026-09-05",
@@ -31056,7 +31061,7 @@
       ]
     },
     "mfa won't save": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-09-18",
         "2026-09-19",
@@ -31131,7 +31136,7 @@
       ]
     },
     "multicloud environments complicate": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-09-19",
         "2026-09-20",
@@ -31139,7 +31144,7 @@
       ]
     },
     "modern identity security": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-09-19",
         "2026-09-20",
@@ -31155,7 +31160,7 @@
       ]
     },
     "hiding malicious code": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-20",
         "2026-09-21"
@@ -31179,20 +31184,45 @@
       "dates": [
         "2026-09-21"
       ]
+    },
+    "office users microsoft": {
+      "count": 1,
+      "dates": [
+        "2026-09-21"
+      ]
+    },
+    "least 40 companies": {
+      "count": 1,
+      "dates": [
+        "2026-09-21"
+      ]
+    },
+    "dragos completes netrise": {
+      "count": 1,
+      "dates": [
+        "2026-09-21"
+      ]
+    },
+    "accidental global ciso": {
+      "count": 1,
+      "dates": [
+        "2026-09-21"
+      ]
+    },
+    "ot cybersecurity push": {
+      "count": 1,
+      "dates": [
+        "2026-09-21"
+      ]
+    },
+    "continuous security assessment": {
+      "count": 1,
+      "dates": [
+        "2026-09-21"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-03 14:03",
-      "articles": 48,
-      "top_keywords": [
-        "remote code execution",
-        "sql injection vulnerability",
-        "deploy malicious payloads",
-        "rockwell automation patches",
-        "ai runtime security"
-      ]
-    },
     {
       "timestamp": "2026-09-03 19:01",
       "articles": 48,
@@ -32280,6 +32310,17 @@
         "least 2022 nightmarestresser",
         "high severity flaw",
         "image upload server"
+      ]
+    },
+    {
+      "timestamp": "2026-09-21 16:08",
+      "articles": 48,
+      "top_keywords": [
+        "office users microsoft",
+        "least 40 companies",
+        "dragos completes netrise",
+        "twitter whistleblower complaint",
+        "text history records"
       ]
     }
   ]

@@ -332,7 +332,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2675,
+      "count": 2676,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -20346,7 +20346,7 @@
       ]
     },
     "security experts warn": {
-      "count": 49,
+      "count": 50,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -21569,7 +21569,7 @@
       ]
     },
     "high severity flaw": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-06-26",
         "2026-06-27",
@@ -29170,7 +29170,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 105,
+      "count": 106,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29509,7 +29509,7 @@
       ]
     },
     "defraud online merchants": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2026-09-04",
         "2026-09-05",
@@ -30931,7 +30931,7 @@
       ]
     },
     "least 2022 nightmarestresser": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-09-18",
         "2026-09-19",
@@ -30960,7 +30960,7 @@
       ]
     },
     "ai built exploit": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-09-18",
         "2026-09-19",
@@ -30969,7 +30969,7 @@
       ]
     },
     "longest running ddos": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-09-18",
         "2026-09-19",
@@ -31025,7 +31025,7 @@
       ]
     },
     "ai branded products": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-09-18",
         "2026-09-19",
@@ -31056,7 +31056,7 @@
       ]
     },
     "mfa won't save": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-09-18",
         "2026-09-19",
@@ -31072,7 +31072,7 @@
       ]
     },
     "ai create demand": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-09-18",
         "2026-09-19",
@@ -31081,7 +31081,7 @@
       ]
     },
     "image upload server": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-09-19",
         "2026-09-20",
@@ -31095,7 +31095,7 @@
       ]
     },
     "flaw opened path": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-09-19",
         "2026-09-20",
@@ -31131,7 +31131,7 @@
       ]
     },
     "multicloud environments complicate": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-09-19",
         "2026-09-20",
@@ -31139,7 +31139,7 @@
       ]
     },
     "modern identity security": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-09-19",
         "2026-09-20",
@@ -31147,7 +31147,7 @@
       ]
     },
     "mythos class ai": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-09-19",
         "2026-09-20",
@@ -31155,32 +31155,33 @@
       ]
     },
     "hiding malicious code": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-20",
         "2026-09-21"
       ]
     },
     "identity visibility means": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-20",
+        "2026-09-21"
+      ]
+    },
+    "tigerbyte cyber emerges": {
+      "count": 1,
+      "dates": [
+        "2026-09-21"
+      ]
+    },
+    "latest ai giant": {
+      "count": 1,
+      "dates": [
         "2026-09-21"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-03 08:28",
-      "articles": 48,
-      "top_keywords": [
-        "fake software updates",
-        "sql injection vulnerability",
-        "anthropic details response",
-        "rockwell automation patches",
-        "access programs google"
-      ]
-    },
     {
       "timestamp": "2026-09-03 14:03",
       "articles": 48,
@@ -32268,6 +32269,17 @@
         "high severity flaw",
         "image upload server",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-09-21 09:31",
+      "articles": 48,
+      "top_keywords": [
+        "tigerbyte cyber emerges",
+        "ai built exploit",
+        "least 2022 nightmarestresser",
+        "high severity flaw",
+        "image upload server"
       ]
     }
   ]

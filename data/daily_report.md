@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-21 02:56 UTC  
+> **Last Updated:** 2026-09-21 09:31 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**ai built exploit** • **least 2022 nightmarestresser** • **high severity flaw** • **image upload server** • **twitter whistleblower complaint** • **multicloud environments complicate** • **mfa won't save** • **longest running ddos** • **individuals whose licenses** • **defraud online merchants** • **hiding malicious code** • **modern identity security** • **flaw opened path** • **mythos class ai** • **ai driven attacks** • **ai create demand** • **ai branded products** • **identity visibility means** • **github access open** • **security experts warn**
+**tigerbyte cyber emerges** • **ai built exploit** • **least 2022 nightmarestresser** • **high severity flaw** • **image upload server** • **hiding malicious code** • **twitter whistleblower complaint** • **multicloud environments complicate** • **mfa won't save** • **longest running ddos** • **individuals whose licenses** • **defraud online merchants** • **flaw opened path** • **modern identity security** • **mythos class ai** • **latest ai giant** • **ai create demand** • **ai branded products** • **identity visibility means** • **security experts warn**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure](https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html)
+- [Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors](https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html)
 - [Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws](https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html)
 - [Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar](https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html)
 - [Identity Visibility in 2026: The Foundation of Identity Security](https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html)
 - [SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE](https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html)
 - [Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild](https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html)
 - [Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up](https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html)
-- [CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories](https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html)
-- [CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild](https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html)
 
 ### BleepingComputer
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Organizations Warned of 3 Exploited Linux Kernel Vulnerabilities](https://www.securityweek.com/organizations-warned-of-3-exploited-linux-kernel-vulnerabilities/)
+- [Google Confirms Gemini AI Breached Three Firms](https://www.securityweek.com/google-confirms-gemini-ai-breached-three-firms/)
 - [TigerByte Cyber Emerges From Stealth With $3 Million in Funding](https://www.securityweek.com/tigerbyte-cyber-emerges-from-stealth-with-3-million-in-funding/)
 - [In Other News: Ransomware Developer Sentenced, Plugin4Shell AI Attack, Critical SAP Flaw](https://www.securityweek.com/in-other-news-ransomware-developer-sentenced-plugin4shell-ai-attack-critical-sap-flaw/)
 - [AI-Built Exploit and Sign-In Flaw Opened Path to Internal OpenAI Code](https://www.securityweek.com/ai-built-exploit-and-sign-in-flaw-opened-path-to-internal-openai-code/)
 - [23 Million User Records Compromised in Gyazo Data Breach](https://www.securityweek.com/23-million-user-records-compromised-in-gyazo-data-breach/)
 - [Microsoft Patches 18 Vulnerabilities in AI, Cloud Products](https://www.securityweek.com/microsoft-patches-18-vulnerabilities-in-ai-cloud-products/)
 - [NightmareStresser DDoS Service Disrupted in International Operation](https://www.securityweek.com/nightmarestresser-ddos-service-disrupted-in-international-operation/)
-- [Brevo Supply Chain Attack Injects Malware Into 100,000 Websites](https://www.securityweek.com/brevo-supply-chain-attack-injects-malware-into-100000-websites/)
-- [Critical Orkes Conductor Vulnerability Exploited in Attacks](https://www.securityweek.com/critical-orkes-conductor-vulnerability-exploited-in-attacks/)
 
 ### Threatpost
 

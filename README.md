@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-22 17:52 UTC |
+| 🕐 Last Updated | 2026-09-22 20:46 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`author abdelhamid naceri` • `stops microsoft defender` • `microsoft initially classified` • `chinese threat actor` • `twitter whistleblower complaint` • `individuals whose licenses` • `cisa orders feds` • `blocks antivirus updates` • `12 billion valuation` • `help organizations identify`
+`chinese threat actor` • `stops microsoft defender` • `author abdelhamid naceri` • `2 1 0` • `windows operating systems` • `twitter whistleblower complaint` • `text history records` • `shinyhunters hacked cl0p` • `individuals whose licenses` • `defraud online merchants`
 
 ## 📄 Reports
 

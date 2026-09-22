@@ -1,72 +1,107 @@
 {
-  "last_updated": "2026-09-22 17:52",
+  "last_updated": "2026-09-22 20:46",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "author abdelhamid naceri",
-    "stops microsoft defender",
-    "microsoft initially classified",
     "chinese threat actor",
+    "stops microsoft defender",
+    "author abdelhamid naceri",
+    "2 1 0",
+    "windows operating systems",
     "twitter whistleblower complaint",
+    "text history records",
+    "shinyhunters hacked cl0p",
     "individuals whose licenses",
-    "cisa orders feds",
-    "blocks antivirus updates",
+    "defraud online merchants",
     "12 billion valuation",
-    "help organizations identify",
     "security experts warn",
     "national security risk",
-    "ai development saying",
-    "ai create demand",
-    "data theft attackers",
     "former employee's computer",
-    "windows operating systems",
-    "text history records",
+    "mistral ai models",
+    "who's harvesting data",
+    "steal sensitive data",
+    "steal govt data",
     "sophisticated cybercrime syndicate",
-    "soc actually see"
+    "siphoning images collected"
   ],
   "trending": [
     {
-      "keyword": "author abdelhamid naceri",
-      "mentions": 1
+      "keyword": "chinese threat actor",
+      "mentions": 20
     },
     {
       "keyword": "stops microsoft defender",
-      "mentions": 1
-    },
-    {
-      "keyword": "microsoft initially classified",
       "mentions": 2
     },
     {
-      "keyword": "chinese threat actor",
-      "mentions": 19
+      "keyword": "author abdelhamid naceri",
+      "mentions": 2
+    },
+    {
+      "keyword": "2 1 0",
+      "mentions": 1
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 771
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2682
+      "mentions": 2683
+    },
+    {
+      "keyword": "text history records",
+      "mentions": 206
+    },
+    {
+      "keyword": "shinyhunters hacked cl0p",
+      "mentions": 1
     },
     {
       "keyword": "individuals whose licenses",
-      "mentions": 112
+      "mentions": 113
     },
     {
-      "keyword": "cisa orders feds",
-      "mentions": 34
-    },
-    {
-      "keyword": "blocks antivirus updates",
-      "mentions": 1
-    },
-    {
-      "keyword": "12 billion valuation",
-      "mentions": 1
-    },
-    {
-      "keyword": "help organizations identify",
-      "mentions": 1
+      "keyword": "defraud online merchants",
+      "mentions": 50
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
+      "link": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
+      "summary": "Attackers exploited a previously unknown flaw in Check Point's Security Management Server in a handful of targeted attacks on July 23, the company said. The flaw, CVE-2026-93616, allows an attacker who can access the server's web service to run scripts on it without logging in. Check Point released a fix on September 22 for the server that controls firewall policies for the Check Point",
+      "published": "Tue, 22 Sep 2026 23:59:39 +0530",
+      "value_score": 67,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day",
+        "Patch/update",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers",
+      "link": "https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html",
+      "summary": "WordPress has fixed a critical flaw in its core software that lets an attacker with no account make a site load a PHP file from outside its theme folders. On some servers, that can go further, allowing the attacker to run their own code. The fix shipped on September 22 in WordPress 7.1.2, with fixes for every branch the project still supports, back to 4.7, and WordPress is telling site owners",
+      "published": "Tue, 22 Sep 2026 23:33:10 +0530",
+      "value_score": 42,
+      "value_signals": [
+        "Patch/update ×3",
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials",
+      "link": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
+      "summary": "Cybersecurity researchers have disclosed details of a malicious npm package named \"tw-pkgprobe-7731\" that masquerades as a security tool targeting developers integrating Twilio into their applications, while stealthily attempting to harvest sensitive data. The package, named \"tw-pkgprobe-7731,\" was first uploaded to the npm registry in mid-August 2026 by an npm account named \"twdepprobe7731.\"",
+      "published": "Tue, 22 Sep 2026 23:28:15 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
@@ -127,36 +162,36 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "DORA Year Two: Can Your SOC Actually See the Attack?",
-      "link": "https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html",
-      "summary": "When the Digital Operational Resilience Act (DORA) became enforceable across the European Union in January 2025, it triggered an administrative sprint. Financial entities spent the first year establishing risk governance, assessing third-party service providers, updating contract clauses, and documenting incident escalation workflows. Now in its second year, the harder part of DORA is",
-      "published": "Tue, 22 Sep 2026 17:15:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Chinese hackers exploit multiple technologies to steal govt data",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/",
+      "summary": "A Chinese-speaking threat actor has been exploiting vulnerabilities in ZyXEL GS1900 Smart Managed Switches and WordPress to steal sensitive data from 996 devices and more than 18,500 records stored in backend databases. [...]",
+      "published": "Tue, 22 Sep 2026 16:35:24 -0400",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
+      "summary": "The ShinyHunters extortion gang claims it breached FBI systems using a new Oracle PeopleSoft zero-day vulnerability, gaining access to internal services and stealing sensitive data on employees and job applicants. [...]",
+      "published": "Tue, 22 Sep 2026 15:13:29 -0400",
+      "value_score": 72,
+      "value_signals": [
+        "Zero-day ×2",
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "New ClosedQuorum Windows malware uses AI for attack decisions",
+      "link": "https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/",
+      "summary": "A new Windows malware named ClosedQuorum uses Google Gemini, DeepSeek, Qwen, and Mistral AI models to autonomously determine the actions to take during post-compromise stages of an attack. [...]",
+      "published": "Tue, 22 Sep 2026 14:04:39 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory",
-      "link": "https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html",
-      "summary": "A new flaw in the Linux kernel's KVM virtualization code for ARM64 processors can leave a freed piece of host memory exposed to a guest virtual machine on hosts with nested virtualization enabled. The bug, tracked as CVE-2026-89775, allows a guest to read and write host kernel memory, and the researcher who found it says it can be used to escape the guest and run code on the host machine.",
-      "published": "Tue, 22 Sep 2026 17:08:40 +0530",
-      "value_score": 28,
-      "value_signals": [
-        "CVE mentioned"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE",
-      "link": "https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html",
-      "summary": "A SharePoint Server vulnerability that Microsoft initially classified as a spoofing flaw with a CVSS score of 6.5 actually enables authenticated remote code execution, according to full technical details published today by Viettel Cyber Security researcher Dinh Ho Anh Khoa. The flaw, CVE-2026-65660, affects SharePoint Server 2016, 2019, and Subscription Edition. Patches have been",
-      "published": "Tue, 22 Sep 2026 16:47:41 +0530",
-      "value_score": 68,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE ×2"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -213,42 +248,6 @@
         "PoC available",
         "Patch/update",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Windows Defender zero-day blocks Microsoft antivirus updates",
-      "link": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/",
-      "summary": "Over the weekend, security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) released another Microsoft Defender zero-day exploit that blocks antivirus updates. [...]",
-      "published": "Tue, 22 Sep 2026 05:55:11 -0400",
-      "value_score": 66,
-      "value_signals": [
-        "Zero-day ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA orders feds to patch Zyxel flaw exploited for data theft",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/",
-      "summary": "​Attackers are now actively exploiting a high-severity vulnerability in Zyxel GS1900 series switches, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
-      "published": "Tue, 22 Sep 2026 04:53:09 -0400",
-      "value_score": 64,
-      "value_signals": [
-        "Patch/update",
-        "CISA/KEV ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "BigCommerce alerts merchants of data breach linked to Ribon apps",
-      "link": "https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/",
-      "summary": "Ecommerce platform BigCommerce has alerted multiple merchants to data breaches after attackers compromised credentials for third-party Ribon applications and used them to inject malicious scripts into online stores. [...]",
-      "published": "Mon, 21 Sep 2026 17:18:49 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
       ]
     },
     {
@@ -330,6 +329,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Microsoft Disrupts EvilTokens Device Code Phishing Service",
+      "link": "https://www.darkreading.com/identity-access-management-security/microsoft-disrupts-eviltokens-device-code-phishing-service",
+      "summary": "Microsoft seized 50 websites and disabled more than 150 domains as part of a coordinated disruption effort against a phishing-as-a-service platform targeting Microsoft 365 accounts.",
+      "published": "Tue, 22 Sep 2026 20:02:02 GMT",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Shai-Hulud Attack Nips Cyber-Firm CrowdSec's GitHub Data",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/shai-hulud-attack-cyber-firm-crowdsec-github-data",
       "summary": "Threat actors stole 170 private repositories using an OAuth token stolen from a former employee's computer through the TanStack npm supply chain attack.",
@@ -392,11 +402,11 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Vectra AI Launches Ascent to Help Address New Era of AI-Driven Attacks",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/vectra-ai-launches-ascent-new-era-ai-driven-attacks",
-      "summary": "The new program expands Vectra AI's partner strategy as increasingly complex security environments and the growing use of AI create demand for broader AI expertise, services, and security outcomes.",
-      "published": "Fri, 18 Sep 2026 20:24:51 GMT",
+      "source": "Security Week",
+      "title": "BigCommerce Data Stolen via Ribon Apps Hack",
+      "link": "https://www.securityweek.com/bigcommerce-data-stolen-via-ribon-apps-hack/",
+      "summary": "The attackers used a compromised BigCommerce application key held by Ribon to access customer data. The post BigCommerce Data Stolen via Ribon Apps Hack appeared first on SecurityWeek .",
+      "published": "Tue, 22 Sep 2026 17:58:00 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -466,15 +476,6 @@
       "link": "https://www.securityweek.com/japan-dismantles-first-north-korean-laptop-farm-as-us-and-allies-detail-wider-scheme/",
       "summary": "The US, Japan, Germany and Australia have published a joint report detailing the scope of North Korea’s WaterPlum campaign. The post Japan Dismantles First North Korean Laptop Farm as US and Allies Detail Wider Scheme appeared first on SecurityWeek .",
       "published": "Tue, 22 Sep 2026 08:37:06 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "US Proposes AI Incident Alert System in Talks With China, Bessent Says",
-      "link": "https://www.securityweek.com/us-proposes-ai-incident-alert-system-in-talks-with-china-bessent-says/",
-      "summary": "Trump has resisted calls to slow down AI development, saying that would help China catch up to U.S. companies. The post US Proposes AI Incident Alert System in Talks With China, Bessent Says appeared first on SecurityWeek .",
-      "published": "Tue, 22 Sep 2026 02:01:24 +0000",
       "value_score": 10,
       "value_signals": []
     },

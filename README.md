@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-22 13:00 UTC |
+| 🕐 Last Updated | 2026-09-22 17:52 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`cve 2026 93485` • `microsoft initially classified` • `inject malicious scripts` • `execute malicious scripts` • `twitter whistleblower complaint` • `longest running spree` • `individuals whose licenses` • `malicious oauth applications` • `chinese threat actor` • `ai development saying`
+`author abdelhamid naceri` • `stops microsoft defender` • `microsoft initially classified` • `chinese threat actor` • `twitter whistleblower complaint` • `individuals whose licenses` • `cisa orders feds` • `blocks antivirus updates` • `12 billion valuation` • `help organizations identify`
 
 ## 📄 Reports
 

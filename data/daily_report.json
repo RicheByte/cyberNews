@@ -1,72 +1,131 @@
 {
-  "last_updated": "2026-09-22 13:00",
+  "last_updated": "2026-09-22 17:52",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "cve 2026 93485",
+    "author abdelhamid naceri",
+    "stops microsoft defender",
     "microsoft initially classified",
-    "inject malicious scripts",
-    "execute malicious scripts",
-    "twitter whistleblower complaint",
-    "longest running spree",
-    "individuals whose licenses",
-    "malicious oauth applications",
     "chinese threat actor",
-    "ai development saying",
-    "ai create demand",
-    "sharepoint server vulnerability",
+    "twitter whistleblower complaint",
+    "individuals whose licenses",
+    "cisa orders feds",
+    "blocks antivirus updates",
+    "12 billion valuation",
+    "help organizations identify",
     "security experts warn",
     "national security risk",
-    "wordpress core let",
-    "update right away",
-    "told site owners",
-    "threat actor known",
+    "ai development saying",
+    "ai create demand",
+    "data theft attackers",
+    "former employee's computer",
+    "windows operating systems",
     "text history records",
-    "target academic institutions"
+    "sophisticated cybercrime syndicate",
+    "soc actually see"
   ],
   "trending": [
     {
-      "keyword": "cve 2026 93485",
-      "mentions": 2
+      "keyword": "author abdelhamid naceri",
+      "mentions": 1
+    },
+    {
+      "keyword": "stops microsoft defender",
+      "mentions": 1
     },
     {
       "keyword": "microsoft initially classified",
-      "mentions": 1
-    },
-    {
-      "keyword": "inject malicious scripts",
-      "mentions": 1
-    },
-    {
-      "keyword": "execute malicious scripts",
-      "mentions": 1
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2681
-    },
-    {
-      "keyword": "longest running spree",
-      "mentions": 37
-    },
-    {
-      "keyword": "individuals whose licenses",
-      "mentions": 111
-    },
-    {
-      "keyword": "malicious oauth applications",
-      "mentions": 4
+      "mentions": 2
     },
     {
       "keyword": "chinese threat actor",
-      "mentions": 18
+      "mentions": 19
     },
     {
-      "keyword": "ai development saying",
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2682
+    },
+    {
+      "keyword": "individuals whose licenses",
+      "mentions": 112
+    },
+    {
+      "keyword": "cisa orders feds",
+      "mentions": 34
+    },
+    {
+      "keyword": "blocks antivirus updates",
+      "mentions": 1
+    },
+    {
+      "keyword": "12 billion valuation",
+      "mentions": 1
+    },
+    {
+      "keyword": "help organizations identify",
       "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
+      "link": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
+      "summary": "Microsoft on Tuesday announced the takedown of the EvilTokens device code phishing service that it said used artificial intelligence (AI) \"at every step of the attack chain.\" The action, carried out with authorization from the U.S. District Court for the Eastern District of Virginia, involved the efforts of Health-ISAC, alongside Cloudflare, Coinbase, OpenAI, Railway, SpyCloud, The Shadowserver",
+      "published": "Tue, 22 Sep 2026 22:33:31 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
+      "link": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
+      "summary": "A critical vulnerability in Bifrost, an open-source AI gateway that routes requests to more than 20 LLM providers, allows an unauthenticated attacker to run arbitrary commands on the gateway server with a single HTTP request. The flaw, tracked as CVE-2026-90898 (CVSS score: 9.8), affects all versions of the Bifrost HTTP transport before 2.1.0 when management authentication is",
+      "published": "Tue, 22 Sep 2026 22:11:12 +0530",
+      "value_score": 44,
+      "value_signals": [
+        "CVE mentioned",
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates",
+      "link": "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html",
+      "summary": "A zero-day proof-of-concept tool that stops Microsoft Defender from installing platform and signature updates by filling all available disk space was published on GitHub on September 19. The tool, called BigDiskBuster, has no patch, no CVE, and no Microsoft advisory. Its author, Abdelhamid Naceri, is a former Microsoft security researcher whose earlier Defender exploits were used in",
+      "published": "Tue, 22 Sep 2026 21:44:04 +0530",
+      "value_score": 84,
+      "value_signals": [
+        "Zero-day ×2",
+        "PoC available",
+        "Patch/update",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "AI Agents Are Rewriting the Rules of Lateral Movement",
+      "link": "https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html",
+      "summary": "Security teams have spent decades asking whether an identity has too much access. AI agents raise a harder question: how can we determine which paths an autonomous system can discover, given the access it already has? A person may try several ways to complete a task. A deterministic application follows the flow its developer wrote. But an AI agent is relentless in its pursuit of done. In May",
+      "published": "Tue, 22 Sep 2026 18:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "New CVSS 10.0 VeloCloud Orchestrator Flaw Actively Exploited in Certificate-Based Setups",
+      "link": "https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html",
+      "summary": "Attackers are exploiting a new flaw in on-premises VeloCloud Orchestrator (VCO), the server that manages the Edge devices in a VeloCloud SD-WAN, Arista said on September 22. The flaw, tracked as CVE-2026-93952, may allow a remote attacker with no login access to privilege internal functions and affect the VCO host. Only orchestrators set up to authenticate their Edges with certificates are",
+      "published": "Tue, 22 Sep 2026 17:59:00 +0530",
+      "value_score": 59,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "DORA Year Two: Can Your SOC Actually See the Attack?",
@@ -100,61 +159,35 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before Removal",
-      "link": "https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html",
-      "summary": "A malicious npm package named \"indexed-btree\" has been observed hiding its malicious behavior within application code rather than using lifecycle scripts, indicating that threat actors are likely shifting tactics in response to recent security controls. \"Indexed-btree is a malicious npm package mimicking the legit sorted-btree package, an ordinary B-tree/indexing utility,\" Checkmarx said. \"",
-      "published": "Tue, 22 Sep 2026 15:08:18 +0530",
+      "source": "BleepingComputer",
+      "title": "Reducing shadow IT visibility gaps with Wazuh",
+      "link": "https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/",
+      "summary": "Shadow IT can leave security teams unaware of unmanaged endpoints, unauthorized software, and other assets that fall outside existing monitoring. Wazuh explains how endpoint inventory, agentless monitoring, and centralized analysis can help organizations identify and reduce these visibility gaps. [...]",
+      "published": "Tue, 22 Sep 2026 13:17:41 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing",
-      "link": "https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html",
-      "summary": "The threat actor known as SideCopy has been observed using spear-phishing lures to target academic institutions in India, expanding their strategic focus beyond government entities. \"SideCopy campaign operations typically initiate through spear-phishing campaigns that leverage the abuse of mshta.exe to execute malicious scripts and circumvent standard security protocols,\" Trellix researchers",
-      "published": "Tue, 22 Sep 2026 13:22:03 +0530",
-      "value_score": 26,
+      "source": "BleepingComputer",
+      "title": "Check Point warns of Management Server zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
+      "summary": "Check Point Software released emergency hotfixes to address a critical Security Management Server vulnerability that could let attackers run arbitrary scripts. [...]",
+      "published": "Tue, 22 Sep 2026 12:32:47 -0400",
+      "value_score": 49,
       "value_signals": [
-        "Phishing ×3"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor",
-      "link": "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html",
-      "summary": "Malware already running on a Mac can quietly take over Meta's Muse assistant and use the broad access its owner granted the app, security researcher Patrick Wardle has shown in a proof-of-concept released on September 21. It works by changing a hidden setting so that when the user taps the microphone and dictates a prompt, the words go to the attacker instead of Meta. The flaw is in",
-      "published": "Tue, 22 Sep 2026 12:03:57 +0530",
-      "value_score": 22,
-      "value_signals": [
-        "Backdoor"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session",
-      "link": "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html",
-      "summary": "A new flaw in WordPress core let an anonymous visitor leave a comment that planted a hidden script on the page. If a logged-in administrator later opened that page, the script could run code on the site's server. WordPress fixed the flaw, tracked as CVE-2026-93485 and called \"Comment2Shell,\" on September 17 in version 7.1.1 and told site owners to update right away. There is",
-      "published": "Tue, 22 Sep 2026 11:33:14 +0530",
-      "value_score": 64,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE",
-        "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access",
-      "link": "https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a now-patched security flaw impacting Zyxel GS1900 series switches to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026-7273 (CVSS score: 8.8), is a stack-based buffer overflow vulnerability that could result in arbitrary operating",
-      "published": "Tue, 22 Sep 2026 11:01:59 +0530",
-      "value_score": 74,
-      "value_signals": [
-        "CVE mentioned",
-        "CISA/KEV ×3",
+        "Zero-day",
+        "High severity",
         "Exploit wording"
       ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/",
+      "summary": "The EvilTokens platform that compromised more than 12,000 Microsoft accounts at over 10,000 organizations has been disrupted in an effort led by Microsoft's Digital Crimes Unit (DCU). [...]",
+      "published": "Tue, 22 Sep 2026 11:00:00 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -217,39 +250,6 @@
       "value_signals": [
         "Breach/leak"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA alerts of active exploitation of three Linux kernel flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting three Linux kernel vulnerabilities, one of them rated critical. [...]",
-      "published": "Mon, 21 Sep 2026 16:12:17 -0400",
-      "value_score": 64,
-      "value_signals": [
-        "CISA/KEV ×2",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server",
-      "link": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/",
-      "summary": "Technical details and a proof-of-concept exploit have been published for a new WordPress cross-site request forgery (CSRF) vulnerability dubbed 'Click2Shell' that affects the platform's Core component. [...]",
-      "published": "Mon, 21 Sep 2026 14:23:11 -0400",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft to retire Microsoft 365 Companion apps in December",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-microsoft-365-companion-apps-in-december/",
-      "summary": "Microsoft will retire the Calendar, People, and Files Microsoft 365 companion apps on December 16 and has asked admins to remove them from managed devices. [...]",
-      "published": "Mon, 21 Sep 2026 13:54:49 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -330,6 +330,24 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Shai-Hulud Attack Nips Cyber-Firm CrowdSec's GitHub Data",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/shai-hulud-attack-cyber-firm-crowdsec-github-data",
+      "summary": "Threat actors stole 170 private repositories using an OAuth token stolen from a former employee's computer through the TanStack npm supply chain attack.",
+      "published": "Tue, 22 Sep 2026 17:32:49 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Amid Ongoing Rogue Incidents, Debate Over AI Safety Gets Real",
+      "link": "https://www.darkreading.com/cyber-risk/rogue-incidents-debate-ai-safety-gets-real",
+      "summary": "As more reports of misalignment incidents underscore AI risks, large AI labs, regular businesses, and even nations are searching for better ways to keep control and be secure.",
+      "published": "Tue, 22 Sep 2026 17:12:26 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "More Than a Third of Industrial Orgs See Cybersecurity Risk as a Top Obstacle to Growth, Study Finds",
       "link": "https://www.darkreading.com/cyber-risk/third-industrial-orgs-see-cybersecurity-risk-top-obstacle",
       "summary": "Industrial companies are increasing cybersecurity investment as connected operations, AI adoption, and IT/OT convergence expand operational risk.",
@@ -348,9 +366,9 @@
     },
     {
       "source": "Dark Reading",
-      "title": "ShinyHunters Hacked Clop. Now What About Clop's Victims?",
+      "title": "ShinyHunters Hacked Cl0p. Now What About Cl0p's Victims?",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-hacked-clop-what-about-clops-victims",
-      "summary": "ShinyHunters defaced Clop's Dark Web site and claims to have stolen victim data, potentially exposing organizations that paid ransoms to renewed extortion attempts.",
+      "summary": "ShinyHunters defaced Cl0p's Dark Web site and claims to have stolen victim data, potentially exposing organizations that paid ransoms to renewed extortion attempts.",
       "published": "Mon, 21 Sep 2026 20:07:56 GMT",
       "value_score": 10,
       "value_signals": []
@@ -383,26 +401,24 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Cisco Zero-Day Highlights API Endpoint Authentication Issues",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/cisco-zero-day-api-endpoint-authentication-issues",
-      "summary": "The authentication bypass flaw CVE-2026-76460 impacts Cisco's Identity Services Engine (ISE) and received a maximum 10 out of 10 CVSS score.",
-      "published": "Fri, 18 Sep 2026 19:26:47 GMT",
-      "value_score": 68,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day",
-        "Auth bypass"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "EY Survey Finds Autonomous AI Implementation Outpaces Oversight",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ey-survey-autonomous-ai-implementation-outpaces-oversight",
-      "summary": "A new survey of senior AI execs shows that while organizations are rapidly deploying AI and autonomous systems, their process and controls are not keeping pace.",
-      "published": "Fri, 18 Sep 2026 19:23:48 GMT",
+      "source": "Security Week",
+      "title": "Cyera Raises $400 Million at $12+ Billion Valuation",
+      "link": "https://www.securityweek.com/cyera-raises-400-million-at-12-billion-valuation/",
+      "summary": "The data security company received the new investment from Goldman Sachs Alternatives, extending its Series G funding round. The post Cyera Raises $400 Million at $12+ Billion Valuation appeared first on SecurityWeek .",
+      "published": "Tue, 22 Sep 2026 14:29:34 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Nightmare Eclipse Drops New Microsoft Defender Exploit After Revealing Identity",
+      "link": "https://www.securityweek.com/nightmare-eclipse-drops-new-microsoft-defender-exploit-after-revealing-identity/",
+      "summary": "Abdelhamid Naceri, a former Microsoft Germany employee, is the exploit leaker Nightmare Eclipse, aka Chaotic Eclipse. The post Nightmare Eclipse Drops New Microsoft Defender Exploit After Revealing Identity appeared first on SecurityWeek .",
+      "published": "Tue, 22 Sep 2026 13:26:51 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
     },
     {
       "source": "Security Week",
@@ -459,26 +475,6 @@
       "link": "https://www.securityweek.com/us-proposes-ai-incident-alert-system-in-talks-with-china-bessent-says/",
       "summary": "Trump has resisted calls to slow down AI development, saying that would help China catch up to U.S. companies. The post US Proposes AI Incident Alert System in Talks With China, Bessent Says appeared first on SecurityWeek .",
       "published": "Tue, 22 Sep 2026 02:01:24 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Google Hit With $463 Million Fine for EU Location Data Rule Breach",
-      "link": "https://www.securityweek.com/google-hit-with-463-million-fine-for-eu-location-data-rule-breach/",
-      "summary": "Google has been fined 403 million euros ($463 million) for breaching the European Union’s strict privacy rules because it mishandled users’ location data. The post Google Hit With $463 Million Fine for EU Location Data Rule Breach appeared first on SecurityWeek .",
-      "published": "Mon, 21 Sep 2026 17:19:53 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Fake LastPass Installers Push Kernel-Level EDR Killer, ‘Rapuncel’ Stealer",
-      "link": "https://www.securityweek.com/fake-lastpass-installers-push-kernel-level-edr-killer-rapuncel-stealer/",
-      "summary": "The attackers impersonate at least 40 companies and disable 145 security products to deploy infostealer malware. The post Fake LastPass Installers Push Kernel-Level EDR Killer, ‘Rapuncel’ Stealer appeared first on SecurityWeek .",
-      "published": "Mon, 21 Sep 2026 15:46:58 +0000",
       "value_score": 10,
       "value_signals": []
     },

@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 769,
+      "count": 770,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -329,11 +329,12 @@
         "2026-09-16",
         "2026-09-17",
         "2026-09-18",
-        "2026-09-21"
+        "2026-09-21",
+        "2026-09-22"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2681,
+      "count": 2682,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1281,7 +1282,7 @@
       ]
     },
     "national security risk": {
-      "count": 503,
+      "count": 504,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -7081,7 +7082,7 @@
       ]
     },
     "chinese threat actor": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-02-06",
         "2026-03-09",
@@ -20353,7 +20354,7 @@
       ]
     },
     "security experts warn": {
-      "count": 54,
+      "count": 55,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -22620,13 +22621,14 @@
       ]
     },
     "cisa orders feds": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-07-08",
         "2026-07-09",
         "2026-08-21",
         "2026-08-22",
-        "2026-08-23"
+        "2026-08-23",
+        "2026-09-22"
       ]
     },
     "hijack ai conversations": {
@@ -26489,7 +26491,7 @@
       ]
     },
     "text history records": {
-      "count": 204,
+      "count": 205,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -28997,7 +28999,7 @@
       ]
     },
     "sophisticated cybercrime syndicate": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-08-31",
         "2026-09-01",
@@ -29010,7 +29012,8 @@
         "2026-09-16",
         "2026-09-17",
         "2026-09-18",
-        "2026-09-19"
+        "2026-09-19",
+        "2026-09-22"
       ]
     },
     "cronos blockchain network": {
@@ -29182,7 +29185,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 111,
+      "count": 112,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -31087,7 +31090,7 @@
       ]
     },
     "ai create demand": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-09-18",
         "2026-09-19",
@@ -31327,7 +31330,7 @@
       ]
     },
     "microsoft initially classified": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-22"
       ]
@@ -31345,7 +31348,7 @@
       ]
     },
     "ai development saying": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-22"
       ]
@@ -31379,20 +31382,57 @@
       "dates": [
         "2026-09-22"
       ]
+    },
+    "author abdelhamid naceri": {
+      "count": 1,
+      "dates": [
+        "2026-09-22"
+      ]
+    },
+    "stops microsoft defender": {
+      "count": 1,
+      "dates": [
+        "2026-09-22"
+      ]
+    },
+    "blocks antivirus updates": {
+      "count": 1,
+      "dates": [
+        "2026-09-22"
+      ]
+    },
+    "12 billion valuation": {
+      "count": 1,
+      "dates": [
+        "2026-09-22"
+      ]
+    },
+    "help organizations identify": {
+      "count": 1,
+      "dates": [
+        "2026-09-22"
+      ]
+    },
+    "data theft attackers": {
+      "count": 1,
+      "dates": [
+        "2026-09-22"
+      ]
+    },
+    "former employee's computer": {
+      "count": 1,
+      "dates": [
+        "2026-09-22"
+      ]
+    },
+    "soc actually see": {
+      "count": 1,
+      "dates": [
+        "2026-09-22"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-04 13:55",
-      "articles": 48,
-      "top_keywords": [
-        "guardrails catch promises",
-        "vendor's edge devices",
-        "twitter whistleblower complaint",
-        "openai confirms chatgpt",
-        "individuals whose licenses"
-      ]
-    },
     {
       "timestamp": "2026-09-04 17:20",
       "articles": 48,
@@ -32479,6 +32519,17 @@
         "microsoft initially classified",
         "inject malicious scripts",
         "execute malicious scripts",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-09-22 17:52",
+      "articles": 48,
+      "top_keywords": [
+        "author abdelhamid naceri",
+        "stops microsoft defender",
+        "microsoft initially classified",
+        "chinese threat actor",
         "twitter whistleblower complaint"
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21 21:35",
+  "last_updated": "2026-09-22 00:30",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "fined 403 million",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "windows kernel driver",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "address password mfa",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "location data google",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "office users microsoft",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "several openai employees",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "post google hit",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "least 40 companies",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "dragos completes netrise",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2678
+      "mentions": 2679
     }
   ],
   "articles": [
@@ -308,6 +308,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "How AI Agents Can Trigger Runaway Costs for Enterprises",
+      "link": "https://www.darkreading.com/application-security/how-ai-agents-can-trigger-runaway-costs",
+      "summary": "Unbounded consumption is an issue that OWASP currently ranks sixth in its Top 10 for LLM Applications, and it could be an extremely costly one.",
+      "published": "Mon, 21 Sep 2026 21:39:59 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "ShinyHunters Hacked Clop. Now What About Clop's Victims?",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-hacked-clop-what-about-clops-victims",
       "summary": "ShinyHunters defaced Clop's Dark Web site and claims to have stolen victim data, potentially exposing organizations that paid ransoms to renewed extortion attempts.",
@@ -370,15 +379,6 @@
       "link": "https://www.darkreading.com/vulnerabilities-threats/mfa-oauth-consent-abuse",
       "summary": "MFA is essential, but it cannot replace OAuth governance, least-privilege scopes, consent monitoring, and rapid revocation.",
       "published": "Fri, 18 Sep 2026 18:15:20 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "AI Agent Breaches Spanish Organization, Modifies Personal Data",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-breaches-spanish-organization-personal-data",
-      "summary": "AI-driven cyberattacks used to be exotic. Soon, it'll be odd if threat actors aren't using agents to do all of their bidding.",
-      "published": "Fri, 18 Sep 2026 07:00:00 GMT",
       "value_score": 10,
       "value_signals": []
     },

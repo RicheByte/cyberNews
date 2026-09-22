@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-21 21:35 UTC  
+> **Last Updated:** 2026-09-22 00:30 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [How AI Agents Can Trigger Runaway Costs for Enterprises](https://www.darkreading.com/application-security/how-ai-agents-can-trigger-runaway-costs)
 - [ShinyHunters Hacked Clop. Now What About Clop's Victims?](https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-hacked-clop-what-about-clops-victims)
 - [Cybercriminals Are Hiding New Malware in Torrents for Popular Films](https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-hiding-new-malware-torrents-popular-films)
 - [Rogue Behavior: OpenAI Reveals More Model Misalignment Incidents](https://www.darkreading.com/cyber-risk/rogue-behavior-openai-more-model-misalignment-incidents)
@@ -56,7 +57,6 @@
 - [Cisco Zero-Day Highlights API Endpoint Authentication Issues](https://www.darkreading.com/vulnerabilities-threats/cisco-zero-day-api-endpoint-authentication-issues)
 - [EY Survey Finds Autonomous AI Implementation Outpaces Oversight](https://www.darkreading.com/cyberattacks-data-breaches/ey-survey-autonomous-ai-implementation-outpaces-oversight)
 - [MFA Won't Save You From OAuth Consent Abuse](https://www.darkreading.com/vulnerabilities-threats/mfa-oauth-consent-abuse)
-- [AI Agent Breaches Spanish Organization, Modifies Personal Data](https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-breaches-spanish-organization-personal-data)
 
 ### Security Week
 

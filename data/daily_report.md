@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-22 00:30 UTC  
+> **Last Updated:** 2026-09-22 07:11 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**fined 403 million** • **windows kernel driver** • **address password mfa** • **location data google** • **office users microsoft** • **several openai employees** • **post google hit** • **least 40 companies** • **dragos completes netrise** • **twitter whistleblower complaint** • **ot cybersecurity push** • **individuals whose licenses** • **alerted multiple merchants** • **accidental global ciso** • **mfa won't save** • **463 million fine** • **gdpr violations tied** • **security teams need** • **security experts warn** • **national security risk**
+**fined 403 million** • **windows kernel driver** • **address password mfa** • **location data google** • **office users microsoft** • **dragos completes netrise** • **twitter whistleblower complaint** • **longest running spree** • **individuals whose licenses** • **cve 2026 93485** • **anonymous visitor leave** • **alerted multiple merchants** • **accidental global ciso** • **powershell backdoor designed** • **mfa won't save** • **backdoor automatically harvests** • **463 million fine** • **post google hit** • **gdpr violations tied** • **security teams need**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor](https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html)
+- [WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session](https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html)
+- [Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access](https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html)
 - [Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR](https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html)
 - [Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto](https://thehackernews.com/2026/09/contagious-interview-campaign.html)
 - [Google Fined €403 Million Over GDPR Violations Tied to Location Data](https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html)
 - [⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks](https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html)
 - [TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data](https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html)
-- [ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure](https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html)
-- [Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors](https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html)
-- [Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws](https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html)
 
 ### BleepingComputer
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [US Proposes AI Incident Alert System in Talks With China, Bessent Says](https://www.securityweek.com/us-proposes-ai-incident-alert-system-in-talks-with-china-bessent-says/)
 - [Google Hit With $463 Million Fine for EU Location Data Rule Breach](https://www.securityweek.com/google-hit-with-463-million-fine-for-eu-location-data-rule-breach/)
 - [Fake LastPass Installers Push Kernel-Level EDR Killer, ‘Rapuncel’ Stealer](https://www.securityweek.com/fake-lastpass-installers-push-kernel-level-edr-killer-rapuncel-stealer/)
 - [CISO Conversations: Noopur Davis – The Accidental Global CISO at Comcast](https://www.securityweek.com/ciso-conversations-noopur-davis-the-accidental-global-ciso-at-comcast/)
@@ -67,7 +68,6 @@
 - [RatHat Android Trojan Uses AI for Automation](https://www.securityweek.com/rathat-android-trojan-uses-ai-for-automation/)
 - [Rust Team Members and Popular Crate Owners Targeted via Video Calls](https://www.securityweek.com/rust-team-members-and-popular-crate-owners-targeted-via-video-calls/)
 - [CrowdSec Confirms Source Code Stolen in Supply Chain Attack](https://www.securityweek.com/crowdsec-confirms-source-code-stolen-in-supply-chain-attack/)
-- [Colorado Water Utilities Hit by Cyberattacks Targeting OT Systems](https://www.securityweek.com/colorado-water-utilities-hit-by-cyberattacks-targeting-ot-systems/)
 
 ### Threatpost
 

@@ -333,7 +333,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2679,
+      "count": 2680,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -29088,7 +29088,7 @@
       ]
     },
     "longest running spree": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-09-01",
         "2026-09-04",
@@ -29099,7 +29099,8 @@
         "2026-09-12",
         "2026-09-13",
         "2026-09-14",
-        "2026-09-15"
+        "2026-09-15",
+        "2026-09-22"
       ]
     },
     "external actors attempted": {
@@ -29178,7 +29179,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 109,
+      "count": 110,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -31065,7 +31066,7 @@
       ]
     },
     "mfa won't save": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-09-18",
         "2026-09-19",
@@ -31193,7 +31194,7 @@
       ]
     },
     "office users microsoft": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-21",
         "2026-09-22"
@@ -31207,14 +31208,14 @@
       ]
     },
     "dragos completes netrise": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-21",
         "2026-09-22"
       ]
     },
     "accidental global ciso": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-21",
         "2026-09-22"
@@ -31234,81 +31235,94 @@
       ]
     },
     "fined 403 million": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-21",
         "2026-09-22"
       ]
     },
     "windows kernel driver": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-21",
         "2026-09-22"
       ]
     },
     "address password mfa": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-21",
         "2026-09-22"
       ]
     },
     "location data google": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-21",
         "2026-09-22"
       ]
     },
     "post google hit": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-21",
         "2026-09-22"
       ]
     },
     "alerted multiple merchants": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-21",
         "2026-09-22"
       ]
     },
     "463 million fine": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-21",
         "2026-09-22"
       ]
     },
     "gdpr violations tied": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-21",
         "2026-09-22"
       ]
     },
     "security teams need": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-21",
+        "2026-09-22"
+      ]
+    },
+    "cve 2026 93485": {
+      "count": 1,
+      "dates": [
+        "2026-09-22"
+      ]
+    },
+    "anonymous visitor leave": {
+      "count": 1,
+      "dates": [
+        "2026-09-22"
+      ]
+    },
+    "powershell backdoor designed": {
+      "count": 1,
+      "dates": [
+        "2026-09-22"
+      ]
+    },
+    "backdoor automatically harvests": {
+      "count": 1,
+      "dates": [
         "2026-09-22"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-04 02:32",
-      "articles": 48,
-      "top_keywords": [
-        "large model review",
-        "anthropic confirms claude",
-        "ai runtime security",
-        "large enterprises targeted",
-        "remote code execution"
-      ]
-    },
     {
       "timestamp": "2026-09-04 08:24",
       "articles": 48,
@@ -32389,6 +32403,17 @@
     },
     {
       "timestamp": "2026-09-22 00:30",
+      "articles": 48,
+      "top_keywords": [
+        "fined 403 million",
+        "windows kernel driver",
+        "address password mfa",
+        "location data google",
+        "office users microsoft"
+      ]
+    },
+    {
+      "timestamp": "2026-09-22 07:11",
       "articles": 48,
       "top_keywords": [
         "fined 403 million",

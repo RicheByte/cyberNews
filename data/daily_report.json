@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22 00:30",
+  "last_updated": "2026-09-22 07:11",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -8,65 +8,102 @@
     "address password mfa",
     "location data google",
     "office users microsoft",
-    "several openai employees",
-    "post google hit",
-    "least 40 companies",
     "dragos completes netrise",
     "twitter whistleblower complaint",
-    "ot cybersecurity push",
+    "longest running spree",
     "individuals whose licenses",
+    "cve 2026 93485",
+    "anonymous visitor leave",
     "alerted multiple merchants",
     "accidental global ciso",
+    "powershell backdoor designed",
     "mfa won't save",
+    "backdoor automatically harvests",
     "463 million fine",
+    "post google hit",
     "gdpr violations tied",
-    "security teams need",
-    "security experts warn",
-    "national security risk"
+    "security teams need"
   ],
   "trending": [
     {
       "keyword": "fined 403 million",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "windows kernel driver",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "address password mfa",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "location data google",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "office users microsoft",
-      "mentions": 3
-    },
-    {
-      "keyword": "several openai employees",
-      "mentions": 8
-    },
-    {
-      "keyword": "post google hit",
-      "mentions": 2
-    },
-    {
-      "keyword": "least 40 companies",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "dragos completes netrise",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2679
+      "mentions": 2680
+    },
+    {
+      "keyword": "longest running spree",
+      "mentions": 36
+    },
+    {
+      "keyword": "individuals whose licenses",
+      "mentions": 110
+    },
+    {
+      "keyword": "cve 2026 93485",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor",
+      "link": "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html",
+      "summary": "Malware already running on a Mac can quietly take over Meta's Muse assistant and use the broad access its owner granted the app, security researcher Patrick Wardle has shown in a proof-of-concept released on September 21. It works by changing a hidden setting so that when the user taps the microphone and dictates a prompt, the words go to the attacker instead of Meta. The flaw is in",
+      "published": "Tue, 22 Sep 2026 12:03:57 +0530",
+      "value_score": 22,
+      "value_signals": [
+        "Backdoor"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session",
+      "link": "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html",
+      "summary": "A new flaw in WordPress core let an anonymous visitor leave a comment that planted a hidden script on the page. If a logged-in administrator later opened that page, the script could run code on the site's server. WordPress fixed the flaw, tracked as CVE-2026-93485 and dubbed \"Comment2Shell,\" on September 17 in version 7.1.1 and told site owners to update right away. There is",
+      "published": "Tue, 22 Sep 2026 11:33:14 +0530",
+      "value_score": 64,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE",
+        "Patch/update ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access",
+      "link": "https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a now-patched security flaw impacting Zyxel GS1900 series switches to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026-7273 (CVSS score: 8.8), is a stack-based buffer overflow vulnerability that could result in arbitrary operating",
+      "published": "Tue, 22 Sep 2026 11:01:59 +0530",
+      "value_score": 74,
+      "value_signals": [
+        "CVE mentioned",
+        "CISA/KEV ×3",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR",
@@ -115,35 +152,6 @@
       "value_signals": [
         "Backdoor ×3"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
-      "link": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html",
-      "summary": "Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript. \"ChainScript has appeared under multiple build names, including ComponentTask33, UpdateDigital, HostShared, and OrchidViolet66, while presenting itself as Spotify, Zoom Workplace, and Microsoft Teams software,\" Blackpoint Adversary Pursuit Group (APG)",
-      "published": "Mon, 21 Sep 2026 14:09:38 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors",
-      "link": "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html",
-      "summary": "The North Korean threat actor known as Jade Sleet has been attributed to the compromise of an India-based \"much smaller organization\" in the information technology (IT) services industry, once again highlighting how the adversary continues to target developers to breach target networks. Cybersecurity company SentinelOne, which disclosed details of the activity, said it involved the use of Apple",
-      "published": "Mon, 21 Sep 2026 11:36:44 +0530",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
-      "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
-      "summary": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository. The chain began with a bug in the software that runs OpenAI's public help forum and moved through a weakness in OpenAI's own login system. This was security research,",
-      "published": "Sun, 20 Sep 2026 00:06:53 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -384,6 +392,15 @@
     },
     {
       "source": "Security Week",
+      "title": "US Proposes AI Incident Alert System in Talks With China, Bessent Says",
+      "link": "https://www.securityweek.com/us-proposes-ai-incident-alert-system-in-talks-with-china-bessent-says/",
+      "summary": "Trump has resisted calls to slow down AI development, saying that would help China catch up to U.S. companies. The post US Proposes AI Incident Alert System in Talks With China, Bessent Says appeared first on SecurityWeek .",
+      "published": "Tue, 22 Sep 2026 02:01:24 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Google Hit With $463 Million Fine for EU Location Data Rule Breach",
       "link": "https://www.securityweek.com/google-hit-with-463-million-fine-for-eu-location-data-rule-breach/",
       "summary": "Google has been fined 403 million euros ($463 million) for breaching the European Union’s strict privacy rules because it mishandled users’ location data. The post Google Hit With $463 Million Fine for EU Location Data Rule Breach appeared first on SecurityWeek .",
@@ -448,15 +465,6 @@
       "value_signals": [
         "Breach/leak"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Colorado Water Utilities Hit by Cyberattacks Targeting OT Systems",
-      "link": "https://www.securityweek.com/colorado-water-utilities-hit-by-cyberattacks-targeting-ot-systems/",
-      "summary": "The hackers changed equipment settings, disabled remote access and alarms, and altered pumping cycles, officials said. The post Colorado Water Utilities Hit by Cyberattacks Targeting OT Systems appeared first on SecurityWeek .",
-      "published": "Mon, 21 Sep 2026 10:03:44 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

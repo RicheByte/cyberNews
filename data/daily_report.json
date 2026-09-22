@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22 20:46",
+  "last_updated": "2026-09-22 23:57",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -11,59 +11,59 @@
     "twitter whistleblower complaint",
     "text history records",
     "shinyhunters hacked cl0p",
+    "security experts warn",
+    "national security risk",
     "individuals whose licenses",
     "defraud online merchants",
     "12 billion valuation",
-    "security experts warn",
-    "national security risk",
     "former employee's computer",
     "mistral ai models",
+    "frontier ai models",
     "who's harvesting data",
-    "steal sensitive data",
-    "steal govt data",
+    "harvest sensitive data",
     "sophisticated cybercrime syndicate",
     "siphoning images collected"
   ],
   "trending": [
     {
       "keyword": "chinese threat actor",
-      "mentions": 20
+      "mentions": 21
     },
     {
       "keyword": "stops microsoft defender",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "author abdelhamid naceri",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "2 1 0",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 771
+      "mentions": 772
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2683
+      "mentions": 2684
     },
     {
       "keyword": "text history records",
-      "mentions": 206
+      "mentions": 207
     },
     {
       "keyword": "shinyhunters hacked cl0p",
-      "mentions": 1
+      "mentions": 2
     },
     {
-      "keyword": "individuals whose licenses",
-      "mentions": 113
+      "keyword": "security experts warn",
+      "mentions": 57
     },
     {
-      "keyword": "defraud online merchants",
-      "mentions": 50
+      "keyword": "national security risk",
+      "mentions": 506
     }
   ],
   "articles": [
@@ -163,7 +163,27 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "Chinese hackers exploit multiple technologies to steal govt data",
+      "title": "Rogue external MFA providers can steal passwords during logins",
+      "link": "https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/",
+      "summary": "Security researchers developed an attack that lets hackers with privileged access register a rogue external MFA provider that steals users' passwords during legitimate login attempts. [...]",
+      "published": "Tue, 22 Sep 2026 17:45:45 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Sweden fines Miljödata $183,000 over breach affecting 2.2 million",
+      "link": "https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/",
+      "summary": "Sweden's data privacy regulator, IMY, has imposed a $183,000 (SEK 1.8 million) fine on IT systems provider Miljödata for inadequate security measures leading to a breach in August 2025 affecting 2.2 million people. [...]",
+      "published": "Tue, 22 Sep 2026 17:40:37 -0400",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Chinese hackers exploit WordPress, Zyxel flaws to steal govt data",
       "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/",
       "summary": "A Chinese-speaking threat actor has been exploiting vulnerabilities in ZyXEL GS1900 Smart Managed Switches and WordPress to steal sensitive data from 996 devices and more than 18,500 records stored in backend databases. [...]",
       "published": "Tue, 22 Sep 2026 16:35:24 -0400",
@@ -223,32 +243,6 @@
       "published": "Tue, 22 Sep 2026 11:00:00 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Webinar tomorrow: Inside real-world Google Workspace breaches",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/",
-      "summary": "Tomorrow's webinar examines real Google Workspace breaches involving social engineering and malicious OAuth applications, from initial access through the critical first hours of incident response. Learn which security controls and response decisions can make the greatest difference. [...]",
-      "published": "Tue, 22 Sep 2026 08:57:07 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "D-Link warns of max severity zero-day bug in DIR-822A routers",
-      "link": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/",
-      "summary": "D-Link warned customers of a maximum-severity vulnerability (CVE-2026-86296) with public proof-of-concept (PoC) exploit code and no patch, affecting legacy DIR-822A dual-band Wi-Fi routers. [...]",
-      "published": "Tue, 22 Sep 2026 08:48:06 -0400",
-      "value_score": 77,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day",
-        "PoC available",
-        "Patch/update",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -329,6 +323,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Relays Are Masking Chinese Access to Frontier AI Models in the US",
+      "link": "https://www.darkreading.com/cyber-risk/relays-masking-chinese-access-frontier-ai-models",
+      "summary": "More than 80,000 AI relay servers are helping users in China mask their identities while they access cutting-edge large language models (LLMs), probably to clone them.",
+      "published": "Tue, 22 Sep 2026 21:12:37 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Microsoft Disrupts EvilTokens Device Code Phishing Service",
       "link": "https://www.darkreading.com/identity-access-management-security/microsoft-disrupts-eviltokens-device-code-phishing-service",
       "summary": "Microsoft seized 50 websites and disabled more than 150 domains as part of a coordinated disruption effort against a phishing-as-a-service platform targeting Microsoft 365 accounts.",
@@ -389,15 +392,6 @@
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-hiding-new-malware-torrents-popular-films",
       "summary": "Victims have been identified in Africa, including in Kenya and Uganda.",
       "published": "Mon, 21 Sep 2026 19:11:26 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Rogue Behavior: OpenAI Reveals More Model Misalignment Incidents",
-      "link": "https://www.darkreading.com/cyber-risk/rogue-behavior-openai-more-model-misalignment-incidents",
-      "summary": "The AI giant disclosed six examples of concerning model activity and published a new framework for investigating and disclosing such incidents.",
-      "published": "Mon, 21 Sep 2026 14:47:19 GMT",
       "value_score": 10,
       "value_signals": []
     },

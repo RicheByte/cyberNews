@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 771,
+      "count": 772,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -334,7 +334,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2683,
+      "count": 2684,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1282,7 +1282,7 @@
       ]
     },
     "national security risk": {
-      "count": 505,
+      "count": 506,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -7083,7 +7083,7 @@
       ]
     },
     "chinese threat actor": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-02-06",
         "2026-03-09",
@@ -15097,10 +15097,11 @@
       ]
     },
     "harvest sensitive data": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-23",
-        "2026-04-24"
+        "2026-04-24",
+        "2026-09-22"
       ]
     },
     "tools mostly written": {
@@ -20355,7 +20356,7 @@
       ]
     },
     "security experts warn": {
-      "count": 56,
+      "count": 57,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -26492,7 +26493,7 @@
       ]
     },
     "text history records": {
-      "count": 206,
+      "count": 207,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -27376,7 +27377,7 @@
       ]
     },
     "who's harvesting data": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-08-14",
         "2026-08-19",
@@ -29001,7 +29002,7 @@
       ]
     },
     "sophisticated cybercrime syndicate": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-08-31",
         "2026-09-01",
@@ -29187,7 +29188,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 113,
+      "count": 114,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29527,7 +29528,7 @@
       ]
     },
     "defraud online merchants": {
-      "count": 50,
+      "count": 51,
       "dates": [
         "2026-09-04",
         "2026-09-05",
@@ -29820,7 +29821,7 @@
       ]
     },
     "siphoning images collected": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-09-08",
         "2026-09-09",
@@ -31388,13 +31389,13 @@
       ]
     },
     "author abdelhamid naceri": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-22"
       ]
     },
     "stops microsoft defender": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-22"
       ]
@@ -31406,7 +31407,7 @@
       ]
     },
     "12 billion valuation": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-22"
       ]
@@ -31424,7 +31425,7 @@
       ]
     },
     "former employee's computer": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-22"
       ]
@@ -31436,19 +31437,19 @@
       ]
     },
     "2 1 0": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-22"
       ]
     },
     "shinyhunters hacked cl0p": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-22"
       ]
     },
     "mistral ai models": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-22"
       ]
@@ -31458,20 +31459,15 @@
       "dates": [
         "2026-09-22"
       ]
+    },
+    "frontier ai models": {
+      "count": 1,
+      "dates": [
+        "2026-09-22"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-04 20:09",
-      "articles": 48,
-      "top_keywords": [
-        "1 1 billion",
-        "enterprise security teams",
-        "sophisticated threat group",
-        "individuals whose licenses",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-09-04 23:38",
       "articles": 48,
@@ -32552,6 +32548,17 @@
     },
     {
       "timestamp": "2026-09-22 20:46",
+      "articles": 48,
+      "top_keywords": [
+        "chinese threat actor",
+        "stops microsoft defender",
+        "author abdelhamid naceri",
+        "2 1 0",
+        "windows operating systems"
+      ]
+    },
+    {
+      "timestamp": "2026-09-22 23:57",
       "articles": 48,
       "top_keywords": [
         "chinese threat actor",

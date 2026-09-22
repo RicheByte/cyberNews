@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-22 20:46 UTC  
+> **Last Updated:** 2026-09-22 23:57 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**chinese threat actor** • **stops microsoft defender** • **author abdelhamid naceri** • **2 1 0** • **windows operating systems** • **twitter whistleblower complaint** • **text history records** • **shinyhunters hacked cl0p** • **individuals whose licenses** • **defraud online merchants** • **12 billion valuation** • **security experts warn** • **national security risk** • **former employee's computer** • **mistral ai models** • **who's harvesting data** • **steal sensitive data** • **steal govt data** • **sophisticated cybercrime syndicate** • **siphoning images collected**
+**chinese threat actor** • **stops microsoft defender** • **author abdelhamid naceri** • **2 1 0** • **windows operating systems** • **twitter whistleblower complaint** • **text history records** • **shinyhunters hacked cl0p** • **security experts warn** • **national security risk** • **individuals whose licenses** • **defraud online merchants** • **12 billion valuation** • **former employee's computer** • **mistral ai models** • **frontier ai models** • **who's harvesting data** • **harvest sensitive data** • **sophisticated cybercrime syndicate** • **siphoning images collected**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
-- [Chinese hackers exploit multiple technologies to steal govt data](https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/)
+- [Rogue external MFA providers can steal passwords during logins](https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/)
+- [Sweden fines Miljödata $183,000 over breach affecting 2.2 million](https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/)
+- [Chinese hackers exploit WordPress, Zyxel flaws to steal govt data](https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/)
 - [ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach](https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/)
 - [New ClosedQuorum Windows malware uses AI for attack decisions](https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/)
 - [Reducing shadow IT visibility gaps with Wazuh](https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/)
 - [Check Point warns of Management Server zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/)
 - [EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts](https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/)
-- [Webinar tomorrow: Inside real-world Google Workspace breaches](https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/)
-- [D-Link warns of max severity zero-day bug in DIR-822A routers](https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Relays Are Masking Chinese Access to Frontier AI Models in the US](https://www.darkreading.com/cyber-risk/relays-masking-chinese-access-frontier-ai-models)
 - [Microsoft Disrupts EvilTokens Device Code Phishing Service](https://www.darkreading.com/identity-access-management-security/microsoft-disrupts-eviltokens-device-code-phishing-service)
 - [Shai-Hulud Attack Nips Cyber-Firm CrowdSec's GitHub Data](https://www.darkreading.com/cyberattacks-data-breaches/shai-hulud-attack-cyber-firm-crowdsec-github-data)
 - [Amid Ongoing Rogue Incidents, Debate Over AI Safety Gets Real](https://www.darkreading.com/cyber-risk/rogue-incidents-debate-ai-safety-gets-real)
@@ -56,7 +57,6 @@
 - [How AI Agents Can Trigger Runaway Costs for Enterprises](https://www.darkreading.com/application-security/how-ai-agents-can-trigger-runaway-costs)
 - [ShinyHunters Hacked Cl0p. Now What About Cl0p's Victims?](https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-hacked-clop-what-about-clops-victims)
 - [Cybercriminals Are Hiding New Malware in Torrents for Popular Films](https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-hiding-new-malware-torrents-popular-films)
-- [Rogue Behavior: OpenAI Reveals More Model Misalignment Incidents](https://www.darkreading.com/cyber-risk/rogue-behavior-openai-more-model-misalignment-incidents)
 
 ### Security Week
 

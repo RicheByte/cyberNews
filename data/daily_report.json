@@ -1,72 +1,124 @@
 {
-  "last_updated": "2026-09-22 07:11",
+  "last_updated": "2026-09-22 13:00",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "fined 403 million",
-    "windows kernel driver",
-    "address password mfa",
-    "location data google",
-    "office users microsoft",
-    "dragos completes netrise",
+    "cve 2026 93485",
+    "microsoft initially classified",
+    "inject malicious scripts",
+    "execute malicious scripts",
     "twitter whistleblower complaint",
     "longest running spree",
     "individuals whose licenses",
-    "cve 2026 93485",
-    "anonymous visitor leave",
-    "alerted multiple merchants",
-    "accidental global ciso",
-    "powershell backdoor designed",
-    "mfa won't save",
-    "backdoor automatically harvests",
-    "463 million fine",
-    "post google hit",
-    "gdpr violations tied",
-    "security teams need"
+    "malicious oauth applications",
+    "chinese threat actor",
+    "ai development saying",
+    "ai create demand",
+    "sharepoint server vulnerability",
+    "security experts warn",
+    "national security risk",
+    "wordpress core let",
+    "update right away",
+    "told site owners",
+    "threat actor known",
+    "text history records",
+    "target academic institutions"
   ],
   "trending": [
     {
-      "keyword": "fined 403 million",
-      "mentions": 3
+      "keyword": "cve 2026 93485",
+      "mentions": 2
     },
     {
-      "keyword": "windows kernel driver",
-      "mentions": 3
+      "keyword": "microsoft initially classified",
+      "mentions": 1
     },
     {
-      "keyword": "address password mfa",
-      "mentions": 3
+      "keyword": "inject malicious scripts",
+      "mentions": 1
     },
     {
-      "keyword": "location data google",
-      "mentions": 3
-    },
-    {
-      "keyword": "office users microsoft",
-      "mentions": 4
-    },
-    {
-      "keyword": "dragos completes netrise",
-      "mentions": 4
+      "keyword": "execute malicious scripts",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2680
+      "mentions": 2681
     },
     {
       "keyword": "longest running spree",
-      "mentions": 36
+      "mentions": 37
     },
     {
       "keyword": "individuals whose licenses",
-      "mentions": 110
+      "mentions": 111
     },
     {
-      "keyword": "cve 2026 93485",
+      "keyword": "malicious oauth applications",
+      "mentions": 4
+    },
+    {
+      "keyword": "chinese threat actor",
+      "mentions": 18
+    },
+    {
+      "keyword": "ai development saying",
       "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "DORA Year Two: Can Your SOC Actually See the Attack?",
+      "link": "https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html",
+      "summary": "When the Digital Operational Resilience Act (DORA) became enforceable across the European Union in January 2025, it triggered an administrative sprint. Financial entities spent the first year establishing risk governance, assessing third-party service providers, updating contract clauses, and documenting incident escalation workflows. Now in its second year, the harder part of DORA is",
+      "published": "Tue, 22 Sep 2026 17:15:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory",
+      "link": "https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html",
+      "summary": "A new flaw in the Linux kernel's KVM virtualization code for ARM64 processors can leave a freed piece of host memory exposed to a guest virtual machine on hosts with nested virtualization enabled. The bug, tracked as CVE-2026-89775, allows a guest to read and write host kernel memory, and the researcher who found it says it can be used to escape the guest and run code on the host machine.",
+      "published": "Tue, 22 Sep 2026 17:08:40 +0530",
+      "value_score": 28,
+      "value_signals": [
+        "CVE mentioned"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE",
+      "link": "https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html",
+      "summary": "A SharePoint Server vulnerability that Microsoft initially classified as a spoofing flaw with a CVSS score of 6.5 actually enables authenticated remote code execution, according to full technical details published today by Viettel Cyber Security researcher Dinh Ho Anh Khoa. The flaw, CVE-2026-65660, affects SharePoint Server 2016, 2019, and Subscription Edition. Patches have been",
+      "published": "Tue, 22 Sep 2026 16:47:41 +0530",
+      "value_score": 68,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before Removal",
+      "link": "https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html",
+      "summary": "A malicious npm package named \"indexed-btree\" has been observed hiding its malicious behavior within application code rather than using lifecycle scripts, indicating that threat actors are likely shifting tactics in response to recent security controls. \"Indexed-btree is a malicious npm package mimicking the legit sorted-btree package, an ordinary B-tree/indexing utility,\" Checkmarx said. \"",
+      "published": "Tue, 22 Sep 2026 15:08:18 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing",
+      "link": "https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html",
+      "summary": "The threat actor known as SideCopy has been observed using spear-phishing lures to target academic institutions in India, expanding their strategic focus beyond government entities. \"SideCopy campaign operations typically initiate through spear-phishing campaigns that leverage the abuse of mshta.exe to execute malicious scripts and circumvent standard security protocols,\" Trellix researchers",
+      "published": "Tue, 22 Sep 2026 13:22:03 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×3"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor",
@@ -82,7 +134,7 @@
       "source": "The Hacker News",
       "title": "WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session",
       "link": "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html",
-      "summary": "A new flaw in WordPress core let an anonymous visitor leave a comment that planted a hidden script on the page. If a logged-in administrator later opened that page, the script could run code on the site's server. WordPress fixed the flaw, tracked as CVE-2026-93485 and dubbed \"Comment2Shell,\" on September 17 in version 7.1.1 and told site owners to update right away. There is",
+      "summary": "A new flaw in WordPress core let an anonymous visitor leave a comment that planted a hidden script on the page. If a logged-in administrator later opened that page, the script could run code on the site's server. WordPress fixed the flaw, tracked as CVE-2026-93485 and called \"Comment2Shell,\" on September 17 in version 7.1.1 and told site owners to update right away. There is",
       "published": "Tue, 22 Sep 2026 11:33:14 +0530",
       "value_score": 64,
       "value_signals": [
@@ -105,52 +157,54 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR",
-      "link": "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html",
-      "summary": "A fake LastPass Authenticator installer offered on GitHub installs a Windows kernel driver that shuts off antivirus and other security software before a password stealer runs if a victim downloads and runs it, researchers at LastPass and Delphos Labs said on September 17. Microsoft's own hardware-compatibility program signs the driver, scored zero detections on VirusTotal when researchers",
-      "published": "Mon, 21 Sep 2026 23:01:01 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto",
-      "link": "https://thehackernews.com/2026/09/contagious-interview-campaign.html",
-      "summary": "The North Korean threat actors behind the Contagious Interview campaign have compromised at least 30,000 devices located in more than 100 countries and siphoned funds or account credentials from over 7,000 cryptocurrency wallets, according to a new joint cybersecurity advisory. The primary targets of the campaign are individual web designers, engineers, and specialists in cryptocurrency,",
-      "published": "Mon, 21 Sep 2026 22:49:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Google Fined €403 Million Over GDPR Violations Tied to Location Data",
-      "link": "https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html",
-      "summary": "Google has been fined €403 million for breaking the EU's data protection law, the GDPR, in the way three of its features handled people's location data from May 2018 to February 2020. Ireland's Data Protection Commission (DPC), Google's lead regulator in the EU, also ordered the company to make its processing comply with the law within 6 months. The DPC has not said publicly which",
-      "published": "Mon, 21 Sep 2026 22:27:31 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks",
-      "link": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html",
-      "summary": "A browser. A plugin. A package. A login screen. Normal stuff. That is basically the problem this week. The trouble keeps showing up inside things people already trust: code that takes a bad turn, old payloads coming back, exposed systems, weak checks, fake fixes, and attack paths that look almost too easy. Even the research side is getting messy, with more findings, more automation, and not",
-      "published": "Mon, 21 Sep 2026 19:54:13 +0530",
-      "value_score": 30,
+      "source": "BleepingComputer",
+      "title": "Webinar tomorrow: Inside real-world Google Workspace breaches",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/",
+      "summary": "Tomorrow's webinar examines real Google Workspace breaches involving social engineering and malicious OAuth applications, from initial access through the critical first hours of incident response. Learn which security controls and response decisions can make the greatest difference. [...]",
+      "published": "Tue, 22 Sep 2026 08:57:07 -0400",
+      "value_score": 18,
       "value_signals": [
-        "RCE"
+        "High severity"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data",
-      "link": "https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new campaign dubbed TASK#STOMP that delivers a PowerShell backdoor designed to harvest sensitive data from compromised hosts. The backdoor \"automatically harvests and exfiltrates business documents, watches the filesystem for new files in real time, steals Wi-Fi passwords and clipboard contents, takes screenshots, and accepts arbitrary",
-      "published": "Mon, 21 Sep 2026 19:45:40 +0530",
-      "value_score": 34,
+      "source": "BleepingComputer",
+      "title": "D-Link warns of max severity zero-day bug in DIR-822A routers",
+      "link": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/",
+      "summary": "D-Link warned customers of a maximum-severity vulnerability (CVE-2026-86296) with public proof-of-concept (PoC) exploit code and no patch, affecting legacy DIR-822A dual-band Wi-Fi routers. [...]",
+      "published": "Tue, 22 Sep 2026 08:48:06 -0400",
+      "value_score": 77,
       "value_signals": [
-        "Backdoor ×3"
+        "CVE mentioned",
+        "Zero-day",
+        "PoC available",
+        "Patch/update",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "New Windows Defender zero-day blocks Microsoft antivirus updates",
+      "link": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/",
+      "summary": "Over the weekend, security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) released another Microsoft Defender zero-day exploit that blocks antivirus updates. [...]",
+      "published": "Tue, 22 Sep 2026 05:55:11 -0400",
+      "value_score": 66,
+      "value_signals": [
+        "Zero-day ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "CISA orders feds to patch Zyxel flaw exploited for data theft",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/",
+      "summary": "​Attackers are now actively exploiting a high-severity vulnerability in Zyxel GS1900 series switches, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+      "published": "Tue, 22 Sep 2026 04:53:09 -0400",
+      "value_score": 64,
+      "value_signals": [
+        "Patch/update",
+        "CISA/KEV ×2",
+        "Exploit wording"
       ]
     },
     {
@@ -196,46 +250,6 @@
       "published": "Mon, 21 Sep 2026 13:54:49 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Google fined €403 million over location data privacy violations",
-      "link": "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/",
-      "summary": "Ireland's Data Protection Commission (DPC) has fined Google €403 million ($463M) for multiple GDPR violations related to processing users' location data. [...]",
-      "published": "Mon, 21 Sep 2026 11:41:22 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft fixes broken Excel copy and paste for all Office users",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/",
-      "summary": "Microsoft has fixed a known issue that causes copy-and-paste failures for Excel users after installing the September 2026 security updates. [...]",
-      "published": "Mon, 21 Sep 2026 10:42:37 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "FBI's CJIS v6.1: What Security Teams Need to Know.",
-      "link": "https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/",
-      "summary": "The FBI's CJIS Security Policy v6.1 strengthens requirements around encryption and vulnerability scanning while continuing the shift toward more continuous security assessment. Specops explains what changed and how agencies can address password, MFA, and identity requirements as they prepare for upcoming audits. [...]",
-      "published": "Mon, 21 Sep 2026 10:02:12 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft reminds admins to migrate Entra ID users to passkeys",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/",
-      "summary": "Microsoft has reminded admins to migrate Entra ID users to phishing-resistant authentication methods to avoid sign-in disruptions after it retires SMS first-factor sign-in starting in February 2027. [...]",
-      "published": "Mon, 21 Sep 2026 09:16:20 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -316,6 +330,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "More Than a Third of Industrial Orgs See Cybersecurity Risk as a Top Obstacle to Growth, Study Finds",
+      "link": "https://www.darkreading.com/cyber-risk/third-industrial-orgs-see-cybersecurity-risk-top-obstacle",
+      "summary": "Industrial companies are increasing cybersecurity investment as connected operations, AI adoption, and IT/OT convergence expand operational risk.",
+      "published": "Tue, 22 Sep 2026 12:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "How AI Agents Can Trigger Runaway Costs for Enterprises",
       "link": "https://www.darkreading.com/application-security/how-ai-agents-can-trigger-runaway-costs",
       "summary": "Unbounded consumption is an issue that OWASP currently ranks sixth in its Top 10 for LLM Applications, and it could be an extremely costly one.",
@@ -382,11 +405,51 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "MFA Won't Save You From OAuth Consent Abuse",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/mfa-oauth-consent-abuse",
-      "summary": "MFA is essential, but it cannot replace OAuth governance, least-privilege scopes, consent monitoring, and rapid revocation.",
-      "published": "Fri, 18 Sep 2026 18:15:20 GMT",
+      "source": "Security Week",
+      "title": "Only 13% of OT Network Segments Are Fully Isolated: Analysis",
+      "link": "https://www.securityweek.com/only-13-of-ot-network-segments-are-fully-isolated-analysis/",
+      "summary": "Forescout’s new network segmentation research shows that OT and medical devices often share network segments with other enterprise assets. The post Only 13% of OT Network Segments Are Fully Isolated: Analysis appeared first on SecurityWeek .",
+      "published": "Tue, 22 Sep 2026 12:24:30 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Recent ZyXEL Switch Vulnerability Exploited by Chinese Hackers",
+      "link": "https://www.securityweek.com/recent-zyxel-switch-vulnerability-exploited-by-chinese-hackers/",
+      "summary": "A Chinese threat actor has exploited the bug to exfiltrate sensitive information from nearly 1,000 ZyXEL switches. The post Recent ZyXEL Switch Vulnerability Exploited by Chinese Hackers appeared first on SecurityWeek .",
+      "published": "Tue, 22 Sep 2026 11:55:20 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Malicious B-tree NPM Package Accumulates Millions of Downloads",
+      "link": "https://www.securityweek.com/malicious-b-tree-npm-package-accumulates-millions-of-downloads/",
+      "summary": "Posing as the legitimate sorted-btree package, indexed-btree hides a malware trigger in its prototype method. The post Malicious B-tree NPM Package Accumulates Millions of Downloads appeared first on SecurityWeek .",
+      "published": "Tue, 22 Sep 2026 11:33:59 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "WordPress Patches ‘Click2Shell’ Vulnerability",
+      "link": "https://www.securityweek.com/wordpress-patches-click2shell-vulnerability/",
+      "summary": "The bug lets attackers automatically install and preview themes and could lead to remote code execution. The post WordPress Patches ‘Click2Shell’ Vulnerability appeared first on SecurityWeek .",
+      "published": "Tue, 22 Sep 2026 10:22:27 +0000",
+      "value_score": 30,
+      "value_signals": [
+        "RCE"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Japan Dismantles First North Korean Laptop Farm as US and Allies Detail Wider Scheme",
+      "link": "https://www.securityweek.com/japan-dismantles-first-north-korean-laptop-farm-as-us-and-allies-detail-wider-scheme/",
+      "summary": "The US, Japan, Germany and Australia have published a joint report detailing the scope of North Korea’s WaterPlum campaign. The post Japan Dismantles First North Korean Laptop Farm as US and Allies Detail Wider Scheme appeared first on SecurityWeek .",
+      "published": "Tue, 22 Sep 2026 08:37:06 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -418,53 +481,6 @@
       "published": "Mon, 21 Sep 2026 15:46:58 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "CISO Conversations: Noopur Davis – The Accidental Global CISO at Comcast",
-      "link": "https://www.securityweek.com/ciso-conversations-noopur-davis-the-accidental-global-ciso-at-comcast/",
-      "summary": "Noopur Davis never planned a career in cybersecurity. She was a developer at Intergraph, and for many years that was all she wanted to be. The post CISO Conversations: Noopur Davis – The Accidental Global CISO at Comcast appeared first on SecurityWeek .",
-      "published": "Mon, 21 Sep 2026 14:30:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Dragos Completes NetRise and runZero Acquisitions Following Accenture Deal",
-      "link": "https://www.securityweek.com/dragos-completes-netrise-and-runzero-acquisitions-following-accenture-deal/",
-      "summary": "The transaction is part of the $4.1 billion deal in which Accenture acquired a majority stake in Dragos in an OT cybersecurity push. The post Dragos Completes NetRise and runZero Acquisitions Following Accenture Deal appeared first on SecurityWeek .",
-      "published": "Mon, 21 Sep 2026 14:00:13 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "RatHat Android Trojan Uses AI for Automation",
-      "link": "https://www.securityweek.com/rathat-android-trojan-uses-ai-for-automation/",
-      "summary": "The malware relies on AI for real-time device navigation and control, increasing adaptability and evasion. The post RatHat Android Trojan Uses AI for Automation appeared first on SecurityWeek .",
-      "published": "Mon, 21 Sep 2026 12:51:41 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Rust Team Members and Popular Crate Owners Targeted via Video Calls",
-      "link": "https://www.securityweek.com/rust-team-members-and-popular-crate-owners-targeted-via-video-calls/",
-      "summary": "It’s unclear if the attacks are part of previous campaigns against Rust, but the techniques used by the attackers match those used by North Korea. The post Rust Team Members and Popular Crate Owners Targeted via Video Calls appeared first on SecurityWeek .",
-      "published": "Mon, 21 Sep 2026 11:57:35 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "CrowdSec Confirms Source Code Stolen in Supply Chain Attack",
-      "link": "https://www.securityweek.com/crowdsec-confirms-source-code-stolen-in-supply-chain-attack/",
-      "summary": "The cybersecurity firm believes the data breach was the result of the May 2026 TanStack supply chain attack. The post CrowdSec Confirms Source Code Stolen in Supply Chain Attack appeared first on SecurityWeek .",
-      "published": "Mon, 21 Sep 2026 10:55:46 +0000",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
     },
     {
       "source": "Threatpost",

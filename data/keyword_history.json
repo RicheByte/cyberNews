@@ -333,7 +333,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2680,
+      "count": 2681,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -743,7 +743,7 @@
       ]
     },
     "threat actor known": {
-      "count": 69,
+      "count": 70,
       "dates": [
         "2025-12-17",
         "2025-12-30",
@@ -762,7 +762,8 @@
         "2026-08-31",
         "2026-09-01",
         "2026-09-16",
-        "2026-09-17"
+        "2026-09-17",
+        "2026-09-22"
       ]
     },
     "firefox web browser": {
@@ -1280,7 +1281,7 @@
       ]
     },
     "national security risk": {
-      "count": 502,
+      "count": 503,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -7080,12 +7081,13 @@
       ]
     },
     "chinese threat actor": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-02-06",
         "2026-03-09",
         "2026-03-10",
-        "2026-09-15"
+        "2026-09-15",
+        "2026-09-22"
       ]
     },
     "cisa orders removal": {
@@ -20351,7 +20353,7 @@
       ]
     },
     "security experts warn": {
-      "count": 53,
+      "count": 54,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -26487,7 +26489,7 @@
       ]
     },
     "text history records": {
-      "count": 203,
+      "count": 204,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -26525,7 +26527,8 @@
         "2026-09-17",
         "2026-09-18",
         "2026-09-19",
-        "2026-09-21"
+        "2026-09-21",
+        "2026-09-22"
       ]
     },
     "chatgpt secure sandbox": {
@@ -29088,7 +29091,7 @@
       ]
     },
     "longest running spree": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-09-01",
         "2026-09-04",
@@ -29179,7 +29182,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 110,
+      "count": 111,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -30413,10 +30416,11 @@
       ]
     },
     "malicious oauth applications": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-14",
-        "2026-09-15"
+        "2026-09-15",
+        "2026-09-22"
       ]
     },
     "value security leaders": {
@@ -31083,12 +31087,13 @@
       ]
     },
     "ai create demand": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-09-18",
         "2026-09-19",
         "2026-09-20",
-        "2026-09-21"
+        "2026-09-21",
+        "2026-09-22"
       ]
     },
     "image upload server": {
@@ -31298,7 +31303,7 @@
       ]
     },
     "cve 2026 93485": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-22"
       ]
@@ -31320,20 +31325,63 @@
       "dates": [
         "2026-09-22"
       ]
+    },
+    "microsoft initially classified": {
+      "count": 1,
+      "dates": [
+        "2026-09-22"
+      ]
+    },
+    "inject malicious scripts": {
+      "count": 1,
+      "dates": [
+        "2026-09-22"
+      ]
+    },
+    "execute malicious scripts": {
+      "count": 1,
+      "dates": [
+        "2026-09-22"
+      ]
+    },
+    "ai development saying": {
+      "count": 1,
+      "dates": [
+        "2026-09-22"
+      ]
+    },
+    "sharepoint server vulnerability": {
+      "count": 1,
+      "dates": [
+        "2026-09-22"
+      ]
+    },
+    "wordpress core let": {
+      "count": 1,
+      "dates": [
+        "2026-09-22"
+      ]
+    },
+    "update right away": {
+      "count": 1,
+      "dates": [
+        "2026-09-22"
+      ]
+    },
+    "told site owners": {
+      "count": 1,
+      "dates": [
+        "2026-09-22"
+      ]
+    },
+    "target academic institutions": {
+      "count": 1,
+      "dates": [
+        "2026-09-22"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-04 08:24",
-      "articles": 48,
-      "top_keywords": [
-        "large model review",
-        "anthropic confirms claude",
-        "ai runtime security",
-        "large enterprises targeted",
-        "remote code execution"
-      ]
-    },
     {
       "timestamp": "2026-09-04 13:55",
       "articles": 48,
@@ -32421,6 +32469,17 @@
         "address password mfa",
         "location data google",
         "office users microsoft"
+      ]
+    },
+    {
+      "timestamp": "2026-09-22 13:00",
+      "articles": 48,
+      "top_keywords": [
+        "cve 2026 93485",
+        "microsoft initially classified",
+        "inject malicious scripts",
+        "execute malicious scripts",
+        "twitter whistleblower complaint"
       ]
     }
   ]

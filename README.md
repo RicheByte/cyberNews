@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-22 07:11 UTC |
+| 🕐 Last Updated | 2026-09-22 13:00 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`fined 403 million` • `windows kernel driver` • `address password mfa` • `location data google` • `office users microsoft` • `dragos completes netrise` • `twitter whistleblower complaint` • `longest running spree` • `individuals whose licenses` • `cve 2026 93485`
+`cve 2026 93485` • `microsoft initially classified` • `inject malicious scripts` • `execute malicious scripts` • `twitter whistleblower complaint` • `longest running spree` • `individuals whose licenses` • `malicious oauth applications` • `chinese threat actor` • `ai development saying`
 
 ## 📄 Reports
 

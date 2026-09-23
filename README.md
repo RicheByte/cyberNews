@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-23 09:00 UTC |
+| 🕐 Last Updated | 2026-09-23 14:36 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`check point released` • `twitter whistleblower complaint` • `defraud online merchants` • `enable code execution` • `security experts warn` • `released security updates` • `masking chinese access` • `privileged access register` • `mistral ai models` • `frontier ai models`
+`arbitrary code execution` • `causing harm emerging` • `frontier ai models` • `released security patches` • `ryuk ransomware attacks` • `twitter whistleblower complaint` • `privileged access register` • `memory corruption flaws` • `masking chinese access` • `individuals whose licenses`
 
 ## 📄 Reports
 

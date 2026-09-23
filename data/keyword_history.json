@@ -335,7 +335,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2686,
+      "count": 2687,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3411,7 +3411,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 352,
+      "count": 353,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3469,7 +3469,8 @@
         "2026-08-17",
         "2026-09-05",
         "2026-09-06",
-        "2026-09-07"
+        "2026-09-07",
+        "2026-09-23"
       ]
     },
     "authenticated remote attacker": {
@@ -4345,7 +4346,7 @@
       ]
     },
     "released security updates": {
-      "count": 139,
+      "count": 140,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -16951,9 +16952,10 @@
       ]
     },
     "released security patches": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-05-13"
+        "2026-05-13",
+        "2026-09-23"
       ]
     },
     "unix like systems": {
@@ -20362,7 +20364,7 @@
       ]
     },
     "security experts warn": {
-      "count": 59,
+      "count": 60,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -27386,7 +27388,7 @@
       ]
     },
     "who's harvesting data": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-08-14",
         "2026-08-19",
@@ -27415,7 +27417,7 @@
       ]
     },
     "remained walled away": {
-      "count": 65,
+      "count": 66,
       "dates": [
         "2026-08-14",
         "2026-08-15",
@@ -29013,7 +29015,7 @@
       ]
     },
     "sophisticated cybercrime syndicate": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-08-31",
         "2026-09-01",
@@ -29200,7 +29202,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 115,
+      "count": 116,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29541,7 +29543,7 @@
       ]
     },
     "defraud online merchants": {
-      "count": 53,
+      "count": 54,
       "dates": [
         "2026-09-04",
         "2026-09-05",
@@ -29835,7 +29837,7 @@
       ]
     },
     "siphoning images collected": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-09-08",
         "2026-09-09",
@@ -31483,7 +31485,7 @@
       ]
     },
     "frontier ai models": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-22",
         "2026-09-23"
@@ -31502,13 +31504,13 @@
       ]
     },
     "masking chinese access": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-23"
       ]
     },
     "privileged access register": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-23"
       ]
@@ -31526,7 +31528,7 @@
       ]
     },
     "released engineering hotfixes": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-23"
       ]
@@ -31542,20 +31544,39 @@
       "dates": [
         "2026-09-23"
       ]
+    },
+    "causing harm emerging": {
+      "count": 1,
+      "dates": [
+        "2026-09-23"
+      ]
+    },
+    "ryuk ransomware attacks": {
+      "count": 1,
+      "dates": [
+        "2026-09-23"
+      ]
+    },
+    "memory corruption flaws": {
+      "count": 1,
+      "dates": [
+        "2026-09-23"
+      ]
+    },
+    "control enterprise infrastructure": {
+      "count": 1,
+      "dates": [
+        "2026-09-23"
+      ]
+    },
+    "released fixed versions": {
+      "count": 1,
+      "dates": [
+        "2026-09-23"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-05 07:59",
-      "articles": 48,
-      "top_keywords": [
-        "1 1 billion",
-        "universities threat actors",
-        "conduct command execution",
-        "individuals whose licenses",
-        "sophisticated threat group"
-      ]
-    },
     {
       "timestamp": "2026-09-05 11:45",
       "articles": 48,
@@ -32643,6 +32664,17 @@
         "defraud online merchants",
         "enable code execution",
         "security experts warn"
+      ]
+    },
+    {
+      "timestamp": "2026-09-23 14:36",
+      "articles": 48,
+      "top_keywords": [
+        "arbitrary code execution",
+        "causing harm emerging",
+        "frontier ai models",
+        "released security patches",
+        "ryuk ransomware attacks"
       ]
     }
   ]

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-23 14:36 UTC |
+| 🕐 Last Updated | 2026-09-23 19:23 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`arbitrary code execution` • `causing harm emerging` • `frontier ai models` • `released security patches` • `ryuk ransomware attacks` • `twitter whistleblower complaint` • `privileged access register` • `memory corruption flaws` • `masking chinese access` • `individuals whose licenses`
+`arbitrary code execution` • `mikrotik routers without` • `causing harm emerging` • `frontier ai models` • `ryuk ransomware attacks` • `run ci jobs` • `twitter whistleblower complaint` • `remained walled away` • `released security patches` • `memory corruption flaws`
 
 ## 📄 Reports
 

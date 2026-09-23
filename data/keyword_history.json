@@ -335,7 +335,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2687,
+      "count": 2688,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3411,7 +3411,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 353,
+      "count": 354,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -4346,7 +4346,7 @@
       ]
     },
     "released security updates": {
-      "count": 140,
+      "count": 141,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -16952,7 +16952,7 @@
       ]
     },
     "released security patches": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-13",
         "2026-09-23"
@@ -26502,7 +26502,7 @@
       ]
     },
     "text history records": {
-      "count": 209,
+      "count": 210,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -27154,7 +27154,7 @@
       ]
     },
     "publicly detailed prior": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-08-12",
         "2026-08-13",
@@ -27417,7 +27417,7 @@
       ]
     },
     "remained walled away": {
-      "count": 66,
+      "count": 67,
       "dates": [
         "2026-08-14",
         "2026-08-15",
@@ -29015,7 +29015,7 @@
       ]
     },
     "sophisticated cybercrime syndicate": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-08-31",
         "2026-09-01",
@@ -29202,7 +29202,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 116,
+      "count": 117,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29837,7 +29837,7 @@
       ]
     },
     "siphoning images collected": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-09-08",
         "2026-09-09",
@@ -31485,7 +31485,7 @@
       ]
     },
     "frontier ai models": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-22",
         "2026-09-23"
@@ -31504,7 +31504,7 @@
       ]
     },
     "masking chinese access": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-23"
       ]
@@ -31546,25 +31546,25 @@
       ]
     },
     "causing harm emerging": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-23"
       ]
     },
     "ryuk ransomware attacks": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-23"
       ]
     },
     "memory corruption flaws": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-23"
       ]
     },
     "control enterprise infrastructure": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-23"
       ]
@@ -31574,20 +31574,33 @@
       "dates": [
         "2026-09-23"
       ]
+    },
+    "mikrotik routers without": {
+      "count": 1,
+      "dates": [
+        "2026-09-23"
+      ]
+    },
+    "run ci jobs": {
+      "count": 1,
+      "dates": [
+        "2026-09-23"
+      ]
+    },
+    "rce attacks f5": {
+      "count": 1,
+      "dates": [
+        "2026-09-23"
+      ]
+    },
+    "project mail sent": {
+      "count": 1,
+      "dates": [
+        "2026-09-23"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-05 11:45",
-      "articles": 48,
-      "top_keywords": [
-        "1 1 billion",
-        "remote openai admits",
-        "universities threat actors",
-        "conduct command execution",
-        "individuals whose licenses"
-      ]
-    },
     {
       "timestamp": "2026-09-05 14:25",
       "articles": 48,
@@ -32674,6 +32687,17 @@
         "causing harm emerging",
         "frontier ai models",
         "released security patches",
+        "ryuk ransomware attacks"
+      ]
+    },
+    {
+      "timestamp": "2026-09-23 19:23",
+      "articles": 48,
+      "top_keywords": [
+        "arbitrary code execution",
+        "mikrotik routers without",
+        "causing harm emerging",
+        "frontier ai models",
         "ryuk ransomware attacks"
       ]
     }

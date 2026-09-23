@@ -1,72 +1,124 @@
 {
-  "last_updated": "2026-09-23 03:34",
+  "last_updated": "2026-09-23 09:00",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "chinese threat actor",
-    "stops microsoft defender",
-    "author abdelhamid naceri",
-    "2 1 0",
-    "windows operating systems",
+    "check point released",
     "twitter whistleblower complaint",
-    "text history records",
-    "shinyhunters hacked cl0p",
-    "security experts warn",
-    "national security risk",
-    "individuals whose licenses",
     "defraud online merchants",
-    "12 billion valuation",
-    "former employee's computer",
+    "enable code execution",
+    "security experts warn",
+    "released security updates",
+    "masking chinese access",
+    "privileged access register",
     "mistral ai models",
     "frontier ai models",
-    "who's harvesting data",
-    "harvest sensitive data",
-    "sophisticated cybercrime syndicate",
-    "siphoning images collected"
+    "renewed extortion attempts",
+    "windows operating systems",
+    "trigger runaway costs",
+    "text history records",
+    "siphoning images collected",
+    "remained walled away",
+    "released engineering hotfixes",
+    "publicly detailed prior",
+    "oauth token stolen",
+    "mid august 2026"
   ],
   "trending": [
     {
-      "keyword": "chinese threat actor",
-      "mentions": 22
-    },
-    {
-      "keyword": "stops microsoft defender",
-      "mentions": 4
-    },
-    {
-      "keyword": "author abdelhamid naceri",
-      "mentions": 4
-    },
-    {
-      "keyword": "2 1 0",
-      "mentions": 3
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 773
+      "keyword": "check point released",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2685
+      "mentions": 2686
     },
     {
-      "keyword": "text history records",
-      "mentions": 208
+      "keyword": "defraud online merchants",
+      "mentions": 53
     },
     {
-      "keyword": "shinyhunters hacked cl0p",
-      "mentions": 3
+      "keyword": "enable code execution",
+      "mentions": 1
     },
     {
       "keyword": "security experts warn",
-      "mentions": 58
+      "mentions": 59
     },
     {
-      "keyword": "national security risk",
-      "mentions": 507
+      "keyword": "released security updates",
+      "mentions": 139
+    },
+    {
+      "keyword": "masking chinese access",
+      "mentions": 1
+    },
+    {
+      "keyword": "privileged access register",
+      "mentions": 1
+    },
+    {
+      "keyword": "mistral ai models",
+      "mentions": 4
+    },
+    {
+      "keyword": "frontier ai models",
+      "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers",
+      "link": "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html",
+      "summary": "Attackers are exploiting a critical flaw in F5 BIG-IP Access Policy Manager (APM) that lets them run code on a BIG-IP system without logging in, F5 says. The flaw, CVE-2026-94127, affects only systems in which APM serves as an OAuth authorization server, issuing access tokens to applications. F5 disclosed it in an advisory on September 22 and has released engineering hotfixes.",
+      "published": "Wed, 23 Sep 2026 13:59:48 +0530",
+      "value_score": 95,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day",
+        "RCE",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware",
+      "link": "https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html",
+      "summary": "A Chinese threat actor codenamed UTA0565 has been observed exploiting the recently disclosed Google Chrome-Microsoft Windows exploit chain as zero-days through fake websites. The attacks, detected on September 3 and 4, 2026, involved the chaining of two vulnerabilities in Chrome (CVE-2026-85046, CVE-2026-87491) and one impacting Windows Advanced Local Procedure Call (CVE-2026-85880) to break",
+      "published": "Wed, 23 Sep 2026 13:59:24 +0530",
+      "value_score": 89,
+      "value_signals": [
+        "CVE mentioned ×3",
+        "Zero-day",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input",
+      "link": "https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html",
+      "summary": "A new security vulnerability in Next.js could allow attackers to run code on a server via ImageResponse, the feature that generates Open Graph and other social preview images, Vercel said. The risk applies when an app puts values an attacker controls, such as text read from the request URL, into the image. Vercel, which develops Next.js, fixed the flaw on September 22 in version",
+      "published": "Wed, 23 Sep 2026 12:34:40 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update",
+        "High severity"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants",
+      "link": "https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html",
+      "summary": "The cyber extortion group known as ShinyHunters on Tuesday claimed it had breached the U.S. Federal Bureau of Investigation and stolen data belonging to current and former employees at the agency. \"We have compromised the FBI. We hold very sensitive data on almost ALL FBI Agents and individuals who filed an application with the FBI for a job,\" the group said in a statement posted on their dark",
+      "published": "Wed, 23 Sep 2026 11:00:09 +0530",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
@@ -114,50 +166,27 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
-      "link": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
-      "summary": "A critical vulnerability in Bifrost, an open-source AI gateway that routes requests to more than 20 LLM providers, allows an unauthenticated attacker to run arbitrary commands on the gateway server with a single HTTP request. The flaw, tracked as CVE-2026-90898 (CVSS score: 9.8), affects all versions of the Bifrost HTTP transport before 2.1.0 when management authentication is",
-      "published": "Tue, 22 Sep 2026 22:11:12 +0530",
-      "value_score": 44,
+      "source": "BleepingComputer",
+      "title": "Ryuk ransomware member sentenced to 24 months in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/",
+      "summary": "An Armenian man was sentenced to 24 months in prison and 3 years of supervised release for hacking U.S. companies and encrypting their systems in Ryuk ransomware attacks. [...]",
+      "published": "Wed, 23 Sep 2026 04:20:05 -0400",
+      "value_score": 46,
       "value_signals": [
-        "CVE mentioned",
-        "High severity ×2"
+        "Ransomware ×2"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates",
-      "link": "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html",
-      "summary": "A zero-day proof-of-concept tool that stops Microsoft Defender from installing platform and signature updates by filling all available disk space was published on GitHub on September 19. The tool, called BigDiskBuster, has no patch, no CVE, and no Microsoft advisory. Its author, Abdelhamid Naceri, is a former Microsoft security researcher whose earlier Defender exploits were used in",
-      "published": "Tue, 22 Sep 2026 21:44:04 +0530",
-      "value_score": 84,
+      "source": "BleepingComputer",
+      "title": "F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/",
+      "summary": "F5 has released security updates to address a critical BIG-IP APM zero-day vulnerability being exploited in remote code execution attacks. [...]",
+      "published": "Wed, 23 Sep 2026 03:17:23 -0400",
+      "value_score": 100,
       "value_signals": [
         "Zero-day ×2",
-        "PoC available",
-        "Patch/update",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "AI Agents Are Rewriting the Rules of Lateral Movement",
-      "link": "https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html",
-      "summary": "Security teams have spent decades asking whether an identity has too much access. AI agents raise a harder question: how can we determine which paths an autonomous system can discover, given the access it already has? A person may try several ways to complete a task. A deterministic application follows the flow its developer wrote. But an AI agent is relentless in its pursuit of done. In May",
-      "published": "Tue, 22 Sep 2026 18:00:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New CVSS 10.0 VeloCloud Orchestrator Flaw Actively Exploited in Certificate-Based Setups",
-      "link": "https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html",
-      "summary": "Attackers are exploiting a new flaw in on-premises VeloCloud Orchestrator (VCO), the server that manages the Edge devices in a VeloCloud SD-WAN, Arista said on September 22. The flaw, tracked as CVE-2026-93952, may allow a remote attacker with no login access to privilege internal functions and affect the VCO host. Only orchestrators set up to authenticate their Edges with certificates are",
-      "published": "Tue, 22 Sep 2026 17:59:00 +0530",
-      "value_score": 59,
-      "value_signals": [
-        "CVE mentioned",
-        "Active exploitation",
+        "RCE ×2",
+        "High severity",
         "Exploit wording"
       ]
     },
@@ -219,28 +248,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/",
       "summary": "Shadow IT can leave security teams unaware of unmanaged endpoints, unauthorized software, and other assets that fall outside existing monitoring. Wazuh explains how endpoint inventory, agentless monitoring, and centralized analysis can help organizations identify and reduce these visibility gaps. [...]",
       "published": "Tue, 22 Sep 2026 13:17:41 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Check Point warns of Management Server zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
-      "summary": "Check Point Software released emergency hotfixes to address a critical Security Management Server vulnerability that could let attackers run arbitrary scripts. [...]",
-      "published": "Tue, 22 Sep 2026 12:32:47 -0400",
-      "value_score": 49,
-      "value_signals": [
-        "Zero-day",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/",
-      "summary": "The EvilTokens platform that compromised more than 12,000 Microsoft accounts at over 10,000 organizations has been disrupted in an effort led by Microsoft's Digital Crimes Unit (DCU). [...]",
-      "published": "Tue, 22 Sep 2026 11:00:00 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -397,6 +404,57 @@
     },
     {
       "source": "Security Week",
+      "title": "Arista Urges Immediate Patching of Exploited VCO Zero-Day",
+      "link": "https://www.securityweek.com/arista-urges-immediate-patching-of-exploited-vco-zero-day/",
+      "summary": "Remote attackers could trigger the critical-severity flaw to access privileged internal functionality. The post Arista Urges Immediate Patching of Exploited VCO Zero-Day appeared first on SecurityWeek .",
+      "published": "Wed, 23 Sep 2026 08:33:06 +0000",
+      "value_score": 74,
+      "value_signals": [
+        "Zero-day ×2",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Critical F5 BIG-IP Vulnerability Exploited as Zero-Day",
+      "link": "https://www.securityweek.com/critical-f5-big-ip-vulnerability-exploited-as-zero-day/",
+      "summary": "Unauthenticated attackers could send malicious traffic to BIG-IP to achieve remote code execution. The post Critical F5 BIG-IP Vulnerability Exploited as Zero-Day appeared first on SecurityWeek .",
+      "published": "Wed, 23 Sep 2026 07:34:18 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Zero-day ×2",
+        "RCE",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "ShinyHunters Claims FBI Hack, Demands Retraction of Threat Report",
+      "link": "https://www.securityweek.com/shinyhunters-claims-fbi-hack-demands-retraction-of-threat-report/",
+      "summary": "The cybercrime group is unhappy with its description in an FBI report and threatens to leak stolen information. The post ShinyHunters Claims FBI Hack, Demands Retraction of Threat Report appeared first on SecurityWeek .",
+      "published": "Wed, 23 Sep 2026 07:13:49 +0000",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Check Point Patches Exploited Management Server Zero-Day",
+      "link": "https://www.securityweek.com/check-point-patches-exploited-management-server-zero-day/",
+      "summary": "The critical-severity flaw could allow unauthenticated attackers to upload and execute arbitrary scripts. The post Check Point Patches Exploited Management Server Zero-Day appeared first on SecurityWeek .",
+      "published": "Wed, 23 Sep 2026 06:14:03 +0000",
+      "value_score": 74,
+      "value_signals": [
+        "Zero-day ×2",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "BigCommerce Data Stolen via Ribon Apps Hack",
       "link": "https://www.securityweek.com/bigcommerce-data-stolen-via-ribon-apps-hack/",
       "summary": "The attackers used a compromised BigCommerce application key held by Ribon to access customer data. The post BigCommerce Data Stolen via Ribon Apps Hack appeared first on SecurityWeek .",
@@ -430,46 +488,6 @@
       "link": "https://www.securityweek.com/only-13-of-ot-network-segments-are-fully-isolated-analysis/",
       "summary": "Forescout’s new network segmentation research shows that OT and medical devices often share network segments with other enterprise assets. The post Only 13% of OT Network Segments Are Fully Isolated: Analysis appeared first on SecurityWeek .",
       "published": "Tue, 22 Sep 2026 12:24:30 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Recent ZyXEL Switch Vulnerability Exploited by Chinese Hackers",
-      "link": "https://www.securityweek.com/recent-zyxel-switch-vulnerability-exploited-by-chinese-hackers/",
-      "summary": "A Chinese threat actor has exploited the bug to exfiltrate sensitive information from nearly 1,000 ZyXEL switches. The post Recent ZyXEL Switch Vulnerability Exploited by Chinese Hackers appeared first on SecurityWeek .",
-      "published": "Tue, 22 Sep 2026 11:55:20 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Malicious B-tree NPM Package Accumulates Millions of Downloads",
-      "link": "https://www.securityweek.com/malicious-b-tree-npm-package-accumulates-millions-of-downloads/",
-      "summary": "Posing as the legitimate sorted-btree package, indexed-btree hides a malware trigger in its prototype method. The post Malicious B-tree NPM Package Accumulates Millions of Downloads appeared first on SecurityWeek .",
-      "published": "Tue, 22 Sep 2026 11:33:59 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "WordPress Patches ‘Click2Shell’ Vulnerability",
-      "link": "https://www.securityweek.com/wordpress-patches-click2shell-vulnerability/",
-      "summary": "The bug lets attackers automatically install and preview themes and could lead to remote code execution. The post WordPress Patches ‘Click2Shell’ Vulnerability appeared first on SecurityWeek .",
-      "published": "Tue, 22 Sep 2026 10:22:27 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "RCE"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Japan Dismantles First North Korean Laptop Farm as US and Allies Detail Wider Scheme",
-      "link": "https://www.securityweek.com/japan-dismantles-first-north-korean-laptop-farm-as-us-and-allies-detail-wider-scheme/",
-      "summary": "The US, Japan, Germany and Australia have published a joint report detailing the scope of North Korea’s WaterPlum campaign. The post Japan Dismantles First North Korean Laptop Farm as US and Allies Detail Wider Scheme appeared first on SecurityWeek .",
-      "published": "Tue, 22 Sep 2026 08:37:06 +0000",
       "value_score": 10,
       "value_signals": []
     },

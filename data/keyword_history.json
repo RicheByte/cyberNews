@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 773,
+      "count": 774,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -335,7 +335,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2685,
+      "count": 2686,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -4345,7 +4345,7 @@
       ]
     },
     "released security updates": {
-      "count": 138,
+      "count": 139,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -4386,7 +4386,8 @@
         "2026-09-17",
         "2026-09-19",
         "2026-09-20",
-        "2026-09-21"
+        "2026-09-21",
+        "2026-09-23"
       ]
     },
     "auditability collide daily": {
@@ -20361,7 +20362,7 @@
       ]
     },
     "security experts warn": {
-      "count": 58,
+      "count": 59,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -26499,7 +26500,7 @@
       ]
     },
     "text history records": {
-      "count": 208,
+      "count": 209,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -27151,7 +27152,7 @@
       ]
     },
     "publicly detailed prior": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2026-08-12",
         "2026-08-13",
@@ -27165,7 +27166,8 @@
         "2026-08-21",
         "2026-08-24",
         "2026-08-30",
-        "2026-08-31"
+        "2026-08-31",
+        "2026-09-23"
       ]
     },
     "target critical infrastructure": {
@@ -27413,7 +27415,7 @@
       ]
     },
     "remained walled away": {
-      "count": 64,
+      "count": 65,
       "dates": [
         "2026-08-14",
         "2026-08-15",
@@ -27427,7 +27429,8 @@
         "2026-08-30",
         "2026-08-31",
         "2026-09-09",
-        "2026-09-14"
+        "2026-09-14",
+        "2026-09-23"
       ]
     },
     "ai agent control": {
@@ -29538,7 +29541,7 @@
       ]
     },
     "defraud online merchants": {
-      "count": 52,
+      "count": 53,
       "dates": [
         "2026-09-04",
         "2026-09-05",
@@ -29832,7 +29835,7 @@
       ]
     },
     "siphoning images collected": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-09-08",
         "2026-09-09",
@@ -31467,7 +31470,7 @@
       ]
     },
     "mistral ai models": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-22",
         "2026-09-23"
@@ -31480,25 +31483,68 @@
       ]
     },
     "frontier ai models": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-22",
+        "2026-09-23"
+      ]
+    },
+    "check point released": {
+      "count": 1,
+      "dates": [
+        "2026-09-23"
+      ]
+    },
+    "enable code execution": {
+      "count": 1,
+      "dates": [
+        "2026-09-23"
+      ]
+    },
+    "masking chinese access": {
+      "count": 1,
+      "dates": [
+        "2026-09-23"
+      ]
+    },
+    "privileged access register": {
+      "count": 1,
+      "dates": [
+        "2026-09-23"
+      ]
+    },
+    "renewed extortion attempts": {
+      "count": 1,
+      "dates": [
+        "2026-09-23"
+      ]
+    },
+    "trigger runaway costs": {
+      "count": 1,
+      "dates": [
+        "2026-09-23"
+      ]
+    },
+    "released engineering hotfixes": {
+      "count": 1,
+      "dates": [
+        "2026-09-23"
+      ]
+    },
+    "oauth token stolen": {
+      "count": 1,
+      "dates": [
+        "2026-09-23"
+      ]
+    },
+    "mid august 2026": {
+      "count": 1,
+      "dates": [
         "2026-09-23"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-05 02:33",
-      "articles": 48,
-      "top_keywords": [
-        "1 1 billion",
-        "sophisticated threat group",
-        "individuals whose licenses",
-        "twitter whistleblower complaint",
-        "longest running spree"
-      ]
-    },
     {
       "timestamp": "2026-09-05 07:59",
       "articles": 48,
@@ -32586,6 +32632,17 @@
         "author abdelhamid naceri",
         "2 1 0",
         "windows operating systems"
+      ]
+    },
+    {
+      "timestamp": "2026-09-23 09:00",
+      "articles": 48,
+      "top_keywords": [
+        "check point released",
+        "twitter whistleblower complaint",
+        "defraud online merchants",
+        "enable code execution",
+        "security experts warn"
       ]
     }
   ]

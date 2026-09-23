@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-09-23 19:23",
+  "last_updated": "2026-09-23 22:37",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "arbitrary code execution",
     "mikrotik routers without",
     "causing harm emerging",
+    "arbitrary code execution",
     "frontier ai models",
-    "ryuk ransomware attacks",
     "run ci jobs",
     "twitter whistleblower complaint",
     "remained walled away",
     "released security patches",
     "memory corruption flaws",
-    "masking chinese access",
     "individuals whose licenses",
-    "sophisticated cybercrime syndicate",
     "control enterprise infrastructure",
+    "sophisticated cybercrime syndicate",
+    "tvtap iptv application",
     "text history records",
     "siphoning images collected",
-    "released security updates",
-    "rce attacks f5",
+    "security gateway product",
+    "released fixed versions",
+    "quantum error correction",
     "publicly detailed prior",
     "project mail sent"
   ],
   "trending": [
     {
-      "keyword": "arbitrary code execution",
-      "mentions": 354
-    },
-    {
       "keyword": "mikrotik routers without",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "causing harm emerging",
-      "mentions": 2
-    },
-    {
-      "keyword": "frontier ai models",
-      "mentions": 5
-    },
-    {
-      "keyword": "ryuk ransomware attacks",
-      "mentions": 2
-    },
-    {
-      "keyword": "run ci jobs",
-      "mentions": 1
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2688
-    },
-    {
-      "keyword": "remained walled away",
-      "mentions": 67
-    },
-    {
-      "keyword": "released security patches",
       "mentions": 3
     },
     {
-      "keyword": "memory corruption flaws",
+      "keyword": "arbitrary code execution",
+      "mentions": 355
+    },
+    {
+      "keyword": "frontier ai models",
+      "mentions": 6
+    },
+    {
+      "keyword": "run ci jobs",
       "mentions": 2
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2689
+    },
+    {
+      "keyword": "remained walled away",
+      "mentions": 68
+    },
+    {
+      "keyword": "released security patches",
+      "mentions": 4
+    },
+    {
+      "keyword": "memory corruption flaws",
+      "mentions": 3
+    },
+    {
+      "keyword": "individuals whose licenses",
+      "mentions": 118
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
+      "link": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
+      "summary": "Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat actors are using the centralized repository hosted by HashiCorp as a distribution vector for malicious payloads. According to Aikido, the list of Terraform providers and Go modules is below - gocommunity-io/dockerd (222 downloads) kreuzwenker/",
+      "published": "Wed, 23 Sep 2026 23:36:30 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
@@ -138,15 +147,24 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape",
-      "link": "https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html",
-      "summary": "A use-after-free in the Linux kernel's AF_UNIX socket subsystem can be used to escape a container and gain root on the host, security firm DepthFirst said in research published September 22. The flaw, tracked as CVE-2026-80521 (CVSS score: 7.8), was fixed upstream on August 6, but Ubuntu has not shipped the patch for its 26.04, 24.04, or 22.04 LTS releases. DepthFirst",
-      "published": "Wed, 23 Sep 2026 16:42:18 +0530",
-      "value_score": 50,
+      "source": "BleepingComputer",
+      "title": "New RemControl Android banking malware targets users in Europe and Canada",
+      "link": "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/",
+      "summary": "A new Android malware-as-a-service (MaaS) platform called RemControl is targeting users through malvertising campaigns that impersonate the TVTap IPTV application. [...]",
+      "published": "Wed, 23 Sep 2026 17:25:13 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/",
+      "summary": "Cybersecurity company Check Point has confirmed active exploitation of CVE-2026-85102, a pre-authentication remote code execution (RCE) vulnerability in the VPN certificate-handling functionality of its Security Gateway product. [...]",
+      "published": "Wed, 23 Sep 2026 15:53:54 -0400",
+      "value_score": 74,
       "value_signals": [
         "CVE mentioned",
-        "Patch/update ×2",
+        "RCE ×3",
         "Exploit wording"
       ]
     },
@@ -218,31 +236,6 @@
       "published": "Wed, 23 Sep 2026 07:18:13 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Ryuk ransomware member sentenced to 24 months in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/",
-      "summary": "An Armenian man was sentenced to 24 months in prison and 3 years of supervised release for hacking U.S. companies and encrypting their systems in Ryuk ransomware attacks. [...]",
-      "published": "Wed, 23 Sep 2026 04:20:05 -0400",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/",
-      "summary": "F5 has released security updates to address a critical BIG-IP APM zero-day vulnerability being exploited in remote code execution attacks. [...]",
-      "published": "Wed, 23 Sep 2026 03:17:23 -0400",
-      "value_score": 100,
-      "value_signals": [
-        "Zero-day ×2",
-        "RCE ×2",
-        "High severity",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -323,6 +316,24 @@
     },
     {
       "source": "Dark Reading",
+      "title": "EDR Evasion Stack Helps Process Injection Slip Past Defenses",
+      "link": "https://www.darkreading.com/endpoint-security/edr-evasion-stack-helps-process-injection-slip-past-defenses",
+      "summary": "A process parameter-poisoning technique evades EDR by injecting code into process initialization structures without using the Windows APIs that EDR tools typically watch out for.",
+      "published": "Wed, 23 Sep 2026 21:03:01 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "GitLab Email Addresses Can Be Weaponized for Supply Chain Attacks",
+      "link": "https://www.darkreading.com/application-security/gitlab-email-addresses-supply-chain-attacks",
+      "summary": "Incoming email addresses automatically assigned to each user on the platform contain highly privileged access tokens that attackers can use.",
+      "published": "Wed, 23 Sep 2026 20:53:38 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "UAE, Saudi Arabia Face Onslaught of Increasingly Complex Cyberattacks",
       "link": "https://www.darkreading.com/threat-intelligence/uae-saudi-arabia-face-onslaught-of-increasingly-sophisticated-automated-cyberattacks",
       "summary": "The United Arab Emirates and Kingdom of Saudi Arabia together absorbed 50% of all cyberattacks recorded across the Gulf region in the first half of 2026.",
@@ -382,20 +393,11 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Amid Ongoing Rogue Incidents, Debate Over AI Safety Gets Real",
-      "link": "https://www.darkreading.com/cyber-risk/rogue-incidents-debate-ai-safety-gets-real",
-      "summary": "As more reports of misalignment incidents underscore AI risks, large AI labs, regular businesses, and even nations are searching for better ways to keep control and be secure.",
-      "published": "Tue, 22 Sep 2026 17:12:26 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "More Than a Third of Industrial Orgs See Cybersecurity Risk as a Top Obstacle to Growth, Study Finds",
-      "link": "https://www.darkreading.com/cyber-risk/third-industrial-orgs-see-cybersecurity-risk-top-obstacle",
-      "summary": "Industrial companies are increasing cybersecurity investment as connected operations, AI adoption, and IT/OT convergence expand operational risk.",
-      "published": "Tue, 22 Sep 2026 12:00:00 GMT",
+      "source": "Security Week",
+      "title": "IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU DecoderIonQ Says Sin",
+      "link": "https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/",
+      "summary": "IonQ’s new single processor quantum error decoder minimizes the classical computing overhead in quantum error correction. The post IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU DecoderIonQ Says Sin appeared first on SecurityWeek .",
+      "published": "Wed, 23 Sep 2026 19:32:49 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -470,19 +472,6 @@
       "published": "Wed, 23 Sep 2026 10:00:00 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Arista Urges Immediate Patching of Exploited VCO Zero-Day",
-      "link": "https://www.securityweek.com/arista-urges-immediate-patching-of-exploited-vco-zero-day/",
-      "summary": "Remote attackers could trigger the critical-severity flaw to access privileged internal functionality. The post Arista Urges Immediate Patching of Exploited VCO Zero-Day appeared first on SecurityWeek .",
-      "published": "Wed, 23 Sep 2026 08:33:06 +0000",
-      "value_score": 74,
-      "value_signals": [
-        "Zero-day ×2",
-        "High severity",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

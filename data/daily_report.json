@@ -1,11 +1,10 @@
 {
-  "last_updated": "2026-09-23 22:37",
+  "last_updated": "2026-09-24 02:46",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "mikrotik routers without",
     "causing harm emerging",
-    "arbitrary code execution",
     "frontier ai models",
     "run ci jobs",
     "twitter whistleblower complaint",
@@ -14,6 +13,7 @@
     "memory corruption flaws",
     "individuals whose licenses",
     "control enterprise infrastructure",
+    "arbitrary code execution",
     "sophisticated cybercrime syndicate",
     "tvtap iptv application",
     "text history records",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "mikrotik routers without",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "causing harm emerging",
-      "mentions": 3
-    },
-    {
-      "keyword": "arbitrary code execution",
-      "mentions": 355
-    },
-    {
-      "keyword": "frontier ai models",
-      "mentions": 6
-    },
-    {
-      "keyword": "run ci jobs",
-      "mentions": 2
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2689
-    },
-    {
-      "keyword": "remained walled away",
-      "mentions": 68
-    },
-    {
-      "keyword": "released security patches",
       "mentions": 4
     },
     {
-      "keyword": "memory corruption flaws",
+      "keyword": "frontier ai models",
+      "mentions": 7
+    },
+    {
+      "keyword": "run ci jobs",
       "mentions": 3
     },
     {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2690
+    },
+    {
+      "keyword": "remained walled away",
+      "mentions": 69
+    },
+    {
+      "keyword": "released security patches",
+      "mentions": 5
+    },
+    {
+      "keyword": "memory corruption flaws",
+      "mentions": 4
+    },
+    {
       "keyword": "individuals whose licenses",
-      "mentions": 118
+      "mentions": 119
+    },
+    {
+      "keyword": "control enterprise infrastructure",
+      "mentions": 4
     }
   ],
   "articles": [
@@ -148,6 +148,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Placeholder domain used in dev docs now serves ClickFix attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/",
+      "summary": "The \"third-party.com\" domain, commonly used as a placeholder in developer documentation and code examples, is serving a fake Cloudflare verification page that attempts to trick Windows users into executing PowerShell commands. [...]",
+      "published": "Wed, 23 Sep 2026 18:46:01 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "New RemControl Android banking malware targets users in Europe and Canada",
       "link": "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/",
       "summary": "A new Android malware-as-a-service (MaaS) platform called RemControl is targeting users through malvertising campaigns that impersonate the TVTap IPTV application. [...]",
@@ -227,15 +236,6 @@
         "Active exploitation ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft: September Windows updates break Always On VPN connections",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/",
-      "summary": "Microsoft warned that the September 2026 security updates may also break Always On VPN connections on some Windows 11 systems. [...]",
-      "published": "Wed, 23 Sep 2026 07:18:13 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

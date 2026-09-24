@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-23 22:37 UTC  
+> **Last Updated:** 2026-09-24 02:46 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mikrotik routers without** • **causing harm emerging** • **arbitrary code execution** • **frontier ai models** • **run ci jobs** • **twitter whistleblower complaint** • **remained walled away** • **released security patches** • **memory corruption flaws** • **individuals whose licenses** • **control enterprise infrastructure** • **sophisticated cybercrime syndicate** • **tvtap iptv application** • **text history records** • **siphoning images collected** • **security gateway product** • **released fixed versions** • **quantum error correction** • **publicly detailed prior** • **project mail sent**
+**mikrotik routers without** • **causing harm emerging** • **frontier ai models** • **run ci jobs** • **twitter whistleblower complaint** • **remained walled away** • **released security patches** • **memory corruption flaws** • **individuals whose licenses** • **control enterprise infrastructure** • **arbitrary code execution** • **sophisticated cybercrime syndicate** • **tvtap iptv application** • **text history records** • **siphoning images collected** • **security gateway product** • **released fixed versions** • **quantum error correction** • **publicly detailed prior** • **project mail sent**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Placeholder domain used in dev docs now serves ClickFix attacks](https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/)
 - [New RemControl Android banking malware targets users in Europe and Canada](https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/)
 - [Check Point warns of hackers exploiting Security Gateway VPN RCE flaw](https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/)
 - [Hackers start exploiting critical WordPress flaw for code execution](https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/)
@@ -34,7 +35,6 @@
 - [InfraTrust report warns network management systems under attack](https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/)
 - [How One Kubernetes YAML Can Hand Over a GCP Organization](https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/)
 - [Arista patches actively exploited VeloCloud Orchestrator zero-day](https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/)
-- [Microsoft: September Windows updates break Always On VPN connections](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/)
 
 ### Krebs on Security
 

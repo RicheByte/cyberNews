@@ -1,72 +1,112 @@
 {
-  "last_updated": "2026-09-24 14:34",
+  "last_updated": "2026-09-24 19:43",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "critical security flaw",
-    "twitter whistleblower complaint",
-    "individuals whose licenses",
+    "kontext security emerges",
     "australian government portal",
+    "twitter whistleblower complaint",
+    "serves malicious content",
+    "individuals whose licenses",
+    "agent reached files",
     "1 billion since",
-    "disclosure threat actors",
+    "ai tools leak",
     "defraud online merchants",
-    "1 2 million",
-    "wordpress within hours",
-    "tvtap iptv application",
+    "security experts warn",
+    "who's harvesting data",
+    "vulnerability research exploitation",
+    "third party com",
     "text history records",
     "stronger evidence requirements",
-    "sprawling phishing campaign",
     "sophisticated cybercrime syndicate",
     "siphoning images collected",
-    "security experts warn",
-    "run ci jobs",
     "remained walled away",
-    "publicly detailed prior",
-    "poisoning chatgpt gemini"
+    "readmes contributing guides",
+    "publicly detailed prior"
   ],
   "trending": [
     {
-      "keyword": "critical security flaw",
-      "mentions": 193
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2692
-    },
-    {
-      "keyword": "individuals whose licenses",
-      "mentions": 121
+      "keyword": "kontext security emerges",
+      "mentions": 1
     },
     {
       "keyword": "australian government portal",
+      "mentions": 2
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2693
+    },
+    {
+      "keyword": "serves malicious content",
+      "mentions": 1
+    },
+    {
+      "keyword": "individuals whose licenses",
+      "mentions": 122
+    },
+    {
+      "keyword": "agent reached files",
       "mentions": 1
     },
     {
       "keyword": "1 billion since",
-      "mentions": 1
-    },
-    {
-      "keyword": "disclosure threat actors",
-      "mentions": 8
-    },
-    {
-      "keyword": "defraud online merchants",
-      "mentions": 55
-    },
-    {
-      "keyword": "1 2 million",
-      "mentions": 1
-    },
-    {
-      "keyword": "wordpress within hours",
       "mentions": 2
     },
     {
-      "keyword": "tvtap iptv application",
-      "mentions": 4
+      "keyword": "ai tools leak",
+      "mentions": 1
+    },
+    {
+      "keyword": "defraud online merchants",
+      "mentions": 56
+    },
+    {
+      "keyword": "security experts warn",
+      "mentions": 62
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
+      "link": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
+      "summary": "A OnePlus 15 running the latest OxygenOS can be rooted by a malicious app the owner installs, one that asks for no special permissions. A researcher, Rasmus Moorats, chained two flaws in OnePlus's own software to gain root access, the highest level of control over an Android phone. OnePlus told him the same flaws affect many more of its own devices and those of OPPO, though it has not",
+      "published": "Thu, 24 Sep 2026 23:40:18 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories",
+      "link": "https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html",
+      "summary": "This week, the dangerous stuff keeps arriving dressed as something boring. An update. A login box. A search answer. A coding tool. A link you have clicked a hundred times before. That is the thread running through the pile. Trusted paths get poisoned. Old bugs find new jobs. AI tools leak more than expected. Fake prompts look real enough. And some attacks barely need an exploit at all — just",
+      "published": "Thu, 24 Sep 2026 23:22:43 +0530",
+      "value_score": 36,
+      "value_signals": [
+        "Patch/update",
+        "Breach/leak",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content",
+      "link": "https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html",
+      "summary": "The \"third-party[.]com\" domain, commonly used as a documentation placeholder, has been observed serving a ClickFix lure to Windows browsers while displaying a harmless decoy to other users. \"third-party[.]com has been a generic documentation placeholder for years, the same role example.com plays,\" Manifold Security's Head of Research, Ax Sharma, said. \"Unlike 'example[.]com,' third-party[.]com",
+      "published": "Thu, 24 Sep 2026 20:57:32 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer",
+      "link": "https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html",
+      "summary": "An active ClickFix campaign has been observed compromising legitimate Ukrainian business websites to inject bogus Cloudflare verification pages and trick victims into downloading a previously undocumented information stealer called Psychedelic. \"When a visitor interacts with the page, the lure copies a Windows Installer command to the clipboard and instructs the visitor to paste it into the",
+      "published": "Thu, 24 Sep 2026 19:59:06 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Corp MDM Spyware Targets Logistics Firms, Steals New SMS and Redirects Calls",
@@ -106,48 +146,13 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords",
-      "link": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
-      "summary": "Cybersecurity researchers have disclosed details of an active TeamFiltration campaign codenamed UNK_CondorFiltration that has targeted over 5,700 accounts across 28 Microsoft 365 tenants. According to Proofpoint, the activity has primarily focused on Chilean retail and financial institutions. It originated from 1,487 unique AWS EC2 source IP addresses. \"The campaign compromised 7 accounts –",
-      "published": "Thu, 24 Sep 2026 12:02:03 +0530",
+      "source": "BleepingComputer",
+      "title": "Exposed GitLab project email addresses let attackers push code",
+      "link": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/",
+      "summary": "Private GitLab email addresses that allow developers to push issues or tasks to a project are being deliberately exposed in READMEs, contributing guides, and support pages used to collect bug reports. [...]",
+      "published": "Thu, 24 Sep 2026 13:47:44 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
-      "summary": "Threat actors have begun to actively exploit a critical security flaw in WordPress within hours of public disclosure. The vulnerability in question is CVE-2026-87902 (CVSS score: 9.2), which could allow an unauthenticated attacker to obtain remote code execution (RCE). \"An unauthenticated attacker can make get_page_template() page-template resolution include a chosen readable local .php file",
-      "published": "Thu, 24 Sep 2026 11:06:18 +0530",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "RCE ×2",
-        "High severity",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
-      "link": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
-      "summary": "Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat actors are using the centralized repository hosted by HashiCorp as a distribution vector for malicious payloads. According to Aikido, the list of Terraform providers and Go modules is below - gocommunity-io/dockerd (222 downloads) kreuzwenker/",
-      "published": "Wed, 23 Sep 2026 23:36:30 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
-      "link": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
-      "summary": "The private email address GitLab gives you for filing issues by email is a credential. Anyone who gets it can email a patch that GitLab commits in your name, to any branch you can push to, including main, and can start CI/CD jobs that run as you. GitLab shows each user this address behind a button labeled \"Email work item to this project.\" Mail sent to it opens an issue in that project, authored",
-      "published": "Wed, 23 Sep 2026 22:23:10 +0530",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -224,15 +229,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/",
       "summary": "The \"third-party.com\" domain, commonly used as a placeholder in developer documentation and code examples, is serving a fake Cloudflare verification page that attempts to trick Windows users into executing PowerShell commands. [...]",
       "published": "Wed, 23 Sep 2026 18:46:01 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New RemControl Android banking malware targets users in Europe and Canada",
-      "link": "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/",
-      "summary": "A new Android malware-as-a-service (MaaS) platform called RemControl is targeting users through malvertising campaigns that impersonate the TVTap IPTV application. [...]",
-      "published": "Wed, 23 Sep 2026 17:25:13 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -315,6 +311,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "3 Cyber Threats That Defined the Summer of 2026",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/3-cyber-threats-defined-summer-2026",
+      "summary": "This installment of the Reporters' Notebook video series discusses the impact of AI agents breaching Hugging Face, Fairlife's ransomware attack, and Iranian-linked threat actors compromising a dozen US water systems. It was a busy summer.",
+      "published": "Thu, 24 Sep 2026 14:44:12 GMT",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "How to Build A SASE Framework for Modern Cybersecurity",
       "link": "https://www.darkreading.com/cloud-security/how-to-build-sase-framework",
       "summary": "Keeping edge computing safe requires organizations to fundamentally rethink security governance. Here is a path forward: a step-by-step guide to building a SASE framework.",
@@ -377,15 +384,22 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Attackers Manipulate AI Chatbots in Mass Disinformation, Phishing Campaign",
-      "link": "https://www.darkreading.com/threat-intelligence/attackers-manipulate-ai-chatbots-mass-disinformation-phishing-campaign",
-      "summary": "Threat actors are poisoning ChatGPT, Gemini, and Google AI Overview answers by seeding the Web with malicious links and data and then optimizing the content.",
-      "published": "Wed, 23 Sep 2026 14:47:09 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
+      "source": "Security Week",
+      "title": "Kontext Security Emerges With $4 Million for AI Agent Runtime Controls",
+      "link": "https://www.securityweek.com/kontext-security-emerges-with-4-million-for-ai-agent-runtime-controls/",
+      "summary": "The startup’s runtime enforcement platform evaluates AI agents in real time to provide visibility and control over their actions. The post Kontext Security Emerges With $4 Million for AI Agent Runtime Controls appeared first on SecurityWeek .",
+      "published": "Thu, 24 Sep 2026 15:52:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "OpenAI Agents Probed Websites for Vulnerabilities While Fetching Public Data",
+      "link": "https://www.securityweek.com/openai-agents-probed-websites-for-vulnerabilities-while-fetching-public-data/",
+      "summary": "Australia disclosed that an OpenAI agent gained unauthorized access to non-public government information. The post OpenAI Agents Probed Websites for Vulnerabilities While Fetching Public Data appeared first on SecurityWeek .",
+      "published": "Thu, 24 Sep 2026 14:43:13 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -451,30 +465,6 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "US Court Sentences Armenian Man to Prison for Ryuk Ransomware Attacks",
-      "link": "https://www.securityweek.com/us-court-sentences-armenian-man-to-prison-for-ryuk-ransomware-attacks/",
-      "summary": "Karen Vardanyan has also been ordered to pay over $1.2 million in restitution to victims. The post US Court Sentences Armenian Man to Prison for Ryuk Ransomware Attacks appeared first on SecurityWeek .",
-      "published": "Thu, 24 Sep 2026 08:38:29 +0000",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Critical WordPress Vulnerability Exploited Immediately After Disclosure",
-      "link": "https://www.securityweek.com/critical-wordpress-vulnerability-exploited-immediately-after-disclosure/",
-      "summary": "Tracked as CVE-2026-87902, the path traversal flaw allows remote, unauthenticated attackers to execute arbitrary code. The post Critical WordPress Vulnerability Exploited Immediately After Disclosure appeared first on SecurityWeek .",
-      "published": "Thu, 24 Sep 2026 07:12:26 +0000",
-      "value_score": 50,
-      "value_signals": [
-        "CVE mentioned",
-        "High severity ×2",
-        "Exploit wording"
       ]
     },
     {

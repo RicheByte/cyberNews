@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-24 14:34 UTC |
+| 🕐 Last Updated | 2026-09-24 19:43 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`critical security flaw` • `twitter whistleblower complaint` • `individuals whose licenses` • `australian government portal` • `1 billion since` • `disclosure threat actors` • `defraud online merchants` • `1 2 million` • `wordpress within hours` • `tvtap iptv application`
+`kontext security emerges` • `australian government portal` • `twitter whistleblower complaint` • `serves malicious content` • `individuals whose licenses` • `agent reached files` • `1 billion since` • `ai tools leak` • `defraud online merchants` • `security experts warn`
 
 ## 📄 Reports
 

@@ -335,7 +335,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2692,
+      "count": 2693,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -20370,7 +20370,7 @@
       ]
     },
     "security experts warn": {
-      "count": 61,
+      "count": 62,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -26510,7 +26510,7 @@
       ]
     },
     "text history records": {
-      "count": 214,
+      "count": 215,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -27163,7 +27163,7 @@
       ]
     },
     "publicly detailed prior": {
-      "count": 48,
+      "count": 49,
       "dates": [
         "2026-08-12",
         "2026-08-13",
@@ -27398,7 +27398,7 @@
       ]
     },
     "who's harvesting data": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-08-14",
         "2026-08-19",
@@ -27414,7 +27414,8 @@
         "2026-09-16",
         "2026-09-21",
         "2026-09-22",
-        "2026-09-23"
+        "2026-09-23",
+        "2026-09-24"
       ]
     },
     "single control plane": {
@@ -27427,7 +27428,7 @@
       ]
     },
     "remained walled away": {
-      "count": 71,
+      "count": 72,
       "dates": [
         "2026-08-14",
         "2026-08-15",
@@ -29026,7 +29027,7 @@
       ]
     },
     "sophisticated cybercrime syndicate": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-08-31",
         "2026-09-01",
@@ -29214,7 +29215,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 121,
+      "count": 122,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29556,7 +29557,7 @@
       ]
     },
     "defraud online merchants": {
-      "count": 55,
+      "count": 56,
       "dates": [
         "2026-09-04",
         "2026-09-05",
@@ -29851,7 +29852,7 @@
       ]
     },
     "siphoning images collected": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-09-08",
         "2026-09-09",
@@ -31651,13 +31652,13 @@
       ]
     },
     "australian government portal": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-24"
       ]
     },
     "1 billion since": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-24"
       ]
@@ -31669,7 +31670,7 @@
       ]
     },
     "stronger evidence requirements": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-24"
       ]
@@ -31679,20 +31680,51 @@
       "dates": [
         "2026-09-24"
       ]
+    },
+    "kontext security emerges": {
+      "count": 1,
+      "dates": [
+        "2026-09-24"
+      ]
+    },
+    "serves malicious content": {
+      "count": 1,
+      "dates": [
+        "2026-09-24"
+      ]
+    },
+    "agent reached files": {
+      "count": 1,
+      "dates": [
+        "2026-09-24"
+      ]
+    },
+    "ai tools leak": {
+      "count": 1,
+      "dates": [
+        "2026-09-24"
+      ]
+    },
+    "vulnerability research exploitation": {
+      "count": 1,
+      "dates": [
+        "2026-09-24"
+      ]
+    },
+    "third party com": {
+      "count": 1,
+      "dates": [
+        "2026-09-24"
+      ]
+    },
+    "readmes contributing guides": {
+      "count": 1,
+      "dates": [
+        "2026-09-24"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-05 23:29",
-      "articles": 48,
-      "top_keywords": [
-        "1 1 billion",
-        "universities threat actors",
-        "conduct command execution",
-        "arbitrary code execution",
-        "individuals whose licenses"
-      ]
-    },
     {
       "timestamp": "2026-09-06 02:30",
       "articles": 48,
@@ -32780,6 +32812,17 @@
         "individuals whose licenses",
         "australian government portal",
         "1 billion since"
+      ]
+    },
+    {
+      "timestamp": "2026-09-24 19:43",
+      "articles": 48,
+      "top_keywords": [
+        "kontext security emerges",
+        "australian government portal",
+        "twitter whistleblower complaint",
+        "serves malicious content",
+        "individuals whose licenses"
       ]
     }
   ]

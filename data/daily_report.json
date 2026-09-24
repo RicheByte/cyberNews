@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-09-24 19:43",
+  "last_updated": "2026-09-24 22:57",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "kontext security emerges",
     "australian government portal",
+    "agent reached files",
     "twitter whistleblower complaint",
     "serves malicious content",
+    "multiple countries probing",
     "individuals whose licenses",
-    "agent reached files",
-    "1 billion since",
     "ai tools leak",
+    "1 billion since",
     "defraud online merchants",
-    "security experts warn",
     "who's harvesting data",
     "vulnerability research exploitation",
     "third party com",
-    "text history records",
     "stronger evidence requirements",
     "sophisticated cybercrime syndicate",
+    "smuggle arbitrary instructions",
     "siphoning images collected",
     "remained walled away",
     "readmes contributing guides",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "kontext security emerges",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "australian government portal",
+      "mentions": 3
+    },
+    {
+      "keyword": "agent reached files",
       "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2693
+      "mentions": 2694
     },
     {
       "keyword": "serves malicious content",
+      "mentions": 2
+    },
+    {
+      "keyword": "multiple countries probing",
       "mentions": 1
     },
     {
       "keyword": "individuals whose licenses",
-      "mentions": 122
-    },
-    {
-      "keyword": "agent reached files",
-      "mentions": 1
-    },
-    {
-      "keyword": "1 billion since",
-      "mentions": 2
+      "mentions": 123
     },
     {
       "keyword": "ai tools leak",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "1 billion since",
+      "mentions": 3
     },
     {
       "keyword": "defraud online merchants",
-      "mentions": 56
-    },
-    {
-      "keyword": "security experts warn",
-      "mentions": 62
+      "mentions": 57
     }
   ],
   "articles": [
@@ -147,6 +147,26 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
+      "link": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
+      "summary": "A new variant of the MacSync malware targeting macOS systems now uses public iCloud calendar events to deliver new native payloads. [...]",
+      "published": "Thu, 24 Sep 2026 16:53:35 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
+      "link": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
+      "summary": "A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. [...]",
+      "published": "Thu, 24 Sep 2026 16:10:48 -0400",
+      "value_score": 20,
+      "value_signals": [
+        "Botnet"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Exposed GitLab project email addresses let attackers push code",
       "link": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/",
       "summary": "Private GitLab email addresses that allow developers to push issues or tasks to a project are being deliberately exposed in READMEs, contributing guides, and support pages used to collect bug reports. [...]",
@@ -211,26 +231,6 @@
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft fixes bug that broke Windows File History backup feature",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/",
-      "summary": "Microsoft has fixed a known issue that breaks the built-in File History backup feature on some Windows systems after installing the September 2026 security updates. [...]",
-      "published": "Thu, 24 Sep 2026 04:14:47 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Placeholder domain used in dev docs now serves ClickFix attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/",
-      "summary": "The \"third-party.com\" domain, commonly used as a placeholder in developer documentation and code examples, is serving a fake Cloudflare verification page that attempts to trick Windows users into executing PowerShell commands. [...]",
-      "published": "Wed, 23 Sep 2026 18:46:01 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -311,6 +311,27 @@
     },
     {
       "source": "Dark Reading",
+      "title": "'Salesbleed' Exploits Salesforce Agents to Enable Slack Phishing",
+      "link": "https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing",
+      "summary": "Agentic AI can smuggle arbitrary instructions from the Web, across multiple apps, into trusted internal communications channels.",
+      "published": "Thu, 24 Sep 2026 21:04:03 GMT",
+      "value_score": 24,
+      "value_signals": [
+        "Phishing",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "SectopRAT Returns, Hiding Inside a Legitimate Application",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/sectoprat-returns-hiding-inside-legitimate-application",
+      "summary": "The latest activity from the remote access Trojan (RAT) shows why organizations should monitor the behavior of applications rather than blindly trusting them, experts say.",
+      "published": "Thu, 24 Sep 2026 20:32:50 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "3 Cyber Threats That Defined the Summer of 2026",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/3-cyber-threats-defined-summer-2026",
       "summary": "This installment of the Reporters' Notebook video series discusses the impact of AI agents breaching Hugging Face, Fairlife's ransomware attack, and Iranian-linked threat actors compromising a dozen US water systems. It was a busy summer.",
@@ -366,20 +387,11 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "GitLab Email Addresses Can Be Weaponized for Supply Chain Attacks",
-      "link": "https://www.darkreading.com/application-security/gitlab-email-addresses-supply-chain-attacks",
-      "summary": "Incoming email addresses automatically assigned to each user on the platform contain highly privileged access tokens that attackers can use.",
-      "published": "Wed, 23 Sep 2026 20:53:38 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "UAE, Saudi Arabia Face Onslaught of Increasingly Complex Cyberattacks",
-      "link": "https://www.darkreading.com/threat-intelligence/uae-saudi-arabia-face-onslaught-of-increasingly-sophisticated-automated-cyberattacks",
-      "summary": "The United Arab Emirates and Kingdom of Saudi Arabia together absorbed 50% of all cyberattacks recorded across the Gulf region in the first half of 2026.",
-      "published": "Wed, 23 Sep 2026 16:01:00 GMT",
+      "source": "Security Week",
+      "title": "Autonomous AI Hacks Raise Thorny Questions of Legal Accountability",
+      "link": "https://www.securityweek.com/autonomous-ai-hacks-raise-thorny-questions-of-legal-accountability/",
+      "summary": "The prospect of legal accountability is unclear. Lawsuits are a possibility, but some legal experts believe any criminal investigations would face an extremely high burden. The post Autonomous AI Hacks Raise Thorny Questions of Legal Accountability appeared first on SecurityWeek .",
+      "published": "Thu, 24 Sep 2026 20:35:21 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -454,17 +466,6 @@
         "High severity ×2",
         "Multiple CVEs",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Astrana Health Data Breach Impacts Private, Confidential Information",
-      "link": "https://www.securityweek.com/astrana-health-data-breach-impacts-private-confidential-information/",
-      "summary": "Hackers impersonated the company’s personnel and contacted its employees to gain access to Astrana Health’s servers. The post Astrana Health Data Breach Impacts Private, Confidential Information appeared first on SecurityWeek .",
-      "published": "Thu, 24 Sep 2026 09:56:04 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
       ]
     },
     {

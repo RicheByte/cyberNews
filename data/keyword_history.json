@@ -335,7 +335,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2690,
+      "count": 2691,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1285,7 +1285,7 @@
       ]
     },
     "national security risk": {
-      "count": 507,
+      "count": 508,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1382,7 +1382,8 @@
         "2026-09-18",
         "2026-09-21",
         "2026-09-22",
-        "2026-09-23"
+        "2026-09-23",
+        "2026-09-24"
       ]
     },
     "open source millions": {
@@ -3412,7 +3413,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 356,
+      "count": 357,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -22469,11 +22470,12 @@
       ]
     },
     "disclosure threat actors": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-07",
         "2026-09-01",
-        "2026-09-02"
+        "2026-09-02",
+        "2026-09-24"
       ]
     },
     "windows settings backup": {
@@ -26505,7 +26507,7 @@
       ]
     },
     "text history records": {
-      "count": 212,
+      "count": 213,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -27158,7 +27160,7 @@
       ]
     },
     "publicly detailed prior": {
-      "count": 46,
+      "count": 47,
       "dates": [
         "2026-08-12",
         "2026-08-13",
@@ -27422,7 +27424,7 @@
       ]
     },
     "remained walled away": {
-      "count": 69,
+      "count": 70,
       "dates": [
         "2026-08-14",
         "2026-08-15",
@@ -29021,7 +29023,7 @@
       ]
     },
     "sophisticated cybercrime syndicate": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-08-31",
         "2026-09-01",
@@ -29209,7 +29211,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 119,
+      "count": 120,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29845,7 +29847,7 @@
       ]
     },
     "siphoning images collected": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-09-08",
         "2026-09-09",
@@ -31494,7 +31496,7 @@
       ]
     },
     "frontier ai models": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-09-22",
         "2026-09-23",
@@ -31514,9 +31516,10 @@
       ]
     },
     "masking chinese access": {
-      "count": 3,
+      "count": 4,
       "dates": [
-        "2026-09-23"
+        "2026-09-23",
+        "2026-09-24"
       ]
     },
     "privileged access register": {
@@ -31569,14 +31572,14 @@
       ]
     },
     "memory corruption flaws": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-23",
         "2026-09-24"
       ]
     },
     "control enterprise infrastructure": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-23",
         "2026-09-24"
@@ -31590,14 +31593,14 @@
       ]
     },
     "mikrotik routers without": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-23",
         "2026-09-24"
       ]
     },
     "run ci jobs": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-23",
         "2026-09-24"
@@ -31617,39 +31620,34 @@
       ]
     },
     "tvtap iptv application": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-23",
         "2026-09-24"
       ]
     },
     "security gateway product": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-23",
         "2026-09-24"
       ]
     },
     "quantum error correction": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-23",
+        "2026-09-24"
+      ]
+    },
+    "wordpress within hours": {
+      "count": 1,
+      "dates": [
         "2026-09-24"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-05 19:49",
-      "articles": 48,
-      "top_keywords": [
-        "1 1 billion",
-        "universities threat actors",
-        "conduct command execution",
-        "individuals whose licenses",
-        "arbitrary code execution"
-      ]
-    },
     {
       "timestamp": "2026-09-05 21:50",
       "articles": 48,
@@ -32736,6 +32734,17 @@
         "causing harm emerging",
         "frontier ai models",
         "run ci jobs",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-09-24 08:56",
+      "articles": 48,
+      "top_keywords": [
+        "disclosure threat actors",
+        "mikrotik routers without",
+        "frontier ai models",
+        "wordpress within hours",
         "twitter whistleblower complaint"
       ]
     }

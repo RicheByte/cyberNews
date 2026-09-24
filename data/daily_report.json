@@ -1,72 +1,105 @@
 {
-  "last_updated": "2026-09-24 02:46",
+  "last_updated": "2026-09-24 08:56",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
+    "disclosure threat actors",
     "mikrotik routers without",
-    "causing harm emerging",
     "frontier ai models",
-    "run ci jobs",
+    "wordpress within hours",
     "twitter whistleblower complaint",
     "remained walled away",
-    "released security patches",
     "memory corruption flaws",
+    "masking chinese access",
     "individuals whose licenses",
     "control enterprise infrastructure",
     "arbitrary code execution",
     "sophisticated cybercrime syndicate",
+    "security gateway product",
+    "national security risk",
     "tvtap iptv application",
     "text history records",
     "siphoning images collected",
-    "security gateway product",
-    "released fixed versions",
+    "run ci jobs",
     "quantum error correction",
-    "publicly detailed prior",
-    "project mail sent"
+    "publicly detailed prior"
   ],
   "trending": [
     {
-      "keyword": "mikrotik routers without",
-      "mentions": 3
+      "keyword": "disclosure threat actors",
+      "mentions": 7
     },
     {
-      "keyword": "causing harm emerging",
+      "keyword": "mikrotik routers without",
       "mentions": 4
     },
     {
       "keyword": "frontier ai models",
-      "mentions": 7
+      "mentions": 8
     },
     {
-      "keyword": "run ci jobs",
-      "mentions": 3
+      "keyword": "wordpress within hours",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2690
+      "mentions": 2691
     },
     {
       "keyword": "remained walled away",
-      "mentions": 69
-    },
-    {
-      "keyword": "released security patches",
-      "mentions": 5
+      "mentions": 70
     },
     {
       "keyword": "memory corruption flaws",
+      "mentions": 5
+    },
+    {
+      "keyword": "masking chinese access",
       "mentions": 4
     },
     {
       "keyword": "individuals whose licenses",
-      "mentions": 119
+      "mentions": 120
     },
     {
       "keyword": "control enterprise infrastructure",
-      "mentions": 4
+      "mentions": 5
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
+      "link": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
+      "summary": "An AI agent on an internal OpenAI research task bypassed access controls on an Australian government Medicare statistics portal in June, Prime Minister Anthony Albanese said. The portal publishes aggregate figures, such as spending, and is separate from the systems that handle Medicare claims and personal records. The agent reached files on it that were not public, but no personal",
+      "published": "Thu, 24 Sep 2026 12:37:25 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords",
+      "link": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
+      "summary": "Cybersecurity researchers have disclosed details of an active TeamFiltration campaign codenamed UNK_CondorFiltration that has targeted over 5,700 accounts across 28 Microsoft 365 tenants. According to Proofpoint, the activity has primarily focused on Chilean retail and financial institutions. It originated from 1,487 unique AWS EC2 source IP addresses. \"The campaign compromised 7 accounts –",
+      "published": "Thu, 24 Sep 2026 12:02:03 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
+      "summary": "Threat actors have begun to actively exploit a critical security flaw in WordPress within hours of public disclosure. The vulnerability in question is CVE-2026-87902 (CVSS score: 9.2), which could allow an unauthenticated attacker to obtain remote code execution (RCE). \"An unauthenticated attacker can make get_page_template() page-template resolution include a chosen readable local .php file",
+      "published": "Thu, 24 Sep 2026 11:06:18 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "RCE ×2",
+        "High severity",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
@@ -118,33 +151,15 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
-      "link": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
-      "summary": "A flaw in cPanel's CalDAV and CardDAV service lets anyone with a cPanel hosting account run code as root and take \"full control of the server,\" the company said on September 22. A second bug in the WP Toolkit plugin, used to install and manage WordPress sites, allows an account holder to change databases that belong to other accounts. cPanel has released fixed versions for both,",
-      "published": "Wed, 23 Sep 2026 17:46:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Microsoft fixes bug that broke Windows File History backup feature",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/",
+      "summary": "Microsoft has fixed a known issue that breaks the built-in File History backup feature on some Windows systems after installing the September 2026 security updates. [...]",
+      "published": "Thu, 24 Sep 2026 04:14:47 -0400",
       "value_score": 18,
       "value_signals": [
         "Patch/update"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
-      "link": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html",
-      "summary": "Autonomous security agents are getting good at finding bugs. Nobody has a good way to measure how good. Point one at a realistic target and what comes back is a report the agent wrote about itself: confident prose, a list of findings, and no way to tell which of them happened. Someone with a security background then sits down and checks every claim against the target. Which findings are real,",
-      "published": "Wed, 23 Sep 2026 17:17:19 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests",
-      "link": "https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html",
-      "summary": "Anthropic and OpenAI on Tuesday announced new models, with both artificial intelligence (AI) companies noting that they are continuing to invest in improving alignment to combat risky behavior. Opus 5.5, per Anthropic, is a \"major step up from Opus 5,\" and \"achieves the best scores of any model to date on our automated behavioral audit, our alignment suite that tests Claude across thousands",
-      "published": "Wed, 23 Sep 2026 17:17:13 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -221,19 +236,6 @@
       "value_score": 28,
       "value_signals": [
         "Privilege escalation",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Arista patches actively exploited VeloCloud Orchestrator zero-day",
-      "link": "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/",
-      "summary": "Arista Networks has released security patches for a zero-day flaw that is being actively exploited and affects VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
-      "published": "Wed, 23 Sep 2026 08:29:53 -0400",
-      "value_score": 100,
-      "value_signals": [
-        "Zero-day ×2",
-        "Active exploitation ×2",
         "Exploit wording"
       ]
     },
@@ -394,9 +396,33 @@
     },
     {
       "source": "Security Week",
-      "title": "IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU DecoderIonQ Says Sin",
+      "title": "US Court Sentences Armenian Man to Prison for Ryuk Ransomware Attacks",
+      "link": "https://www.securityweek.com/us-court-sentences-armenian-man-to-prison-for-ryuk-ransomware-attacks/",
+      "summary": "Karen Vardanyan has also been ordered to pay over $1.2 million in restitution to victims. The post US Court Sentences Armenian Man to Prison for Ryuk Ransomware Attacks appeared first on SecurityWeek .",
+      "published": "Thu, 24 Sep 2026 08:38:29 +0000",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Critical WordPress Vulnerability Exploited Immediately After Disclosure",
+      "link": "https://www.securityweek.com/critical-wordpress-vulnerability-exploited-immediately-after-disclosure/",
+      "summary": "Tracked as CVE-2026-87902, the path traversal flaw allows remote, unauthenticated attackers to execute arbitrary code. The post Critical WordPress Vulnerability Exploited Immediately After Disclosure appeared first on SecurityWeek .",
+      "published": "Thu, 24 Sep 2026 07:12:26 +0000",
+      "value_score": 50,
+      "value_signals": [
+        "CVE mentioned",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU Decoder",
       "link": "https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/",
-      "summary": "IonQ’s new single processor quantum error decoder minimizes the classical computing overhead in quantum error correction. The post IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU DecoderIonQ Says Sin appeared first on SecurityWeek .",
+      "summary": "IonQ’s new single processor quantum error decoder minimizes the classical computing overhead in quantum error correction. The post IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU Decoder appeared first on SecurityWeek .",
       "published": "Wed, 23 Sep 2026 19:32:49 +0000",
       "value_score": 10,
       "value_signals": []
@@ -454,24 +480,6 @@
         "Patch/update",
         "High severity"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "A Look at AI Doomsday Scenarios That Researchers Say Could Put Humanity at Risk",
-      "link": "https://www.securityweek.com/a-look-at-ai-doomsday-scenarios-that-researchers-say-could-put-humanity-at-risk/",
-      "summary": "Debates over the plausibility of these doomsday scenarios have heated up since several executives endorsed slowing the technology’s development for safety reasons. The post A Look at AI Doomsday Scenarios That Researchers Say Could Put Humanity at Risk appeared first on SecurityWeek .",
-      "published": "Wed, 23 Sep 2026 10:20:36 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Outerlimit Raises $16 Million to Stop Rogue AI Agents From Causing Harm",
-      "link": "https://www.securityweek.com/outerlimit-raises-16-million-to-stop-rogue-ai-agents-from-causing-harm/",
-      "summary": "Emerging from stealth with $16 million in pre-seed funding, Outerlimit offers a decentralized authorization layer designed to discover, observe, and block harmful autonomous AI actions. The post Outerlimit Raises $16 Million to Stop Rogue AI Agents From Causing Harm appeared first on SecurityWeek .",
-      "published": "Wed, 23 Sep 2026 10:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

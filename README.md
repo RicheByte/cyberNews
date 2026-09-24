@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-24 02:46 UTC |
+| 🕐 Last Updated | 2026-09-24 08:56 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`mikrotik routers without` • `causing harm emerging` • `frontier ai models` • `run ci jobs` • `twitter whistleblower complaint` • `remained walled away` • `released security patches` • `memory corruption flaws` • `individuals whose licenses` • `control enterprise infrastructure`
+`disclosure threat actors` • `mikrotik routers without` • `frontier ai models` • `wordpress within hours` • `twitter whistleblower complaint` • `remained walled away` • `memory corruption flaws` • `masking chinese access` • `individuals whose licenses` • `control enterprise infrastructure`
 
 ## 📄 Reports
 

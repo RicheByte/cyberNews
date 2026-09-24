@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-24 02:46 UTC  
+> **Last Updated:** 2026-09-24 08:56 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mikrotik routers without** • **causing harm emerging** • **frontier ai models** • **run ci jobs** • **twitter whistleblower complaint** • **remained walled away** • **released security patches** • **memory corruption flaws** • **individuals whose licenses** • **control enterprise infrastructure** • **arbitrary code execution** • **sophisticated cybercrime syndicate** • **tvtap iptv application** • **text history records** • **siphoning images collected** • **security gateway product** • **released fixed versions** • **quantum error correction** • **publicly detailed prior** • **project mail sent**
+**disclosure threat actors** • **mikrotik routers without** • **frontier ai models** • **wordpress within hours** • **twitter whistleblower complaint** • **remained walled away** • **memory corruption flaws** • **masking chinese access** • **individuals whose licenses** • **control enterprise infrastructure** • **arbitrary code execution** • **sophisticated cybercrime syndicate** • **security gateway product** • **national security risk** • **tvtap iptv application** • **text history records** • **siphoning images collected** • **run ci jobs** • **quantum error correction** • **publicly detailed prior**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files](https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html)
+- [TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords](https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html)
+- [Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure](https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html)
 - [Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry](https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html)
 - [A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You](https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html)
 - [MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key](https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html)
 - [This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move](https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html)
 - [Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI](https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html)
-- [New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control](https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html)
-- [545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent](https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html)
-- [Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests](https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html)
 
 ### BleepingComputer
 
+- [Microsoft fixes bug that broke Windows File History backup feature](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/)
 - [Placeholder domain used in dev docs now serves ClickFix attacks](https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/)
 - [New RemControl Android banking malware targets users in Europe and Canada](https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/)
 - [Check Point warns of hackers exploiting Security Gateway VPN RCE flaw](https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/)
@@ -34,7 +35,6 @@
 - [Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers](https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/)
 - [InfraTrust report warns network management systems under attack](https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/)
 - [How One Kubernetes YAML Can Hand Over a GCP Organization](https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/)
-- [Arista patches actively exploited VeloCloud Orchestrator zero-day](https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
-- [IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU DecoderIonQ Says Sin](https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/)
+- [US Court Sentences Armenian Man to Prison for Ryuk Ransomware Attacks](https://www.securityweek.com/us-court-sentences-armenian-man-to-prison-for-ryuk-ransomware-attacks/)
+- [Critical WordPress Vulnerability Exploited Immediately After Disclosure](https://www.securityweek.com/critical-wordpress-vulnerability-exploited-immediately-after-disclosure/)
+- [IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU Decoder](https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/)
 - [Worries About an AI Internet Takeover Gain New Urgency Among Doomsday Scenarios](https://www.securityweek.com/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios/)
 - [Honeywell: OT Security Teams Embrace AI, but Autonomy Still Rare](https://www.securityweek.com/honeywell-ot-security-teams-embrace-ai-but-autonomy-still-rare/)
 - [Adobe Patches Critical Flaws in Connect, AEM Forms](https://www.securityweek.com/adobe-patches-critical-flaws-in-connect-aem-forms/)
 - [AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft](https://www.securityweek.com/ai-powered-phishing-platform-eviltokens-disrupted-by-microsoft/)
 - [Chrome 154 Patches 108 Vulnerabilities](https://www.securityweek.com/chrome-154-patches-108-vulnerabilities/)
-- [A Look at AI Doomsday Scenarios That Researchers Say Could Put Humanity at Risk](https://www.securityweek.com/a-look-at-ai-doomsday-scenarios-that-researchers-say-could-put-humanity-at-risk/)
-- [Outerlimit Raises $16 Million to Stop Rogue AI Agents From Causing Harm](https://www.securityweek.com/outerlimit-raises-16-million-to-stop-rogue-ai-agents-from-causing-harm/)
 
 ### Threatpost
 

@@ -335,7 +335,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2691,
+      "count": 2692,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1238,7 +1238,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 192,
+      "count": 193,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -1272,7 +1272,8 @@
         "2026-08-20",
         "2026-08-21",
         "2026-08-24",
-        "2026-08-25"
+        "2026-08-25",
+        "2026-09-24"
       ]
     },
     "denmark's critical infrastructure": {
@@ -2054,7 +2055,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 613,
+      "count": 614,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2173,7 +2174,8 @@
         "2026-09-06",
         "2026-09-08",
         "2026-09-09",
-        "2026-09-10"
+        "2026-09-10",
+        "2026-09-24"
       ]
     },
     "model agnostic abstractions": {
@@ -20368,7 +20370,7 @@
       ]
     },
     "security experts warn": {
-      "count": 60,
+      "count": 61,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -20386,7 +20388,8 @@
         "2026-09-20",
         "2026-09-21",
         "2026-09-22",
-        "2026-09-23"
+        "2026-09-23",
+        "2026-09-24"
       ]
     },
     "targets 217 banking": {
@@ -22470,7 +22473,7 @@
       ]
     },
     "disclosure threat actors": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-07",
         "2026-09-01",
@@ -26507,7 +26510,7 @@
       ]
     },
     "text history records": {
-      "count": 213,
+      "count": 214,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -27160,7 +27163,7 @@
       ]
     },
     "publicly detailed prior": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2026-08-12",
         "2026-08-13",
@@ -27424,7 +27427,7 @@
       ]
     },
     "remained walled away": {
-      "count": 70,
+      "count": 71,
       "dates": [
         "2026-08-14",
         "2026-08-15",
@@ -29023,7 +29026,7 @@
       ]
     },
     "sophisticated cybercrime syndicate": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-08-31",
         "2026-09-01",
@@ -29211,7 +29214,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 120,
+      "count": 121,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29553,7 +29556,7 @@
       ]
     },
     "defraud online merchants": {
-      "count": 54,
+      "count": 55,
       "dates": [
         "2026-09-04",
         "2026-09-05",
@@ -29566,7 +29569,8 @@
         "2026-09-20",
         "2026-09-21",
         "2026-09-22",
-        "2026-09-23"
+        "2026-09-23",
+        "2026-09-24"
       ]
     },
     "allows unauthenticated attackers": {
@@ -29847,7 +29851,7 @@
       ]
     },
     "siphoning images collected": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-09-08",
         "2026-09-09",
@@ -31600,7 +31604,7 @@
       ]
     },
     "run ci jobs": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-23",
         "2026-09-24"
@@ -31620,7 +31624,7 @@
       ]
     },
     "tvtap iptv application": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-23",
         "2026-09-24"
@@ -31641,6 +31645,36 @@
       ]
     },
     "wordpress within hours": {
+      "count": 2,
+      "dates": [
+        "2026-09-24"
+      ]
+    },
+    "australian government portal": {
+      "count": 1,
+      "dates": [
+        "2026-09-24"
+      ]
+    },
+    "1 billion since": {
+      "count": 1,
+      "dates": [
+        "2026-09-24"
+      ]
+    },
+    "1 2 million": {
+      "count": 1,
+      "dates": [
+        "2026-09-24"
+      ]
+    },
+    "stronger evidence requirements": {
+      "count": 1,
+      "dates": [
+        "2026-09-24"
+      ]
+    },
+    "poisoning chatgpt gemini": {
       "count": 1,
       "dates": [
         "2026-09-24"
@@ -31648,17 +31682,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-05 21:50",
-      "articles": 48,
-      "top_keywords": [
-        "1 1 billion",
-        "universities threat actors",
-        "conduct command execution",
-        "arbitrary code execution",
-        "individuals whose licenses"
-      ]
-    },
     {
       "timestamp": "2026-09-05 23:29",
       "articles": 48,
@@ -32746,6 +32769,17 @@
         "frontier ai models",
         "wordpress within hours",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-09-24 14:34",
+      "articles": 48,
+      "top_keywords": [
+        "critical security flaw",
+        "twitter whistleblower complaint",
+        "individuals whose licenses",
+        "australian government portal",
+        "1 billion since"
       ]
     }
   ]

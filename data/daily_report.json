@@ -1,72 +1,101 @@
 {
-  "last_updated": "2026-09-24 08:56",
+  "last_updated": "2026-09-24 14:34",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "disclosure threat actors",
-    "mikrotik routers without",
-    "frontier ai models",
-    "wordpress within hours",
+    "critical security flaw",
     "twitter whistleblower complaint",
-    "remained walled away",
-    "memory corruption flaws",
-    "masking chinese access",
     "individuals whose licenses",
-    "control enterprise infrastructure",
-    "arbitrary code execution",
-    "sophisticated cybercrime syndicate",
-    "security gateway product",
-    "national security risk",
+    "australian government portal",
+    "1 billion since",
+    "disclosure threat actors",
+    "defraud online merchants",
+    "1 2 million",
+    "wordpress within hours",
     "tvtap iptv application",
     "text history records",
+    "stronger evidence requirements",
+    "sprawling phishing campaign",
+    "sophisticated cybercrime syndicate",
     "siphoning images collected",
+    "security experts warn",
     "run ci jobs",
-    "quantum error correction",
-    "publicly detailed prior"
+    "remained walled away",
+    "publicly detailed prior",
+    "poisoning chatgpt gemini"
   ],
   "trending": [
     {
-      "keyword": "disclosure threat actors",
-      "mentions": 7
-    },
-    {
-      "keyword": "mikrotik routers without",
-      "mentions": 4
-    },
-    {
-      "keyword": "frontier ai models",
-      "mentions": 8
-    },
-    {
-      "keyword": "wordpress within hours",
-      "mentions": 1
+      "keyword": "critical security flaw",
+      "mentions": 193
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2691
-    },
-    {
-      "keyword": "remained walled away",
-      "mentions": 70
-    },
-    {
-      "keyword": "memory corruption flaws",
-      "mentions": 5
-    },
-    {
-      "keyword": "masking chinese access",
-      "mentions": 4
+      "mentions": 2692
     },
     {
       "keyword": "individuals whose licenses",
-      "mentions": 120
+      "mentions": 121
     },
     {
-      "keyword": "control enterprise infrastructure",
-      "mentions": 5
+      "keyword": "australian government portal",
+      "mentions": 1
+    },
+    {
+      "keyword": "1 billion since",
+      "mentions": 1
+    },
+    {
+      "keyword": "disclosure threat actors",
+      "mentions": 8
+    },
+    {
+      "keyword": "defraud online merchants",
+      "mentions": 55
+    },
+    {
+      "keyword": "1 2 million",
+      "mentions": 1
+    },
+    {
+      "keyword": "wordpress within hours",
+      "mentions": 2
+    },
+    {
+      "keyword": "tvtap iptv application",
+      "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Corp MDM Spyware Targets Logistics Firms, Steals New SMS and Redirects Calls",
+      "link": "https://thehackernews.com/2026/09/corp-mdm-spyware-targets-logistics.html",
+      "summary": "The logistics sector has become the target of a new malicious cyber campaign that distributes an Android spyware codenamed Corp MDM. According to Have I Been Squatted, the campaign uses fake Google Play pages branded as CEVA and TKW Logistics to distribute an Android Package Kit (APK) file that's dressed up as a system service. The delivered app has the package name \"com.corp.mdm\" Corp MDM",
+      "published": "Thu, 24 Sep 2026 17:35:27 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore",
+      "link": "https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html",
+      "summary": "AI coding agents are changing how quickly developers can build and ship software as well as how quickly credentials can become exposed. According to GitGuardian’s 2026 State of Secrets Sprawl Report, commits identified as AI-assisted are leaking secrets at approximately twice the rate of human-written ones. Most of the fastest-growing categories of leaked credentials are now connected to AI",
+      "published": "Thu, 24 Sep 2026 16:30:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360",
+      "link": "https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html",
+      "summary": "ClickFix has become the most common way attackers get into enterprise networks, and it does it without an exploit, an attachment, or a file on disk. Our new global threat report traces the technique from a novelty in late 2023 to a subscription product with on-chain infrastructure and a state-sponsored user base, and explains why blocking malicious domains is no longer a useful defense. Read",
+      "published": "Thu, 24 Sep 2026 14:44:21 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
@@ -121,34 +150,62 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
-      "link": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
-      "summary": "Two MikroTik RouterOS SSH vulnerabilities chained together let attackers take full administrative control of Internet-exposed routers without a password, SSH key, or completed authentication. The chain, which CERT Polska calls MikroTrick, combines an SSH state-machine flaw (CVE-2026-67279) with an argument-injection bug in the RouterOS login process (CVE-2026-86060). Attack logs date to at",
-      "published": "Wed, 23 Sep 2026 21:36:41 +0530",
-      "value_score": 54,
+      "source": "BleepingComputer",
+      "title": "FedRAMP VDR & VER: Daily Scans Are Only the Beginning",
+      "link": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
+      "summary": "FedRAMP's new VDR and VER requirements make vulnerability management more continuous, with faster scanning, tighter remediation deadlines, and stronger evidence requirements. Anecdotes explains why the December 7 deadline is just the beginning of a broader shift toward continuous, automated compliance validation. [...]",
+      "published": "Thu, 24 Sep 2026 10:02:12 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Hackers now exploit critical Roundcube flaw in code injection attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/",
+      "summary": "A high-severity Roundcube Webmail vulnerability patched in May is now being actively exploited in attacks, according to the Canadian Centre for Cyber Security. [...]",
+      "published": "Thu, 24 Sep 2026 09:27:57 -0400",
+      "value_score": 49,
       "value_signals": [
-        "CVE mentioned ×2",
-        "Multiple CVEs"
+        "Active exploitation",
+        "High severity",
+        "Exploit wording"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
-      "link": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
-      "summary": "A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server, Cisco Talos said on September 22. The models can choose to steal Windows credentials, saved browser passwords, and crypto wallet data. Talos has not seen this setup work from start to finish, and the public version of the malware does not work as it is.",
-      "published": "Wed, 23 Sep 2026 19:47:58 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Windows 11 KB5124010 update released with 46 changes and fixes",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124010-update-released-with-46-changes-and-fixes/",
+      "summary": "Microsoft released the KB5124010 September 2026 non-security preview update for Windows 11 24H2 and 25H2, with 46 changes including Bluetooth improvements and the ability to remap the Copilot key. [...]",
+      "published": "Thu, 24 Sep 2026 08:16:32 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×2"
+      ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
-      "link": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
-      "summary": "Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit designed for Windows, Linux, and macOS. According to reports from Aikido, SafeDep, Socket, and StepSecurity, the libraries in question below - @memtensor/memos-cloud-openclaw-plugin versions",
-      "published": "Wed, 23 Sep 2026 19:22:46 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "CISA: Ransomware gangs now exploiting critical TeamCity flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/",
+      "summary": "​The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies on Wednesday that ransomware gangs are now also exploiting a critical JetBrains TeamCity vulnerability patched in July. [...]",
+      "published": "Thu, 24 Sep 2026 06:42:37 -0400",
+      "value_score": 100,
+      "value_signals": [
+        "Ransomware ×2",
+        "CISA/KEV ×2",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "OpenAI hacked Australian Medicare govt site, probed data providers",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/",
+      "summary": "OpenAI agents targeted public data providers in multiple countries, probing some for vulnerabilities and exploiting a security weakness in an Australian government portal while performing information-retrieval tasks as part of a research project. [...]",
+      "published": "Thu, 24 Sep 2026 05:38:53 -0400",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -178,66 +235,6 @@
       "published": "Wed, 23 Sep 2026 17:25:13 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/",
-      "summary": "Cybersecurity company Check Point has confirmed active exploitation of CVE-2026-85102, a pre-authentication remote code execution (RCE) vulnerability in the VPN certificate-handling functionality of its Security Gateway product. [...]",
-      "published": "Wed, 23 Sep 2026 15:53:54 -0400",
-      "value_score": 74,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE ×3",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers start exploiting critical WordPress flaw for code execution",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
-      "summary": "Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell commands when accessed. [...]",
-      "published": "Wed, 23 Sep 2026 14:31:22 -0400",
-      "value_score": 42,
-      "value_signals": [
-        "CVE mentioned",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
-      "summary": "A financially motivated threat actor is using open-source AI agent frameworks to attack hundreds of online retailers at scale, stealing more than 600,000 credit card records. [...]",
-      "published": "Wed, 23 Sep 2026 12:20:54 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "InfraTrust report warns network management systems under attack",
-      "link": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/",
-      "summary": "Attackers are increasingly targeting the management systems used to control enterprise infrastructure, with several critical vulnerabilities actively exploited before or shortly after vendors disclosed them. [...]",
-      "published": "Wed, 23 Sep 2026 10:35:26 -0400",
-      "value_score": 49,
-      "value_signals": [
-        "Active exploitation",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "How One Kubernetes YAML Can Hand Over a GCP Organization",
-      "link": "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/",
-      "summary": "A Kubernetes user with limited permissions can potentially gain control of an entire Google Cloud organization by exploiting the authority granted to Google Kubernetes Config Connector. Varonis explains how this confused deputy problem can turn a single Kubernetes YAML file into a path to organization-wide privilege escalation. [...]",
-      "published": "Wed, 23 Sep 2026 10:01:11 -0400",
-      "value_score": 28,
-      "value_signals": [
-        "Privilege escalation",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -318,6 +315,42 @@
     },
     {
       "source": "Dark Reading",
+      "title": "How to Build A SASE Framework for Modern Cybersecurity",
+      "link": "https://www.darkreading.com/cloud-security/how-to-build-sase-framework",
+      "summary": "Keeping edge computing safe requires organizations to fundamentally rethink security governance. Here is a path forward: a step-by-step guide to building a SASE framework.",
+      "published": "Thu, 24 Sep 2026 14:02:43 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Ghost Service Accounts Enable M365 Data Theft in Chile",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ghost-service-accounts-m365-data-theft-chile",
+      "summary": "Even if the organization locks down employee accounts, forgotten and lost service accounts can still undo the organization's entire M365 environment.",
+      "published": "Thu, 24 Sep 2026 13:30:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Prompt-Injection Bug Hits $4B Agentic AI App 'Manus'",
+      "link": "https://www.darkreading.com/application-security/prompt-injection-bug-agentic-ai-app-manus",
+      "summary": "AI apps that interpret external data (read: most AI apps) need exceptionally rigorous security filters, or attackers can take advantage.",
+      "published": "Thu, 24 Sep 2026 13:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "SASE Converges Network &amp; Security Into One Cloud Solution",
+      "link": "https://www.darkreading.com/cloud-security/sase-converges-network-security-one-cloud",
+      "summary": "Enterprise computing is moving to the edge. Keeping it secure requires tactics far beyond putting up firewalls.",
+      "published": "Wed, 23 Sep 2026 22:29:10 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "EDR Evasion Stack Helps Process Injection Slip Past Defenses",
       "link": "https://www.darkreading.com/endpoint-security/edr-evasion-stack-helps-process-injection-slip-past-defenses",
       "summary": "A process parameter-poisoning technique evades EDR by injecting code into process initialization structures without using the Windows APIs that EDR tools typically watch out for.",
@@ -355,43 +388,69 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Relays Are Masking Chinese Access to Frontier AI Models in the US",
-      "link": "https://www.darkreading.com/cyber-risk/relays-masking-chinese-access-frontier-ai-models",
-      "summary": "More than 80,000 AI relay servers are helping users in China mask their identities while they access cutting-edge large language models (LLMs), probably to clone them.",
-      "published": "Tue, 22 Sep 2026 21:12:37 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "How the CISO-CMO Alliance Builds Trust Before Crisis Strikes",
-      "link": "https://www.darkreading.com/cybersecurity-operations/how-ciso-cmo-alliance-builds-trust-before-crisis",
-      "summary": "Cybersecurity and brand reputation are inextricably linked. Security and marketing leaders who establish regular touchpoints, develop joint crisis communications plans, and translate security risks into their brand impact position their organizations to significantly outperform those treating security as an operational IT concern.",
-      "published": "Tue, 22 Sep 2026 20:55:53 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Microsoft Disrupts EvilTokens Device Code Phishing Service",
-      "link": "https://www.darkreading.com/identity-access-management-security/microsoft-disrupts-eviltokens-device-code-phishing-service",
-      "summary": "Microsoft seized 50 websites and disabled more than 150 domains as part of a coordinated disruption effort against a phishing-as-a-service platform targeting Microsoft 365 accounts.",
-      "published": "Tue, 22 Sep 2026 20:02:02 GMT",
-      "value_score": 26,
+      "source": "Security Week",
+      "title": "AI-Powered Campaign Targets Hundreds of Online Retailers",
+      "link": "https://www.securityweek.com/ai-powered-campaign-targets-hundreds-of-online-retailers/",
+      "summary": "A threat actor is using three AI harnesses for vulnerability research, exploitation, and attack orchestration. The post AI-Powered Campaign Targets Hundreds of Online Retailers appeared first on SecurityWeek .",
+      "published": "Thu, 24 Sep 2026 12:48:14 +0000",
+      "value_score": 16,
       "value_signals": [
-        "Phishing ×2"
+        "Exploit wording"
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Deception by Design: CISA's Guide to Tricking Cybercriminals",
-      "link": "https://www.darkreading.com/cybersecurity-operations/deception-by-design-cisa-s-guide-to-tricking-cybercriminals",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) is going old school to help organizations with limited resources set traps for hackers.",
-      "published": "Tue, 22 Sep 2026 19:59:24 GMT",
+      "source": "Security Week",
+      "title": "Island Raises $400 Million at $6.4 Billion Valuation",
+      "link": "https://www.securityweek.com/island-raises-400-million-at-6-4-billion-valuation/",
+      "summary": "The enterprise security firm has raised more than $1 billion since its launch in 2020; Evolution Equity Partners led the latest funding round. The post Island Raises $400 Million at $6.4 Billion Valuation appeared first on SecurityWeek .",
+      "published": "Thu, 24 Sep 2026 11:39:09 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "OT Security Guidance: NIST Drafts Updated Guide, CISA/FBI Advise on ICS Integrators",
+      "link": "https://www.securityweek.com/ot-security-guidance-nist-drafts-updated-guide-cisa-fbi-advise-on-ics-integrators/",
+      "summary": "Revision 4 of NIST’s operational technology security guide is open for public comments until November 30. The post OT Security Guidance: NIST Drafts Updated Guide, CISA/FBI Advise on ICS Integrators appeared first on SecurityWeek .",
+      "published": "Thu, 24 Sep 2026 11:05:16 +0000",
       "value_score": 50,
       "value_signals": [
         "CISA/KEV ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Begin at the End: How to Enable Agentic Remediation",
+      "link": "https://www.securityweek.com/begin-at-the-end-how-to-enable-agentic-remediation/",
+      "summary": "Agentic remediation is not an act of faith. We are talking about fixing known problems, not judgment calls about unfamiliar risk. The post Begin at the End: How to Enable Agentic Remediation appeared first on SecurityWeek .",
+      "published": "Thu, 24 Sep 2026 11:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "SolarWinds Patches Critical RCE Flaws in Observability Self-Hosted",
+      "link": "https://www.securityweek.com/solarwinds-patches-critical-rce-flaws-in-observability-self-hosted/",
+      "summary": "The vulnerabilities, tracked as CVE-2026-28324 and CVE-2026-28325, can be exploited without authentication. The post SolarWinds Patches Critical RCE Flaws in Observability Self-Hosted appeared first on SecurityWeek .",
+      "published": "Thu, 24 Sep 2026 10:40:40 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "RCE ×2",
+        "High severity ×2",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Astrana Health Data Breach Impacts Private, Confidential Information",
+      "link": "https://www.securityweek.com/astrana-health-data-breach-impacts-private-confidential-information/",
+      "summary": "Hackers impersonated the company’s personnel and contacted its employees to gain access to Astrana Health’s servers. The post Astrana Health Data Breach Impacts Private, Confidential Information appeared first on SecurityWeek .",
+      "published": "Thu, 24 Sep 2026 09:56:04 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
       ]
     },
     {
@@ -416,69 +475,6 @@
         "CVE mentioned",
         "High severity ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU Decoder",
-      "link": "https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/",
-      "summary": "IonQ’s new single processor quantum error decoder minimizes the classical computing overhead in quantum error correction. The post IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU Decoder appeared first on SecurityWeek .",
-      "published": "Wed, 23 Sep 2026 19:32:49 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Worries About an AI Internet Takeover Gain New Urgency Among Doomsday Scenarios",
-      "link": "https://www.securityweek.com/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios/",
-      "summary": "The idea that AI could break away and work toward its own agenda is looking increasingly plausible to researchers and experts. The post Worries About an AI Internet Takeover Gain New Urgency Among Doomsday Scenarios appeared first on SecurityWeek .",
-      "published": "Wed, 23 Sep 2026 18:05:58 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Honeywell: OT Security Teams Embrace AI, but Autonomy Still Rare",
-      "link": "https://www.securityweek.com/honeywell-ot-security-teams-embrace-ai-but-autonomy-still-rare/",
-      "summary": "Only 21% of industrial security leaders report a complete OT asset inventory, even as 88% call their programs mature. The post Honeywell: OT Security Teams Embrace AI, but Autonomy Still Rare appeared first on SecurityWeek .",
-      "published": "Wed, 23 Sep 2026 12:17:28 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Adobe Patches Critical Flaws in Connect, AEM Forms",
-      "link": "https://www.securityweek.com/adobe-patches-critical-flaws-in-connect-aem-forms/",
-      "summary": "The nine critical security defects could be exploited for arbitrary code execution and privilege escalation. The post Adobe Patches Critical Flaws in Connect, AEM Forms appeared first on SecurityWeek .",
-      "published": "Wed, 23 Sep 2026 11:40:59 +0000",
-      "value_score": 44,
-      "value_signals": [
-        "Privilege escalation",
-        "High severity ×3",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft",
-      "link": "https://www.securityweek.com/ai-powered-phishing-platform-eviltokens-disrupted-by-microsoft/",
-      "summary": "The cybercrime platform leveraged AI at every step of the attack chain, including writing social engineering messages and deciding targets. The post AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft appeared first on SecurityWeek .",
-      "published": "Wed, 23 Sep 2026 11:23:30 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Chrome 154 Patches 108 Vulnerabilities",
-      "link": "https://www.securityweek.com/chrome-154-patches-108-vulnerabilities/",
-      "summary": "The browser update resolves several critical-severity memory safety and memory corruption flaws. The post Chrome 154 Patches 108 Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Wed, 23 Sep 2026 10:36:07 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update",
-        "High severity"
       ]
     },
     {

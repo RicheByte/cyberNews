@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-24 08:56 UTC |
+| 🕐 Last Updated | 2026-09-24 14:34 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`disclosure threat actors` • `mikrotik routers without` • `frontier ai models` • `wordpress within hours` • `twitter whistleblower complaint` • `remained walled away` • `memory corruption flaws` • `masking chinese access` • `individuals whose licenses` • `control enterprise infrastructure`
+`critical security flaw` • `twitter whistleblower complaint` • `individuals whose licenses` • `australian government portal` • `1 billion since` • `disclosure threat actors` • `defraud online merchants` • `1 2 million` • `wordpress within hours` • `tvtap iptv application`
 
 ## 📄 Reports
 

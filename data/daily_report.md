@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-24 08:56 UTC  
+> **Last Updated:** 2026-09-24 14:34 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**disclosure threat actors** • **mikrotik routers without** • **frontier ai models** • **wordpress within hours** • **twitter whistleblower complaint** • **remained walled away** • **memory corruption flaws** • **masking chinese access** • **individuals whose licenses** • **control enterprise infrastructure** • **arbitrary code execution** • **sophisticated cybercrime syndicate** • **security gateway product** • **national security risk** • **tvtap iptv application** • **text history records** • **siphoning images collected** • **run ci jobs** • **quantum error correction** • **publicly detailed prior**
+**critical security flaw** • **twitter whistleblower complaint** • **individuals whose licenses** • **australian government portal** • **1 billion since** • **disclosure threat actors** • **defraud online merchants** • **1 2 million** • **wordpress within hours** • **tvtap iptv application** • **text history records** • **stronger evidence requirements** • **sprawling phishing campaign** • **sophisticated cybercrime syndicate** • **siphoning images collected** • **security experts warn** • **run ci jobs** • **remained walled away** • **publicly detailed prior** • **poisoning chatgpt gemini**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [Corp MDM Spyware Targets Logistics Firms, Steals New SMS and Redirects Calls](https://thehackernews.com/2026/09/corp-mdm-spyware-targets-logistics.html)
+- [Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore](https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html)
+- [17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360](https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html)
 - [OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files](https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html)
 - [TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords](https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html)
 - [Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure](https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html)
 - [Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry](https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html)
 - [A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You](https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html)
-- [MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key](https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html)
-- [This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move](https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html)
-- [Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI](https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html)
 
 ### BleepingComputer
 
+- [FedRAMP VDR & VER: Daily Scans Are Only the Beginning](https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/)
+- [Hackers now exploit critical Roundcube flaw in code injection attacks](https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/)
+- [Windows 11 KB5124010 update released with 46 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124010-update-released-with-46-changes-and-fixes/)
+- [CISA: Ransomware gangs now exploiting critical TeamCity flaw](https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/)
+- [OpenAI hacked Australian Medicare govt site, probed data providers](https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/)
 - [Microsoft fixes bug that broke Windows File History backup feature](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/)
 - [Placeholder domain used in dev docs now serves ClickFix attacks](https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/)
 - [New RemControl Android banking malware targets users in Europe and Canada](https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/)
-- [Check Point warns of hackers exploiting Security Gateway VPN RCE flaw](https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/)
-- [Hackers start exploiting critical WordPress flaw for code execution](https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/)
-- [Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers](https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/)
-- [InfraTrust report warns network management systems under attack](https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/)
-- [How One Kubernetes YAML Can Hand Over a GCP Organization](https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/)
 
 ### Krebs on Security
 
@@ -49,25 +49,25 @@
 
 ### Dark Reading
 
+- [How to Build A SASE Framework for Modern Cybersecurity](https://www.darkreading.com/cloud-security/how-to-build-sase-framework)
+- [Ghost Service Accounts Enable M365 Data Theft in Chile](https://www.darkreading.com/cyberattacks-data-breaches/ghost-service-accounts-m365-data-theft-chile)
+- [Prompt-Injection Bug Hits $4B Agentic AI App 'Manus'](https://www.darkreading.com/application-security/prompt-injection-bug-agentic-ai-app-manus)
+- [SASE Converges Network &amp; Security Into One Cloud Solution](https://www.darkreading.com/cloud-security/sase-converges-network-security-one-cloud)
 - [EDR Evasion Stack Helps Process Injection Slip Past Defenses](https://www.darkreading.com/endpoint-security/edr-evasion-stack-helps-process-injection-slip-past-defenses)
 - [GitLab Email Addresses Can Be Weaponized for Supply Chain Attacks](https://www.darkreading.com/application-security/gitlab-email-addresses-supply-chain-attacks)
 - [UAE, Saudi Arabia Face Onslaught of Increasingly Complex Cyberattacks](https://www.darkreading.com/threat-intelligence/uae-saudi-arabia-face-onslaught-of-increasingly-sophisticated-automated-cyberattacks)
 - [Attackers Manipulate AI Chatbots in Mass Disinformation, Phishing Campaign](https://www.darkreading.com/threat-intelligence/attackers-manipulate-ai-chatbots-mass-disinformation-phishing-campaign)
-- [Relays Are Masking Chinese Access to Frontier AI Models in the US](https://www.darkreading.com/cyber-risk/relays-masking-chinese-access-frontier-ai-models)
-- [How the CISO-CMO Alliance Builds Trust Before Crisis Strikes](https://www.darkreading.com/cybersecurity-operations/how-ciso-cmo-alliance-builds-trust-before-crisis)
-- [Microsoft Disrupts EvilTokens Device Code Phishing Service](https://www.darkreading.com/identity-access-management-security/microsoft-disrupts-eviltokens-device-code-phishing-service)
-- [Deception by Design: CISA's Guide to Tricking Cybercriminals](https://www.darkreading.com/cybersecurity-operations/deception-by-design-cisa-s-guide-to-tricking-cybercriminals)
 
 ### Security Week
 
+- [AI-Powered Campaign Targets Hundreds of Online Retailers](https://www.securityweek.com/ai-powered-campaign-targets-hundreds-of-online-retailers/)
+- [Island Raises $400 Million at $6.4 Billion Valuation](https://www.securityweek.com/island-raises-400-million-at-6-4-billion-valuation/)
+- [OT Security Guidance: NIST Drafts Updated Guide, CISA/FBI Advise on ICS Integrators](https://www.securityweek.com/ot-security-guidance-nist-drafts-updated-guide-cisa-fbi-advise-on-ics-integrators/)
+- [Begin at the End: How to Enable Agentic Remediation](https://www.securityweek.com/begin-at-the-end-how-to-enable-agentic-remediation/)
+- [SolarWinds Patches Critical RCE Flaws in Observability Self-Hosted](https://www.securityweek.com/solarwinds-patches-critical-rce-flaws-in-observability-self-hosted/)
+- [Astrana Health Data Breach Impacts Private, Confidential Information](https://www.securityweek.com/astrana-health-data-breach-impacts-private-confidential-information/)
 - [US Court Sentences Armenian Man to Prison for Ryuk Ransomware Attacks](https://www.securityweek.com/us-court-sentences-armenian-man-to-prison-for-ryuk-ransomware-attacks/)
 - [Critical WordPress Vulnerability Exploited Immediately After Disclosure](https://www.securityweek.com/critical-wordpress-vulnerability-exploited-immediately-after-disclosure/)
-- [IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU Decoder](https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/)
-- [Worries About an AI Internet Takeover Gain New Urgency Among Doomsday Scenarios](https://www.securityweek.com/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios/)
-- [Honeywell: OT Security Teams Embrace AI, but Autonomy Still Rare](https://www.securityweek.com/honeywell-ot-security-teams-embrace-ai-but-autonomy-still-rare/)
-- [Adobe Patches Critical Flaws in Connect, AEM Forms](https://www.securityweek.com/adobe-patches-critical-flaws-in-connect-aem-forms/)
-- [AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft](https://www.securityweek.com/ai-powered-phishing-platform-eviltokens-disrupted-by-microsoft/)
-- [Chrome 154 Patches 108 Vulnerabilities](https://www.securityweek.com/chrome-154-patches-108-vulnerabilities/)
 
 ### Threatpost
 

@@ -1,72 +1,90 @@
 {
-  "last_updated": "2026-09-25 14:55",
+  "last_updated": "2026-09-25 19:45",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "north korea suspected",
     "roundcube webmail vulnerability",
-    "kontext security emerges",
+    "free usage credits",
+    "attackers crosshairs tracked",
+    "ai escape party",
+    "windows operating systems",
     "defraud online merchants",
     "twitter whistleblower complaint",
     "individuals whose licenses",
     "1 6 16",
     "exploited without authentication",
-    "already visible ai",
     "soc doesn't need",
-    "post salesbleed flaws",
-    "windows operating systems",
+    "already visible ai",
+    "warning signs goes",
     "token security explains",
     "security gaps created",
     "national security risk",
-    "attackers crosshairs tracked",
-    "ai tools leak",
-    "who's harvesting data",
     "whatsapp media events",
-    "wallet addresses linked"
+    "wallet addresses linked",
+    "text history records"
   ],
   "trending": [
     {
       "keyword": "north korea suspected",
-      "mentions": 1
-    },
-    {
-      "keyword": "roundcube webmail vulnerability",
       "mentions": 2
     },
     {
-      "keyword": "kontext security emerges",
-      "mentions": 5
+      "keyword": "roundcube webmail vulnerability",
+      "mentions": 3
+    },
+    {
+      "keyword": "free usage credits",
+      "mentions": 1
+    },
+    {
+      "keyword": "attackers crosshairs tracked",
+      "mentions": 12
+    },
+    {
+      "keyword": "ai escape party",
+      "mentions": 1
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 777
     },
     {
       "keyword": "defraud online merchants",
-      "mentions": 60
+      "mentions": 61
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2697
+      "mentions": 2698
     },
     {
       "keyword": "individuals whose licenses",
-      "mentions": 126
+      "mentions": 127
     },
     {
       "keyword": "1 6 16",
-      "mentions": 1
-    },
-    {
-      "keyword": "exploited without authentication",
-      "mentions": 19
-    },
-    {
-      "keyword": "already visible ai",
-      "mentions": 1
-    },
-    {
-      "keyword": "soc doesn't need",
-      "mentions": 1
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware",
+      "link": "https://thehackernews.com/2026/09/compromised-github-actions-came-back.html",
+      "summary": "Two actions-cool GitHub Actions have been disabled for a second time after the repositories became accessible last week, months after they were compromised during the May 2026 Mini Shai-Hulud campaign. The affected GitHub Actions are listed below - actions-cool/issues-helper actions-cool/maintain-one-comment Visiting either of the repositories now shows the message: \"Access to this",
+      "published": "Fri, 25 Sep 2026 20:14:41 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "PamStealer macOS Malware Adds Live C2 Payload Decryption and Multi-Layer Persistence",
+      "link": "https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html",
+      "summary": "Cybersecurity researchers have flagged a new version of PamStealer that ensures that the main payload can only be recovered using a server-side decryption chain. The latest artifacts, per Jamf Threat Labs, continue to rely on the same JavaScript for Automation (JXA) dropper mechanism, but modify the lure and the delivery method. \"Where earlier variants embedded their payload key material",
+      "published": "Fri, 25 Sep 2026 18:48:06 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "The SOC Doesn't Need to Start Over with Every Alert",
@@ -133,24 +151,35 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories",
-      "link": "https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html",
-      "summary": "This week, the dangerous stuff keeps arriving dressed as something boring. An update. A login box. A search answer. A coding tool. A link you have clicked a hundred times before. That is the thread running through the pile. Trusted paths get poisoned. Old bugs find new jobs. AI tools leak more than expected. Fake prompts look real enough. And some attacks barely need an exploit at all — just",
-      "published": "Thu, 24 Sep 2026 23:22:43 +0530",
-      "value_score": 36,
+      "source": "BleepingComputer",
+      "title": "Elementor WordPress flaw lets attackers create admin accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/",
+      "summary": "A cross-site request forgery (CSRF) vulnerability in the Elementor plugin for WordPress could allow an unauthenticated attacker to create administrator accounts. [...]",
+      "published": "Fri, 25 Sep 2026 14:13:33 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) warns that hackers are exploiting a critical authentication bypass vulnerability (CVE-2026-5430) affecting multiple products from enterprise software provider WSO2. [...]",
+      "published": "Fri, 25 Sep 2026 13:24:20 -0400",
+      "value_score": 97,
       "value_signals": [
-        "Patch/update",
-        "Breach/leak",
+        "CVE mentioned",
+        "Auth bypass",
+        "CISA/KEV ×2",
+        "High severity",
         "Exploit wording"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content",
-      "link": "https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html",
-      "summary": "The \"third-party[.]com\" domain, commonly used as a documentation placeholder, has been observed serving a ClickFix lure to Windows browsers while displaying a harmless decoy to other users. \"third-party[.]com has been a generic documentation placeholder for years, the same role example.com plays,\" Manifold Security's Head of Research, Ax Sharma, said. \"Unlike 'example[.]com,' third-party[.]com",
-      "published": "Thu, 24 Sep 2026 20:57:32 +0530",
+      "source": "BleepingComputer",
+      "title": "Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/",
+      "summary": "Anthropic now allows you to run Claude Code via cloud sessions without signing up for the research preview, and it's offering up to $250 in free usage credits, so more users can give it a try. [...]",
+      "published": "Fri, 25 Sep 2026 12:00:00 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -198,35 +227,6 @@
       "published": "Fri, 25 Sep 2026 06:30:38 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers steal $351.6 million in Bitget crypto exchange hack",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/",
-      "summary": "​Cryptocurrency exchange Bitget disclosed today that suspected North Korean hackers have stolen $351.6 million from its hot and warm wallets. [...]",
-      "published": "Fri, 25 Sep 2026 04:33:44 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
-      "link": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
-      "summary": "A new variant of the MacSync malware targeting macOS systems now uses public iCloud calendar events to deliver new native payloads. [...]",
-      "published": "Thu, 24 Sep 2026 16:53:35 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
-      "link": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
-      "summary": "A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. [...]",
-      "published": "Thu, 24 Sep 2026 16:10:48 -0400",
-      "value_score": 20,
-      "value_signals": [
-        "Botnet"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -307,6 +307,33 @@
     },
     {
       "source": "Dark Reading",
+      "title": "AI Sandbox Escapes: Why Forensic Readiness Matters More Than Containment",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-sandbox-escapes-forensic-readiness",
+      "summary": "When autonomous AI agents \"escape the sandbox,\" the real story isn't rogue machines — it's the same access-control failures we've seen for decades.",
+      "published": "Fri, 25 Sep 2026 18:39:32 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "What We Missed: Google Gemini Joins the AI Escape Party",
+      "link": "https://www.darkreading.com/cyber-risk/what-we-missed-google-gemini-ai-escape-party",
+      "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from Google Gemini models breaking containment to ShinyHunters ratting on TeamPCP hackers.",
+      "published": "Fri, 25 Sep 2026 17:56:23 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Stopping IT Worker Scams Requires Revamped HR Process",
+      "link": "https://www.darkreading.com/cyber-risk/stopping-it-worker-scams-revamped-hr-process",
+      "summary": "Training human-resource managers in the latest tactics and warning signs goes a long way toward blunting the threat, but automated analysis can help even more.",
+      "published": "Fri, 25 Sep 2026 14:46:13 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Russia's Hybrid Cyber-Physical War in Europe Heats Up",
       "link": "https://www.darkreading.com/physical-security/russia-hybrid-cyber-physical-war-europe",
       "summary": "A storm is raging in the form of cyber sabotage, disinformation, and drone attacks on European nations, particularly those that provide material support to Ukraine.",
@@ -348,39 +375,25 @@
     },
     {
       "source": "Dark Reading",
-      "title": "How to Build A SASE Framework for Modern Cybersecurity",
+      "title": "How to Build a SASE Framework for Modern Cybersecurity",
       "link": "https://www.darkreading.com/cloud-security/how-to-build-sase-framework",
-      "summary": "Keeping edge computing safe requires organizations to fundamentally rethink security governance. Here is a path forward: a step-by-step guide to building a SASE framework.",
+      "summary": "Securing edge computing requires organizations to fundamentally rethink security governance. This step-by-step guide to building a SASE framework provides the path forward. (Third in a three-part series.)",
       "published": "Thu, 24 Sep 2026 14:02:43 GMT",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Ghost Service Accounts Enable M365 Data Theft in Chile",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ghost-service-accounts-m365-data-theft-chile",
-      "summary": "Even if the organization locks down employee accounts, forgotten and lost service accounts can still undo the organization's entire M365 environment.",
-      "published": "Thu, 24 Sep 2026 13:30:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Prompt-Injection Bug Hits $4B Agentic AI App 'Manus'",
-      "link": "https://www.darkreading.com/application-security/prompt-injection-bug-agentic-ai-app-manus",
-      "summary": "AI apps that interpret external data (read: most AI apps) need exceptionally rigorous security filters, or attackers can take advantage.",
-      "published": "Thu, 24 Sep 2026 13:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "SASE Converges Network &amp; Security Into One Cloud Solution",
-      "link": "https://www.darkreading.com/cloud-security/sase-converges-network-security-one-cloud",
-      "summary": "Enterprise computing is moving to the edge. Keeping it secure requires tactics far beyond putting up firewalls.",
-      "published": "Wed, 23 Sep 2026 22:29:10 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Security Week",
+      "title": "In Other News: Clop Leak Site Takeover, Docker Botnet Hunts AI Keys, Water Utility Exposure",
+      "link": "https://www.securityweek.com/in-other-news-clop-leak-site-takeover-docker-botnet-hunts-ai-keys-water-utility-exposure/",
+      "summary": "Noteworthy stories that might have slipped under the radar: BragJack attack against browser AI assistants, TDengine flaw threatens industrial telemetry uptime, Ubuntu update overhaul. The post In Other News: Clop Leak Site Takeover, Docker Botnet Hunts AI Keys, Water Utility Exposure appeared first on SecurityWeek .",
+      "published": "Fri, 25 Sep 2026 15:07:31 +0000",
+      "value_score": 62,
+      "value_signals": [
+        "Patch/update",
+        "Breach/leak ×2",
+        "Botnet ×2"
+      ]
     },
     {
       "source": "Security Week",
@@ -451,15 +464,6 @@
       "link": "https://www.securityweek.com/autonomous-ai-hacks-raise-thorny-questions-of-legal-accountability/",
       "summary": "The prospect of legal accountability is unclear. Lawsuits are a possibility, but some legal experts believe any criminal investigations would face an extremely high burden. The post Autonomous AI Hacks Raise Thorny Questions of Legal Accountability appeared first on SecurityWeek .",
       "published": "Thu, 24 Sep 2026 20:35:21 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Kontext Security Emerges With $4 Million for AI Agent Runtime Controls",
-      "link": "https://www.securityweek.com/kontext-security-emerges-with-4-million-for-ai-agent-runtime-controls/",
-      "summary": "The startup’s runtime enforcement platform evaluates AI agents in real time to provide visibility and control over their actions. The post Kontext Security Emerges With $4 Million for AI Agent Runtime Controls appeared first on SecurityWeek .",
-      "published": "Thu, 24 Sep 2026 15:52:00 +0000",
       "value_score": 10,
       "value_signals": []
     },

@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 776,
+      "count": 777,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -336,7 +336,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2697,
+      "count": 2698,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1288,7 +1288,7 @@
       ]
     },
     "national security risk": {
-      "count": 509,
+      "count": 510,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2726,7 +2726,7 @@
       ]
     },
     "token security explains": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-01-05",
         "2026-01-06",
@@ -7535,7 +7535,7 @@
       ]
     },
     "exploited without authentication": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-02-11",
         "2026-05-21",
@@ -26515,7 +26515,7 @@
       ]
     },
     "text history records": {
-      "count": 216,
+      "count": 217,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -27268,7 +27268,7 @@
       ]
     },
     "attackers crosshairs tracked": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-08-13",
         "2026-08-14",
@@ -29226,7 +29226,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 126,
+      "count": 127,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29569,7 +29569,7 @@
       ]
     },
     "defraud online merchants": {
-      "count": 60,
+      "count": 61,
       "dates": [
         "2026-09-04",
         "2026-09-05",
@@ -31762,7 +31762,7 @@
       ]
     },
     "roundcube webmail vulnerability": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-25"
       ]
@@ -31786,25 +31786,25 @@
       ]
     },
     "north korea suspected": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-25"
       ]
     },
     "1 6 16": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-25"
       ]
     },
     "already visible ai": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-25"
       ]
     },
     "soc doesn't need": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-25"
       ]
@@ -31816,18 +31816,36 @@
       ]
     },
     "security gaps created": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-25"
       ]
     },
     "whatsapp media events": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-25"
       ]
     },
     "wallet addresses linked": {
+      "count": 2,
+      "dates": [
+        "2026-09-25"
+      ]
+    },
+    "free usage credits": {
+      "count": 1,
+      "dates": [
+        "2026-09-25"
+      ]
+    },
+    "ai escape party": {
+      "count": 1,
+      "dates": [
+        "2026-09-25"
+      ]
+    },
+    "warning signs goes": {
       "count": 1,
       "dates": [
         "2026-09-25"
@@ -31835,17 +31853,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-06 19:53",
-      "articles": 48,
-      "top_keywords": [
-        "1 1 billion",
-        "universities threat actors",
-        "conduct command execution",
-        "arbitrary code execution",
-        "individuals whose licenses"
-      ]
-    },
     {
       "timestamp": "2026-09-06 21:54",
       "articles": 48,
@@ -32933,6 +32940,17 @@
         "kontext security emerges",
         "defraud online merchants",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-09-25 19:45",
+      "articles": 48,
+      "top_keywords": [
+        "north korea suspected",
+        "roundcube webmail vulnerability",
+        "free usage credits",
+        "attackers crosshairs tracked",
+        "ai escape party"
       ]
     }
   ]

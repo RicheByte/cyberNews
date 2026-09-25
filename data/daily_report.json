@@ -1,16 +1,18 @@
 {
-  "last_updated": "2026-09-25 19:45",
+  "last_updated": "2026-09-25 23:00",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "north korea suspected",
     "roundcube webmail vulnerability",
+    "north korea suspected",
+    "windows operating systems",
     "free usage credits",
     "attackers crosshairs tracked",
     "ai escape party",
-    "windows operating systems",
-    "defraud online merchants",
+    "path traversal vulnerability",
+    "national security risk",
     "twitter whistleblower complaint",
+    "multiple telecommunications companies",
     "individuals whose licenses",
     "1 6 16",
     "exploited without authentication",
@@ -19,51 +21,49 @@
     "warning signs goes",
     "token security explains",
     "security gaps created",
-    "national security risk",
     "whatsapp media events",
-    "wallet addresses linked",
-    "text history records"
+    "wallet addresses linked"
   ],
   "trending": [
     {
-      "keyword": "north korea suspected",
-      "mentions": 2
+      "keyword": "roundcube webmail vulnerability",
+      "mentions": 4
     },
     {
-      "keyword": "roundcube webmail vulnerability",
+      "keyword": "north korea suspected",
       "mentions": 3
     },
     {
+      "keyword": "windows operating systems",
+      "mentions": 778
+    },
+    {
       "keyword": "free usage credits",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "attackers crosshairs tracked",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "ai escape party",
-      "mentions": 1
+      "mentions": 2
     },
     {
-      "keyword": "windows operating systems",
-      "mentions": 777
+      "keyword": "path traversal vulnerability",
+      "mentions": 3
     },
     {
-      "keyword": "defraud online merchants",
-      "mentions": 61
+      "keyword": "national security risk",
+      "mentions": 511
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2698
+      "mentions": 2699
     },
     {
-      "keyword": "individuals whose licenses",
-      "mentions": 127
-    },
-    {
-      "keyword": "1 6 16",
-      "mentions": 2
+      "keyword": "multiple telecommunications companies",
+      "mentions": 1
     }
   ],
   "articles": [
@@ -152,6 +152,29 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/",
+      "summary": "Secure file-sharing software company Kiteworks is urging customers worldwide to temporarily shut down their servers on Saturday for a six-hour window after receiving threat intelligence warning of a potentially imminent cyberattack. [...]",
+      "published": "Fri, 25 Sep 2026 17:41:07 -0400",
+      "value_score": 35,
+      "value_signals": [
+        "Zero-day"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/",
+      "summary": "The Clop ransomware gang has moved its data leak site to a new Tor address after confirming its previous server was compromised and defaced through an unpatched Grav CMS flaw that BleepingComputer has learned is an unauthenticated path traversal vulnerability. [...]",
+      "published": "Fri, 25 Sep 2026 16:57:55 -0400",
+      "value_score": 52,
+      "value_signals": [
+        "Ransomware",
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Elementor WordPress flaw lets attackers create admin accounts",
       "link": "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/",
       "summary": "A cross-site request forgery (CSRF) vulnerability in the Elementor plugin for WordPress could allow an unauthenticated attacker to create administrator accounts. [...]",
@@ -211,20 +234,11 @@
       "value_signals": []
     },
     {
-      "source": "BleepingComputer",
-      "title": "Rydox marketplace admin pleads guilty, faces 22 years in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/",
-      "summary": "A Kosovar national has pleaded guilty to operating Rydox, a large illegal online marketplace that sold stolen personal information, login credentials, credit card details, and cybercrime tools. [...]",
-      "published": "Fri, 25 Sep 2026 07:35:14 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft: Recent Windows updates cause desktop loading issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/",
-      "summary": "Microsoft has confirmed that some users may experience desktop loading issues, including black screens, after installing the August 2026 preview updates and subsequent updates. [...]",
-      "published": "Fri, 25 Sep 2026 06:30:38 -0400",
+      "source": "Krebs on Security",
+      "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
+      "link": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
+      "summary": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims.",
+      "published": "Fri, 25 Sep 2026 21:44:40 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -293,15 +307,6 @@
       "link": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
       "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&T customers.",
       "published": "Thu, 06 Aug 2026 17:00:56 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Read This Before You Buy That TV Streaming Stick",
-      "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-      "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a groundbreaking new analysis finds these devices also routinely spoof themselves as mobile phones clicking ads on AI-generated websites as part of sprawling operation that seeks to defraud online merchants and advertising networks.",
-      "published": "Thu, 30 Jul 2026 16:49:00 +0000",
       "value_score": 10,
       "value_signals": []
     },

@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 777,
+      "count": 778,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -336,7 +336,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2698,
+      "count": 2699,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1288,7 +1288,7 @@
       ]
     },
     "national security risk": {
-      "count": 510,
+      "count": 511,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2726,7 +2726,7 @@
       ]
     },
     "token security explains": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-01-05",
         "2026-01-06",
@@ -7535,7 +7535,7 @@
       ]
     },
     "exploited without authentication": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-02-11",
         "2026-05-21",
@@ -17466,9 +17466,10 @@
       ]
     },
     "path traversal vulnerability": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-05-18"
+        "2026-05-18",
+        "2026-09-25"
       ]
     },
     "input validation vulnerability": {
@@ -27268,7 +27269,7 @@
       ]
     },
     "attackers crosshairs tracked": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-08-13",
         "2026-08-14",
@@ -29226,7 +29227,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 127,
+      "count": 128,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -31762,7 +31763,7 @@
       ]
     },
     "roundcube webmail vulnerability": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-25"
       ]
@@ -31786,25 +31787,25 @@
       ]
     },
     "north korea suspected": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-25"
       ]
     },
     "1 6 16": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-25"
       ]
     },
     "already visible ai": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-25"
       ]
     },
     "soc doesn't need": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-25"
       ]
@@ -31816,36 +31817,42 @@
       ]
     },
     "security gaps created": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-25"
       ]
     },
     "whatsapp media events": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-25"
       ]
     },
     "wallet addresses linked": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-25"
       ]
     },
     "free usage credits": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-25"
       ]
     },
     "ai escape party": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-25"
       ]
     },
     "warning signs goes": {
+      "count": 2,
+      "dates": [
+        "2026-09-25"
+      ]
+    },
+    "multiple telecommunications companies": {
       "count": 1,
       "dates": [
         "2026-09-25"
@@ -31853,17 +31860,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-06 21:54",
-      "articles": 48,
-      "top_keywords": [
-        "1 1 billion",
-        "universities threat actors",
-        "conduct command execution",
-        "arbitrary code execution",
-        "individuals whose licenses"
-      ]
-    },
     {
       "timestamp": "2026-09-06 23:24",
       "articles": 48,
@@ -32951,6 +32947,17 @@
         "free usage credits",
         "attackers crosshairs tracked",
         "ai escape party"
+      ]
+    },
+    {
+      "timestamp": "2026-09-25 23:00",
+      "articles": 48,
+      "top_keywords": [
+        "roundcube webmail vulnerability",
+        "north korea suspected",
+        "windows operating systems",
+        "free usage credits",
+        "attackers crosshairs tracked"
       ]
     }
   ]

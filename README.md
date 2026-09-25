@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-25 09:17 UTC |
+| 🕐 Last Updated | 2026-09-25 14:55 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`roundcube webmail vulnerability` • `kontext security emerges` • `twitter whistleblower complaint` • `serves malicious content` • `individuals whose licenses` • `1 billion since` • `windows operating systems` • `vulnerability research exploitation` • `exploited without authentication` • `defraud online merchants`
+`north korea suspected` • `roundcube webmail vulnerability` • `kontext security emerges` • `defraud online merchants` • `twitter whistleblower complaint` • `individuals whose licenses` • `1 6 16` • `exploited without authentication` • `already visible ai` • `soc doesn't need`
 
 ## 📄 Reports
 

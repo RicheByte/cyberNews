@@ -1,72 +1,95 @@
 {
-  "last_updated": "2026-09-25 03:03",
+  "last_updated": "2026-09-25 09:17",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
+    "roundcube webmail vulnerability",
     "kontext security emerges",
-    "australian government portal",
-    "agent reached files",
     "twitter whistleblower complaint",
     "serves malicious content",
-    "multiple countries probing",
     "individuals whose licenses",
-    "ai tools leak",
     "1 billion since",
-    "defraud online merchants",
-    "who's harvesting data",
+    "windows operating systems",
     "vulnerability research exploitation",
+    "exploited without authentication",
+    "defraud online merchants",
+    "enterprise security firm",
+    "flaws affect many",
+    "fixes microsoft released",
+    "attackers crosshairs tracked",
+    "ai tools leak",
+    "who's harvesting data",
     "third party com",
-    "stronger evidence requirements",
+    "text history records",
     "sophisticated cybercrime syndicate",
-    "smuggle arbitrary instructions",
-    "siphoning images collected",
-    "remained walled away",
-    "readmes contributing guides",
-    "publicly detailed prior"
+    "smuggle arbitrary instructions"
   ],
   "trending": [
     {
+      "keyword": "roundcube webmail vulnerability",
+      "mentions": 1
+    },
+    {
       "keyword": "kontext security emerges",
-      "mentions": 3
-    },
-    {
-      "keyword": "australian government portal",
       "mentions": 4
-    },
-    {
-      "keyword": "agent reached files",
-      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2695
+      "mentions": 2696
     },
     {
       "keyword": "serves malicious content",
-      "mentions": 3
-    },
-    {
-      "keyword": "multiple countries probing",
-      "mentions": 2
-    },
-    {
-      "keyword": "individuals whose licenses",
-      "mentions": 124
-    },
-    {
-      "keyword": "ai tools leak",
-      "mentions": 3
-    },
-    {
-      "keyword": "1 billion since",
       "mentions": 4
     },
     {
+      "keyword": "individuals whose licenses",
+      "mentions": 125
+    },
+    {
+      "keyword": "1 billion since",
+      "mentions": 5
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 775
+    },
+    {
+      "keyword": "vulnerability research exploitation",
+      "mentions": 4
+    },
+    {
+      "keyword": "exploited without authentication",
+      "mentions": 18
+    },
+    {
       "keyword": "defraud online merchants",
-      "mentions": 58
+      "mentions": 59
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data",
+      "link": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html",
+      "summary": "A flaw in Cloudflare Containers let a paying customer read data that other customers' containers had left behind on the same server, Cloudflare and the researchers who found it said on Thursday. The data came from disk space that earlier containers had used and given up, not from any live workload, and an attacker could not choose whose data they got, according to Cloudflare. The company",
+      "published": "Fri, 25 Sep 2026 10:19:22 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV",
+      "link": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added two critical security flaws impacting WSO2 and Adobe Commerce and Magento to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-5430 (CVS score: 9.8) - A path traversal vulnerability in WSO2 API Control Plane,",
+      "published": "Fri, 25 Sep 2026 10:16:34 +0530",
+      "value_score": 82,
+      "value_signals": [
+        "CVE mentioned",
+        "CISA/KEV ×5",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
@@ -126,22 +149,11 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360",
-      "link": "https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html",
-      "summary": "ClickFix has become the most common way attackers get into enterprise networks, and it does it without an exploit, an attachment, or a file on disk. Our new global threat report traces the technique from a novelty in late 2023 to a subscription product with on-chain infrastructure and a state-sponsored user base, and explains why blocking malicious domains is no longer a useful defense. Read",
-      "published": "Thu, 24 Sep 2026 14:44:21 +0530",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
-      "link": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
-      "summary": "An AI agent on an internal OpenAI research task bypassed access controls on an Australian government Medicare statistics portal in June, Prime Minister Anthony Albanese said. The portal publishes aggregate figures, such as spending, and is separate from the systems that handle Medicare claims and personal records. The agent reached files on it that were not public, but no personal",
-      "published": "Thu, 24 Sep 2026 12:37:25 +0530",
+      "source": "BleepingComputer",
+      "title": "Hackers steal $351.6 million in Bitget crypto exchange hack",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/",
+      "summary": "​Cryptocurrency exchange Bitget disclosed today that suspected North Korean hackers have stolen $351.6 million from its hot and warm wallets. [...]",
+      "published": "Fri, 25 Sep 2026 04:33:44 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -218,17 +230,6 @@
         "Ransomware ×2",
         "CISA/KEV ×2",
         "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OpenAI hacked Australian Medicare govt site, probed data providers",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/",
-      "summary": "OpenAI agents targeted public data providers in multiple countries, probing some for vulnerabilities and exploiting a security weakness in an Australian government portal while performing information-retrieval tasks as part of a research project. [...]",
-      "published": "Thu, 24 Sep 2026 05:38:53 -0400",
-      "value_score": 16,
-      "value_signals": [
         "Exploit wording"
       ]
     },
@@ -311,6 +312,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Russia's Hybrid Cyber-Physical War in Europe Heats Up",
+      "link": "https://www.darkreading.com/physical-security/russia-hybrid-cyber-physical-war-europe",
+      "summary": "A storm is raging in the form of cyber sabotage, disinformation, and drone attacks on European nations, particularly those that provide material support to Ukraine.",
+      "published": "Fri, 25 Sep 2026 07:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "'Salesbleed' Exploits Salesforce Agents to Enable Slack Phishing",
       "link": "https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing",
       "summary": "Agentic AI can smuggle arbitrary instructions from the Web, across multiple apps, into trusted internal communications channels.",
@@ -378,13 +388,16 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "EDR Evasion Stack Helps Process Injection Slip Past Defenses",
-      "link": "https://www.darkreading.com/endpoint-security/edr-evasion-stack-helps-process-injection-slip-past-defenses",
-      "summary": "A process parameter-poisoning technique evades EDR by injecting code into process initialization structures without using the Windows APIs that EDR tools typically watch out for.",
-      "published": "Wed, 23 Sep 2026 21:03:01 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Security Week",
+      "title": "Roundcube Webmail Vulnerability in Attackers’ Crosshairs",
+      "link": "https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/",
+      "summary": "Tracked as CVE-2026-48842, the exploited bug is an SQL injection that can be exploited without authentication. The post Roundcube Webmail Vulnerability in Attackers’ Crosshairs appeared first on SecurityWeek .",
+      "published": "Fri, 25 Sep 2026 06:57:40 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "CVE mentioned",
+        "Exploit wording"
+      ]
     },
     {
       "source": "Security Week",
@@ -452,21 +465,6 @@
       "published": "Thu, 24 Sep 2026 11:00:00 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "SolarWinds Patches Critical RCE Flaws in Observability Self-Hosted",
-      "link": "https://www.securityweek.com/solarwinds-patches-critical-rce-flaws-in-observability-self-hosted/",
-      "summary": "The vulnerabilities, tracked as CVE-2026-28324 and CVE-2026-28325, can be exploited without authentication. The post SolarWinds Patches Critical RCE Flaws in Observability Self-Hosted appeared first on SecurityWeek .",
-      "published": "Thu, 24 Sep 2026 10:40:40 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "RCE ×2",
-        "High severity ×2",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

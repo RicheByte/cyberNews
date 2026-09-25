@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-25 03:03 UTC |
+| 🕐 Last Updated | 2026-09-25 09:17 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`kontext security emerges` • `australian government portal` • `agent reached files` • `twitter whistleblower complaint` • `serves malicious content` • `multiple countries probing` • `individuals whose licenses` • `ai tools leak` • `1 billion since` • `defraud online merchants`
+`roundcube webmail vulnerability` • `kontext security emerges` • `twitter whistleblower complaint` • `serves malicious content` • `individuals whose licenses` • `1 billion since` • `windows operating systems` • `vulnerability research exploitation` • `exploited without authentication` • `defraud online merchants`
 
 ## 📄 Reports
 

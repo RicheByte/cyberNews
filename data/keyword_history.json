@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 774,
+      "count": 775,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -331,11 +331,12 @@
         "2026-09-18",
         "2026-09-21",
         "2026-09-22",
-        "2026-09-23"
+        "2026-09-23",
+        "2026-09-25"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2695,
+      "count": 2696,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -7532,7 +7533,7 @@
       ]
     },
     "exploited without authentication": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-02-11",
         "2026-05-21",
@@ -7542,7 +7543,8 @@
         "2026-07-28",
         "2026-08-06",
         "2026-08-07",
-        "2026-08-20"
+        "2026-08-20",
+        "2026-09-25"
       ]
     },
     "vulnerabilities found recently": {
@@ -26511,7 +26513,7 @@
       ]
     },
     "text history records": {
-      "count": 215,
+      "count": 216,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -26552,7 +26554,8 @@
         "2026-09-21",
         "2026-09-22",
         "2026-09-23",
-        "2026-09-24"
+        "2026-09-24",
+        "2026-09-25"
       ]
     },
     "chatgpt secure sandbox": {
@@ -27263,10 +27266,11 @@
       ]
     },
     "attackers crosshairs tracked": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-13",
-        "2026-08-14"
+        "2026-08-14",
+        "2026-09-25"
       ]
     },
     "1 million bond": {
@@ -27400,7 +27404,7 @@
       ]
     },
     "who's harvesting data": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-08-14",
         "2026-08-19",
@@ -29031,7 +29035,7 @@
       ]
     },
     "sophisticated cybercrime syndicate": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-08-31",
         "2026-09-01",
@@ -29220,7 +29224,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 124,
+      "count": 125,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29563,7 +29567,7 @@
       ]
     },
     "defraud online merchants": {
-      "count": 58,
+      "count": 59,
       "dates": [
         "2026-09-04",
         "2026-09-05",
@@ -31667,7 +31671,7 @@
       ]
     },
     "1 billion since": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-24",
         "2026-09-25"
@@ -31693,14 +31697,14 @@
       ]
     },
     "kontext security emerges": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-24",
         "2026-09-25"
       ]
     },
     "serves malicious content": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-24",
         "2026-09-25"
@@ -31714,21 +31718,21 @@
       ]
     },
     "ai tools leak": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-24",
         "2026-09-25"
       ]
     },
     "vulnerability research exploitation": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-24",
         "2026-09-25"
       ]
     },
     "third party com": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-24",
         "2026-09-25"
@@ -31749,25 +31753,38 @@
       ]
     },
     "smuggle arbitrary instructions": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-24",
+        "2026-09-25"
+      ]
+    },
+    "roundcube webmail vulnerability": {
+      "count": 1,
+      "dates": [
+        "2026-09-25"
+      ]
+    },
+    "enterprise security firm": {
+      "count": 1,
+      "dates": [
+        "2026-09-25"
+      ]
+    },
+    "flaws affect many": {
+      "count": 1,
+      "dates": [
+        "2026-09-25"
+      ]
+    },
+    "fixes microsoft released": {
+      "count": 1,
+      "dates": [
         "2026-09-25"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-06 13:20",
-      "articles": 48,
-      "top_keywords": [
-        "1 1 billion",
-        "universities threat actors",
-        "conduct command execution",
-        "arbitrary code execution",
-        "individuals whose licenses"
-      ]
-    },
     {
       "timestamp": "2026-09-06 16:39",
       "articles": 48,
@@ -32855,6 +32872,17 @@
         "agent reached files",
         "twitter whistleblower complaint",
         "serves malicious content"
+      ]
+    },
+    {
+      "timestamp": "2026-09-25 09:17",
+      "articles": 48,
+      "top_keywords": [
+        "roundcube webmail vulnerability",
+        "kontext security emerges",
+        "twitter whistleblower complaint",
+        "serves malicious content",
+        "individuals whose licenses"
       ]
     }
   ]

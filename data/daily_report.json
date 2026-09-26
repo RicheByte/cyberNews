@@ -1,72 +1,107 @@
 {
-  "last_updated": "2026-09-26 08:59",
+  "last_updated": "2026-09-26 14:00",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "roundcube webmail vulnerability",
     "north korea suspected",
-    "windows operating systems",
+    "create administrator accounts",
     "free usage credits",
-    "attackers crosshairs tracked",
-    "ai escape party",
-    "path traversal vulnerability",
+    "code injection vulnerability",
+    "received threat intelligence",
     "national security risk",
+    "ai escape party",
     "twitter whistleblower complaint",
     "multiple telecommunications companies",
     "individuals whose licenses",
     "1 6 16",
-    "exploited without authentication",
     "soc doesn't need",
-    "already visible ai",
-    "warning signs goes",
     "token security explains",
     "security gaps created",
+    "warning signs goes",
+    "windows operating systems",
+    "windows botnet relies",
     "whatsapp media events",
-    "wallet addresses linked"
+    "wallet addresses linked",
+    "sprawling phishing campaign"
   ],
   "trending": [
     {
-      "keyword": "roundcube webmail vulnerability",
+      "keyword": "north korea suspected",
       "mentions": 6
     },
     {
-      "keyword": "north korea suspected",
-      "mentions": 5
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 780
+      "keyword": "create administrator accounts",
+      "mentions": 1
     },
     {
       "keyword": "free usage credits",
-      "mentions": 4
-    },
-    {
-      "keyword": "attackers crosshairs tracked",
-      "mentions": 15
-    },
-    {
-      "keyword": "ai escape party",
-      "mentions": 4
-    },
-    {
-      "keyword": "path traversal vulnerability",
       "mentions": 5
     },
     {
+      "keyword": "code injection vulnerability",
+      "mentions": 9
+    },
+    {
+      "keyword": "received threat intelligence",
+      "mentions": 1
+    },
+    {
       "keyword": "national security risk",
-      "mentions": 513
+      "mentions": 514
+    },
+    {
+      "keyword": "ai escape party",
+      "mentions": 5
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2701
+      "mentions": 2702
     },
     {
       "keyword": "multiple telecommunications companies",
-      "mentions": 3
+      "mentions": 4
+    },
+    {
+      "keyword": "individuals whose licenses",
+      "mentions": 131
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
+      "link": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
+      "summary": "Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue administrator accounts and take control of a site. The cross-site request forgery (CSRF) vulnerability, which has yet to be assigned a CVE identifier, carries a CVSS score of 8.8 out of 10.0. It only affects versions",
+      "published": "Sat, 26 Sep 2026 15:25:22 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
+      "link": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities in question are as follows - CVE-2026-65660 (CVSS score: 8.8) - A code injection vulnerability in Microsoft Office SharePoint",
+      "published": "Sat, 26 Sep 2026 14:19:53 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation ×2",
+        "RCE",
+        "CISA/KEV ×3",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack",
+      "link": "https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html",
+      "summary": "Kiteworks (formerly Accellion) is urging customers to shut down their systems as a precautionary measure for nine hours over the weekend after it received threat intelligence about an imminent cyber attack. \"Kiteworks received credible threat intelligence from federal intelligence authorities indicating that a threat actor may attempt to target some Kiteworks systems,\" said Frank Balonis, Chief",
+      "published": "Sat, 26 Sep 2026 13:18:33 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware",
@@ -119,34 +154,11 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data",
-      "link": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html",
-      "summary": "A flaw in Cloudflare Containers let a paying customer read data that other customers' containers had left behind on the same server, Cloudflare and the researchers who found it said on Thursday. The data came from disk space that earlier containers had used and given up, not from any live workload, and an attacker could not choose whose data they got, according to Cloudflare. The company",
-      "published": "Fri, 25 Sep 2026 10:19:22 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV",
-      "link": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added two critical security flaws impacting WSO2 and Adobe Commerce and Magento to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-5430 (CVS score: 9.8) - A path traversal vulnerability in WSO2 API Control Plane,",
-      "published": "Fri, 25 Sep 2026 10:16:34 +0530",
-      "value_score": 82,
-      "value_signals": [
-        "CVE mentioned",
-        "CISA/KEV ×5",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
-      "link": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
-      "summary": "A OnePlus 15 running the latest OxygenOS can be rooted by a malicious app the owner installs, one that asks for no special permissions. A researcher, Rasmus Moorats, chained two flaws in OnePlus's own software to gain root access, the highest level of control over an Android phone. OnePlus told him the same flaws affect many more of its own devices and those of OPPO, though it has not",
-      "published": "Thu, 24 Sep 2026 23:40:18 +0530",
+      "source": "BleepingComputer",
+      "title": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/",
+      "summary": "OpenAI says its AI agents uploaded user-provided images to third-party image-hosting services while carrying out research and evaluation tasks. [...]",
+      "published": "Sat, 26 Sep 2026 08:28:41 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -221,15 +233,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/",
       "summary": "AI agents can operate through human credentials and take actions that existing SOC 2 controls may not distinguish from human activity. Token Security explains why SOC 2 needs to adapt to address the security gaps created by agent identities. [...]",
       "published": "Fri, 25 Sep 2026 10:51:10 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft plans to deprecate Windows Deployment Services",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/",
-      "summary": "Microsoft announced it will deprecate the Windows Deployment Services (WDS) server role starting with the next Windows Server release. [...]",
-      "published": "Fri, 25 Sep 2026 08:40:59 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -389,6 +392,26 @@
     },
     {
       "source": "Security Week",
+      "title": "New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining",
+      "link": "https://www.securityweek.com/new-x47-c-windows-botnet-weaponizes-xai-grok-ai-api-draining/",
+      "summary": "The Windows botnet relies on AI to maintain persistence, using xAI Grok to choose from predefined actions. The post New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining appeared first on SecurityWeek .",
+      "published": "Sat, 26 Sep 2026 12:00:00 +0000",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×3"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure",
+      "link": "https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/",
+      "summary": "OpenAI’s CEO said there is an “extensive and ongoing review related to our agents’ use of internet access during training and evaluation.” The post OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure appeared first on SecurityWeek .",
+      "published": "Sat, 26 Sep 2026 10:15:41 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "In Other News: Clop Leak Site Takeover, Docker Botnet Hunts AI Keys, Water Utility Exposure",
       "link": "https://www.securityweek.com/in-other-news-clop-leak-site-takeover-docker-botnet-hunts-ai-keys-water-utility-exposure/",
       "summary": "Noteworthy stories that might have slipped under the radar: BragJack attack against browser AI assistants, TDengine flaw threatens industrial telemetry uptime, Ubuntu update overhaul. The post In Other News: Clop Leak Site Takeover, Docker Botnet Hunts AI Keys, Water Utility Exposure appeared first on SecurityWeek .",
@@ -450,27 +473,6 @@
       "value_signals": [
         "Phishing"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Roundcube Webmail Vulnerability in Attackers’ Crosshairs",
-      "link": "https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/",
-      "summary": "Tracked as CVE-2026-48842, the exploited bug is an SQL injection that can be exploited without authentication. The post Roundcube Webmail Vulnerability in Attackers’ Crosshairs appeared first on SecurityWeek .",
-      "published": "Fri, 25 Sep 2026 06:57:40 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "CVE mentioned",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Autonomous AI Hacks Raise Thorny Questions of Legal Accountability",
-      "link": "https://www.securityweek.com/autonomous-ai-hacks-raise-thorny-questions-of-legal-accountability/",
-      "summary": "The prospect of legal accountability is unclear. Lawsuits are a possibility, but some legal experts believe any criminal investigations would face an extremely high burden. The post Autonomous AI Hacks Raise Thorny Questions of Legal Accountability appeared first on SecurityWeek .",
-      "published": "Thu, 24 Sep 2026 20:35:21 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 780,
+      "count": 781,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -337,7 +337,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2701,
+      "count": 2702,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1290,7 +1290,7 @@
       ]
     },
     "national security risk": {
-      "count": 513,
+      "count": 514,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2061,7 +2061,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 614,
+      "count": 615,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2181,7 +2181,8 @@
         "2026-09-08",
         "2026-09-09",
         "2026-09-10",
-        "2026-09-24"
+        "2026-09-24",
+        "2026-09-26"
       ]
     },
     "model agnostic abstractions": {
@@ -2729,7 +2730,7 @@
       ]
     },
     "token security explains": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-01-05",
         "2026-01-06",
@@ -10609,11 +10610,12 @@
       ]
     },
     "code injection vulnerability": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-11",
         "2026-03-12",
-        "2026-04-07"
+        "2026-04-07",
+        "2026-09-26"
       ]
     },
     "royal thai police": {
@@ -29234,7 +29236,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 130,
+      "count": 131,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -31796,14 +31798,14 @@
       ]
     },
     "north korea suspected": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-25",
         "2026-09-26"
       ]
     },
     "1 6 16": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-25",
         "2026-09-26"
@@ -31817,7 +31819,7 @@
       ]
     },
     "soc doesn't need": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-25",
         "2026-09-26"
@@ -31830,67 +31832,74 @@
       ]
     },
     "security gaps created": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-25",
         "2026-09-26"
       ]
     },
     "whatsapp media events": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-25",
         "2026-09-26"
       ]
     },
     "wallet addresses linked": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-25",
         "2026-09-26"
       ]
     },
     "free usage credits": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-25",
         "2026-09-26"
       ]
     },
     "ai escape party": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-25",
         "2026-09-26"
       ]
     },
     "warning signs goes": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-25",
         "2026-09-26"
       ]
     },
     "multiple telecommunications companies": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-25",
+        "2026-09-26"
+      ]
+    },
+    "create administrator accounts": {
+      "count": 1,
+      "dates": [
+        "2026-09-26"
+      ]
+    },
+    "received threat intelligence": {
+      "count": 1,
+      "dates": [
+        "2026-09-26"
+      ]
+    },
+    "windows botnet relies": {
+      "count": 1,
+      "dates": [
         "2026-09-26"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-07 08:50",
-      "articles": 48,
-      "top_keywords": [
-        "20 plus subscription",
-        "1 1 billion",
-        "individuals whose licenses",
-        "twitter whistleblower complaint",
-        "software giant fixed"
-      ]
-    },
     {
       "timestamp": "2026-09-07 15:27",
       "articles": 48,
@@ -32978,6 +32987,17 @@
         "windows operating systems",
         "free usage credits",
         "attackers crosshairs tracked"
+      ]
+    },
+    {
+      "timestamp": "2026-09-26 14:00",
+      "articles": 48,
+      "top_keywords": [
+        "north korea suspected",
+        "create administrator accounts",
+        "free usage credits",
+        "code injection vulnerability",
+        "received threat intelligence"
       ]
     }
   ]

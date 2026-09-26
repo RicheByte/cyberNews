@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 781,
+      "count": 782,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -337,7 +337,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2702,
+      "count": 2703,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1242,7 +1242,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 193,
+      "count": 194,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -1277,7 +1277,8 @@
         "2026-08-21",
         "2026-08-24",
         "2026-08-25",
-        "2026-09-24"
+        "2026-09-24",
+        "2026-09-26"
       ]
     },
     "denmark's critical infrastructure": {
@@ -1290,7 +1291,7 @@
       ]
     },
     "national security risk": {
-      "count": 514,
+      "count": 515,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2061,7 +2062,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 615,
+      "count": 616,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -29236,7 +29237,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 131,
+      "count": 132,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -31798,7 +31799,7 @@
       ]
     },
     "north korea suspected": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-09-25",
         "2026-09-26"
@@ -31846,7 +31847,7 @@
       ]
     },
     "wallet addresses linked": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-09-25",
         "2026-09-26"
@@ -31860,39 +31861,75 @@
       ]
     },
     "ai escape party": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-25",
         "2026-09-26"
       ]
     },
     "warning signs goes": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-25",
         "2026-09-26"
       ]
     },
     "multiple telecommunications companies": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-25",
         "2026-09-26"
       ]
     },
     "create administrator accounts": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-26"
       ]
     },
     "received threat intelligence": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-26"
       ]
     },
     "windows botnet relies": {
+      "count": 2,
+      "dates": [
+        "2026-09-26"
+      ]
+    },
+    "office 2019 installations": {
+      "count": 1,
+      "dates": [
+        "2026-09-26"
+      ]
+    },
+    "fixing zero visibility": {
+      "count": 1,
+      "dates": [
+        "2026-09-26"
+      ]
+    },
+    "recent incidents including": {
+      "count": 1,
+      "dates": [
+        "2026-09-26"
+      ]
+    },
+    "ongoing review related": {
+      "count": 1,
+      "dates": [
+        "2026-09-26"
+      ]
+    },
+    "known security vulnerability": {
+      "count": 1,
+      "dates": [
+        "2026-09-26"
+      ]
+    },
+    "widely discussed intrusion": {
       "count": 1,
       "dates": [
         "2026-09-26"
@@ -31900,17 +31937,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-07 15:27",
-      "articles": 48,
-      "top_keywords": [
-        "20 plus subscription",
-        "attackers stole data",
-        "sophisticated threat group",
-        "1 1 billion",
-        "national security risk"
-      ]
-    },
     {
       "timestamp": "2026-09-07 19:32",
       "articles": 48,
@@ -32998,6 +33024,17 @@
         "free usage credits",
         "code injection vulnerability",
         "received threat intelligence"
+      ]
+    },
+    {
+      "timestamp": "2026-09-26 18:55",
+      "articles": 48,
+      "top_keywords": [
+        "north korea suspected",
+        "create administrator accounts",
+        "critical security flaw",
+        "received threat intelligence",
+        "office 2019 installations"
       ]
     }
   ]

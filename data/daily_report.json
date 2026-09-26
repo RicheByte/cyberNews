@@ -1,72 +1,96 @@
 {
-  "last_updated": "2026-09-26 14:00",
+  "last_updated": "2026-09-26 18:55",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "north korea suspected",
     "create administrator accounts",
-    "free usage credits",
-    "code injection vulnerability",
+    "critical security flaw",
     "received threat intelligence",
-    "national security risk",
-    "ai escape party",
+    "office 2019 installations",
+    "fixing zero visibility",
+    "wallet addresses linked",
     "twitter whistleblower complaint",
+    "sprawling phishing campaign",
+    "recent incidents including",
+    "ongoing review related",
     "multiple telecommunications companies",
     "individuals whose licenses",
-    "1 6 16",
-    "soc doesn't need",
-    "token security explains",
-    "security gaps created",
+    "ai escape party",
+    "national security risk",
     "warning signs goes",
+    "known security vulnerability",
     "windows operating systems",
     "windows botnet relies",
-    "whatsapp media events",
-    "wallet addresses linked",
-    "sprawling phishing campaign"
+    "widely discussed intrusion"
   ],
   "trending": [
     {
       "keyword": "north korea suspected",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "create administrator accounts",
-      "mentions": 1
+      "mentions": 2
     },
     {
-      "keyword": "free usage credits",
-      "mentions": 5
-    },
-    {
-      "keyword": "code injection vulnerability",
-      "mentions": 9
+      "keyword": "critical security flaw",
+      "mentions": 194
     },
     {
       "keyword": "received threat intelligence",
+      "mentions": 2
+    },
+    {
+      "keyword": "office 2019 installations",
       "mentions": 1
     },
     {
-      "keyword": "national security risk",
-      "mentions": 514
+      "keyword": "fixing zero visibility",
+      "mentions": 1
     },
     {
-      "keyword": "ai escape party",
-      "mentions": 5
+      "keyword": "wallet addresses linked",
+      "mentions": 7
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2702
+      "mentions": 2703
     },
     {
-      "keyword": "multiple telecommunications companies",
-      "mentions": 4
+      "keyword": "sprawling phishing campaign",
+      "mentions": 616
     },
     {
-      "keyword": "individuals whose licenses",
-      "mentions": 131
+      "keyword": "recent incidents including",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
+      "link": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
+      "summary": "Google is warning of renewed mass exploitation of a known security vulnerability in Oracle PeopleSoft as part of a campaign targeting multiple sectors globally. The ShinyHunters-linked activity involves the weaponization of CVE-2026-35273 (CVSS score: 9.8), a critical security flaw that could result in unauthenticated remote code execution. The vulnerability was first exploited as a zero-day",
+      "published": "Sat, 26 Sep 2026 17:16:40 +0530",
+      "value_score": 87,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day",
+        "RCE",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Zero Trust for AI Agents Starts With Fixing Zero Visibility",
+      "link": "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html",
+      "summary": "The way we talk about AI agents is shifting, and the way we implement them requires an even more fundamental shift. While earlier discourse focused on how quickly organizations could stand up agents and how much productivity they could promise, a string of recent incidents, including a widely discussed intrusion at Hugging Face during an evaluation of OpenAI agents, has spurred organizations to",
+      "published": "Sat, 26 Sep 2026 16:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
@@ -132,26 +156,33 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise",
-      "link": "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
-      "summary": "Cryptocurrency exchange Bitget said suspected North Korean threat actors have stolen $351.6 million from its hot and warm wallets. \"At 18:31 UTC on September 24, 2026, Bitget's security systems identified unauthorized transfers involving a limited number of hot wallets,\" BitGet said in a post shared on X. \"Bitget's cold wallets and the overwhelming majority of platform assets remain",
-      "published": "Fri, 25 Sep 2026 16:05:55 +0530",
+      "source": "BleepingComputer",
+      "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
+      "summary": "Anthropic's Claude Opus 5.5 appears to be changing how it writes, with new analysis showing fewer obvious AI writing patterns, shorter sentences, and simpler wording compared with Opus 5. [...]",
+      "published": "Sat, 26 Sep 2026 12:26:58 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild",
-      "link": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
-      "summary": "The Canadian Centre for Cyber Security has warned that a now-patched Roundcube Webmail vulnerability is being actively exploited in the wild. The vulnerability in question is CVE-2026-48842 (CVSS score: 8.1), a pre-authentication SQL injection in the virtuser_query plugin of Roundcube Webmail versions 1.6.x before 1.6.16 and 1.7.x before 1.7.1. The issue stems from a preg_replace() backslash",
-      "published": "Fri, 25 Sep 2026 15:44:02 +0530",
-      "value_score": 84,
+      "source": "BleepingComputer",
+      "title": "Microsoft pauses KB5002907 update after Office license deactivations",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/",
+      "summary": "Microsoft has paused the rollout of the KB5002907 Microsoft 365 update after users report that it deactivated, or in some cases completely removed, perpetual Office 2016 and Office 2019 installations. [...]",
+      "published": "Sat, 26 Sep 2026 11:50:38 -0400",
+      "value_score": 26,
       "value_signals": [
-        "CVE mentioned",
-        "Active exploitation ×4",
-        "Exploit wording"
+        "Patch/update ×2"
       ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "GitHub Actions re-enabled with Mini Shai-Hulud payload still active",
+      "link": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/",
+      "summary": "Two third-party GitHub Actions previously compromised in a Mini Shai-Hulud campaign were re-enabled by their maintainer and remained accessible for more than a week despite still pointing to malicious code. [...]",
+      "published": "Sat, 26 Sep 2026 10:19:46 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -208,33 +239,6 @@
         "High severity",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/",
-      "summary": "Anthropic now allows you to run Claude Code via cloud sessions without signing up for the research preview, and it's offering up to $250 in free usage credits, so more users can give it a try. [...]",
-      "published": "Fri, 25 Sep 2026 12:00:00 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/",
-      "summary": "OpenAI appears to be preparing a new ChatGPT Pro Max subscription that could cost $500 per month, but it's unclear when it'll begin rolling out. [...]",
-      "published": "Fri, 25 Sep 2026 10:54:33 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance",
-      "link": "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/",
-      "summary": "AI agents can operate through human credentials and take actions that existing SOC 2 controls may not distinguish from human activity. Token Security explains why SOC 2 needs to adapt to address the security gaps created by agent identities. [...]",
-      "published": "Fri, 25 Sep 2026 10:51:10 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -392,6 +396,15 @@
     },
     {
       "source": "Security Week",
+      "title": "China and US Agree to Establish AI Safety Channel and Continue Trade and Military Talks",
+      "link": "https://www.securityweek.com/china-and-us-agree-to-establish-ai-safety-channel-and-continue-trade-and-military-talks/",
+      "summary": "The US and China agreed to set up a communication mechanism for artificial intelligence-related incidents. The post China and US Agree to Establish AI Safety Channel and Continue Trade and Military Talks appeared first on SecurityWeek .",
+      "published": "Sat, 26 Sep 2026 18:09:28 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining",
       "link": "https://www.securityweek.com/new-x47-c-windows-botnet-weaponizes-xai-grok-ai-api-draining/",
       "summary": "The Windows botnet relies on AI to maintain persistence, using xAI Grok to choose from predefined actions. The post New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining appeared first on SecurityWeek .",
@@ -461,17 +474,6 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "‘SalesBleed’ Flaws in Salesforce Agentforce Enabled Zero-Click Data Exfiltration",
-      "link": "https://www.securityweek.com/salesbleed-flaws-in-salesforce-agentforce-enabled-zero-click-data-exfiltration/",
-      "summary": "Three vulnerabilities in Salesforce Agentforce allowed hackers to hijack trusted agents, steal data, and launch phishing attacks. The post ‘SalesBleed’ Flaws in Salesforce Agentforce Enabled Zero-Click Data Exfiltration appeared first on SecurityWeek .",
-      "published": "Fri, 25 Sep 2026 09:27:51 +0000",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
       ]
     },
     {

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-26 14:00 UTC |
+| 🕐 Last Updated | 2026-09-26 18:55 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`north korea suspected` • `create administrator accounts` • `free usage credits` • `code injection vulnerability` • `received threat intelligence` • `national security risk` • `ai escape party` • `twitter whistleblower complaint` • `multiple telecommunications companies` • `individuals whose licenses`
+`north korea suspected` • `create administrator accounts` • `critical security flaw` • `received threat intelligence` • `office 2019 installations` • `fixing zero visibility` • `wallet addresses linked` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `recent incidents including`
 
 ## 📄 Reports
 

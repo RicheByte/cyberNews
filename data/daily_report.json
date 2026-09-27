@@ -1,12 +1,13 @@
 {
-  "last_updated": "2026-09-27 19:27",
+  "last_updated": "2026-09-27 22:45",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "north korea suspected",
+    "received threat intelligence",
+    "national security risk",
     "office 2019 installations",
     "fixing zero visibility",
-    "received threat intelligence",
     "wallet addresses linked",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
@@ -18,7 +19,6 @@
     "2 000 plugins",
     "ongoing review related",
     "ai escape party",
-    "national security risk",
     "disable security monitoring",
     "critical security flaw",
     "workers paid account",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "north korea suspected",
-      "mentions": 12
-    },
-    {
-      "keyword": "office 2019 installations",
-      "mentions": 6
-    },
-    {
-      "keyword": "fixing zero visibility",
-      "mentions": 6
+      "mentions": 13
     },
     {
       "keyword": "received threat intelligence",
+      "mentions": 8
+    },
+    {
+      "keyword": "national security risk",
+      "mentions": 521
+    },
+    {
+      "keyword": "office 2019 installations",
+      "mentions": 7
+    },
+    {
+      "keyword": "fixing zero visibility",
       "mentions": 7
     },
     {
       "keyword": "wallet addresses linked",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2708
+      "mentions": 2709
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 621
+      "mentions": 622
     },
     {
       "keyword": "shinyhunters extortion gang",
-      "mentions": 20
+      "mentions": 21
     },
     {
       "keyword": "recent incidents including",
-      "mentions": 6
-    },
-    {
-      "keyword": "multiple telecommunications companies",
-      "mentions": 10
+      "mentions": 7
     }
   ],
   "articles": [
@@ -323,6 +323,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "How the CISO CFO Relationship is a Key to Cybersecurity Success",
+      "link": "https://www.darkreading.com/cyber-risk/how-to-manage-ciso-cfo-relationship-cybersecurity-success",
+      "summary": "Building a financial bridge: Organizations where CISOs and CFOs align on cybersecurity strategy to protect assets, manage risk and enable business growth are better prepared to face today's threat landscape.",
+      "published": "Fri, 25 Sep 2026 20:28:10 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "AI Sandbox Escapes: Why Forensic Readiness Matters More Than Containment",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-sandbox-escapes-forensic-readiness",
       "summary": "When autonomous AI agents \"escape the sandbox,\" the real story isn't rogue machines — it's the same access-control failures we've seen for decades.",
@@ -388,15 +397,6 @@
       "value_signals": [
         "Ransomware"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "How to Build a SASE Framework for Modern Cybersecurity",
-      "link": "https://www.darkreading.com/cloud-security/how-to-build-sase-framework",
-      "summary": "Securing edge computing requires organizations to fundamentally rethink security governance. This step-by-step guide to building a SASE framework provides the path forward. (Third in a three-part series.)",
-      "published": "Thu, 24 Sep 2026 14:02:43 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

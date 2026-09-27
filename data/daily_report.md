@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-27 19:27 UTC  
+> **Last Updated:** 2026-09-27 22:45 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**north korea suspected** • **office 2019 installations** • **fixing zero visibility** • **received threat intelligence** • **wallet addresses linked** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **shinyhunters extortion gang** • **recent incidents including** • **multiple telecommunications companies** • **individuals whose licenses** • **fake captcha page** • **2 000 plugins** • **ongoing review related** • **ai escape party** • **national security risk** • **disable security monitoring** • **critical security flaw** • **workers paid account** • **windows botnet relies**
+**north korea suspected** • **received threat intelligence** • **national security risk** • **office 2019 installations** • **fixing zero visibility** • **wallet addresses linked** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **shinyhunters extortion gang** • **recent incidents including** • **multiple telecommunications companies** • **individuals whose licenses** • **fake captcha page** • **2 000 plugins** • **ongoing review related** • **ai escape party** • **disable security monitoring** • **critical security flaw** • **workers paid account** • **windows botnet relies**
 
 ---
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [How the CISO CFO Relationship is a Key to Cybersecurity Success](https://www.darkreading.com/cyber-risk/how-to-manage-ciso-cfo-relationship-cybersecurity-success)
 - [AI Sandbox Escapes: Why Forensic Readiness Matters More Than Containment](https://www.darkreading.com/cyberattacks-data-breaches/ai-sandbox-escapes-forensic-readiness)
 - [What We Missed: Google Gemini Joins the AI Escape Party](https://www.darkreading.com/cyber-risk/what-we-missed-google-gemini-ai-escape-party)
 - [Stopping IT Worker Scams Requires Revamped HR Process](https://www.darkreading.com/cyber-risk/stopping-it-worker-scams-revamped-hr-process)
@@ -56,7 +57,6 @@
 - ['Salesbleed' Exploits Salesforce Agents to Enable Slack Phishing](https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing)
 - [SectopRAT Returns, Hiding Inside a Legitimate Application](https://www.darkreading.com/cyberattacks-data-breaches/sectoprat-returns-hiding-inside-legitimate-application)
 - [3 Cyber Threats That Defined the Summer of 2026](https://www.darkreading.com/cyberattacks-data-breaches/3-cyber-threats-defined-summer-2026)
-- [How to Build a SASE Framework for Modern Cybersecurity](https://www.darkreading.com/cloud-security/how-to-build-sase-framework)
 
 ### Security Week
 

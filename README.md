@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-27 09:44 UTC |
+| 🕐 Last Updated | 2026-09-27 14:57 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`north korea suspected` • `create administrator accounts` • `received threat intelligence` • `office 2019 installations` • `fixing zero visibility` • `wallet addresses linked` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `shinyhunters extortion gang` • `recent incidents including`
+`north korea suspected` • `received threat intelligence` • `office 2019 installations` • `fixing zero visibility` • `wallet addresses linked` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `shinyhunters extortion gang` • `recent incidents including` • `multiple telecommunications companies`
 
 ## 📄 Reports
 

@@ -1,10 +1,9 @@
 {
-  "last_updated": "2026-09-27 09:44",
+  "last_updated": "2026-09-27 14:57",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "north korea suspected",
-    "create administrator accounts",
     "received threat intelligence",
     "office 2019 installations",
     "fixing zero visibility",
@@ -13,57 +12,58 @@
     "sprawling phishing campaign",
     "shinyhunters extortion gang",
     "recent incidents including",
-    "ongoing review related",
     "multiple telecommunications companies",
     "individuals whose licenses",
     "fake captcha page",
-    "critical security flaw",
+    "2 000 plugins",
+    "ongoing review related",
     "ai escape party",
     "national security risk",
     "disable security monitoring",
+    "critical security flaw",
     "netscaler gateway appliances",
-    "known security vulnerability"
+    "workers paid account"
   ],
   "trending": [
     {
       "keyword": "north korea suspected",
-      "mentions": 10
-    },
-    {
-      "keyword": "create administrator accounts",
-      "mentions": 5
+      "mentions": 11
     },
     {
       "keyword": "received threat intelligence",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "office 2019 installations",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "fixing zero visibility",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "wallet addresses linked",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2706
+      "mentions": 2707
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 619
+      "mentions": 620
     },
     {
       "keyword": "shinyhunters extortion gang",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "recent incidents including",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "multiple telecommunications companies",
+      "mentions": 9
     }
   ],
   "articles": [
@@ -161,6 +161,26 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Cloudflare fixes Containers cross-tenant flaw exposing customer data",
+      "link": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
+      "summary": "Cloudflare has fixed a vulnerability in Containers and Sandboxes that allowed customers with a Workers Paid account to recover residual data from other customers' containers on the same physical host. [...]",
+      "published": "Sun, 27 Sep 2026 10:13:31 -0400",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/",
+      "summary": "Anthropic has just announced a new Claude Marketplace, and it brings all AI-related tools into one place, including plugins, connectors, agents, and more. [...]",
+      "published": "Sun, 27 Sep 2026 09:38:40 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
       "summary": "The ShinyHunters extortion gang is using a URL-encoding trick to bypass web application firewall rules that mitigate the Oracle PeopleSoft CVE-2026-35273 flaw, allowing the threat actors to resume widespread exploitation of a flaw on vulnerable servers. [...]",
@@ -219,27 +239,6 @@
       "value_signals": [
         "Zero-day"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/",
-      "summary": "The Clop ransomware gang has moved its data leak site to a new Tor address after confirming its previous server was compromised and defaced through an unpatched Grav CMS flaw that BleepingComputer has learned is an unauthenticated path traversal vulnerability. [...]",
-      "published": "Fri, 25 Sep 2026 16:57:55 -0400",
-      "value_score": 52,
-      "value_signals": [
-        "Ransomware",
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Elementor WordPress flaw lets attackers create admin accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/",
-      "summary": "A cross-site request forgery (CSRF) vulnerability in the Elementor plugin for WordPress could allow an unauthenticated attacker to create administrator accounts. [...]",
-      "published": "Fri, 25 Sep 2026 14:13:33 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

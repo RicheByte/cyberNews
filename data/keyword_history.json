@@ -337,7 +337,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2706,
+      "count": 2707,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1243,7 +1243,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 197,
+      "count": 198,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -1293,7 +1293,7 @@
       ]
     },
     "national security risk": {
-      "count": 518,
+      "count": 519,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2065,7 +2065,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 619,
+      "count": 620,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -8999,7 +8999,7 @@
       ]
     },
     "shinyhunters extortion gang": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-02-24",
         "2026-03-30",
@@ -12527,7 +12527,7 @@
       ]
     },
     "fake captcha page": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-03-28",
         "2026-03-29",
@@ -29245,7 +29245,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 135,
+      "count": 136,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -31808,7 +31808,7 @@
       ]
     },
     "north korea suspected": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-09-25",
         "2026-09-26",
@@ -31857,7 +31857,7 @@
       ]
     },
     "wallet addresses linked": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-09-25",
         "2026-09-26",
@@ -31872,7 +31872,7 @@
       ]
     },
     "ai escape party": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-09-25",
         "2026-09-26",
@@ -31887,7 +31887,7 @@
       ]
     },
     "multiple telecommunications companies": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-09-25",
         "2026-09-26",
@@ -31902,7 +31902,7 @@
       ]
     },
     "received threat intelligence": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-26",
         "2026-09-27"
@@ -31915,28 +31915,28 @@
       ]
     },
     "office 2019 installations": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-26",
         "2026-09-27"
       ]
     },
     "fixing zero visibility": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-26",
         "2026-09-27"
       ]
     },
     "recent incidents including": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-26",
         "2026-09-27"
       ]
     },
     "ongoing review related": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-26",
         "2026-09-27"
@@ -31956,7 +31956,7 @@
       ]
     },
     "disable security monitoring": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-26",
         "2026-09-27"
@@ -31970,6 +31970,18 @@
       ]
     },
     "netscaler gateway appliances": {
+      "count": 2,
+      "dates": [
+        "2026-09-27"
+      ]
+    },
+    "2 000 plugins": {
+      "count": 1,
+      "dates": [
+        "2026-09-27"
+      ]
+    },
+    "workers paid account": {
       "count": 1,
       "dates": [
         "2026-09-27"
@@ -31977,17 +31989,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-08 08:30",
-      "articles": 48,
-      "top_keywords": [
-        "sophisticated threat group",
-        "widespread data theft",
-        "residential proxy node",
-        "1 1 billion",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-09-08 14:03",
       "articles": 48,
@@ -33075,6 +33076,17 @@
         "received threat intelligence",
         "office 2019 installations",
         "fixing zero visibility"
+      ]
+    },
+    {
+      "timestamp": "2026-09-27 14:57",
+      "articles": 48,
+      "top_keywords": [
+        "north korea suspected",
+        "received threat intelligence",
+        "office 2019 installations",
+        "fixing zero visibility",
+        "wallet addresses linked"
       ]
     }
   ]

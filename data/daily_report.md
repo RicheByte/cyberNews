@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-27 14:57 UTC  
+> **Last Updated:** 2026-09-27 19:27 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**north korea suspected** • **received threat intelligence** • **office 2019 installations** • **fixing zero visibility** • **wallet addresses linked** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **shinyhunters extortion gang** • **recent incidents including** • **multiple telecommunications companies** • **individuals whose licenses** • **fake captcha page** • **2 000 plugins** • **ongoing review related** • **ai escape party** • **national security risk** • **disable security monitoring** • **critical security flaw** • **netscaler gateway appliances** • **workers paid account**
+**north korea suspected** • **office 2019 installations** • **fixing zero visibility** • **received threat intelligence** • **wallet addresses linked** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **shinyhunters extortion gang** • **recent incidents including** • **multiple telecommunications companies** • **individuals whose licenses** • **fake captcha page** • **2 000 plugins** • **ongoing review related** • **ai escape party** • **national security risk** • **disable security monitoring** • **critical security flaw** • **workers paid account** • **windows botnet relies**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Citrix confirms two NetScaler RCE zero-days exploited in attacks](https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/)
 - [Cloudflare fixes Containers cross-tenant flaw exposing customer data](https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/)
 - [Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/)
 - [ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks](https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/)
@@ -34,7 +35,6 @@
 - [Microsoft pauses KB5002907 update after Office license deactivations](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/)
 - [GitHub Actions re-enabled with Mini Shai-Hulud payload still active](https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/)
 - [OpenAI's AI agents accidentally uploaded user-provided images to third-party sites](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/)
-- [Kiteworks urges 6-hour server shutdown over potential zero-day attacks](https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/)
 
 ### Krebs on Security
 

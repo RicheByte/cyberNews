@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-27 14:57",
+  "last_updated": "2026-09-27 19:27",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "north korea suspected",
-    "received threat intelligence",
     "office 2019 installations",
     "fixing zero visibility",
+    "received threat intelligence",
     "wallet addresses linked",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
@@ -21,49 +21,49 @@
     "national security risk",
     "disable security monitoring",
     "critical security flaw",
-    "netscaler gateway appliances",
-    "workers paid account"
+    "workers paid account",
+    "windows botnet relies"
   ],
   "trending": [
     {
       "keyword": "north korea suspected",
-      "mentions": 11
-    },
-    {
-      "keyword": "received threat intelligence",
-      "mentions": 6
+      "mentions": 12
     },
     {
       "keyword": "office 2019 installations",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "fixing zero visibility",
-      "mentions": 5
+      "mentions": 6
+    },
+    {
+      "keyword": "received threat intelligence",
+      "mentions": 7
     },
     {
       "keyword": "wallet addresses linked",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2707
+      "mentions": 2708
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 620
+      "mentions": 621
     },
     {
       "keyword": "shinyhunters extortion gang",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "keyword": "recent incidents including",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "multiple telecommunications companies",
-      "mentions": 9
+      "mentions": 10
     }
   ],
   "articles": [
@@ -71,14 +71,13 @@
       "source": "The Hacker News",
       "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
       "link": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
-      "summary": "Two new unpatched zero-day vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway appliances that allow remote code execution are being actively exploited in the wild, security firm watchTowr said on September 26. Citrix has not confirmed the flaws or published a fix. Some administrators say they have taken appliances offline rather than wait for one to be available. NetScaler ADC and",
+      "summary": "Two critical vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway that allow remote code execution have been exploited in the wild, Citrix confirmed on September 27. It released fixes for both, along with six other flaws. One of the two affects every deployment on an affected version, including those in the default configuration. The bulletin came a day after security firm watchTowr",
       "published": "Sun, 27 Sep 2026 13:17:57 +0530",
-      "value_score": 100,
+      "value_score": 89,
       "value_signals": [
-        "Zero-day",
-        "Active exploitation ×2",
+        "Active exploitation",
         "RCE ×2",
-        "Patch/update",
+        "High severity",
         "Exploit wording"
       ]
     },
@@ -161,6 +160,22 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
+      "summary": "Citrix has confirmed that two critical NetScaler remote code execution vulnerabilities, tracked as CVE-2026-88771 and CVE-2026-88772, are being exploited in attacks and that it has released security updates to fix the flaws. [...]",
+      "published": "Sun, 27 Sep 2026 12:02:37 -0400",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "RCE ×2",
+        "Patch/update",
+        "High severity",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Cloudflare fixes Containers cross-tenant flaw exposing customer data",
       "link": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
       "summary": "Cloudflare has fixed a vulnerability in Containers and Sandboxes that allowed customers with a Workers Paid account to recover residual data from other customers' containers on the same physical host. [...]",
@@ -228,17 +243,6 @@
       "published": "Sat, 26 Sep 2026 08:28:41 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/",
-      "summary": "Secure file-sharing software company Kiteworks is urging customers worldwide to temporarily shut down their servers on Saturday for a six-hour window after receiving threat intelligence warning of a potentially imminent cyberattack. [...]",
-      "published": "Fri, 25 Sep 2026 17:41:07 -0400",
-      "value_score": 35,
-      "value_signals": [
-        "Zero-day"
-      ]
     },
     {
       "source": "Krebs on Security",

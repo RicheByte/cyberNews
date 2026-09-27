@@ -337,7 +337,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2707,
+      "count": 2708,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1243,7 +1243,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 198,
+      "count": 199,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -1293,7 +1293,7 @@
       ]
     },
     "national security risk": {
-      "count": 519,
+      "count": 520,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2065,7 +2065,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 620,
+      "count": 621,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -8999,7 +8999,7 @@
       ]
     },
     "shinyhunters extortion gang": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-02-24",
         "2026-03-30",
@@ -12527,7 +12527,7 @@
       ]
     },
     "fake captcha page": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-03-28",
         "2026-03-29",
@@ -29245,7 +29245,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 136,
+      "count": 137,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -31808,7 +31808,7 @@
       ]
     },
     "north korea suspected": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-09-25",
         "2026-09-26",
@@ -31857,7 +31857,7 @@
       ]
     },
     "wallet addresses linked": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-09-25",
         "2026-09-26",
@@ -31872,7 +31872,7 @@
       ]
     },
     "ai escape party": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-09-25",
         "2026-09-26",
@@ -31887,7 +31887,7 @@
       ]
     },
     "multiple telecommunications companies": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-09-25",
         "2026-09-26",
@@ -31902,41 +31902,42 @@
       ]
     },
     "received threat intelligence": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-09-26",
         "2026-09-27"
       ]
     },
     "windows botnet relies": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-09-26"
+        "2026-09-26",
+        "2026-09-27"
       ]
     },
     "office 2019 installations": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-26",
         "2026-09-27"
       ]
     },
     "fixing zero visibility": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-26",
         "2026-09-27"
       ]
     },
     "recent incidents including": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-26",
         "2026-09-27"
       ]
     },
     "ongoing review related": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-26",
         "2026-09-27"
@@ -31956,7 +31957,7 @@
       ]
     },
     "disable security monitoring": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-26",
         "2026-09-27"
@@ -31976,30 +31977,19 @@
       ]
     },
     "2 000 plugins": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-27"
       ]
     },
     "workers paid account": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-27"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-08 14:03",
-      "articles": 48,
-      "top_keywords": [
-        "multi agent frameworks",
-        "widespread data theft",
-        "students teachers staff",
-        "n central administrators",
-        "sophisticated threat group"
-      ]
-    },
     {
       "timestamp": "2026-09-08 19:12",
       "articles": 48,
@@ -33086,6 +33076,17 @@
         "received threat intelligence",
         "office 2019 installations",
         "fixing zero visibility",
+        "wallet addresses linked"
+      ]
+    },
+    {
+      "timestamp": "2026-09-27 19:27",
+      "articles": 48,
+      "top_keywords": [
+        "north korea suspected",
+        "office 2019 installations",
+        "fixing zero visibility",
+        "received threat intelligence",
         "wallet addresses linked"
       ]
     }

@@ -337,7 +337,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2705,
+      "count": 2706,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1243,7 +1243,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 196,
+      "count": 197,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -1293,7 +1293,7 @@
       ]
     },
     "national security risk": {
-      "count": 517,
+      "count": 518,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2065,7 +2065,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 618,
+      "count": 619,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -8999,7 +8999,7 @@
       ]
     },
     "shinyhunters extortion gang": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-02-24",
         "2026-03-30",
@@ -12527,7 +12527,7 @@
       ]
     },
     "fake captcha page": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-03-28",
         "2026-03-29",
@@ -29245,7 +29245,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 134,
+      "count": 135,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -31808,7 +31808,7 @@
       ]
     },
     "north korea suspected": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-09-25",
         "2026-09-26",
@@ -31857,7 +31857,7 @@
       ]
     },
     "wallet addresses linked": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-09-25",
         "2026-09-26",
@@ -31872,7 +31872,7 @@
       ]
     },
     "ai escape party": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-09-25",
         "2026-09-26",
@@ -31887,7 +31887,7 @@
       ]
     },
     "multiple telecommunications companies": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-09-25",
         "2026-09-26",
@@ -31895,14 +31895,14 @@
       ]
     },
     "create administrator accounts": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-26",
         "2026-09-27"
       ]
     },
     "received threat intelligence": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-26",
         "2026-09-27"
@@ -31915,35 +31915,35 @@
       ]
     },
     "office 2019 installations": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-26",
         "2026-09-27"
       ]
     },
     "fixing zero visibility": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-26",
         "2026-09-27"
       ]
     },
     "recent incidents including": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-26",
         "2026-09-27"
       ]
     },
     "ongoing review related": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-26",
         "2026-09-27"
       ]
     },
     "known security vulnerability": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-26",
         "2026-09-27"
@@ -31956,7 +31956,7 @@
       ]
     },
     "disable security monitoring": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-26",
         "2026-09-27"
@@ -31968,20 +31968,15 @@
         "2026-09-26",
         "2026-09-27"
       ]
+    },
+    "netscaler gateway appliances": {
+      "count": 1,
+      "dates": [
+        "2026-09-27"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-08 02:40",
-      "articles": 48,
-      "top_keywords": [
-        "sophisticated threat group",
-        "widespread data theft",
-        "residential proxy node",
-        "1 1 billion",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-09-08 08:30",
       "articles": 48,
@@ -33062,6 +33057,17 @@
     },
     {
       "timestamp": "2026-09-27 03:13",
+      "articles": 48,
+      "top_keywords": [
+        "north korea suspected",
+        "create administrator accounts",
+        "received threat intelligence",
+        "office 2019 installations",
+        "fixing zero visibility"
+      ]
+    },
+    {
+      "timestamp": "2026-09-27 09:44",
       "articles": 48,
       "top_keywords": [
         "north korea suspected",

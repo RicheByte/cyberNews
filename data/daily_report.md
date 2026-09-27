@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-27 03:13 UTC  
+> **Last Updated:** 2026-09-27 09:44 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**north korea suspected** • **create administrator accounts** • **received threat intelligence** • **office 2019 installations** • **fixing zero visibility** • **wallet addresses linked** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **shinyhunters extortion gang** • **recent incidents including** • **ongoing review related** • **multiple telecommunications companies** • **individuals whose licenses** • **fake captcha page** • **critical security flaw** • **ai escape party** • **national security risk** • **disable security monitoring** • **attack chain begins** • **known security vulnerability**
+**north korea suspected** • **create administrator accounts** • **received threat intelligence** • **office 2019 installations** • **fixing zero visibility** • **wallet addresses linked** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **shinyhunters extortion gang** • **recent incidents including** • **ongoing review related** • **multiple telecommunications companies** • **individuals whose licenses** • **fake captcha page** • **critical security flaw** • **ai escape party** • **national security risk** • **disable security monitoring** • **netscaler gateway appliances** • **known security vulnerability**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation](https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html)
 - [Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials](https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html)
 - [Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells](https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html)
 - [Zero Trust for AI Agents Starts With Fixing Zero Visibility](https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html)
@@ -23,7 +24,6 @@
 - [SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild](https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html)
 - [Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack](https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html)
 - [Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware](https://thehackernews.com/2026/09/compromised-github-actions-came-back.html)
-- [PamStealer macOS Malware Adds Live C2 Payload Decryption and Multi-Layer Persistence](https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html)
 
 ### BleepingComputer
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks](https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/)
 - [China and US Agree to Establish AI Safety Channel and Continue Trade and Military Talks](https://www.securityweek.com/china-and-us-agree-to-establish-ai-safety-channel-and-continue-trade-and-military-talks/)
 - [New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining](https://www.securityweek.com/new-x47-c-windows-botnet-weaponizes-xai-grok-ai-api-draining/)
 - [OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure](https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/)
@@ -67,7 +68,6 @@
 - [North Korea Suspected in $351 Million Bitget Crypto Heist](https://www.securityweek.com/north-korea-suspected-in-351-million-bitget-crypto-heist/)
 - [CISA Election Security Plan Flags Patching Barriers, Voter Database Attacks](https://www.securityweek.com/cisa-election-security-plan-flags-patching-barriers-voter-database-attacks/)
 - [Kosovar Owner of Rydox Marketplace Pleads Guilty in US Court](https://www.securityweek.com/kosovar-owner-of-rydox-marketplace-pleads-guilty-in-us-court/)
-- [Windows, Linux, Android File Notification Systems Leak User Activity](https://www.securityweek.com/windows-linux-android-file-notification-systems-leak-user-activity/)
 
 ### Threatpost
 

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-28 10:24 UTC |
+| 🕐 Last Updated | 2026-09-28 19:07 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`north korea suspected` • `national security risk` • `critical security flaw` • `fixing zero visibility` • `wallet addresses linked` • `twitter whistleblower complaint` • `shinyhunters extortion gang` • `recent incidents including` • `individuals whose licenses` • `fake captcha page`
+`ai escape party` • `national security risk` • `twitter whistleblower complaint` • `threat actor known` • `individuals whose licenses` • `cisa orders feds` • `advance deepfake detection` • `modulate s intention` • `reference system design` • `former us soldier`
 
 ## 📄 Reports
 

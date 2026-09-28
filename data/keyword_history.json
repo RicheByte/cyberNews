@@ -337,7 +337,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2711,
+      "count": 2712,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -753,7 +753,7 @@
       ]
     },
     "threat actor known": {
-      "count": 70,
+      "count": 71,
       "dates": [
         "2025-12-17",
         "2025-12-30",
@@ -773,7 +773,8 @@
         "2026-09-01",
         "2026-09-16",
         "2026-09-17",
-        "2026-09-22"
+        "2026-09-22",
+        "2026-09-28"
       ]
     },
     "firefox web browser": {
@@ -1295,7 +1296,7 @@
       ]
     },
     "national security risk": {
-      "count": 523,
+      "count": 524,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -4369,7 +4370,7 @@
       ]
     },
     "released security updates": {
-      "count": 141,
+      "count": 142,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -4411,7 +4412,8 @@
         "2026-09-19",
         "2026-09-20",
         "2026-09-21",
-        "2026-09-23"
+        "2026-09-23",
+        "2026-09-28"
       ]
     },
     "auditability collide daily": {
@@ -11685,7 +11687,7 @@
       ]
     },
     "former u s": {
-      "count": 65,
+      "count": 66,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -20401,7 +20403,7 @@
       ]
     },
     "security experts warn": {
-      "count": 62,
+      "count": 63,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -20420,7 +20422,8 @@
         "2026-09-21",
         "2026-09-22",
         "2026-09-23",
-        "2026-09-24"
+        "2026-09-24",
+        "2026-09-28"
       ]
     },
     "targets 217 banking": {
@@ -22671,7 +22674,7 @@
       ]
     },
     "cisa orders feds": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-07-08",
         "2026-07-09",
@@ -29254,7 +29257,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 140,
+      "count": 141,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -31884,7 +31887,7 @@
       ]
     },
     "ai escape party": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-09-25",
         "2026-09-26",
@@ -32016,20 +32019,75 @@
       "dates": [
         "2026-09-28"
       ]
+    },
+    "advance deepfake detection": {
+      "count": 1,
+      "dates": [
+        "2026-09-28"
+      ]
+    },
+    "modulate s intention": {
+      "count": 1,
+      "dates": [
+        "2026-09-28"
+      ]
+    },
+    "reference system design": {
+      "count": 1,
+      "dates": [
+        "2026-09-28"
+      ]
+    },
+    "former us soldier": {
+      "count": 1,
+      "dates": [
+        "2026-09-28"
+      ]
+    },
+    "bitget's wallet system": {
+      "count": 1,
+      "dates": [
+        "2026-09-28"
+      ]
+    },
+    "early june 2026": {
+      "count": 1,
+      "dates": [
+        "2026-09-28"
+      ]
+    },
+    "cve 2026 88772": {
+      "count": 1,
+      "dates": [
+        "2026-09-28"
+      ]
+    },
+    "cve 2026 88771": {
+      "count": 1,
+      "dates": [
+        "2026-09-28"
+      ]
+    },
+    "practical enterprise framework": {
+      "count": 1,
+      "dates": [
+        "2026-09-28"
+      ]
+    },
+    "threat actor's tradecraft": {
+      "count": 1,
+      "dates": [
+        "2026-09-28"
+      ]
+    },
+    "targeting azure tenants": {
+      "count": 1,
+      "dates": [
+        "2026-09-28"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-09 08:32",
-      "articles": 48,
-      "top_keywords": [
-        "brazilian financial institution",
-        "deploy linux rootkit",
-        "least march 2026",
-        "victim's gmail data",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-09-09 14:05",
       "articles": 48,
@@ -33117,6 +33175,17 @@
         "critical security flaw",
         "fixing zero visibility",
         "wallet addresses linked"
+      ]
+    },
+    {
+      "timestamp": "2026-09-28 19:07",
+      "articles": 48,
+      "top_keywords": [
+        "ai escape party",
+        "national security risk",
+        "twitter whistleblower complaint",
+        "threat actor known",
+        "individuals whose licenses"
       ]
     }
   ]

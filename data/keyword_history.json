@@ -337,7 +337,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2710,
+      "count": 2711,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1244,7 +1244,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 201,
+      "count": 202,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -1295,7 +1295,7 @@
       ]
     },
     "national security risk": {
-      "count": 522,
+      "count": 523,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -9003,7 +9003,7 @@
       ]
     },
     "shinyhunters extortion gang": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-02-24",
         "2026-03-30",
@@ -10622,12 +10622,13 @@
       ]
     },
     "code injection vulnerability": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-11",
         "2026-03-12",
         "2026-04-07",
-        "2026-09-26"
+        "2026-09-26",
+        "2026-09-28"
       ]
     },
     "royal thai police": {
@@ -11684,7 +11685,7 @@
       ]
     },
     "former u s": {
-      "count": 64,
+      "count": 65,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11692,7 +11693,8 @@
         "2026-03-23",
         "2026-03-24",
         "2026-03-25",
-        "2026-03-26"
+        "2026-03-26",
+        "2026-09-28"
       ]
     },
     "ransomware gang known": {
@@ -12532,7 +12534,7 @@
       ]
     },
     "fake captcha page": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-03-28",
         "2026-03-29",
@@ -22669,14 +22671,15 @@
       ]
     },
     "cisa orders feds": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-07-08",
         "2026-07-09",
         "2026-08-21",
         "2026-08-22",
         "2026-08-23",
-        "2026-09-22"
+        "2026-09-22",
+        "2026-09-28"
       ]
     },
     "hijack ai conversations": {
@@ -29251,7 +29254,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 139,
+      "count": 140,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -31815,7 +31818,7 @@
       ]
     },
     "north korea suspected": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-09-25",
         "2026-09-26",
@@ -31865,7 +31868,7 @@
       ]
     },
     "wallet addresses linked": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-09-25",
         "2026-09-26",
@@ -31881,7 +31884,7 @@
       ]
     },
     "ai escape party": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-09-25",
         "2026-09-26",
@@ -31921,7 +31924,7 @@
       ]
     },
     "windows botnet relies": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-26",
         "2026-09-27",
@@ -31937,7 +31940,7 @@
       ]
     },
     "fixing zero visibility": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-09-26",
         "2026-09-27",
@@ -31945,7 +31948,7 @@
       ]
     },
     "recent incidents including": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-09-26",
         "2026-09-27",
@@ -31953,7 +31956,7 @@
       ]
     },
     "ongoing review related": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-09-26",
         "2026-09-27",
@@ -31974,7 +31977,7 @@
       ]
     },
     "disable security monitoring": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-09-26",
         "2026-09-27",
@@ -31995,32 +31998,27 @@
       ]
     },
     "2 000 plugins": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-27",
         "2026-09-28"
       ]
     },
     "workers paid account": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-27",
+        "2026-09-28"
+      ]
+    },
+    "ai related tools": {
+      "count": 1,
+      "dates": [
         "2026-09-28"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-09 02:40",
-      "articles": 40,
-      "top_keywords": [
-        "brazilian financial institution",
-        "least march 2026",
-        "victim's gmail data",
-        "twitter whistleblower complaint",
-        "siphoning images collected"
-      ]
-    },
     {
       "timestamp": "2026-09-09 08:32",
       "articles": 48,
@@ -33108,6 +33106,17 @@
         "national security risk",
         "office 2019 installations",
         "fixing zero visibility"
+      ]
+    },
+    {
+      "timestamp": "2026-09-28 10:24",
+      "articles": 48,
+      "top_keywords": [
+        "north korea suspected",
+        "national security risk",
+        "critical security flaw",
+        "fixing zero visibility",
+        "wallet addresses linked"
       ]
     }
   ]

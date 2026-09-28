@@ -1,72 +1,95 @@
 {
-  "last_updated": "2026-09-28 03:10",
+  "last_updated": "2026-09-28 10:24",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "north korea suspected",
-    "received threat intelligence",
     "national security risk",
-    "office 2019 installations",
+    "critical security flaw",
     "fixing zero visibility",
     "wallet addresses linked",
     "twitter whistleblower complaint",
-    "sprawling phishing campaign",
     "shinyhunters extortion gang",
     "recent incidents including",
-    "multiple telecommunications companies",
     "individuals whose licenses",
     "fake captcha page",
+    "cisa orders feds",
     "2 000 plugins",
+    "code injection vulnerability",
+    "former u s",
     "ongoing review related",
     "ai escape party",
     "disable security monitoring",
-    "critical security flaw",
+    "ai related tools",
     "workers paid account",
     "windows botnet relies"
   ],
   "trending": [
     {
       "keyword": "north korea suspected",
-      "mentions": 14
-    },
-    {
-      "keyword": "received threat intelligence",
-      "mentions": 9
+      "mentions": 15
     },
     {
       "keyword": "national security risk",
-      "mentions": 522
+      "mentions": 523
     },
     {
-      "keyword": "office 2019 installations",
-      "mentions": 8
+      "keyword": "critical security flaw",
+      "mentions": 202
     },
     {
       "keyword": "fixing zero visibility",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "wallet addresses linked",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2710
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 623
+      "mentions": 2711
     },
     {
       "keyword": "shinyhunters extortion gang",
-      "mentions": 22
+      "mentions": 23
     },
     {
       "keyword": "recent incidents including",
-      "mentions": 8
+      "mentions": 9
+    },
+    {
+      "keyword": "individuals whose licenses",
+      "mentions": 140
+    },
+    {
+      "keyword": "fake captcha page",
+      "mentions": 30
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources",
+      "link": "https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html",
+      "summary": "The threat actor known as JADEPUFFER has been observed orchestrating destructive actions within a Microsoft Azure environment using compromised service principals. Microsoft, which is tracking the activity under the name Storm-3168, has called it an evolution of the threat actor's tradecraft. The attack took place in early June 2026 over a period of about 18 hours. \"The destructive operations",
+      "published": "Mon, 28 Sep 2026 14:38:21 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally",
+      "link": "https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Sunday added two critical Citrix NetScaler ADC and Gateway flaws to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerabilities are listed below - CVE-2026-88771 (CVSS score: 9.5) - An improper input validation vulnerability that could allow an unauthenticated attacker to",
+      "published": "Mon, 28 Sep 2026 12:51:49 +0530",
+      "value_score": 90,
+      "value_signals": [
+        "CVE mentioned",
+        "CISA/KEV ×4",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
@@ -141,22 +164,36 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack",
-      "link": "https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html",
-      "summary": "Kiteworks (formerly Accellion) is urging customers to shut down their systems as a precautionary measure for nine hours over the weekend after it received threat intelligence about an imminent cyber attack. \"Kiteworks received credible threat intelligence from federal intelligence authorities indicating that a threat actor may attempt to target some Kiteworks systems,\" said Frank Balonis, Chief",
-      "published": "Sat, 26 Sep 2026 13:18:33 +0530",
+      "source": "BleepingComputer",
+      "title": "Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist",
+      "link": "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/",
+      "summary": "Cryptocurrency exchange Bitget has resumed Bitcoin withdrawals suspended after suspected North Korean hackers breached its systems last week and stole over $350 million. [...]",
+      "published": "Mon, 28 Sep 2026 05:25:29 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware",
-      "link": "https://thehackernews.com/2026/09/compromised-github-actions-came-back.html",
-      "summary": "Two actions-cool GitHub Actions have been disabled for a second time after the repositories became accessible last week, months after they were compromised during the May 2026 Mini Shai-Hulud campaign. The affected GitHub Actions are listed below - actions-cool/issues-helper actions-cool/maintain-one-comment Visiting either of the repositories now shows the message: \"Access to this",
-      "published": "Fri, 25 Sep 2026 20:14:41 +0530",
+      "source": "BleepingComputer",
+      "title": "US soldier gets 70 months in prison for extorting 10 tech, telecom firms",
+      "link": "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/",
+      "summary": "A former U.S. Army soldier has been sentenced to 70 months in prison for hacking and extorting at least 10 U.S. technology and telecommunications companies between April 2023 and December 2024. [...]",
+      "published": "Mon, 28 Sep 2026 03:30:15 -0400",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "CISA orders feds to patch exploited Citrix flaws by Wednesday",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies over the weekend to secure their systems against attacks exploiting two critical Citrix NetScaler vulnerabilities. [...]",
+      "published": "Mon, 28 Sep 2026 02:24:19 -0400",
+      "value_score": 72,
+      "value_signals": [
+        "Patch/update",
+        "CISA/KEV ×2",
+        "High severity",
+        "Exploit wording"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -214,35 +251,6 @@
         "CVE mentioned",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
-      "summary": "Anthropic's Claude Opus 5.5 appears to be changing how it writes, with new analysis showing fewer obvious AI writing patterns, shorter sentences, and simpler wording compared with Opus 5. [...]",
-      "published": "Sat, 26 Sep 2026 12:26:58 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft pauses KB5002907 update after Office license deactivations",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/",
-      "summary": "Microsoft has paused the rollout of the KB5002907 Microsoft 365 update after users report that it deactivated, or in some cases completely removed, perpetual Office 2016 and Office 2019 installations. [...]",
-      "published": "Sat, 26 Sep 2026 11:50:38 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "GitHub Actions re-enabled with Mini Shai-Hulud payload still active",
-      "link": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/",
-      "summary": "Two third-party GitHub Actions previously compromised in a Mini Shai-Hulud campaign were re-enabled by their maintainer and remained accessible for more than a week despite still pointing to malicious code. [...]",
-      "published": "Sat, 26 Sep 2026 10:19:46 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -400,6 +408,28 @@
     },
     {
       "source": "Security Week",
+      "title": "Kiteworks Urges Server Shutdown, Finds Advanced Forms Vulnerability",
+      "link": "https://www.securityweek.com/kiteworks-urges-server-shutdown-finds-advanced-forms-vulnerability/",
+      "summary": "The company says the measure was precautionary and that it has no evidence of Kiteworks or customer systems being compromised. The post Kiteworks Urges Server Shutdown, Finds Advanced Forms Vulnerability appeared first on SecurityWeek .",
+      "published": "Mon, 28 Sep 2026 09:44:27 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Citrix Confirms 2 NetScaler Zero-Days After Admins Pulled the Plug",
+      "link": "https://www.securityweek.com/citrix-confirms-2-netscaler-zero-days-after-admins-pulled-the-plug/",
+      "summary": "Citrix has released patches for the critical NetScaler vulnerabilities tracked as CVE-2026-88771 and CVE-2026-88772. The post Citrix Confirms 2 NetScaler Zero-Days After Admins Pulled the Plug appeared first on SecurityWeek .",
+      "published": "Mon, 28 Sep 2026 07:29:51 +0000",
+      "value_score": 62,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "High severity",
+        "Multiple CVEs"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks",
       "link": "https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/",
       "summary": "CISA added CVE-2026-65660 to its KEV catalog, giving federal agencies a patching deadline of September 28. The post Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks appeared first on SecurityWeek .",
@@ -460,26 +490,6 @@
       "link": "https://www.securityweek.com/north-korea-suspected-in-351-million-bitget-crypto-heist/",
       "summary": "Bitget’s security systems caught the unauthorized transfers on September 24, and some wallet addresses linked to the attacker have been frozen. The post North Korea Suspected in $351 Million Bitget Crypto Heist appeared first on SecurityWeek .",
       "published": "Fri, 25 Sep 2026 14:16:18 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "CISA Election Security Plan Flags Patching Barriers, Voter Database Attacks",
-      "link": "https://www.securityweek.com/cisa-election-security-plan-flags-patching-barriers-voter-database-attacks/",
-      "summary": "Homeland Security Secretary Markwayne Mullin tasked CISA with developing the plan in July. The post CISA Election Security Plan Flags Patching Barriers, Voter Database Attacks appeared first on SecurityWeek .",
-      "published": "Fri, 25 Sep 2026 12:39:12 +0000",
-      "value_score": 50,
-      "value_signals": [
-        "CISA/KEV ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Kosovar Owner of Rydox Marketplace Pleads Guilty in US Court",
-      "link": "https://www.securityweek.com/kosovar-owner-of-rydox-marketplace-pleads-guilty-in-us-court/",
-      "summary": "Ardit Kutleshi created and operated Rydox, which allowed miscreants to trade PII and cybercrime tools and services. The post Kosovar Owner of Rydox Marketplace Pleads Guilty in US Court appeared first on SecurityWeek .",
-      "published": "Fri, 25 Sep 2026 12:16:27 +0000",
       "value_score": 10,
       "value_signals": []
     },

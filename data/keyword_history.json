@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 783,
+      "count": 784,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -338,7 +338,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2715,
+      "count": 2716,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -9131,7 +9131,7 @@
       ]
     },
     "shinyhunters extortion group": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2026-02-24",
         "2026-02-25",
@@ -9144,7 +9144,8 @@
         "2026-07-27",
         "2026-08-27",
         "2026-08-31",
-        "2026-09-01"
+        "2026-09-01",
+        "2026-09-29"
       ]
     },
     "delivers valuable data": {
@@ -22544,10 +22545,11 @@
       ]
     },
     "windows 11 26h2": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-07",
-        "2026-07-08"
+        "2026-07-08",
+        "2026-09-29"
       ]
     },
     "open source packages": {
@@ -29176,7 +29178,7 @@
       ]
     },
     "longest running spree": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-09-01",
         "2026-09-04",
@@ -29188,7 +29190,8 @@
         "2026-09-13",
         "2026-09-14",
         "2026-09-15",
-        "2026-09-22"
+        "2026-09-22",
+        "2026-09-29"
       ]
     },
     "external actors attempted": {
@@ -29267,7 +29270,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 144,
+      "count": 145,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29910,7 +29913,7 @@
       ]
     },
     "siphoning images collected": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-09-08",
         "2026-09-09",
@@ -32126,7 +32129,7 @@
       ]
     },
     "unauthorized actions openai": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-29"
       ]
@@ -32138,25 +32141,25 @@
       ]
     },
     "wall street journal": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-29"
       ]
     },
     "rig security emerges": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-29"
       ]
     },
     "hacker group shinyhunters": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-29"
       ]
     },
     "executing powershell commands": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-29"
       ]
@@ -32168,7 +32171,7 @@
       ]
     },
     "identity dependencies graph": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-29"
       ]
@@ -32190,20 +32193,51 @@
       "dates": [
         "2026-09-29"
       ]
+    },
+    "darpa selects xint": {
+      "count": 1,
+      "dates": [
+        "2026-09-29"
+      ]
+    },
+    "fake event invites": {
+      "count": 1,
+      "dates": [
+        "2026-09-29"
+      ]
+    },
+    "operating system kernel": {
+      "count": 1,
+      "dates": [
+        "2026-09-29"
+      ]
+    },
+    "federal intelligence authorities": {
+      "count": 1,
+      "dates": [
+        "2026-09-29"
+      ]
+    },
+    "x post monday": {
+      "count": 1,
+      "dates": [
+        "2026-09-29"
+      ]
+    },
+    "telcos universities medical": {
+      "count": 1,
+      "dates": [
+        "2026-09-29"
+      ]
+    },
+    "scuola superiore sant'anna": {
+      "count": 1,
+      "dates": [
+        "2026-09-29"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-10 02:43",
-      "articles": 48,
-      "top_keywords": [
-        "multiple security vulnerabilities",
-        "security experts warn",
-        "chinese language group",
-        "twitter whistleblower complaint",
-        "reduce development costs"
-      ]
-    },
     {
       "timestamp": "2026-09-10 08:34",
       "articles": 48,
@@ -33291,6 +33325,17 @@
         "hacker group shinyhunters",
         "executing powershell commands",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-09-29 20:23",
+      "articles": 48,
+      "top_keywords": [
+        "darpa selects xint",
+        "fake event invites",
+        "rig security emerges",
+        "shinyhunters extortion group",
+        "hacker group shinyhunters"
       ]
     }
   ]

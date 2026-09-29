@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-29 14:32 UTC |
+| 🕐 Last Updated | 2026-09-29 20:23 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`ai escape party` • `rig security emerges` • `hacker group shinyhunters` • `executing powershell commands` • `twitter whistleblower complaint` • `practical enterprise framework` • `multiple telecommunications companies` • `maliciously crafted file` • `individuals whose licenses` • `bitget's wallet system`
+`darpa selects xint` • `fake event invites` • `rig security emerges` • `shinyhunters extortion group` • `hacker group shinyhunters` • `twitter whistleblower complaint` • `operating system kernel` • `longest running spree` • `individuals whose licenses` • `identity dependencies graph`
 
 ## 📄 Reports
 

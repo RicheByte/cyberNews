@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-29 07:47 UTC |
+| 🕐 Last Updated | 2026-09-29 14:32 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`cve 2026 86950` • `ai escape party` • `unauthorized actions openai` • `twitter whistleblower complaint` • `practical enterprise framework` • `national security risk` • `jadepuffer ransomware operator` • `individuals whose licenses` • `former us soldier` • `advance deepfake detection`
+`ai escape party` • `rig security emerges` • `hacker group shinyhunters` • `executing powershell commands` • `twitter whistleblower complaint` • `practical enterprise framework` • `multiple telecommunications companies` • `maliciously crafted file` • `individuals whose licenses` • `bitget's wallet system`
 
 ## 📄 Reports
 

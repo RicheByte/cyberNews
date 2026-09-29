@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-29 07:47 UTC  
+> **Last Updated:** 2026-09-29 14:32 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cve 2026 86950** • **ai escape party** • **unauthorized actions openai** • **twitter whistleblower complaint** • **practical enterprise framework** • **national security risk** • **jadepuffer ransomware operator** • **individuals whose licenses** • **former us soldier** • **advance deepfake detection** • **reference system design** • **bitget's wallet system** • **sophisticated cybercrime syndicate** • **modulate s intention** • **targeted attacks apple** • **windows operating systems** • **wall street journal** • **targeting azure tenants** • **sprawling phishing campaign** • **siphoning images collected**
+**ai escape party** • **rig security emerges** • **hacker group shinyhunters** • **executing powershell commands** • **twitter whistleblower complaint** • **practical enterprise framework** • **multiple telecommunications companies** • **maliciously crafted file** • **individuals whose licenses** • **bitget's wallet system** • **identity dependencies graph** • **long term persistence** • **security experts warn** • **released security updates** • **national security risk** • **shinyhunters hacking group** • **wall street journal** • **unauthorized actions openai** • **stealing mobile call** • **sprawling phishing campaign**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation](https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html)
 - [Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials](https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html)
 - [OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions](https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html)
 - [OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot](https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html)
@@ -23,18 +24,17 @@
 - [Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks](https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html)
 - [IAM for AI agents: A Practical Enterprise Framework](https://thehackernews.com/2026/09/iam-for-ai-agent.html)
 - [Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M](https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html)
-- [RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims](https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html)
 
 ### BleepingComputer
 
+- [Catch threats before they escalate with real-time Identity Telemetry](https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/)
+- [Vietnamese man charged in $16 million 'pig butchering' crypto scam](https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/)
+- [Kiteworks patches critical flaw, brings customer systems online](https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/)
 - [Apple patches CoreGraphics zero-day flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/)
 - [Japan's Keio confirms ransomware attack disrupted business systems](https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/)
 - [Times Car confirms data breach affecting 6.6 million user accounts](https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/)
 - [Dutch police confirm arrest in ShinyHunters hacking investigation](https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/)
 - [Over 16,000 Supabase databases expose PII, passwords, auth tokens](https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/)
-- [JadePuffer agentic AI attacks target Azure, destroy cloud resources](https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/)
-- [80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking](https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/)
-- [Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist](https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
-- [Apple Patches Meta-Reported Zero-Day Linked to ‘Extremely Sophisticated Attack’](https://www.securityweek.com/apple-patches-meta-reported-zero-day-linked-to-extremely-sophisticated-attack/)
-- [Modulate Raises $25 Million to Advance Deepfake Detection](https://www.securityweek.com/modulate-raises-25-million-to-advance-deepfake-detection/)
-- [Call for Presentations Open for 2026 CISO Forum Virtual Summit](https://www.securityweek.com/call-for-presentations-open-for-2026-ciso-forum-virtual-summit/)
-- [Prison Sentence for Former US Soldier Who Hacked AT&T and Verizon](https://www.securityweek.com/prison-sentence-for-former-us-soldier-who-hacked-att-and-verizon/)
-- [DC Health Agency Exposes 400,000 Beneficiary Records](https://www.securityweek.com/dc-health-agency-exposes-400000-beneficiary-records/)
-- [Google Warns of ShinyHunters’ Fresh Oracle PeopleSoft Campaign](https://www.securityweek.com/google-warns-of-shinyhunters-fresh-oracle-peoplesoft-campaign/)
-- [New Mexico Jury Finds Facebook Liable for Deceiving Users About Privacy Protections](https://www.securityweek.com/new-mexico-jury-finds-facebook-liable-for-deceiving-users-about-privacy-protections/)
-- [Nvidia Unveils AI Agent Safety Platform With Hardware-Based Watchdog](https://www.securityweek.com/nvidia-unveils-ai-agent-safety-platform-with-hardware-based-watchdog/)
+- [Reco Raises $55 Million for Agentic Security](https://www.securityweek.com/reco-raises-55-million-for-agentic-security/)
+- [Hackers Use ChatGPT Custom GPTs in ClickFix Attacks](https://www.securityweek.com/hackers-use-chatgpt-custom-gpts-in-clickfix-attacks/)
+- [Pentagon Personnel Agency Data Breach Impacts 3 Million People](https://www.securityweek.com/pentagon-personnel-agency-data-breach-impacts-3-million-people/)
+- [Rig Security Emerges From Stealth With $12M to Tackle Agentic AI Identity Risks](https://www.securityweek.com/rig-security-emerges-from-stealth-with-12m-to-tackle-agentic-ai-identity-risks/)
+- [Four Cyber Threats Harboring Big Plans for the Future](https://www.securityweek.com/four-cyber-threats-harboring-big-plans-for-the-future/)
+- [OpenAI Calls Off GPT-6.1 Astra Launch, Details Safety Cases for Frontier Training](https://www.securityweek.com/openai-calls-off-gpt-6-1-astra-launch-details-safety-cases-for-frontier-training/)
+- [Dutch Police Arrest Convicted Hacker in ShinyHunters Investigation](https://www.securityweek.com/dutch-police-arrest-convicted-hacker-in-shinyhunters-investigation/)
+- [Daemon Tools Hackers’ NeedyMantis Malware Dissected by Microsoft](https://www.securityweek.com/daemon-tools-hackers-needymantis-malware-dissected-by-microsoft/)
 
 ### Threatpost
 

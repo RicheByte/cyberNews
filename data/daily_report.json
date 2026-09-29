@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-09-29 07:47",
+  "last_updated": "2026-09-29 14:32",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "cve 2026 86950",
     "ai escape party",
-    "unauthorized actions openai",
+    "rig security emerges",
+    "hacker group shinyhunters",
+    "executing powershell commands",
     "twitter whistleblower complaint",
     "practical enterprise framework",
-    "national security risk",
-    "jadepuffer ransomware operator",
+    "multiple telecommunications companies",
+    "maliciously crafted file",
     "individuals whose licenses",
-    "former us soldier",
-    "advance deepfake detection",
-    "reference system design",
     "bitget's wallet system",
-    "sophisticated cybercrime syndicate",
-    "modulate s intention",
-    "targeted attacks apple",
-    "windows operating systems",
+    "identity dependencies graph",
+    "long term persistence",
+    "security experts warn",
+    "released security updates",
+    "national security risk",
+    "shinyhunters hacking group",
     "wall street journal",
-    "targeting azure tenants",
-    "sprawling phishing campaign",
-    "siphoning images collected"
+    "unauthorized actions openai",
+    "stealing mobile call",
+    "sprawling phishing campaign"
   ],
   "trending": [
     {
-      "keyword": "cve 2026 86950",
+      "keyword": "ai escape party",
+      "mentions": 18
+    },
+    {
+      "keyword": "rig security emerges",
       "mentions": 1
     },
     {
-      "keyword": "ai escape party",
-      "mentions": 17
+      "keyword": "hacker group shinyhunters",
+      "mentions": 1
     },
     {
-      "keyword": "unauthorized actions openai",
+      "keyword": "executing powershell commands",
       "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2714
+      "mentions": 2715
     },
     {
       "keyword": "practical enterprise framework",
-      "mentions": 3
+      "mentions": 4
     },
     {
-      "keyword": "national security risk",
-      "mentions": 526
+      "keyword": "multiple telecommunications companies",
+      "mentions": 13
     },
     {
-      "keyword": "jadepuffer ransomware operator",
-      "mentions": 2
+      "keyword": "maliciously crafted file",
+      "mentions": 1
     },
     {
       "keyword": "individuals whose licenses",
-      "mentions": 143
+      "mentions": 144
     },
     {
-      "keyword": "former us soldier",
-      "mentions": 3
-    },
-    {
-      "keyword": "advance deepfake detection",
-      "mentions": 3
+      "keyword": "bitget's wallet system",
+      "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation",
+      "link": "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html",
+      "summary": "Dutch authorities have confirmed that they arrested a 24-year-old man from Amsterdam in connection with the ShinyHunters group. \"It is true that this month a 24-year-old man from Amsterdam was arrested in an investigation into the hacker group ShinyHunters,\" the Politie Landelijke Opsporing en Interventies said in an X post Monday. Police said the individual is expected to appear before the",
+      "published": "Tue, 29 Sep 2026 14:05:10 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials",
@@ -140,13 +149,33 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims",
-      "link": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
-      "summary": "RatHat's operators build and publish the Android banking trojan and control infected phones from a web console, according to security company Cleafy. Cleafy has traced nearly 100 deployments of that console since April 2026. It said this fits a malware-as-a-service model, in which each customer runs a separate copy. The console stores what the malware collects from each phone,",
-      "published": "Mon, 28 Sep 2026 23:08:33 +0530",
+      "source": "BleepingComputer",
+      "title": "Catch threats before they escalate with real-time Identity Telemetry",
+      "link": "https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/",
+      "summary": "Identity governance helps control who should have access, but periodic reviews alone may not reveal attacks as they happen. tenfold Software explains how real-time identity telemetry can help security teams investigate suspicious activity before it escalates. [...]",
+      "published": "Tue, 29 Sep 2026 10:01:11 -0400",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Vietnamese man charged in $16 million 'pig butchering' crypto scam",
+      "link": "https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/",
+      "summary": "A Vietnamese national was charged with money laundering for his role in a massive \"pig butchering\" scam, which defrauded a victim out of $16 million worth of cryptocurrency. [...]",
+      "published": "Tue, 29 Sep 2026 07:41:53 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Kiteworks patches critical flaw, brings customer systems online",
+      "link": "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/",
+      "summary": "American tech company Kiteworks has lifted a precautionary advisory asking customers to shut down systems after patching a critical vulnerability. [...]",
+      "published": "Tue, 29 Sep 2026 05:04:06 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×2"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -198,35 +227,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
       "summary": "Researchers found more than 16,000 misconfigured Supabase databases exposing readable tables with personally identifiable information, passwords, or authentication tokens. [...]",
       "published": "Mon, 28 Sep 2026 14:50:59 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "JadePuffer agentic AI attacks target Azure, destroy cloud resources",
-      "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/",
-      "summary": "The JadePuffer ransomware operator is targeting Azure tenants with agent-driven attacks that conduct reconnaissance, steal credentials, and destroy core components. [...]",
-      "published": "Mon, 28 Sep 2026 11:49:27 -0400",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking",
-      "link": "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/",
-      "summary": "Infostealer logs exposed AI account credentials and sessions tied to more than 80,000 corporate domains, creating risks ranging from stolen conversations to LLMjacking. SOCRadar examines the growing market for stolen AI logins and how organizations can identify their exposure. [...]",
-      "published": "Mon, 28 Sep 2026 10:00:10 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist",
-      "link": "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/",
-      "summary": "Cryptocurrency exchange Bitget has resumed Bitcoin withdrawals suspended after suspected North Korean hackers breached its systems last week and stole over $350 million. [...]",
-      "published": "Mon, 28 Sep 2026 05:25:29 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -387,80 +387,75 @@
     },
     {
       "source": "Security Week",
-      "title": "Apple Patches Meta-Reported Zero-Day Linked to ‘Extremely Sophisticated Attack’",
-      "link": "https://www.securityweek.com/apple-patches-meta-reported-zero-day-linked-to-extremely-sophisticated-attack/",
-      "summary": "Apple has released iOS and macOS updates to patch the zero-day vulnerability tracked as CVE-2026-86950. The post Apple Patches Meta-Reported Zero-Day Linked to ‘Extremely Sophisticated Attack’ appeared first on SecurityWeek .",
-      "published": "Tue, 29 Sep 2026 06:18:27 +0000",
-      "value_score": 86,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day ×3",
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Modulate Raises $25 Million to Advance Deepfake Detection",
-      "link": "https://www.securityweek.com/modulate-raises-25-million-to-advance-deepfake-detection/",
-      "summary": "The misuse and abuse of AI-generated voice is growing. Modulate’s intention is to allow real time detection and intervention. The post Modulate Raises $25 Million to Advance Deepfake Detection appeared first on SecurityWeek .",
-      "published": "Mon, 28 Sep 2026 17:30:00 +0000",
+      "title": "Reco Raises $55 Million for Agentic Security",
+      "link": "https://www.securityweek.com/reco-raises-55-million-for-agentic-security/",
+      "summary": "The company will use the funds to expand its sales, partnerships, channels, and customer support teams. The post Reco Raises $55 Million for Agentic Security appeared first on SecurityWeek .",
+      "published": "Tue, 29 Sep 2026 13:20:53 +0000",
       "value_score": 10,
       "value_signals": []
     },
     {
       "source": "Security Week",
-      "title": "Call for Presentations Open for 2026 CISO Forum Virtual Summit",
-      "link": "https://www.securityweek.com/call-for-presentations-open-for-2026-ciso-forum-virtual-summit/",
-      "summary": "SecurityWeek seeks original, vendor-neutral presentations that help cybersecurity leaders navigate emerging threats, strengthen resilience, and address the strategic challenges facing today’s enterprise security programs. The post Call for Presentations Open for 2026 CISO Forum Virtual Summit appeared first on SecurityWeek .",
-      "published": "Mon, 28 Sep 2026 15:15:00 +0000",
+      "title": "Hackers Use ChatGPT Custom GPTs in ClickFix Attacks",
+      "link": "https://www.securityweek.com/hackers-use-chatgpt-custom-gpts-in-clickfix-attacks/",
+      "summary": "The personalized versions of ChatGPT were used to impersonate legitimate products and trick users into executing PowerShell commands. The post Hackers Use ChatGPT Custom GPTs in ClickFix Attacks appeared first on SecurityWeek .",
+      "published": "Tue, 29 Sep 2026 13:03:35 +0000",
       "value_score": 10,
       "value_signals": []
     },
     {
       "source": "Security Week",
-      "title": "Prison Sentence for Former US Soldier Who Hacked AT&T and Verizon",
-      "link": "https://www.securityweek.com/prison-sentence-for-former-us-soldier-who-hacked-att-and-verizon/",
-      "summary": "Cameron John Wagenius was sentenced to 70 months in prison for stealing information from the wireless carriers. The post Prison Sentence for Former US Soldier Who Hacked AT&T and Verizon appeared first on SecurityWeek .",
-      "published": "Mon, 28 Sep 2026 12:36:16 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "DC Health Agency Exposes 400,000 Beneficiary Records",
-      "link": "https://www.securityweek.com/dc-health-agency-exposes-400000-beneficiary-records/",
-      "summary": "The Medicaid IDs and other information of Medicaid and DC Healthcare Alliance beneficiaries were exposed. The post DC Health Agency Exposes 400,000 Beneficiary Records appeared first on SecurityWeek .",
-      "published": "Mon, 28 Sep 2026 11:29:29 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Google Warns of ShinyHunters’ Fresh Oracle PeopleSoft Campaign",
-      "link": "https://www.securityweek.com/google-warns-of-shinyhunters-fresh-oracle-peoplesoft-campaign/",
-      "summary": "The extortion group has modified its exploit in new attacks targeting the PeopleSoft vulnerability CVE-2026-35273. The post Google Warns of ShinyHunters’ Fresh Oracle PeopleSoft Campaign appeared first on SecurityWeek .",
-      "published": "Mon, 28 Sep 2026 10:56:46 +0000",
+      "title": "Pentagon Personnel Agency Data Breach Impacts 3 Million People",
+      "link": "https://www.securityweek.com/pentagon-personnel-agency-data-breach-impacts-3-million-people/",
+      "summary": "The data breach affects the Defense Manpower Data Center (DMDC), which maintains personnel records for the Department of Defense. The post Pentagon Personnel Agency Data Breach Impacts 3 Million People appeared first on SecurityWeek .",
+      "published": "Tue, 29 Sep 2026 12:25:12 +0000",
       "value_score": 34,
       "value_signals": [
-        "CVE mentioned",
-        "Exploit wording"
+        "Breach/leak ×3"
       ]
     },
     {
       "source": "Security Week",
-      "title": "New Mexico Jury Finds Facebook Liable for Deceiving Users About Privacy Protections",
-      "link": "https://www.securityweek.com/new-mexico-jury-finds-facebook-liable-for-deceiving-users-about-privacy-protections/",
-      "summary": "A New Mexico jury has found Facebook liable for deceiving users about privacy protections on the platform. The post New Mexico Jury Finds Facebook Liable for Deceiving Users About Privacy Protections appeared first on SecurityWeek .",
-      "published": "Mon, 28 Sep 2026 10:40:01 +0000",
+      "title": "Rig Security Emerges From Stealth With $12M to Tackle Agentic AI Identity Risks",
+      "link": "https://www.securityweek.com/rig-security-emerges-from-stealth-with-12m-to-tackle-agentic-ai-identity-risks/",
+      "summary": "Rig provides an identity dependencies graph to distinguish between legitimate users and rogue AI agents The post Rig Security Emerges From Stealth With $12M to Tackle Agentic AI Identity Risks appeared first on SecurityWeek .",
+      "published": "Tue, 29 Sep 2026 12:00:00 +0000",
       "value_score": 10,
       "value_signals": []
     },
     {
       "source": "Security Week",
-      "title": "Nvidia Unveils AI Agent Safety Platform With Hardware-Based Watchdog",
-      "link": "https://www.securityweek.com/nvidia-unveils-ai-agent-safety-platform-with-hardware-based-watchdog/",
-      "summary": "The platform combines open source software and a reference system design to keep AI agents within set boundaries. The post Nvidia Unveils AI Agent Safety Platform With Hardware-Based Watchdog appeared first on SecurityWeek .",
-      "published": "Mon, 28 Sep 2026 10:27:01 +0000",
+      "title": "Four Cyber Threats Harboring Big Plans for the Future",
+      "link": "https://www.securityweek.com/four-cyber-threats-harboring-big-plans-for-the-future/",
+      "summary": "- AI, supply-chain exposure, quantum computing and geopolitical conflict are testing security programs. Preparing for disruption must become part of day-to-day operations. The post Four Cyber Threats Harboring Big Plans for the Future appeared first on SecurityWeek .",
+      "published": "Tue, 29 Sep 2026 11:30:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "OpenAI Calls Off GPT-6.1 Astra Launch, Details Safety Cases for Frontier Training",
+      "link": "https://www.securityweek.com/openai-calls-off-gpt-6-1-astra-launch-details-safety-cases-for-frontier-training/",
+      "summary": "The GPT-6.1 Astra model was slated to debut in ChatGPT and Codex in October, but it fell short of expectations. The post OpenAI Calls Off GPT-6.1 Astra Launch, Details Safety Cases for Frontier Training appeared first on SecurityWeek .",
+      "published": "Tue, 29 Sep 2026 11:15:59 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Dutch Police Arrest Convicted Hacker in ShinyHunters Investigation",
+      "link": "https://www.securityweek.com/dutch-police-arrest-convicted-hacker-in-shinyhunters-investigation/",
+      "summary": "Pepijn van der Stap was convicted in 2023 for hacking multiple organizations, stealing their data, and extorting them. The post Dutch Police Arrest Convicted Hacker in ShinyHunters Investigation appeared first on SecurityWeek .",
+      "published": "Tue, 29 Sep 2026 11:01:55 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Daemon Tools Hackers’ NeedyMantis Malware Dissected by Microsoft",
+      "link": "https://www.securityweek.com/daemon-tools-hackers-needymantis-malware-dissected-by-microsoft/",
+      "summary": "The malware framework uses a modular architecture and a custom executable file format for long-term persistence. The post Daemon Tools Hackers’ NeedyMantis Malware Dissected by Microsoft appeared first on SecurityWeek .",
+      "published": "Tue, 29 Sep 2026 09:46:13 +0000",
       "value_score": 10,
       "value_signals": []
     },

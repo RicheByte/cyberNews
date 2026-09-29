@@ -1,72 +1,93 @@
 {
-  "last_updated": "2026-09-28 19:07",
+  "last_updated": "2026-09-29 00:07",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "ai escape party",
-    "national security risk",
     "twitter whistleblower complaint",
-    "threat actor known",
+    "national security risk",
+    "jadepuffer ransomware operator",
     "individuals whose licenses",
-    "cisa orders feds",
+    "execute tasks received",
     "advance deepfake detection",
     "modulate s intention",
     "reference system design",
     "former us soldier",
     "bitget's wallet system",
-    "early june 2026",
-    "cve 2026 88772",
-    "cve 2026 88771",
     "former u s",
     "practical enterprise framework",
+    "targeting azure tenants",
+    "sprawling phishing campaign",
+    "siphoning images collected",
     "security experts warn",
+    "remained walled away",
     "released security updates",
-    "threat actor's tradecraft",
-    "targeting azure tenants"
+    "publicly detailed prior"
   ],
   "trending": [
     {
       "keyword": "ai escape party",
-      "mentions": 15
-    },
-    {
-      "keyword": "national security risk",
-      "mentions": 524
+      "mentions": 16
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2712
+      "mentions": 2713
     },
     {
-      "keyword": "threat actor known",
-      "mentions": 71
+      "keyword": "national security risk",
+      "mentions": 525
+    },
+    {
+      "keyword": "jadepuffer ransomware operator",
+      "mentions": 1
     },
     {
       "keyword": "individuals whose licenses",
-      "mentions": 141
+      "mentions": 142
     },
     {
-      "keyword": "cisa orders feds",
-      "mentions": 36
+      "keyword": "execute tasks received",
+      "mentions": 1
     },
     {
       "keyword": "advance deepfake detection",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "modulate s intention",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "reference system design",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "former us soldier",
-      "mentions": 1
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
+      "link": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
+      "summary": "Apple has released security updates to address a vulnerability in older versions of iOS, iPadOS, and macOS that it said may have been exploited in targeted attacks. The vulnerability, tracked as CVE-2026-86950, refers to an out-of-bounds write impacting the CoreGraphics component that could lead to arbitrary code execution when processing a maliciously crafted file. The iPhone maker said the",
+      "published": "Tue, 29 Sep 2026 00:48:01 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "CVE mentioned",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks",
+      "link": "https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html",
+      "summary": "Hackers have used a malware family called NeedyMantis to maintain long-term access to networks they had already breached, Microsoft said in a technical analysis. The malware has been seen in a small number of targeted intrusions at telecommunications organizations, universities, medical nonprofits, intergovernmental organizations, and government contractors. Its use goes back to at least",
+      "published": "Tue, 29 Sep 2026 00:05:42 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "IAM for AI agents: A Practical Enterprise Framework",
@@ -129,31 +150,39 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources",
-      "link": "https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html",
-      "summary": "The threat actor known as JADEPUFFER has been observed orchestrating destructive actions within a Microsoft Azure environment using compromised service principals. Microsoft, which is tracking the activity under the name Storm-3168, has called it an evolution of the threat actor's tradecraft. The attack took place in early June 2026 over a period of about 18 hours. \"The destructive operations",
-      "published": "Mon, 28 Sep 2026 14:38:21 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally",
-      "link": "https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Sunday added two critical Citrix NetScaler ADC and Gateway flaws to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerabilities are listed below - CVE-2026-88771 (CVSS score: 9.5) - An improper input validation vulnerability that could allow an unauthenticated attacker to",
-      "published": "Mon, 28 Sep 2026 12:51:49 +0530",
-      "value_score": 90,
+      "source": "BleepingComputer",
+      "title": "Japan's Keio confirms ransomware attack disrupted business systems",
+      "link": "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/",
+      "summary": "Keio Corporation (Keio), a major private railway operator in Japan, said its network was hit by a ransomware attack over the weekend, disrupting some of its business systems. [...]",
+      "published": "Mon, 28 Sep 2026 16:56:47 -0400",
+      "value_score": 46,
       "value_signals": [
-        "CVE mentioned",
-        "CISA/KEV ×4",
-        "High severity ×2",
-        "Exploit wording"
+        "Ransomware ×2"
       ]
     },
     {
       "source": "BleepingComputer",
-      "title": "Misconfigured Supabase apps expose data in over 16,000 databases",
+      "title": "Times Car confirms data breach affecting 6.6 million user accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/",
+      "summary": "Japanese car-sharing service Times Car has confirmed that approximately 6.6 million user accounts were compromised in a cyberattack disclosed late last week. [...]",
+      "published": "Mon, 28 Sep 2026 16:31:16 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Dutch police confirm arrest in ShinyHunters hacking investigation",
+      "link": "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/",
+      "summary": "Dutch police have confirmed that a 24-year-old Amsterdam man arrested earlier this month was detained as part of an investigation into the ShinyHunters hacking group. [...]",
+      "published": "Mon, 28 Sep 2026 15:49:10 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Over 16,000 Supabase databases expose PII, passwords, auth tokens",
       "link": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
       "summary": "Researchers found more than 16,000 misconfigured Supabase databases exposing readable tables with personally identifiable information, passwords, or authentication tokens. [...]",
       "published": "Mon, 28 Sep 2026 14:50:59 -0400",
@@ -197,45 +226,6 @@
       "published": "Mon, 28 Sep 2026 03:30:15 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA orders feds to patch exploited Citrix flaws by Wednesday",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies over the weekend to secure their systems against attacks exploiting two critical Citrix NetScaler vulnerabilities. [...]",
-      "published": "Mon, 28 Sep 2026 02:24:19 -0400",
-      "value_score": 72,
-      "value_signals": [
-        "Patch/update",
-        "CISA/KEV ×2",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/",
-      "summary": "OpenAI is testing a new always-on assistant called \"o\", and references to the unannounced feature briefly showed up on the company's website. [...]",
-      "published": "Sun, 27 Sep 2026 19:40:39 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
-      "summary": "Citrix has confirmed that two critical NetScaler remote code execution vulnerabilities, tracked as CVE-2026-88771 and CVE-2026-88772, are being exploited in attacks and that it has released security updates to fix the flaws. [...]",
-      "published": "Sun, 27 Sep 2026 12:02:37 -0400",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "RCE ×2",
-        "Patch/update",
-        "High severity",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -318,6 +308,28 @@
     },
     {
       "source": "Dark Reading",
+      "title": "One Packet Can Crash OT Servers in Industrial Sectors",
+      "link": "https://www.darkreading.com/ics-ot-security/one-packet-crash-servers-tdengine",
+      "summary": "A high-severity zero-day vulnerability affects the TDengine time-series database used across industrial, IoT, energy, and automotive environments.",
+      "published": "Mon, 28 Sep 2026 21:13:04 GMT",
+      "value_score": 35,
+      "value_signals": [
+        "Zero-day"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Carbonato Botnet Puts an AI Agent on Hacked Docker Hosts",
+      "link": "https://www.darkreading.com/identity-access-management-security/carbonato-botnet-ai-agent-hacked-docker-hosts",
+      "summary": "The botnet uses the open source Hermes Agent AI framework to execute commands via Telegram and steal AI API keys from exposed Docker hosts.",
+      "published": "Mon, 28 Sep 2026 20:23:58 GMT",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×2"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "AI Agents Are Privileged Users; Who Is Auditing Their Access?",
       "link": "https://www.darkreading.com/vulnerabilities-threats/ai-agents-are-privileged-users-who-is-auditing-their-access",
       "summary": "Enterprises regularly rigorously monitor human employees, while autonomous AI agents quietly operate with broad privileges that could turn them into the next generation of insider threats.",
@@ -367,24 +379,6 @@
       "link": "https://www.darkreading.com/cyber-risk/what-we-missed-google-gemini-ai-escape-party",
       "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from Google Gemini models breaking containment to ShinyHunters ratting on TeamPCP hackers.",
       "published": "Fri, 25 Sep 2026 17:56:23 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Stopping IT Worker Scams Requires Revamped HR Process",
-      "link": "https://www.darkreading.com/cyber-risk/stopping-it-worker-scams-revamped-hr-process",
-      "summary": "Training human-resource managers in the latest tactics and warning signs goes a long way toward blunting the threat, but automated analysis can help even more.",
-      "published": "Fri, 25 Sep 2026 14:46:13 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Russia's Hybrid Cyber-Physical War in Europe Heats Up",
-      "link": "https://www.darkreading.com/physical-security/russia-hybrid-cyber-physical-war-europe",
-      "summary": "A storm is raging in the form of cyber sabotage, disinformation, and drone attacks on European nations, particularly those that provide material support to Ukraine.",
-      "published": "Fri, 25 Sep 2026 07:00:00 GMT",
       "value_score": 10,
       "value_signals": []
     },

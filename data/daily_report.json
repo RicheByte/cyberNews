@@ -1,72 +1,103 @@
 {
-  "last_updated": "2026-09-29 00:07",
+  "last_updated": "2026-09-29 07:47",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
+    "cve 2026 86950",
     "ai escape party",
+    "unauthorized actions openai",
     "twitter whistleblower complaint",
+    "practical enterprise framework",
     "national security risk",
     "jadepuffer ransomware operator",
     "individuals whose licenses",
-    "execute tasks received",
-    "advance deepfake detection",
-    "modulate s intention",
-    "reference system design",
     "former us soldier",
+    "advance deepfake detection",
+    "reference system design",
     "bitget's wallet system",
-    "former u s",
-    "practical enterprise framework",
+    "sophisticated cybercrime syndicate",
+    "modulate s intention",
+    "targeted attacks apple",
+    "windows operating systems",
+    "wall street journal",
     "targeting azure tenants",
     "sprawling phishing campaign",
-    "siphoning images collected",
-    "security experts warn",
-    "remained walled away",
-    "released security updates",
-    "publicly detailed prior"
+    "siphoning images collected"
   ],
   "trending": [
     {
+      "keyword": "cve 2026 86950",
+      "mentions": 1
+    },
+    {
       "keyword": "ai escape party",
-      "mentions": 16
+      "mentions": 17
+    },
+    {
+      "keyword": "unauthorized actions openai",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2713
+      "mentions": 2714
+    },
+    {
+      "keyword": "practical enterprise framework",
+      "mentions": 3
     },
     {
       "keyword": "national security risk",
-      "mentions": 525
+      "mentions": 526
     },
     {
       "keyword": "jadepuffer ransomware operator",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "individuals whose licenses",
-      "mentions": 142
-    },
-    {
-      "keyword": "execute tasks received",
-      "mentions": 1
-    },
-    {
-      "keyword": "advance deepfake detection",
-      "mentions": 2
-    },
-    {
-      "keyword": "modulate s intention",
-      "mentions": 2
-    },
-    {
-      "keyword": "reference system design",
-      "mentions": 2
+      "mentions": 143
     },
     {
       "keyword": "former us soldier",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "advance deepfake detection",
+      "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials",
+      "link": "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html",
+      "summary": "A malicious MCP server could trick an application built on the official MCP Python SDK into handing over the OAuth credentials it uses to log in to a real service, the SDK's maintainers said in a security advisory. Affected versions sent the client secret, the authorization code, and the PKCE proof key to a token endpoint the attacker controlled. The fix is in versions 1.30.0 and",
+      "published": "Tue, 29 Sep 2026 11:38:25 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions",
+      "link": "https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html",
+      "summary": "OpenAI on Monday shelved plans to release GPT-6.1 Astra, a next-generation artificial intelligence (AI) model that was planned for an October launch, after it failed internal safety and alignment audits. The development was first reported by The Wall Street Journal. The move \"marks a rare case of a major AI developer ditching a new release because of safety concerns,\" the news publication said.",
+      "published": "Tue, 29 Sep 2026 10:42:32 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot",
+      "link": "https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html",
+      "summary": "OpenAI said it has made the decision to pause training of its most powerful models after one of its agents during reinforcement learning (RL) training contacted an external chatbot by exploiting a loophole in its internet-access restrictions. \"An agent attempting to complete a search-based training task queried a public chatbot service through a gap in our internet-access restrictions:",
+      "published": "Tue, 29 Sep 2026 10:15:20 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
@@ -118,35 +149,16 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "⚡ Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats",
-      "link": "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html",
-      "summary": "A domain used as harmless placeholder text showed up in roughly 1,700 repositories. Then somebody registered it and started serving malicious lures. That is the kind of week this was: forgotten assumptions turning into live attack surface. Elsewhere, weak service accounts, old bugs, exposed systems, phishing kits, and strangely easy exploit paths kept doing useful work for attackers. Nothing",
-      "published": "Mon, 28 Sep 2026 19:30:53 +0530",
-      "value_score": 24,
+      "source": "BleepingComputer",
+      "title": "Apple patches CoreGraphics zero-day flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/",
+      "summary": "Apple released security updates to fix a zero-day vulnerability exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
+      "published": "Tue, 29 Sep 2026 03:33:12 -0400",
+      "value_score": 74,
       "value_signals": [
-        "Phishing",
+        "Zero-day ×2",
+        "Patch/update",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI",
-      "link": "https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html",
-      "summary": "AI agents are moving into production faster than security teams can govern them. They are connecting to apps, handling data, calling APIs, and acting across business systems—often without the same controls applied to human users. According to Okta’s Global CISO Insights 2026 report, only 47% of CISOs are confident they can identify every AI agent in their environment. Even among those who feel",
-      "published": "Mon, 28 Sep 2026 17:28:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent",
-      "link": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new botnet malware called Carbonato that's targeting exposed Docker daemons to deploy an open-source artificial intelligence (AI) agent framework called Hermes Agent. \"The implant installs the framework unchanged, then overwrites its SOUL.md persona file,\" ThreatDown said. \"The 39-line prompt directs it to execute tasks received through",
-      "published": "Mon, 28 Sep 2026 17:16:00 +0530",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×2"
       ]
     },
     {
@@ -215,15 +227,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/",
       "summary": "Cryptocurrency exchange Bitget has resumed Bitcoin withdrawals suspended after suspected North Korean hackers breached its systems last week and stole over $350 million. [...]",
       "published": "Mon, 28 Sep 2026 05:25:29 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "US soldier gets 70 months in prison for extorting 10 tech, telecom firms",
-      "link": "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/",
-      "summary": "A former U.S. Army soldier has been sentenced to 70 months in prison for hacking and extorting at least 10 U.S. technology and telecommunications companies between April 2023 and December 2024. [...]",
-      "published": "Mon, 28 Sep 2026 03:30:15 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -384,6 +387,19 @@
     },
     {
       "source": "Security Week",
+      "title": "Apple Patches Meta-Reported Zero-Day Linked to ‘Extremely Sophisticated Attack’",
+      "link": "https://www.securityweek.com/apple-patches-meta-reported-zero-day-linked-to-extremely-sophisticated-attack/",
+      "summary": "Apple has released iOS and macOS updates to patch the zero-day vulnerability tracked as CVE-2026-86950. The post Apple Patches Meta-Reported Zero-Day Linked to ‘Extremely Sophisticated Attack’ appeared first on SecurityWeek .",
+      "published": "Tue, 29 Sep 2026 06:18:27 +0000",
+      "value_score": 86,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day ×3",
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Modulate Raises $25 Million to Advance Deepfake Detection",
       "link": "https://www.securityweek.com/modulate-raises-25-million-to-advance-deepfake-detection/",
       "summary": "The misuse and abuse of AI-generated voice is growing. Modulate’s intention is to allow real time detection and intervention. The post Modulate Raises $25 Million to Advance Deepfake Detection appeared first on SecurityWeek .",
@@ -445,15 +461,6 @@
       "link": "https://www.securityweek.com/nvidia-unveils-ai-agent-safety-platform-with-hardware-based-watchdog/",
       "summary": "The platform combines open source software and a reference system design to keep AI agents within set boundaries. The post Nvidia Unveils AI Agent Safety Platform With Hardware-Based Watchdog appeared first on SecurityWeek .",
       "published": "Mon, 28 Sep 2026 10:27:01 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Kiteworks Urges Server Shutdown, Finds Advanced Forms Vulnerability",
-      "link": "https://www.securityweek.com/kiteworks-urges-server-shutdown-finds-advanced-forms-vulnerability/",
-      "summary": "The company says the measure was precautionary and that it has no evidence of Kiteworks or customer systems being compromised. The post Kiteworks Urges Server Shutdown, Finds Advanced Forms Vulnerability appeared first on SecurityWeek .",
-      "published": "Mon, 28 Sep 2026 09:44:27 +0000",
       "value_score": 10,
       "value_signals": []
     },

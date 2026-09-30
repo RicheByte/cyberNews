@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-30 07:50 UTC  
+> **Last Updated:** 2026-09-30 14:30 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**darpa selects xint** • **fake event invites** • **openssl wolfssl roughly** • **shinyhunters extortion group** • **hacker group shinyhunters** • **twitter whistleblower complaint** • **operating system kernel** • **individuals whose licenses** • **running linux distributions** • **longest running spree** • **ransomware toolkit installed** • **federal intelligence authorities** • **dutch police arrested** • **windows operating systems** • **telcos universities medical** • **sponsored google results** • **siphoning images collected** • **scuola superiore sant'anna** • **sales partnerships channels** • **remained walled away**
+**execute arbitrary code** • **openssl wolfssl roughly** • **shinyhunters extortion group** • **siphoning images collected** • **state sponsored group** • **udp traffic resends** • **twitter whistleblower complaint** • **leak heap memory** • **individuals whose licenses** • **bounds write flaw** • **technology manufacturing government** • **ransomware toolkit installed** • **token security explains** • **security experts warn** • **national security risk** • **existing security models** • **publish data stolen** • **today issued updates** • **telcos universities medical** • **teamviewer urges users**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [Know Your Enemy: Browser-Based Attack Techniques in 2026](https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html)
+- [AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub](https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html)
+- [US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access](https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html)
+- [Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT](https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html)
+- [OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted](https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html)
 - [Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution](https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html)
 - [French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks](https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html)
 - [New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses](https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html)
-- [Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor](https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html)
-- [Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown](https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html)
-- [101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent](https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html)
-- [Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation](https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html)
-- [Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials](https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html)
 
 ### BleepingComputer
 
+- [AI's Third Wave: Coworkers Break the Security Model That Worked for Agents](https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/)
+- [Microsoft to block Entra ID script injection attacks starting October](https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/)
+- [TeamViewer urges users to patch severe flaws “as soon as possible”](https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/)
+- [Bitget hacked via zero-day in third-party security products](https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/)
 - [Microsoft is rolling out Linux container support to WSL](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/)
 - [Signal adds encypted local backup support to iOS, desktop apps](https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/)
 - [Custom ChatGPTs push ClickFix attacks to deploy RAT malware](https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/)
 - [FBI tells ShinyHunters members to turn themselves in after recent arrest](https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/)
-- [Hackers exploit Citrix NetScaler zero-day to deploy web shells](https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/)
-- [Former US Air Force members sent to prison over BEC attacks](https://www.bleepingcomputer.com/news/security/former-us-air-force-members-sent-to-prison-over-bec-attacks/)
-- [Windows 11 2026 Update released, here's everything you need to know](https://www.bleepingcomputer.com/news/microsoft/windows-11-2026-update-released-heres-everything-you-need-to-know/)
-- [New Spectre v2 attack variant leaks Linux root password hash in minutes](https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Google: AI Is Changing the Pace and Profile of Vulnerability Discovery](https://www.securityweek.com/google-ai-is-changing-the-pace-and-profile-of-vulnerability-discovery/)
+- [WatchGuard Patches Critical Fireware OS Code Injection Vulnerability](https://www.securityweek.com/watchguard-patches-critical-fireware-os-code-injection-vulnerability/)
+- [Government, Finance Orgs Targeted in Weeks-Long NetScaler Zero-Day Attacks](https://www.securityweek.com/government-finance-orgs-targeted-in-weeks-long-netscaler-zero-day-attacks/)
+- [Chrome, Firefox Updates Patch Over 100 Vulnerabilities](https://www.securityweek.com/chrome-firefox-updates-patch-over-100-vulnerabilities/)
+- [Anthropic Flags AI Agent Liability Risks as OpenAI Faces Hacking Lawsuit](https://www.securityweek.com/anthropic-flags-ai-agent-liability-risks-as-openai-faces-hacking-lawsuit/)
+- [Russian APT Star Blizzard Uses ‘RedFlick’ Infection Chain in Recent Attacks](https://www.securityweek.com/russian-apt-star-blizzard-uses-redflick-infection-chain-in-recent-attacks/)
+- [ShinyHunters Defiant After FBI Calls on Members to Come Forward](https://www.securityweek.com/shinyhunters-defiant-after-fbi-calls-on-members-to-come-forward/)
 - [High-Severity Vulnerabilities Patched in OpenSSL, WolfSSL](https://www.securityweek.com/high-severity-vulnerabilities-patched-in-openssl-wolfssl/)
-- [Trump Says Top Tech Firms Have Signed Accord to ‘Self-Police’ AI Development](https://www.securityweek.com/trump-says-top-tech-firms-have-signed-accord-to-self-police-ai-development/)
-- [OpenAI CEO Announces New AI Agent and Avoids Mention of Security Concerns at Developer Conference](https://www.securityweek.com/openai-ceo-announces-new-ai-agent-and-avoids-mention-of-security-concerns-at-developer-conference/)
-- [DARPA Selects Xint to Use AI in Securing Military Messaging Apps](https://www.securityweek.com/darpa-selects-xint-to-use-ai-in-securing-military-messaging-apps/)
-- [New Spectre v2 Variant Exposes Intel, AMD, Arm CPUs to Data Leaks](https://www.securityweek.com/new-spectre-v2-variant-exposes-intel-amd-arm-cpus-to-data-leaks/)
-- [RemoteThreat Launches With $7 Million for Offensive Operations Platform](https://www.securityweek.com/remotethreat-launches-with-7-million-for-offensive-operations-platform/)
-- [Reco Raises $55 Million for Agentic Security](https://www.securityweek.com/reco-raises-55-million-for-agentic-security/)
-- [Hackers Use ChatGPT Custom GPTs in ClickFix Attacks](https://www.securityweek.com/hackers-use-chatgpt-custom-gpts-in-clickfix-attacks/)
 
 ### Threatpost
 

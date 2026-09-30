@@ -1,72 +1,123 @@
 {
-  "last_updated": "2026-09-30 07:50",
+  "last_updated": "2026-09-30 14:30",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "darpa selects xint",
-    "fake event invites",
+    "execute arbitrary code",
     "openssl wolfssl roughly",
     "shinyhunters extortion group",
-    "hacker group shinyhunters",
-    "twitter whistleblower complaint",
-    "operating system kernel",
-    "individuals whose licenses",
-    "running linux distributions",
-    "longest running spree",
-    "ransomware toolkit installed",
-    "federal intelligence authorities",
-    "dutch police arrested",
-    "windows operating systems",
-    "telcos universities medical",
-    "sponsored google results",
     "siphoning images collected",
-    "scuola superiore sant'anna",
-    "sales partnerships channels",
-    "remained walled away"
+    "state sponsored group",
+    "udp traffic resends",
+    "twitter whistleblower complaint",
+    "leak heap memory",
+    "individuals whose licenses",
+    "bounds write flaw",
+    "technology manufacturing government",
+    "ransomware toolkit installed",
+    "token security explains",
+    "security experts warn",
+    "national security risk",
+    "existing security models",
+    "publish data stolen",
+    "today issued updates",
+    "telcos universities medical",
+    "teamviewer urges users"
   ],
   "trending": [
     {
-      "keyword": "darpa selects xint",
-      "mentions": 3
-    },
-    {
-      "keyword": "fake event invites",
-      "mentions": 3
+      "keyword": "execute arbitrary code",
+      "mentions": 155
     },
     {
       "keyword": "openssl wolfssl roughly",
-      "mentions": 1
-    },
-    {
-      "keyword": "shinyhunters extortion group",
-      "mentions": 45
-    },
-    {
-      "keyword": "hacker group shinyhunters",
-      "mentions": 4
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2718
-    },
-    {
-      "keyword": "operating system kernel",
-      "mentions": 3
-    },
-    {
-      "keyword": "individuals whose licenses",
-      "mentions": 147
-    },
-    {
-      "keyword": "running linux distributions",
       "mentions": 2
     },
     {
-      "keyword": "longest running spree",
-      "mentions": 40
+      "keyword": "shinyhunters extortion group",
+      "mentions": 46
+    },
+    {
+      "keyword": "siphoning images collected",
+      "mentions": 28
+    },
+    {
+      "keyword": "state sponsored group",
+      "mentions": 1
+    },
+    {
+      "keyword": "udp traffic resends",
+      "mentions": 1
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2719
+    },
+    {
+      "keyword": "leak heap memory",
+      "mentions": 1
+    },
+    {
+      "keyword": "individuals whose licenses",
+      "mentions": 148
+    },
+    {
+      "keyword": "bounds write flaw",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Know Your Enemy: Browser-Based Attack Techniques in 2026",
+      "link": "https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html",
+      "summary": "Given that the browser is where business apps are accessed and used, it makes sense that attacks are happening there too. Most breaches today begin in a browser session. Often, they never leave it, with the entire attack chain from initial access to exfiltration playing out in the browser. Here are the six most dangerous techniques that should be on every security team's radar in 2026. 1.",
+      "published": "Wed, 30 Sep 2026 17:28:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub",
+      "link": "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html",
+      "summary": "AI coding agents asked to share screenshots of code changes for review have put internal company images in public GitHub repositories, security company Glow said. Its researchers found more than 13,000 internal images from developers at over 300 organizations, including customer billing records and screens of features not yet released. In most cases, they sat under developers' personal accounts",
+      "published": "Wed, 30 Sep 2026 17:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access",
+      "link": "https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html",
+      "summary": "ANY.RUN researchers traced a US-focused CSuite phishing campaign across 351 sandbox analyses, with 51% of submissions coming from the United States. Technology, manufacturing, government, and consulting organizations showed the highest exposure. By combining Microsoft 365 session theft with remote-access tool deployment, CSuite can turn a phishing incident into broader account compromise, fraud",
+      "published": "Wed, 30 Sep 2026 16:15:00 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×3"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html",
+      "summary": "Unknown threat actors have been observed exploiting a newly patched security flaw in Citrix NetScaler ADC and NetScaler Gateway appliances to target organizations in North America and Europe. The activity, observed by Mandiant Consulting and Google Threat Intelligence Group (GTIG) in September 2026, has targeted government, financial services, technology, education, and legal and professional",
+      "published": "Wed, 30 Sep 2026 13:54:35 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted",
+      "link": "https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html",
+      "summary": "A High-severity OpenSSL flaw can leak heap memory to the other side of a DTLS connection or crash the program, OpenSSL said on September 29 as it released fixes. DTLS, the TLS variant used for UDP traffic, resends a handshake message if no reply arrives before the timer expires. The leak or crash can happen when such a resend starts while a larger handshake message is stuck part-way",
+      "published": "Wed, 30 Sep 2026 13:39:28 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×3"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution",
@@ -101,54 +152,44 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor",
-      "link": "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html",
-      "summary": "Russian state hackers known as Star Blizzard have been using fake event invitations to trick people into installing a backdoor on their Windows computers, according to Microsoft. The campaigns, aimed at people and organizations tied to Ukraine, have affected more than 100 organizations since January, mostly in the U.S. and U.K. At least one computer was infected, but the number of breached",
-      "published": "Tue, 29 Sep 2026 22:50:08 +0530",
-      "value_score": 34,
-      "value_signals": [
-        "Backdoor ×2"
-      ]
+      "source": "BleepingComputer",
+      "title": "AI's Third Wave: Coworkers Break the Security Model That Worked for Agents",
+      "link": "https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/",
+      "summary": "Persistent AI coworkers may operate continuously with standing access, creating identity risks that existing security models were not designed to handle. Token Security explains why these agents need their own identities, owners, scoped permissions, and lifecycle controls. [...]",
+      "published": "Wed, 30 Sep 2026 10:01:11 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown",
-      "link": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html",
-      "summary": "Kiteworks on Monday said it worked with federal intelligence authorities over the weekend as it identified and addressed a critical security vulnerability during the scheduled precautionary shutdown. \"During the shutdown, this activity led to the discovery of a previously unknown critical vulnerability confined to a capability that is enabled for less than 1% of the customer base,\" the company",
-      "published": "Tue, 29 Sep 2026 19:43:20 +0530",
+      "source": "BleepingComputer",
+      "title": "Microsoft to block Entra ID script injection attacks starting October",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/",
+      "summary": "Microsoft has reminded customers that the Entra ID authentication system will get better protection against external script injection attacks starting next month. [...]",
+      "published": "Wed, 30 Sep 2026 09:37:15 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "TeamViewer urges users to patch severe flaws “as soon as possible”",
+      "link": "https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/",
+      "summary": "Remote access software company TeamViewer warned customers on Tuesday to immediately patch a set of high-severity vulnerabilities affecting its client and host software. [...]",
+      "published": "Wed, 30 Sep 2026 08:25:10 -0400",
       "value_score": 26,
       "value_signals": [
-        "High severity ×3"
+        "Patch/update ×2"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent",
-      "link": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html",
-      "summary": "Cybersecurity researchers have identified a cluster of 101 npm packages that are used to trap developers into a WhatsApp group subscriber campaign dubbed PhantomSub. \"The malicious packages abuse the 'Baileys' WhatsApp open source project to add the victims to groups without their consent,\" OX Security researchers Nir Zadok, Moshe Siman Tov Bustan, and Vitalii Chepurko said in a technical",
-      "published": "Tue, 29 Sep 2026 19:15:10 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation",
-      "link": "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html",
-      "summary": "Dutch authorities have confirmed that they arrested a 24-year-old man from Amsterdam in connection with the ShinyHunters group. \"It is true that this month a 24-year-old man from Amsterdam was arrested in an investigation into the hacker group ShinyHunters,\" the Politie Landelijke Opsporing en Interventies said in an X post Monday. Police said the individual is expected to appear before the",
-      "published": "Tue, 29 Sep 2026 14:05:10 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials",
-      "link": "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html",
-      "summary": "A malicious MCP server could trick an application built on the official MCP Python SDK into handing over the OAuth credentials it uses to log in to a real service, the SDK's maintainers said in a security advisory. Affected versions sent the client secret, the authorization code, and the PKCE proof key to a token endpoint the attacker controlled. The fix is in versions 1.30.0 and",
-      "published": "Tue, 29 Sep 2026 11:38:25 +0530",
-      "value_score": 18,
+      "source": "BleepingComputer",
+      "title": "Bitget hacked via zero-day in third-party security products",
+      "link": "https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/",
+      "summary": "Cryptocurrency exchange Bitget revealed today that attackers who stole $387.5 million last week breached its systems after exploiting a zero-day flaw in third-party security products. [...]",
+      "published": "Wed, 30 Sep 2026 07:11:46 -0400",
+      "value_score": 66,
       "value_signals": [
-        "Patch/update"
+        "Zero-day ×2",
+        "Exploit wording"
       ]
     },
     {
@@ -184,50 +225,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/",
       "summary": "The FBI is warning members of the ShinyHunters extortion group to turn themselves in after Dutch police arrested a man the bureau described as one of the group's alleged leaders. [...]",
       "published": "Tue, 29 Sep 2026 16:09:55 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/",
-      "summary": "Cybersecurity firms say attackers exploited the Citrix NetScaler CVE-2026-88772 zero-day to deploy custom web shells and tunneling malware, gain root access, steal credentials, and spread into internal networks. [...]",
-      "published": "Tue, 29 Sep 2026 14:37:12 -0400",
-      "value_score": 84,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Former US Air Force members sent to prison over BEC attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/former-us-air-force-members-sent-to-prison-over-bec-attacks/",
-      "summary": "Two former members of the United States Air Force were sentenced to a combined 189 months in federal prison for their roles in a multi-year series of business email compromise (BEC) scams and phishing campaigns. [...]",
-      "published": "Tue, 29 Sep 2026 14:09:39 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Windows 11 2026 Update released, here's everything you need to know",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-2026-update-released-heres-everything-you-need-to-know/",
-      "summary": "Microsoft has started rolling out Windows 11 26H2 to everyone, and while it's this year's big annual feature update, you probably won't notice a massive difference after installing it. [...]",
-      "published": "Tue, 29 Sep 2026 13:37:40 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Spectre v2 attack variant leaks Linux root password hash in minutes",
-      "link": "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/",
-      "summary": "A new Branch Target Reuse (BTR) attack has been devised that can recover root password hashes on Intel computers running Linux in 3-5 minutes on average. [...]",
-      "published": "Tue, 29 Sep 2026 13:10:11 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -376,7 +373,7 @@
       "source": "Dark Reading",
       "title": "Nvidia Launches AI Agent Safety Platform to Prevent Rogue Activities",
       "link": "https://www.darkreading.com/cyber-risk/nvidia-launches-ai-agent-safety-platform-prevent-rogue-activities",
-      "summary": "The Open Agent Safety Platform relies on both hardware and software components to monitor agent activities and quarantine unruly agents before they cause harm.",
+      "summary": "The Open Agent Safety Platform relies on hardware and software components to monitor agent activities and quarantine unruly agents before they can cause harm.",
       "published": "Mon, 28 Sep 2026 22:02:46 GMT",
       "value_score": 10,
       "value_signals": []
@@ -394,73 +391,87 @@
     },
     {
       "source": "Security Week",
+      "title": "Google: AI Is Changing the Pace and Profile of Vulnerability Discovery",
+      "link": "https://www.securityweek.com/google-ai-is-changing-the-pace-and-profile-of-vulnerability-discovery/",
+      "summary": "Google’s analysis found that AI-discovered vulnerabilities are more likely to enable remote code execution. The post Google: AI Is Changing the Pace and Profile of Vulnerability Discovery appeared first on SecurityWeek .",
+      "published": "Wed, 30 Sep 2026 14:05:58 +0000",
+      "value_score": 30,
+      "value_signals": [
+        "RCE"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "WatchGuard Patches Critical Fireware OS Code Injection Vulnerability",
+      "link": "https://www.securityweek.com/watchguard-patches-critical-fireware-os-code-injection-vulnerability/",
+      "summary": "WatchGuard has rolled out patches for 15 code execution, DoS, authorization, and path traversal bugs in Fireware OS. The post WatchGuard Patches Critical Fireware OS Code Injection Vulnerability appeared first on SecurityWeek .",
+      "published": "Wed, 30 Sep 2026 13:16:56 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Government, Finance Orgs Targeted in Weeks-Long NetScaler Zero-Day Attacks",
+      "link": "https://www.securityweek.com/government-finance-orgs-targeted-in-weeks-long-netscaler-zero-day-attacks/",
+      "summary": "Several security firms have confirmed seeing exploitation of the NetScaler vulnerabilities CVE-2026-88771 and CVE-2026-88772. The post Government, Finance Orgs Targeted in Weeks-Long NetScaler Zero-Day Attacks appeared first on SecurityWeek .",
+      "published": "Wed, 30 Sep 2026 12:48:20 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Zero-day ×2",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Chrome, Firefox Updates Patch Over 100 Vulnerabilities",
+      "link": "https://www.securityweek.com/chrome-firefox-updates-patch-over-100-vulnerabilities/",
+      "summary": "Some of the flaws could allow remote attackers to execute arbitrary code or escape the browser sandbox. The post Chrome, Firefox Updates Patch Over 100 Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Wed, 30 Sep 2026 12:16:52 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Anthropic Flags AI Agent Liability Risks as OpenAI Faces Hacking Lawsuit",
+      "link": "https://www.securityweek.com/anthropic-flags-ai-agent-liability-risks-as-openai-faces-hacking-lawsuit/",
+      "summary": "Attacks by autonomous AI agents are moving out of the lab and into the courtroom, raising unsettled questions about who is liable for what agents do. The post Anthropic Flags AI Agent Liability Risks as OpenAI Faces Hacking Lawsuit appeared first on SecurityWeek .",
+      "published": "Wed, 30 Sep 2026 11:19:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Russian APT Star Blizzard Uses ‘RedFlick’ Infection Chain in Recent Attacks",
+      "link": "https://www.securityweek.com/russian-apt-star-blizzard-uses-redflick-infection-chain-in-recent-attacks/",
+      "summary": "The state-sponsored group has launched larger-scale phishing campaigns to deploy the CosmicPulse backdoor. The post Russian APT Star Blizzard Uses ‘RedFlick’ Infection Chain in Recent Attacks appeared first on SecurityWeek .",
+      "published": "Wed, 30 Sep 2026 10:59:30 +0000",
+      "value_score": 30,
+      "value_signals": [
+        "Backdoor",
+        "Phishing"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "ShinyHunters Defiant After FBI Calls on Members to Come Forward",
+      "link": "https://www.securityweek.com/shinyhunters-defiant-after-fbi-calls-on-members-to-come-forward/",
+      "summary": "In the wake of a suspected leader’s arrest, ShinyHunters says it never intended to publish data stolen from the FBI. The post ShinyHunters Defiant After FBI Calls on Members to Come Forward appeared first on SecurityWeek .",
+      "published": "Wed, 30 Sep 2026 10:20:02 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "High-Severity Vulnerabilities Patched in OpenSSL, WolfSSL",
       "link": "https://www.securityweek.com/high-severity-vulnerabilities-patched-in-openssl-wolfssl/",
       "summary": "Roughly a dozen vulnerabilities have been patched in each of the open source cryptographic libraries. The post High-Severity Vulnerabilities Patched in OpenSSL, WolfSSL appeared first on SecurityWeek .",
       "published": "Wed, 30 Sep 2026 06:55:50 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Trump Says Top Tech Firms Have Signed Accord to ‘Self-Police’ AI Development",
-      "link": "https://www.securityweek.com/trump-says-top-tech-firms-have-signed-accord-to-self-police-ai-development/",
-      "summary": "The accord opened the door to future regulation but focused on four voluntary steps for the companies to take. The post Trump Says Top Tech Firms Have Signed Accord to ‘Self-Police’ AI Development appeared first on SecurityWeek .",
-      "published": "Wed, 30 Sep 2026 01:48:21 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "OpenAI CEO Announces New AI Agent and Avoids Mention of Security Concerns at Developer Conference",
-      "link": "https://www.securityweek.com/openai-ceo-announces-new-ai-agent-and-avoids-mention-of-security-concerns-at-developer-conference/",
-      "summary": "Altman made a slew of product announcements and updates, including the company’s new agents, called Dots. The post OpenAI CEO Announces New AI Agent and Avoids Mention of Security Concerns at Developer Conference appeared first on SecurityWeek .",
-      "published": "Tue, 29 Sep 2026 20:14:44 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "DARPA Selects Xint to Use AI in Securing Military Messaging Apps",
-      "link": "https://www.securityweek.com/darpa-selects-xint-to-use-ai-in-securing-military-messaging-apps/",
-      "summary": "The AIxCC competition winner will analyze messaging app code and compiled binaries for vulnerabilities, with technology that could also help commercial customers secure their software. The post DARPA Selects Xint to Use AI in Securing Military Messaging Apps appeared first on SecurityWeek .",
-      "published": "Tue, 29 Sep 2026 17:24:04 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "New Spectre v2 Variant Exposes Intel, AMD, Arm CPUs to Data Leaks",
-      "link": "https://www.securityweek.com/new-spectre-v2-variant-exposes-intel-amd-arm-cpus-to-data-leaks/",
-      "summary": "Branch Target Reuse (BTR) is a new Spectre v2 attack targeting JIT compilers in web browsers, language runtimes, and the operating system kernel The post New Spectre v2 Variant Exposes Intel, AMD, Arm CPUs to Data Leaks appeared first on SecurityWeek .",
-      "published": "Tue, 29 Sep 2026 17:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "RemoteThreat Launches With $7 Million for Offensive Operations Platform",
-      "link": "https://www.securityweek.com/remotethreat-launches-with-7-million-for-offensive-operations-platform/",
-      "summary": "The company emerged from stealth mode with pre-seed funding from Osage University Partners and DataTribe. The post RemoteThreat Launches With $7 Million for Offensive Operations Platform appeared first on SecurityWeek .",
-      "published": "Tue, 29 Sep 2026 14:38:07 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Reco Raises $55 Million for Agentic Security",
-      "link": "https://www.securityweek.com/reco-raises-55-million-for-agentic-security/",
-      "summary": "The company will use the funds to expand its sales, partnerships, channels, and customer support teams. The post Reco Raises $55 Million for Agentic Security appeared first on SecurityWeek .",
-      "published": "Tue, 29 Sep 2026 13:20:53 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Hackers Use ChatGPT Custom GPTs in ClickFix Attacks",
-      "link": "https://www.securityweek.com/hackers-use-chatgpt-custom-gpts-in-clickfix-attacks/",
-      "summary": "The personalized versions of ChatGPT were used to impersonate legitimate products and trick users into executing PowerShell commands. The post Hackers Use ChatGPT Custom GPTs in ClickFix Attacks appeared first on SecurityWeek .",
-      "published": "Tue, 29 Sep 2026 13:03:35 +0000",
       "value_score": 10,
       "value_signals": []
     },

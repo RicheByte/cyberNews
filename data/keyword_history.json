@@ -339,7 +339,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2718,
+      "count": 2719,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1097,7 +1097,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 154,
+      "count": 155,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1129,7 +1129,8 @@
         "2026-08-26",
         "2026-08-27",
         "2026-08-31",
-        "2026-09-01"
+        "2026-09-01",
+        "2026-09-30"
       ]
     },
     "france arrests latvian": {
@@ -1300,7 +1301,7 @@
       ]
     },
     "national security risk": {
-      "count": 527,
+      "count": 528,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1403,7 +1404,8 @@
         "2026-09-26",
         "2026-09-27",
         "2026-09-28",
-        "2026-09-29"
+        "2026-09-29",
+        "2026-09-30"
       ]
     },
     "open source millions": {
@@ -2746,7 +2748,7 @@
       ]
     },
     "token security explains": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-01-05",
         "2026-01-06",
@@ -2759,7 +2761,8 @@
         "2026-07-29",
         "2026-07-30",
         "2026-09-25",
-        "2026-09-26"
+        "2026-09-26",
+        "2026-09-30"
       ]
     },
     "advanced ai technologies": {
@@ -9133,7 +9136,7 @@
       ]
     },
     "shinyhunters extortion group": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-02-24",
         "2026-02-25",
@@ -20413,7 +20416,7 @@
       ]
     },
     "security experts warn": {
-      "count": 65,
+      "count": 66,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -20434,7 +20437,8 @@
         "2026-09-23",
         "2026-09-24",
         "2026-09-28",
-        "2026-09-29"
+        "2026-09-29",
+        "2026-09-30"
       ]
     },
     "targets 217 banking": {
@@ -29275,7 +29279,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 147,
+      "count": 148,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29919,7 +29923,7 @@
       ]
     },
     "siphoning images collected": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-09-08",
         "2026-09-09",
@@ -30306,9 +30310,10 @@
       ]
     },
     "today issued updates": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-09-11"
+        "2026-09-11",
+        "2026-09-30"
       ]
     },
     "configuration error exposed": {
@@ -32242,7 +32247,7 @@
       ]
     },
     "telcos universities medical": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-29",
         "2026-09-30"
@@ -32274,13 +32279,13 @@
       ]
     },
     "openssl wolfssl roughly": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-30"
       ]
     },
     "ransomware toolkit installed": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-30"
       ]
@@ -32290,20 +32295,57 @@
       "dates": [
         "2026-09-30"
       ]
+    },
+    "state sponsored group": {
+      "count": 1,
+      "dates": [
+        "2026-09-30"
+      ]
+    },
+    "udp traffic resends": {
+      "count": 1,
+      "dates": [
+        "2026-09-30"
+      ]
+    },
+    "leak heap memory": {
+      "count": 1,
+      "dates": [
+        "2026-09-30"
+      ]
+    },
+    "bounds write flaw": {
+      "count": 1,
+      "dates": [
+        "2026-09-30"
+      ]
+    },
+    "technology manufacturing government": {
+      "count": 1,
+      "dates": [
+        "2026-09-30"
+      ]
+    },
+    "existing security models": {
+      "count": 1,
+      "dates": [
+        "2026-09-30"
+      ]
+    },
+    "publish data stolen": {
+      "count": 1,
+      "dates": [
+        "2026-09-30"
+      ]
+    },
+    "teamviewer urges users": {
+      "count": 1,
+      "dates": [
+        "2026-09-30"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-10 18:53",
-      "articles": 48,
-      "top_keywords": [
-        "widened scan turns",
-        "authentication bypass flaw",
-        "second android app",
-        "endpoint remediation join",
-        "authentication nearly 1"
-      ]
-    },
     {
       "timestamp": "2026-09-10 22:12",
       "articles": 48,
@@ -33391,6 +33433,17 @@
         "openssl wolfssl roughly",
         "shinyhunters extortion group",
         "hacker group shinyhunters"
+      ]
+    },
+    {
+      "timestamp": "2026-09-30 14:30",
+      "articles": 48,
+      "top_keywords": [
+        "execute arbitrary code",
+        "openssl wolfssl roughly",
+        "shinyhunters extortion group",
+        "siphoning images collected",
+        "state sponsored group"
       ]
     }
   ]

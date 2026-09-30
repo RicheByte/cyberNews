@@ -1,72 +1,87 @@
 {
-  "last_updated": "2026-09-30 00:57",
+  "last_updated": "2026-09-30 07:50",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "darpa selects xint",
     "fake event invites",
-    "rig security emerges",
+    "openssl wolfssl roughly",
     "shinyhunters extortion group",
     "hacker group shinyhunters",
     "twitter whistleblower complaint",
     "operating system kernel",
     "individuals whose licenses",
-    "executing powershell commands",
     "running linux distributions",
     "longest running spree",
+    "ransomware toolkit installed",
     "federal intelligence authorities",
-    "x post monday",
-    "wall street journal",
-    "unauthorized actions openai",
+    "dutch police arrested",
+    "windows operating systems",
     "telcos universities medical",
     "sponsored google results",
     "siphoning images collected",
     "scuola superiore sant'anna",
-    "sales partnerships channels"
+    "sales partnerships channels",
+    "remained walled away"
   ],
   "trending": [
     {
       "keyword": "darpa selects xint",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "fake event invites",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "rig security emerges",
-      "mentions": 3
+      "keyword": "openssl wolfssl roughly",
+      "mentions": 1
     },
     {
       "keyword": "shinyhunters extortion group",
-      "mentions": 44
+      "mentions": 45
     },
     {
       "keyword": "hacker group shinyhunters",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2717
+      "mentions": 2718
     },
     {
       "keyword": "operating system kernel",
-      "mentions": 2
-    },
-    {
-      "keyword": "individuals whose licenses",
-      "mentions": 146
-    },
-    {
-      "keyword": "executing powershell commands",
       "mentions": 3
     },
     {
+      "keyword": "individuals whose licenses",
+      "mentions": 147
+    },
+    {
       "keyword": "running linux distributions",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "longest running spree",
+      "mentions": 40
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution",
+      "link": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html",
+      "summary": "Cybersecurity researchers have disclosed technical details of a recently patched critical security flaw in Citrix NetScaler ADC and Gateway that has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-88772 (CVSS score: 9.5), has been described as a memory overflow bug in the Datagram Transport Layer Security (DTLS) protocol handling that's rooted in the NetScaler",
+      "published": "Wed, 30 Sep 2026 11:00:30 +0530",
+      "value_score": 93,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Active exploitation",
+        "High severity",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
@@ -80,7 +95,7 @@
       "source": "The Hacker News",
       "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
       "link": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
-      "summary": "A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web browsers, language runtimes, and the operating system kernel, across multiple CPU vendors. The new Spectre-v2 variant has been codenamed Branch Target Reuse (BTR). \"The key insight is that, while modern CPUs",
+      "summary": "A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web browsers, language runtimes, and the operating system kernel, across multiple CPU vendors. The new Spectre v2 variant has been codenamed Branch Target Reuse (BTR). \"The key insight is that, while modern CPUs",
       "published": "Tue, 29 Sep 2026 22:50:17 +0530",
       "value_score": 10,
       "value_signals": []
@@ -135,15 +150,6 @@
       "value_signals": [
         "Patch/update"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions",
-      "link": "https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html",
-      "summary": "OpenAI on Monday shelved plans to release GPT-6.1 Astra, a next-generation artificial intelligence (AI) model that was planned for an October launch, after it failed internal safety and alignment audits. The development was first reported by The Wall Street Journal. The move \"marks a rare case of a major AI developer ditching a new release because of safety concerns,\" the news publication said.",
-      "published": "Tue, 29 Sep 2026 10:42:32 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -306,6 +312,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "South Africa Seeks Help After Cyberattack Targets Air Traffic Control",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/south-africa-help-cyberattack-air-traffic-control",
+      "summary": "As aviation infrastructure suffers more cyberattacks, air traffic systems are the latest target, with a ransomware toolkit installed on at least one operational network.",
+      "published": "Wed, 30 Sep 2026 07:00:00 GMT",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Apple Zero-Day Vulnerability Weaponized in Targeted Attacks",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/apple-zero-day-vulnerability-weaponized-targeted-attacks",
       "summary": "Attackers are exploiting CVE-2026-86950, an out-of-bounds write flaw, in an extremely sophisticated fashion, according to Apple.",
@@ -376,15 +393,22 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Carbonato Botnet Puts an AI Agent on Hacked Docker Hosts",
-      "link": "https://www.darkreading.com/identity-access-management-security/carbonato-botnet-ai-agent-hacked-docker-hosts",
-      "summary": "The botnet uses the open source Hermes Agent AI framework to execute commands via Telegram and steal AI API keys from exposed Docker hosts.",
-      "published": "Mon, 28 Sep 2026 20:23:58 GMT",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×2"
-      ]
+      "source": "Security Week",
+      "title": "High-Severity Vulnerabilities Patched in OpenSSL, WolfSSL",
+      "link": "https://www.securityweek.com/high-severity-vulnerabilities-patched-in-openssl-wolfssl/",
+      "summary": "Roughly a dozen vulnerabilities have been patched in each of the open source cryptographic libraries. The post High-Severity Vulnerabilities Patched in OpenSSL, WolfSSL appeared first on SecurityWeek .",
+      "published": "Wed, 30 Sep 2026 06:55:50 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Trump Says Top Tech Firms Have Signed Accord to ‘Self-Police’ AI Development",
+      "link": "https://www.securityweek.com/trump-says-top-tech-firms-have-signed-accord-to-self-police-ai-development/",
+      "summary": "The accord opened the door to future regulation but focused on four voluntary steps for the companies to take. The post Trump Says Top Tech Firms Have Signed Accord to ‘Self-Police’ AI Development appeared first on SecurityWeek .",
+      "published": "Wed, 30 Sep 2026 01:48:21 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -437,26 +461,6 @@
       "link": "https://www.securityweek.com/hackers-use-chatgpt-custom-gpts-in-clickfix-attacks/",
       "summary": "The personalized versions of ChatGPT were used to impersonate legitimate products and trick users into executing PowerShell commands. The post Hackers Use ChatGPT Custom GPTs in ClickFix Attacks appeared first on SecurityWeek .",
       "published": "Tue, 29 Sep 2026 13:03:35 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Pentagon Personnel Agency Data Breach Impacts 3 Million People",
-      "link": "https://www.securityweek.com/pentagon-personnel-agency-data-breach-impacts-3-million-people/",
-      "summary": "The data breach affects the Defense Manpower Data Center (DMDC), which maintains personnel records for the Department of Defense. The post Pentagon Personnel Agency Data Breach Impacts 3 Million People appeared first on SecurityWeek .",
-      "published": "Tue, 29 Sep 2026 12:25:12 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Rig Security Emerges From Stealth With $12M to Tackle Agentic AI Identity Risks",
-      "link": "https://www.securityweek.com/rig-security-emerges-from-stealth-with-12m-to-tackle-agentic-ai-identity-risks/",
-      "summary": "Rig provides an identity dependencies graph to distinguish between legitimate users and rogue AI agents The post Rig Security Emerges From Stealth With $12M to Tackle Agentic AI Identity Risks appeared first on SecurityWeek .",
-      "published": "Tue, 29 Sep 2026 12:00:00 +0000",
       "value_score": 10,
       "value_signals": []
     },

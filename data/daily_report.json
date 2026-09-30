@@ -1,72 +1,122 @@
 {
-  "last_updated": "2026-09-30 14:30",
+  "last_updated": "2026-09-30 20:27",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "execute arbitrary code",
-    "openssl wolfssl roughly",
-    "shinyhunters extortion group",
-    "siphoning images collected",
     "state sponsored group",
-    "udp traffic resends",
+    "openssl wolfssl roughly",
+    "siphoning images collected",
     "twitter whistleblower complaint",
-    "leak heap memory",
+    "msp360 remote monitoring",
+    "legitimate product offerings",
     "individuals whose licenses",
+    "entry gets harder",
+    "aviation infrastructure suffers",
+    "patched security flaw",
     "bounds write flaw",
     "technology manufacturing government",
-    "ransomware toolkit installed",
     "token security explains",
     "security experts warn",
+    "platform's security measures",
     "national security risk",
     "existing security models",
-    "publish data stolen",
-    "today issued updates",
-    "telcos universities medical",
-    "teamviewer urges users"
+    "ransomware toolkit installed",
+    "remote code execution"
   ],
   "trending": [
     {
       "keyword": "execute arbitrary code",
-      "mentions": 155
-    },
-    {
-      "keyword": "openssl wolfssl roughly",
-      "mentions": 2
-    },
-    {
-      "keyword": "shinyhunters extortion group",
-      "mentions": 46
-    },
-    {
-      "keyword": "siphoning images collected",
-      "mentions": 28
+      "mentions": 156
     },
     {
       "keyword": "state sponsored group",
-      "mentions": 1
+      "mentions": 2
     },
     {
-      "keyword": "udp traffic resends",
-      "mentions": 1
+      "keyword": "openssl wolfssl roughly",
+      "mentions": 3
+    },
+    {
+      "keyword": "siphoning images collected",
+      "mentions": 29
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2719
+      "mentions": 2720
     },
     {
-      "keyword": "leak heap memory",
+      "keyword": "msp360 remote monitoring",
+      "mentions": 1
+    },
+    {
+      "keyword": "legitimate product offerings",
       "mentions": 1
     },
     {
       "keyword": "individuals whose licenses",
-      "mentions": 148
+      "mentions": 149
     },
     {
-      "keyword": "bounds write flaw",
+      "keyword": "entry gets harder",
+      "mentions": 1
+    },
+    {
+      "keyword": "aviation infrastructure suffers",
       "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
+      "summary": "Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft Security Research team. The attack exploits CVE-2026-73570 (CVSS score: 8.9), an unauthenticated operating system command injection flaw that can lead to remote code execution when Simple Network Management Protocol",
+      "published": "Wed, 30 Sep 2026 22:16:29 +0530",
+      "value_score": 54,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
+      "link": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
+      "summary": "Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed lures, software update prompts, and other social-engineering content. \"Once executed, the legitimate MSP360 installer, distributed under a deceptive file name established remote management access on affected",
+      "published": "Wed, 30 Sep 2026 22:02:59 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "Patch/update",
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
+      "link": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
+      "summary": "Attackers are exploiting a new critical zero-day flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco said in an advisory on September 30. The flaw, CVE-2026-76504, could allow a remote attacker with no login access to use the Manager's API as the admin user. Fixed releases are available, and there is no workaround. It carries a",
+      "published": "Wed, 30 Sep 2026 20:54:54 +0530",
+      "value_score": 98,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day",
+        "Auth bypass",
+        "Patch/update",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
+      "link": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
+      "summary": "Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites that employ ClickFix lures to deliver malware. Huntress, which observed the activity in late September 2026, said it marks the abuse of yet another feature in trusted artificial intelligence (AI) platforms. Prior campaigns have weaponized shared",
+      "published": "Wed, 30 Sep 2026 20:30:15 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Know Your Enemy: Browser-Based Attack Techniques in 2026",
@@ -108,48 +158,53 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted",
-      "link": "https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html",
-      "summary": "A High-severity OpenSSL flaw can leak heap memory to the other side of a DTLS connection or crash the program, OpenSSL said on September 29 as it released fixes. DTLS, the TLS variant used for UDP traffic, resends a handshake message if no reply arrives before the timer expires. The leak or crash can happen when such a resend starts while a larger handshake message is stuck part-way",
-      "published": "Wed, 30 Sep 2026 13:39:28 +0530",
-      "value_score": 34,
+      "source": "BleepingComputer",
+      "title": "DIVD says Zammad zero-days enabled AI-driven network breach",
+      "link": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
+      "summary": "The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of its network was possible by exploiting a chain of two zero-day vulnerabilities in the open-source Zammad ticketing system. [...]",
+      "published": "Wed, 30 Sep 2026 15:49:15 -0400",
+      "value_score": 65,
       "value_signals": [
-        "Breach/leak ×3"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution",
-      "link": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html",
-      "summary": "Cybersecurity researchers have disclosed technical details of a recently patched critical security flaw in Citrix NetScaler ADC and Gateway that has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-88772 (CVSS score: 9.5), has been described as a memory overflow bug in the Datagram Transport Layer Security (DTLS) protocol handling that's rooted in the NetScaler",
-      "published": "Wed, 30 Sep 2026 11:00:30 +0530",
-      "value_score": 93,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "Active exploitation",
-        "High severity",
-        "Multiple CVEs",
+        "Zero-day",
+        "Breach/leak ×2",
         "Exploit wording"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
-      "link": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
-      "summary": "An attacker used stolen passwords of staff at France's tax administration to take tax data on hundreds of thousands of taxpayers and businesses in June and July. Neither the tax administration nor France's national cybersecurity agency saw the data leave. The attack was not sophisticated, the agency, ANSSI, says in a report (in French) published on Tuesday: it worked because of weak",
-      "published": "Tue, 29 Sep 2026 23:17:01 +0530",
+      "source": "BleepingComputer",
+      "title": "Over 543,000 valid credentials exposed in public GitHub repositories",
+      "link": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/",
+      "summary": "More than 543,000 credentials exposed in public GitHub repositories were still valid in July despite the platform's security measures to prevent accidental leaks of sensitive data. [...]",
+      "published": "Wed, 30 Sep 2026 14:08:34 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
-      "link": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
-      "summary": "A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web browsers, language runtimes, and the operating system kernel, across multiple CPU vendors. The new Spectre v2 variant has been codenamed Branch Target Reuse (BTR). \"The key insight is that, while modern CPUs",
-      "published": "Tue, 29 Sep 2026 22:50:17 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a new critical vulnerability in MikroTik RouterOS that could lead to remote code execution or cause a denial-of-service condition. [...]",
+      "published": "Wed, 30 Sep 2026 11:49:29 -0400",
+      "value_score": 100,
+      "value_signals": [
+        "RCE ×2",
+        "CISA/KEV ×2",
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Cisco warns of new SD-WAN zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/",
+      "summary": "Cisco released security updates to address a critical zero-day in the Catalyst SD-WAN Manager (tracked as CVE-2026-76504) that attackers are actively exploiting to escalate to admin privileges. [...]",
+      "published": "Wed, 30 Sep 2026 10:46:40 -0400",
+      "value_score": 92,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day ×2",
+        "High severity",
+        "Exploit wording"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -191,42 +246,6 @@
         "Zero-day ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft is rolling out Linux container support to WSL",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/",
-      "summary": "Microsoft is taking Windows Subsystem for Linux beyond just running Linux distributions, as WSL Containers is now generally available. [...]",
-      "published": "Tue, 29 Sep 2026 20:40:57 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Signal adds encypted local backup support to iOS, desktop apps",
-      "link": "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/",
-      "summary": "Signal, the secure messaging app, released version 8.30, completing the rollout of its secure backups feature across all supported operating systems (Android, iOS, Linux, macOS, and Windows). [...]",
-      "published": "Tue, 29 Sep 2026 17:30:08 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware",
-      "link": "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/",
-      "summary": "Custom variants of OpenAI's ChatGPT promoted in sponsored Google results are directing unsuspecting users to malicious sites that use ClickFix attacks to deliver malware. [...]",
-      "published": "Tue, 29 Sep 2026 16:59:39 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "FBI tells ShinyHunters members to turn themselves in after recent arrest",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/",
-      "summary": "The FBI is warning members of the ShinyHunters extortion group to turn themselves in after Dutch police arrested a man the bureau described as one of the group's alleged leaders. [...]",
-      "published": "Tue, 29 Sep 2026 16:09:55 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -309,6 +328,27 @@
     },
     {
       "source": "Dark Reading",
+      "title": "As AI Reshapes the SOC Career Ladder, Satisfaction Rises for 91%, but Entry Gets Harder for Nearly Half",
+      "link": "https://www.darkreading.com/cybersecurity-careers/ai-reshapes-soc-career-ladder",
+      "summary": "New Swimlane research underscores a paradox: While AI detection and response is essential to giving defenders an edge, one in four security pros say AI limits their skill development.",
+      "published": "Wed, 30 Sep 2026 18:56:56 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Russia's Star Blizzard Ditches ClickFix to Widen Phishing Net",
+      "link": "https://www.darkreading.com/threat-intelligence/russia-star-blizzard-apt-ditches-clickfix-widen-phishing-net",
+      "summary": "The APT actor is using a new tactic, dubbed \"RedFlick,\" against Ukrainian-linked targets such as NGOs, think tanks, and journalists to deploy its CosmicPulse backdoor.",
+      "published": "Wed, 30 Sep 2026 15:02:25 GMT",
+      "value_score": 30,
+      "value_signals": [
+        "Backdoor",
+        "Phishing"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "South Africa Seeks Help After Cyberattack Targets Air Traffic Control",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/south-africa-help-cyberattack-air-traffic-control",
       "summary": "As aviation infrastructure suffers more cyberattacks, air traffic systems are the latest target, with a ransomware toolkit installed on at least one operational network.",
@@ -367,26 +407,6 @@
       "value_score": 18,
       "value_signals": [
         "High severity"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Nvidia Launches AI Agent Safety Platform to Prevent Rogue Activities",
-      "link": "https://www.darkreading.com/cyber-risk/nvidia-launches-ai-agent-safety-platform-prevent-rogue-activities",
-      "summary": "The Open Agent Safety Platform relies on hardware and software components to monitor agent activities and quarantine unruly agents before they can cause harm.",
-      "published": "Mon, 28 Sep 2026 22:02:46 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "One Packet Can Crash OT Servers in Industrial Sectors",
-      "link": "https://www.darkreading.com/ics-ot-security/one-packet-crash-servers-tdengine",
-      "summary": "A high-severity zero-day vulnerability affects the TDengine time-series database used across industrial, IoT, energy, and automotive environments.",
-      "published": "Mon, 28 Sep 2026 21:13:04 GMT",
-      "value_score": 35,
-      "value_signals": [
-        "Zero-day"
       ]
     },
     {

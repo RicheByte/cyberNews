@@ -339,7 +339,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2719,
+      "count": 2720,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -928,7 +928,7 @@
       ]
     },
     "remote code execution": {
-      "count": 505,
+      "count": 506,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1020,7 +1020,8 @@
         "2026-09-03",
         "2026-09-04",
         "2026-09-17",
-        "2026-09-18"
+        "2026-09-18",
+        "2026-09-30"
       ]
     },
     "attacker remotely control": {
@@ -1097,7 +1098,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 155,
+      "count": 156,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1301,7 +1302,7 @@
       ]
     },
     "national security risk": {
-      "count": 528,
+      "count": 529,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2748,7 +2749,7 @@
       ]
     },
     "token security explains": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-01-05",
         "2026-01-06",
@@ -8516,9 +8517,10 @@
       ]
     },
     "patched security flaw": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-02-19"
+        "2026-02-19",
+        "2026-09-30"
       ]
     },
     "4 000 times": {
@@ -20416,7 +20418,7 @@
       ]
     },
     "security experts warn": {
-      "count": 66,
+      "count": 67,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -29279,7 +29281,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 148,
+      "count": 149,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29923,7 +29925,7 @@
       ]
     },
     "siphoning images collected": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-09-08",
         "2026-09-09",
@@ -32279,13 +32281,13 @@
       ]
     },
     "openssl wolfssl roughly": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-30"
       ]
     },
     "ransomware toolkit installed": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-30"
       ]
@@ -32297,7 +32299,7 @@
       ]
     },
     "state sponsored group": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-30"
       ]
@@ -32315,19 +32317,19 @@
       ]
     },
     "bounds write flaw": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-30"
       ]
     },
     "technology manufacturing government": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-30"
       ]
     },
     "existing security models": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-30"
       ]
@@ -32343,20 +32345,39 @@
       "dates": [
         "2026-09-30"
       ]
+    },
+    "msp360 remote monitoring": {
+      "count": 1,
+      "dates": [
+        "2026-09-30"
+      ]
+    },
+    "legitimate product offerings": {
+      "count": 1,
+      "dates": [
+        "2026-09-30"
+      ]
+    },
+    "entry gets harder": {
+      "count": 1,
+      "dates": [
+        "2026-09-30"
+      ]
+    },
+    "aviation infrastructure suffers": {
+      "count": 1,
+      "dates": [
+        "2026-09-30"
+      ]
+    },
+    "platform's security measures": {
+      "count": 1,
+      "dates": [
+        "2026-09-30"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-10 22:12",
-      "articles": 48,
-      "top_keywords": [
-        "widened scan turns",
-        "second android app",
-        "endpoint remediation join",
-        "authentication bypass flaw",
-        "anthropic researcher resigns"
-      ]
-    },
     {
       "timestamp": "2026-09-11 02:36",
       "articles": 48,
@@ -33444,6 +33465,17 @@
         "shinyhunters extortion group",
         "siphoning images collected",
         "state sponsored group"
+      ]
+    },
+    {
+      "timestamp": "2026-09-30 20:27",
+      "articles": 48,
+      "top_keywords": [
+        "execute arbitrary code",
+        "state sponsored group",
+        "openssl wolfssl roughly",
+        "siphoning images collected",
+        "twitter whistleblower complaint"
       ]
     }
   ]

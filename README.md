@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-30 14:30 UTC |
+| 🕐 Last Updated | 2026-09-30 20:27 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`execute arbitrary code` • `openssl wolfssl roughly` • `shinyhunters extortion group` • `siphoning images collected` • `state sponsored group` • `udp traffic resends` • `twitter whistleblower complaint` • `leak heap memory` • `individuals whose licenses` • `bounds write flaw`
+`execute arbitrary code` • `state sponsored group` • `openssl wolfssl roughly` • `siphoning images collected` • `twitter whistleblower complaint` • `msp360 remote monitoring` • `legitimate product offerings` • `individuals whose licenses` • `entry gets harder` • `aviation infrastructure suffers`
 
 ## 📄 Reports
 

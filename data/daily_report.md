@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-29 20:23 UTC  
+> **Last Updated:** 2026-09-30 00:57 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**darpa selects xint** • **fake event invites** • **rig security emerges** • **shinyhunters extortion group** • **hacker group shinyhunters** • **twitter whistleblower complaint** • **operating system kernel** • **longest running spree** • **individuals whose licenses** • **identity dependencies graph** • **executing powershell commands** • **federal intelligence authorities** • **x post monday** • **windows operating systems** • **windows 11 26h2** • **wall street journal** • **unauthorized actions openai** • **telcos universities medical** • **siphoning images collected** • **scuola superiore sant'anna**
+**darpa selects xint** • **fake event invites** • **rig security emerges** • **shinyhunters extortion group** • **hacker group shinyhunters** • **twitter whistleblower complaint** • **operating system kernel** • **individuals whose licenses** • **executing powershell commands** • **running linux distributions** • **longest running spree** • **federal intelligence authorities** • **x post monday** • **wall street journal** • **unauthorized actions openai** • **telcos universities medical** • **sponsored google results** • **siphoning images collected** • **scuola superiore sant'anna** • **sales partnerships channels**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Microsoft is rolling out Linux container support to WSL](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/)
+- [Signal adds encypted local backup support to iOS, desktop apps](https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/)
+- [Custom ChatGPTs push ClickFix attacks to deploy RAT malware](https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/)
 - [FBI tells ShinyHunters members to turn themselves in after recent arrest](https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/)
 - [Hackers exploit Citrix NetScaler zero-day to deploy web shells](https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/)
 - [Former US Air Force members sent to prison over BEC attacks](https://www.bleepingcomputer.com/news/security/former-us-air-force-members-sent-to-prison-over-bec-attacks/)
 - [Windows 11 2026 Update released, here's everything you need to know](https://www.bleepingcomputer.com/news/microsoft/windows-11-2026-update-released-heres-everything-you-need-to-know/)
 - [New Spectre v2 attack variant leaks Linux root password hash in minutes](https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/)
-- [Automated AI agent used to breach cybersecurity nonprofit DIVD](https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/)
-- [Catch threats before they escalate with real-time Identity Telemetry](https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/)
-- [Vietnamese man charged in $16 million 'pig butchering' crypto scam](https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Apple Zero-Day Vulnerability Weaponized in Targeted Attacks](https://www.darkreading.com/cyberattacks-data-breaches/apple-zero-day-vulnerability-weaponized-targeted-attacks)
+- [Unsloth Studio Flaw Turns Routine Model Inspection Into Code Execution](https://www.darkreading.com/application-security/unsloth-studio-flaw-model-inspection-code-execution)
 - [Cloudflare Announces Public Certificate Authority for the Post-Quantum Web](https://www.darkreading.com/cloud-security/cloudflare-announces-public-certificate-authority-post-quantum-web)
 - ['NeedyMantis' Provides Long-Term Access to Compromised Networks](https://www.darkreading.com/threat-intelligence/needymantis-long-term-access-compromised-networks)
 - [Dual NetScaler Zero-Days Trigger Chaos for Citrix Customers](https://www.darkreading.com/vulnerabilities-threats/netscaler-zero-days-chaos-citrix)
 - [Nvidia Launches AI Agent Safety Platform to Prevent Rogue Activities](https://www.darkreading.com/cyber-risk/nvidia-launches-ai-agent-safety-platform-prevent-rogue-activities)
 - [One Packet Can Crash OT Servers in Industrial Sectors](https://www.darkreading.com/ics-ot-security/one-packet-crash-servers-tdengine)
 - [Carbonato Botnet Puts an AI Agent on Hacked Docker Hosts](https://www.darkreading.com/identity-access-management-security/carbonato-botnet-ai-agent-hacked-docker-hosts)
-- [AI Agents Are Privileged Users; Who Is Auditing Their Access?](https://www.darkreading.com/vulnerabilities-threats/ai-agents-are-privileged-users-who-is-auditing-their-access)
-- [Chrome Store Hosts 'Poper Blocker' Spyware Downloaded by Millions](https://www.darkreading.com/application-security/chrome-store-poper-blocker-spyware-downloaded-millions)
 
 ### Security Week
 

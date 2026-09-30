@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-29 20:23 UTC |
+| 🕐 Last Updated | 2026-09-30 00:57 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`darpa selects xint` • `fake event invites` • `rig security emerges` • `shinyhunters extortion group` • `hacker group shinyhunters` • `twitter whistleblower complaint` • `operating system kernel` • `longest running spree` • `individuals whose licenses` • `identity dependencies graph`
+`darpa selects xint` • `fake event invites` • `rig security emerges` • `shinyhunters extortion group` • `hacker group shinyhunters` • `twitter whistleblower complaint` • `operating system kernel` • `individuals whose licenses` • `executing powershell commands` • `running linux distributions`
 
 ## 📄 Reports
 

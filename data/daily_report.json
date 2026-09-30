@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29 20:23",
+  "last_updated": "2026-09-30 00:57",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -10,60 +10,60 @@
     "hacker group shinyhunters",
     "twitter whistleblower complaint",
     "operating system kernel",
-    "longest running spree",
     "individuals whose licenses",
-    "identity dependencies graph",
     "executing powershell commands",
+    "running linux distributions",
+    "longest running spree",
     "federal intelligence authorities",
     "x post monday",
-    "windows operating systems",
-    "windows 11 26h2",
     "wall street journal",
     "unauthorized actions openai",
     "telcos universities medical",
+    "sponsored google results",
     "siphoning images collected",
-    "scuola superiore sant'anna"
+    "scuola superiore sant'anna",
+    "sales partnerships channels"
   ],
   "trending": [
     {
       "keyword": "darpa selects xint",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "fake event invites",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "rig security emerges",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "shinyhunters extortion group",
-      "mentions": 43
+      "mentions": 44
     },
     {
       "keyword": "hacker group shinyhunters",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2716
+      "mentions": 2717
     },
     {
       "keyword": "operating system kernel",
-      "mentions": 1
-    },
-    {
-      "keyword": "longest running spree",
-      "mentions": 38
+      "mentions": 2
     },
     {
       "keyword": "individuals whose licenses",
-      "mentions": 145
+      "mentions": 146
     },
     {
-      "keyword": "identity dependencies graph",
-      "mentions": 2
+      "keyword": "executing powershell commands",
+      "mentions": 3
+    },
+    {
+      "keyword": "running linux distributions",
+      "mentions": 1
     }
   ],
   "articles": [
@@ -147,6 +147,33 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Microsoft is rolling out Linux container support to WSL",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/",
+      "summary": "Microsoft is taking Windows Subsystem for Linux beyond just running Linux distributions, as WSL Containers is now generally available. [...]",
+      "published": "Tue, 29 Sep 2026 20:40:57 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Signal adds encypted local backup support to iOS, desktop apps",
+      "link": "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/",
+      "summary": "Signal, the secure messaging app, released version 8.30, completing the rollout of its secure backups feature across all supported operating systems (Android, iOS, Linux, macOS, and Windows). [...]",
+      "published": "Tue, 29 Sep 2026 17:30:08 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware",
+      "link": "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/",
+      "summary": "Custom variants of OpenAI's ChatGPT promoted in sponsored Google results are directing unsuspecting users to malicious sites that use ClickFix attacks to deliver malware. [...]",
+      "published": "Tue, 29 Sep 2026 16:59:39 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "FBI tells ShinyHunters members to turn themselves in after recent arrest",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/",
       "summary": "The FBI is warning members of the ShinyHunters extortion group to turn themselves in after Dutch police arrested a man the bureau described as one of the group's alleged leaders. [...]",
@@ -195,35 +222,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/",
       "summary": "A new Branch Target Reuse (BTR) attack has been devised that can recover root password hashes on Intel computers running Linux in 3-5 minutes on average. [...]",
       "published": "Tue, 29 Sep 2026 13:10:11 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Automated AI agent used to breach cybersecurity nonprofit DIVD",
-      "link": "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/",
-      "summary": "The Dutch Institute for Vulnerability Disclosure (DIVD) suffered an AI-driven cyberattack that the organization described as \"loud and very, very messy.\" [...]",
-      "published": "Tue, 29 Sep 2026 11:39:19 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Catch threats before they escalate with real-time Identity Telemetry",
-      "link": "https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/",
-      "summary": "Identity governance helps control who should have access, but periodic reviews alone may not reveal attacks as they happen. tenfold Software explains how real-time identity telemetry can help security teams investigate suspicious activity before it escalates. [...]",
-      "published": "Tue, 29 Sep 2026 10:01:11 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Vietnamese man charged in $16 million 'pig butchering' crypto scam",
-      "link": "https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/",
-      "summary": "A Vietnamese national was charged with money laundering for his role in a massive \"pig butchering\" scam, which defrauded a victim out of $16 million worth of cryptocurrency. [...]",
-      "published": "Tue, 29 Sep 2026 07:41:53 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -308,6 +306,28 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Apple Zero-Day Vulnerability Weaponized in Targeted Attacks",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/apple-zero-day-vulnerability-weaponized-targeted-attacks",
+      "summary": "Attackers are exploiting CVE-2026-86950, an out-of-bounds write flaw, in an extremely sophisticated fashion, according to Apple.",
+      "published": "Tue, 29 Sep 2026 21:31:29 GMT",
+      "value_score": 59,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Unsloth Studio Flaw Turns Routine Model Inspection Into Code Execution",
+      "link": "https://www.darkreading.com/application-security/unsloth-studio-flaw-model-inspection-code-execution",
+      "summary": "A patched Unsloth Studio vulnerability allows malicious AI models to execute arbitrary Python code during inspection, via the trust_remote_code setting.",
+      "published": "Tue, 29 Sep 2026 21:08:42 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Cloudflare Announces Public Certificate Authority for the Post-Quantum Web",
       "link": "https://www.darkreading.com/cloud-security/cloudflare-announces-public-certificate-authority-post-quantum-web",
       "summary": "Automated certificates for everyone, built for today, and hardened for the era of quantum computing.",
@@ -365,24 +385,6 @@
       "value_signals": [
         "Botnet ×2"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "AI Agents Are Privileged Users; Who Is Auditing Their Access?",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/ai-agents-are-privileged-users-who-is-auditing-their-access",
-      "summary": "Enterprises regularly rigorously monitor human employees, while autonomous AI agents quietly operate with broad privileges that could turn them into the next generation of insider threats.",
-      "published": "Mon, 28 Sep 2026 18:44:22 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Chrome Store Hosts 'Poper Blocker' Spyware Downloaded by Millions",
-      "link": "https://www.darkreading.com/application-security/chrome-store-poper-blocker-spyware-downloaded-millions",
-      "summary": "A purported ad-blocker exfiltrates reams of sensitive information and benefits from having Google's stamp of approval despite researcher warnings.",
-      "published": "Mon, 28 Sep 2026 16:51:25 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

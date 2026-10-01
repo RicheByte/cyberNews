@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 786,
+      "count": 787,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -340,7 +340,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2721,
+      "count": 2722,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -930,7 +930,7 @@
       ]
     },
     "remote code execution": {
-      "count": 507,
+      "count": 508,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1101,7 +1101,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 157,
+      "count": 158,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2082,7 +2082,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 626,
+      "count": 627,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2206,7 +2206,8 @@
         "2026-09-26",
         "2026-09-27",
         "2026-09-28",
-        "2026-09-29"
+        "2026-09-29",
+        "2026-10-01"
       ]
     },
     "model agnostic abstractions": {
@@ -2754,7 +2755,7 @@
       ]
     },
     "token security explains": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2026-01-05",
         "2026-01-06",
@@ -29289,7 +29290,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 150,
+      "count": 151,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -30322,10 +30323,11 @@
       ]
     },
     "today issued updates": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-11",
-        "2026-09-30"
+        "2026-09-30",
+        "2026-10-01"
       ]
     },
     "configuration error exposed": {
@@ -32103,9 +32105,10 @@
       ]
     },
     "cve 2026 88772": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-09-28"
+        "2026-09-28",
+        "2026-10-01"
       ]
     },
     "cve 2026 88771": {
@@ -32147,9 +32150,10 @@
       ]
     },
     "cve 2026 86950": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-09-29"
+        "2026-09-29",
+        "2026-10-01"
       ]
     },
     "unauthorized actions openai": {
@@ -32297,7 +32301,7 @@
       ]
     },
     "ransomware toolkit installed": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-30",
         "2026-10-01"
@@ -32310,7 +32314,7 @@
       ]
     },
     "state sponsored group": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-30",
         "2026-10-01"
@@ -32362,21 +32366,21 @@
       ]
     },
     "msp360 remote monitoring": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-30",
         "2026-10-01"
       ]
     },
     "legitimate product offerings": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-30",
         "2026-10-01"
       ]
     },
     "entry gets harder": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-30",
         "2026-10-01"
@@ -32395,20 +32399,39 @@
         "2026-09-30",
         "2026-10-01"
       ]
+    },
+    "cve 2026 76504": {
+      "count": 1,
+      "dates": [
+        "2026-10-01"
+      ]
+    },
+    "specific targeted individuals": {
+      "count": 1,
+      "dates": [
+        "2026-10-01"
+      ]
+    },
+    "yet another feature": {
+      "count": 1,
+      "dates": [
+        "2026-10-01"
+      ]
+    },
+    "widen phishing net": {
+      "count": 1,
+      "dates": [
+        "2026-10-01"
+      ]
+    },
+    "ukrainian linked targets": {
+      "count": 1,
+      "dates": [
+        "2026-10-01"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-11 08:29",
-      "articles": 48,
-      "top_keywords": [
-        "authentication bypass vulnerability",
-        "endpoint remediation join",
-        "anthropic researcher resigns",
-        "least september 3",
-        "cve 2026 19490"
-      ]
-    },
     {
       "timestamp": "2026-09-11 13:59",
       "articles": 48,
@@ -33496,6 +33519,17 @@
         "patched security flaw",
         "siphoning images collected",
         "windows operating systems"
+      ]
+    },
+    {
+      "timestamp": "2026-10-01 08:10",
+      "articles": 48,
+      "top_keywords": [
+        "cve 2026 86950",
+        "execute arbitrary code",
+        "state sponsored group",
+        "msp360 remote monitoring",
+        "cve 2026 88772"
       ]
     }
   ]

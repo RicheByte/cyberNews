@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-01 01:00 UTC |
+| 🕐 Last Updated | 2026-10-01 08:10 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`execute arbitrary code` • `state sponsored group` • `patched security flaw` • `siphoning images collected` • `windows operating systems` • `twitter whistleblower complaint` • `technology manufacturing government` • `msp360 remote monitoring` • `legitimate product offerings` • `individuals whose licenses`
+`cve 2026 86950` • `execute arbitrary code` • `state sponsored group` • `msp360 remote monitoring` • `cve 2026 88772` • `cve 2026 76504` • `windows operating systems` • `twitter whistleblower complaint` • `legitimate product offerings` • `individuals whose licenses`
 
 ## 📄 Reports
 

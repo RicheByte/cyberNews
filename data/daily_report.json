@@ -1,72 +1,96 @@
 {
-  "last_updated": "2026-10-01 16:50",
+  "last_updated": "2026-10-01 22:14",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "cve 2026 86950",
-    "zimbra vulnerability exploited",
+    "artificial intelligence faster",
     "strong authentication exists",
+    "zimbra vulnerability exploited",
+    "killsec ransomware group",
     "least 110 terabytes",
+    "raised 10 million",
     "windows operating systems",
-    "unauthenticated remote attacker",
     "twitter whistleblower complaint",
-    "sophisticated cybercrime syndicate",
-    "atm jackpotting scheme",
     "microsoft entra joined",
+    "group's alleged administrator",
     "bounds write flaw",
     "ransomware toolkit installed",
-    "individuals whose licenses",
+    "sophisticated cybercrime syndicate",
     "security experts warn",
+    "roughly 445 million",
     "released security updates",
     "national security risk",
-    "conversation security wants",
-    "windows settings backup",
-    "windows 11 26h2",
-    "widen phishing net"
+    "leak site unless",
+    "individuals whose licenses"
   ],
   "trending": [
     {
       "keyword": "cve 2026 86950",
-      "mentions": 3
+      "mentions": 4
     },
     {
-      "keyword": "zimbra vulnerability exploited",
+      "keyword": "artificial intelligence faster",
       "mentions": 1
     },
     {
       "keyword": "strong authentication exists",
+      "mentions": 2
+    },
+    {
+      "keyword": "zimbra vulnerability exploited",
+      "mentions": 2
+    },
+    {
+      "keyword": "killsec ransomware group",
       "mentions": 1
     },
     {
       "keyword": "least 110 terabytes",
+      "mentions": 2
+    },
+    {
+      "keyword": "raised 10 million",
       "mentions": 1
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 788
-    },
-    {
-      "keyword": "unauthenticated remote attacker",
-      "mentions": 42
+      "mentions": 789
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2723
-    },
-    {
-      "keyword": "sophisticated cybercrime syndicate",
-      "mentions": 42
-    },
-    {
-      "keyword": "atm jackpotting scheme",
-      "mentions": 25
+      "mentions": 2724
     },
     {
       "keyword": "microsoft entra joined",
-      "mentions": 1
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
+      "link": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
+      "summary": "Police in Spain have arrested a 16-year-old whom investigators suspect of running the KillSec ransomware group. KillSec is accused of stealing data from organizations and threatening to publish it on its leak site unless they paid. The 16-year-old was one of 3 people arrested on September 30, when police also took control of that site. Investigators identified him as KillSec's suspected",
+      "published": "Thu, 01 Oct 2026 22:25:57 +0530",
+      "value_score": 70,
+      "value_signals": [
+        "Ransomware ×2",
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories",
+      "link": "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html",
+      "summary": "This week, the useful words are boring ones: inspect, cache, compile, store, trust. Each sounds harmless. Each can become an attack path when a system does a little more than people expect. A model check can run code. A cache can mix up requests. A public secret can stay useful for years. That is the lesson running through the list. Attackers do not always need a brilliant new trick. They can",
+      "published": "Thu, 01 Oct 2026 22:15:38 +0530",
+      "value_score": 55,
+      "value_signals": [
+        "Zero-day",
+        "RCE"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory",
@@ -133,23 +157,20 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft",
-      "link": "https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html",
-      "summary": "Cryptocurrency exchange Bitget on Wednesday confirmed that attackers who stole $387.5 million last week exploited a zero-day flaw in third-party security products, citing ongoing investigation findings from SlowMist. \"Their investigation identified malicious activity involving third-party security products, including a zero-day vulnerability, and recovered a customized tool used by the attacker",
-      "published": "Thu, 01 Oct 2026 10:51:10 +0530",
-      "value_score": 66,
-      "value_signals": [
-        "Zero-day ×3",
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "Autonomous AI agents tried to hack US, Canadian government websites",
+      "link": "https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/",
+      "summary": "Autonomous AI agents using aggressive strategies attempted to hack U.S. and Canadian government websites to find school and divorce statistics. [...]",
+      "published": "Thu, 01 Oct 2026 16:52:50 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "MetaMask Security Incident Prompts Exit of Affected Ethereum Validators",
-      "link": "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html",
-      "summary": "MetaMask on Thursday said it's responding to what it described as an \"ongoing security incident\" impacting part of its infrastructure. \"We are actively addressing and remediating the issue internally, in coordination with external partners and security advisors,\" the software cryptocurrency wallet maker said. \"At this time, we have identified no immediate threat to MetaMask wallets.\" MetaMask",
-      "published": "Thu, 01 Oct 2026 10:40:09 +0530",
+      "source": "BleepingComputer",
+      "title": "Microsoft says threat actors are ahead in the early AI race",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/",
+      "summary": "Microsoft says cyberattackers are currently benefiting from artificial intelligence faster than defenders, allowing threat actors to speed up vulnerability discovery, malware development, and post-compromise activity while security teams struggle to keep pace. [...]",
+      "published": "Thu, 01 Oct 2026 15:32:47 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -209,30 +230,6 @@
       "published": "Thu, 01 Oct 2026 03:33:57 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Russian state hackers use new RedFlick technique to push malware",
-      "link": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
-      "summary": "The Russian state actor Star Blizzard has been using a new malware installation tactic dubbed \"RedFlick\" to deploy its signature CosmicPulse backdoor. [...]",
-      "published": "Wed, 30 Sep 2026 16:34:01 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Backdoor"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "DIVD says Zammad zero-days enabled AI-driven network breach",
-      "link": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
-      "summary": "The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of its network was possible by exploiting a chain of two zero-day vulnerabilities in the open-source Zammad ticketing system. [...]",
-      "published": "Wed, 30 Sep 2026 15:49:15 -0400",
-      "value_score": 65,
-      "value_signals": [
-        "Zero-day",
-        "Breach/leak ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -315,6 +312,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Alleged KillSec Ransomware Mastermind a 16-Year-Old",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-mastermind-16-year-old",
+      "summary": "Law enforcement from multiple countries collaborated to disrupt a cybercrime operation that has claimed some 500 victims worldwide in the past two years.",
+      "published": "Thu, 01 Oct 2026 21:37:50 GMT",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Warlock Ransomware Hits Large Spanish, Portuguese Orgs",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/warlock-ransomware-spanish-portuguese",
       "summary": "A year-old Chinese threat actor looks like a cybercrime gang, acts like a state-associated APT, and attacks organizations in unexpected places.",
@@ -388,11 +396,20 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Unsloth Studio Flaw Turns Routine Model Inspection Into Code Execution",
-      "link": "https://www.darkreading.com/application-security/unsloth-studio-flaw-model-inspection-code-execution",
-      "summary": "A patched Unsloth Studio vulnerability allows malicious AI models to execute arbitrary Python code during inspection, via the trust_remote_code setting.",
-      "published": "Tue, 29 Sep 2026 21:08:42 GMT",
+      "source": "Security Week",
+      "title": "Zero Trust Creator Says Model Holds Firm Against AI-Assisted Attacks",
+      "link": "https://www.securityweek.com/zero-trust-creator-says-model-holds-firm-against-ai-assisted-attacks/",
+      "summary": "Fifteen years after coining the framework, John Kindervag insists zero trust still works in the AI era—if you get the implementation right. The post Zero Trust Creator Says Model Holds Firm Against AI-Assisted Attacks appeared first on SecurityWeek .",
+      "published": "Thu, 01 Oct 2026 18:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Osavul Lands $10 Million to Spot Hostile Intent Across Cyber, Physical Domains",
+      "link": "https://www.securityweek.com/osavul-lands-10-million-to-spot-hostile-intent-across-cyber-physical-domains/",
+      "summary": "Hybrid risk intelligence company Osavul has raised $10 million in a Series A funding round led by 33N Ventures. The post Osavul Lands $10 Million to Spot Hostile Intent Across Cyber, Physical Domains appeared first on SecurityWeek .",
+      "published": "Thu, 01 Oct 2026 17:16:41 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -458,27 +475,6 @@
       "published": "Thu, 01 Oct 2026 11:40:51 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Treasury Blacklists Most-Wanted ATM Malware Developer and His Network",
-      "link": "https://www.securityweek.com/treasury-blacklists-most-wanted-atm-malware-developer-and-his-network/",
-      "summary": "The US government continues its crackdown on Tren de Aragua over its ATM jackpotting scheme. The post Treasury Blacklists Most-Wanted ATM Malware Developer and His Network appeared first on SecurityWeek .",
-      "published": "Thu, 01 Oct 2026 10:51:39 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Zammad Zero-Days Exploited in AI-Powered DIVD Hack",
-      "link": "https://www.securityweek.com/zammad-zero-days-exploited-in-ai-powered-divd-hack/",
-      "summary": "The flaws were chained to hijack sessions, achieve remote code execution, and elevate privileges to root. The post Zammad Zero-Days Exploited in AI-Powered DIVD Hack appeared first on SecurityWeek .",
-      "published": "Thu, 01 Oct 2026 10:42:49 +0000",
-      "value_score": 36,
-      "value_signals": [
-        "RCE",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-09-30 20:27",
+  "last_updated": "2026-10-01 01:00",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "execute arbitrary code",
     "state sponsored group",
-    "openssl wolfssl roughly",
+    "patched security flaw",
     "siphoning images collected",
+    "windows operating systems",
     "twitter whistleblower complaint",
+    "technology manufacturing government",
     "msp360 remote monitoring",
     "legitimate product offerings",
     "individuals whose licenses",
     "entry gets harder",
-    "aviation infrastructure suffers",
-    "patched security flaw",
     "bounds write flaw",
-    "technology manufacturing government",
+    "aviation infrastructure suffers",
+    "ransomware toolkit installed",
     "token security explains",
     "security experts warn",
     "platform's security measures",
     "national security risk",
     "existing security models",
-    "ransomware toolkit installed",
     "remote code execution"
   ],
   "trending": [
     {
       "keyword": "execute arbitrary code",
-      "mentions": 156
+      "mentions": 157
     },
     {
       "keyword": "state sponsored group",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "openssl wolfssl roughly",
+      "keyword": "patched security flaw",
       "mentions": 3
     },
     {
       "keyword": "siphoning images collected",
-      "mentions": 29
+      "mentions": 30
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 786
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2720
+      "mentions": 2721
+    },
+    {
+      "keyword": "technology manufacturing government",
+      "mentions": 3
     },
     {
       "keyword": "msp360 remote monitoring",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "legitimate product offerings",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "individuals whose licenses",
-      "mentions": 149
-    },
-    {
-      "keyword": "entry gets harder",
-      "mentions": 1
-    },
-    {
-      "keyword": "aviation infrastructure suffers",
-      "mentions": 1
+      "mentions": 150
     }
   ],
   "articles": [
@@ -159,6 +159,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Russian state hackers use new RedFlick technique to push malware",
+      "link": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
+      "summary": "The Russian state actor Star Blizzard has been using a new malware installation tactic dubbed \"RedFlick\" to deploy its signature CosmicPulse backdoor. [...]",
+      "published": "Wed, 30 Sep 2026 16:34:01 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Backdoor"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "DIVD says Zammad zero-days enabled AI-driven network breach",
       "link": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
       "summary": "The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of its network was possible by exploiting a chain of two zero-day vulnerabilities in the open-source Zammad ticketing system. [...]",
@@ -233,18 +244,6 @@
       "value_score": 26,
       "value_signals": [
         "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Bitget hacked via zero-day in third-party security products",
-      "link": "https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/",
-      "summary": "Cryptocurrency exchange Bitget revealed today that attackers who stole $387.5 million last week breached its systems after exploiting a zero-day flaw in third-party security products. [...]",
-      "published": "Wed, 30 Sep 2026 07:11:46 -0400",
-      "value_score": 66,
-      "value_signals": [
-        "Zero-day ×2",
-        "Exploit wording"
       ]
     },
     {
@@ -328,6 +327,24 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Malicious Custom GPTs Turn ChatGPT Into RAT Delivery Lure",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/malicious-custom-gpts-chatgpt-rat-delivery-lure",
+      "summary": "In yet another ClickFix-style campaign, threat actors abuse legitimate domains from OpenAI and Google to fool unsuspecting users.",
+      "published": "Wed, 30 Sep 2026 21:25:47 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Trump, Tech Giants Strike Voluntary AI Safety Accord",
+      "link": "https://www.darkreading.com/cyber-risk/trump-tech-giants-strike-voluntary-ai-safety-accord",
+      "summary": "The new White House Accord on so-called \"Super Intelligence\" calls on companies to implement greater controls and oversight over AI safety.",
+      "published": "Wed, 30 Sep 2026 20:51:15 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "As AI Reshapes the SOC Career Ladder, Satisfaction Rises for 91%, but Entry Gets Harder for Nearly Half",
       "link": "https://www.darkreading.com/cybersecurity-careers/ai-reshapes-soc-career-ladder",
       "summary": "New Swimlane research underscores a paradox: While AI detection and response is essential to giving defenders an edge, one in four security pros say AI limits their skill development.",
@@ -390,24 +407,13 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "'NeedyMantis' Provides Long-Term Access to Compromised Networks",
-      "link": "https://www.darkreading.com/threat-intelligence/needymantis-long-term-access-compromised-networks",
-      "summary": "Microsoft observed a China-based actor using a previously unidentified malware framework in targeted intrusions against telcos, universities, medical, and government-related organizations.",
-      "published": "Tue, 29 Sep 2026 15:12:39 GMT",
+      "source": "Security Week",
+      "title": "FTC is Investigating OpenAI and Anthropic Over Possible risks to Consumers",
+      "link": "https://www.securityweek.com/ftc-is-investigating-openai-and-anthropic-over-possible-risks-to-consumers/",
+      "summary": "An FTC spokesperson confirmed the investigation but declined further comment. The post FTC is Investigating OpenAI and Anthropic Over Possible risks to Consumers appeared first on SecurityWeek .",
+      "published": "Wed, 30 Sep 2026 23:43:51 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Dual NetScaler Zero-Days Trigger Chaos for Citrix Customers",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/netscaler-zero-days-chaos-citrix",
-      "summary": "The critical vulnerabilities, which impact default configurations of NetScaler products, essentially give attackers a skeleton key to customers' networks.",
-      "published": "Tue, 29 Sep 2026 14:19:43 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
     },
     {
       "source": "Security Week",
@@ -483,15 +489,6 @@
       "link": "https://www.securityweek.com/shinyhunters-defiant-after-fbi-calls-on-members-to-come-forward/",
       "summary": "In the wake of a suspected leader’s arrest, ShinyHunters says it never intended to publish data stolen from the FBI. The post ShinyHunters Defiant After FBI Calls on Members to Come Forward appeared first on SecurityWeek .",
       "published": "Wed, 30 Sep 2026 10:20:02 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "High-Severity Vulnerabilities Patched in OpenSSL, WolfSSL",
-      "link": "https://www.securityweek.com/high-severity-vulnerabilities-patched-in-openssl-wolfssl/",
-      "summary": "Roughly a dozen vulnerabilities have been patched in each of the open source cryptographic libraries. The post High-Severity Vulnerabilities Patched in OpenSSL, WolfSSL appeared first on SecurityWeek .",
-      "published": "Wed, 30 Sep 2026 06:55:50 +0000",
       "value_score": 10,
       "value_signals": []
     },

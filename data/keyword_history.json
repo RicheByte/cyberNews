@@ -1,6 +1,5 @@
 {
   "dates": [
-    "2026-09-01",
     "2026-09-02",
     "2026-09-03",
     "2026-09-04",
@@ -29,7 +28,8 @@
     "2026-09-27",
     "2026-09-28",
     "2026-09-29",
-    "2026-09-30"
+    "2026-09-30",
+    "2026-10-01"
   ],
   "keywords": {
     "five cybersecurity predictions": {
@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 785,
+      "count": 786,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -335,11 +335,12 @@
         "2026-09-25",
         "2026-09-26",
         "2026-09-29",
-        "2026-09-30"
+        "2026-09-30",
+        "2026-10-01"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2720,
+      "count": 2721,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -628,7 +629,8 @@
         "2026-09-27",
         "2026-09-28",
         "2026-09-29",
-        "2026-09-30"
+        "2026-09-30",
+        "2026-10-01"
       ]
     },
     "supposed wayward package": {
@@ -928,7 +930,7 @@
       ]
     },
     "remote code execution": {
-      "count": 506,
+      "count": 507,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1021,7 +1023,8 @@
         "2026-09-04",
         "2026-09-17",
         "2026-09-18",
-        "2026-09-30"
+        "2026-09-30",
+        "2026-10-01"
       ]
     },
     "attacker remotely control": {
@@ -1098,7 +1101,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 156,
+      "count": 157,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1131,7 +1134,8 @@
         "2026-08-27",
         "2026-08-31",
         "2026-09-01",
-        "2026-09-30"
+        "2026-09-30",
+        "2026-10-01"
       ]
     },
     "france arrests latvian": {
@@ -1302,7 +1306,7 @@
       ]
     },
     "national security risk": {
-      "count": 529,
+      "count": 530,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1406,7 +1410,8 @@
         "2026-09-27",
         "2026-09-28",
         "2026-09-29",
-        "2026-09-30"
+        "2026-09-30",
+        "2026-10-01"
       ]
     },
     "open source millions": {
@@ -2749,7 +2754,7 @@
       ]
     },
     "token security explains": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2026-01-05",
         "2026-01-06",
@@ -2763,7 +2768,8 @@
         "2026-07-30",
         "2026-09-25",
         "2026-09-26",
-        "2026-09-30"
+        "2026-09-30",
+        "2026-10-01"
       ]
     },
     "advanced ai technologies": {
@@ -8517,10 +8523,11 @@
       ]
     },
     "patched security flaw": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-19",
-        "2026-09-30"
+        "2026-09-30",
+        "2026-10-01"
       ]
     },
     "4 000 times": {
@@ -20418,7 +20425,7 @@
       ]
     },
     "security experts warn": {
-      "count": 67,
+      "count": 68,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -20440,7 +20447,8 @@
         "2026-09-24",
         "2026-09-28",
         "2026-09-29",
-        "2026-09-30"
+        "2026-09-30",
+        "2026-10-01"
       ]
     },
     "targets 217 banking": {
@@ -29281,7 +29289,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 149,
+      "count": 150,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29311,7 +29319,8 @@
         "2026-09-27",
         "2026-09-28",
         "2026-09-29",
-        "2026-09-30"
+        "2026-09-30",
+        "2026-10-01"
       ]
     },
     "cybersecurity giant announced": {
@@ -29925,7 +29934,7 @@
       ]
     },
     "siphoning images collected": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-09-08",
         "2026-09-09",
@@ -29937,7 +29946,8 @@
         "2026-09-24",
         "2026-09-25",
         "2026-09-29",
-        "2026-09-30"
+        "2026-09-30",
+        "2026-10-01"
       ]
     },
     "200 000 records": {
@@ -32287,9 +32297,10 @@
       ]
     },
     "ransomware toolkit installed": {
-      "count": 3,
+      "count": 4,
       "dates": [
-        "2026-09-30"
+        "2026-09-30",
+        "2026-10-01"
       ]
     },
     "dutch police arrested": {
@@ -32299,9 +32310,10 @@
       ]
     },
     "state sponsored group": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-09-30"
+        "2026-09-30",
+        "2026-10-01"
       ]
     },
     "udp traffic resends": {
@@ -32317,21 +32329,24 @@
       ]
     },
     "bounds write flaw": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-09-30"
+        "2026-09-30",
+        "2026-10-01"
       ]
     },
     "technology manufacturing government": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-09-30"
+        "2026-09-30",
+        "2026-10-01"
       ]
     },
     "existing security models": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-09-30"
+        "2026-09-30",
+        "2026-10-01"
       ]
     },
     "publish data stolen": {
@@ -32347,48 +32362,42 @@
       ]
     },
     "msp360 remote monitoring": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-09-30"
+        "2026-09-30",
+        "2026-10-01"
       ]
     },
     "legitimate product offerings": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-09-30"
+        "2026-09-30",
+        "2026-10-01"
       ]
     },
     "entry gets harder": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-09-30"
+        "2026-09-30",
+        "2026-10-01"
       ]
     },
     "aviation infrastructure suffers": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-09-30"
+        "2026-09-30",
+        "2026-10-01"
       ]
     },
     "platform's security measures": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-09-30"
+        "2026-09-30",
+        "2026-10-01"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-11 02:36",
-      "articles": 48,
-      "top_keywords": [
-        "widened scan turns",
-        "second android app",
-        "endpoint remediation join",
-        "authentication bypass flaw",
-        "anthropic researcher resigns"
-      ]
-    },
     {
       "timestamp": "2026-09-11 08:29",
       "articles": 48,
@@ -33476,6 +33485,17 @@
         "openssl wolfssl roughly",
         "siphoning images collected",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-10-01 01:00",
+      "articles": 48,
+      "top_keywords": [
+        "execute arbitrary code",
+        "state sponsored group",
+        "patched security flaw",
+        "siphoning images collected",
+        "windows operating systems"
       ]
     }
   ]

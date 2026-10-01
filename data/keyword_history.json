@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 787,
+      "count": 788,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -340,7 +340,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2722,
+      "count": 2723,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1306,7 +1306,7 @@
       ]
     },
     "national security risk": {
-      "count": 530,
+      "count": 531,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -3036,7 +3036,7 @@
       ]
     },
     "unauthenticated remote attacker": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2026-01-07",
         "2026-01-08",
@@ -3050,7 +3050,8 @@
         "2026-08-25",
         "2026-09-03",
         "2026-09-04",
-        "2026-09-10"
+        "2026-09-10",
+        "2026-10-01"
       ]
     },
     "remote authenticated attacker": {
@@ -4387,7 +4388,7 @@
       ]
     },
     "released security updates": {
-      "count": 144,
+      "count": 145,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -4431,7 +4432,8 @@
         "2026-09-21",
         "2026-09-23",
         "2026-09-28",
-        "2026-09-29"
+        "2026-09-29",
+        "2026-10-01"
       ]
     },
     "auditability collide daily": {
@@ -5862,12 +5864,13 @@
       ]
     },
     "atm jackpotting scheme": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-01-28",
         "2026-01-29",
         "2026-08-24",
-        "2026-08-25"
+        "2026-08-25",
+        "2026-10-01"
       ]
     },
     "public facing figures": {
@@ -20426,7 +20429,7 @@
       ]
     },
     "security experts warn": {
-      "count": 68,
+      "count": 69,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -22542,10 +22545,11 @@
       ]
     },
     "windows settings backup": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-07",
-        "2026-07-08"
+        "2026-07-08",
+        "2026-10-01"
       ]
     },
     "cve 2026 11405": {
@@ -22563,11 +22567,12 @@
       ]
     },
     "windows 11 26h2": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-07-07",
         "2026-07-08",
-        "2026-09-29"
+        "2026-09-29",
+        "2026-10-01"
       ]
     },
     "open source packages": {
@@ -29098,7 +29103,7 @@
       ]
     },
     "sophisticated cybercrime syndicate": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2026-08-31",
         "2026-09-01",
@@ -29116,7 +29121,8 @@
         "2026-09-23",
         "2026-09-24",
         "2026-09-25",
-        "2026-09-29"
+        "2026-09-29",
+        "2026-10-01"
       ]
     },
     "cronos blockchain network": {
@@ -29290,7 +29296,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 151,
+      "count": 152,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -32150,7 +32156,7 @@
       ]
     },
     "cve 2026 86950": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-29",
         "2026-10-01"
@@ -32301,7 +32307,7 @@
       ]
     },
     "ransomware toolkit installed": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-30",
         "2026-10-01"
@@ -32333,7 +32339,7 @@
       ]
     },
     "bounds write flaw": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-30",
         "2026-10-01"
@@ -32419,7 +32425,7 @@
       ]
     },
     "widen phishing net": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-01"
       ]
@@ -32429,20 +32435,39 @@
       "dates": [
         "2026-10-01"
       ]
+    },
+    "zimbra vulnerability exploited": {
+      "count": 1,
+      "dates": [
+        "2026-10-01"
+      ]
+    },
+    "strong authentication exists": {
+      "count": 1,
+      "dates": [
+        "2026-10-01"
+      ]
+    },
+    "least 110 terabytes": {
+      "count": 1,
+      "dates": [
+        "2026-10-01"
+      ]
+    },
+    "microsoft entra joined": {
+      "count": 1,
+      "dates": [
+        "2026-10-01"
+      ]
+    },
+    "conversation security wants": {
+      "count": 1,
+      "dates": [
+        "2026-10-01"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-11 13:59",
-      "articles": 48,
-      "top_keywords": [
-        "authentication bypass vulnerability",
-        "surfshark systems targeted",
-        "security experts warn",
-        "national security risk",
-        "typing chinese characters"
-      ]
-    },
     {
       "timestamp": "2026-09-11 17:41",
       "articles": 48,
@@ -33530,6 +33555,17 @@
         "state sponsored group",
         "msp360 remote monitoring",
         "cve 2026 88772"
+      ]
+    },
+    {
+      "timestamp": "2026-10-01 16:50",
+      "articles": 48,
+      "top_keywords": [
+        "cve 2026 86950",
+        "zimbra vulnerability exploited",
+        "strong authentication exists",
+        "least 110 terabytes",
+        "windows operating systems"
       ]
     }
   ]

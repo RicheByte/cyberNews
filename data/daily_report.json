@@ -1,72 +1,125 @@
 {
-  "last_updated": "2026-10-01 08:10",
+  "last_updated": "2026-10-01 16:50",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "cve 2026 86950",
-    "execute arbitrary code",
-    "state sponsored group",
-    "msp360 remote monitoring",
-    "cve 2026 88772",
-    "cve 2026 76504",
+    "zimbra vulnerability exploited",
+    "strong authentication exists",
+    "least 110 terabytes",
     "windows operating systems",
+    "unauthenticated remote attacker",
     "twitter whistleblower complaint",
-    "legitimate product offerings",
-    "individuals whose licenses",
-    "entry gets harder",
-    "specific targeted individuals",
+    "sophisticated cybercrime syndicate",
+    "atm jackpotting scheme",
+    "microsoft entra joined",
+    "bounds write flaw",
     "ransomware toolkit installed",
-    "remote code execution",
-    "yet another feature",
-    "widen phishing net",
-    "ukrainian linked targets",
-    "token security explains",
-    "today issued updates",
-    "sprawling phishing campaign"
+    "individuals whose licenses",
+    "security experts warn",
+    "released security updates",
+    "national security risk",
+    "conversation security wants",
+    "windows settings backup",
+    "windows 11 26h2",
+    "widen phishing net"
   ],
   "trending": [
     {
       "keyword": "cve 2026 86950",
-      "mentions": 2
-    },
-    {
-      "keyword": "execute arbitrary code",
-      "mentions": 158
-    },
-    {
-      "keyword": "state sponsored group",
-      "mentions": 4
-    },
-    {
-      "keyword": "msp360 remote monitoring",
       "mentions": 3
     },
     {
-      "keyword": "cve 2026 88772",
-      "mentions": 2
+      "keyword": "zimbra vulnerability exploited",
+      "mentions": 1
     },
     {
-      "keyword": "cve 2026 76504",
+      "keyword": "strong authentication exists",
+      "mentions": 1
+    },
+    {
+      "keyword": "least 110 terabytes",
       "mentions": 1
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 787
+      "mentions": 788
+    },
+    {
+      "keyword": "unauthenticated remote attacker",
+      "mentions": 42
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2722
+      "mentions": 2723
     },
     {
-      "keyword": "legitimate product offerings",
-      "mentions": 3
+      "keyword": "sophisticated cybercrime syndicate",
+      "mentions": 42
     },
     {
-      "keyword": "individuals whose licenses",
-      "mentions": 151
+      "keyword": "atm jackpotting scheme",
+      "mentions": 25
+    },
+    {
+      "keyword": "microsoft entra joined",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory",
+      "link": "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html",
+      "summary": "Cybersecurity researchers have shed light on a WordPress compromise in which threat actors deployed multiple persistence mechanisms to ensure that the final payload kept returning without having to infect the site again. The backdoor has been codenamed SC after the \"SC_\" markers present in the injected content. Sucuri has described the malware as a \"self-healing mesh\" that's",
+      "published": "Thu, 01 Oct 2026 20:07:35 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "Backdoor ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "How Financial Services Companies Can Modernize Their Software Supply Chain",
+      "link": "https://thehackernews.com/2026/10/how-financial-services-companies-can.html",
+      "summary": "Every security leader at a bank, insurer, or asset manager has had a version of this conversation: Security wants to eliminate a class of vulnerabilities. Engineering explains what it would take to upgrade the platform where they live. Somebody prices out the regression testing. Somebody else raises the change-freeze calendar. The finding gets an exception, a compensating control, and a date",
+      "published": "Thu, 01 Oct 2026 17:15:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates",
+      "link": "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html",
+      "summary": "OpenAI on Wednesday said it identified and disrupted a coordinated distillation campaign that was designed to illicitly extract protected reasoning from its artificial intelligence (AI) models. A \"core cluster of the activity,\" going back to the first week of July, has been attributed to individuals associated with Moonshot AI, a Chinese AI company based in Beijing. It did not cite any",
+      "published": "Thu, 01 Oct 2026 16:12:36 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV",
+      "link": "https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical authentication bypass flaw impacting Cisco Catalyst SD-WAN Manager to its Known Exploited Vulnerabilities (KEV), following reports of active exploitation. The vulnerability, tracked as CVE-2026-76504 (CVSS score: 9.8), could allow an unauthenticated, remote attacker to access an affected system with",
+      "published": "Thu, 01 Oct 2026 16:03:16 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Auth bypass ×2",
+        "CISA/KEV ×5",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version",
+      "link": "https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html",
+      "summary": "Google on Wednesday announced its latest frontier artificial intelligence (AI) model, Gemini 4 Argon, that it said is being rolled out to a set of trusted cyber defenders through its Fairwind Program. \"It delivers frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,\" Koray Kavukcuoglu,",
+      "published": "Thu, 01 Oct 2026 13:19:36 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path",
@@ -101,64 +154,50 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs",
-      "link": "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html",
-      "summary": "Threat actors have been observed exploiting a critical pre-authentication command injection vulnerability in Citrix NetScaler ADC and NetScaler Gateway to drop web shells and attempt theft of configuration data. LevelBlue's Threat Hunt Operations & Research (THOR) team, which analyzed the exploitation activity across multiple customer environments, said it identified malicious NetScaler",
-      "published": "Thu, 01 Oct 2026 10:05:34 +0530",
-      "value_score": 24,
+      "source": "BleepingComputer",
+      "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
+      "link": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
+      "summary": "An international law enforcement operation dubbed \"Operation KillSwitch\" seized the KillSec ransomware gang's data leak site and servers, led to three arrests, and identified a 16-year-old as the group's alleged administrator. [...]",
+      "published": "Thu, 01 Oct 2026 10:25:14 -0400",
+      "value_score": 58,
       "value_signals": [
-        "High severity",
-        "Exploit wording"
+        "Ransomware ×2",
+        "Breach/leak"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
-      "summary": "Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft Security Research team. The attack exploits CVE-2026-73570 (CVSS score: 8.9), an unauthenticated operating system command injection flaw that can lead to remote code execution when Simple Network Management Protocol",
-      "published": "Wed, 30 Sep 2026 22:16:29 +0530",
-      "value_score": 54,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE",
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "The Day-One Hole in Zero Trust Architecture",
+      "link": "https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/",
+      "summary": "Zero Trust can verify users once they are established, but onboarding creates a gap where organizations must decide who to trust before strong authentication exists. Specops explains why identity verification should begin before credentials, MFA methods, and access are issued. [...]",
+      "published": "Thu, 01 Oct 2026 10:01:11 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
-      "link": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
-      "summary": "Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed lures, software update prompts, and other social-engineering content. \"Once executed, the legitimate MSP360 installer, distributed under a deceptive file name established remote management access on affected",
-      "published": "Wed, 30 Sep 2026 22:02:59 +0530",
-      "value_score": 34,
-      "value_signals": [
-        "Patch/update",
-        "Phishing ×2"
-      ]
+      "source": "BleepingComputer",
+      "title": "Kiteworks patches max severity code injection vulnerability",
+      "link": "https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/",
+      "summary": "Secure file-sharing software company Kiteworks has released security updates to address 126 vulnerabilities, including a max-severity flaw affecting its Email Protection Gateway (EPG) security solution. [...]",
+      "published": "Thu, 01 Oct 2026 09:51:08 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
-      "link": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
-      "summary": "Attackers are exploiting a new critical zero-day flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco said in an advisory on September 30. The flaw, CVE-2026-76504, could allow a remote attacker with no login access to use the Manager's API as the admin user. Fixed releases are available, and there is no workaround. It carries a",
-      "published": "Wed, 30 Sep 2026 20:54:54 +0530",
-      "value_score": 98,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day",
-        "Auth bypass",
-        "Patch/update",
-        "High severity ×2",
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "Microsoft enables Windows settings backup by default for orgs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/",
+      "summary": "Microsoft announced that Windows settings backup and restore is now enabled by default on all Microsoft Entra-joined or Microsoft Entra hybrid-joined enterprise systems upgraded to Windows 11 26H2. [...]",
+      "published": "Thu, 01 Oct 2026 07:14:28 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
-      "link": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
-      "summary": "Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites that employ ClickFix lures to deliver malware. Huntress, which observed the activity in late September 2026, said it marks the abuse of yet another feature in trusted artificial intelligence (AI) platforms. Prior campaigns have weaponized shared",
-      "published": "Wed, 30 Sep 2026 20:30:15 +0530",
+      "source": "BleepingComputer",
+      "title": "Hackers stole Pentagon personnel records of over 3 million people",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/",
+      "summary": "The Pentagon's Defense Manpower Data Center (DMDC) is notifying millions of military service members that hackers stole their data after breaching the Pentagon's human resources management system in October 2025. [...]",
+      "published": "Thu, 01 Oct 2026 05:44:28 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -194,60 +233,6 @@
         "Breach/leak ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Over 543,000 valid credentials exposed in public GitHub repositories",
-      "link": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/",
-      "summary": "More than 543,000 credentials exposed in public GitHub repositories were still valid in July despite the platform's security measures to prevent accidental leaks of sensitive data. [...]",
-      "published": "Wed, 30 Sep 2026 14:08:34 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a new critical vulnerability in MikroTik RouterOS that could lead to remote code execution or cause a denial-of-service condition. [...]",
-      "published": "Wed, 30 Sep 2026 11:49:29 -0400",
-      "value_score": 100,
-      "value_signals": [
-        "RCE ×2",
-        "CISA/KEV ×2",
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Cisco warns of new SD-WAN zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/",
-      "summary": "Cisco released security updates to address a critical zero-day in the Catalyst SD-WAN Manager (tracked as CVE-2026-76504) that attackers are actively exploiting to escalate to admin privileges. [...]",
-      "published": "Wed, 30 Sep 2026 10:46:40 -0400",
-      "value_score": 92,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day ×2",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "AI's Third Wave: Coworkers Break the Security Model That Worked for Agents",
-      "link": "https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/",
-      "summary": "Persistent AI coworkers may operate continuously with standing access, creating identity risks that existing security models were not designed to handle. Token Security explains why these agents need their own identities, owners, scoped permissions, and lifecycle controls. [...]",
-      "published": "Wed, 30 Sep 2026 10:01:11 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft to block Entra ID script injection attacks starting October",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/",
-      "summary": "Microsoft has reminded customers that the Entra ID authentication system will get better protection against external script injection attacks starting next month. [...]",
-      "published": "Wed, 30 Sep 2026 09:37:15 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -330,6 +315,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Warlock Ransomware Hits Large Spanish, Portuguese Orgs",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/warlock-ransomware-spanish-portuguese",
+      "summary": "A year-old Chinese threat actor looks like a cybercrime gang, acts like a state-associated APT, and attacks organizations in unexpected places.",
+      "published": "Thu, 01 Oct 2026 13:00:00 GMT",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Malicious Custom GPTs Turn ChatGPT Into RAT Delivery Lure",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/malicious-custom-gpts-chatgpt-rat-delivery-lure",
       "summary": "In yet another ClickFix-style campaign, threat actors abuse legitimate domains from OpenAI and Google to fool unsuspecting users.",
@@ -401,100 +397,87 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Cloudflare Announces Public Certificate Authority for the Post-Quantum Web",
-      "link": "https://www.darkreading.com/cloud-security/cloudflare-announces-public-certificate-authority-post-quantum-web",
-      "summary": "Automated certificates for everyone, built for today, and hardened for the era of quantum computing.",
-      "published": "Tue, 29 Sep 2026 17:02:16 GMT",
+      "source": "Security Week",
+      "title": "Hacker Conversations: Rob Juncker, a Knock at the Door and a Moral Compass",
+      "link": "https://www.securityweek.com/hacker-conversations-rob-juncker-a-knock-at-the-door-and-a-moral-compass/",
+      "summary": "Rob Juncker is chief product and technology officer at Mimecast. Is he a hacker? “Unequivocally yes,” he says. The post Hacker Conversations: Rob Juncker, a Knock at the Door and a Moral Compass appeared first on SecurityWeek .",
+      "published": "Thu, 01 Oct 2026 14:30:00 +0000",
       "value_score": 10,
       "value_signals": []
     },
     {
       "source": "Security Week",
-      "title": "Google Launches Gemini 4 Argon With Guardrail-Free Access for Vetted Defenders",
-      "link": "https://www.securityweek.com/google-launches-gemini-4-argon-with-guardrail-free-access-for-vetted-defenders/",
-      "summary": "The company says its new frontier AI model found a critical vulnerability in software used by hospitals worldwide. The post Google Launches Gemini 4 Argon With Guardrail-Free Access for Vetted Defenders appeared first on SecurityWeek .",
-      "published": "Thu, 01 Oct 2026 07:52:26 +0000",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "FTC is Investigating OpenAI and Anthropic Over Possible Risks to Consumers",
-      "link": "https://www.securityweek.com/ftc-is-investigating-openai-and-anthropic-over-possible-risks-to-consumers/",
-      "summary": "An FTC spokesperson confirmed the investigation but declined further comment. The post FTC is Investigating OpenAI and Anthropic Over Possible Risks to Consumers appeared first on SecurityWeek .",
-      "published": "Wed, 30 Sep 2026 23:43:51 +0000",
+      "title": "Enterprises Struggle to Prepare for AI and Quantum Threats, PwC Says",
+      "link": "https://www.securityweek.com/enterprises-struggle-to-prepare-for-ai-and-quantum-threats-pwc-says/",
+      "summary": "PwC’s survey found that only 22% of leaders would use fully autonomous AI for cyber defense, while just 21% are implementing quantum-resistant security measures. The post Enterprises Struggle to Prepare for AI and Quantum Threats, PwC Says appeared first on SecurityWeek .",
+      "published": "Thu, 01 Oct 2026 14:30:00 +0000",
       "value_score": 10,
       "value_signals": []
     },
     {
       "source": "Security Week",
-      "title": "Google: AI Is Changing the Pace and Profile of Vulnerability Discovery",
-      "link": "https://www.securityweek.com/google-ai-is-changing-the-pace-and-profile-of-vulnerability-discovery/",
-      "summary": "Google’s analysis found that AI-discovered vulnerabilities are more likely to enable remote code execution. The post Google: AI Is Changing the Pace and Profile of Vulnerability Discovery appeared first on SecurityWeek .",
-      "published": "Wed, 30 Sep 2026 14:05:58 +0000",
-      "value_score": 30,
+      "title": "Police Shut Down KillSec Ransomware, Identify Alleged Teen Leader",
+      "link": "https://www.securityweek.com/police-shut-down-killsec-ransomware-identify-alleged-teen-leader/",
+      "summary": "Police took control of KillSec’s leak site and secured at least 110 terabytes of data stolen from victims. The post Police Shut Down KillSec Ransomware, Identify Alleged Teen Leader appeared first on SecurityWeek .",
+      "published": "Thu, 01 Oct 2026 14:17:07 +0000",
+      "value_score": 58,
       "value_signals": [
-        "RCE"
+        "Ransomware ×2",
+        "Breach/leak"
       ]
     },
     {
       "source": "Security Week",
-      "title": "WatchGuard Patches Critical Fireware OS Code Injection Vulnerability",
-      "link": "https://www.securityweek.com/watchguard-patches-critical-fireware-os-code-injection-vulnerability/",
-      "summary": "WatchGuard has rolled out patches for 15 code execution, DoS, authorization, and path traversal bugs in Fireware OS. The post WatchGuard Patches Critical Fireware OS Code Injection Vulnerability appeared first on SecurityWeek .",
-      "published": "Wed, 30 Sep 2026 13:16:56 +0000",
-      "value_score": 26,
+      "title": "AI Has Changed Attack Speed, Not Security Fundamentals",
+      "link": "https://www.securityweek.com/ai-has-changed-attack-speed-not-security-fundamentals/",
+      "summary": "As AI accelerates vulnerability discovery and exploitation, so-called virtual patching still comes down to defense-in-depth and strong application security fundamentals. The post AI Has Changed Attack Speed, Not Security Fundamentals appeared first on SecurityWeek .",
+      "published": "Thu, 01 Oct 2026 13:15:00 +0000",
+      "value_score": 16,
       "value_signals": [
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Government, Finance Orgs Targeted in Weeks-Long NetScaler Zero-Day Attacks",
-      "link": "https://www.securityweek.com/government-finance-orgs-targeted-in-weeks-long-netscaler-zero-day-attacks/",
-      "summary": "Several security firms have confirmed seeing exploitation of the NetScaler vulnerabilities CVE-2026-88771 and CVE-2026-88772. The post Government, Finance Orgs Targeted in Weeks-Long NetScaler Zero-Day Attacks appeared first on SecurityWeek .",
-      "published": "Wed, 30 Sep 2026 12:48:20 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "Zero-day ×2",
-        "Multiple CVEs",
         "Exploit wording"
       ]
     },
     {
       "source": "Security Week",
-      "title": "Chrome, Firefox Updates Patch Over 100 Vulnerabilities",
-      "link": "https://www.securityweek.com/chrome-firefox-updates-patch-over-100-vulnerabilities/",
-      "summary": "Some of the flaws could allow remote attackers to execute arbitrary code or escape the browser sandbox. The post Chrome, Firefox Updates Patch Over 100 Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Wed, 30 Sep 2026 12:16:52 +0000",
-      "value_score": 26,
+      "title": "Zimbra Vulnerability Exploited in the Wild Prior to Public Disclosure",
+      "link": "https://www.securityweek.com/zimbra-vulnerability-exploited-in-the-wild-prior-to-public-disclosure/",
+      "summary": "Under certain conditions, CVE-2026-73570 can be exploited via specially crafted emails without user interaction. The post Zimbra Vulnerability Exploited in the Wild Prior to Public Disclosure appeared first on SecurityWeek .",
+      "published": "Thu, 01 Oct 2026 12:55:57 +0000",
+      "value_score": 84,
       "value_signals": [
-        "Patch/update ×2"
+        "CVE mentioned",
+        "Active exploitation ×2",
+        "Exploit wording"
       ]
     },
     {
       "source": "Security Week",
-      "title": "Anthropic Flags AI Agent Liability Risks as OpenAI Faces Hacking Lawsuit",
-      "link": "https://www.securityweek.com/anthropic-flags-ai-agent-liability-risks-as-openai-faces-hacking-lawsuit/",
-      "summary": "Attacks by autonomous AI agents are moving out of the lab and into the courtroom, raising unsettled questions about who is liable for what agents do. The post Anthropic Flags AI Agent Liability Risks as OpenAI Faces Hacking Lawsuit appeared first on SecurityWeek .",
-      "published": "Wed, 30 Sep 2026 11:19:00 +0000",
+      "title": "Kevin Mandia’s Armadin Raises $255 Million at $2.5 Billion Valuation",
+      "link": "https://www.securityweek.com/kevin-mandias-armadin-raises-255-million-at-2-5-billion-valuation/",
+      "summary": "The Series B brings the AI-powered offensive security startup’s total funding to roughly $445 million only seven months after its public launch. The post Kevin Mandia’s Armadin Raises $255 Million at $2.5 Billion Valuation appeared first on SecurityWeek .",
+      "published": "Thu, 01 Oct 2026 11:40:51 +0000",
       "value_score": 10,
       "value_signals": []
     },
     {
       "source": "Security Week",
-      "title": "Russian APT Star Blizzard Uses ‘RedFlick’ Infection Chain in Recent Attacks",
-      "link": "https://www.securityweek.com/russian-apt-star-blizzard-uses-redflick-infection-chain-in-recent-attacks/",
-      "summary": "The state-sponsored group has launched larger-scale phishing campaigns to deploy the CosmicPulse backdoor. The post Russian APT Star Blizzard Uses ‘RedFlick’ Infection Chain in Recent Attacks appeared first on SecurityWeek .",
-      "published": "Wed, 30 Sep 2026 10:59:30 +0000",
-      "value_score": 30,
+      "title": "Treasury Blacklists Most-Wanted ATM Malware Developer and His Network",
+      "link": "https://www.securityweek.com/treasury-blacklists-most-wanted-atm-malware-developer-and-his-network/",
+      "summary": "The US government continues its crackdown on Tren de Aragua over its ATM jackpotting scheme. The post Treasury Blacklists Most-Wanted ATM Malware Developer and His Network appeared first on SecurityWeek .",
+      "published": "Thu, 01 Oct 2026 10:51:39 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Zammad Zero-Days Exploited in AI-Powered DIVD Hack",
+      "link": "https://www.securityweek.com/zammad-zero-days-exploited-in-ai-powered-divd-hack/",
+      "summary": "The flaws were chained to hijack sessions, achieve remote code execution, and elevate privileges to root. The post Zammad Zero-Days Exploited in AI-Powered DIVD Hack appeared first on SecurityWeek .",
+      "published": "Thu, 01 Oct 2026 10:42:49 +0000",
+      "value_score": 36,
       "value_signals": [
-        "Backdoor",
-        "Phishing"
+        "RCE",
+        "Exploit wording"
       ]
     },
     {

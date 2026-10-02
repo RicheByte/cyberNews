@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-10-01 22:14 UTC  
+> **Last Updated:** 2026-10-02 03:41 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cve 2026 86950** • **artificial intelligence faster** • **strong authentication exists** • **zimbra vulnerability exploited** • **killsec ransomware group** • **least 110 terabytes** • **raised 10 million** • **windows operating systems** • **twitter whistleblower complaint** • **microsoft entra joined** • **group's alleged administrator** • **bounds write flaw** • **ransomware toolkit installed** • **sophisticated cybercrime syndicate** • **security experts warn** • **roughly 445 million** • **released security updates** • **national security risk** • **leak site unless** • **individuals whose licenses**
+**artificial intelligence faster** • **zimbra vulnerability exploited** • **cve 2026 86950** • **strong authentication exists** • **killsec ransomware group** • **least 110 terabytes** • **cve 2026 104286** • **raised 10 million** • **bounds write flaw** • **working fortinet warns** • **windows operating systems** • **twitter whistleblower complaint** • **microsoft entra joined** • **group's alleged administrator** • **aviation infrastructure suffers** • **ransomware toolkit installed** • **sophisticated cybercrime syndicate** • **security experts warn** • **roughly 445 million** • **released security updates**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Fortinet warns of critical FortiMail flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/)
 - [Autonomous AI agents tried to hack US, Canadian government websites](https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/)
 - [Microsoft says threat actors are ahead in the early AI race](https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/)
 - [Police dismantle KillSec ransomware gang allegedly led by 16-year-old](https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/)
@@ -34,7 +35,6 @@
 - [Kiteworks patches max severity code injection vulnerability](https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/)
 - [Microsoft enables Windows settings backup by default for orgs](https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/)
 - [Hackers stole Pentagon personnel records of over 3 million people](https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/)
-- [Metamask discloses security incident affecting its infrastructure](https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/)
 
 ### Krebs on Security
 

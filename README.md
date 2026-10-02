@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-01 22:14 UTC |
+| 🕐 Last Updated | 2026-10-02 03:41 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`cve 2026 86950` • `artificial intelligence faster` • `strong authentication exists` • `zimbra vulnerability exploited` • `killsec ransomware group` • `least 110 terabytes` • `raised 10 million` • `windows operating systems` • `twitter whistleblower complaint` • `microsoft entra joined`
+`artificial intelligence faster` • `zimbra vulnerability exploited` • `cve 2026 86950` • `strong authentication exists` • `killsec ransomware group` • `least 110 terabytes` • `cve 2026 104286` • `raised 10 million` • `bounds write flaw` • `working fortinet warns`
 
 ## 📄 Reports
 

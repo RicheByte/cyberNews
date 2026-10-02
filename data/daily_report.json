@@ -1,72 +1,96 @@
 {
-  "last_updated": "2026-10-02 03:41",
+  "last_updated": "2026-10-02 10:14",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "artificial intelligence faster",
-    "zimbra vulnerability exploited",
-    "cve 2026 86950",
-    "strong authentication exists",
+    "verified applications classified",
+    "cve 2026 104286",
     "killsec ransomware group",
     "least 110 terabytes",
-    "cve 2026 104286",
+    "critical infrastructure attacks",
     "raised 10 million",
     "bounds write flaw",
-    "working fortinet warns",
+    "write arbitrary files",
     "windows operating systems",
     "twitter whistleblower complaint",
-    "microsoft entra joined",
+    "strong authentication exists",
     "group's alleged administrator",
-    "aviation infrastructure suffers",
+    "official microsoft account",
+    "microsoft entra joined",
     "ransomware toolkit installed",
+    "aviation infrastructure suffers",
+    "android's accessibility services",
     "sophisticated cybercrime syndicate",
-    "security experts warn",
-    "roughly 445 million",
-    "released security updates"
+    "leak site unless"
   ],
   "trending": [
     {
       "keyword": "artificial intelligence faster",
-      "mentions": 2
-    },
-    {
-      "keyword": "zimbra vulnerability exploited",
       "mentions": 3
     },
     {
-      "keyword": "cve 2026 86950",
-      "mentions": 5
-    },
-    {
-      "keyword": "strong authentication exists",
-      "mentions": 3
-    },
-    {
-      "keyword": "killsec ransomware group",
-      "mentions": 2
-    },
-    {
-      "keyword": "least 110 terabytes",
-      "mentions": 3
+      "keyword": "verified applications classified",
+      "mentions": 1
     },
     {
       "keyword": "cve 2026 104286",
-      "mentions": 1
-    },
-    {
-      "keyword": "raised 10 million",
       "mentions": 2
     },
     {
-      "keyword": "bounds write flaw",
-      "mentions": 6
+      "keyword": "killsec ransomware group",
+      "mentions": 3
     },
     {
-      "keyword": "working fortinet warns",
-      "mentions": 1
+      "keyword": "least 110 terabytes",
+      "mentions": 4
+    },
+    {
+      "keyword": "critical infrastructure attacks",
+      "mentions": 3
+    },
+    {
+      "keyword": "raised 10 million",
+      "mentions": 3
+    },
+    {
+      "keyword": "bounds write flaw",
+      "mentions": 7
+    },
+    {
+      "keyword": "write arbitrary files",
+      "mentions": 55
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 791
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools",
+      "link": "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html",
+      "summary": "Google has announced a new security measure that limits access to Android's accessibility services to verified applications classified as Accessibility Tools when Advanced Protection is enabled. With malicious Android applications abusing the API serving as the main conduit for malware and financial fraud, the tech giant said the move would block a major attack pathway. Advanced Protection is a",
+      "published": "Fri, 02 Oct 2026 13:31:30 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes",
+      "link": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added a critical security flaw impacting Fortinet FortiMail to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability, tracked as CVE-2026-104286 (CVSS score: 9.8), allows unauthenticated attackers to write arbitrary files on the underlying system. \"An improper",
+      "published": "Fri, 02 Oct 2026 11:19:50 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day",
+        "CISA/KEV ×3",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
@@ -136,25 +160,13 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version",
-      "link": "https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html",
-      "summary": "Google on Wednesday announced its latest frontier artificial intelligence (AI) model, Gemini 4 Argon, that it said is being rolled out to a set of trusted cyber defenders through its Fairwind Program. \"It delivers frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,\" Koray Kavukcuoglu,",
-      "published": "Thu, 01 Oct 2026 13:19:36 +0530",
+      "source": "BleepingComputer",
+      "title": "Microsoft’s X account hacked in crypto pump-and-dump scheme",
+      "link": "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/",
+      "summary": "On Thursday, unknown attackers hijacked the official Microsoft account on X, which has over 13 million followers, in what appeared to be a pump-and-dump scheme promoting a crypto token. [...]",
+      "published": "Fri, 02 Oct 2026 05:29:56 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path",
-      "link": "https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html",
-      "summary": "Security researchers have published the first public proof-of-concept for CVE-2026-86950, an Apple CoreGraphics flaw Apple says may have been used in attacks against specific targeted individuals. The trigger is a malicious PDF with a crafted embedded font that crashes unpatched iPhones and Macs. The code causes a crash, not an execution error. Turning the memory corruption into a working",
-      "published": "Thu, 01 Oct 2026 11:24:41 +0530",
-      "value_score": 38,
-      "value_signals": [
-        "CVE mentioned",
-        "PoC available"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -225,15 +237,6 @@
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/",
       "summary": "Microsoft announced that Windows settings backup and restore is now enabled by default on all Microsoft Entra-joined or Microsoft Entra hybrid-joined enterprise systems upgraded to Windows 11 26H2. [...]",
       "published": "Thu, 01 Oct 2026 07:14:28 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers stole Pentagon personnel records of over 3 million people",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/",
-      "summary": "The Pentagon's Defense Manpower Data Center (DMDC) is notifying millions of military service members that hackers stole their data after breaching the Pentagon's human resources management system in October 2025. [...]",
-      "published": "Thu, 01 Oct 2026 05:44:28 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -403,6 +406,41 @@
     },
     {
       "source": "Security Week",
+      "title": "Warlock Expands SharePoint Exploitation in Critical Infrastructure Attacks",
+      "link": "https://www.securityweek.com/warlock-expands-sharepoint-exploitation-in-critical-infrastructure-attacks/",
+      "summary": "The China-based hacking group has been exploiting SharePoint vulnerabilities since July 2025. The post Warlock Expands SharePoint Exploitation in Critical Infrastructure Attacks appeared first on SecurityWeek .",
+      "published": "Fri, 02 Oct 2026 09:34:41 +0000",
+      "value_score": 32,
+      "value_signals": [
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "AI Agents Aimed SQL Injection at US and Canadian Government Sites",
+      "link": "https://www.securityweek.com/ai-agents-aimed-sql-injection-at-us-and-canadian-government-sites/",
+      "summary": "The attacks targeted the US Department of Education and Library and Archives Canada, and researchers linked some agents to OpenAI. The post AI Agents Aimed SQL Injection at US and Canadian Government Sites appeared first on SecurityWeek .",
+      "published": "Fri, 02 Oct 2026 08:38:46 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Exploited Fortinet FortiMail Zero-Day Calls for Urgent Action",
+      "link": "https://www.securityweek.com/exploited-fortinet-fortimail-zero-day-calls-for-urgent-action/",
+      "summary": "CVE-2026-104286 is a critical-severity path traversal vulnerability that could allow attackers to write arbitrary files to the system. The post Exploited Fortinet FortiMail Zero-Day Calls for Urgent Action appeared first on SecurityWeek .",
+      "published": "Fri, 02 Oct 2026 08:07:33 +0000",
+      "value_score": 92,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day ×2",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Zero Trust Creator Says Model Holds Firm Against AI-Assisted Attacks",
       "link": "https://www.securityweek.com/zero-trust-creator-says-model-holds-firm-against-ai-assisted-attacks/",
       "summary": "Fifteen years after coining the framework, John Kindervag insists zero trust still works in the AI era—if you get the implementation right. The post Zero Trust Creator Says Model Holds Firm Against AI-Assisted Attacks appeared first on SecurityWeek .",
@@ -448,39 +486,6 @@
         "Ransomware ×2",
         "Breach/leak"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "AI Has Changed Attack Speed, Not Security Fundamentals",
-      "link": "https://www.securityweek.com/ai-has-changed-attack-speed-not-security-fundamentals/",
-      "summary": "As AI accelerates vulnerability discovery and exploitation, so-called virtual patching still comes down to defense-in-depth and strong application security fundamentals. The post AI Has Changed Attack Speed, Not Security Fundamentals appeared first on SecurityWeek .",
-      "published": "Thu, 01 Oct 2026 13:15:00 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Zimbra Vulnerability Exploited in the Wild Prior to Public Disclosure",
-      "link": "https://www.securityweek.com/zimbra-vulnerability-exploited-in-the-wild-prior-to-public-disclosure/",
-      "summary": "Under certain conditions, CVE-2026-73570 can be exploited via specially crafted emails without user interaction. The post Zimbra Vulnerability Exploited in the Wild Prior to Public Disclosure appeared first on SecurityWeek .",
-      "published": "Thu, 01 Oct 2026 12:55:57 +0000",
-      "value_score": 84,
-      "value_signals": [
-        "CVE mentioned",
-        "Active exploitation ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Kevin Mandia’s Armadin Raises $255 Million at $2.5 Billion Valuation",
-      "link": "https://www.securityweek.com/kevin-mandias-armadin-raises-255-million-at-2-5-billion-valuation/",
-      "summary": "The Series B brings the AI-powered offensive security startup’s total funding to roughly $445 million only seven months after its public launch. The post Kevin Mandia’s Armadin Raises $255 Million at $2.5 Billion Valuation appeared first on SecurityWeek .",
-      "published": "Thu, 01 Oct 2026 11:40:51 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 791,
+      "count": 792,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -341,7 +341,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2726,
+      "count": 2727,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2084,7 +2084,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 627,
+      "count": 628,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2209,7 +2209,8 @@
         "2026-09-27",
         "2026-09-28",
         "2026-09-29",
-        "2026-10-01"
+        "2026-10-01",
+        "2026-10-02"
       ]
     },
     "model agnostic abstractions": {
@@ -2915,7 +2916,7 @@
       ]
     },
     "write arbitrary files": {
-      "count": 55,
+      "count": 56,
       "dates": [
         "2026-01-06",
         "2026-01-07",
@@ -28772,7 +28773,7 @@
       ]
     },
     "critical infrastructure attacks": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-27",
         "2026-08-28",
@@ -29948,7 +29949,7 @@
       ]
     },
     "siphoning images collected": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-09-08",
         "2026-09-09",
@@ -29961,7 +29962,8 @@
         "2026-09-25",
         "2026-09-29",
         "2026-09-30",
-        "2026-10-01"
+        "2026-10-01",
+        "2026-10-02"
       ]
     },
     "200 000 records": {
@@ -32482,14 +32484,14 @@
       ]
     },
     "artificial intelligence faster": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-01",
         "2026-10-02"
       ]
     },
     "killsec ransomware group": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-01",
         "2026-10-02"
@@ -32536,18 +32538,72 @@
       ]
     },
     "verified applications classified": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-02"
       ]
     },
     "official microsoft account": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-02"
       ]
     },
     "android's accessibility services": {
+      "count": 2,
+      "dates": [
+        "2026-10-02"
+      ]
+    },
+    "macos users targeted": {
+      "count": 1,
+      "dates": [
+        "2026-10-02"
+      ]
+    },
+    "blame rogue ai": {
+      "count": 1,
+      "dates": [
+        "2026-10-02"
+      ]
+    },
+    "critical rce vulnerability": {
+      "count": 1,
+      "dates": [
+        "2026-10-02"
+      ]
+    },
+    "leaked private information": {
+      "count": 1,
+      "dates": [
+        "2026-10-02"
+      ]
+    },
+    "atm hacks crackdown": {
+      "count": 1,
+      "dates": [
+        "2026-10-02"
+      ]
+    },
+    "reported attacks prior": {
+      "count": 1,
+      "dates": [
+        "2026-10-02"
+      ]
+    },
+    "ultra sensitive environments": {
+      "count": 1,
+      "dates": [
+        "2026-10-02"
+      ]
+    },
+    "state associated apt": {
+      "count": 1,
+      "dates": [
+        "2026-10-02"
+      ]
+    },
+    "shifts risk responsibility": {
       "count": 1,
       "dates": [
         "2026-10-02"
@@ -32555,17 +32611,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-12 02:45",
-      "articles": 48,
-      "top_keywords": [
-        "national security risk",
-        "generative threat group",
-        "typing chinese characters",
-        "twitter whistleblower complaint",
-        "self hosted servers"
-      ]
-    },
     {
       "timestamp": "2026-09-12 08:17",
       "articles": 48,
@@ -33653,6 +33698,17 @@
         "cve 2026 104286",
         "killsec ransomware group",
         "least 110 terabytes"
+      ]
+    },
+    {
+      "timestamp": "2026-10-02 17:17",
+      "articles": 48,
+      "top_keywords": [
+        "artificial intelligence faster",
+        "macos users targeted",
+        "verified applications classified",
+        "critical infrastructure attacks",
+        "killsec ransomware group"
       ]
     }
   ]

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-02 10:14 UTC |
+| 🕐 Last Updated | 2026-10-02 17:17 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`artificial intelligence faster` • `verified applications classified` • `cve 2026 104286` • `killsec ransomware group` • `least 110 terabytes` • `critical infrastructure attacks` • `raised 10 million` • `bounds write flaw` • `write arbitrary files` • `windows operating systems`
+`artificial intelligence faster` • `macos users targeted` • `verified applications classified` • `critical infrastructure attacks` • `killsec ransomware group` • `blame rogue ai` • `critical rce vulnerability` • `write arbitrary files` • `windows operating systems` • `twitter whistleblower complaint`
 
 ## 📄 Reports
 

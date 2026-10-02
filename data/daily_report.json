@@ -1,72 +1,92 @@
 {
-  "last_updated": "2026-10-02 10:14",
+  "last_updated": "2026-10-02 17:17",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "artificial intelligence faster",
+    "macos users targeted",
     "verified applications classified",
-    "cve 2026 104286",
-    "killsec ransomware group",
-    "least 110 terabytes",
     "critical infrastructure attacks",
-    "raised 10 million",
-    "bounds write flaw",
+    "killsec ransomware group",
+    "blame rogue ai",
+    "critical rce vulnerability",
     "write arbitrary files",
     "windows operating systems",
     "twitter whistleblower complaint",
-    "strong authentication exists",
-    "group's alleged administrator",
-    "official microsoft account",
-    "microsoft entra joined",
-    "ransomware toolkit installed",
-    "aviation infrastructure suffers",
+    "leaked private information",
+    "atm hacks crackdown",
+    "reported attacks prior",
     "android's accessibility services",
-    "sophisticated cybercrime syndicate",
-    "leak site unless"
+    "official microsoft account",
+    "ultra sensitive environments",
+    "state associated apt",
+    "sprawling phishing campaign",
+    "siphoning images collected",
+    "shifts risk responsibility"
   ],
   "trending": [
     {
       "keyword": "artificial intelligence faster",
-      "mentions": 3
-    },
-    {
-      "keyword": "verified applications classified",
-      "mentions": 1
-    },
-    {
-      "keyword": "cve 2026 104286",
-      "mentions": 2
-    },
-    {
-      "keyword": "killsec ransomware group",
-      "mentions": 3
-    },
-    {
-      "keyword": "least 110 terabytes",
       "mentions": 4
     },
     {
+      "keyword": "macos users targeted",
+      "mentions": 1
+    },
+    {
+      "keyword": "verified applications classified",
+      "mentions": 2
+    },
+    {
       "keyword": "critical infrastructure attacks",
-      "mentions": 3
+      "mentions": 4
     },
     {
-      "keyword": "raised 10 million",
-      "mentions": 3
+      "keyword": "killsec ransomware group",
+      "mentions": 4
     },
     {
-      "keyword": "bounds write flaw",
-      "mentions": 7
+      "keyword": "blame rogue ai",
+      "mentions": 1
+    },
+    {
+      "keyword": "critical rce vulnerability",
+      "mentions": 1
     },
     {
       "keyword": "write arbitrary files",
-      "mentions": 55
+      "mentions": 56
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 791
+      "mentions": 792
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2727
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling",
+      "link": "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html",
+      "summary": "OpenAI has parted ways with three members of its safety team after they leaked private information in violation of company policies, The Wall Street Journal reported. \"We have parted ways with three individuals for violating our policies on accessing and handling sensitive company information,\" a spokesperson for the company was quoted as saying. \"Our investigation confirmed that these",
+      "published": "Fri, 02 Oct 2026 17:53:15 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report",
+      "link": "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html",
+      "summary": "The quarterly board meeting is two weeks out. The security team is pulling exports from the identity provider, the cloud posture tool, the vulnerability scanner, the SIEM and the EDR console. Someone is building a spreadsheet to reconcile them. Someone else is turning that spreadsheet into slides. Then a board member asks three questions: How secure is the organization, overall? What is",
+      "published": "Fri, 02 Oct 2026 17:00:00 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools",
@@ -136,27 +156,45 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates",
-      "link": "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html",
-      "summary": "OpenAI on Wednesday said it identified and disrupted a coordinated distillation campaign that was designed to illicitly extract protected reasoning from its artificial intelligence (AI) models. A \"core cluster of the activity,\" going back to the first week of July, has been attributed to individuals associated with Moonshot AI, a Chinese AI company based in Beijing. It did not cite any",
-      "published": "Thu, 01 Oct 2026 16:12:36 +0530",
+      "source": "BleepingComputer",
+      "title": "GitLab warns of critical RCE vulnerability in AI Gateway service",
+      "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/",
+      "summary": "GitLab warned customers today to immediately patch a critical AI Gateway vulnerability that could let attackers run arbitrary commands on vulnerable instances. [...]",
+      "published": "Fri, 02 Oct 2026 12:20:05 -0400",
+      "value_score": 54,
+      "value_signals": [
+        "RCE",
+        "Patch/update",
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "US sanctions Tren de Aragua gang members in ATM hacks crackdown",
+      "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/",
+      "summary": "The U.S. Treasury Department has sanctioned eight members of the Venezuelan gang Tren de Aragua (TdA) for their role in the theft of millions of dollars in ATM jackpotting attacks across the United States. [...]",
+      "published": "Fri, 02 Oct 2026 11:20:53 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV",
-      "link": "https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical authentication bypass flaw impacting Cisco Catalyst SD-WAN Manager to its Known Exploited Vulnerabilities (KEV), following reports of active exploitation. The vulnerability, tracked as CVE-2026-76504 (CVSS score: 9.8), could allow an unauthenticated, remote attacker to access an affected system with",
-      "published": "Thu, 01 Oct 2026 16:03:16 +0530",
-      "value_score": 100,
+      "source": "BleepingComputer",
+      "title": "The EDR blind spot: 3 ways browser attacks evade endpoint telemetry",
+      "link": "https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/",
+      "summary": "Browser-based attacks can steal sessions, abuse extensions, or manipulate users without creating the endpoint artifacts EDR is designed to detect. NordLayer explains three ways attacks can evade endpoint telemetry and why browser-level controls can help close the gap. [...]",
+      "published": "Fri, 02 Oct 2026 10:00:10 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Dell asks admins to patch max severity CSM flaws as soon as possible",
+      "link": "https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/",
+      "summary": "Dell has patched two maximum severity vulnerabilities in the Container Storage Modules (CSM) that connect Dell enterprise storage arrays to Kubernetes environments. [...]",
+      "published": "Fri, 02 Oct 2026 08:37:40 -0400",
+      "value_score": 18,
       "value_signals": [
-        "CVE mentioned",
-        "Auth bypass ×2",
-        "CISA/KEV ×5",
-        "High severity",
-        "Exploit wording"
+        "Patch/update"
       ]
     },
     {
@@ -198,45 +236,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/",
       "summary": "Microsoft says cyberattackers are currently benefiting from artificial intelligence faster than defenders, allowing threat actors to speed up vulnerability discovery, malware development, and post-compromise activity while security teams struggle to keep pace. [...]",
       "published": "Thu, 01 Oct 2026 15:32:47 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
-      "link": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
-      "summary": "An international law enforcement operation dubbed \"Operation KillSwitch\" seized the KillSec ransomware gang's data leak site and servers, led to three arrests, and identified a 16-year-old as the group's alleged administrator. [...]",
-      "published": "Thu, 01 Oct 2026 10:25:14 -0400",
-      "value_score": 58,
-      "value_signals": [
-        "Ransomware ×2",
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "The Day-One Hole in Zero Trust Architecture",
-      "link": "https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/",
-      "summary": "Zero Trust can verify users once they are established, but onboarding creates a gap where organizations must decide who to trust before strong authentication exists. Specops explains why identity verification should begin before credentials, MFA methods, and access are issued. [...]",
-      "published": "Thu, 01 Oct 2026 10:01:11 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Kiteworks patches max severity code injection vulnerability",
-      "link": "https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/",
-      "summary": "Secure file-sharing software company Kiteworks has released security updates to address 126 vulnerabilities, including a max-severity flaw affecting its Email Protection Gateway (EPG) security solution. [...]",
-      "published": "Thu, 01 Oct 2026 09:51:08 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft enables Windows settings backup by default for orgs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/",
-      "summary": "Microsoft announced that Windows settings backup and restore is now enabled by default on all Microsoft Entra-joined or Microsoft Entra hybrid-joined enterprise systems upgraded to Windows 11 26H2. [...]",
-      "published": "Thu, 01 Oct 2026 07:14:28 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -321,6 +320,69 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Kiteworks &amp; Citrix Incidents Show Challenges of Zero-Day Response",
+      "link": "https://www.darkreading.com/cybersecurity-operations/kiteworks-citrix-incidents-challenges-zero-day-response",
+      "summary": "One company told customers to power down its data-protection platform during a nine-hour window, while the other remained mum on reported attacks prior to releasing a patch for its product.",
+      "published": "Fri, 02 Oct 2026 16:56:30 GMT",
+      "value_score": 43,
+      "value_signals": [
+        "Zero-day",
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "SWIFT Banking &amp; Government Middleware Enables RCE",
+      "link": "https://www.darkreading.com/cybersecurity-operations/swift-banking-govt-middleware-rce",
+      "summary": "Patch middleware vulnerabilities now to avoid hardware-based MFA exploits in ultra-sensitive environments.",
+      "published": "Fri, 02 Oct 2026 16:27:54 GMT",
+      "value_score": 44,
+      "value_signals": [
+        "RCE",
+        "Patch/update",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Is Your Organization Ready for 2027's AI Accountability Era?",
+      "link": "https://www.darkreading.com/cybersecurity-operations/is-your-organization-ready-for-2027-s-ai-accountability-era-",
+      "summary": "Organizations may face an artificial intelligence (AI) reckoning over the next year. Omdia and Gartner weigh in on how to tackle the governance, security, and value challenges ahead.",
+      "published": "Fri, 02 Oct 2026 16:01:22 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Is It Fair to Blame 'Rogue' AI for Security Failures?",
+      "link": "https://www.darkreading.com/insider-threats/blame-rogue-ai-security-failures",
+      "summary": "\"Rogue AI\" terminology anthropomorphizes LLMs and shifts risk responsibility from vendors. Defenders should treat agents as untrusted, nondeterministic software systems, not sentient beings with malicious intent.",
+      "published": "Fri, 02 Oct 2026 15:51:33 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Vulnerability Backlogs Are an Ownership Problem",
+      "link": "https://www.darkreading.com/cybersecurity-operations/vulnerability-backlogs-ownership-problem",
+      "summary": "Organizations don't need better vulnerability scanners; they need to know who owns their assets and has the authority and capacity to actually fix them.",
+      "published": "Fri, 02 Oct 2026 14:00:00 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Malicious Linux Implants Mimic Asian Mail Security Products",
+      "link": "https://www.darkreading.com/threat-intelligence/malicious-linux-implants-mimic-asian-mail-security",
+      "summary": "A trio of newly discovered backdoors walk and quack like legitimate edge solutions, so it's hard to tell they're not.",
+      "published": "Fri, 02 Oct 2026 13:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Alleged KillSec Ransomware Mastermind a 16-Year-Old",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-mastermind-16-year-old",
       "summary": "Law enforcement from multiple countries collaborated to disrupt a cybercrime operation that has claimed some 500 victims worldwide in the past two years.",
@@ -342,67 +404,42 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Malicious Custom GPTs Turn ChatGPT Into RAT Delivery Lure",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/malicious-custom-gpts-chatgpt-rat-delivery-lure",
-      "summary": "In yet another ClickFix-style campaign, threat actors abuse legitimate domains from OpenAI and Google to fool unsuspecting users.",
-      "published": "Wed, 30 Sep 2026 21:25:47 GMT",
+      "source": "Security Week",
+      "title": "In Other News: $15K iCloud Spoofing Bugs, AI Policy Experts Phished, Adblocker Spies on AI Chats",
+      "link": "https://www.securityweek.com/in-other-news-15k-icloud-spoofing-bugs-ai-policy-experts-phished-adblocker-spies-on-ai-chats/",
+      "summary": "Noteworthy stories that might have slipped under the radar: Kiteworks patches over 100 vulnerabilities, Microsoft publishes 2026 Digital Defense Report, AI finds 24 Android app flaws. The post In Other News: $15K iCloud Spoofing Bugs, AI Policy Experts Phished, Adblocker Spies on AI Chats appeared first on SecurityWeek .",
+      "published": "Fri, 02 Oct 2026 14:30:00 +0000",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Trump, Tech Giants Strike Voluntary AI Safety Accord",
-      "link": "https://www.darkreading.com/cyber-risk/trump-tech-giants-strike-voluntary-ai-safety-accord",
-      "summary": "The new White House Accord on so-called \"Super Intelligence\" calls on companies to implement greater controls and oversight over AI safety.",
-      "published": "Wed, 30 Sep 2026 20:51:15 GMT",
+      "source": "Security Week",
+      "title": "macOS Users Targeted by Fake Zoom Installer Carrying CloudSyncD Backdoor",
+      "link": "https://www.securityweek.com/macos-users-targeted-by-fake-zoom-installer-carrying-cloudsyncd-backdoor/",
+      "summary": "The dropper “carries a complete universal Mach-O inside itself, roughly 756 KB in the development build, and extracts it at runtime. The post macOS Users Targeted by Fake Zoom Installer Carrying CloudSyncD Backdoor appeared first on SecurityWeek .",
+      "published": "Fri, 02 Oct 2026 13:15:00 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Backdoor ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Crypto Scammers Hijack Microsoft’s Official X Account",
+      "link": "https://www.securityweek.com/crypto-scammers-hijack-microsofts-official-x-account/",
+      "summary": "Hackers used the account, which has 13 million followers, to amplify a Clippy-themed cryptocurrency account. The post Crypto Scammers Hijack Microsoft’s Official X Account appeared first on SecurityWeek .",
+      "published": "Fri, 02 Oct 2026 11:46:10 +0000",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "As AI Reshapes the SOC Career Ladder, Satisfaction Rises for 91%, but Entry Gets Harder for Nearly Half",
-      "link": "https://www.darkreading.com/cybersecurity-careers/ai-reshapes-soc-career-ladder",
-      "summary": "New Swimlane research underscores a paradox: While AI detection and response is essential to giving defenders an edge, one in four security pros say AI limits their skill development.",
-      "published": "Wed, 30 Sep 2026 18:56:56 GMT",
+      "source": "Security Week",
+      "title": "In Rare Move, Alleged Iranian State Hacker Extradited to US",
+      "link": "https://www.securityweek.com/in-rare-move-iranian-hacker-accused-of-working-for-irgc-extradited-to-us/",
+      "summary": "Amir Barati, an alleged member of the Mabna Institute, was indicted for targeting universities, private organizations, and government entities in the US and abroad. The post In Rare Move, Alleged Iranian State Hacker Extradited to US appeared first on SecurityWeek .",
+      "published": "Fri, 02 Oct 2026 11:14:34 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Russia's Star Blizzard Ditches ClickFix to Widen Phishing Net",
-      "link": "https://www.darkreading.com/threat-intelligence/russia-star-blizzard-apt-ditches-clickfix-widen-phishing-net",
-      "summary": "The APT actor is using a new tactic, dubbed \"RedFlick,\" against Ukrainian-linked targets such as NGOs, think tanks, and journalists to deploy its CosmicPulse backdoor.",
-      "published": "Wed, 30 Sep 2026 15:02:25 GMT",
-      "value_score": 30,
-      "value_signals": [
-        "Backdoor",
-        "Phishing"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "South Africa Seeks Help After Cyberattack Targets Air Traffic Control",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/south-africa-help-cyberattack-air-traffic-control",
-      "summary": "As aviation infrastructure suffers more cyberattacks, air traffic systems are the latest target, with a ransomware toolkit installed on at least one operational network.",
-      "published": "Wed, 30 Sep 2026 07:00:00 GMT",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Apple Zero-Day Vulnerability Weaponized in Targeted Attacks",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/apple-zero-day-vulnerability-weaponized-targeted-attacks",
-      "summary": "Attackers are exploiting CVE-2026-86950, an out-of-bounds write flaw, in an extremely sophisticated fashion, according to Apple.",
-      "published": "Tue, 29 Sep 2026 21:31:29 GMT",
-      "value_score": 59,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Security Week",
@@ -447,45 +484,6 @@
       "published": "Thu, 01 Oct 2026 18:00:00 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Osavul Lands $10 Million to Spot Hostile Intent Across Cyber, Physical Domains",
-      "link": "https://www.securityweek.com/osavul-lands-10-million-to-spot-hostile-intent-across-cyber-physical-domains/",
-      "summary": "Hybrid risk intelligence company Osavul has raised $10 million in a Series A funding round led by 33N Ventures. The post Osavul Lands $10 Million to Spot Hostile Intent Across Cyber, Physical Domains appeared first on SecurityWeek .",
-      "published": "Thu, 01 Oct 2026 17:16:41 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Hacker Conversations: Rob Juncker, a Knock at the Door and a Moral Compass",
-      "link": "https://www.securityweek.com/hacker-conversations-rob-juncker-a-knock-at-the-door-and-a-moral-compass/",
-      "summary": "Rob Juncker is chief product and technology officer at Mimecast. Is he a hacker? “Unequivocally yes,” he says. The post Hacker Conversations: Rob Juncker, a Knock at the Door and a Moral Compass appeared first on SecurityWeek .",
-      "published": "Thu, 01 Oct 2026 14:30:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Enterprises Struggle to Prepare for AI and Quantum Threats, PwC Says",
-      "link": "https://www.securityweek.com/enterprises-struggle-to-prepare-for-ai-and-quantum-threats-pwc-says/",
-      "summary": "PwC’s survey found that only 22% of leaders would use fully autonomous AI for cyber defense, while just 21% are implementing quantum-resistant security measures. The post Enterprises Struggle to Prepare for AI and Quantum Threats, PwC Says appeared first on SecurityWeek .",
-      "published": "Thu, 01 Oct 2026 14:30:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Police Shut Down KillSec Ransomware, Identify Alleged Teen Leader",
-      "link": "https://www.securityweek.com/police-shut-down-killsec-ransomware-identify-alleged-teen-leader/",
-      "summary": "Police took control of KillSec’s leak site and secured at least 110 terabytes of data stolen from victims. The post Police Shut Down KillSec Ransomware, Identify Alleged Teen Leader appeared first on SecurityWeek .",
-      "published": "Thu, 01 Oct 2026 14:17:07 +0000",
-      "value_score": 58,
-      "value_signals": [
-        "Ransomware ×2",
-        "Breach/leak"
-      ]
     },
     {
       "source": "Threatpost",

@@ -341,7 +341,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2727,
+      "count": 2728,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2084,7 +2084,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 628,
+      "count": 629,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2916,7 +2916,7 @@
       ]
     },
     "write arbitrary files": {
-      "count": 56,
+      "count": 57,
       "dates": [
         "2026-01-06",
         "2026-01-07",
@@ -28773,7 +28773,7 @@
       ]
     },
     "critical infrastructure attacks": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-27",
         "2026-08-28",
@@ -29949,7 +29949,7 @@
       ]
     },
     "siphoning images collected": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-09-08",
         "2026-09-09",
@@ -32491,7 +32491,7 @@
       ]
     },
     "killsec ransomware group": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-10-01",
         "2026-10-02"
@@ -32538,31 +32538,31 @@
       ]
     },
     "verified applications classified": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-02"
       ]
     },
     "official microsoft account": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-02"
       ]
     },
     "android's accessibility services": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-02"
       ]
     },
     "macos users targeted": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-02"
       ]
     },
     "blame rogue ai": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-02"
       ]
@@ -32574,25 +32574,25 @@
       ]
     },
     "leaked private information": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-02"
       ]
     },
     "atm hacks crackdown": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-02"
       ]
     },
     "reported attacks prior": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-02"
       ]
     },
     "ultra sensitive environments": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-02"
       ]
@@ -32604,6 +32604,30 @@
       ]
     },
     "shifts risk responsibility": {
+      "count": 2,
+      "dates": [
+        "2026-10-02"
+      ]
+    },
+    "exploiting sharepoint vulnerabilities": {
+      "count": 1,
+      "dates": [
+        "2026-10-02"
+      ]
+    },
+    "value challenges ahead": {
+      "count": 1,
+      "dates": [
+        "2026-10-02"
+      ]
+    },
+    "roughly 756 kb": {
+      "count": 1,
+      "dates": [
+        "2026-10-02"
+      ]
+    },
+    "remove personal information": {
       "count": 1,
       "dates": [
         "2026-10-02"
@@ -32611,17 +32635,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-12 08:17",
-      "articles": 48,
-      "top_keywords": [
-        "national security risk",
-        "generative threat group",
-        "typing chinese characters",
-        "twitter whistleblower complaint",
-        "self hosted servers"
-      ]
-    },
     {
       "timestamp": "2026-09-12 13:18",
       "articles": 48,
@@ -33709,6 +33722,17 @@
         "verified applications classified",
         "critical infrastructure attacks",
         "killsec ransomware group"
+      ]
+    },
+    {
+      "timestamp": "2026-10-02 21:43",
+      "articles": 48,
+      "top_keywords": [
+        "verified applications classified",
+        "macos users targeted",
+        "critical infrastructure attacks",
+        "killsec ransomware group",
+        "reported attacks prior"
       ]
     }
   ]

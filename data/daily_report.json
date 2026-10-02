@@ -1,72 +1,108 @@
 {
-  "last_updated": "2026-10-02 17:17",
+  "last_updated": "2026-10-02 21:43",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "artificial intelligence faster",
-    "macos users targeted",
     "verified applications classified",
+    "macos users targeted",
     "critical infrastructure attacks",
     "killsec ransomware group",
-    "blame rogue ai",
-    "critical rce vulnerability",
-    "write arbitrary files",
-    "windows operating systems",
+    "reported attacks prior",
     "twitter whistleblower complaint",
     "leaked private information",
     "atm hacks crackdown",
-    "reported attacks prior",
     "android's accessibility services",
-    "official microsoft account",
+    "blame rogue ai",
+    "exploiting sharepoint vulnerabilities",
     "ultra sensitive environments",
-    "state associated apt",
+    "official microsoft account",
+    "write arbitrary files",
+    "value challenges ahead",
     "sprawling phishing campaign",
     "siphoning images collected",
-    "shifts risk responsibility"
+    "shifts risk responsibility",
+    "roughly 756 kb",
+    "remove personal information"
   ],
   "trending": [
     {
-      "keyword": "artificial intelligence faster",
-      "mentions": 4
+      "keyword": "verified applications classified",
+      "mentions": 3
     },
     {
       "keyword": "macos users targeted",
-      "mentions": 1
-    },
-    {
-      "keyword": "verified applications classified",
       "mentions": 2
     },
     {
       "keyword": "critical infrastructure attacks",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "killsec ransomware group",
-      "mentions": 4
+      "mentions": 5
     },
     {
-      "keyword": "blame rogue ai",
-      "mentions": 1
-    },
-    {
-      "keyword": "critical rce vulnerability",
-      "mentions": 1
-    },
-    {
-      "keyword": "write arbitrary files",
-      "mentions": 56
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 792
+      "keyword": "reported attacks prior",
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2727
+      "mentions": 2728
+    },
+    {
+      "keyword": "leaked private information",
+      "mentions": 2
+    },
+    {
+      "keyword": "atm hacks crackdown",
+      "mentions": 2
+    },
+    {
+      "keyword": "android's accessibility services",
+      "mentions": 3
+    },
+    {
+      "keyword": "blame rogue ai",
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
+      "link": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
+      "summary": "A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab said in an advisory. The gateway is the service that connects a GitLab instance to AI models, and only organizations that host their own gateway need to act. The flaw is fixed in gateway versions 19.2.4, 19.3.2, and 19.4.1. The flaw",
+      "published": "Fri, 02 Oct 2026 23:03:31 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "Patch/update",
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign",
+      "link": "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html",
+      "summary": "Government and policy organizations across Asia have become the target of a new campaign orchestrated by a China-nexus threat actor. The activity, which has targeted government and policy organizations in Taiwan, India, the Philippines, Cambodia, Pakistan, Thailand, and Myanmar, involves the deployment of a previously undocumented backdoor codenamed Antino. Cisco Talos is tracking the cluster",
+      "published": "Fri, 02 Oct 2026 23:03:16 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "Backdoor ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes",
+      "link": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html",
+      "summary": "Dell has released security updates to address multiple critical security flaws in Dell Container Storage Modules (CSM) that could be exploited by bad actors to take over susceptible systems. The vulnerabilities are listed below - CVE-2026-63688 (CVSS score: 10.0) - A missing authentication for critical function vulnerability in the csm-authorization-storage gRPC server that an",
+      "published": "Fri, 02 Oct 2026 22:32:12 +0530",
+      "value_score": 50,
+      "value_signals": [
+        "CVE mentioned",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling",
@@ -124,36 +160,29 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories",
-      "link": "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html",
-      "summary": "This week, the useful words are boring ones: inspect, cache, compile, store, trust. Each sounds harmless. Each can become an attack path when a system does a little more than people expect. A model check can run code. A cache can mix up requests. A public secret can stay useful for years. That is the lesson running through the list. Attackers do not always need a brilliant new trick. They can",
-      "published": "Thu, 01 Oct 2026 22:15:38 +0530",
-      "value_score": 55,
+      "source": "BleepingComputer",
+      "title": "Frontline Education breach exposes school district employee data",
+      "link": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
+      "summary": "Frontline Education is notifying school districts of a data breach after attackers exploited a vulnerability in third-party software to gain unauthorized access to its systems and steal employee information, including Social Security numbers. [...]",
+      "published": "Fri, 02 Oct 2026 15:01:40 -0400",
+      "value_score": 40,
       "value_signals": [
-        "Zero-day",
-        "RCE"
+        "Breach/leak ×2",
+        "Exploit wording"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory",
-      "link": "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html",
-      "summary": "Cybersecurity researchers have shed light on a WordPress compromise in which threat actors deployed multiple persistence mechanisms to ensure that the final payload kept returning without having to infect the site again. The backdoor has been codenamed SC after the \"SC_\" markers present in the injected content. Sucuri has described the malware as a \"self-healing mesh\" that's",
-      "published": "Thu, 01 Oct 2026 20:07:35 +0530",
-      "value_score": 34,
+      "source": "BleepingComputer",
+      "title": "Warlock ransomware breach SharePoint in water, telecom operator attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/",
+      "summary": "The China-linked ransomware group Warlock targeted a water utility, a telecom provider, a regional government body, and a university by exploiting SharePoint vulnerabilities to gain initial access. [...]",
+      "published": "Fri, 02 Oct 2026 14:33:01 -0400",
+      "value_score": 64,
       "value_signals": [
-        "Backdoor ×2"
+        "Ransomware ×2",
+        "Breach/leak",
+        "Exploit wording"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "How Financial Services Companies Can Modernize Their Software Supply Chain",
-      "link": "https://thehackernews.com/2026/10/how-financial-services-companies-can.html",
-      "summary": "Every security leader at a bank, insurer, or asset manager has had a version of this conversation: Security wants to eliminate a class of vulnerabilities. Engineering explains what it would take to upgrade the platform where they live. Somebody prices out the regression testing. Somebody else raises the change-freeze calendar. The finding gets an exception, a compensating control, and a date",
-      "published": "Thu, 01 Oct 2026 17:15:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -220,24 +249,6 @@
         "High severity ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Autonomous AI agents tried to hack US, Canadian government websites",
-      "link": "https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/",
-      "summary": "Autonomous AI agents using aggressive strategies attempted to hack U.S. and Canadian government websites to find school and divorce statistics. [...]",
-      "published": "Thu, 01 Oct 2026 16:52:50 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft says threat actors are ahead in the early AI race",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/",
-      "summary": "Microsoft says cyberattackers are currently benefiting from artificial intelligence faster than defenders, allowing threat actors to speed up vulnerability discovery, malware development, and post-compromise activity while security teams struggle to keep pace. [...]",
-      "published": "Thu, 01 Oct 2026 15:32:47 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -320,6 +331,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "RemoteThreat Bets Security Teams Need to Test What Happens After Defenses Fail",
+      "link": "https://www.darkreading.com/cybersecurity-operations/remotethreat-bets-security-teams-need-to-test-what-happens-after-defenses-fail",
+      "summary": "The offensive cyber operations startup looks to evolve red teaming beyond traditional methods to simulate attackers' increasingly advanced capabilities.",
+      "published": "Fri, 02 Oct 2026 20:18:37 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Kiteworks &amp; Citrix Incidents Show Challenges of Zero-Day Response",
       "link": "https://www.darkreading.com/cybersecurity-operations/kiteworks-citrix-incidents-challenges-zero-day-response",
       "summary": "One company told customers to power down its data-protection platform during a nine-hour window, while the other remained mum on reported attacks prior to releasing a patch for its product.",
@@ -387,17 +407,6 @@
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-mastermind-16-year-old",
       "summary": "Law enforcement from multiple countries collaborated to disrupt a cybercrime operation that has claimed some 500 victims worldwide in the past two years.",
       "published": "Thu, 01 Oct 2026 21:37:50 GMT",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Warlock Ransomware Hits Large Spanish, Portuguese Orgs",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/warlock-ransomware-spanish-portuguese",
-      "summary": "A year-old Chinese threat actor looks like a cybercrime gang, acts like a state-associated APT, and attacks organizations in unexpected places.",
-      "published": "Thu, 01 Oct 2026 13:00:00 GMT",
       "value_score": 28,
       "value_signals": [
         "Ransomware"

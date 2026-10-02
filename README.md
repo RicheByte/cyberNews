@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-02 17:17 UTC |
+| 🕐 Last Updated | 2026-10-02 21:43 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`artificial intelligence faster` • `macos users targeted` • `verified applications classified` • `critical infrastructure attacks` • `killsec ransomware group` • `blame rogue ai` • `critical rce vulnerability` • `write arbitrary files` • `windows operating systems` • `twitter whistleblower complaint`
+`verified applications classified` • `macos users targeted` • `critical infrastructure attacks` • `killsec ransomware group` • `reported attacks prior` • `twitter whistleblower complaint` • `leaked private information` • `atm hacks crackdown` • `android's accessibility services` • `blame rogue ai`
 
 ## 📄 Reports
 

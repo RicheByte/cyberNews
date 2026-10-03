@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-03 17:43",
+  "last_updated": "2026-10-03 20:29",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -17,53 +17,53 @@
     "blame rogue ai",
     "atm hacks crackdown",
     "access management system",
-    "official microsoft account",
     "attacks targeting organizations",
     "value challenges ahead",
     "sprawling phishing campaign",
     "spanish speaking countries",
-    "siphoning images collected"
+    "siphoning images collected",
+    "selling digital scans"
   ],
   "trending": [
     {
       "keyword": "macos users targeted",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "critical infrastructure attacks",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "200 000 people",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "exploiting sharepoint vulnerabilities",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "ultra sensitive environments",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "intelligence gathering efforts",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "helped china boost",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2732
+      "mentions": 2733
     },
     {
       "keyword": "reported attacks prior",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "radar kiteworks patches",
-      "mentions": 2
+      "mentions": 3
     }
   ],
   "articles": [
@@ -156,6 +156,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "ShinyHunters hacker reportedly detained in Jordan, aiding FBI",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/",
+      "summary": "A suspected ShinyHunters hacking group member known online as \"Rey\" has reportedly been detained in Jordan and is cooperating with the FBI to help locate other members of the extortion group. [...]",
+      "published": "Sat, 03 Oct 2026 15:09:38 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Danish university DTU breach exposes data of up to 200,000 people",
       "link": "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/",
       "summary": "The Technical University of Denmark (DTU) says information belonging to up to 200,000 users may have been exposed after hackers accessed its identity and access management system and downloaded a large amount of data. [...]",
@@ -231,15 +240,6 @@
       "value_signals": [
         "Patch/update"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft’s X account hacked in crypto pump-and-dump scheme",
-      "link": "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/",
-      "summary": "On Thursday, unknown attackers hijacked the official Microsoft account on X, which has over 13 million followers, in what appeared to be a pump-and-dump scheme promoting a crypto token. [...]",
-      "published": "Fri, 02 Oct 2026 05:29:56 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

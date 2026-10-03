@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-10-03 17:43 UTC  
+> **Last Updated:** 2026-10-03 20:29 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**macos users targeted** • **critical infrastructure attacks** • **200 000 people** • **exploiting sharepoint vulnerabilities** • **ultra sensitive environments** • **intelligence gathering efforts** • **helped china boost** • **twitter whistleblower complaint** • **reported attacks prior** • **radar kiteworks patches** • **leaked private information** • **blame rogue ai** • **atm hacks crackdown** • **access management system** • **official microsoft account** • **attacks targeting organizations** • **value challenges ahead** • **sprawling phishing campaign** • **spanish speaking countries** • **siphoning images collected**
+**macos users targeted** • **critical infrastructure attacks** • **200 000 people** • **exploiting sharepoint vulnerabilities** • **ultra sensitive environments** • **intelligence gathering efforts** • **helped china boost** • **twitter whistleblower complaint** • **reported attacks prior** • **radar kiteworks patches** • **leaked private information** • **blame rogue ai** • **atm hacks crackdown** • **access management system** • **attacks targeting organizations** • **value challenges ahead** • **sprawling phishing campaign** • **spanish speaking countries** • **siphoning images collected** • **selling digital scans**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [ShinyHunters hacker reportedly detained in Jordan, aiding FBI](https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/)
 - [Danish university DTU breach exposes data of up to 200,000 people](https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/)
 - [Frontline Education breach exposes school district employee data](https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/)
 - [Warlock ransomware breach SharePoint in water, telecom operator attacks](https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/)
@@ -34,7 +35,6 @@
 - [US sanctions Tren de Aragua gang members in ATM hacks crackdown](https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/)
 - [The EDR blind spot: 3 ways browser attacks evade endpoint telemetry](https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/)
 - [Dell asks admins to patch max severity CSM flaws as soon as possible](https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/)
-- [Microsoft’s X account hacked in crypto pump-and-dump scheme](https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/)
 
 ### Krebs on Security
 

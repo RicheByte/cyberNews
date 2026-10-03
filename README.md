@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-03 12:57 UTC |
+| 🕐 Last Updated | 2026-10-03 17:43 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`critical infrastructure attacks` • `verified applications classified` • `macos users targeted` • `ultra sensitive environments` • `exploiting sharepoint vulnerabilities` • `reported attacks prior` • `twitter whistleblower complaint` • `radar kiteworks patches` • `leaked private information` • `cve 2026 104286`
+`macos users targeted` • `critical infrastructure attacks` • `200 000 people` • `exploiting sharepoint vulnerabilities` • `ultra sensitive environments` • `intelligence gathering efforts` • `helped china boost` • `twitter whistleblower complaint` • `reported attacks prior` • `radar kiteworks patches`
 
 ## 📄 Reports
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-10-03 12:57 UTC  
+> **Last Updated:** 2026-10-03 17:43 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**critical infrastructure attacks** • **verified applications classified** • **macos users targeted** • **ultra sensitive environments** • **exploiting sharepoint vulnerabilities** • **reported attacks prior** • **twitter whistleblower complaint** • **radar kiteworks patches** • **leaked private information** • **cve 2026 104286** • **blame rogue ai** • **atm hacks crackdown** • **android's accessibility services** • **official microsoft account** • **write arbitrary files** • **value challenges ahead** • **sprawling phishing campaign** • **siphoning images collected** • **selling digital scans** • **self hosted servers**
+**macos users targeted** • **critical infrastructure attacks** • **200 000 people** • **exploiting sharepoint vulnerabilities** • **ultra sensitive environments** • **intelligence gathering efforts** • **helped china boost** • **twitter whistleblower complaint** • **reported attacks prior** • **radar kiteworks patches** • **leaked private information** • **blame rogue ai** • **atm hacks crackdown** • **access management system** • **official microsoft account** • **attacks targeting organizations** • **value challenges ahead** • **sprawling phishing campaign** • **spanish speaking countries** • **siphoning images collected**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics](https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html)
+- [Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware](https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html)
 - [The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations](https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html)
 - [GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers](https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html)
 - [Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign](https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html)
 - [Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes](https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html)
 - [OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling](https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html)
 - [Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report](https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html)
-- [Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools](https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html)
-- [Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes](https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html)
 
 ### BleepingComputer
 
+- [Danish university DTU breach exposes data of up to 200,000 people](https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/)
 - [Frontline Education breach exposes school district employee data](https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/)
 - [Warlock ransomware breach SharePoint in water, telecom operator attacks](https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/)
 - [GitLab warns of critical RCE vulnerability in AI Gateway service](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/)
@@ -34,7 +35,6 @@
 - [The EDR blind spot: 3 ways browser attacks evade endpoint telemetry](https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/)
 - [Dell asks admins to patch max severity CSM flaws as soon as possible](https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/)
 - [Microsoft’s X account hacked in crypto pump-and-dump scheme](https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/)
-- [Fortinet warns of critical FortiMail flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/)
 
 ### Krebs on Security
 

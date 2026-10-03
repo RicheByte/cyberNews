@@ -1,72 +1,94 @@
 {
-  "last_updated": "2026-10-03 12:57",
+  "last_updated": "2026-10-03 17:43",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "critical infrastructure attacks",
-    "verified applications classified",
     "macos users targeted",
-    "ultra sensitive environments",
+    "critical infrastructure attacks",
+    "200 000 people",
     "exploiting sharepoint vulnerabilities",
-    "reported attacks prior",
+    "ultra sensitive environments",
+    "intelligence gathering efforts",
+    "helped china boost",
     "twitter whistleblower complaint",
+    "reported attacks prior",
     "radar kiteworks patches",
     "leaked private information",
-    "cve 2026 104286",
     "blame rogue ai",
     "atm hacks crackdown",
-    "android's accessibility services",
+    "access management system",
     "official microsoft account",
-    "write arbitrary files",
+    "attacks targeting organizations",
     "value challenges ahead",
     "sprawling phishing campaign",
-    "siphoning images collected",
-    "selling digital scans",
-    "self hosted servers"
+    "spanish speaking countries",
+    "siphoning images collected"
   ],
   "trending": [
     {
-      "keyword": "critical infrastructure attacks",
-      "mentions": 8
-    },
-    {
-      "keyword": "verified applications classified",
+      "keyword": "macos users targeted",
       "mentions": 6
     },
     {
-      "keyword": "macos users targeted",
+      "keyword": "critical infrastructure attacks",
+      "mentions": 9
+    },
+    {
+      "keyword": "200 000 people",
+      "mentions": 1
+    },
+    {
+      "keyword": "exploiting sharepoint vulnerabilities",
       "mentions": 5
     },
     {
       "keyword": "ultra sensitive environments",
-      "mentions": 5
+      "mentions": 6
     },
     {
-      "keyword": "exploiting sharepoint vulnerabilities",
-      "mentions": 4
-    },
-    {
-      "keyword": "reported attacks prior",
-      "mentions": 5
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2731
-    },
-    {
-      "keyword": "radar kiteworks patches",
+      "keyword": "intelligence gathering efforts",
       "mentions": 1
     },
     {
-      "keyword": "leaked private information",
-      "mentions": 5
+      "keyword": "helped china boost",
+      "mentions": 1
     },
     {
-      "keyword": "cve 2026 104286",
-      "mentions": 3
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2732
+    },
+    {
+      "keyword": "reported attacks prior",
+      "mentions": 6
+    },
+    {
+      "keyword": "radar kiteworks patches",
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics",
+      "link": "https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html",
+      "summary": "The U.K.'s domestic intelligence and security agency has warned that more than 100 academics have helped China boost its intelligence gathering efforts on behalf of Beijing's state security service. In a \"Security Service Espionage Alert\" issued on September 30, 2026, MI5 said the \"primary purpose of the China General Technology Research Institute (CGTRI) 中国通用技术研究院 is to fund research that",
+      "published": "Sat, 03 Oct 2026 20:08:46 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
+      "link": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
+      "summary": "The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portuguese- and Spanish-speaking countries. The activity, observed by the Symantec and Carbon Black Threat Hunter Team, has hit critical infrastructure, government, and education organizations. \"In the",
+      "published": "Sat, 03 Oct 2026 20:06:33 +0530",
+      "value_score": 42,
+      "value_signals": [
+        "Ransomware",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations",
@@ -133,27 +155,14 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools",
-      "link": "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html",
-      "summary": "Google has announced a new security measure that limits access to Android's accessibility services to verified applications classified as Accessibility Tools when Advanced Protection is enabled. With malicious Android applications abusing the API serving as the main conduit for malware and financial fraud, the tech giant said the move would block a major attack pathway. Advanced Protection is a",
-      "published": "Fri, 02 Oct 2026 13:31:30 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes",
-      "link": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added a critical security flaw impacting Fortinet FortiMail to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability, tracked as CVE-2026-104286 (CVSS score: 9.8), allows unauthenticated attackers to write arbitrary files on the underlying system. \"An improper",
-      "published": "Fri, 02 Oct 2026 11:19:50 +0530",
-      "value_score": 100,
+      "source": "BleepingComputer",
+      "title": "Danish university DTU breach exposes data of up to 200,000 people",
+      "link": "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/",
+      "summary": "The Technical University of Denmark (DTU) says information belonging to up to 200,000 users may have been exposed after hackers accessed its identity and access management system and downloaded a large amount of data. [...]",
+      "published": "Sat, 03 Oct 2026 10:35:20 -0400",
+      "value_score": 22,
       "value_signals": [
-        "CVE mentioned",
-        "Zero-day",
-        "CISA/KEV ×3",
-        "High severity ×2",
-        "Exploit wording"
+        "Breach/leak"
       ]
     },
     {
@@ -231,21 +240,6 @@
       "published": "Fri, 02 Oct 2026 05:29:56 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Fortinet warns of critical FortiMail flaw exploited in zero-day attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/",
-      "summary": "Fortinet is warning customers of a critical FortiMail vulnerability, tracked as CVE-2026-104286, that is being actively exploited in zero-day attacks to execute unauthorized code or commands on vulnerable devices. [...]",
-      "published": "Thu, 01 Oct 2026 18:42:49 -0400",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day ×2",
-        "Active exploitation",
-        "High severity ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",

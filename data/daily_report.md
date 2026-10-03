@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-10-03 07:28 UTC  
+> **Last Updated:** 2026-10-03 12:57 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**verified applications classified** • **macos users targeted** • **critical infrastructure attacks** • **killsec ransomware group** • **reported attacks prior** • **twitter whistleblower complaint** • **leaked private information** • **atm hacks crackdown** • **android's accessibility services** • **blame rogue ai** • **exploiting sharepoint vulnerabilities** • **ultra sensitive environments** • **official microsoft account** • **write arbitrary files** • **value challenges ahead** • **sprawling phishing campaign** • **siphoning images collected** • **shifts risk responsibility** • **roughly 756 kb** • **remove personal information**
+**critical infrastructure attacks** • **verified applications classified** • **macos users targeted** • **ultra sensitive environments** • **exploiting sharepoint vulnerabilities** • **reported attacks prior** • **twitter whistleblower complaint** • **radar kiteworks patches** • **leaked private information** • **cve 2026 104286** • **blame rogue ai** • **atm hacks crackdown** • **android's accessibility services** • **official microsoft account** • **write arbitrary files** • **value challenges ahead** • **sprawling phishing campaign** • **siphoning images collected** • **selling digital scans** • **self hosted servers**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations](https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html)
 - [GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers](https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html)
 - [Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign](https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html)
 - [Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes](https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html)
@@ -23,7 +24,6 @@
 - [Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report](https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html)
 - [Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools](https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html)
 - [Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes](https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html)
-- [Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers](https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html)
 
 ### BleepingComputer
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures](https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/)
+- [Fortra Patches Critical Vulnerabilities in BoKS](https://www.securityweek.com/fortra-patches-critical-vulnerabilities-in-boks/)
 - [In Other News: $15K iCloud Spoofing Bugs, AI Policy Experts Phished, Adblocker Spies on AI Chats](https://www.securityweek.com/in-other-news-15k-icloud-spoofing-bugs-ai-policy-experts-phished-adblocker-spies-on-ai-chats/)
 - [macOS Users Targeted by Fake Zoom Installer Carrying CloudSyncD Backdoor](https://www.securityweek.com/macos-users-targeted-by-fake-zoom-installer-carrying-cloudsyncd-backdoor/)
 - [Crypto Scammers Hijack Microsoft’s Official X Account](https://www.securityweek.com/crypto-scammers-hijack-microsofts-official-x-account/)
 - [In Rare Move, Alleged Iranian State Hacker Extradited to US](https://www.securityweek.com/in-rare-move-iranian-hacker-accused-of-working-for-irgc-extradited-to-us/)
 - [Warlock Expands SharePoint Exploitation in Critical Infrastructure Attacks](https://www.securityweek.com/warlock-expands-sharepoint-exploitation-in-critical-infrastructure-attacks/)
 - [AI Agents Aimed SQL Injection at US and Canadian Government Sites](https://www.securityweek.com/ai-agents-aimed-sql-injection-at-us-and-canadian-government-sites/)
-- [Exploited Fortinet FortiMail Zero-Day Calls for Urgent Action](https://www.securityweek.com/exploited-fortinet-fortimail-zero-day-calls-for-urgent-action/)
-- [Zero Trust Creator Says Model Holds Firm Against AI-Assisted Attacks](https://www.securityweek.com/zero-trust-creator-says-model-holds-firm-against-ai-assisted-attacks/)
 
 ### Threatpost
 

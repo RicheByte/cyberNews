@@ -341,7 +341,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2730,
+      "count": 2731,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2085,7 +2085,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 631,
+      "count": 632,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2918,7 +2918,7 @@
       ]
     },
     "write arbitrary files": {
-      "count": 59,
+      "count": 60,
       "dates": [
         "2026-01-06",
         "2026-01-07",
@@ -28776,7 +28776,7 @@
       ]
     },
     "critical infrastructure attacks": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-27",
         "2026-08-28",
@@ -29953,7 +29953,7 @@
       ]
     },
     "siphoning images collected": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-09-08",
         "2026-09-09",
@@ -30427,10 +30427,11 @@
       ]
     },
     "self hosted servers": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-09-11",
-        "2026-09-12"
+        "2026-09-12",
+        "2026-10-03"
       ]
     },
     "legitimate training method": {
@@ -32532,9 +32533,10 @@
       ]
     },
     "cve 2026 104286": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-10-02"
+        "2026-10-02",
+        "2026-10-03"
       ]
     },
     "working fortinet warns": {
@@ -32544,35 +32546,35 @@
       ]
     },
     "verified applications classified": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-10-02",
         "2026-10-03"
       ]
     },
     "official microsoft account": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-10-02",
         "2026-10-03"
       ]
     },
     "android's accessibility services": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-10-02",
         "2026-10-03"
       ]
     },
     "macos users targeted": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-10-02",
         "2026-10-03"
       ]
     },
     "blame rogue ai": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-10-02",
         "2026-10-03"
@@ -32585,28 +32587,28 @@
       ]
     },
     "leaked private information": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-10-02",
         "2026-10-03"
       ]
     },
     "atm hacks crackdown": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-10-02",
         "2026-10-03"
       ]
     },
     "reported attacks prior": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-10-02",
         "2026-10-03"
       ]
     },
     "ultra sensitive environments": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-10-02",
         "2026-10-03"
@@ -32626,14 +32628,14 @@
       ]
     },
     "exploiting sharepoint vulnerabilities": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-02",
         "2026-10-03"
       ]
     },
     "value challenges ahead": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-02",
         "2026-10-03"
@@ -32652,20 +32654,21 @@
         "2026-10-02",
         "2026-10-03"
       ]
+    },
+    "radar kiteworks patches": {
+      "count": 1,
+      "dates": [
+        "2026-10-03"
+      ]
+    },
+    "selling digital scans": {
+      "count": 1,
+      "dates": [
+        "2026-10-03"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-12 20:03",
-      "articles": 48,
-      "top_keywords": [
-        "national security risk",
-        "generative threat group",
-        "shieldcrash windows exploit",
-        "brevo marketing platform",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-09-12 23:39",
       "articles": 48,
@@ -33753,6 +33756,17 @@
         "critical infrastructure attacks",
         "killsec ransomware group",
         "reported attacks prior"
+      ]
+    },
+    {
+      "timestamp": "2026-10-03 12:57",
+      "articles": 48,
+      "top_keywords": [
+        "critical infrastructure attacks",
+        "verified applications classified",
+        "macos users targeted",
+        "ultra sensitive environments",
+        "exploiting sharepoint vulnerabilities"
       ]
     }
   ]

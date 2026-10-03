@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-03 07:28 UTC |
+| 🕐 Last Updated | 2026-10-03 12:57 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`verified applications classified` • `macos users targeted` • `critical infrastructure attacks` • `killsec ransomware group` • `reported attacks prior` • `twitter whistleblower complaint` • `leaked private information` • `atm hacks crackdown` • `android's accessibility services` • `blame rogue ai`
+`critical infrastructure attacks` • `verified applications classified` • `macos users targeted` • `ultra sensitive environments` • `exploiting sharepoint vulnerabilities` • `reported attacks prior` • `twitter whistleblower complaint` • `radar kiteworks patches` • `leaked private information` • `cve 2026 104286`
 
 ## 📄 Reports
 

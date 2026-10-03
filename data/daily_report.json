@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-10-03 07:28",
+  "last_updated": "2026-10-03 12:57",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
+    "critical infrastructure attacks",
     "verified applications classified",
     "macos users targeted",
-    "critical infrastructure attacks",
-    "killsec ransomware group",
+    "ultra sensitive environments",
+    "exploiting sharepoint vulnerabilities",
     "reported attacks prior",
     "twitter whistleblower complaint",
+    "radar kiteworks patches",
     "leaked private information",
+    "cve 2026 104286",
+    "blame rogue ai",
     "atm hacks crackdown",
     "android's accessibility services",
-    "blame rogue ai",
-    "exploiting sharepoint vulnerabilities",
-    "ultra sensitive environments",
     "official microsoft account",
     "write arbitrary files",
     "value challenges ahead",
     "sprawling phishing campaign",
     "siphoning images collected",
-    "shifts risk responsibility",
-    "roughly 756 kb",
-    "remove personal information"
+    "selling digital scans",
+    "self hosted servers"
   ],
   "trending": [
     {
+      "keyword": "critical infrastructure attacks",
+      "mentions": 8
+    },
+    {
       "keyword": "verified applications classified",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "macos users targeted",
-      "mentions": 4
-    },
-    {
-      "keyword": "critical infrastructure attacks",
-      "mentions": 7
-    },
-    {
-      "keyword": "killsec ransomware group",
-      "mentions": 7
-    },
-    {
-      "keyword": "reported attacks prior",
-      "mentions": 4
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2730
-    },
-    {
-      "keyword": "leaked private information",
-      "mentions": 4
-    },
-    {
-      "keyword": "atm hacks crackdown",
-      "mentions": 4
-    },
-    {
-      "keyword": "android's accessibility services",
       "mentions": 5
     },
     {
-      "keyword": "blame rogue ai",
+      "keyword": "ultra sensitive environments",
+      "mentions": 5
+    },
+    {
+      "keyword": "exploiting sharepoint vulnerabilities",
       "mentions": 4
+    },
+    {
+      "keyword": "reported attacks prior",
+      "mentions": 5
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2731
+    },
+    {
+      "keyword": "radar kiteworks patches",
+      "mentions": 1
+    },
+    {
+      "keyword": "leaked private information",
+      "mentions": 5
+    },
+    {
+      "keyword": "cve 2026 104286",
+      "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations",
+      "link": "https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html",
+      "summary": "Featuring: Cybersecurity is being reshaped by the expansion of cloud infrastructure, AI, distributed systems, and increasingly complex digital environments. As organizations manage more identities, devices, data, and internet-facing infrastructure, security is shifting toward continuous visibility, control, and the ability to respond to risk at scale. This report examines how core areas of",
+      "published": "Sat, 03 Oct 2026 16:30:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
@@ -145,18 +154,6 @@
         "CISA/KEV ×3",
         "High severity ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
-      "link": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
-      "summary": "Police in Spain have arrested a 16-year-old whom investigators suspect of running the KillSec ransomware group. KillSec is accused of stealing data from organizations and threatening to publish it on its leak site unless they paid. The 16-year-old was one of 3 people arrested on September 30, when police also took control of that site. Investigators identified him as KillSec's suspected",
-      "published": "Thu, 01 Oct 2026 22:25:57 +0530",
-      "value_score": 70,
-      "value_signals": [
-        "Ransomware ×2",
-        "Breach/leak ×2"
       ]
     },
     {
@@ -414,6 +411,27 @@
     },
     {
       "source": "Security Week",
+      "title": "doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures",
+      "link": "https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/",
+      "summary": "doxx.net’s new ADN platform prevents agentic misadventure while the agent is operating under the user’s authority. The post doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures appeared first on SecurityWeek .",
+      "published": "Sat, 03 Oct 2026 11:45:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Fortra Patches Critical Vulnerabilities in BoKS",
+      "link": "https://www.securityweek.com/fortra-patches-critical-vulnerabilities-in-boks/",
+      "summary": "The bugs could lead to authentication bypass, shell command execution, and memory corruption. The post Fortra Patches Critical Vulnerabilities in BoKS appeared first on SecurityWeek .",
+      "published": "Sat, 03 Oct 2026 11:34:00 +0000",
+      "value_score": 41,
+      "value_signals": [
+        "Auth bypass",
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "In Other News: $15K iCloud Spoofing Bugs, AI Policy Experts Phished, Adblocker Spies on AI Chats",
       "link": "https://www.securityweek.com/in-other-news-15k-icloud-spoofing-bugs-ai-policy-experts-phished-adblocker-spies-on-ai-chats/",
       "summary": "Noteworthy stories that might have slipped under the radar: Kiteworks patches over 100 vulnerabilities, Microsoft publishes 2026 Digital Defense Report, AI finds 24 Android app flaws. The post In Other News: $15K iCloud Spoofing Bugs, AI Policy Experts Phished, Adblocker Spies on AI Chats appeared first on SecurityWeek .",
@@ -468,29 +486,6 @@
       "link": "https://www.securityweek.com/ai-agents-aimed-sql-injection-at-us-and-canadian-government-sites/",
       "summary": "The attacks targeted the US Department of Education and Library and Archives Canada, and researchers linked some agents to OpenAI. The post AI Agents Aimed SQL Injection at US and Canadian Government Sites appeared first on SecurityWeek .",
       "published": "Fri, 02 Oct 2026 08:38:46 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Exploited Fortinet FortiMail Zero-Day Calls for Urgent Action",
-      "link": "https://www.securityweek.com/exploited-fortinet-fortimail-zero-day-calls-for-urgent-action/",
-      "summary": "CVE-2026-104286 is a critical-severity path traversal vulnerability that could allow attackers to write arbitrary files to the system. The post Exploited Fortinet FortiMail Zero-Day Calls for Urgent Action appeared first on SecurityWeek .",
-      "published": "Fri, 02 Oct 2026 08:07:33 +0000",
-      "value_score": 92,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day ×2",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Zero Trust Creator Says Model Holds Firm Against AI-Assisted Attacks",
-      "link": "https://www.securityweek.com/zero-trust-creator-says-model-holds-firm-against-ai-assisted-attacks/",
-      "summary": "Fifteen years after coining the framework, John Kindervag insists zero trust still works in the AI era—if you get the implementation right. The post Zero Trust Creator Says Model Holds Firm Against AI-Assisted Attacks appeared first on SecurityWeek .",
-      "published": "Thu, 01 Oct 2026 18:00:00 +0000",
       "value_score": 10,
       "value_signals": []
     },

@@ -341,7 +341,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2737,
+      "count": 2738,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -28778,7 +28778,7 @@
       ]
     },
     "critical infrastructure attacks": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-08-27",
         "2026-08-28",
@@ -29311,7 +29311,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 156,
+      "count": 157,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -30432,7 +30432,7 @@
       ]
     },
     "self hosted servers": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-09-11",
         "2026-09-12",
@@ -32573,7 +32573,7 @@
       ]
     },
     "macos users targeted": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-10-02",
         "2026-10-03",
@@ -32581,7 +32581,7 @@
       ]
     },
     "blame rogue ai": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-10-02",
         "2026-10-03",
@@ -32603,7 +32603,7 @@
       ]
     },
     "atm hacks crackdown": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-10-02",
         "2026-10-03",
@@ -32619,7 +32619,7 @@
       ]
     },
     "ultra sensitive environments": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-10-02",
         "2026-10-03",
@@ -32640,7 +32640,7 @@
       ]
     },
     "exploiting sharepoint vulnerabilities": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-10-02",
         "2026-10-03",
@@ -32670,7 +32670,7 @@
       ]
     },
     "radar kiteworks patches": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-10-03",
         "2026-10-04"
@@ -32684,35 +32684,35 @@
       ]
     },
     "200 000 people": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-10-03",
         "2026-10-04"
       ]
     },
     "intelligence gathering efforts": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-10-03",
         "2026-10-04"
       ]
     },
     "helped china boost": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-10-03",
         "2026-10-04"
       ]
     },
     "access management system": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-10-03",
         "2026-10-04"
       ]
     },
     "attacks targeting organizations": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-10-03",
         "2026-10-04"
@@ -32726,25 +32726,25 @@
       ]
     },
     "think tanks universities": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-04"
       ]
     },
     "microsoft aitm phishing": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-04"
       ]
     },
     "ai policy experts": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-04"
       ]
     },
     "ai policy expert": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-04"
       ]
@@ -32756,24 +32756,13 @@
       ]
     },
     "prominent anthropic employee": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-04"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-14 02:58",
-      "articles": 48,
-      "top_keywords": [
-        "cyber espionage group",
-        "generative threat group",
-        "brevo marketing platform",
-        "twitter whistleblower complaint",
-        "repository commits api"
-      ]
-    },
     {
       "timestamp": "2026-09-14 09:28",
       "articles": 48,
@@ -33854,6 +33843,17 @@
     },
     {
       "timestamp": "2026-10-04 17:56",
+      "articles": 48,
+      "top_keywords": [
+        "macos users targeted",
+        "critical infrastructure attacks",
+        "individuals whose licenses",
+        "200 000 people",
+        "exploiting sharepoint vulnerabilities"
+      ]
+    },
+    {
+      "timestamp": "2026-10-04 20:53",
       "articles": 48,
       "top_keywords": [
         "macos users targeted",

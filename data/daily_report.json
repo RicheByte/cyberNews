@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-10-04 13:37",
+  "last_updated": "2026-10-04 17:56",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "macos users targeted",
-    "individuals whose licenses",
     "critical infrastructure attacks",
+    "individuals whose licenses",
     "200 000 people",
     "exploiting sharepoint vulnerabilities",
     "prominent anthropic employee",
@@ -14,56 +14,56 @@
     "ultra sensitive environments",
     "twitter whistleblower complaint",
     "think tanks universities",
+    "self hosted servers",
     "radar kiteworks patches",
     "microsoft aitm phishing",
     "atm hacks crackdown",
+    "attacks targeting organizations",
+    "access management system",
     "blame rogue ai",
     "ai policy experts",
-    "ai policy expert",
-    "access management system",
-    "selling digital scans",
-    "online alias rey"
+    "ai policy expert"
   ],
   "trending": [
     {
       "keyword": "macos users targeted",
-      "mentions": 10
-    },
-    {
-      "keyword": "individuals whose licenses",
-      "mentions": 155
+      "mentions": 11
     },
     {
       "keyword": "critical infrastructure attacks",
-      "mentions": 13
+      "mentions": 14
+    },
+    {
+      "keyword": "individuals whose licenses",
+      "mentions": 156
     },
     {
       "keyword": "200 000 people",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "exploiting sharepoint vulnerabilities",
-      "mentions": 9
-    },
-    {
-      "keyword": "prominent anthropic employee",
-      "mentions": 1
-    },
-    {
-      "keyword": "intelligence gathering efforts",
-      "mentions": 5
-    },
-    {
-      "keyword": "helped china boost",
-      "mentions": 5
-    },
-    {
-      "keyword": "ultra sensitive environments",
       "mentions": 10
     },
     {
+      "keyword": "prominent anthropic employee",
+      "mentions": 2
+    },
+    {
+      "keyword": "intelligence gathering efforts",
+      "mentions": 6
+    },
+    {
+      "keyword": "helped china boost",
+      "mentions": 6
+    },
+    {
+      "keyword": "ultra sensitive environments",
+      "mentions": 11
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2736
+      "mentions": 2737
     }
   ],
   "articles": [
@@ -403,6 +403,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Trump Names National Intelligence Director Jay Clayton to Lead a New Federal AI Task Force",
+      "link": "https://www.securityweek.com/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force/",
+      "summary": "The announcement comes after Trump hosted top executives of AI companies at the White House last week. The post Trump Names National Intelligence Director Jay Clayton to Lead a New Federal AI Task Force appeared first on SecurityWeek .",
+      "published": "Sun, 04 Oct 2026 14:57:25 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures",
       "link": "https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/",
       "summary": "doxx.net’s new ADN platform prevents agentic misadventure while the agent is operating under the user’s authority. The post doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures appeared first on SecurityWeek .",
@@ -471,15 +480,6 @@
         "High severity ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "AI Agents Aimed SQL Injection at US and Canadian Government Sites",
-      "link": "https://www.securityweek.com/ai-agents-aimed-sql-injection-at-us-and-canadian-government-sites/",
-      "summary": "The attacks targeted the US Department of Education and Library and Archives Canada, and researchers linked some agents to OpenAI. The post AI Agents Aimed SQL Injection at US and Canadian Government Sites appeared first on SecurityWeek .",
-      "published": "Fri, 02 Oct 2026 08:38:46 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

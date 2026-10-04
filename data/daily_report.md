@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-10-04 13:37 UTC  
+> **Last Updated:** 2026-10-04 17:56 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**macos users targeted** • **individuals whose licenses** • **critical infrastructure attacks** • **200 000 people** • **exploiting sharepoint vulnerabilities** • **prominent anthropic employee** • **intelligence gathering efforts** • **helped china boost** • **ultra sensitive environments** • **twitter whistleblower complaint** • **think tanks universities** • **radar kiteworks patches** • **microsoft aitm phishing** • **atm hacks crackdown** • **blame rogue ai** • **ai policy experts** • **ai policy expert** • **access management system** • **selling digital scans** • **online alias rey**
+**macos users targeted** • **critical infrastructure attacks** • **individuals whose licenses** • **200 000 people** • **exploiting sharepoint vulnerabilities** • **prominent anthropic employee** • **intelligence gathering efforts** • **helped china boost** • **ultra sensitive environments** • **twitter whistleblower complaint** • **think tanks universities** • **self hosted servers** • **radar kiteworks patches** • **microsoft aitm phishing** • **atm hacks crackdown** • **attacks targeting organizations** • **access management system** • **blame rogue ai** • **ai policy experts** • **ai policy expert**
 
 ---
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Trump Names National Intelligence Director Jay Clayton to Lead a New Federal AI Task Force](https://www.securityweek.com/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force/)
 - [doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures](https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/)
 - [Fortra Patches Critical Vulnerabilities in BoKS](https://www.securityweek.com/fortra-patches-critical-vulnerabilities-in-boks/)
 - [In Other News: $15K iCloud Spoofing Bugs, AI Policy Experts Phished, Adblocker Spies on AI Chats](https://www.securityweek.com/in-other-news-15k-icloud-spoofing-bugs-ai-policy-experts-phished-adblocker-spies-on-ai-chats/)
@@ -67,7 +68,6 @@
 - [Crypto Scammers Hijack Microsoft’s Official X Account](https://www.securityweek.com/crypto-scammers-hijack-microsofts-official-x-account/)
 - [In Rare Move, Alleged Iranian State Hacker Extradited to US](https://www.securityweek.com/in-rare-move-iranian-hacker-accused-of-working-for-irgc-extradited-to-us/)
 - [Warlock Expands SharePoint Exploitation in Critical Infrastructure Attacks](https://www.securityweek.com/warlock-expands-sharepoint-exploitation-in-critical-infrastructure-attacks/)
-- [AI Agents Aimed SQL Injection at US and Canadian Government Sites](https://www.securityweek.com/ai-agents-aimed-sql-injection-at-us-and-canadian-government-sites/)
 
 ### Threatpost
 

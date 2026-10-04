@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-10-04 00:18 UTC  
+> **Last Updated:** 2026-10-04 07:40 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**ultra sensitive environments** • **macos users targeted** • **critical infrastructure attacks** • **200 000 people** • **exploiting sharepoint vulnerabilities** • **intelligence gathering efforts** • **helped china boost** • **twitter whistleblower complaint** • **reported attacks prior** • **radar kiteworks patches** • **leaked private information** • **blame rogue ai** • **atm hacks crackdown** • **access management system** • **attacks targeting organizations** • **value challenges ahead** • **sprawling phishing campaign** • **spanish speaking countries** • **siphoning images collected** • **selling digital scans**
+**macos users targeted** • **individuals whose licenses** • **critical infrastructure attacks** • **200 000 people** • **exploiting sharepoint vulnerabilities** • **intelligence gathering efforts** • **helped china boost** • **ultra sensitive environments** • **twitter whistleblower complaint** • **think tanks universities** • **radar kiteworks patches** • **microsoft aitm phishing** • **atm hacks crackdown** • **blame rogue ai** • **ai policy experts** • **ai policy expert** • **access management system** • **selling digital scans** • **online alias rey** • **attacks targeting organizations**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members](https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html)
+- [China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing](https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html)
 - [MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics](https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html)
 - [Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware](https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html)
 - [The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations](https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html)
 - [GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers](https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html)
 - [Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign](https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html)
 - [Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes](https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html)
-- [OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling](https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html)
-- [Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report](https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html)
 
 ### BleepingComputer
 

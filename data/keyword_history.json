@@ -341,7 +341,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2734,
+      "count": 2735,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -28778,7 +28778,7 @@
       ]
     },
     "critical infrastructure attacks": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-08-27",
         "2026-08-28",
@@ -29311,7 +29311,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 153,
+      "count": 154,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29342,7 +29342,8 @@
         "2026-09-28",
         "2026-09-29",
         "2026-09-30",
-        "2026-10-01"
+        "2026-10-01",
+        "2026-10-04"
       ]
     },
     "cybersecurity giant announced": {
@@ -32571,7 +32572,7 @@
       ]
     },
     "macos users targeted": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-10-02",
         "2026-10-03",
@@ -32579,7 +32580,7 @@
       ]
     },
     "blame rogue ai": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-10-02",
         "2026-10-03",
@@ -32601,7 +32602,7 @@
       ]
     },
     "atm hacks crackdown": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-10-02",
         "2026-10-03",
@@ -32617,7 +32618,7 @@
       ]
     },
     "ultra sensitive environments": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-10-02",
         "2026-10-03",
@@ -32638,7 +32639,7 @@
       ]
     },
     "exploiting sharepoint vulnerabilities": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-10-02",
         "2026-10-03",
@@ -32668,49 +32669,49 @@
       ]
     },
     "radar kiteworks patches": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-10-03",
         "2026-10-04"
       ]
     },
     "selling digital scans": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-03",
         "2026-10-04"
       ]
     },
     "200 000 people": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-03",
         "2026-10-04"
       ]
     },
     "intelligence gathering efforts": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-03",
         "2026-10-04"
       ]
     },
     "helped china boost": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-03",
         "2026-10-04"
       ]
     },
     "access management system": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-03",
         "2026-10-04"
       ]
     },
     "attacks targeting organizations": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-03",
         "2026-10-04"
@@ -32722,20 +32723,39 @@
         "2026-10-03",
         "2026-10-04"
       ]
+    },
+    "think tanks universities": {
+      "count": 1,
+      "dates": [
+        "2026-10-04"
+      ]
+    },
+    "microsoft aitm phishing": {
+      "count": 1,
+      "dates": [
+        "2026-10-04"
+      ]
+    },
+    "ai policy experts": {
+      "count": 1,
+      "dates": [
+        "2026-10-04"
+      ]
+    },
+    "ai policy expert": {
+      "count": 1,
+      "dates": [
+        "2026-10-04"
+      ]
+    },
+    "online alias rey": {
+      "count": 1,
+      "dates": [
+        "2026-10-04"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-13 14:01",
-      "articles": 48,
-      "top_keywords": [
-        "generative threat group",
-        "shieldcrash windows exploit",
-        "brevo marketing platform",
-        "twitter whistleblower complaint",
-        "repository commits api"
-      ]
-    },
     {
       "timestamp": "2026-09-13 18:28",
       "articles": 48,
@@ -33820,6 +33840,17 @@
       "top_keywords": [
         "ultra sensitive environments",
         "macos users targeted",
+        "critical infrastructure attacks",
+        "200 000 people",
+        "exploiting sharepoint vulnerabilities"
+      ]
+    },
+    {
+      "timestamp": "2026-10-04 07:40",
+      "articles": 48,
+      "top_keywords": [
+        "macos users targeted",
+        "individuals whose licenses",
         "critical infrastructure attacks",
         "200 000 people",
         "exploiting sharepoint vulnerabilities"

@@ -1,72 +1,92 @@
 {
-  "last_updated": "2026-10-04 00:18",
+  "last_updated": "2026-10-04 07:40",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "ultra sensitive environments",
     "macos users targeted",
+    "individuals whose licenses",
     "critical infrastructure attacks",
     "200 000 people",
     "exploiting sharepoint vulnerabilities",
     "intelligence gathering efforts",
     "helped china boost",
+    "ultra sensitive environments",
     "twitter whistleblower complaint",
-    "reported attacks prior",
+    "think tanks universities",
     "radar kiteworks patches",
-    "leaked private information",
-    "blame rogue ai",
+    "microsoft aitm phishing",
     "atm hacks crackdown",
+    "blame rogue ai",
+    "ai policy experts",
+    "ai policy expert",
     "access management system",
-    "attacks targeting organizations",
-    "value challenges ahead",
-    "sprawling phishing campaign",
-    "spanish speaking countries",
-    "siphoning images collected",
-    "selling digital scans"
+    "selling digital scans",
+    "online alias rey",
+    "attacks targeting organizations"
   ],
   "trending": [
     {
-      "keyword": "ultra sensitive environments",
-      "mentions": 8
+      "keyword": "macos users targeted",
+      "mentions": 9
     },
     {
-      "keyword": "macos users targeted",
-      "mentions": 8
+      "keyword": "individuals whose licenses",
+      "mentions": 154
     },
     {
       "keyword": "critical infrastructure attacks",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "200 000 people",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "exploiting sharepoint vulnerabilities",
-      "mentions": 7
-    },
-    {
-      "keyword": "intelligence gathering efforts",
-      "mentions": 3
-    },
-    {
-      "keyword": "helped china boost",
-      "mentions": 3
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2734
-    },
-    {
-      "keyword": "reported attacks prior",
       "mentions": 8
     },
     {
-      "keyword": "radar kiteworks patches",
+      "keyword": "intelligence gathering efforts",
       "mentions": 4
+    },
+    {
+      "keyword": "helped china boost",
+      "mentions": 4
+    },
+    {
+      "keyword": "ultra sensitive environments",
+      "mentions": 9
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2735
+    },
+    {
+      "keyword": "think tanks universities",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members",
+      "link": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
+      "summary": "A suspected member of the ShinyHunters digital extortion group, who goes by the online alias \"Rey,\" has been allegedly detained by authorities in Jordan, Reuters reported, citing three people familiar with the matter. Rey, whose real name is Saif ‌al-Din Khader, is said to have been brought into custody on September 29, 2026, cooperating with the U.S. Federal Bureau of Investigation (FBI) and",
+      "published": "Sun, 04 Oct 2026 12:52:05 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing",
+      "link": "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html",
+      "summary": "A new China-nexus cyber espionage group known as TA419 has been attributed to multiple credential phishing campaigns targeting artificial intelligence (AI) experts working for U.S. think tanks, universities, and legal sector organizations. The campaigns have impersonated prominent economists and AI policymakers, as well as a prominent Anthropic employee, to single out an AI policy expert at a",
+      "published": "Sun, 04 Oct 2026 12:50:32 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics",
@@ -132,26 +152,6 @@
         "CVE mentioned",
         "High severity ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling",
-      "link": "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html",
-      "summary": "OpenAI has parted ways with three members of its safety team after they leaked private information in violation of company policies, The Wall Street Journal reported. \"We have parted ways with three individuals for violating our policies on accessing and handling sensitive company information,\" a spokesperson for the company was quoted as saying. \"Our investigation confirmed that these",
-      "published": "Fri, 02 Oct 2026 17:53:15 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report",
-      "link": "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html",
-      "summary": "The quarterly board meeting is two weeks out. The security team is pulling exports from the identity provider, the cloud posture tool, the vulnerability scanner, the SIEM and the EDR console. Someone is building a spreadsheet to reconcile them. Someone else is turning that spreadsheet into slides. Then a board member asks three questions: How secure is the organization, overall? What is",
-      "published": "Fri, 02 Oct 2026 17:00:00 +0530",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
       ]
     },
     {

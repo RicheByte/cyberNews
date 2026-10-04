@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-10-04 07:40 UTC  
+> **Last Updated:** 2026-10-04 13:37 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**macos users targeted** • **individuals whose licenses** • **critical infrastructure attacks** • **200 000 people** • **exploiting sharepoint vulnerabilities** • **intelligence gathering efforts** • **helped china boost** • **ultra sensitive environments** • **twitter whistleblower complaint** • **think tanks universities** • **radar kiteworks patches** • **microsoft aitm phishing** • **atm hacks crackdown** • **blame rogue ai** • **ai policy experts** • **ai policy expert** • **access management system** • **selling digital scans** • **online alias rey** • **attacks targeting organizations**
+**macos users targeted** • **individuals whose licenses** • **critical infrastructure attacks** • **200 000 people** • **exploiting sharepoint vulnerabilities** • **prominent anthropic employee** • **intelligence gathering efforts** • **helped china boost** • **ultra sensitive environments** • **twitter whistleblower complaint** • **think tanks universities** • **radar kiteworks patches** • **microsoft aitm phishing** • **atm hacks crackdown** • **blame rogue ai** • **ai policy experts** • **ai policy expert** • **access management system** • **selling digital scans** • **online alias rey**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Anthropic asks Claude users to share voice data for AI model training](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/)
 - [Google Gemini could soon get full access to your Mac’s files, apps and the web](https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/)
 - [ShinyHunters hacker reportedly detained in Jordan, aiding FBI](https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/)
 - [Danish university DTU breach exposes data of up to 200,000 people](https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/)
@@ -34,7 +35,6 @@
 - [Warlock ransomware breach SharePoint in water, telecom operator attacks](https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/)
 - [GitLab warns of critical RCE vulnerability in AI Gateway service](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/)
 - [US sanctions Tren de Aragua gang members in ATM hacks crackdown](https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/)
-- [The EDR blind spot: 3 ways browser attacks evade endpoint telemetry](https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/)
 
 ### Krebs on Security
 

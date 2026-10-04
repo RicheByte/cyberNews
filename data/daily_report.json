@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-04 07:40",
+  "last_updated": "2026-10-04 13:37",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -8,6 +8,7 @@
     "critical infrastructure attacks",
     "200 000 people",
     "exploiting sharepoint vulnerabilities",
+    "prominent anthropic employee",
     "intelligence gathering efforts",
     "helped china boost",
     "ultra sensitive environments",
@@ -21,49 +22,48 @@
     "ai policy expert",
     "access management system",
     "selling digital scans",
-    "online alias rey",
-    "attacks targeting organizations"
+    "online alias rey"
   ],
   "trending": [
     {
       "keyword": "macos users targeted",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "individuals whose licenses",
-      "mentions": 154
+      "mentions": 155
     },
     {
       "keyword": "critical infrastructure attacks",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "200 000 people",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "exploiting sharepoint vulnerabilities",
-      "mentions": 8
-    },
-    {
-      "keyword": "intelligence gathering efforts",
-      "mentions": 4
-    },
-    {
-      "keyword": "helped china boost",
-      "mentions": 4
-    },
-    {
-      "keyword": "ultra sensitive environments",
       "mentions": 9
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2735
+      "keyword": "prominent anthropic employee",
+      "mentions": 1
     },
     {
-      "keyword": "think tanks universities",
-      "mentions": 1
+      "keyword": "intelligence gathering efforts",
+      "mentions": 5
+    },
+    {
+      "keyword": "helped china boost",
+      "mentions": 5
+    },
+    {
+      "keyword": "ultra sensitive environments",
+      "mentions": 10
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2736
     }
   ],
   "articles": [
@@ -156,6 +156,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Anthropic asks Claude users to share voice data for AI model training",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/",
+      "summary": "Anthropic has started asking Claude users to voluntarily share their voice conversations to help train and improve its AI models. [...]",
+      "published": "Sun, 04 Oct 2026 06:53:21 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Google Gemini could soon get full access to your Mac’s files, apps and the web",
       "link": "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/",
       "summary": "Google's Gemini could soon access any file on your macOS device, open apps, browse the web, and perform actions without asking for permission every time. [...]",
@@ -227,15 +236,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/",
       "summary": "The U.S. Treasury Department has sanctioned eight members of the Venezuelan gang Tren de Aragua (TdA) for their role in the theft of millions of dollars in ATM jackpotting attacks across the United States. [...]",
       "published": "Fri, 02 Oct 2026 11:20:53 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "The EDR blind spot: 3 ways browser attacks evade endpoint telemetry",
-      "link": "https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/",
-      "summary": "Browser-based attacks can steal sessions, abuse extensions, or manipulate users without creating the endpoint artifacts EDR is designed to detect. NordLayer explains three ways attacks can evade endpoint telemetry and why browser-level controls can help close the gap. [...]",
-      "published": "Fri, 02 Oct 2026 10:00:10 -0400",
       "value_score": 10,
       "value_signals": []
     },

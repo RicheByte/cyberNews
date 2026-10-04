@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-04 07:40 UTC |
+| 🕐 Last Updated | 2026-10-04 13:37 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`macos users targeted` • `individuals whose licenses` • `critical infrastructure attacks` • `200 000 people` • `exploiting sharepoint vulnerabilities` • `intelligence gathering efforts` • `helped china boost` • `ultra sensitive environments` • `twitter whistleblower complaint` • `think tanks universities`
+`macos users targeted` • `individuals whose licenses` • `critical infrastructure attacks` • `200 000 people` • `exploiting sharepoint vulnerabilities` • `prominent anthropic employee` • `intelligence gathering efforts` • `helped china boost` • `ultra sensitive environments` • `twitter whistleblower complaint`
 
 ## 📄 Reports
 

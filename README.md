@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-05 08:08 UTC |
+| 🕐 Last Updated | 2026-10-05 19:04 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`cve 2026 88779` • `macos users targeted` • `individuals whose licenses` • `200 000 people` • `prominent anthropic employee` • `intelligence gathering efforts` • `exploiting sharepoint vulnerabilities` • `ultra sensitive environments` • `twitter whistleblower complaint` • `september 29 2026`
+`250 000 impacted` • `high severity flaw` • `microsoft exchange server` • `session forgery stemming` • `cve 2026 88779` • `individuals whose licenses` • `ai cyber espionage` • `cve 2026 96940` • `twitter whistleblower complaint` • `free community edition`
 
 ## 📄 Reports
 

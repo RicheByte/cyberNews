@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-10-05 08:08 UTC  
+> **Last Updated:** 2026-10-05 19:04 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cve 2026 88779** • **macos users targeted** • **individuals whose licenses** • **200 000 people** • **prominent anthropic employee** • **intelligence gathering efforts** • **exploiting sharepoint vulnerabilities** • **ultra sensitive environments** • **twitter whistleblower complaint** • **september 29 2026** • **self hosted servers** • **radar kiteworks patches** • **microsoft aitm phishing** • **helped china boost** • **access management system** • **blame rogue ai** • **ai policy experts** • **ai policy expert** • **selling digital scans** • **online alias rey**
+**250 000 impacted** • **high severity flaw** • **microsoft exchange server** • **session forgery stemming** • **cve 2026 88779** • **individuals whose licenses** • **ai cyber espionage** • **cve 2026 96940** • **twitter whistleblower complaint** • **free community edition** • **security experts warn** • **september 29 2026** • **blame rogue ai** • **online alias rey** • **users mailboxes microsoft** • **you're generating images** • **windows operating systems** • **value challenges ahead** • **ultra sensitive environments** • **tighten controls around**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes](https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html)
+- [⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests](https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html)
+- [The Credential Layer Is Expanding Faster Than Security Teams Can See It](https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html)
+- [Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2](https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html)
+- [Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access](https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html)
+- [Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE](https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html)
 - [New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline](https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html)
 - [ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members](https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html)
-- [China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing](https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html)
-- [MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics](https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html)
-- [Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware](https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html)
-- [The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations](https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html)
-- [GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers](https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html)
-- [Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign](https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html)
 
 ### BleepingComputer
 
-- [Citrix patches NetScaler SAML zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/)
-- [Anthropic asks Claude users to share voice data for AI model training](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/)
-- [Google Gemini could soon get full access to your Mac’s files, apps and the web](https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/)
-- [ShinyHunters hacker reportedly detained in Jordan, aiding FBI](https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/)
-- [Danish university DTU breach exposes data of up to 200,000 people](https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/)
-- [Frontline Education breach exposes school district employee data](https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/)
-- [Warlock ransomware breach SharePoint in water, telecom operator attacks](https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/)
-- [GitLab warns of critical RCE vulnerability in AI Gateway service](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/)
+- [IQVIA fined $7.8 million for failing to properly anonymize health data](https://www.bleepingcomputer.com/news/security/iqvia-fined-78-million-for-failing-to-properly-anonymize-health-data/)
+- [Denmark population registry data breach affects 8.8 million people](https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/)
+- [New Dell System Update flaw lets hackers gain root privileges](https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/)
+- [South Korea probes bank breaches amid suspected AI-powered attacks](https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/)
+- [tenfold CE: Our free Identity Governance tool just got 2 new features](https://www.bleepingcomputer.com/news/security/tenfold-ce-our-free-identity-governance-tool-just-got-2-new-features/)
+- [Alleged dev of Ploutus ATM malware appears in US court after arrest](https://www.bleepingcomputer.com/news/security/suspected-dev-of-ploutus-atm-malware-appears-in-us-court-after-arrest/)
+- [OpenAI will show visual ads in ChatGPT while you generate images](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/)
+- [Microsoft: Windows KB5124010 update crashes some games and apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-kb5124010-update-crashes-some-games-and-apps/)
 
 ### Krebs on Security
 
@@ -49,25 +49,25 @@
 
 ### Dark Reading
 
+- [Chinese Hackers Impersonate US Officials for AI Cyber Espionage](https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-impersonates-us-officials-cyber-espionage)
+- [Need for Speed: AI-Driven Attacks Are Changing Security Strategies](https://www.darkreading.com/cyber-risk/ai-attacks-security-strategies)
 - [RemoteThreat Bets Security Teams Need to Test What Happens After Defenses Fail](https://www.darkreading.com/cybersecurity-operations/remotethreat-bets-security-teams-need-to-test-what-happens-after-defenses-fail)
 - [Kiteworks &amp; Citrix Incidents Show Challenges of Zero-Day Response](https://www.darkreading.com/cybersecurity-operations/kiteworks-citrix-incidents-challenges-zero-day-response)
 - [SWIFT Banking &amp; Government Middleware Enables RCE](https://www.darkreading.com/cybersecurity-operations/swift-banking-govt-middleware-rce)
 - [Is Your Organization Ready for 2027's AI Accountability Era?](https://www.darkreading.com/cybersecurity-operations/is-your-organization-ready-for-2027-s-ai-accountability-era-)
 - [Is It Fair to Blame 'Rogue' AI for Security Failures?](https://www.darkreading.com/insider-threats/blame-rogue-ai-security-failures)
 - [Vulnerability Backlogs Are an Ownership Problem](https://www.darkreading.com/cybersecurity-operations/vulnerability-backlogs-ownership-problem)
-- [Malicious Linux Implants Mimic Asian Mail Security Products](https://www.darkreading.com/threat-intelligence/malicious-linux-implants-mimic-asian-mail-security)
-- [Alleged KillSec Ransomware Mastermind a 16-Year-Old](https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-mastermind-16-year-old)
 
 ### Security Week
 
+- [Google Narrows Open Source Bug Bounty Amid Wave of Invalid Automated Reports](https://www.securityweek.com/google-narrows-open-source-bug-bounty-amid-wave-of-invalid-automated-reports/)
+- [Linux Backdoor Abuses STUN Protocol, Exploits Dozens of Flaws](https://www.securityweek.com/linux-backdoor-abuses-stun-protocol-exploits-dozens-of-flaws/)
+- [250,000 Impacted by Data Breaches at New Jersey, Texas Healthcare Firms](https://www.securityweek.com/250000-impacted-by-data-breaches-at-new-jersey-texas-healthcare-firms/)
+- [Exploitation Hits Rejetto HFS Vulnerability Discovered by AI](https://www.securityweek.com/exploitation-hits-rejetto-hfs-vulnerability-discovered-by-ai/)
+- [Senate Passes Bipartisan Bill to Strengthen Healthcare Cybersecurity](https://www.securityweek.com/senate-passes-bipartisan-bill-to-strengthen-healthcare-cybersecurity/)
 - [Alleged ShinyHunters Leader Arrested in Jordan](https://www.securityweek.com/alleged-shinyhunters-leader-arrested-in-jordan/)
 - [Exploitation of Citrix NetScaler Zero-Day Hits Appliances Patched Days Earlier](https://www.securityweek.com/exploitation-of-citrix-netscaler-zero-day-hits-appliances-patched-days-earlier/)
 - [Trump Names National Intelligence Director Jay Clayton to Lead a New Federal AI Task Force](https://www.securityweek.com/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force/)
-- [doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures](https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/)
-- [Fortra Patches Critical Vulnerabilities in BoKS](https://www.securityweek.com/fortra-patches-critical-vulnerabilities-in-boks/)
-- [In Other News: $15K iCloud Spoofing Bugs, AI Policy Experts Phished, Adblocker Spies on AI Chats](https://www.securityweek.com/in-other-news-15k-icloud-spoofing-bugs-ai-policy-experts-phished-adblocker-spies-on-ai-chats/)
-- [macOS Users Targeted by Fake Zoom Installer Carrying CloudSyncD Backdoor](https://www.securityweek.com/macos-users-targeted-by-fake-zoom-installer-carrying-cloudsyncd-backdoor/)
-- [Crypto Scammers Hijack Microsoft’s Official X Account](https://www.securityweek.com/crypto-scammers-hijack-microsofts-official-x-account/)
 
 ### Threatpost
 

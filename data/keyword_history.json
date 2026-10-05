@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 792,
+      "count": 793,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -337,11 +337,12 @@
         "2026-09-29",
         "2026-09-30",
         "2026-10-01",
-        "2026-10-02"
+        "2026-10-02",
+        "2026-10-05"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2740,
+      "count": 2741,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -20440,7 +20441,7 @@
       ]
     },
     "security experts warn": {
-      "count": 71,
+      "count": 72,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -20464,7 +20465,8 @@
         "2026-09-29",
         "2026-09-30",
         "2026-10-01",
-        "2026-10-02"
+        "2026-10-02",
+        "2026-10-05"
       ]
     },
     "targets 217 banking": {
@@ -21671,7 +21673,7 @@
       ]
     },
     "high severity flaw": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-06-26",
         "2026-06-27",
@@ -21679,7 +21681,8 @@
         "2026-06-29",
         "2026-09-19",
         "2026-09-20",
-        "2026-09-21"
+        "2026-09-21",
+        "2026-10-05"
       ]
     },
     "creating openai tenants": {
@@ -29313,7 +29316,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 159,
+      "count": 160,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -32586,7 +32589,7 @@
       ]
     },
     "blame rogue ai": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-10-02",
         "2026-10-03",
@@ -32625,7 +32628,7 @@
       ]
     },
     "ultra sensitive environments": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-10-02",
         "2026-10-03",
@@ -32656,11 +32659,12 @@
       ]
     },
     "value challenges ahead": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-10-02",
         "2026-10-03",
-        "2026-10-04"
+        "2026-10-04",
+        "2026-10-05"
       ]
     },
     "roughly 756 kb": {
@@ -32768,7 +32772,7 @@
       ]
     },
     "online alias rey": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-04",
         "2026-10-05"
@@ -32782,12 +32786,66 @@
       ]
     },
     "cve 2026 88779": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-05"
       ]
     },
     "september 29 2026": {
+      "count": 2,
+      "dates": [
+        "2026-10-05"
+      ]
+    },
+    "250 000 impacted": {
+      "count": 1,
+      "dates": [
+        "2026-10-05"
+      ]
+    },
+    "microsoft exchange server": {
+      "count": 1,
+      "dates": [
+        "2026-10-05"
+      ]
+    },
+    "session forgery stemming": {
+      "count": 1,
+      "dates": [
+        "2026-10-05"
+      ]
+    },
+    "ai cyber espionage": {
+      "count": 1,
+      "dates": [
+        "2026-10-05"
+      ]
+    },
+    "cve 2026 96940": {
+      "count": 1,
+      "dates": [
+        "2026-10-05"
+      ]
+    },
+    "free community edition": {
+      "count": 1,
+      "dates": [
+        "2026-10-05"
+      ]
+    },
+    "users mailboxes microsoft": {
+      "count": 1,
+      "dates": [
+        "2026-10-05"
+      ]
+    },
+    "you're generating images": {
+      "count": 1,
+      "dates": [
+        "2026-10-05"
+      ]
+    },
+    "tighten controls around": {
       "count": 1,
       "dates": [
         "2026-10-05"
@@ -32795,17 +32853,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-14 21:19",
-      "articles": 48,
-      "top_keywords": [
-        "beijing hits back",
-        "anthropic ceo time",
-        "telus warns customers",
-        "steal cloud credentials",
-        "national security risk"
-      ]
-    },
     {
       "timestamp": "2026-09-15 00:10",
       "articles": 48,
@@ -33893,6 +33940,17 @@
         "individuals whose licenses",
         "200 000 people",
         "prominent anthropic employee"
+      ]
+    },
+    {
+      "timestamp": "2026-10-05 19:04",
+      "articles": 48,
+      "top_keywords": [
+        "250 000 impacted",
+        "high severity flaw",
+        "microsoft exchange server",
+        "session forgery stemming",
+        "cve 2026 88779"
       ]
     }
   ]

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-10-04 20:53 UTC  
+> **Last Updated:** 2026-10-05 00:22 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**macos users targeted** • **critical infrastructure attacks** • **individuals whose licenses** • **200 000 people** • **exploiting sharepoint vulnerabilities** • **prominent anthropic employee** • **intelligence gathering efforts** • **helped china boost** • **ultra sensitive environments** • **twitter whistleblower complaint** • **think tanks universities** • **self hosted servers** • **radar kiteworks patches** • **microsoft aitm phishing** • **atm hacks crackdown** • **attacks targeting organizations** • **access management system** • **blame rogue ai** • **ai policy experts** • **ai policy expert**
+**macos users targeted** • **individuals whose licenses** • **200 000 people** • **critical infrastructure attacks** • **exploiting sharepoint vulnerabilities** • **prominent anthropic employee** • **intelligence gathering efforts** • **helped china boost** • **cve 2026 88779** • **ultra sensitive environments** • **twitter whistleblower complaint** • **think tanks universities** • **self hosted servers** • **radar kiteworks patches** • **microsoft aitm phishing** • **access management system** • **blame rogue ai** • **ai policy experts** • **ai policy expert** • **selling digital scans**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Citrix patches NetScaler SAML zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/)
 - [Anthropic asks Claude users to share voice data for AI model training](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/)
 - [Google Gemini could soon get full access to your Mac’s files, apps and the web](https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/)
 - [ShinyHunters hacker reportedly detained in Jordan, aiding FBI](https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/)
@@ -34,7 +35,6 @@
 - [Frontline Education breach exposes school district employee data](https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/)
 - [Warlock ransomware breach SharePoint in water, telecom operator attacks](https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/)
 - [GitLab warns of critical RCE vulnerability in AI Gateway service](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/)
-- [US sanctions Tren de Aragua gang members in ATM hacks crackdown](https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/)
 
 ### Krebs on Security
 

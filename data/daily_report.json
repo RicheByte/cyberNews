@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-10-04 20:53",
+  "last_updated": "2026-10-05 00:22",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "macos users targeted",
-    "critical infrastructure attacks",
     "individuals whose licenses",
     "200 000 people",
+    "critical infrastructure attacks",
     "exploiting sharepoint vulnerabilities",
     "prominent anthropic employee",
     "intelligence gathering efforts",
     "helped china boost",
+    "cve 2026 88779",
     "ultra sensitive environments",
     "twitter whistleblower complaint",
     "think tanks universities",
     "self hosted servers",
     "radar kiteworks patches",
     "microsoft aitm phishing",
-    "atm hacks crackdown",
-    "attacks targeting organizations",
     "access management system",
     "blame rogue ai",
     "ai policy experts",
-    "ai policy expert"
+    "ai policy expert",
+    "selling digital scans"
   ],
   "trending": [
     {
       "keyword": "macos users targeted",
-      "mentions": 12
-    },
-    {
-      "keyword": "critical infrastructure attacks",
-      "mentions": 15
+      "mentions": 13
     },
     {
       "keyword": "individuals whose licenses",
-      "mentions": 157
+      "mentions": 158
     },
     {
       "keyword": "200 000 people",
-      "mentions": 7
+      "mentions": 8
+    },
+    {
+      "keyword": "critical infrastructure attacks",
+      "mentions": 16
     },
     {
       "keyword": "exploiting sharepoint vulnerabilities",
-      "mentions": 11
-    },
-    {
-      "keyword": "prominent anthropic employee",
-      "mentions": 3
-    },
-    {
-      "keyword": "intelligence gathering efforts",
-      "mentions": 7
-    },
-    {
-      "keyword": "helped china boost",
-      "mentions": 7
-    },
-    {
-      "keyword": "ultra sensitive environments",
       "mentions": 12
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2738
+      "keyword": "prominent anthropic employee",
+      "mentions": 4
+    },
+    {
+      "keyword": "intelligence gathering efforts",
+      "mentions": 8
+    },
+    {
+      "keyword": "helped china boost",
+      "mentions": 8
+    },
+    {
+      "keyword": "cve 2026 88779",
+      "mentions": 1
+    },
+    {
+      "keyword": "ultra sensitive environments",
+      "mentions": 13
     }
   ],
   "articles": [
@@ -156,6 +156,20 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
+      "summary": "Citrix has released emergency updates for a new NetScaler denial-of-service vulnerability tracked as CVE-2026-88779 that has been exploited in zero-day attacks, with researchers investigating whether it can also be exploited for remote code execution. [...]",
+      "published": "Sun, 04 Oct 2026 17:58:01 -0400",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day ×2",
+        "RCE",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Anthropic asks Claude users to share voice data for AI model training",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/",
       "summary": "Anthropic has started asking Claude users to voluntarily share their voice conversations to help train and improve its AI models. [...]",
@@ -229,15 +243,6 @@
         "Patch/update",
         "High severity ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "US sanctions Tren de Aragua gang members in ATM hacks crackdown",
-      "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/",
-      "summary": "The U.S. Treasury Department has sanctioned eight members of the Venezuelan gang Tren de Aragua (TdA) for their role in the theft of millions of dollars in ATM jackpotting attacks across the United States. [...]",
-      "published": "Fri, 02 Oct 2026 11:20:53 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

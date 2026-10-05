@@ -341,7 +341,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2739,
+      "count": 2740,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -29313,7 +29313,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 158,
+      "count": 159,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -30435,7 +30435,7 @@
       ]
     },
     "self hosted servers": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-09-11",
         "2026-09-12",
@@ -32577,7 +32577,7 @@
       ]
     },
     "macos users targeted": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-10-02",
         "2026-10-03",
@@ -32586,7 +32586,7 @@
       ]
     },
     "blame rogue ai": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-10-02",
         "2026-10-03",
@@ -32625,7 +32625,7 @@
       ]
     },
     "ultra sensitive environments": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-10-02",
         "2026-10-03",
@@ -32647,7 +32647,7 @@
       ]
     },
     "exploiting sharepoint vulnerabilities": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-10-02",
         "2026-10-03",
@@ -32678,7 +32678,7 @@
       ]
     },
     "radar kiteworks patches": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-10-03",
         "2026-10-04",
@@ -32686,7 +32686,7 @@
       ]
     },
     "selling digital scans": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-10-03",
         "2026-10-04",
@@ -32694,7 +32694,7 @@
       ]
     },
     "200 000 people": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-10-03",
         "2026-10-04",
@@ -32702,7 +32702,7 @@
       ]
     },
     "intelligence gathering efforts": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-10-03",
         "2026-10-04",
@@ -32710,7 +32710,7 @@
       ]
     },
     "helped china boost": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-10-03",
         "2026-10-04",
@@ -32718,7 +32718,7 @@
       ]
     },
     "access management system": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-10-03",
         "2026-10-04",
@@ -32747,40 +32747,47 @@
       ]
     },
     "microsoft aitm phishing": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-10-04",
         "2026-10-05"
       ]
     },
     "ai policy experts": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-10-04",
         "2026-10-05"
       ]
     },
     "ai policy expert": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-10-04",
         "2026-10-05"
       ]
     },
     "online alias rey": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-10-04"
+        "2026-10-04",
+        "2026-10-05"
       ]
     },
     "prominent anthropic employee": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-10-04",
         "2026-10-05"
       ]
     },
     "cve 2026 88779": {
+      "count": 2,
+      "dates": [
+        "2026-10-05"
+      ]
+    },
+    "september 29 2026": {
       "count": 1,
       "dates": [
         "2026-10-05"
@@ -32788,17 +32795,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-14 16:06",
-      "articles": 48,
-      "top_keywords": [
-        "beijing hits back",
-        "longest running spree",
-        "twitter whistleblower complaint",
-        "telus warns customers",
-        "repository commits api"
-      ]
-    },
     {
       "timestamp": "2026-09-14 21:19",
       "articles": 48,
@@ -33886,6 +33882,17 @@
         "200 000 people",
         "critical infrastructure attacks",
         "exploiting sharepoint vulnerabilities"
+      ]
+    },
+    {
+      "timestamp": "2026-10-05 08:08",
+      "articles": 48,
+      "top_keywords": [
+        "cve 2026 88779",
+        "macos users targeted",
+        "individuals whose licenses",
+        "200 000 people",
+        "prominent anthropic employee"
       ]
     }
   ]

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-05 00:22 UTC |
+| 🕐 Last Updated | 2026-10-05 08:08 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`macos users targeted` • `individuals whose licenses` • `200 000 people` • `critical infrastructure attacks` • `exploiting sharepoint vulnerabilities` • `prominent anthropic employee` • `intelligence gathering efforts` • `helped china boost` • `cve 2026 88779` • `ultra sensitive environments`
+`cve 2026 88779` • `macos users targeted` • `individuals whose licenses` • `200 000 people` • `prominent anthropic employee` • `intelligence gathering efforts` • `exploiting sharepoint vulnerabilities` • `ultra sensitive environments` • `twitter whistleblower complaint` • `september 29 2026`
 
 ## 📄 Reports
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-10-05 00:22 UTC  
+> **Last Updated:** 2026-10-05 08:08 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**macos users targeted** • **individuals whose licenses** • **200 000 people** • **critical infrastructure attacks** • **exploiting sharepoint vulnerabilities** • **prominent anthropic employee** • **intelligence gathering efforts** • **helped china boost** • **cve 2026 88779** • **ultra sensitive environments** • **twitter whistleblower complaint** • **think tanks universities** • **self hosted servers** • **radar kiteworks patches** • **microsoft aitm phishing** • **access management system** • **blame rogue ai** • **ai policy experts** • **ai policy expert** • **selling digital scans**
+**cve 2026 88779** • **macos users targeted** • **individuals whose licenses** • **200 000 people** • **prominent anthropic employee** • **intelligence gathering efforts** • **exploiting sharepoint vulnerabilities** • **ultra sensitive environments** • **twitter whistleblower complaint** • **september 29 2026** • **self hosted servers** • **radar kiteworks patches** • **microsoft aitm phishing** • **helped china boost** • **access management system** • **blame rogue ai** • **ai policy experts** • **ai policy expert** • **selling digital scans** • **online alias rey**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline](https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html)
 - [ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members](https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html)
 - [China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing](https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html)
 - [MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics](https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html)
@@ -23,7 +24,6 @@
 - [The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations](https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html)
 - [GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers](https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html)
 - [Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign](https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html)
-- [Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes](https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html)
 
 ### BleepingComputer
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Alleged ShinyHunters Leader Arrested in Jordan](https://www.securityweek.com/alleged-shinyhunters-leader-arrested-in-jordan/)
+- [Exploitation of Citrix NetScaler Zero-Day Hits Appliances Patched Days Earlier](https://www.securityweek.com/exploitation-of-citrix-netscaler-zero-day-hits-appliances-patched-days-earlier/)
 - [Trump Names National Intelligence Director Jay Clayton to Lead a New Federal AI Task Force](https://www.securityweek.com/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force/)
 - [doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures](https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/)
 - [Fortra Patches Critical Vulnerabilities in BoKS](https://www.securityweek.com/fortra-patches-critical-vulnerabilities-in-boks/)
 - [In Other News: $15K iCloud Spoofing Bugs, AI Policy Experts Phished, Adblocker Spies on AI Chats](https://www.securityweek.com/in-other-news-15k-icloud-spoofing-bugs-ai-policy-experts-phished-adblocker-spies-on-ai-chats/)
 - [macOS Users Targeted by Fake Zoom Installer Carrying CloudSyncD Backdoor](https://www.securityweek.com/macos-users-targeted-by-fake-zoom-installer-carrying-cloudsyncd-backdoor/)
 - [Crypto Scammers Hijack Microsoft’s Official X Account](https://www.securityweek.com/crypto-scammers-hijack-microsofts-official-x-account/)
-- [In Rare Move, Alleged Iranian State Hacker Extradited to US](https://www.securityweek.com/in-rare-move-iranian-hacker-accused-of-working-for-irgc-extradited-to-us/)
-- [Warlock Expands SharePoint Exploitation in Critical Infrastructure Attacks](https://www.securityweek.com/warlock-expands-sharepoint-exploitation-in-critical-infrastructure-attacks/)
 
 ### Threatpost
 

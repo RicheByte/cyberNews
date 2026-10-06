@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-10-05 19:04 UTC  
+> **Last Updated:** 2026-10-06 01:04 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**250 000 impacted** • **high severity flaw** • **microsoft exchange server** • **session forgery stemming** • **cve 2026 88779** • **individuals whose licenses** • **ai cyber espionage** • **cve 2026 96940** • **twitter whistleblower complaint** • **free community edition** • **security experts warn** • **september 29 2026** • **blame rogue ai** • **online alias rey** • **users mailboxes microsoft** • **you're generating images** • **windows operating systems** • **value challenges ahead** • **ultra sensitive environments** • **tighten controls around**
+**high severity flaw** • **250 000 impacted** • **microsoft exchange server** • **session forgery stemming** • **individuals whose licenses** • **cve 2026 88779** • **ai cyber espionage** • **twitter whistleblower complaint** • **free community edition** • **cve 2026 96940** • **cve 2026 61500** • **security experts warn** • **september 29 2026** • **blame rogue ai** • **users mailboxes microsoft** • **online alias rey** • **windows operating systems** • **value challenges ahead** • **ultra sensitive environments** • **tighten controls around**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/)
+- [Rejetto HFS servers now actively scanned for critical RCE flaw](https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/)
 - [IQVIA fined $7.8 million for failing to properly anonymize health data](https://www.bleepingcomputer.com/news/security/iqvia-fined-78-million-for-failing-to-properly-anonymize-health-data/)
 - [Denmark population registry data breach affects 8.8 million people](https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/)
 - [New Dell System Update flaw lets hackers gain root privileges](https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/)
 - [South Korea probes bank breaches amid suspected AI-powered attacks](https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/)
 - [tenfold CE: Our free Identity Governance tool just got 2 new features](https://www.bleepingcomputer.com/news/security/tenfold-ce-our-free-identity-governance-tool-just-got-2-new-features/)
 - [Alleged dev of Ploutus ATM malware appears in US court after arrest](https://www.bleepingcomputer.com/news/security/suspected-dev-of-ploutus-atm-malware-appears-in-us-court-after-arrest/)
-- [OpenAI will show visual ads in ChatGPT while you generate images](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/)
-- [Microsoft: Windows KB5124010 update crashes some games and apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-kb5124010-update-crashes-some-games-and-apps/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [ClingSTUN Turns Vulnerable IoT Devices Into Proxy Nodes](https://www.darkreading.com/iot/clingstun-vulnerable-iot-devices-proxy-nodes)
 - [Chinese Hackers Impersonate US Officials for AI Cyber Espionage](https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-impersonates-us-officials-cyber-espionage)
 - [Need for Speed: AI-Driven Attacks Are Changing Security Strategies](https://www.darkreading.com/cyber-risk/ai-attacks-security-strategies)
 - [RemoteThreat Bets Security Teams Need to Test What Happens After Defenses Fail](https://www.darkreading.com/cybersecurity-operations/remotethreat-bets-security-teams-need-to-test-what-happens-after-defenses-fail)
@@ -56,7 +57,6 @@
 - [SWIFT Banking &amp; Government Middleware Enables RCE](https://www.darkreading.com/cybersecurity-operations/swift-banking-govt-middleware-rce)
 - [Is Your Organization Ready for 2027's AI Accountability Era?](https://www.darkreading.com/cybersecurity-operations/is-your-organization-ready-for-2027-s-ai-accountability-era-)
 - [Is It Fair to Blame 'Rogue' AI for Security Failures?](https://www.darkreading.com/insider-threats/blame-rogue-ai-security-failures)
-- [Vulnerability Backlogs Are an Ownership Problem](https://www.darkreading.com/cybersecurity-operations/vulnerability-backlogs-ownership-problem)
 
 ### Security Week
 

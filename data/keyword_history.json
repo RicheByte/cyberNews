@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 795,
+      "count": 796,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -343,7 +343,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2743,
+      "count": 2744,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2090,7 +2090,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 636,
+      "count": 637,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -20445,7 +20445,7 @@
       ]
     },
     "security experts warn": {
-      "count": 74,
+      "count": 75,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -29322,7 +29322,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 162,
+      "count": 163,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29443,9 +29443,10 @@
       ]
     },
     "already semi public": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-09-02"
+        "2026-09-02",
+        "2026-10-06"
       ]
     },
     "provide administrative access": {
@@ -29970,7 +29971,7 @@
       ]
     },
     "siphoning images collected": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-09-08",
         "2026-09-09",
@@ -30501,12 +30502,13 @@
       ]
     },
     "large advertising platforms": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-09-11",
         "2026-09-12",
         "2026-09-13",
-        "2026-09-14"
+        "2026-09-14",
+        "2026-10-06"
       ]
     },
     "vice versa thanks": {
@@ -32597,7 +32599,7 @@
       ]
     },
     "blame rogue ai": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-10-02",
         "2026-10-03",
@@ -32637,7 +32639,7 @@
       ]
     },
     "ultra sensitive environments": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-10-02",
         "2026-10-03",
@@ -32669,7 +32671,7 @@
       ]
     },
     "value challenges ahead": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-10-02",
         "2026-10-03",
@@ -32833,7 +32835,7 @@
       ]
     },
     "ai cyber espionage": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-05",
         "2026-10-06"
@@ -32874,7 +32876,7 @@
       ]
     },
     "cve 2026 61500": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-06"
       ]
@@ -32892,6 +32894,42 @@
       ]
     },
     "rejetto hfs servers": {
+      "count": 2,
+      "dates": [
+        "2026-10-06"
+      ]
+    },
+    "supply chain compromises": {
+      "count": 1,
+      "dates": [
+        "2026-10-06"
+      ]
+    },
+    "live conversation companies": {
+      "count": 1,
+      "dates": [
+        "2026-10-06"
+      ]
+    },
+    "little evidence shows": {
+      "count": 1,
+      "dates": [
+        "2026-10-06"
+      ]
+    },
+    "apache openoffice run": {
+      "count": 1,
+      "dates": [
+        "2026-10-06"
+      ]
+    },
+    "industrial company headquartered": {
+      "count": 1,
+      "dates": [
+        "2026-10-06"
+      ]
+    },
+    "read specific files": {
       "count": 1,
       "dates": [
         "2026-10-06"
@@ -32899,17 +32937,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-15 13:03",
-      "articles": 48,
-      "top_keywords": [
-        "240 000 hit",
-        "beijing hits back",
-        "anthropic ceo time",
-        "extract cloud credentials",
-        "microsoft ai code"
-      ]
-    },
     {
       "timestamp": "2026-09-15 17:52",
       "articles": 48,
@@ -33997,6 +34024,17 @@
         "cve 2026 96940",
         "cve 2026 61500",
         "ai cyber espionage"
+      ]
+    },
+    {
+      "timestamp": "2026-10-06 16:26",
+      "articles": 48,
+      "top_keywords": [
+        "cve 2026 61500",
+        "windows operating systems",
+        "supply chain compromises",
+        "live conversation companies",
+        "blame rogue ai"
       ]
     }
   ]

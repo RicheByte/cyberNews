@@ -1,72 +1,114 @@
 {
-  "last_updated": "2026-10-06 08:27",
+  "last_updated": "2026-10-06 16:26",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "microsoft exchange server",
-    "250 000 impacted",
-    "cve 2026 96940",
     "cve 2026 61500",
-    "ai cyber espionage",
     "windows operating systems",
-    "twitter whistleblower complaint",
-    "individuals whose licenses",
-    "free community edition",
-    "cvss scoring system",
-    "high severity flaw",
-    "security experts warn",
+    "supply chain compromises",
+    "live conversation companies",
     "blame rogue ai",
-    "weekly recap netscaler",
+    "ai cyber espionage",
+    "twitter whistleblower complaint",
+    "little evidence shows",
+    "large advertising platforms",
+    "individuals whose licenses",
+    "apache openoffice run",
+    "already semi public",
+    "security experts warn",
+    "industrial company headquartered",
     "value challenges ahead",
     "ultra sensitive environments",
-    "strengthen healthcare cybersecurity",
     "sprawling phishing campaign",
     "siphoning images collected",
-    "rejetto hfs servers"
+    "rejetto hfs servers",
+    "read specific files"
   ],
   "trending": [
     {
-      "keyword": "microsoft exchange server",
-      "mentions": 3
-    },
-    {
-      "keyword": "250 000 impacted",
-      "mentions": 3
-    },
-    {
-      "keyword": "cve 2026 96940",
-      "mentions": 3
-    },
-    {
       "keyword": "cve 2026 61500",
-      "mentions": 2
-    },
-    {
-      "keyword": "ai cyber espionage",
       "mentions": 3
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 795
+      "mentions": 796
+    },
+    {
+      "keyword": "supply chain compromises",
+      "mentions": 1
+    },
+    {
+      "keyword": "live conversation companies",
+      "mentions": 1
+    },
+    {
+      "keyword": "blame rogue ai",
+      "mentions": 18
+    },
+    {
+      "keyword": "ai cyber espionage",
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2743
+      "mentions": 2744
+    },
+    {
+      "keyword": "little evidence shows",
+      "mentions": 1
+    },
+    {
+      "keyword": "large advertising platforms",
+      "mentions": 16
     },
     {
       "keyword": "individuals whose licenses",
-      "mentions": 162
-    },
-    {
-      "keyword": "free community edition",
-      "mentions": 3
-    },
-    {
-      "keyword": "cvss scoring system",
-      "mentions": 123
+      "mentions": 163
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings",
+      "link": "https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html",
+      "summary": "A malicious spreadsheet can make LibreOffice and Apache OpenOffice run an attacker's code as soon as the file is opened, security researchers have shown. There is no warning first, of the kind either program shows before it runs a macro. The attack works only when the program's Java support is enabled. So far, it has only been shown as a proof of concept, and there are no reports of its use in",
+      "published": "Tue, 06 Oct 2026 17:27:00 +0530",
+      "value_score": 20,
+      "value_signals": [
+        "PoC available"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies",
+      "link": "https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html",
+      "summary": "The Wikimedia Foundation, which hosts Wikipedia, has confirmed that it has discovered activity by rogue OpenAI agents on its platforms, including unsuccessful efforts to compromise Etherpad, a public note-taking tool, and edit Wikipedia pages. \"The unauthorized bot activities included edits to our wikis, some unsuccessful attempts to exploit a public note-taking tool we host, and heavy traffic,",
+      "published": "Tue, 06 Oct 2026 16:56:25 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers",
+      "link": "https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html",
+      "summary": "In 2024, MCP (Model Context Protocol) set out to become the USB-C of AI: one standard for connecting models, agents, and IDEs to tools and data. The protocol delivered. Thousands of developers built servers, and enterprises plugged them into agent workflows. The ecosystem around it fell short. Earlier this year, our team at OX Security, traced critical vulnerabilities in Anthropic's MCP",
+      "published": "Tue, 06 Oct 2026 16:32:30 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports",
+      "link": "https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html",
+      "summary": "Google has stopped accepting product vulnerability reports through its bug bounty program for its open-source software. The change, in effect since October 1, means researchers can no longer submit security flaws in the code of projects such as Go, Angular, and Protocol Buffers there for a reward. Reports about supply chain compromises are still accepted, and reports filed before October 1 are",
+      "published": "Tue, 06 Oct 2026 14:51:47 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products",
@@ -110,50 +152,43 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
-      "link": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
-      "summary": "Microsoft has released out-of-band security updates to address a high-severity flaw in Microsoft Exchange Server that could allow an attacker to escalate privileges under certain conditions. The vulnerability, tracked as CVE-2026-96940, is rated 8.8 on the CVSS scoring system. \"Weak authorization in Microsoft Exchange Server allows an authenticated attacker to elevate privileges over a",
-      "published": "Mon, 05 Oct 2026 21:51:52 +0530",
-      "value_score": 28,
-      "value_signals": [
-        "CVE mentioned"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests",
-      "link": "https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html",
-      "summary": "A blank field. A public repo. One reply to an email. A box left exposed. None of this sounds dramatic, which is partly the problem. This week’s threats keep finding leverage in small things that were easy to overlook. There are actively exploited bugs in the mix, cleaner intrusion paths, smarter automation, and a long patch list waiting behind them. Some attacks are getting more capable. Others",
-      "published": "Mon, 05 Oct 2026 19:50:43 +0530",
-      "value_score": 67,
-      "value_signals": [
-        "Active exploitation",
-        "Ransomware",
-        "Patch/update",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "The Credential Layer Is Expanding Faster Than Security Teams Can See It",
-      "link": "https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html",
-      "summary": "Every modern enterprise depends on credentials. This is how humans, systems, and now AI, all connect to data, services, and each other securely. GitGuardian helps secure that credential layer through three connected capabilities: Detect, Remediate, and Prevent. The journey starts with detection, because organizations first need to understand what credentials exist, where they live, and what they",
-      "published": "Mon, 05 Oct 2026 17:25:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/",
+      "summary": "A new campaign targeting ad account managers uses fake ChatGPT, Gemini, Claude, and Perplexity sites that steal login credentials and multi-factor authentication (MFA) codes through browser-in-browser attacks. [...]",
+      "published": "Tue, 06 Oct 2026 11:16:44 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2",
-      "link": "https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html",
-      "summary": "Threat actors have been observed attempting to exploit a now-patched critical security flaw impacting the Realtek Jungle software development kit (SDK) to deploy a botnet malware called Cling. \"Cling is notable not because it introduces a new propagation technique, but because it repurposes ordinary STUN behavior into a practical command-and-control channel,\" Nozomi Networks said in a report",
-      "published": "Mon, 05 Oct 2026 17:16:25 +0530",
-      "value_score": 44,
+      "source": "BleepingComputer",
+      "title": "How to secure RMM software: 8 controls MSPs should test",
+      "link": "https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/",
+      "summary": "RMM platforms give MSPs privileged access across customer environments, making their security controls critical to limiting risk. Acronis outlines eight controls MSPs should test when evaluating RMM software, from patching and privileged access to recovery and tenant isolation. [...]",
+      "published": "Tue, 06 Oct 2026 10:00:10 -0400",
+      "value_score": 18,
       "value_signals": [
-        "Botnet ×2",
-        "High severity",
-        "Exploit wording"
+        "High severity"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits",
+      "link": "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/",
+      "summary": "The Wikimedia Foundation says rogue OpenAI agents made unauthorized Wikipedia edits and may have been partially responsible for a May outage. [...]",
+      "published": "Tue, 06 Oct 2026 07:31:48 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Nikkei discloses breaches of employees’ Microsoft, Google email accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/",
+      "summary": "Over the weekend, Japanese publishing giant Nikkei disclosed that unknown attackers recently breached two employee email accounts and used one to send thousands of phishing emails. [...]",
+      "published": "Tue, 06 Oct 2026 05:25:50 -0400",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
       ]
     },
     {
@@ -195,47 +230,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/iqvia-fined-78-million-for-failing-to-properly-anonymize-health-data/",
       "summary": "Italy's Data Protection Authority (GPDP) has fined IQVIA €7 million ($7.8M) over poor data-processing practices that the agency says could have put roughly one million patients at risk of data exposure and de-anonymization. [...]",
       "published": "Mon, 05 Oct 2026 13:19:53 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Denmark population registry data breach affects 8.8 million people",
-      "link": "https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/",
-      "summary": "Denmark's Central Population Register (CPR) is warning of a data breach that exposed the personal information of approximately 8.8 million registered individuals. [...]",
-      "published": "Mon, 05 Oct 2026 11:21:10 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Dell System Update flaw lets hackers gain root privileges",
-      "link": "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/",
-      "summary": "Dell warned customers to patch a critical vulnerability in the System Update (DSU) command-line interface (CLI) deployment tool as soon as possible. [...]",
-      "published": "Mon, 05 Oct 2026 10:53:06 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Patch/update ×3",
-        "High severity"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "South Korea probes bank breaches amid suspected AI-powered attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/",
-      "summary": "South Korea's Financial Services Commission (FSC) held an emergency meeting following a series of cyberattacks targeting financial institutions in the country. [...]",
-      "published": "Mon, 05 Oct 2026 10:22:12 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "tenfold CE: Our free Identity Governance tool just got 2 new features",
-      "link": "https://www.bleepingcomputer.com/news/security/tenfold-ce-our-free-identity-governance-tool-just-got-2-new-features/",
-      "summary": "tenfold has added shared content governance and real-time event auditing to its free Community Edition for organizations with under 150 users. The new features help teams manage Microsoft 365 sharing and investigate suspicious identity activity. [...]",
-      "published": "Mon, 05 Oct 2026 09:33:42 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -402,86 +396,78 @@
     },
     {
       "source": "Security Week",
+      "title": "FBI Blames Contractor’s Missed Patch for ShinyHunters Breach",
+      "link": "https://www.securityweek.com/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/",
+      "summary": "The FBI has removed an Accenture contractor over a data breach that exposed personal information of thousands of bureau employees. The post FBI Blames Contractor’s Missed Patch for ShinyHunters Breach appeared first on SecurityWeek .",
+      "published": "Tue, 06 Oct 2026 14:15:00 +0000",
+      "value_score": 50,
+      "value_signals": [
+        "Patch/update ×2",
+        "Breach/leak ×3"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "FBI Arrests ‘Most Wanted’ Developer of Ploutus ATM Malware",
+      "link": "https://www.securityweek.com/fbi-arrests-most-wanted-developer-of-ploutus-atm-malware/",
+      "summary": "An alleged leader of Tren de Aragua’s ATM jackpotting activities, Canelon Aguirre was on the FBI’s top 10 most wanted list since March 2026. The post FBI Arrests ‘Most Wanted’ Developer of Ploutus ATM Malware appeared first on SecurityWeek .",
+      "published": "Tue, 06 Oct 2026 12:47:57 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Apple to Tighten Full Disk Access Controls in macOS Amid AI Risks",
+      "link": "https://www.securityweek.com/apple-to-tighten-full-disk-access-controls-in-macos-amid-ai-risks/",
+      "summary": "Citing growing risks posed by more capable and autonomous AI agents, Apple will introduce additional controls. The post Apple to Tighten Full Disk Access Controls in macOS Amid AI Risks appeared first on SecurityWeek .",
+      "published": "Tue, 06 Oct 2026 11:48:59 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Cybersecurity M&A Roundup: 39 Deals Announced in September 2026",
+      "link": "https://www.securityweek.com/cybersecurity-ma-roundup-39-deals-announced-in-september-2026/",
+      "summary": "Significant cybersecurity M&A deals announced by Dragos, IBM, Palo Alto Networks, Kiteworks, and Upwind. The post Cybersecurity M&A Roundup: 39 Deals Announced in September 2026 appeared first on SecurityWeek .",
+      "published": "Tue, 06 Oct 2026 11:01:35 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Long-Running NPM Malware Campaign Accumulates 40,000 Downloads",
+      "link": "https://www.securityweek.com/long-running-npm-malware-campaign-accumulates-40000-downloads/",
+      "summary": "Since August 2023, attackers have published eight malicious packages as part of the MALFEX supply chain campaign. The post Long-Running NPM Malware Campaign Accumulates 40,000 Downloads appeared first on SecurityWeek .",
+      "published": "Tue, 06 Oct 2026 10:34:25 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "8.8 Million Impacted by Data Breach at Denmark’s Central Person Register",
+      "link": "https://www.securityweek.com/8-8-million-impacted-by-data-breach-at-denmarks-central-person-register/",
+      "summary": "Hackers abused a company’s lawful access to the CPR system to steal the personal information of registered citizens. The post 8.8 Million Impacted by Data Breach at Denmark’s Central Person Register appeared first on SecurityWeek .",
+      "published": "Tue, 06 Oct 2026 09:38:30 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Social Engineering Detection Moves Into the Live Conversation",
+      "link": "https://www.securityweek.com/social-engineering-detection-moves-into-the-live-conversation/",
+      "summary": "Companies are pouring time and dollars into security awareness training, but little evidence shows it actually works against social engineering. The post Social Engineering Detection Moves Into the Live Conversation appeared first on SecurityWeek .",
+      "published": "Tue, 06 Oct 2026 08:38:14 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Google Narrows Open Source Bug Bounty Amid Wave of Invalid Automated Reports",
       "link": "https://www.securityweek.com/google-narrows-open-source-bug-bounty-amid-wave-of-invalid-automated-reports/",
       "summary": "Google has temporarily stopped accepting product vulnerability reports through its Open Source Software Vulnerability Reward Program (OSS VRP). The post Google Narrows Open Source Bug Bounty Amid Wave of Invalid Automated Reports appeared first on SecurityWeek .",
       "published": "Mon, 05 Oct 2026 14:26:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Linux Backdoor Abuses STUN Protocol, Exploits Dozens of Flaws",
-      "link": "https://www.securityweek.com/linux-backdoor-abuses-stun-protocol-exploits-dozens-of-flaws/",
-      "summary": "ClingSTUN operates as a back-connect proxy backdoor, sets up persistence, and contains exploits for self-propagation. The post Linux Backdoor Abuses STUN Protocol, Exploits Dozens of Flaws appeared first on SecurityWeek .",
-      "published": "Mon, 05 Oct 2026 13:00:00 +0000",
-      "value_score": 40,
-      "value_signals": [
-        "Backdoor ×3",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "250,000 Impacted by Data Breaches at New Jersey, Texas Healthcare Firms",
-      "link": "https://www.securityweek.com/250000-impacted-by-data-breaches-at-new-jersey-texas-healthcare-firms/",
-      "summary": "Hackers stole patient information from Clover Health Investments and AngMar Management Services in July. The post 250,000 Impacted by Data Breaches at New Jersey, Texas Healthcare Firms appeared first on SecurityWeek .",
-      "published": "Mon, 05 Oct 2026 12:35:15 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Exploitation Hits Rejetto HFS Vulnerability Discovered by AI",
-      "link": "https://www.securityweek.com/exploitation-hits-rejetto-hfs-vulnerability-discovered-by-ai/",
-      "summary": "CVE-2026-61500 allows attackers to recover the session-cookie signing key and gain administrative access and RCE. The post Exploitation Hits Rejetto HFS Vulnerability Discovered by AI appeared first on SecurityWeek .",
-      "published": "Mon, 05 Oct 2026 11:00:05 +0000",
-      "value_score": 54,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Senate Passes Bipartisan Bill to Strengthen Healthcare Cybersecurity",
-      "link": "https://www.securityweek.com/senate-passes-bipartisan-bill-to-strengthen-healthcare-cybersecurity/",
-      "summary": "More than 730 cyber breaches affected over 270 million Americans last year, costing an average of $10 million per breach. The post Senate Passes Bipartisan Bill to Strengthen Healthcare Cybersecurity appeared first on SecurityWeek .",
-      "published": "Mon, 05 Oct 2026 10:42:19 +0000",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Alleged ShinyHunters Leader Arrested in Jordan",
-      "link": "https://www.securityweek.com/alleged-shinyhunters-leader-arrested-in-jordan/",
-      "summary": "Known as Rey, the suspect is reportedly helping the FBI identify and locate other members of the extortion group. The post Alleged ShinyHunters Leader Arrested in Jordan appeared first on SecurityWeek .",
-      "published": "Mon, 05 Oct 2026 07:16:53 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Exploitation of Citrix NetScaler Zero-Day Hits Appliances Patched Days Earlier",
-      "link": "https://www.securityweek.com/exploitation-of-citrix-netscaler-zero-day-hits-appliances-patched-days-earlier/",
-      "summary": "Citrix has confirmed that a new zero-day vulnerability, CVE-2026-88779, emerged just days after two other exploited flaws were patched. The post Exploitation of Citrix NetScaler Zero-Day Hits Appliances Patched Days Earlier appeared first on SecurityWeek .",
-      "published": "Mon, 05 Oct 2026 05:14:48 +0000",
-      "value_score": 84,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day ×3",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Trump Names National Intelligence Director Jay Clayton to Lead a New Federal AI Task Force",
-      "link": "https://www.securityweek.com/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force/",
-      "summary": "The announcement comes after Trump hosted top executives of AI companies at the White House last week. The post Trump Names National Intelligence Director Jay Clayton to Lead a New Federal AI Task Force appeared first on SecurityWeek .",
-      "published": "Sun, 04 Oct 2026 14:57:25 +0000",
       "value_score": 10,
       "value_signals": []
     },

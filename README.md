@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-06 08:27 UTC |
+| 🕐 Last Updated | 2026-10-06 16:26 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`microsoft exchange server` • `250 000 impacted` • `cve 2026 96940` • `cve 2026 61500` • `ai cyber espionage` • `windows operating systems` • `twitter whistleblower complaint` • `individuals whose licenses` • `free community edition` • `cvss scoring system`
+`cve 2026 61500` • `windows operating systems` • `supply chain compromises` • `live conversation companies` • `blame rogue ai` • `ai cyber espionage` • `twitter whistleblower complaint` • `little evidence shows` • `large advertising platforms` • `individuals whose licenses`
 
 ## 📄 Reports
 

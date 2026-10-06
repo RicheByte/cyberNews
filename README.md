@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-06 16:26 UTC |
+| 🕐 Last Updated | 2026-10-06 22:10 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`cve 2026 61500` • `windows operating systems` • `supply chain compromises` • `live conversation companies` • `blame rogue ai` • `ai cyber espionage` • `twitter whistleblower complaint` • `little evidence shows` • `large advertising platforms` • `individuals whose licenses`
+`cve 2026 21589` • `supply chain compromises` • `live conversation companies` • `ai cyber espionage` • `security experts warn` • `opened security researchers` • `windows operating systems` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `seemingly legitimate processes`
 
 ## 📄 Reports
 

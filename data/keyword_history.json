@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 796,
+      "count": 797,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -343,7 +343,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2744,
+      "count": 2745,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2090,7 +2090,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 637,
+      "count": 638,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -20445,7 +20445,7 @@
       ]
     },
     "security experts warn": {
-      "count": 75,
+      "count": 76,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -29322,7 +29322,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 163,
+      "count": 164,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29443,7 +29443,7 @@
       ]
     },
     "already semi public": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-02",
         "2026-10-06"
@@ -30502,7 +30502,7 @@
       ]
     },
     "large advertising platforms": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-09-11",
         "2026-09-12",
@@ -32835,7 +32835,7 @@
       ]
     },
     "ai cyber espionage": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-10-05",
         "2026-10-06"
@@ -32900,19 +32900,19 @@
       ]
     },
     "supply chain compromises": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-06"
       ]
     },
     "live conversation companies": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-06"
       ]
     },
     "little evidence shows": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-06"
       ]
@@ -32934,20 +32934,63 @@
       "dates": [
         "2026-10-06"
       ]
+    },
+    "cve 2026 21589": {
+      "count": 1,
+      "dates": [
+        "2026-10-06"
+      ]
+    },
+    "opened security researchers": {
+      "count": 1,
+      "dates": [
+        "2026-10-06"
+      ]
+    },
+    "seemingly legitimate processes": {
+      "count": 1,
+      "dates": [
+        "2026-10-06"
+      ]
+    },
+    "rogue openai agents": {
+      "count": 1,
+      "dates": [
+        "2026-10-06"
+      ]
+    },
+    "human intensive endeavor": {
+      "count": 1,
+      "dates": [
+        "2026-10-06"
+      ]
+    },
+    "fake chatgpt gemini": {
+      "count": 1,
+      "dates": [
+        "2026-10-06"
+      ]
+    },
+    "security controls critical": {
+      "count": 1,
+      "dates": [
+        "2026-10-06"
+      ]
+    },
+    "security awareness training": {
+      "count": 1,
+      "dates": [
+        "2026-10-06"
+      ]
+    },
+    "wpc product bundles": {
+      "count": 1,
+      "dates": [
+        "2026-10-06"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-15 17:52",
-      "articles": 48,
-      "top_keywords": [
-        "240 000 hit",
-        "exein secures 270m",
-        "multi platform campaign",
-        "extract cloud credentials",
-        "cve probing along"
-      ]
-    },
     {
       "timestamp": "2026-09-15 20:46",
       "articles": 48,
@@ -34035,6 +34078,17 @@
         "supply chain compromises",
         "live conversation companies",
         "blame rogue ai"
+      ]
+    },
+    {
+      "timestamp": "2026-10-06 22:10",
+      "articles": 48,
+      "top_keywords": [
+        "cve 2026 21589",
+        "supply chain compromises",
+        "live conversation companies",
+        "ai cyber espionage",
+        "security experts warn"
       ]
     }
   ]

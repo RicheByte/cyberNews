@@ -1,72 +1,92 @@
 {
-  "last_updated": "2026-10-06 16:26",
+  "last_updated": "2026-10-06 22:10",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "cve 2026 61500",
-    "windows operating systems",
+    "cve 2026 21589",
     "supply chain compromises",
     "live conversation companies",
-    "blame rogue ai",
     "ai cyber espionage",
+    "security experts warn",
+    "opened security researchers",
+    "windows operating systems",
     "twitter whistleblower complaint",
+    "sprawling phishing campaign",
+    "seemingly legitimate processes",
+    "rogue openai agents",
     "little evidence shows",
     "large advertising platforms",
     "individuals whose licenses",
-    "apache openoffice run",
+    "human intensive endeavor",
+    "fake chatgpt gemini",
     "already semi public",
-    "security experts warn",
-    "industrial company headquartered",
-    "value challenges ahead",
-    "ultra sensitive environments",
-    "sprawling phishing campaign",
-    "siphoning images collected",
-    "rejetto hfs servers",
-    "read specific files"
+    "security controls critical",
+    "security awareness training",
+    "wpc product bundles"
   ],
   "trending": [
     {
-      "keyword": "cve 2026 61500",
-      "mentions": 3
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 796
+      "keyword": "cve 2026 21589",
+      "mentions": 1
     },
     {
       "keyword": "supply chain compromises",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "live conversation companies",
-      "mentions": 1
-    },
-    {
-      "keyword": "blame rogue ai",
-      "mentions": 18
+      "mentions": 2
     },
     {
       "keyword": "ai cyber espionage",
-      "mentions": 4
+      "mentions": 5
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2744
+      "keyword": "security experts warn",
+      "mentions": 76
     },
     {
-      "keyword": "little evidence shows",
+      "keyword": "opened security researchers",
       "mentions": 1
     },
     {
-      "keyword": "large advertising platforms",
-      "mentions": 16
+      "keyword": "windows operating systems",
+      "mentions": 797
     },
     {
-      "keyword": "individuals whose licenses",
-      "mentions": 163
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2745
+    },
+    {
+      "keyword": "sprawling phishing campaign",
+      "mentions": 638
+    },
+    {
+      "keyword": "seemingly legitimate processes",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
+      "link": "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html",
+      "summary": "Cybersecurity researchers have disclosed details of a \"human-operated phishing platform\" that impersonates advertising products for artificial intelligence (AI) chatbots like Google Gemini, Anthropic Claude, OpenAI ChatGPT, Perplexity, Meta Muse, and Manus. The products, which claim to offer campaign optimization, spend audits, and business-account connections, are designed with one goal in",
+      "published": "Wed, 07 Oct 2026 00:08:55 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan",
+      "link": "https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html",
+      "summary": "Linux backdoors targeting telecom and network appliances in South Korea and Taiwan have been disguising their traffic as email services and seemingly legitimate processes to blend in and evade detection. Threat actors are known to name their malicious software after a legitimate operating system component or a process as a defense evasion measure. By borrowing the name of a real binary, it may",
+      "published": "Tue, 06 Oct 2026 23:54:25 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings",
@@ -134,22 +154,50 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account",
-      "link": "https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html",
-      "summary": "Unauthorized parties have gained access to the names, addresses, and personal identification numbers of about 8.8 million people, living and dead, in Denmark's national population register, the country's digitalization ministry said on October 5. They used a private Danish company's lawful right to look up records in the Central Person Register (CPR). The ministry has told people never to",
-      "published": "Tue, 06 Oct 2026 11:30:30 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Ninja Forms plugin flaw exploited to hack WordPress sites",
+      "link": "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/",
+      "summary": "Hackers are exploiting stored cross-site scripting (XSS) vulnerabilities in two unrelated WordPress plugins, Ninja Forms and WPC Product Bundles for WooCommerce, to install backdoors and create rogue admin accounts. [...]",
+      "published": "Tue, 06 Oct 2026 17:00:27 -0400",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
     },
     {
-      "source": "The Hacker News",
-      "title": "ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits",
-      "link": "https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html",
-      "summary": "A new type of ClickFix attack is using compromised websites to trick users into executing a malicious payload cached in a web browser's cache. \"Instead of downloading and executing remote payloads like the typical attack pattern, in this attack, the websites pre-fetch a script payload into the browser cache disguised as a PNG file,\" the Microsoft Threat Intelligence team said in a post on X.",
-      "published": "Tue, 06 Oct 2026 10:52:55 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Hackers exploit 32 zero-days on first day of Pwn2Own Ireland",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/",
+      "summary": "On the first day of the Pwn2Own Ireland 2026 competition, security researchers hacked the Samsung Galaxy S26 twice and earned $388,500 after exploiting 32 zero-days. [...]",
+      "published": "Tue, 06 Oct 2026 15:21:53 -0400",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Atlassian warns of critical file-access flaw in Jira, Confluence",
+      "link": "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/",
+      "summary": "Atlassian is warning customers of a critical vulnerability, tracked as CVE-2026-21589, that can be exploited for arbitrary file-access in multiple self-hosted Data Center products, including Confluence, Jira, and Bitbucket. [...]",
+      "published": "Tue, 06 Oct 2026 13:34:59 -0400",
+      "value_score": 50,
+      "value_signals": [
+        "CVE mentioned",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "ASOS confirms data breach after “HACKED” in-app notifications",
+      "link": "https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/",
+      "summary": "UK fashion retailer ASOS confirmed a data breach Tuesday after hackers sent unauthorized push notifications through its mobile app while claiming to have stolen customer data from the company's Snowflake environment. [...]",
+      "published": "Tue, 06 Oct 2026 12:33:54 -0400",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -190,48 +238,6 @@
       "value_signals": [
         "Phishing"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Engineer sentenced for locking over 3,000 devices on employer network",
-      "link": "https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/",
-      "summary": "A former core infrastructure engineer at an industrial company headquartered in New Jersey was sentenced to 32 months in prison for locking thousands of devices on his employer's network in a ransomware-style attack. [...]",
-      "published": "Tue, 06 Oct 2026 04:19:24 -0400",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/",
-      "summary": "OpenAI is preparing to add invisible watermarks to text generated by ChatGPT and Codex in the European Union. [...]",
-      "published": "Mon, 05 Oct 2026 18:46:33 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Rejetto HFS servers now actively scanned for critical RCE flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/",
-      "summary": "Hackers are actively scanning for a Rejetto HFS weak signing key vulnerability, tracked as CVE-2026-61500, that allows session forgery, account takeover, and remote code execution (RCE). [...]",
-      "published": "Mon, 05 Oct 2026 16:20:05 -0400",
-      "value_score": 76,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE ×3",
-        "High severity"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "IQVIA fined $7.8 million for failing to properly anonymize health data",
-      "link": "https://www.bleepingcomputer.com/news/security/iqvia-fined-78-million-for-failing-to-properly-anonymize-health-data/",
-      "summary": "Italy's Data Protection Authority (GPDP) has fined IQVIA €7 million ($7.8M) over poor data-processing practices that the agency says could have put roughly one million patients at risk of data exposure and de-anonymization. [...]",
-      "published": "Mon, 05 Oct 2026 13:19:53 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -314,6 +320,57 @@
     },
     {
       "source": "Dark Reading",
+      "title": "ClickFix Attacks Evolve to Better Hide Malicious Payloads",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads",
+      "summary": "Threat actors are now hiding payloads by using DNS TXT records and browser cache pre-fetching, making it tougher to spot early attack stages.",
+      "published": "Tue, 06 Oct 2026 20:32:58 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Critical Healthcare Systems Aren't Quantum-Ready",
+      "link": "https://www.darkreading.com/iot/exposed-healthcare-systems-quantum-ready",
+      "summary": "A study of 2.5 million devices across 50 healthcare organization suggests the sector has a long way to go in getting ready for the post-quantum cryptography era.",
+      "published": "Tue, 06 Oct 2026 20:30:27 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Google's PageBreak AI Agent Finds 500 Flaws in Its Web Apps",
+      "link": "https://www.darkreading.com/application-security/google-pagebreak-ai-agent-500-flaws-web-apps",
+      "summary": "The situation illustrates a trend toward using AI and deterministic validation to identify flaws and exploitability, and provide a risk assessment.",
+      "published": "Tue, 06 Oct 2026 17:56:29 GMT",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "IANS' Kakolowski: How AI Is Reshaping CISO Budgets &amp; Security Teams",
+      "link": "https://www.darkreading.com/cybersecurity-operations/ai-reshaping-ciso-budgets-security-teams",
+      "summary": "In this video interview, Nick Kakolowski, senior director for CISO research at IANS, talks AI: budgets, ROI, and changes inside security teams.",
+      "published": "Tue, 06 Oct 2026 17:15:24 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "'BigDiskBuster' Leaves Microsoft Defender Running While Blocking Updates",
+      "link": "https://www.darkreading.com/application-security/bigdiskbuster-microsoft-defender-running-blocking-updates",
+      "summary": "Not quite an EDR-killer, but the proof-of-concept cyber technique creates a silent virus detection gap while service runs normally, no exploit required.",
+      "published": "Tue, 06 Oct 2026 16:59:24 GMT",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "ClingSTUN Turns Vulnerable IoT Devices Into Proxy Nodes",
       "link": "https://www.darkreading.com/iot/clingstun-vulnerable-iot-devices-proxy-nodes",
       "summary": "The Linux backdoor exploits 24 known flaws to compromise IoT devices and uses legitimate public STUN servers to obscure communications.",
@@ -339,58 +396,6 @@
       "link": "https://www.darkreading.com/cyber-risk/ai-attacks-security-strategies",
       "summary": "AI-powered attacks are fast, relentless, and automated. How security teams can keep up is top of mind, according to the latest Dark Reading reader poll.",
       "published": "Mon, 05 Oct 2026 13:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "RemoteThreat Bets Security Teams Need to Test What Happens After Defenses Fail",
-      "link": "https://www.darkreading.com/cybersecurity-operations/remotethreat-bets-security-teams-need-to-test-what-happens-after-defenses-fail",
-      "summary": "The offensive cyber operations startup looks to evolve red teaming beyond traditional methods to simulate attackers' increasingly advanced capabilities.",
-      "published": "Fri, 02 Oct 2026 20:18:37 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Kiteworks &amp; Citrix Incidents Show Challenges of Zero-Day Response",
-      "link": "https://www.darkreading.com/cybersecurity-operations/kiteworks-citrix-incidents-challenges-zero-day-response",
-      "summary": "One company told customers to power down its data-protection platform during a nine-hour window, while the other remained mum on reported attacks prior to releasing a patch for its product.",
-      "published": "Fri, 02 Oct 2026 16:56:30 GMT",
-      "value_score": 43,
-      "value_signals": [
-        "Zero-day",
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "SWIFT Banking &amp; Government Middleware Enables RCE",
-      "link": "https://www.darkreading.com/cybersecurity-operations/swift-banking-govt-middleware-rce",
-      "summary": "Patch middleware vulnerabilities now to avoid hardware-based MFA exploits in ultra-sensitive environments.",
-      "published": "Fri, 02 Oct 2026 16:27:54 GMT",
-      "value_score": 44,
-      "value_signals": [
-        "RCE",
-        "Patch/update",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Is Your Organization Ready for 2027's AI Accountability Era?",
-      "link": "https://www.darkreading.com/cybersecurity-operations/is-your-organization-ready-for-2027-s-ai-accountability-era-",
-      "summary": "Organizations may face an artificial intelligence (AI) reckoning over the next year. Omdia and Gartner weigh in on how to tackle the governance, security, and value challenges ahead.",
-      "published": "Fri, 02 Oct 2026 16:01:22 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Is It Fair to Blame 'Rogue' AI for Security Failures?",
-      "link": "https://www.darkreading.com/insider-threats/blame-rogue-ai-security-failures",
-      "summary": "\"Rogue AI\" terminology anthropomorphizes LLMs and shifts risk responsibility from vendors. Defenders should treat agents as untrusted, nondeterministic software systems, not sentient beings with malicious intent.",
-      "published": "Fri, 02 Oct 2026 15:51:33 GMT",
       "value_score": 10,
       "value_signals": []
     },

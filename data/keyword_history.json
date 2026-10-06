@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 794,
+      "count": 795,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -343,7 +343,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2742,
+      "count": 2743,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2090,7 +2090,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 635,
+      "count": 636,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2218,7 +2218,8 @@
         "2026-10-01",
         "2026-10-02",
         "2026-10-03",
-        "2026-10-04"
+        "2026-10-04",
+        "2026-10-06"
       ]
     },
     "model agnostic abstractions": {
@@ -2524,7 +2525,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 122,
+      "count": 123,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -2551,7 +2552,8 @@
         "2026-08-17",
         "2026-08-24",
         "2026-08-25",
-        "2026-08-28"
+        "2026-08-28",
+        "2026-10-06"
       ]
     },
     "cybercrime looks like": {
@@ -20443,7 +20445,7 @@
       ]
     },
     "security experts warn": {
-      "count": 73,
+      "count": 74,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -21676,7 +21678,7 @@
       ]
     },
     "high severity flaw": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-06-26",
         "2026-06-27",
@@ -29320,7 +29322,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 161,
+      "count": 162,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29968,7 +29970,7 @@
       ]
     },
     "siphoning images collected": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-09-08",
         "2026-09-09",
@@ -29984,7 +29986,8 @@
         "2026-10-01",
         "2026-10-02",
         "2026-10-03",
-        "2026-10-04"
+        "2026-10-04",
+        "2026-10-06"
       ]
     },
     "200 000 records": {
@@ -32594,7 +32597,7 @@
       ]
     },
     "blame rogue ai": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-10-02",
         "2026-10-03",
@@ -32634,7 +32637,7 @@
       ]
     },
     "ultra sensitive environments": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-10-02",
         "2026-10-03",
@@ -32666,7 +32669,7 @@
       ]
     },
     "value challenges ahead": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-10-02",
         "2026-10-03",
@@ -32809,14 +32812,14 @@
       ]
     },
     "250 000 impacted": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-05",
         "2026-10-06"
       ]
     },
     "microsoft exchange server": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-05",
         "2026-10-06"
@@ -32830,21 +32833,21 @@
       ]
     },
     "ai cyber espionage": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-05",
         "2026-10-06"
       ]
     },
     "cve 2026 96940": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-05",
         "2026-10-06"
       ]
     },
     "free community edition": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-05",
         "2026-10-06"
@@ -32871,6 +32874,24 @@
       ]
     },
     "cve 2026 61500": {
+      "count": 2,
+      "dates": [
+        "2026-10-06"
+      ]
+    },
+    "weekly recap netscaler": {
+      "count": 1,
+      "dates": [
+        "2026-10-06"
+      ]
+    },
+    "strengthen healthcare cybersecurity": {
+      "count": 1,
+      "dates": [
+        "2026-10-06"
+      ]
+    },
+    "rejetto hfs servers": {
       "count": 1,
       "dates": [
         "2026-10-06"
@@ -32878,17 +32899,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-15 07:04",
-      "articles": 48,
-      "top_keywords": [
-        "beijing hits back",
-        "anthropic ceo time",
-        "telus warns customers",
-        "steal cloud credentials",
-        "execute arbitrary commands"
-      ]
-    },
     {
       "timestamp": "2026-09-15 13:03",
       "articles": 48,
@@ -33976,6 +33986,17 @@
         "microsoft exchange server",
         "session forgery stemming",
         "individuals whose licenses"
+      ]
+    },
+    {
+      "timestamp": "2026-10-06 08:27",
+      "articles": 48,
+      "top_keywords": [
+        "microsoft exchange server",
+        "250 000 impacted",
+        "cve 2026 96940",
+        "cve 2026 61500",
+        "ai cyber espionage"
       ]
     }
   ]

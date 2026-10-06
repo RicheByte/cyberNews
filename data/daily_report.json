@@ -1,72 +1,114 @@
 {
-  "last_updated": "2026-10-06 01:04",
+  "last_updated": "2026-10-06 08:27",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "high severity flaw",
-    "250 000 impacted",
     "microsoft exchange server",
-    "session forgery stemming",
-    "individuals whose licenses",
-    "cve 2026 88779",
-    "ai cyber espionage",
-    "twitter whistleblower complaint",
-    "free community edition",
+    "250 000 impacted",
     "cve 2026 96940",
     "cve 2026 61500",
-    "security experts warn",
-    "september 29 2026",
-    "blame rogue ai",
-    "users mailboxes microsoft",
-    "online alias rey",
+    "ai cyber espionage",
     "windows operating systems",
+    "twitter whistleblower complaint",
+    "individuals whose licenses",
+    "free community edition",
+    "cvss scoring system",
+    "high severity flaw",
+    "security experts warn",
+    "blame rogue ai",
+    "weekly recap netscaler",
     "value challenges ahead",
     "ultra sensitive environments",
-    "tighten controls around"
+    "strengthen healthcare cybersecurity",
+    "sprawling phishing campaign",
+    "siphoning images collected",
+    "rejetto hfs servers"
   ],
   "trending": [
     {
-      "keyword": "high severity flaw",
-      "mentions": 33
+      "keyword": "microsoft exchange server",
+      "mentions": 3
     },
     {
       "keyword": "250 000 impacted",
-      "mentions": 2
-    },
-    {
-      "keyword": "microsoft exchange server",
-      "mentions": 2
-    },
-    {
-      "keyword": "session forgery stemming",
-      "mentions": 2
-    },
-    {
-      "keyword": "individuals whose licenses",
-      "mentions": 161
-    },
-    {
-      "keyword": "cve 2026 88779",
-      "mentions": 4
-    },
-    {
-      "keyword": "ai cyber espionage",
-      "mentions": 2
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2742
-    },
-    {
-      "keyword": "free community edition",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "cve 2026 96940",
+      "mentions": 3
+    },
+    {
+      "keyword": "cve 2026 61500",
       "mentions": 2
+    },
+    {
+      "keyword": "ai cyber espionage",
+      "mentions": 3
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 795
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2743
+    },
+    {
+      "keyword": "individuals whose licenses",
+      "mentions": 162
+    },
+    {
+      "keyword": "free community edition",
+      "mentions": 3
+    },
+    {
+      "keyword": "cvss scoring system",
+      "mentions": 123
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products",
+      "link": "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html",
+      "summary": "A critical flaw in 8 Atlassian Data Center products, which customers host themselves, allows an attacker with no login access to read specific files in each product's web application root directory. The attacker must already know a file's exact name and path and cannot list what the directory holds. Atlassian disclosed the flaw, CVE-2026-21589, on October 5, rated it 9.3 out of 10, and",
+      "published": "Tue, 06 Oct 2026 12:28:56 +0530",
+      "value_score": 44,
+      "value_signals": [
+        "CVE mentioned",
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "FBI Removes Accenture Contractor After Patch Failure Led to ShinyHunters Breach",
+      "link": "https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) has removed an Accenture contractor for their alleged role in a ShinyHunters-breach that led to the theft of personal details of thousands of bureau employees. That's according to a report from Reuters, citing two sources familiar with the matter. \"To date, our review has determined that the incident occurred as the result of a security failure ​",
+      "published": "Tue, 06 Oct 2026 12:26:57 +0530",
+      "value_score": 42,
+      "value_signals": [
+        "Patch/update",
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account",
+      "link": "https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html",
+      "summary": "Unauthorized parties have gained access to the names, addresses, and personal identification numbers of about 8.8 million people, living and dead, in Denmark's national population register, the country's digitalization ministry said on October 5. They used a private Danish company's lawful right to look up records in the Central Person Register (CPR). The ministry has told people never to",
+      "published": "Tue, 06 Oct 2026 11:30:30 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits",
+      "link": "https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html",
+      "summary": "A new type of ClickFix attack is using compromised websites to trick users into executing a malicious payload cached in a web browser's cache. \"Instead of downloading and executing remote payloads like the typical attack pattern, in this attack, the websites pre-fetch a script payload into the browser cache disguised as a PNG file,\" the Microsoft Threat Intelligence team said in a post on X.",
+      "published": "Tue, 06 Oct 2026 10:52:55 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
@@ -115,50 +157,15 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access",
-      "link": "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html",
-      "summary": "Apple has announced that it's taking steps to tighten controls around a macOS setting called Full Disk Access (FDA) due to security risks posed by artificial intelligence (AI) agents. \"Some developers are using Full Disk Access in ways that could put users at risk, exposing everything on their systems—including files, mail, messages, and even browsing history – without users' full knowledge",
-      "published": "Mon, 05 Oct 2026 16:08:50 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE",
-      "link": "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html",
-      "summary": "A critical security flaw impacting Rejetto HTTP File Server (HFS) is witnessing active exploitation attempts, according to VulnCheck. The vulnerability in question is CVE-2026-61500 (CVSS score: 9.3), a case of session forgery stemming from the use of a weak pseudo-random number generator (PRNG) that can lead to a predictable key, which an attacker can then use to gain unauthorized access and",
-      "published": "Mon, 05 Oct 2026 13:39:23 +0530",
-      "value_score": 62,
+      "source": "BleepingComputer",
+      "title": "Engineer sentenced for locking over 3,000 devices on employer network",
+      "link": "https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/",
+      "summary": "A former core infrastructure engineer at an industrial company headquartered in New Jersey was sentenced to 32 months in prison for locking thousands of devices on his employer's network in a ransomware-style attack. [...]",
+      "published": "Tue, 06 Oct 2026 04:19:24 -0400",
+      "value_score": 28,
       "value_signals": [
-        "CVE mentioned",
-        "RCE",
-        "High severity",
-        "Exploit wording"
+        "Ransomware"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline",
-      "link": "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html",
-      "summary": "Citrix has released security updates for a high-severity security flaw in NetScaler ADC and NetScaler Gateway that has been exploited as part of targeted zero-day attacks. The vulnerability, tracked as CVE-2026-88779, carries a CVSS score of 8.7 out of 10.0. \"CVE-2026-88779 is a memory overflow vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway that can lead to",
-      "published": "Mon, 05 Oct 2026 12:10:19 +0530",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "Zero-day ×2",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members",
-      "link": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
-      "summary": "A suspected member of the ShinyHunters digital extortion group, who goes by the online alias \"Rey,\" has been allegedly detained by authorities in Jordan, Reuters reported, citing three people familiar with the matter. Rey, whose real name is Saif ‌al-Din Khader, is said to have been brought into custody on September 29, 2026, and cooperating with the U.S. Federal Bureau of Investigation (FBI)",
-      "published": "Sun, 04 Oct 2026 12:52:05 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -229,15 +236,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/tenfold-ce-our-free-identity-governance-tool-just-got-2-new-features/",
       "summary": "tenfold has added shared content governance and real-time event auditing to its free Community Edition for organizations with under 150 users. The new features help teams manage Microsoft 365 sharing and investigate suspicious identity activity. [...]",
       "published": "Mon, 05 Oct 2026 09:33:42 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Alleged dev of Ploutus ATM malware appears in US court after arrest",
-      "link": "https://www.bleepingcomputer.com/news/security/suspected-dev-of-ploutus-atm-malware-appears-in-us-court-after-arrest/",
-      "summary": "The U.S. Department of Justice has announced the arrest of the alleged developer of Ploutus malware, used to steal millions of dollars in ATM jackpotting attacks across the United States. [...]",
-      "published": "Mon, 05 Oct 2026 09:01:45 -0400",
       "value_score": 10,
       "value_signals": []
     },

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-06 01:04 UTC |
+| 🕐 Last Updated | 2026-10-06 08:27 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`high severity flaw` • `250 000 impacted` • `microsoft exchange server` • `session forgery stemming` • `individuals whose licenses` • `cve 2026 88779` • `ai cyber espionage` • `twitter whistleblower complaint` • `free community edition` • `cve 2026 96940`
+`microsoft exchange server` • `250 000 impacted` • `cve 2026 96940` • `cve 2026 61500` • `ai cyber espionage` • `windows operating systems` • `twitter whistleblower complaint` • `individuals whose licenses` • `free community edition` • `cvss scoring system`
 
 ## 📄 Reports
 

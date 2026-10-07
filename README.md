@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-07 10:47 UTC |
+| 🕐 Last Updated | 2026-10-07 18:18 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`vetted cyber teams` • `ai access anthropic` • `security experts warn` • `opened security researchers` • `ai cyber espionage` • `windows operating systems` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `seemingly legitimate processes` • `large advertising platforms`
+`extortion group shinyhunters` • `deploy cryptocurrency miners` • `llm workers reach` • `ai cyber espionage` • `already semi public` • `twitter whistleblower complaint` • `security experts warn` • `lone threat actor` • `individuals whose licenses` • `hacker handle rey`
 
 ## 📄 Reports
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-10-07 10:47 UTC  
+> **Last Updated:** 2026-10-07 18:18 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**vetted cyber teams** • **ai access anthropic** • **security experts warn** • **opened security researchers** • **ai cyber espionage** • **windows operating systems** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **seemingly legitimate processes** • **large advertising platforms** • **individuals whose licenses** • **human intensive endeavor** • **fake chatgpt gemini** • **rogue openai agents** • **already semi public** • **capable ai models** • **stolen customer data** • **security controls critical** • **wpc product bundles** • **ukraine cert ua**
+**extortion group shinyhunters** • **deploy cryptocurrency miners** • **llm workers reach** • **ai cyber espionage** • **already semi public** • **twitter whistleblower complaint** • **security experts warn** • **lone threat actor** • **individuals whose licenses** • **hacker handle rey** • **reach internal functions** • **public poc release** • **ransomware attack earlier** • **capable ai models** • **ai access anthropic** • **zeromq messaging library** • **wpc product bundles** • **worth taking seriously** • **will add msix** • **ve probably heard**
 
 ---
 
@@ -16,28 +16,29 @@
 
 ### The Hacker News
 
-- [Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws](https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html)
-- [100+ Compromised Websites Use Fake Cloudflare Checks to Deliver LunexStealer](https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html)
-- [Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes](https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html)
-- [Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan](https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html)
-- [LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings](https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html)
-- [Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies](https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html)
-- [Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers](https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html)
-- [Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports](https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html)
+- [Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer](https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html)
+- [SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances](https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html)
+- [Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely](https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html)
+- [PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet](https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html)
+- [The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow](https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html)
+- [FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials](https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html)
+- [Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details](https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html)
+- [What Is Agentic Pentesting? What It Proves, and Where It Stops.](https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html)
 
 ### BleepingComputer
 
+- [Microsoft Outlook to block MSIX attachments starting November](https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-to-block-msix-attachments-used-in-attacks/)
+- [PoeLLM malware infects exposed AI servers in cryptomining attacks](https://www.bleepingcomputer.com/news/security/poellm-malware-infects-exposed-ai-servers-in-cryptomining-attacks/)
+- [Ransomware has a new target. Is your backup ready?](https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/)
+- [Hackers exploit critical Atlassian flaw after public PoC release](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/)
+- [SonicWall warns of max severity SSRF flaw in SMA1000 gateways](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/)
 - [Musician sent to prison for $10 million streaming fraud using AI bots](https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/)
 - [Advantest confirms personal information stolen in ransomware attack](https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/)
 - [Ninja Forms plugin flaw exploited to hack WordPress sites](https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/)
-- [Hackers exploit 32 zero-days on first day of Pwn2Own Ireland](https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/)
-- [Atlassian warns of critical file-access flaw in Jira, Confluence](https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/)
-- [ASOS confirms data breach after “HACKED” in-app notifications](https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/)
-- [Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes](https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/)
-- [How to secure RMM software: 8 controls MSPs should test](https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/)
 
 ### Krebs on Security
 
+- [ShinyHunters Extorted Boeing Spin-off Prior to Arrests](https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/)
 - [Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation](https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/)
 - [U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions](https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/)
 - [Data Broker Radaris Loses Domains in Privacy Fight](https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/)
@@ -45,7 +46,6 @@
 - [FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/)
 - [Two Alleged ‘TeamPCP’ Hackers Arrested in Australia](https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/)
 - [Who’s Tracking You? Use This New Service to Find Out](https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/)
-- [Microsoft Plugs Nearly 400 Security Holes](https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/)
 
 ### Dark Reading
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Georgia Power, Alabama Power Data Breach Hits 400,000 Accounts](https://www.securityweek.com/georgia-power-alabama-power-data-breach-hits-400000-accounts/)
+- [Qilin Ransomware Suspect Arrested in Japan, Extradited to Germany](https://www.securityweek.com/qilin-ransomware-suspect-arrested-in-japan-extradited-to-germany/)
+- [Hadrian Raises $40 Million to Expand Autonomous Offensive Security Platform](https://www.securityweek.com/hadrian-raises-40-million-to-expand-autonomous-offensive-security-platform/)
+- [Advantest Discloses Data Breach Months After Ransomware Attack](https://www.securityweek.com/advantest-discloses-data-breach-months-after-ransomware-attack/)
+- [Chrome 155 Update Patches 247 Vulnerabilities](https://www.securityweek.com/chrome-155-update-patches-247-vulnerabilities/)
 - [Anthropic Introduces 3-Tier Cyber Verification Program for AI Access](https://www.securityweek.com/anthropic-introduces-3-tier-cyber-verification-program-for-ai-access/)
 - [ASOS Confirms Cyberattack, Data Breach](https://www.securityweek.com/asos-confirms-cyberattack-data-breach/)
 - [Wikimedia Says Rogue OpenAI Agents Tried to Turn Its Tools Into Proxies](https://www.securityweek.com/wikimedia-says-rogue-openai-agents-tried-to-turn-its-tools-into-proxies/)
-- [Android’s October 2026 Updates Patch 25 Vulnerabilities](https://www.securityweek.com/androids-october-2026-updates-patch-25-vulnerabilities/)
-- [Atlassian Patches Critical Vulnerability Affecting 8 Products](https://www.securityweek.com/atlassian-patches-critical-vulnerability-affecting-8-products/)
-- [Personal Information for Over 1 Million People Stolen in a Cyberattack on Arizona’s Court System](https://www.securityweek.com/personal-information-for-over-1-million-people-stolen-in-a-cyberattack-on-arizonas-court-system/)
-- [FBI Blames Contractor’s Missed Patch for ShinyHunters Breach](https://www.securityweek.com/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/)
-- [FBI Arrests ‘Most Wanted’ Developer of Ploutus ATM Malware](https://www.securityweek.com/fbi-arrests-most-wanted-developer-of-ploutus-atm-malware/)
 
 ### Threatpost
 

@@ -1,127 +1,128 @@
 {
-  "last_updated": "2026-10-07 10:47",
+  "last_updated": "2026-10-07 18:18",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "vetted cyber teams",
-    "ai access anthropic",
-    "security experts warn",
-    "opened security researchers",
+    "extortion group shinyhunters",
+    "deploy cryptocurrency miners",
+    "llm workers reach",
     "ai cyber espionage",
-    "windows operating systems",
-    "twitter whistleblower complaint",
-    "sprawling phishing campaign",
-    "seemingly legitimate processes",
-    "large advertising platforms",
-    "individuals whose licenses",
-    "human intensive endeavor",
-    "fake chatgpt gemini",
-    "rogue openai agents",
     "already semi public",
+    "twitter whistleblower complaint",
+    "security experts warn",
+    "lone threat actor",
+    "individuals whose licenses",
+    "hacker handle rey",
+    "reach internal functions",
+    "public poc release",
+    "ransomware attack earlier",
     "capable ai models",
-    "stolen customer data",
-    "security controls critical",
+    "ai access anthropic",
+    "zeromq messaging library",
     "wpc product bundles",
-    "ukraine cert ua"
+    "worth taking seriously",
+    "will add msix",
+    "ve probably heard"
   ],
   "trending": [
     {
-      "keyword": "vetted cyber teams",
+      "keyword": "extortion group shinyhunters",
       "mentions": 1
     },
     {
-      "keyword": "ai access anthropic",
+      "keyword": "deploy cryptocurrency miners",
       "mentions": 1
     },
     {
-      "keyword": "security experts warn",
-      "mentions": 78
-    },
-    {
-      "keyword": "opened security researchers",
-      "mentions": 3
+      "keyword": "llm workers reach",
+      "mentions": 1
     },
     {
       "keyword": "ai cyber espionage",
-      "mentions": 7
+      "mentions": 8
     },
     {
-      "keyword": "windows operating systems",
-      "mentions": 799
+      "keyword": "already semi public",
+      "mentions": 6
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2747
+      "mentions": 2748
     },
     {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 640
+      "keyword": "security experts warn",
+      "mentions": 79
     },
     {
-      "keyword": "seemingly legitimate processes",
-      "mentions": 3
+      "keyword": "lone threat actor",
+      "mentions": 1
     },
     {
-      "keyword": "large advertising platforms",
-      "mentions": 19
+      "keyword": "individuals whose licenses",
+      "mentions": 167
+    },
+    {
+      "keyword": "hacker handle rey",
+      "mentions": 1
     }
   ],
   "articles": [
     {
       "source": "The Hacker News",
-      "title": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws",
-      "link": "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html",
-      "summary": "Anthropic on Tuesday said it's expanding a program that allows vetted cybersecurity professionals to test its advanced artificial intelligence (AI) models with reduced safeguards and blocking classifiers, as the company claimed its Project Glasswing initiative uncovered at least 129,000 verified software vulnerabilities between April and July 2026. The company said it also found an additional",
-      "published": "Wed, 07 Oct 2026 13:37:38 +0530",
+      "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer",
+      "link": "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html",
+      "summary": "Cybersecurity researchers have disclosed details of a long-running npm supply chain malware campaign that pushes information stealers and remote access trojans (RAT) to compromised hosts. The campaign has been codenamed MALFEX by CloudSEK and Checkmarx. The activity is assessed to be the work of a lone threat actor who appears to have published 12 packages since August 2023, eight of which have",
+      "published": "Wed, 07 Oct 2026 23:13:20 +0530",
       "value_score": 10,
       "value_signals": []
     },
     {
       "source": "The Hacker News",
-      "title": "100+ Compromised Websites Use Fake Cloudflare Checks to Deliver LunexStealer",
-      "link": "https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html",
-      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has identified more than 100 compromised websites that have been injected with malicious JavaScript to serve an information-stealing malware called LunexStealer (aka Psychedelic Stealer). The activity, which was observed by the agency in September 2026, has been attributed to a threat cluster dubbed UAC-0277. It did not disclose who the",
-      "published": "Wed, 07 Oct 2026 12:27:54 +0530",
+      "title": "SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances",
+      "link": "https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html",
+      "summary": "SonicWall has released hotfixes for four flaws in its SMA1000 appliances, the gateways that give remote workers access to a company's network and applications. The most serious could allow an attacker without a login to send requests through the appliance and reach internal functions. SonicWall rates it 10.0 on the CVSS scale and says it has no evidence that any of the four flaws is being",
+      "published": "Wed, 07 Oct 2026 21:47:44 +0530",
       "value_score": 10,
       "value_signals": []
     },
     {
       "source": "The Hacker News",
-      "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
-      "link": "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html",
-      "summary": "Cybersecurity researchers have disclosed details of a \"human-operated phishing platform\" that impersonates advertising products for artificial intelligence (AI) chatbots like Google Gemini, Anthropic Claude, OpenAI ChatGPT, Perplexity, Meta Muse, and Manus. The products, which claim to offer campaign optimization, spend audits, and business-account connections, are designed with one goal in",
-      "published": "Wed, 07 Oct 2026 00:08:55 +0530",
-      "value_score": 18,
+      "title": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely",
+      "link": "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html",
+      "summary": "A critical vulnerability in LMCache, open-source software that speeds up large language model (LLM) servers such as vLLM, lets an attacker run code on the cache server without logging in, and no fixed version is available. The flaw is in LMCache's multiprocess mode, where the cache runs as a standalone server that LLM workers reach over the ZeroMQ messaging library. A single network",
+      "published": "Wed, 07 Oct 2026 21:04:53 +0530",
+      "value_score": 34,
       "value_signals": [
-        "Phishing"
+        "Patch/update",
+        "High severity ×2"
       ]
     },
     {
       "source": "The Hacker News",
-      "title": "Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan",
-      "link": "https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html",
-      "summary": "Linux backdoors targeting telecom and network appliances in South Korea and Taiwan have been disguising their traffic as email services and seemingly legitimate processes to blend in and evade detection. Threat actors are known to name their malicious software after a legitimate operating system component or a process as a defense evasion measure. By borrowing the name of a real binary, it may",
-      "published": "Tue, 06 Oct 2026 23:54:25 +0530",
+      "title": "PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet",
+      "link": "https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html",
+      "summary": "Cybersecurity researchers are calling attention to a new malware family that has been observed targeting exposed artificial intelligence (AI) and large language model (LLM) infrastructure with an aim to deploy cryptocurrency miners and further expand the scale of the botnet. The financially motivated campaign, dubbed Canto Incognito, has been found to install cryptocurrency miners, including",
+      "published": "Wed, 07 Oct 2026 21:03:51 +0530",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow",
+      "link": "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html",
+      "summary": "The 2026 findings are not just a year-over-year shift. They mark the latest point in a five-year arc where resilience, AI governance, human risk, and board scrutiny are converging inside the systems where work actually happens. For years, the enterprise cybersecurity story has been told as a straight line of escalation: more attacks, more data loss, more pressure, and more urgency. That",
+      "published": "Wed, 07 Oct 2026 17:27:05 +0530",
       "value_score": 10,
       "value_signals": []
     },
     {
       "source": "The Hacker News",
-      "title": "LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings",
-      "link": "https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html",
-      "summary": "A malicious spreadsheet can make LibreOffice and Apache OpenOffice run an attacker's code as soon as the file is opened, security researchers have shown. There is no warning first, of the kind either program shows before it runs a macro. The attack works only when the program's Java support is enabled. So far, it has only been shown as a proof of concept, and there are no reports of its use in",
-      "published": "Tue, 06 Oct 2026 17:27:00 +0530",
-      "value_score": 20,
-      "value_signals": [
-        "PoC available"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies",
-      "link": "https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html",
-      "summary": "The Wikimedia Foundation, which hosts Wikipedia, has confirmed that it has discovered activity by rogue OpenAI agents on its platforms, including unsuccessful efforts to compromise Etherpad, a public note-taking tool, and edit Wikipedia pages. \"The unauthorized bot activities included edits to our wikis, some unsuccessful attempts to exploit a public note-taking tool we host, and heavy traffic,",
-      "published": "Tue, 06 Oct 2026 16:56:25 +0530",
+      "title": "FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials",
+      "link": "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains an active threat aimed at internet-facing Fortinet FortiGate firewalls and secure socket layer (SSL) virtual private network (VPN) gateways. \"The campaign exploits reused or leaked credentials and legacy SHA-256 password storage, enabling threat",
+      "published": "Wed, 07 Oct 2026 17:26:56 +0530",
       "value_score": 16,
       "value_signals": [
         "Exploit wording"
@@ -129,21 +130,79 @@
     },
     {
       "source": "The Hacker News",
-      "title": "Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers",
-      "link": "https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html",
-      "summary": "In 2024, MCP (Model Context Protocol) set out to become the USB-C of AI: one standard for connecting models, agents, and IDEs to tools and data. The protocol delivered. Thousands of developers built servers, and enterprises plugged them into agent workflows. The ecosystem around it fell short. Earlier this year, our team at OX Security, traced critical vulnerabilities in Anthropic's MCP",
-      "published": "Tue, 06 Oct 2026 16:32:30 +0530",
-      "value_score": 18,
+      "title": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details",
+      "link": "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html",
+      "summary": "Threat actors have begun to exploit a newly disclosed critical security flaw impacting Atlassian Data Center products that could allow access to sensitive files under certain conditions. The arbitrary file access flaw, tracked as CVE-2026-21589 (CVSS score: 9.3) affects multiple products, including Bitbucket Data Center, Confluence Data Center, Jira Service Management Data Center, Jira Software",
+      "published": "Wed, 07 Oct 2026 17:19:26 +0530",
+      "value_score": 42,
       "value_signals": [
-        "High severity"
+        "CVE mentioned",
+        "High severity",
+        "Exploit wording"
       ]
     },
     {
       "source": "The Hacker News",
-      "title": "Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports",
-      "link": "https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html",
-      "summary": "Google has stopped accepting product vulnerability reports through its bug bounty program for its open-source software. The change, in effect since October 1, means researchers can no longer submit security flaws in the code of projects such as Go, Angular, and Protocol Buffers there for a reward. Reports about supply chain compromises are still accepted, and reports filed before October 1 are",
-      "published": "Tue, 06 Oct 2026 14:51:47 +0530",
+      "title": "What Is Agentic Pentesting? What It Proves, and Where It Stops.",
+      "link": "https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html",
+      "summary": "If you’re evaluating an agentic pentesting solution right now, you’ve probably heard the same pitch more than once: point it at a target, and it discovers, validates, and exploits attack paths autonomously, the way a real attacker would. That promise is worth taking seriously. It’s also worth pressure testing, and three questions do the heavy lifting. What can the assessment actually",
+      "published": "Wed, 07 Oct 2026 17:12:24 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft Outlook to block MSIX attachments starting November",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-to-block-msix-attachments-used-in-attacks/",
+      "summary": "Microsoft announced that it will add .msix and .msixbundle attachments to the list of blocked attachments in Outlook Web and the new Outlook Windows client starting next month. [...]",
+      "published": "Wed, 07 Oct 2026 11:44:22 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "PoeLLM malware infects exposed AI servers in cryptomining attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/poellm-malware-infects-exposed-ai-servers-in-cryptomining-attacks/",
+      "summary": "A cryptomining campaign targeting exposed AI services is using PoeLLM malware to turn compromised servers into scanners and exploit launchpads. [...]",
+      "published": "Wed, 07 Oct 2026 11:04:08 -0400",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Ransomware has a new target. Is your backup ready?",
+      "link": "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/",
+      "summary": "Ransomware groups are increasingly targeting backup infrastructure to eliminate recovery options and increase pressure on victims to pay. Kaseya explains why organizations need isolated, immutable, and regularly tested backups that attackers cannot easily reach. [...]",
+      "published": "Wed, 07 Oct 2026 10:01:11 -0400",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Hackers exploit critical Atlassian flaw after public PoC release",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/",
+      "summary": "A critical vulnerability (CVE-2026-21589) affecting multiple Atlassian product families, including Jira, Confluence, and Bitbucket, is being exploited in attacks that do not require authentication. [...]",
+      "published": "Wed, 07 Oct 2026 08:49:01 -0400",
+      "value_score": 60,
+      "value_signals": [
+        "CVE mentioned",
+        "PoC available",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "SonicWall warns of max severity SSRF flaw in SMA1000 gateways",
+      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/",
+      "summary": "SonicWall has released hotfixes to address a maximum-severity server-side request forgery (SSRF) flaw in SMA1000 series appliances. [...]",
+      "published": "Wed, 07 Oct 2026 07:37:07 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -179,59 +238,13 @@
       ]
     },
     {
-      "source": "BleepingComputer",
-      "title": "Hackers exploit 32 zero-days on first day of Pwn2Own Ireland",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/",
-      "summary": "On the first day of the Pwn2Own Ireland 2026 competition, security researchers hacked the Samsung Galaxy S26 twice and earned $388,500 after exploiting 32 zero-days. [...]",
-      "published": "Tue, 06 Oct 2026 15:21:53 -0400",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Atlassian warns of critical file-access flaw in Jira, Confluence",
-      "link": "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/",
-      "summary": "Atlassian is warning customers of a critical vulnerability, tracked as CVE-2026-21589, that can be exploited for arbitrary file-access in multiple self-hosted Data Center products, including Confluence, Jira, and Bitbucket. [...]",
-      "published": "Tue, 06 Oct 2026 13:34:59 -0400",
-      "value_score": 50,
-      "value_signals": [
-        "CVE mentioned",
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "ASOS confirms data breach after “HACKED” in-app notifications",
-      "link": "https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/",
-      "summary": "UK fashion retailer ASOS confirmed a data breach Tuesday after hackers sent unauthorized push notifications through its mobile app while claiming to have stolen customer data from the company's Snowflake environment. [...]",
-      "published": "Tue, 06 Oct 2026 12:33:54 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/",
-      "summary": "A new campaign targeting ad account managers uses fake ChatGPT, Gemini, Claude, and Perplexity sites that steal login credentials and multi-factor authentication (MFA) codes through browser-in-browser attacks. [...]",
-      "published": "Tue, 06 Oct 2026 11:16:44 -0400",
+      "source": "Krebs on Security",
+      "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
+      "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
+      "summary": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle \"Rey,\" was detained as ShinyHunters was in the process of extorting a business unit recently divested by the global aerospace company Boeing, which manufactures the fleet of planes used by the employer of Rey's ",
+      "published": "Wed, 07 Oct 2026 13:48:45 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "How to secure RMM software: 8 controls MSPs should test",
-      "link": "https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/",
-      "summary": "RMM platforms give MSPs privileged access across customer environments, making their security controls critical to limiting risk. Acronis outlines eight controls MSPs should test when evaluating RMM software, from patching and privileged access to recovery and tenant isolation. [...]",
-      "published": "Tue, 06 Oct 2026 10:00:10 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -301,18 +314,6 @@
       "value_signals": []
     },
     {
-      "source": "Krebs on Security",
-      "title": "Microsoft Plugs Nearly 400 Security Holes",
-      "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
-      "summary": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today.",
-      "published": "Tue, 11 Aug 2026 21:28:35 +0000",
-      "value_score": 41,
-      "value_signals": [
-        "Active exploitation",
-        "Exploit wording"
-      ]
-    },
-    {
       "source": "Dark Reading",
       "title": "ClickFix Attacks Evolve to Better Hide Malicious Payloads",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads",
@@ -325,7 +326,7 @@
       "source": "Dark Reading",
       "title": "Critical Healthcare Systems Aren't Quantum-Ready",
       "link": "https://www.darkreading.com/iot/exposed-healthcare-systems-quantum-ready",
-      "summary": "A study of 2.5 million devices across 50 healthcare organization suggests the sector has a long way to go in getting ready for the post-quantum cryptography era.",
+      "summary": "A study of 2.5 million devices across 50 healthcare organizations suggests the sector has a long way to go in getting ready for the post-quantum cryptography era.",
       "published": "Tue, 06 Oct 2026 20:30:27 GMT",
       "value_score": 18,
       "value_signals": [
@@ -395,6 +396,61 @@
     },
     {
       "source": "Security Week",
+      "title": "Georgia Power, Alabama Power Data Breach Hits 400,000 Accounts",
+      "link": "https://www.securityweek.com/georgia-power-alabama-power-data-breach-hits-400000-accounts/",
+      "summary": "Southern Company is notifying customers that their utility account information was accessed by hackers. The post Georgia Power, Alabama Power Data Breach Hits 400,000 Accounts appeared first on SecurityWeek .",
+      "published": "Wed, 07 Oct 2026 14:15:20 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Qilin Ransomware Suspect Arrested in Japan, Extradited to Germany",
+      "link": "https://www.securityweek.com/qilin-ransomware-suspect-arrested-in-japan-extradited-to-germany/",
+      "summary": "The individual was detained in May and has been extradited to Germany to face hacking charges. The post Qilin Ransomware Suspect Arrested in Japan, Extradited to Germany appeared first on SecurityWeek .",
+      "published": "Wed, 07 Oct 2026 13:47:12 +0000",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Hadrian Raises $40 Million to Expand Autonomous Offensive Security Platform",
+      "link": "https://www.securityweek.com/hadrian-raises-40-million-to-expand-autonomous-offensive-security-platform/",
+      "summary": "Hadrian offers an agentic offensive security platform that allows defenders to operate at the same speed as attackers. The post Hadrian Raises $40 Million to Expand Autonomous Offensive Security Platform appeared first on SecurityWeek .",
+      "published": "Wed, 07 Oct 2026 13:06:10 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Advantest Discloses Data Breach Months After Ransomware Attack",
+      "link": "https://www.securityweek.com/advantest-discloses-data-breach-months-after-ransomware-attack/",
+      "summary": "The Japanese chip testing giant said hackers stole personal information from its servers in the February 2026 cyberattack. The post Advantest Discloses Data Breach Months After Ransomware Attack appeared first on SecurityWeek .",
+      "published": "Wed, 07 Oct 2026 12:37:24 +0000",
+      "value_score": 70,
+      "value_signals": [
+        "Ransomware ×2",
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Chrome 155 Update Patches 247 Vulnerabilities",
+      "link": "https://www.securityweek.com/chrome-155-update-patches-247-vulnerabilities/",
+      "summary": "Four critical-severity use-after-free defects were fixed in Chromecast, Browser, Navigation, and Track. The post Chrome 155 Update Patches 247 Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Wed, 07 Oct 2026 10:51:57 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Patch/update ×3",
+        "High severity"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Anthropic Introduces 3-Tier Cyber Verification Program for AI Access",
       "link": "https://www.securityweek.com/anthropic-introduces-3-tier-cyber-verification-program-for-ai-access/",
       "summary": "Anthropic is integrating the CVP and Project Glasswing into a single offering, with three levels of access to its most capable AI models. The post Anthropic Introduces 3-Tier Cyber Verification Program for AI Access appeared first on SecurityWeek .",
@@ -419,61 +475,6 @@
       "link": "https://www.securityweek.com/wikimedia-says-rogue-openai-agents-tried-to-turn-its-tools-into-proxies/",
       "summary": "Wikimedia looked into whether its own websites had seen activity like that disclosed by other organizations The post Wikimedia Says Rogue OpenAI Agents Tried to Turn Its Tools Into Proxies appeared first on SecurityWeek .",
       "published": "Wed, 07 Oct 2026 07:58:22 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Android’s October 2026 Updates Patch 25 Vulnerabilities",
-      "link": "https://www.securityweek.com/androids-october-2026-updates-patch-25-vulnerabilities/",
-      "summary": "The patches resolve a critical vulnerability in Android’s System component that could lead to privilege escalation. The post Android’s October 2026 Updates Patch 25 Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Wed, 07 Oct 2026 06:55:52 +0000",
-      "value_score": 46,
-      "value_signals": [
-        "Privilege escalation",
-        "Patch/update ×2",
-        "High severity"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Atlassian Patches Critical Vulnerability Affecting 8 Products",
-      "link": "https://www.securityweek.com/atlassian-patches-critical-vulnerability-affecting-8-products/",
-      "summary": "Unauthenticated attackers could exploit the flaw to access specific files in the web application root directory. The post Atlassian Patches Critical Vulnerability Affecting 8 Products appeared first on SecurityWeek .",
-      "published": "Wed, 07 Oct 2026 06:37:16 +0000",
-      "value_score": 32,
-      "value_signals": [
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Personal Information for Over 1 Million People Stolen in a Cyberattack on Arizona’s Court System",
-      "link": "https://www.securityweek.com/personal-information-for-over-1-million-people-stolen-in-a-cyberattack-on-arizonas-court-system/",
-      "summary": "The Arizona Supreme Court said the information was copied for people dating back as far as 30 years. The post Personal Information for Over 1 Million People Stolen in a Cyberattack on Arizona’s Court System appeared first on SecurityWeek .",
-      "published": "Wed, 07 Oct 2026 01:32:58 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "FBI Blames Contractor’s Missed Patch for ShinyHunters Breach",
-      "link": "https://www.securityweek.com/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/",
-      "summary": "The FBI has removed an Accenture contractor over a data breach that exposed personal information of thousands of bureau employees. The post FBI Blames Contractor’s Missed Patch for ShinyHunters Breach appeared first on SecurityWeek .",
-      "published": "Tue, 06 Oct 2026 14:15:00 +0000",
-      "value_score": 50,
-      "value_signals": [
-        "Patch/update ×2",
-        "Breach/leak ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "FBI Arrests ‘Most Wanted’ Developer of Ploutus ATM Malware",
-      "link": "https://www.securityweek.com/fbi-arrests-most-wanted-developer-of-ploutus-atm-malware/",
-      "summary": "An alleged leader of Tren de Aragua’s ATM jackpotting activities, Canelon Aguirre was on the FBI’s top 10 most wanted list since March 2026. The post FBI Arrests ‘Most Wanted’ Developer of Ploutus ATM Malware appeared first on SecurityWeek .",
-      "published": "Tue, 06 Oct 2026 12:47:57 +0000",
       "value_score": 10,
       "value_signals": []
     },

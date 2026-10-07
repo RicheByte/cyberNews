@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-07 03:52 UTC |
+| 🕐 Last Updated | 2026-10-07 10:47 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`cve 2026 21589` • `supply chain compromises` • `live conversation companies` • `ai cyber espionage` • `security experts warn` • `opened security researchers` • `windows operating systems` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `seemingly legitimate processes`
+`vetted cyber teams` • `ai access anthropic` • `security experts warn` • `opened security researchers` • `ai cyber espionage` • `windows operating systems` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `seemingly legitimate processes` • `large advertising platforms`
 
 ## 📄 Reports
 

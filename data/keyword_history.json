@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 798,
+      "count": 799,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -344,7 +344,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2746,
+      "count": 2747,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2092,7 +2092,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 639,
+      "count": 640,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -14361,12 +14361,13 @@
       ]
     },
     "ukraine cert ua": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-04-16",
         "2026-07-19",
         "2026-07-20",
-        "2026-08-12"
+        "2026-08-12",
+        "2026-10-07"
       ]
     },
     "actively exploited flaw": {
@@ -20448,7 +20449,7 @@
       ]
     },
     "security experts warn": {
-      "count": 77,
+      "count": 78,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -29326,7 +29327,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 165,
+      "count": 166,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29448,7 +29449,7 @@
       ]
     },
     "already semi public": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-02",
         "2026-10-06",
@@ -30508,7 +30509,7 @@
       ]
     },
     "large advertising platforms": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-09-11",
         "2026-09-12",
@@ -32842,7 +32843,7 @@
       ]
     },
     "ai cyber espionage": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-10-05",
         "2026-10-06",
@@ -32954,42 +32955,42 @@
       ]
     },
     "opened security researchers": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-06",
         "2026-10-07"
       ]
     },
     "seemingly legitimate processes": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-06",
         "2026-10-07"
       ]
     },
     "rogue openai agents": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-06",
         "2026-10-07"
       ]
     },
     "human intensive endeavor": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-06",
         "2026-10-07"
       ]
     },
     "fake chatgpt gemini": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-06",
         "2026-10-07"
       ]
     },
     "security controls critical": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-06",
         "2026-10-07"
@@ -33003,12 +33004,31 @@
       ]
     },
     "wpc product bundles": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-10-06"
+        "2026-10-06",
+        "2026-10-07"
       ]
     },
     "stolen customer data": {
+      "count": 2,
+      "dates": [
+        "2026-10-07"
+      ]
+    },
+    "vetted cyber teams": {
+      "count": 1,
+      "dates": [
+        "2026-10-07"
+      ]
+    },
+    "ai access anthropic": {
+      "count": 1,
+      "dates": [
+        "2026-10-07"
+      ]
+    },
+    "capable ai models": {
       "count": 1,
       "dates": [
         "2026-10-07"
@@ -33016,17 +33036,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-15 23:54",
-      "articles": 48,
-      "top_keywords": [
-        "240 000 hit",
-        "exein secures 270m",
-        "multi platform campaign",
-        "cve probing along",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-09-16 02:57",
       "articles": 48,
@@ -34114,6 +34123,17 @@
         "live conversation companies",
         "ai cyber espionage",
         "security experts warn"
+      ]
+    },
+    {
+      "timestamp": "2026-10-07 10:47",
+      "articles": 48,
+      "top_keywords": [
+        "vetted cyber teams",
+        "ai access anthropic",
+        "security experts warn",
+        "opened security researchers",
+        "ai cyber espionage"
       ]
     }
   ]

@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-10-07 18:18",
+  "last_updated": "2026-10-07 23:58",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "extortion group shinyhunters",
     "deploy cryptocurrency miners",
     "llm workers reach",
-    "ai cyber espionage",
     "already semi public",
     "twitter whistleblower complaint",
-    "security experts warn",
-    "lone threat actor",
+    "several google domains",
     "individuals whose licenses",
     "hacker handle rey",
     "reach internal functions",
     "public poc release",
-    "ransomware attack earlier",
-    "capable ai models",
-    "ai access anthropic",
+    "lone threat actor",
+    "security experts warn",
     "zeromq messaging library",
-    "wpc product bundles",
-    "worth taking seriously",
     "will add msix",
-    "ve probably heard"
+    "today issued updates",
+    "tiered access program",
+    "stealer cybersecurity researchers",
+    "siphoning images collected",
+    "sent rogue notifications",
+    "secret ransom payments"
   ],
   "trending": [
     {
       "keyword": "extortion group shinyhunters",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "deploy cryptocurrency miners",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "llm workers reach",
-      "mentions": 1
-    },
-    {
-      "keyword": "ai cyber espionage",
-      "mentions": 8
+      "mentions": 2
     },
     {
       "keyword": "already semi public",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2748
+      "mentions": 2749
     },
     {
-      "keyword": "security experts warn",
-      "mentions": 79
-    },
-    {
-      "keyword": "lone threat actor",
+      "keyword": "several google domains",
       "mentions": 1
     },
     {
       "keyword": "individuals whose licenses",
-      "mentions": 167
+      "mentions": 168
     },
     {
       "keyword": "hacker handle rey",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "reach internal functions",
+      "mentions": 2
+    },
+    {
+      "keyword": "public poc release",
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains",
+      "link": "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html",
+      "summary": "Attackers compromised three country-code top-level domains (ccTLDs) and obtained unauthorized HTTPS certificates for several Google domains, Google said on October 6. Google's own systems were not breached, but any domain ending in .gh (Ghana), .sl (Sierra Leone) or .as (American Samoa) was put at risk. With such a certificate, an attacker could pose as the real site over an encrypted",
+      "published": "Thu, 08 Oct 2026 00:18:17 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer",
@@ -142,15 +151,33 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "What Is Agentic Pentesting? What It Proves, and Where It Stops.",
-      "link": "https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html",
-      "summary": "If you’re evaluating an agentic pentesting solution right now, you’ve probably heard the same pitch more than once: point it at a target, and it discovers, validates, and exploits attack paths autonomously, the way a real attacker would. That promise is worth taking seriously. It’s also worth pressure testing, and three questions do the heavy lifting. What can the assessment actually",
-      "published": "Wed, 07 Oct 2026 17:12:24 +0530",
-      "value_score": 16,
+      "source": "BleepingComputer",
+      "title": "Ransomware recovery CEO charged over secret ransom payments",
+      "link": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/",
+      "summary": "The owner of ransomware remediation company MonsterCloud has been charged with allegedly defrauding ransomware victims by secretly paying their attackers for decryptors while claiming to use proprietary technology to recover encrypted data. [...]",
+      "published": "Wed, 07 Oct 2026 19:04:37 -0400",
+      "value_score": 46,
       "value_signals": [
-        "Exploit wording"
+        "Ransomware ×3"
       ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/",
+      "summary": "The FBI is warning that FortiBleed attacks are still ongoing, targeting exposed Fortinet FortiGate firewalls and SSL VPN gateways and locking out legitimate administrators. [...]",
+      "published": "Wed, 07 Oct 2026 17:28:54 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Hackers hijack Google domains after breaching ccTLD registries",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/",
+      "summary": "Hackers obtained unauthorized HTTPS certificates for several Google domains and hijacked domains in the country-code top-level domains (ccTLDs) for Ghana, American Samoa, and Sierra Leone after compromising third-party operators and modifying authoritative DNS records. [...]",
+      "published": "Wed, 07 Oct 2026 16:50:13 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -205,37 +232,6 @@
       "published": "Wed, 07 Oct 2026 07:37:07 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Musician sent to prison for $10 million streaming fraud using AI bots",
-      "link": "https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/",
-      "summary": "A North Carolina musician was sentenced to 18 months in prison for collecting more than $10 million in royalties from Spotify, Apple Music, Amazon Music, and YouTube Music in a massive streaming royalty fraud scheme. [...]",
-      "published": "Wed, 07 Oct 2026 06:35:15 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Advantest confirms personal information stolen in ransomware attack",
-      "link": "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/",
-      "summary": "Advantest Corporation is notifying affected individuals that a ransomware attack earlier this year exposed their personally identifiable data. [...]",
-      "published": "Wed, 07 Oct 2026 06:27:52 -0400",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Ninja Forms plugin flaw exploited to hack WordPress sites",
-      "link": "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/",
-      "summary": "Hackers are exploiting stored cross-site scripting (XSS) vulnerabilities in two unrelated WordPress plugins, Ninja Forms and WPC Product Bundles for WooCommerce, to install backdoors and create rogue admin accounts. [...]",
-      "published": "Tue, 06 Oct 2026 17:00:27 -0400",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -315,6 +311,42 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Australian Gov't Weighs Mandatory AI Incident Reporting",
+      "link": "https://www.darkreading.com/cybersecurity-operations/australian-govt-ai-incident-reporting",
+      "summary": "In the wake of an agentic attack against its own Medicare systems, Australia's government is feeling out what regulations might look like for frontier AI companies.",
+      "published": "Wed, 07 Oct 2026 21:42:55 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Citizen Lab Slams Trump Administration, 'Techno-Fascist' Executives",
+      "link": "https://www.darkreading.com/cyber-risk/citizen-lab-slams-trump-administration-techno-fascist-executives",
+      "summary": "The Citizen Lab's Ron Deibert warns the US government is pushing for pervasive surveillance and says certain technology executives are all too happy to help.",
+      "published": "Wed, 07 Oct 2026 21:25:13 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Anthropic Gives Vetted Defenders Fewer Claude Guardrails",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/anthropic-vetted-defenders-claude-guardrails",
+      "summary": "Anthropic has merged Project Glasswing into a tiered access program for its advanced cyber LLMs, including Opus, Sonnet, and Mythos.",
+      "published": "Wed, 07 Oct 2026 20:51:25 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "OpenAI Agent Escape Causes Wikimedia Service Outage",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/openai-agent-escape-causes-wikimedia-service-outage",
+      "summary": "Autonomous agents also tried to abuse other websites and services hosted by the foundation, using them as proxies for unauthorized activities.",
+      "published": "Wed, 07 Oct 2026 19:34:08 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "ClickFix Attacks Evolve to Better Hide Malicious Payloads",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads",
       "summary": "Threat actors are now hiding payloads by using DNS TXT records and browser cache pre-fetching, making it tougher to spot early attack stages.",
@@ -350,47 +382,6 @@
       "link": "https://www.darkreading.com/cybersecurity-operations/ai-reshaping-ciso-budgets-security-teams",
       "summary": "In this video interview, Nick Kakolowski, senior director for CISO research at IANS, talks AI: budgets, ROI, and changes inside security teams.",
       "published": "Tue, 06 Oct 2026 17:15:24 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "'BigDiskBuster' Leaves Microsoft Defender Running While Blocking Updates",
-      "link": "https://www.darkreading.com/application-security/bigdiskbuster-microsoft-defender-running-blocking-updates",
-      "summary": "Not quite an EDR-killer, but the proof-of-concept cyber technique creates a silent virus detection gap while service runs normally, no exploit required.",
-      "published": "Tue, 06 Oct 2026 16:59:24 GMT",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "ClingSTUN Turns Vulnerable IoT Devices Into Proxy Nodes",
-      "link": "https://www.darkreading.com/iot/clingstun-vulnerable-iot-devices-proxy-nodes",
-      "summary": "The Linux backdoor exploits 24 known flaws to compromise IoT devices and uses legitimate public STUN servers to obscure communications.",
-      "published": "Mon, 05 Oct 2026 21:25:08 GMT",
-      "value_score": 28,
-      "value_signals": [
-        "Backdoor",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Chinese Hackers Impersonate US Officials for AI Cyber Espionage",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-impersonates-us-officials-cyber-espionage",
-      "summary": "An emerging threat group known as TA419 established seemingly legitimate professional relationships with AI policy experts working for US think tanks, universities, and legal organizations.",
-      "published": "Mon, 05 Oct 2026 15:52:59 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Need for Speed: AI-Driven Attacks Are Changing Security Strategies",
-      "link": "https://www.darkreading.com/cyber-risk/ai-attacks-security-strategies",
-      "summary": "AI-powered attacks are fast, relentless, and automated. How security teams can keep up is top of mind, according to the latest Dark Reading reader poll.",
-      "published": "Mon, 05 Oct 2026 13:00:00 GMT",
       "value_score": 10,
       "value_signals": []
     },

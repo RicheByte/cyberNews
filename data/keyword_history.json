@@ -344,7 +344,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2748,
+      "count": 2749,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -20449,7 +20449,7 @@
       ]
     },
     "security experts warn": {
-      "count": 79,
+      "count": 80,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -29327,7 +29327,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 167,
+      "count": 168,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29449,7 +29449,7 @@
       ]
     },
     "already semi public": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-09-02",
         "2026-10-06",
@@ -29978,7 +29978,7 @@
       ]
     },
     "siphoning images collected": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-09-08",
         "2026-09-09",
@@ -29995,7 +29995,8 @@
         "2026-10-02",
         "2026-10-03",
         "2026-10-04",
-        "2026-10-06"
+        "2026-10-06",
+        "2026-10-07"
       ]
     },
     "200 000 records": {
@@ -30370,11 +30371,12 @@
       ]
     },
     "today issued updates": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-11",
         "2026-09-30",
-        "2026-10-01"
+        "2026-10-01",
+        "2026-10-07"
       ]
     },
     "configuration error exposed": {
@@ -33035,43 +33037,43 @@
       ]
     },
     "extortion group shinyhunters": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-07"
       ]
     },
     "deploy cryptocurrency miners": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-07"
       ]
     },
     "llm workers reach": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-07"
       ]
     },
     "lone threat actor": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-07"
       ]
     },
     "hacker handle rey": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-07"
       ]
     },
     "reach internal functions": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-07"
       ]
     },
     "public poc release": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-07"
       ]
@@ -33083,7 +33085,7 @@
       ]
     },
     "zeromq messaging library": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-07"
       ]
@@ -33095,7 +33097,7 @@
       ]
     },
     "will add msix": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-07"
       ]
@@ -33105,20 +33107,39 @@
       "dates": [
         "2026-10-07"
       ]
+    },
+    "several google domains": {
+      "count": 1,
+      "dates": [
+        "2026-10-07"
+      ]
+    },
+    "tiered access program": {
+      "count": 1,
+      "dates": [
+        "2026-10-07"
+      ]
+    },
+    "stealer cybersecurity researchers": {
+      "count": 1,
+      "dates": [
+        "2026-10-07"
+      ]
+    },
+    "sent rogue notifications": {
+      "count": 1,
+      "dates": [
+        "2026-10-07"
+      ]
+    },
+    "secret ransom payments": {
+      "count": 1,
+      "dates": [
+        "2026-10-07"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-16 08:59",
-      "articles": 48,
-      "top_keywords": [
-        "exein secures 270m",
-        "cve 2026 5430",
-        "wso2 api manager",
-        "multi platform campaign",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-09-16 14:31",
       "articles": 48,
@@ -34206,6 +34227,17 @@
         "llm workers reach",
         "ai cyber espionage",
         "already semi public"
+      ]
+    },
+    {
+      "timestamp": "2026-10-07 23:58",
+      "articles": 48,
+      "top_keywords": [
+        "extortion group shinyhunters",
+        "deploy cryptocurrency miners",
+        "llm workers reach",
+        "already semi public",
+        "twitter whistleblower complaint"
       ]
     }
   ]

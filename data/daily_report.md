@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-10-06 22:10 UTC  
+> **Last Updated:** 2026-10-07 03:52 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cve 2026 21589** • **supply chain compromises** • **live conversation companies** • **ai cyber espionage** • **security experts warn** • **opened security researchers** • **windows operating systems** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **seemingly legitimate processes** • **rogue openai agents** • **little evidence shows** • **large advertising platforms** • **individuals whose licenses** • **human intensive endeavor** • **fake chatgpt gemini** • **already semi public** • **security controls critical** • **security awareness training** • **wpc product bundles**
+**cve 2026 21589** • **supply chain compromises** • **live conversation companies** • **ai cyber espionage** • **security experts warn** • **opened security researchers** • **windows operating systems** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **seemingly legitimate processes** • **rogue openai agents** • **little evidence shows** • **large advertising platforms** • **individuals whose licenses** • **human intensive endeavor** • **fake chatgpt gemini** • **already semi public** • **stolen customer data** • **security controls critical** • **security awareness training**
 
 ---
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Personal Information for Over 1 Million People Stolen in a Cyberattack on Arizona’s Court System](https://www.securityweek.com/personal-information-for-over-1-million-people-stolen-in-a-cyberattack-on-arizonas-court-system/)
 - [FBI Blames Contractor’s Missed Patch for ShinyHunters Breach](https://www.securityweek.com/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/)
 - [FBI Arrests ‘Most Wanted’ Developer of Ploutus ATM Malware](https://www.securityweek.com/fbi-arrests-most-wanted-developer-of-ploutus-atm-malware/)
 - [Apple to Tighten Full Disk Access Controls in macOS Amid AI Risks](https://www.securityweek.com/apple-to-tighten-full-disk-access-controls-in-macos-amid-ai-risks/)
@@ -67,7 +68,6 @@
 - [Long-Running NPM Malware Campaign Accumulates 40,000 Downloads](https://www.securityweek.com/long-running-npm-malware-campaign-accumulates-40000-downloads/)
 - [8.8 Million Impacted by Data Breach at Denmark’s Central Person Register](https://www.securityweek.com/8-8-million-impacted-by-data-breach-at-denmarks-central-person-register/)
 - [Social Engineering Detection Moves Into the Live Conversation](https://www.securityweek.com/social-engineering-detection-moves-into-the-live-conversation/)
-- [Google Narrows Open Source Bug Bounty Amid Wave of Invalid Automated Reports](https://www.securityweek.com/google-narrows-open-source-bug-bounty-amid-wave-of-invalid-automated-reports/)
 
 ### Threatpost
 

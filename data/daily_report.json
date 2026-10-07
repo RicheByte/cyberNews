@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06 22:10",
+  "last_updated": "2026-10-07 03:52",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -20,50 +20,50 @@
     "human intensive endeavor",
     "fake chatgpt gemini",
     "already semi public",
+    "stolen customer data",
     "security controls critical",
-    "security awareness training",
-    "wpc product bundles"
+    "security awareness training"
   ],
   "trending": [
     {
       "keyword": "cve 2026 21589",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "supply chain compromises",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "live conversation companies",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "ai cyber espionage",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "security experts warn",
-      "mentions": 76
+      "mentions": 77
     },
     {
       "keyword": "opened security researchers",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 797
+      "mentions": 798
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2745
+      "mentions": 2746
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 638
+      "mentions": 639
     },
     {
       "keyword": "seemingly legitimate processes",
-      "mentions": 1
+      "mentions": 2
     }
   ],
   "articles": [
@@ -401,6 +401,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Personal Information for Over 1 Million People Stolen in a Cyberattack on Arizona’s Court System",
+      "link": "https://www.securityweek.com/personal-information-for-over-1-million-people-stolen-in-a-cyberattack-on-arizonas-court-system/",
+      "summary": "The Arizona Supreme Court said the information was copied for people dating back as far as 30 years. The post Personal Information for Over 1 Million People Stolen in a Cyberattack on Arizona’s Court System appeared first on SecurityWeek .",
+      "published": "Wed, 07 Oct 2026 01:32:58 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "FBI Blames Contractor’s Missed Patch for ShinyHunters Breach",
       "link": "https://www.securityweek.com/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/",
       "summary": "The FBI has removed an Accenture contractor over a data breach that exposed personal information of thousands of bureau employees. The post FBI Blames Contractor’s Missed Patch for ShinyHunters Breach appeared first on SecurityWeek .",
@@ -464,15 +473,6 @@
       "link": "https://www.securityweek.com/social-engineering-detection-moves-into-the-live-conversation/",
       "summary": "Companies are pouring time and dollars into security awareness training, but little evidence shows it actually works against social engineering. The post Social Engineering Detection Moves Into the Live Conversation appeared first on SecurityWeek .",
       "published": "Tue, 06 Oct 2026 08:38:14 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Google Narrows Open Source Bug Bounty Amid Wave of Invalid Automated Reports",
-      "link": "https://www.securityweek.com/google-narrows-open-source-bug-bounty-amid-wave-of-invalid-automated-reports/",
-      "summary": "Google has temporarily stopped accepting product vulnerability reports through its Open Source Software Vulnerability Reward Program (OSS VRP). The post Google Narrows Open Source Bug Bounty Amid Wave of Invalid Automated Reports appeared first on SecurityWeek .",
-      "published": "Mon, 05 Oct 2026 14:26:00 +0000",
       "value_score": 10,
       "value_signals": []
     },

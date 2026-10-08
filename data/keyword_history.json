@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 799,
+      "count": 800,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -340,11 +340,12 @@
         "2026-10-02",
         "2026-10-05",
         "2026-10-06",
-        "2026-10-07"
+        "2026-10-07",
+        "2026-10-08"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2751,
+      "count": 2752,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -941,7 +942,7 @@
       ]
     },
     "remote code execution": {
-      "count": 508,
+      "count": 509,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1035,7 +1036,8 @@
         "2026-09-17",
         "2026-09-18",
         "2026-09-30",
-        "2026-10-01"
+        "2026-10-01",
+        "2026-10-08"
       ]
     },
     "attacker remotely control": {
@@ -2093,7 +2095,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 640,
+      "count": 641,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2223,7 +2225,8 @@
         "2026-10-03",
         "2026-10-04",
         "2026-10-06",
-        "2026-10-07"
+        "2026-10-07",
+        "2026-10-08"
       ]
     },
     "model agnostic abstractions": {
@@ -27529,7 +27532,7 @@
       ]
     },
     "remained walled away": {
-      "count": 77,
+      "count": 78,
       "dates": [
         "2026-08-14",
         "2026-08-15",
@@ -29077,7 +29080,7 @@
       ]
     },
     "statement released today": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-08-31",
         "2026-09-01",
@@ -29085,7 +29088,8 @@
         "2026-09-04",
         "2026-09-05",
         "2026-09-06",
-        "2026-09-09"
+        "2026-09-09",
+        "2026-10-08"
       ]
     },
     "remain open questions": {
@@ -29330,7 +29334,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 170,
+      "count": 171,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29453,7 +29457,7 @@
       ]
     },
     "already semi public": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-09-02",
         "2026-10-06",
@@ -29983,7 +29987,7 @@
       ]
     },
     "siphoning images collected": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-09-08",
         "2026-09-09",
@@ -32006,13 +32010,14 @@
       ]
     },
     "multiple telecommunications companies": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-09-25",
         "2026-09-26",
         "2026-09-27",
         "2026-09-28",
-        "2026-09-29"
+        "2026-09-29",
+        "2026-10-08"
       ]
     },
     "create administrator accounts": {
@@ -33044,7 +33049,7 @@
       ]
     },
     "extortion group shinyhunters": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-10-07",
         "2026-10-08"
@@ -33072,7 +33077,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-10-07",
         "2026-10-08"
@@ -33166,19 +33171,19 @@
       ]
     },
     "wallet import flows": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-08"
       ]
     },
     "guard ai agents": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-08"
       ]
     },
     "frontier ai companies": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-08"
       ]
@@ -33200,20 +33205,39 @@
       "dates": [
         "2026-10-08"
       ]
+    },
+    "targeted campaign aimed": {
+      "count": 1,
+      "dates": [
+        "2026-10-08"
+      ]
+    },
+    "chinese national charged": {
+      "count": 1,
+      "dates": [
+        "2026-10-08"
+      ]
+    },
+    "oauth grants pile": {
+      "count": 1,
+      "dates": [
+        "2026-10-08"
+      ]
+    },
+    "early october 2026": {
+      "count": 1,
+      "dates": [
+        "2026-10-08"
+      ]
+    },
+    "malicious code turned": {
+      "count": 1,
+      "dates": [
+        "2026-10-08"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-16 22:34",
-      "articles": 48,
-      "top_keywords": [
-        "ai agent powered",
-        "valid domain credentials",
-        "targets government agencies",
-        "eu chief warns",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-09-17 03:00",
       "articles": 48,
@@ -34301,6 +34325,17 @@
         "will add msix",
         "wallet import flows",
         "several google domains"
+      ]
+    },
+    {
+      "timestamp": "2026-10-08 19:37",
+      "articles": 48,
+      "top_keywords": [
+        "extortion group shinyhunters",
+        "targeted campaign aimed",
+        "guard ai agents",
+        "chinese national charged",
+        "windows operating systems"
       ]
     }
   ]

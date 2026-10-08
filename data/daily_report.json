@@ -1,72 +1,119 @@
 {
-  "last_updated": "2026-10-08 12:39",
+  "last_updated": "2026-10-08 19:37",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "extortion group shinyhunters",
-    "fortinet devices attackers",
-    "will add msix",
+    "targeted campaign aimed",
+    "guard ai agents",
+    "chinese national charged",
+    "windows operating systems",
     "wallet import flows",
-    "several google domains",
+    "oauth grants pile",
     "individuals whose licenses",
     "hacker handle rey",
-    "guard ai agents",
+    "early october 2026",
     "frontier ai companies",
     "already semi public",
-    "nearly 20 million",
-    "tiered access program",
-    "wednesday announced charges",
+    "remote code execution",
+    "malicious code turned",
+    "sprawling phishing campaign",
     "twitter whistleblower complaint",
-    "stealer cybersecurity researchers",
+    "statement released today",
     "siphoning images collected",
-    "secret ransom payments",
     "remained walled away",
-    "reach internal functions",
-    "npm package known"
+    "multiple telecommunications companies"
   ],
   "trending": [
     {
       "keyword": "extortion group shinyhunters",
-      "mentions": 4
+      "mentions": 5
     },
     {
-      "keyword": "fortinet devices attackers",
+      "keyword": "targeted campaign aimed",
       "mentions": 1
-    },
-    {
-      "keyword": "will add msix",
-      "mentions": 4
-    },
-    {
-      "keyword": "wallet import flows",
-      "mentions": 1
-    },
-    {
-      "keyword": "several google domains",
-      "mentions": 3
-    },
-    {
-      "keyword": "individuals whose licenses",
-      "mentions": 170
-    },
-    {
-      "keyword": "hacker handle rey",
-      "mentions": 4
     },
     {
       "keyword": "guard ai agents",
+      "mentions": 2
+    },
+    {
+      "keyword": "chinese national charged",
       "mentions": 1
     },
     {
-      "keyword": "frontier ai companies",
+      "keyword": "windows operating systems",
+      "mentions": 800
+    },
+    {
+      "keyword": "wallet import flows",
+      "mentions": 2
+    },
+    {
+      "keyword": "oauth grants pile",
       "mentions": 1
     },
     {
-      "keyword": "already semi public",
-      "mentions": 9
+      "keyword": "individuals whose licenses",
+      "mentions": 171
+    },
+    {
+      "keyword": "hacker handle rey",
+      "mentions": 5
+    },
+    {
+      "keyword": "early october 2026",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails",
+      "link": "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html",
+      "summary": "Hackers tied to a Chinese cybersecurity company stole email from government organizations, law enforcement agencies, healthcare systems, and religious institutions in Southeast Asia, the FBI and agencies in 6 other countries said on October 8. The company, Integrity Technology Group, has been sanctioned by the U.S. and the UK. The hackers scanned websites for flaws using a tool containing more",
+      "published": "Fri, 09 Oct 2026 00:02:21 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
+      "link": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
+      "summary": "The crooks have trust problems of their own. One ransomware affiliate decided to keep the profits for himself. Elsewhere, an attacker left a server exposed, complete with tools and traces of an intrusion. Apparently, keeping things secure is a problem on both sides of the fence. The rest of the week isn't much more reassuring. Malicious code turned up in developer packages and extensions that",
+      "published": "Thu, 08 Oct 2026 23:28:02 +0530",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks",
+      "link": "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html",
+      "summary": "Attackers behind a string of personal data leaks at Japanese organizations have abused APIs for mobile apps and targeted known software flaws, the JPCERT Coordination Center (JPCERT/CC) said. The Tokyo-based center, which takes incident reports, based its October 8, 2026 alert on those reports and other information. The alert names no attacker and no affected organization. JPCERT/",
+      "published": "Thu, 08 Oct 2026 21:15:56 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML",
+      "link": "https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html",
+      "summary": "The Russia-aligned threat actor known as UAC-0099 has been attributed to a previously undocumented .NET infostealer and remote access trojan (RAT) codenamed ASHVEIN. According to TrendAI, the malware has been put to use in attacks targeting Ukrainian government personnel. The cybersecurity company is tracking the cluster under the name Earth Sirrush (previously SHADOW-EARTH-065). ASHVEIN,",
+      "published": "Thu, 08 Oct 2026 20:56:56 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
+      "link": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
+      "summary": "Cybersecurity researchers have disclosed details of a targeted campaign aimed at South Korean financial organizations that used an artificial intelligence (AI) pen testing tool named ARTEX to carry out the attacks. The activity, per CrowdStrike Intelligence, was active from late September to early October 2026, and resulted in data exfiltration. \"In this activity, the threat actor leveraged",
+      "published": "Thu, 08 Oct 2026 19:42:34 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia",
@@ -97,49 +144,53 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "MonsterCloud Owner Accused of Billing Over $19M While Secretly Paying Ransoms to Decrypt Data",
-      "link": "https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html",
-      "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced charges against a 50-year-old U.S. and Israeli national for allegedly defrauding ransomware victims by secretly paying the attackers to obtain decryptors while claiming to use proprietary tools to recover their data. Zohar Pinhasi (aka Zack Silver and Zack Green) has been charged with two counts of wire fraud and one count of wire",
-      "published": "Thu, 08 Oct 2026 13:11:44 +0530",
-      "value_score": 28,
+      "source": "BleepingComputer",
+      "title": "Low-cost Android phones ship with residential proxy malware",
+      "link": "https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/",
+      "summary": "A malware campaign dubbed 'Midnight Mimosa' has been discovered on low-cost Android smartphones that ship with malicious software embedded in their firmware, allowing attackers to silently install apps, perform ad fraud, and turn devices into residential proxies. [...]",
+      "published": "Thu, 08 Oct 2026 15:20:33 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "FakeGit malware campaign returns with 17,610 malicious GitHub repos",
+      "link": "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/",
+      "summary": "More than 17,000 fake repositories on GitHub are distributing the SmartLoader malware after the FakeGit campaign reactivated earlier this month to push the StealC infostealer. [...]",
+      "published": "Thu, 08 Oct 2026 13:10:55 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Cisco warns of critical flaws allowing Nexus switch takeover",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/",
+      "summary": "Cisco released security advisories for five critical vulnerabilities in its NX-OS data center network operating system that could be exploited to run arbitrary code with root privileges on Nexus switches. [...]",
+      "published": "Thu, 08 Oct 2026 11:26:33 -0400",
+      "value_score": 32,
       "value_signals": [
-        "Ransomware"
+        "High severity ×2",
+        "Exploit wording"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm",
-      "link": "https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html",
-      "summary": "The npm package known as \"tensorlake,\" a TypeScript software development kit (SDK) for Tensorlake applications, sandboxes, and cloud services, was compromised as part of a ChainDrop / Shai-Hulud supply chain attack. The malicious version 0.5.144 \"contains obfuscated malware that harvests credentials, exfiltrates secrets, establishes persistence, and executes remotely supplied code,\" Socket said",
-      "published": "Thu, 08 Oct 2026 11:16:20 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "OAuth grants pile up faster than you can review them. Here's how to keep up.",
+      "link": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/",
+      "summary": "OAuth grants create data highways between SaaS apps, AI agents, and other tools. And, they are multiplying faster than any security team can review them. As the recent Klue breach showed, attackers are taking notice and exploiting forgotten OAuth grants to gain access to corporate data. This article covers why OAuth risks are so hard [...]",
+      "published": "Thu, 08 Oct 2026 10:00:10 -0400",
+      "value_score": 28,
+      "value_signals": [
+        "Breach/leak",
+        "Exploit wording"
+      ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains",
-      "link": "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html",
-      "summary": "Attackers compromised three country-code top-level domains (ccTLDs) and obtained unauthorized HTTPS certificates for several Google domains, Google said on October 6. Google's own systems were not breached, but any domain ending in .gh (Ghana), .sl (Sierra Leone) or .as (American Samoa) was put at risk. With such a certificate, an attacker could pose as the real site over an encrypted",
-      "published": "Thu, 08 Oct 2026 00:18:17 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer",
-      "link": "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html",
-      "summary": "Cybersecurity researchers have disclosed details of a long-running npm supply chain malware campaign that pushes information stealers and remote access trojans (RAT) to compromised hosts. The campaign has been codenamed MALFEX by CloudSEK and Checkmarx. The activity is assessed to be the work of a lone threat actor who appears to have published 12 packages since August 2023, eight of which have",
-      "published": "Wed, 07 Oct 2026 23:13:20 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances",
-      "link": "https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html",
-      "summary": "SonicWall has released hotfixes for four flaws in its SMA1000 appliances, the gateways that give remote workers access to a company's network and applications. The most serious could allow an attacker without a login to send requests through the appliance and reach internal functions. SonicWall rates it 10.0 on the CVSS scale and says it has no evidence that any of the four flaws is being",
-      "published": "Wed, 07 Oct 2026 21:47:44 +0530",
+      "source": "BleepingComputer",
+      "title": "Uranium crypto exchange hacker convicted for stealing $53 million",
+      "link": "https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/",
+      "summary": "A Maryland man was found guilty of stealing more than $53 million after hacking the decentralized crypto exchange Uranium Finance twice in April 2021. [...]",
+      "published": "Thu, 08 Oct 2026 09:18:36 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -169,56 +220,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/owner-of-empire-cybercrime-market-gets-40-years-in-prison/",
       "summary": "The co-creator of Empire Market, one of the largest dark web marketplaces before its shutdown, has been sentenced to 40 years in prison for facilitating $430 million in illegal transactions from 2018 to 2020. [...]",
       "published": "Thu, 08 Oct 2026 06:29:19 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Samsung Galaxy S26 hacked three more times at Pwn2Own Ireland",
-      "link": "https://www.bleepingcomputer.com/news/security/samsung-galaxy-s26-hacked-three-more-times-at-pwn2own-ireland/",
-      "summary": "​​​On the second day of Pwn2Own Ireland 2026, security researchers collected $232,500 in cash awards after exploiting 45 unique zero-day vulnerabilities. [...]",
-      "published": "Thu, 08 Oct 2026 02:32:16 -0400",
-      "value_score": 41,
-      "value_signals": [
-        "Zero-day",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Ransomware recovery CEO charged over secret ransom payments",
-      "link": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/",
-      "summary": "The owner of ransomware remediation company MonsterCloud has been charged with allegedly defrauding ransomware victims by secretly paying their attackers for decryptors while claiming to use proprietary technology to recover encrypted data. [...]",
-      "published": "Wed, 07 Oct 2026 19:04:37 -0400",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×3"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/",
-      "summary": "The FBI is warning that FortiBleed attacks are still ongoing, targeting exposed Fortinet FortiGate firewalls and SSL VPN gateways and locking out legitimate administrators. [...]",
-      "published": "Wed, 07 Oct 2026 17:28:54 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers hijack Google domains after breaching ccTLD registries",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/",
-      "summary": "Hackers obtained unauthorized HTTPS certificates for several Google domains and hijacked domains in the country-code top-level domains (ccTLDs) for Ghana, American Samoa, and Sierra Leone after compromising third-party operators and modifying authoritative DNS records. [...]",
-      "published": "Wed, 07 Oct 2026 16:50:13 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft Outlook to block MSIX attachments starting November",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-to-block-msix-attachments-used-in-attacks/",
-      "summary": "Microsoft announced that it will add .msix and .msixbundle attachments to the list of blocked attachments in Outlook Web and the new Outlook Windows client starting next month. [...]",
-      "published": "Wed, 07 Oct 2026 11:44:22 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -300,6 +301,24 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Venezuelan Cartel's Malware Honcho Nabbed for ATM Jackpotting",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/venezuelan-cartel-malware-honcho-nabbed-atm-jackpotting",
+      "summary": "The first cybercriminal to ever make the FBI's \"10 Most Wanted Fugitives\" list allegedly infused Tren de Aragua's violent criminal operations with cash.",
+      "published": "Thu, 08 Oct 2026 19:08:16 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Russian Spies Give 'MatchBoil' Malware a Stealthy Facelift",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-spies-matchboil-malware-facelift",
+      "summary": "Cyber-espionage actor UAC-0099 has been steadily refining its flagship dropper in campaigns targeting Ukrainian organizations.",
+      "published": "Thu, 08 Oct 2026 18:01:50 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Writing the Next Chapter",
       "link": "https://www.darkreading.com/cybersecurity-operations/writing-next-chapter",
       "summary": "Dark Reading is about to begin a new decade in its storied history, and we have some breaking news of our own to share.",
@@ -353,26 +372,48 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Critical Healthcare Systems Aren't Quantum-Ready",
-      "link": "https://www.darkreading.com/iot/exposed-healthcare-systems-quantum-ready",
-      "summary": "A study of 2.5 million devices across 50 healthcare organizations suggests the sector has a long way to go in getting ready for the post-quantum cryptography era.",
-      "published": "Tue, 06 Oct 2026 20:30:27 GMT",
-      "value_score": 18,
+      "source": "Security Week",
+      "title": "Cisco Patches a Dozen Critical Vulnerabilities",
+      "link": "https://www.securityweek.com/cisco-patches-a-dozen-critical-vulnerabilities/",
+      "summary": "The security defects could lead to unauthorized access, information leaks, privilege escalation, DoS attacks, and remote code execution. The post Cisco Patches a Dozen Critical Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Thu, 08 Oct 2026 15:28:06 +0000",
+      "value_score": 58,
       "value_signals": [
-        "High severity"
+        "RCE",
+        "Privilege escalation",
+        "High severity ×2"
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Google's PageBreak AI Agent Finds 500 Flaws in Its Web Apps",
-      "link": "https://www.darkreading.com/application-security/google-pagebreak-ai-agent-500-flaws-web-apps",
-      "summary": "The situation illustrates a trend toward using AI and deterministic validation to identify flaws and exploitability, and provide a risk assessment.",
-      "published": "Tue, 06 Oct 2026 17:56:29 GMT",
-      "value_score": 16,
+      "source": "Security Week",
+      "title": "Security Awareness Training Isn’t Dead, but It Needs a Rethink",
+      "link": "https://www.securityweek.com/security-awareness-training-isnt-dead-but-it-needs-a-rethink/",
+      "summary": "All enterprises conduct security awareness training for their employees. But whether this has tangible benefits is debatable. The post Security Awareness Training Isn’t Dead, but It Needs a Rethink appeared first on SecurityWeek .",
+      "published": "Thu, 08 Oct 2026 14:30:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Attackers Target Critical Atlassian Vulnerability Within Hours of PoC Publication",
+      "link": "https://www.securityweek.com/attackers-target-critical-atlassian-vulnerability-within-hours-of-poc-publication/",
+      "summary": "Threat actors have started targeting CVE-2026-21589, a critical vulnerability in Atlassian’s self-hosted Data Center products. The post Attackers Target Critical Atlassian Vulnerability Within Hours of PoC Publication appeared first on SecurityWeek .",
+      "published": "Thu, 08 Oct 2026 14:04:44 +0000",
+      "value_score": 64,
       "value_signals": [
-        "Exploit wording"
+        "CVE mentioned",
+        "PoC available ×2",
+        "High severity ×3"
       ]
+    },
+    {
+      "source": "Security Week",
+      "title": "US Seeks Alleged Chinese Hafnium Hacker With $10 Million Reward",
+      "link": "https://www.securityweek.com/us-seeks-alleged-chinese-hafnium-hacker-with-10-million-reward/",
+      "summary": "Zhang Yu was charged alongside Xu Zewei, who was extradited from Italy to the US in April 2026. The post US Seeks Alleged Chinese Hafnium Hacker With $10 Million Reward appeared first on SecurityWeek .",
+      "published": "Thu, 08 Oct 2026 12:46:21 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -410,48 +451,6 @@
       "link": "https://www.securityweek.com/fake-decryption-tools-masked-11m-markup-in-ransomware-recovery-scheme/",
       "summary": "Zohar Pinhasi was paying ransoms to obtain decryption keys and then charging victims substantially more for remediation. The post Fake Decryption Tools Masked $11M Markup in Ransomware Recovery Scheme appeared first on SecurityWeek .",
       "published": "Thu, 08 Oct 2026 09:27:55 +0000",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Oracle Health Data Breach Tally Climbs to Nearly 20 Million",
-      "link": "https://www.securityweek.com/oracle-health-data-breach-tally-climbs-to-nearly-20-million/",
-      "summary": "The figure is far higher than the counts that surfaced in earlier filings and patient notifications. The post Oracle Health Data Breach Tally Climbs to Nearly 20 Million appeared first on SecurityWeek .",
-      "published": "Thu, 08 Oct 2026 08:23:31 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "FortiBleed Attackers Locking Victims Out of Fortinet Devices",
-      "link": "https://www.securityweek.com/fortibleed-attackers-locking-victims-out-of-fortinet-devices/",
-      "summary": "Attackers are creating new accounts and deleting existing ones and passwords to prevent legitimate access. The post FortiBleed Attackers Locking Victims Out of Fortinet Devices appeared first on SecurityWeek .",
-      "published": "Thu, 08 Oct 2026 07:52:33 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Georgia Power, Alabama Power Data Breach Hits 400,000 Accounts",
-      "link": "https://www.securityweek.com/georgia-power-alabama-power-data-breach-hits-400000-accounts/",
-      "summary": "Southern Company is notifying customers that their utility account information was accessed by hackers. The post Georgia Power, Alabama Power Data Breach Hits 400,000 Accounts appeared first on SecurityWeek .",
-      "published": "Wed, 07 Oct 2026 14:15:20 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Qilin Ransomware Suspect Arrested in Japan, Extradited to Germany",
-      "link": "https://www.securityweek.com/qilin-ransomware-suspect-arrested-in-japan-extradited-to-germany/",
-      "summary": "The individual was detained in May and has been extradited to Germany to face hacking charges. The post Qilin Ransomware Suspect Arrested in Japan, Extradited to Germany appeared first on SecurityWeek .",
-      "published": "Wed, 07 Oct 2026 13:47:12 +0000",
       "value_score": 46,
       "value_signals": [
         "Ransomware ×2"

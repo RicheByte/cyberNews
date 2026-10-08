@@ -1,72 +1,121 @@
 {
-  "last_updated": "2026-10-08 05:17",
+  "last_updated": "2026-10-08 12:39",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "extortion group shinyhunters",
-    "deploy cryptocurrency miners",
-    "llm workers reach",
-    "already semi public",
-    "twitter whistleblower complaint",
+    "fortinet devices attackers",
+    "will add msix",
+    "wallet import flows",
     "several google domains",
     "individuals whose licenses",
     "hacker handle rey",
-    "reach internal functions",
-    "public poc release",
-    "lone threat actor",
-    "security experts warn",
-    "zeromq messaging library",
-    "will add msix",
-    "today issued updates",
+    "guard ai agents",
+    "frontier ai companies",
+    "already semi public",
+    "nearly 20 million",
     "tiered access program",
+    "wednesday announced charges",
+    "twitter whistleblower complaint",
     "stealer cybersecurity researchers",
     "siphoning images collected",
-    "sent rogue notifications",
-    "secret ransom payments"
+    "secret ransom payments",
+    "remained walled away",
+    "reach internal functions",
+    "npm package known"
   ],
   "trending": [
     {
       "keyword": "extortion group shinyhunters",
-      "mentions": 3
+      "mentions": 4
     },
     {
-      "keyword": "deploy cryptocurrency miners",
-      "mentions": 3
+      "keyword": "fortinet devices attackers",
+      "mentions": 1
     },
     {
-      "keyword": "llm workers reach",
-      "mentions": 3
+      "keyword": "will add msix",
+      "mentions": 4
     },
     {
-      "keyword": "already semi public",
-      "mentions": 8
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2750
+      "keyword": "wallet import flows",
+      "mentions": 1
     },
     {
       "keyword": "several google domains",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "individuals whose licenses",
-      "mentions": 169
+      "mentions": 170
     },
     {
       "keyword": "hacker handle rey",
-      "mentions": 3
+      "mentions": 4
     },
     {
-      "keyword": "reach internal functions",
-      "mentions": 3
+      "keyword": "guard ai agents",
+      "mentions": 1
     },
     {
-      "keyword": "public poc release",
-      "mentions": 3
+      "keyword": "frontier ai companies",
+      "mentions": 1
+    },
+    {
+      "keyword": "already semi public",
+      "mentions": 9
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia",
+      "link": "https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html",
+      "summary": "Phishing kits are no longer limited to copying a familiar login page and waiting for a victim to enter credentials. Attackers are increasingly building filtering, session management, and traffic controls into the infrastructure that delivers the phishing page itself. ANY.RUN has identified Wazza, a new phishkit targeting banking, manufacturing, and government organizations across the US, Europe",
+      "published": "Thu, 08 Oct 2026 16:00:00 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases",
+      "link": "https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html",
+      "summary": "Cybersecurity researchers have discovered a cluster of 16 malicious Mozilla Firefox extensions that are capable of stealing cryptocurrency wallet recovery phrases and private keys. \"The extensions masquerade as wallet portals, desktop utilities, and browser tools, but their code intercepts recovery phrases and private keys during wallet import flows and attempts to send those secrets to",
+      "published": "Thu, 08 Oct 2026 15:16:32 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks",
+      "link": "https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html",
+      "summary": "The U.S. State Department is offering up to $10 million for information leading to the identification or location of Zhang Yu, a Chinese national charged in the United States in connection with the 2021 Microsoft Exchange Server attacks known as HAFNIUM. The reward is for information leading to his identification or location, the news outlet NTD reported this week, citing a notice",
+      "published": "Thu, 08 Oct 2026 13:12:04 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "MonsterCloud Owner Accused of Billing Over $19M While Secretly Paying Ransoms to Decrypt Data",
+      "link": "https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html",
+      "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced charges against a 50-year-old U.S. and Israeli national for allegedly defrauding ransomware victims by secretly paying the attackers to obtain decryptors while claiming to use proprietary tools to recover their data. Zohar Pinhasi (aka Zack Silver and Zack Green) has been charged with two counts of wire fraud and one count of wire",
+      "published": "Thu, 08 Oct 2026 13:11:44 +0530",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm",
+      "link": "https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html",
+      "summary": "The npm package known as \"tensorlake,\" a TypeScript software development kit (SDK) for Tensorlake applications, sandboxes, and cloud services, was compromised as part of a ChainDrop / Shai-Hulud supply chain attack. The malicious version 0.5.144 \"contains obfuscated malware that harvests credentials, exfiltrates secrets, establishes persistence, and executes remotely supplied code,\" Socket said",
+      "published": "Thu, 08 Oct 2026 11:16:20 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains",
@@ -95,58 +144,43 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely",
-      "link": "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html",
-      "summary": "A critical vulnerability in LMCache, open-source software that speeds up large language model (LLM) servers such as vLLM, lets an attacker run code on the cache server without logging in, and no fixed version is available. The flaw is in LMCache's multiprocess mode, where the cache runs as a standalone server that LLM workers reach over the ZeroMQ messaging library. A single network",
-      "published": "Wed, 07 Oct 2026 21:04:53 +0530",
-      "value_score": 34,
-      "value_signals": [
-        "Patch/update",
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet",
-      "link": "https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html",
-      "summary": "Cybersecurity researchers are calling attention to a new malware family that has been observed targeting exposed artificial intelligence (AI) and large language model (LLM) infrastructure with an aim to deploy cryptocurrency miners and further expand the scale of the botnet. The financially motivated campaign, dubbed Canto Incognito, has been found to install cryptocurrency miners, including",
-      "published": "Wed, 07 Oct 2026 21:03:51 +0530",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow",
-      "link": "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html",
-      "summary": "The 2026 findings are not just a year-over-year shift. They mark the latest point in a five-year arc where resilience, AI governance, human risk, and board scrutiny are converging inside the systems where work actually happens. For years, the enterprise cybersecurity story has been told as a straight line of escalation: more attacks, more data loss, more pressure, and more urgency. That",
-      "published": "Wed, 07 Oct 2026 17:27:05 +0530",
+      "source": "BleepingComputer",
+      "title": "Microsoft Teams to get support for third-party deepfake detection tools",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/",
+      "summary": "Microsoft will soon introduce support for third-party deepfake detection solutions and impersonation protection in Teams meetings. [...]",
+      "published": "Thu, 08 Oct 2026 08:08:16 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials",
-      "link": "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains an active threat aimed at internet-facing Fortinet FortiGate firewalls and secure socket layer (SSL) virtual private network (VPN) gateways. \"The campaign exploits reused or leaked credentials and legacy SHA-256 password storage, enabling threat",
-      "published": "Wed, 07 Oct 2026 17:26:56 +0530",
-      "value_score": 16,
+      "source": "BleepingComputer",
+      "title": "ASOS links data breach to social engineering attack, credential theft",
+      "link": "https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/",
+      "summary": "ASOS is sending updates to affected customers about the cybersecurity incident it suffered earlier this week, confirming that hackers accessed some personal data. [...]",
+      "published": "Thu, 08 Oct 2026 07:42:46 -0400",
+      "value_score": 22,
       "value_signals": [
-        "Exploit wording"
+        "Breach/leak"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details",
-      "link": "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html",
-      "summary": "Threat actors have begun to exploit a newly disclosed critical security flaw impacting Atlassian Data Center products that could allow access to sensitive files under certain conditions. The arbitrary file access flaw, tracked as CVE-2026-21589 (CVSS score: 9.3) affects multiple products, including Bitbucket Data Center, Confluence Data Center, Jira Service Management Data Center, Jira Software",
-      "published": "Wed, 07 Oct 2026 17:19:26 +0530",
-      "value_score": 42,
+      "source": "BleepingComputer",
+      "title": "Owner of Empire cybercrime market gets 40 years in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/owner-of-empire-cybercrime-market-gets-40-years-in-prison/",
+      "summary": "The co-creator of Empire Market, one of the largest dark web marketplaces before its shutdown, has been sentenced to 40 years in prison for facilitating $430 million in illegal transactions from 2018 to 2020. [...]",
+      "published": "Thu, 08 Oct 2026 06:29:19 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Samsung Galaxy S26 hacked three more times at Pwn2Own Ireland",
+      "link": "https://www.bleepingcomputer.com/news/security/samsung-galaxy-s26-hacked-three-more-times-at-pwn2own-ireland/",
+      "summary": "​​​On the second day of Pwn2Own Ireland 2026, security researchers collected $232,500 in cash awards after exploiting 45 unique zero-day vulnerabilities. [...]",
+      "published": "Thu, 08 Oct 2026 02:32:16 -0400",
+      "value_score": 41,
       "value_signals": [
-        "CVE mentioned",
-        "High severity",
+        "Zero-day",
         "Exploit wording"
       ]
     },
@@ -185,51 +219,6 @@
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-to-block-msix-attachments-used-in-attacks/",
       "summary": "Microsoft announced that it will add .msix and .msixbundle attachments to the list of blocked attachments in Outlook Web and the new Outlook Windows client starting next month. [...]",
       "published": "Wed, 07 Oct 2026 11:44:22 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "PoeLLM malware infects exposed AI servers in cryptomining attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/poellm-malware-infects-exposed-ai-servers-in-cryptomining-attacks/",
-      "summary": "A cryptomining campaign targeting exposed AI services is using PoeLLM malware to turn compromised servers into scanners and exploit launchpads. [...]",
-      "published": "Wed, 07 Oct 2026 11:04:08 -0400",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Ransomware has a new target. Is your backup ready?",
-      "link": "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/",
-      "summary": "Ransomware groups are increasingly targeting backup infrastructure to eliminate recovery options and increase pressure on victims to pay. Kaseya explains why organizations need isolated, immutable, and regularly tested backups that attackers cannot easily reach. [...]",
-      "published": "Wed, 07 Oct 2026 10:01:11 -0400",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers exploit critical Atlassian flaw after public PoC release",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/",
-      "summary": "A critical vulnerability (CVE-2026-21589) affecting multiple Atlassian product families, including Jira, Confluence, and Bitbucket, is being exploited in attacks that do not require authentication. [...]",
-      "published": "Wed, 07 Oct 2026 08:49:01 -0400",
-      "value_score": 60,
-      "value_signals": [
-        "CVE mentioned",
-        "PoC available",
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "SonicWall warns of max severity SSRF flaw in SMA1000 gateways",
-      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/",
-      "summary": "SonicWall has released hotfixes to address a maximum-severity server-side request forgery (SSRF) flaw in SMA1000 series appliances. [...]",
-      "published": "Wed, 07 Oct 2026 07:37:07 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -311,6 +300,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Writing the Next Chapter",
+      "link": "https://www.darkreading.com/cybersecurity-operations/writing-next-chapter",
+      "summary": "Dark Reading is about to begin a new decade in its storied history, and we have some breaking news of our own to share.",
+      "published": "Thu, 08 Oct 2026 12:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Australian Gov't Weighs Mandatory AI Incident Reporting",
       "link": "https://www.darkreading.com/cybersecurity-operations/australian-govt-ai-incident-reporting",
       "summary": "In the wake of an agentic attack against its own Medicare systems, Australia's government is feeling out what regulations might look like for frontier AI companies.",
@@ -377,11 +375,63 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "IANS' Kakolowski: How AI Is Reshaping CISO Budgets &amp; Security Teams",
-      "link": "https://www.darkreading.com/cybersecurity-operations/ai-reshaping-ciso-budgets-security-teams",
-      "summary": "In this video interview, Nick Kakolowski, senior director for CISO research at IANS, talks AI: budgets, ROI, and changes inside security teams.",
-      "published": "Tue, 06 Oct 2026 17:15:24 GMT",
+      "source": "Security Week",
+      "title": "SonicWall and Splunk Patch Critical Vulnerabilities",
+      "link": "https://www.securityweek.com/sonicwall-and-splunk-patch-critical-vulnerabilities/",
+      "summary": "Critical and high-severity vulnerabilities could allow attackers to bypass authentication, execute arbitrary code, and elevate their privileges. The post SonicWall and Splunk Patch Critical Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Thu, 08 Oct 2026 12:37:32 +0000",
+      "value_score": 42,
+      "value_signals": [
+        "Patch/update ×2",
+        "High severity ×3"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Rein Security Raises $25 Million to Guard AI Agents at Runtime",
+      "link": "https://www.securityweek.com/rein-security-raises-25-million-to-guard-ai-agents-at-runtime/",
+      "summary": "The cybersecurity startup will invest in product innovation, agentic research, and employee base expansion. The post Rein Security Raises $25 Million to Guard AI Agents at Runtime appeared first on SecurityWeek .",
+      "published": "Thu, 08 Oct 2026 11:11:28 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "TP-Link Faces State Lawsuits and New Scrutiny Over ISP Router Flaws",
+      "link": "https://www.securityweek.com/tp-link-faces-state-lawsuits-and-new-scrutiny-over-isp-router-flaws/",
+      "summary": "SEC Consult has published technical details on vulnerabilities mentioned in a complaint filed by several US states. The post TP-Link Faces State Lawsuits and New Scrutiny Over ISP Router Flaws appeared first on SecurityWeek .",
+      "published": "Thu, 08 Oct 2026 10:24:04 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Fake Decryption Tools Masked $11M Markup in Ransomware Recovery Scheme",
+      "link": "https://www.securityweek.com/fake-decryption-tools-masked-11m-markup-in-ransomware-recovery-scheme/",
+      "summary": "Zohar Pinhasi was paying ransoms to obtain decryption keys and then charging victims substantially more for remediation. The post Fake Decryption Tools Masked $11M Markup in Ransomware Recovery Scheme appeared first on SecurityWeek .",
+      "published": "Thu, 08 Oct 2026 09:27:55 +0000",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Oracle Health Data Breach Tally Climbs to Nearly 20 Million",
+      "link": "https://www.securityweek.com/oracle-health-data-breach-tally-climbs-to-nearly-20-million/",
+      "summary": "The figure is far higher than the counts that surfaced in earlier filings and patient notifications. The post Oracle Health Data Breach Tally Climbs to Nearly 20 Million appeared first on SecurityWeek .",
+      "published": "Thu, 08 Oct 2026 08:23:31 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "FortiBleed Attackers Locking Victims Out of Fortinet Devices",
+      "link": "https://www.securityweek.com/fortibleed-attackers-locking-victims-out-of-fortinet-devices/",
+      "summary": "Attackers are creating new accounts and deleting existing ones and passwords to prevent legitimate access. The post FortiBleed Attackers Locking Victims Out of Fortinet Devices appeared first on SecurityWeek .",
+      "published": "Thu, 08 Oct 2026 07:52:33 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -406,68 +456,6 @@
       "value_signals": [
         "Ransomware ×2"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Hadrian Raises $40 Million to Expand Autonomous Offensive Security Platform",
-      "link": "https://www.securityweek.com/hadrian-raises-40-million-to-expand-autonomous-offensive-security-platform/",
-      "summary": "Hadrian offers an agentic offensive security platform that allows defenders to operate at the same speed as attackers. The post Hadrian Raises $40 Million to Expand Autonomous Offensive Security Platform appeared first on SecurityWeek .",
-      "published": "Wed, 07 Oct 2026 13:06:10 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Advantest Discloses Data Breach Months After Ransomware Attack",
-      "link": "https://www.securityweek.com/advantest-discloses-data-breach-months-after-ransomware-attack/",
-      "summary": "The Japanese chip testing giant said hackers stole personal information from its servers in the February 2026 cyberattack. The post Advantest Discloses Data Breach Months After Ransomware Attack appeared first on SecurityWeek .",
-      "published": "Wed, 07 Oct 2026 12:37:24 +0000",
-      "value_score": 70,
-      "value_signals": [
-        "Ransomware ×2",
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Chrome 155 Update Patches 247 Vulnerabilities",
-      "link": "https://www.securityweek.com/chrome-155-update-patches-247-vulnerabilities/",
-      "summary": "Four critical-severity use-after-free defects were fixed in Chromecast, Browser, Navigation, and Track. The post Chrome 155 Update Patches 247 Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Wed, 07 Oct 2026 10:51:57 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Patch/update ×3",
-        "High severity"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Anthropic Introduces 3-Tier Cyber Verification Program for AI Access",
-      "link": "https://www.securityweek.com/anthropic-introduces-3-tier-cyber-verification-program-for-ai-access/",
-      "summary": "Anthropic is integrating the CVP and Project Glasswing into a single offering, with three levels of access to its most capable AI models. The post Anthropic Introduces 3-Tier Cyber Verification Program for AI Access appeared first on SecurityWeek .",
-      "published": "Wed, 07 Oct 2026 10:07:09 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "ASOS Confirms Cyberattack, Data Breach",
-      "link": "https://www.securityweek.com/asos-confirms-cyberattack-data-breach/",
-      "summary": "Hackers compromised a third-party communication platform and sent rogue notifications to ASOS users. The post ASOS Confirms Cyberattack, Data Breach appeared first on SecurityWeek .",
-      "published": "Wed, 07 Oct 2026 09:46:20 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Wikimedia Says Rogue OpenAI Agents Tried to Turn Its Tools Into Proxies",
-      "link": "https://www.securityweek.com/wikimedia-says-rogue-openai-agents-tried-to-turn-its-tools-into-proxies/",
-      "summary": "Wikimedia looked into whether its own websites had seen activity like that disclosed by other organizations The post Wikimedia Says Rogue OpenAI Agents Tried to Turn Its Tools Into Proxies appeared first on SecurityWeek .",
-      "published": "Wed, 07 Oct 2026 07:58:22 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

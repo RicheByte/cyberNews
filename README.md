@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-08 05:17 UTC |
+| 🕐 Last Updated | 2026-10-08 12:39 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`extortion group shinyhunters` • `deploy cryptocurrency miners` • `llm workers reach` • `already semi public` • `twitter whistleblower complaint` • `several google domains` • `individuals whose licenses` • `hacker handle rey` • `reach internal functions` • `public poc release`
+`extortion group shinyhunters` • `fortinet devices attackers` • `will add msix` • `wallet import flows` • `several google domains` • `individuals whose licenses` • `hacker handle rey` • `guard ai agents` • `frontier ai companies` • `already semi public`
 
 ## 📄 Reports
 

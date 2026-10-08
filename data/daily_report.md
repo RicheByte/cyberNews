@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-10-08 05:17 UTC  
+> **Last Updated:** 2026-10-08 12:39 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**extortion group shinyhunters** • **deploy cryptocurrency miners** • **llm workers reach** • **already semi public** • **twitter whistleblower complaint** • **several google domains** • **individuals whose licenses** • **hacker handle rey** • **reach internal functions** • **public poc release** • **lone threat actor** • **security experts warn** • **zeromq messaging library** • **will add msix** • **today issued updates** • **tiered access program** • **stealer cybersecurity researchers** • **siphoning images collected** • **sent rogue notifications** • **secret ransom payments**
+**extortion group shinyhunters** • **fortinet devices attackers** • **will add msix** • **wallet import flows** • **several google domains** • **individuals whose licenses** • **hacker handle rey** • **guard ai agents** • **frontier ai companies** • **already semi public** • **nearly 20 million** • **tiered access program** • **wednesday announced charges** • **twitter whistleblower complaint** • **stealer cybersecurity researchers** • **siphoning images collected** • **secret ransom payments** • **remained walled away** • **reach internal functions** • **npm package known**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia](https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html)
+- [16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases](https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html)
+- [U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks](https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html)
+- [MonsterCloud Owner Accused of Billing Over $19M While Secretly Paying Ransoms to Decrypt Data](https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html)
+- [Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm](https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html)
 - [Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains](https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html)
 - [Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer](https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html)
 - [SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances](https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html)
-- [Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely](https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html)
-- [PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet](https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html)
-- [The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow](https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html)
-- [FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials](https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html)
-- [Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details](https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html)
 
 ### BleepingComputer
 
+- [Microsoft Teams to get support for third-party deepfake detection tools](https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/)
+- [ASOS links data breach to social engineering attack, credential theft](https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/)
+- [Owner of Empire cybercrime market gets 40 years in prison](https://www.bleepingcomputer.com/news/security/owner-of-empire-cybercrime-market-gets-40-years-in-prison/)
+- [Samsung Galaxy S26 hacked three more times at Pwn2Own Ireland](https://www.bleepingcomputer.com/news/security/samsung-galaxy-s26-hacked-three-more-times-at-pwn2own-ireland/)
 - [Ransomware recovery CEO charged over secret ransom payments](https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/)
 - [FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins](https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/)
 - [Hackers hijack Google domains after breaching ccTLD registries](https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/)
 - [Microsoft Outlook to block MSIX attachments starting November](https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-to-block-msix-attachments-used-in-attacks/)
-- [PoeLLM malware infects exposed AI servers in cryptomining attacks](https://www.bleepingcomputer.com/news/security/poellm-malware-infects-exposed-ai-servers-in-cryptomining-attacks/)
-- [Ransomware has a new target. Is your backup ready?](https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/)
-- [Hackers exploit critical Atlassian flaw after public PoC release](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/)
-- [SonicWall warns of max severity SSRF flaw in SMA1000 gateways](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Writing the Next Chapter](https://www.darkreading.com/cybersecurity-operations/writing-next-chapter)
 - [Australian Gov't Weighs Mandatory AI Incident Reporting](https://www.darkreading.com/cybersecurity-operations/australian-govt-ai-incident-reporting)
 - [Citizen Lab Slams Trump Administration, 'Techno-Fascist' Executives](https://www.darkreading.com/cyber-risk/citizen-lab-slams-trump-administration-techno-fascist-executives)
 - [Anthropic Gives Vetted Defenders Fewer Claude Guardrails](https://www.darkreading.com/vulnerabilities-threats/anthropic-vetted-defenders-claude-guardrails)
@@ -56,18 +57,17 @@
 - [ClickFix Attacks Evolve to Better Hide Malicious Payloads](https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads)
 - [Critical Healthcare Systems Aren't Quantum-Ready](https://www.darkreading.com/iot/exposed-healthcare-systems-quantum-ready)
 - [Google's PageBreak AI Agent Finds 500 Flaws in Its Web Apps](https://www.darkreading.com/application-security/google-pagebreak-ai-agent-500-flaws-web-apps)
-- [IANS' Kakolowski: How AI Is Reshaping CISO Budgets &amp; Security Teams](https://www.darkreading.com/cybersecurity-operations/ai-reshaping-ciso-budgets-security-teams)
 
 ### Security Week
 
+- [SonicWall and Splunk Patch Critical Vulnerabilities](https://www.securityweek.com/sonicwall-and-splunk-patch-critical-vulnerabilities/)
+- [Rein Security Raises $25 Million to Guard AI Agents at Runtime](https://www.securityweek.com/rein-security-raises-25-million-to-guard-ai-agents-at-runtime/)
+- [TP-Link Faces State Lawsuits and New Scrutiny Over ISP Router Flaws](https://www.securityweek.com/tp-link-faces-state-lawsuits-and-new-scrutiny-over-isp-router-flaws/)
+- [Fake Decryption Tools Masked $11M Markup in Ransomware Recovery Scheme](https://www.securityweek.com/fake-decryption-tools-masked-11m-markup-in-ransomware-recovery-scheme/)
+- [Oracle Health Data Breach Tally Climbs to Nearly 20 Million](https://www.securityweek.com/oracle-health-data-breach-tally-climbs-to-nearly-20-million/)
+- [FortiBleed Attackers Locking Victims Out of Fortinet Devices](https://www.securityweek.com/fortibleed-attackers-locking-victims-out-of-fortinet-devices/)
 - [Georgia Power, Alabama Power Data Breach Hits 400,000 Accounts](https://www.securityweek.com/georgia-power-alabama-power-data-breach-hits-400000-accounts/)
 - [Qilin Ransomware Suspect Arrested in Japan, Extradited to Germany](https://www.securityweek.com/qilin-ransomware-suspect-arrested-in-japan-extradited-to-germany/)
-- [Hadrian Raises $40 Million to Expand Autonomous Offensive Security Platform](https://www.securityweek.com/hadrian-raises-40-million-to-expand-autonomous-offensive-security-platform/)
-- [Advantest Discloses Data Breach Months After Ransomware Attack](https://www.securityweek.com/advantest-discloses-data-breach-months-after-ransomware-attack/)
-- [Chrome 155 Update Patches 247 Vulnerabilities](https://www.securityweek.com/chrome-155-update-patches-247-vulnerabilities/)
-- [Anthropic Introduces 3-Tier Cyber Verification Program for AI Access](https://www.securityweek.com/anthropic-introduces-3-tier-cyber-verification-program-for-ai-access/)
-- [ASOS Confirms Cyberattack, Data Breach](https://www.securityweek.com/asos-confirms-cyberattack-data-breach/)
-- [Wikimedia Says Rogue OpenAI Agents Tried to Turn Its Tools Into Proxies](https://www.securityweek.com/wikimedia-says-rogue-openai-agents-tried-to-turn-its-tools-into-proxies/)
 
 ### Threatpost
 

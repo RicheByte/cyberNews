@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-09 16:45 UTC |
+| 🕐 Last Updated | 2026-10-09 22:08 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`permissions ai agents` • `google domains impacted` • `xmrig cryptocurrency miners` • `open source maintainers` • `full working exploit` • `extortion group shinyhunters` • `several google domains` • `russian national suspected` • `executives must match` • `tp link systems`
+`permissions ai agents` • `ahsaycbs backup utility` • `google domains impacted` • `open source maintainers` • `full working exploit` • `russian national suspected` • `extortion group shinyhunters` • `foreign critical infrastructure` • `several google domains` • `twitter whistleblower complaint`
 
 ## 📄 Reports
 

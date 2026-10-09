@@ -346,7 +346,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2755,
+      "count": 2756,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -944,7 +944,7 @@
       ]
     },
     "remote code execution": {
-      "count": 512,
+      "count": 513,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2098,7 +2098,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 643,
+      "count": 644,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -29340,7 +29340,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 174,
+      "count": 175,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -33060,7 +33060,7 @@
       ]
     },
     "extortion group shinyhunters": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33089,7 +33089,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33143,7 +33143,7 @@
       ]
     },
     "several google domains": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33270,13 +33270,13 @@
       ]
     },
     "permissions ai agents": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-09"
       ]
     },
     "google domains impacted": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-09"
       ]
@@ -33288,25 +33288,25 @@
       ]
     },
     "open source maintainers": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-09"
       ]
     },
     "full working exploit": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-09"
       ]
     },
     "russian national suspected": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-09"
       ]
     },
     "executives must match": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-09"
       ]
@@ -33318,7 +33318,7 @@
       ]
     },
     "inject os commands": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-09"
       ]
@@ -33336,12 +33336,36 @@
       ]
     },
     "ahsaycbs backup utility": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-09"
       ]
     },
     "business systems attackers": {
+      "count": 2,
+      "dates": [
+        "2026-10-09"
+      ]
+    },
+    "foreign critical infrastructure": {
+      "count": 1,
+      "dates": [
+        "2026-10-09"
+      ]
+    },
+    "fake claude installers": {
+      "count": 1,
+      "dates": [
+        "2026-10-09"
+      ]
+    },
+    "prolific data theft": {
+      "count": 1,
+      "dates": [
+        "2026-10-09"
+      ]
+    },
+    "suspected shinyhunters operative": {
       "count": 1,
       "dates": [
         "2026-10-09"
@@ -33349,17 +33373,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-17 19:29",
-      "articles": 48,
-      "top_keywords": [
-        "remote code execution",
-        "leaked api keys",
-        "disclosing model misalignment",
-        "windows operating systems",
-        "least august 2025"
-      ]
-    },
     {
       "timestamp": "2026-09-17 22:36",
       "articles": 48,
@@ -34445,6 +34458,17 @@
         "permissions ai agents",
         "google domains impacted",
         "xmrig cryptocurrency miners",
+        "open source maintainers",
+        "full working exploit"
+      ]
+    },
+    {
+      "timestamp": "2026-10-09 22:08",
+      "articles": 48,
+      "top_keywords": [
+        "permissions ai agents",
+        "ahsaycbs backup utility",
+        "google domains impacted",
         "open source maintainers",
         "full working exploit"
       ]

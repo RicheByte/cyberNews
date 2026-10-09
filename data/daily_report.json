@@ -1,72 +1,90 @@
 {
-  "last_updated": "2026-10-09 16:45",
+  "last_updated": "2026-10-09 22:08",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "permissions ai agents",
+    "ahsaycbs backup utility",
     "google domains impacted",
-    "xmrig cryptocurrency miners",
     "open source maintainers",
     "full working exploit",
-    "extortion group shinyhunters",
-    "several google domains",
     "russian national suspected",
-    "executives must match",
-    "tp link systems",
+    "extortion group shinyhunters",
+    "foreign critical infrastructure",
+    "several google domains",
     "twitter whistleblower complaint",
+    "sprawling phishing campaign",
     "remote code execution",
     "inject os commands",
     "individuals whose licenses",
     "hacker handle rey",
-    "frontier ai companies",
-    "citrix warns admins",
-    "ai velocity paradox",
-    "ahsaycbs backup utility",
-    "business systems attackers"
+    "fake claude installers",
+    "executives must match",
+    "business systems attackers",
+    "prolific data theft",
+    "suspected shinyhunters operative"
   ],
   "trending": [
     {
       "keyword": "permissions ai agents",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "ahsaycbs backup utility",
+      "mentions": 2
     },
     {
       "keyword": "google domains impacted",
-      "mentions": 1
-    },
-    {
-      "keyword": "xmrig cryptocurrency miners",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "open source maintainers",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "full working exploit",
-      "mentions": 1
-    },
-    {
-      "keyword": "extortion group shinyhunters",
-      "mentions": 8
-    },
-    {
-      "keyword": "several google domains",
-      "mentions": 4
+      "mentions": 2
     },
     {
       "keyword": "russian national suspected",
+      "mentions": 2
+    },
+    {
+      "keyword": "extortion group shinyhunters",
+      "mentions": 9
+    },
+    {
+      "keyword": "foreign critical infrastructure",
       "mentions": 1
     },
     {
-      "keyword": "executives must match",
-      "mentions": 1
+      "keyword": "several google domains",
+      "mentions": 5
     },
     {
-      "keyword": "tp link systems",
-      "mentions": 1
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2756
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
+      "link": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
+      "summary": "Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts to push a malicious workflow into over 340 repositories. \"Using the account of Takashi Kitao, author of the 18,400-star game engine pyxel, the attacker pushed a malicious workflow to 27 repositories starting at 13:20 UTC,\" StepSecurity",
+      "published": "Sat, 10 Oct 2026 00:44:28 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
+      "link": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
+      "summary": "The FBI has arrested another suspected co-conspirator of ShinyHunters, FBI Director Kash Patel said on October 9 in a post on X. ShinyHunters is the extortion group that said in September it had breached the FBI's jobs portal and stolen sensitive data on almost all FBI agents and job applicants. The FBI has not named the suspect, and no charges have been made public. The",
+      "published": "Fri, 09 Oct 2026 23:15:26 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
@@ -135,24 +153,36 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition",
-      "link": "https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html",
-      "summary": "As enterprises race to deploy autonomous AI agents to accelerate business, a new report reveals they are tethered to security architectures built for a different era. The \"Horizons of Identity Security\" report from SailPoint highlights a critical “velocity paradox,” in which organizations invest in AI-speed business operations while continuing to rely on human-speed security controls, creating a",
-      "published": "Fri, 09 Oct 2026 17:00:00 +0530",
-      "value_score": 18,
+      "source": "BleepingComputer",
+      "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
+      "summary": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks. [...]",
+      "published": "Fri, 09 Oct 2026 16:31:37 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
+      "link": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/",
+      "summary": "Threat actors are exploiting one critical and one medium-severity vulnerability still unpatched in the AhsayCBS backup management platform to deploy webshells and cryptocurrency miners. [...]",
+      "published": "Fri, 09 Oct 2026 13:17:23 -0400",
+      "value_score": 24,
       "value_signals": [
-        "High severity"
+        "High severity",
+        "Exploit wording"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys",
-      "link": "https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html",
-      "summary": "A bug in GoBalance, a tool many dark-web sites use to stay reachable during attacks, lets anyone work out the secret key that controls a site's .onion address using only public information, and then take that address over. Searchlight Cyber, which disclosed the flaw on October 8, says an attacker who recovers the key can redirect the site's visitors to a copy of the site they control.",
-      "published": "Fri, 09 Oct 2026 14:33:24 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
+      "summary": "The FBI has arrested another suspected member of the ShinyHunters extortion group believed to be involved in the recent breach of FBI systems, Director Kash Patel announced Friday. [...]",
+      "published": "Fri, 09 Oct 2026 13:02:29 -0400",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -204,43 +234,6 @@
       "value_score": 18,
       "value_signals": [
         "Patch/update"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Citrix warns admins to patch new NetScaler RCE flaw immediately",
-      "link": "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/",
-      "summary": "Citrix has warned IT administrators to patch systems immediately against a new critical vulnerability affecting NetScaler ADC networking appliances and NetScaler Gateway secure remote access solutions. [...]",
-      "published": "Fri, 09 Oct 2026 04:27:42 -0400",
-      "value_score": 54,
-      "value_signals": [
-        "RCE",
-        "Patch/update ×2",
-        "High severity"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/",
-      "summary": "The Pwn2Own Ireland 2026 hacking contest has concluded, with hackers collecting $1,262,000 in rewards after exploiting 98 zero-day flaws. [...]",
-      "published": "Fri, 09 Oct 2026 01:41:04 -0400",
-      "value_score": 41,
-      "value_signals": [
-        "Zero-day",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/",
-      "summary": "The FBI has seized seven domains used by Chinese state-sponsored hackers known as Flax Typhoon to operate two hacking tools, MicroScan and FishHub, used in attacks that breached critical infrastructure and other organizations worldwide. [...]",
-      "published": "Thu, 08 Oct 2026 17:42:51 -0400",
-      "value_score": 38,
-      "value_signals": [
-        "Breach/leak",
-        "High severity ×2"
       ]
     },
     {
@@ -321,9 +314,38 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Security Threats Don't Stop at the Office: Why Executives' Families Need Training Too",
+      "title": "ASOS Breach Reveals the Risks in Customer-Facing SaaS",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/asos-breach-risks-customer-facing-saas",
+      "summary": "The attack on the British retailer shows that compromising a single identity can lead to much deeper penetration of the corporate network.",
+      "published": "Fri, 09 Oct 2026 20:58:32 GMT",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "AI Scramble Drives Cybersecurity M&amp;A Boom",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/ai-scramble-cybersecurity-ma-boom",
+      "summary": "Welcome to another gangbuster year for strategic M&A activity in cyber, with 117 deals announced in the latest quarter. What's different: Many of the buyers are not your typical cybersecurity firms.",
+      "published": "Fri, 09 Oct 2026 19:26:26 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "What We Missed: FBI Strikes Back at ShinyHunters",
+      "link": "https://www.darkreading.com/identity-access-management-security/fbi-shinyhunters-claims-hack",
+      "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from the arrest of a suspected ShinyHunters operative to the compromise of a Pentagon-run data center.",
+      "published": "Fri, 09 Oct 2026 17:21:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Security Threats Don't Stop at the Office: Why Executives' Families Need Training, Too",
       "link": "https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too",
-      "summary": "Those closest to executives must match their security postures because the weakest link in a family becomes the entry point for attacks.",
+      "summary": "Those closest to executives must match their security postures because the weakest link in a family can become the entry point for attacks.",
       "published": "Fri, 09 Oct 2026 16:25:05 GMT",
       "value_score": 10,
       "value_signals": []
@@ -339,9 +361,9 @@
     },
     {
       "source": "Dark Reading",
-      "title": "'AgentCorruption' Puts AWS Environments At Risk With Single Prompt",
+      "title": "'AgentCorruption' Puts AWS Environments at Risk With Single Prompt",
       "link": "https://www.darkreading.com/cloud-security/agentcorruption-aws-environments-at-risk-single-prompt",
-      "summary": "A now-patched vulnerability in AWS Bedrock AgentCore could've allowed an attacker to use one AI chatbot to take over an organization's entire fleet.",
+      "summary": "A now-patched vulnerability in AWS Bedrock AgentCore could have allowed an attacker to use one AI chatbot to take over an organization's entire fleet.",
       "published": "Thu, 08 Oct 2026 20:39:44 GMT",
       "value_score": 10,
       "value_signals": []
@@ -365,29 +387,11 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Writing the Next Chapter",
-      "link": "https://www.darkreading.com/cybersecurity-operations/writing-next-chapter",
-      "summary": "Dark Reading is about to begin a new decade in its storied history, and we have some breaking news of our own to share.",
-      "published": "Thu, 08 Oct 2026 12:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Australian Gov't Weighs Mandatory AI Incident Reporting",
-      "link": "https://www.darkreading.com/cybersecurity-operations/australian-govt-ai-incident-reporting",
-      "summary": "In the wake of an agentic attack against its own Medicare systems, Australia's government is feeling out what regulations might look like for frontier AI companies.",
-      "published": "Wed, 07 Oct 2026 21:42:55 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Citizen Lab Slams Trump Administration, 'Techno-Fascist' Executives",
-      "link": "https://www.darkreading.com/cyber-risk/citizen-lab-slams-trump-administration-techno-fascist-executives",
-      "summary": "The Citizen Lab's Ron Deibert warns the US government is pushing for pervasive surveillance and says certain technology executives are all too happy to help.",
-      "published": "Wed, 07 Oct 2026 21:25:13 GMT",
+      "source": "Security Week",
+      "title": "OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks",
+      "link": "https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/",
+      "summary": "The ChatGPT maker said the researchers \"violated clear policies on handling sensitive information.” The post OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks appeared first on SecurityWeek .",
+      "published": "Fri, 09 Oct 2026 21:07:46 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -466,17 +470,6 @@
         "CVE mentioned",
         "RCE",
         "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Google Pixel 10 Exploits Earned Hackers $560,000 at Pwn2Own",
-      "link": "https://www.securityweek.com/google-pixel-10-exploits-earned-hackers-560000-at-pwn2own/",
-      "summary": "$1.2 million was paid out at Pwn2Own Ireland 2026 for exploits targeting phones, printers, smart speakers, smart home hubs, and AI infrastructure and coding tools. The post Google Pixel 10 Exploits Earned Hackers $560,000 at Pwn2Own appeared first on SecurityWeek .",
-      "published": "Fri, 09 Oct 2026 06:39:55 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
       ]
     },
     {

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-09 08:21 UTC |
+| 🕐 Last Updated | 2026-10-09 16:45 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`extortion group shinyhunters` • `turning bad researchers` • `windows operating systems` • `wallet import flows` • `twitter whistleblower complaint` • `oauth grants pile` • `individuals whose licenses` • `hacker handle rey` • `frontier ai companies` • `already semi public`
+`permissions ai agents` • `google domains impacted` • `xmrig cryptocurrency miners` • `open source maintainers` • `full working exploit` • `extortion group shinyhunters` • `several google domains` • `russian national suspected` • `executives must match` • `tp link systems`
 
 ## 📄 Reports
 

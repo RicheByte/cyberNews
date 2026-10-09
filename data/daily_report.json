@@ -1,149 +1,223 @@
 {
-  "last_updated": "2026-10-09 08:21",
+  "last_updated": "2026-10-09 16:45",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
+    "permissions ai agents",
+    "google domains impacted",
+    "xmrig cryptocurrency miners",
+    "open source maintainers",
+    "full working exploit",
     "extortion group shinyhunters",
-    "turning bad researchers",
-    "windows operating systems",
-    "wallet import flows",
+    "several google domains",
+    "russian national suspected",
+    "executives must match",
+    "tp link systems",
     "twitter whistleblower complaint",
-    "oauth grants pile",
+    "remote code execution",
+    "inject os commands",
     "individuals whose licenses",
     "hacker handle rey",
     "frontier ai companies",
-    "already semi public",
-    "remote code execution",
-    "malicious code turned",
-    "tokyo based center",
-    "targeted campaign aimed",
-    "sprawling phishing campaign",
-    "today issued updates",
-    "statement released today",
-    "siphoning images collected",
-    "selling digital scans",
-    "remained walled away"
+    "citrix warns admins",
+    "ai velocity paradox",
+    "ahsaycbs backup utility",
+    "business systems attackers"
   ],
   "trending": [
     {
-      "keyword": "extortion group shinyhunters",
-      "mentions": 7
-    },
-    {
-      "keyword": "turning bad researchers",
+      "keyword": "permissions ai agents",
       "mentions": 1
     },
     {
-      "keyword": "windows operating systems",
-      "mentions": 802
+      "keyword": "google domains impacted",
+      "mentions": 1
     },
     {
-      "keyword": "wallet import flows",
+      "keyword": "xmrig cryptocurrency miners",
+      "mentions": 1
+    },
+    {
+      "keyword": "open source maintainers",
+      "mentions": 1
+    },
+    {
+      "keyword": "full working exploit",
+      "mentions": 1
+    },
+    {
+      "keyword": "extortion group shinyhunters",
+      "mentions": 8
+    },
+    {
+      "keyword": "several google domains",
       "mentions": 4
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2754
+      "keyword": "russian national suspected",
+      "mentions": 1
     },
     {
-      "keyword": "oauth grants pile",
-      "mentions": 3
+      "keyword": "executives must match",
+      "mentions": 1
     },
     {
-      "keyword": "individuals whose licenses",
-      "mentions": 173
-    },
-    {
-      "keyword": "hacker handle rey",
-      "mentions": 7
-    },
-    {
-      "keyword": "frontier ai companies",
-      "mentions": 4
-    },
-    {
-      "keyword": "already semi public",
-      "mentions": 12
+      "keyword": "tp link systems",
+      "mentions": 1
     }
   ],
   "articles": [
     {
       "source": "The Hacker News",
-      "title": "FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions",
-      "link": "https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) and Department of Justice (DoJ) have announced the disruption of malicious tools used by a China-linked advanced persistent threat group known as Flax Typhoon. To that end, the agencies seized several domains and blocked access to platforms that were used to scan, and in some cases infiltrate, U.S. critical infrastructure. The list of seized",
-      "published": "Fri, 09 Oct 2026 12:09:29 +0530",
-      "value_score": 26,
+      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+      "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+      "summary": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the variants we usually observe, P7 reduces its on-device footprint, adds on-device keychain and crypto-wallet theft, and adds two way C2 communication with the attacker's infrastructure,\" iVerify said in a new report published Thursday. The name",
+      "published": "Fri, 09 Oct 2026 21:59:55 +0530",
+      "value_score": 16,
       "value_signals": [
-        "High severity ×2"
+        "Exploit wording"
       ]
     },
     {
       "source": "The Hacker News",
-      "title": "FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails",
-      "link": "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html",
-      "summary": "Hackers tied to a Chinese cybersecurity company stole email from government organizations, law enforcement agencies, healthcare systems, and religious institutions in Southeast Asia, the FBI and agencies in 6 other countries said on October 8. The company, Integrity Technology Group, has been sanctioned by the U.S. and the UK. The hackers scanned websites for flaws using a tool containing more",
-      "published": "Fri, 09 Oct 2026 00:02:21 +0530",
+      "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
+      "link": "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html",
+      "summary": "Four more U.S. states sued router maker TP-Link Systems on October 6, bringing the total to five, with Texas filing a suit in February. Florida, Iowa, Montana and Nebraska allege the California company misled buyers about how secure its routers are and how separate it is from China. TP-Link denies the claims and says it will fight them in court. TP-Link Systems is based in",
+      "published": "Fri, 09 Oct 2026 18:52:53 +0530",
       "value_score": 10,
       "value_signals": []
     },
     {
       "source": "The Hacker News",
-      "title": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
-      "link": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
-      "summary": "The crooks have trust problems of their own. One ransomware affiliate decided to keep the profits for himself. Elsewhere, an attacker left a server exposed, complete with tools and traces of an intrusion. Apparently, keeping things secure is a problem on both sides of the fence. The rest of the week isn't much more reassuring. Malicious code turned up in developer packages and extensions that",
-      "published": "Thu, 08 Oct 2026 23:28:02 +0530",
+      "title": "Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access",
+      "link": "https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html",
+      "summary": "Security researchers have published a full working exploit for a pre-authentication remote code execution flaw in AnyDesk Linux that gives attackers root access before anyone approves the connection. AnyDesk patched the flaw in version 8.0.3 in June, but its changelog described the fix only as \"fixed a bug that could lead to a crash,\" with no CVE assigned and no security",
+      "published": "Fri, 09 Oct 2026 18:29:22 +0530",
+      "value_score": 52,
+      "value_signals": [
+        "RCE",
+        "Patch/update ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
+      "link": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
+      "summary": "Anthropic on Thursday unveiled OSS Scanner as an opt-in vulnerability scanner to help secure the open-source ecosystem using artificial intelligence (AI). \"It's an opt-in service informed by our experience using Claude to find vulnerabilities during Project Glasswing,\" Anthropic said. \"Projects that join will receive thorough, periodic security scans by our strongest models at no cost.\"",
+      "published": "Fri, 09 Oct 2026 18:17:28 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
+      "link": "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html",
+      "summary": "Threat actors have been observed exploiting two recently disclosed flaws in the AhsayCBS backup utility to seize control of affected devices and deploy web shells and XMRig cryptocurrency miners. Details of the flaws are below - CVE-2026-105133 (CVSS v4 score: 5.5) - An improper authentication vulnerability in the checkSysPwd() function in the \"com/ahsay/obs/api/ApiStructsAction.java\"",
+      "published": "Fri, 09 Oct 2026 18:17:26 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "CVE mentioned",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies",
+      "link": "https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added five security flaws to its Known Exploited Vulnerabilities (KEV) catalog, following their abuse by a China-linked threat actor known as Flax Typhoon. The vulnerabilities in question are listed below - CVE-2015-3306 (CVSS score: 10.0) - An improper access control vulnerability in ProFTPD that could allow",
+      "published": "Fri, 09 Oct 2026 17:51:51 +0530",
+      "value_score": 74,
+      "value_signals": [
+        "CVE mentioned",
+        "CISA/KEV ×4",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition",
+      "link": "https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html",
+      "summary": "As enterprises race to deploy autonomous AI agents to accelerate business, a new report reveals they are tethered to security architectures built for a different era. The \"Horizons of Identity Security\" report from SailPoint highlights a critical “velocity paradox,” in which organizations invest in AI-speed business operations while continuing to rely on human-speed security controls, creating a",
+      "published": "Fri, 09 Oct 2026 17:00:00 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys",
+      "link": "https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html",
+      "summary": "A bug in GoBalance, a tool many dark-web sites use to stay reachable during attacks, lets anyone work out the secret key that controls a site's .onion address using only public information, and then take that address over. Searchlight Cyber, which disclosed the flaw on October 8, says an attacker who recovers the key can redirect the site's visitors to a copy of the site they control.",
+      "published": "Fri, 09 Oct 2026 14:33:24 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Germany arrests alleged core Qilin ransomware member after extradition",
+      "link": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
+      "summary": "Germany has arrested a Russian national suspected of being a leading member of the Qilin ransomware group following extradition from Japan earlier this month. [...]",
+      "published": "Fri, 09 Oct 2026 11:38:56 -0400",
       "value_score": 46,
       "value_signals": [
         "Ransomware ×2"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks",
-      "link": "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html",
-      "summary": "Attackers behind a string of personal data leaks at Japanese organizations have abused APIs for mobile apps and targeted known software flaws, the JPCERT Coordination Center (JPCERT/CC) said. The Tokyo-based center, which takes incident reports, based its October 8, 2026 alert on those reports and other information. The alert names no attacker and no affected organization. JPCERT/",
-      "published": "Thu, 08 Oct 2026 21:15:56 +0530",
+      "source": "BleepingComputer",
+      "title": "How to keep AI agents within their permissions",
+      "link": "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/",
+      "summary": "AI agents can use valid credentials to perform actions beyond their assigned permissions, creating risks that traditional access controls may not prevent. Token Security explains how organizations can enforce agent-specific policies without sacrificing autonomy. [...]",
+      "published": "Fri, 09 Oct 2026 10:01:11 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML",
-      "link": "https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html",
-      "summary": "The Russia-aligned threat actor known as UAC-0099 has been attributed to a previously undocumented .NET infostealer and remote access trojan (RAT) codenamed ASHVEIN. According to TrendAI, the malware has been put to use in attacks targeting Ukrainian government personnel. The cybersecurity company is tracking the cluster under the name Earth Sirrush (previously SHADOW-EARTH-065). ASHVEIN,",
-      "published": "Thu, 08 Oct 2026 20:56:56 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
-      "link": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
-      "summary": "Cybersecurity researchers have disclosed details of a targeted campaign aimed at South Korean financial organizations that used an artificial intelligence (AI) pen testing tool named ARTEX to carry out the attacks. The activity, per CrowdStrike Intelligence, was active from late September to early October 2026, and resulted in data exfiltration. \"In this activity, the threat actor leveraged",
-      "published": "Thu, 08 Oct 2026 19:42:34 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia",
-      "link": "https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html",
-      "summary": "Phishing kits are no longer limited to copying a familiar login page and waiting for a victim to enter credentials. Attackers are increasingly building filtering, session management, and traffic controls into the infrastructure that delivers the phishing page itself. ANY.RUN has identified Wazza, a new phishkit targeting banking, manufacturing, and government organizations across the US, Europe",
-      "published": "Thu, 08 Oct 2026 16:00:00 +0530",
-      "value_score": 26,
+      "source": "BleepingComputer",
+      "title": "Max severity SonicWall SMA1000 flaw now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/",
+      "summary": "Attackers are exploiting a maximum-severity vulnerability in SonicWall SMA1000 appliances (CVE-2026-102255) that was patched on Tuesday, three days ago. [...]",
+      "published": "Fri, 09 Oct 2026 08:32:16 -0400",
+      "value_score": 34,
       "value_signals": [
-        "Phishing ×2"
+        "CVE mentioned",
+        "Exploit wording"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases",
-      "link": "https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html",
-      "summary": "Cybersecurity researchers have discovered a cluster of 16 malicious Mozilla Firefox extensions that are capable of stealing cryptocurrency wallet recovery phrases and private keys. \"The extensions masquerade as wallet portals, desktop utilities, and browser tools, but their code intercepts recovery phrases and private keys during wallet import flows and attempts to send those secrets to",
-      "published": "Thu, 08 Oct 2026 15:16:32 +0530",
+      "source": "BleepingComputer",
+      "title": "Man admits to running network of 15,000 money mules for cybercriminals",
+      "link": "https://www.bleepingcomputer.com/news/security/ukrainian-russian-dual-citizen-admits-to-laundering-millions-for-cybercriminals/",
+      "summary": "​A Ukrainian-Russian dual citizen has pleaded guilty to running a massive money laundering operation that laundered millions for cybercriminals worldwide. [...]",
+      "published": "Fri, 09 Oct 2026 07:14:28 -0400",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft: Outdated Windows devices will stop receiving security updates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/",
+      "summary": "Microsoft says devices running unsupported versions of Windows will stop receiving security updates after next year's Windows Update certificate rotation. [...]",
+      "published": "Fri, 09 Oct 2026 06:12:24 -0400",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Citrix warns admins to patch new NetScaler RCE flaw immediately",
+      "link": "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/",
+      "summary": "Citrix has warned IT administrators to patch systems immediately against a new critical vulnerability affecting NetScaler ADC networking appliances and NetScaler Gateway secure remote access solutions. [...]",
+      "published": "Fri, 09 Oct 2026 04:27:42 -0400",
+      "value_score": 54,
+      "value_signals": [
+        "RCE",
+        "Patch/update ×2",
+        "High severity"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -168,68 +242,6 @@
         "Breach/leak",
         "High severity ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Ransomware attack disrupts Japan's IDCF Cloud used by govt clients",
-      "link": "https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/",
-      "summary": "IDC Frontier, a major Japanese cloud and digital infrastructure company, disclosed that its IDCF Cloud service was targeted in a ransomware attack that caused an outage at a data center cluster serving the eastern part of the country. [...]",
-      "published": "Thu, 08 Oct 2026 16:09:45 -0400",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Low-cost Android phones ship with residential proxy malware",
-      "link": "https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/",
-      "summary": "A malware campaign dubbed 'Midnight Mimosa' has been discovered on low-cost Android smartphones that ship with malicious software embedded in their firmware, allowing attackers to silently install apps, perform ad fraud, and turn devices into residential proxies. [...]",
-      "published": "Thu, 08 Oct 2026 15:20:33 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "FakeGit malware campaign returns with 17,610 malicious GitHub repos",
-      "link": "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/",
-      "summary": "More than 17,000 fake repositories on GitHub are distributing the SmartLoader malware after the FakeGit campaign reactivated earlier this month to push the StealC infostealer. [...]",
-      "published": "Thu, 08 Oct 2026 13:10:55 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Cisco warns of critical flaws allowing Nexus switch takeover",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/",
-      "summary": "Cisco released security advisories for five critical vulnerabilities in its NX-OS data center network operating system that could be exploited to run arbitrary code with root privileges on Nexus switches. [...]",
-      "published": "Thu, 08 Oct 2026 11:26:33 -0400",
-      "value_score": 32,
-      "value_signals": [
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OAuth grants pile up faster than you can review them. Here's how to keep up.",
-      "link": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/",
-      "summary": "OAuth grants create data highways between SaaS apps, AI agents, and other tools. And, they are multiplying faster than any security team can review them. As the recent Klue breach showed, attackers are taking notice and exploiting forgotten OAuth grants to gain access to corporate data. This article covers why OAuth risks are so hard [...]",
-      "published": "Thu, 08 Oct 2026 10:00:10 -0400",
-      "value_score": 28,
-      "value_signals": [
-        "Breach/leak",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Uranium crypto exchange hacker convicted for stealing $53 million",
-      "link": "https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/",
-      "summary": "A Maryland man was found guilty of stealing more than $53 million after hacking the decentralized crypto exchange Uranium Finance twice in April 2021. [...]",
-      "published": "Thu, 08 Oct 2026 09:18:36 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -309,9 +321,27 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Security Threats Don't Stop at the Office: Why Executives' Families Need Training Too",
+      "link": "https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too",
+      "summary": "Those closest to executives must match their security postures because the weakest link in a family becomes the entry point for attacks.",
+      "published": "Fri, 09 Oct 2026 16:25:05 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Social Engineering AI Agents: The New BEC for 2026",
+      "link": "https://www.darkreading.com/cybersecurity-operations/social-engineering-ai-agents-bec-2026",
+      "summary": "As AI agents gain authority over business systems, attackers can manipulate them like business email compromise (BEC) victims.",
+      "published": "Fri, 09 Oct 2026 13:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "'AgentCorruption' Puts AWS Environments At Risk With Single Prompt",
       "link": "https://www.darkreading.com/cloud-security/agentcorruption-aws-environments-at-risk-single-prompt",
-      "summary": "A now-patched vulnerability in AWS Bedrock AgentCore could allow an attacker to use one AI chatbot to take over an organization's entire fleet.",
+      "summary": "A now-patched vulnerability in AWS Bedrock AgentCore could've allowed an attacker to use one AI chatbot to take over an organization's entire fleet.",
       "published": "Thu, 08 Oct 2026 20:39:44 GMT",
       "value_score": 10,
       "value_signals": []
@@ -362,20 +392,66 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Anthropic Gives Vetted Defenders Fewer Claude Guardrails",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/anthropic-vetted-defenders-claude-guardrails",
-      "summary": "Anthropic has merged Project Glasswing into a tiered access program for its advanced cyber LLMs, including Opus, Sonnet, and Mythos.",
-      "published": "Wed, 07 Oct 2026 20:51:25 GMT",
+      "source": "Security Week",
+      "title": "In Other News: AI Used in Korean Bank Breaches, Poem-Guided Botnet, Empire Admin Gets 40 Years",
+      "link": "https://www.securityweek.com/in-other-news-ai-used-in-korean-bank-breaches-poem-guided-botnet-empire-admin-gets-40-years/",
+      "summary": "Noteworthy stories that might have slipped under the radar: Tensorlake npm SDK compromised, Empire Market co-founder gets 40 years, exposed NVIDIA GPU monitors leak telemetry. The post In Other News: AI Used in Korean Bank Breaches, Poem-Guided Botnet, Empire Admin Gets 40 Years appeared first on SecurityWeek .",
+      "published": "Fri, 09 Oct 2026 12:03:50 +0000",
+      "value_score": 42,
+      "value_signals": [
+        "Breach/leak",
+        "Botnet ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Google Domains Impacted by Recent ccTLD Hijacks",
+      "link": "https://www.securityweek.com/google-domains-impacted-by-recent-cctld-domain-hijacks/",
+      "summary": "Hackers hijacked the .gh, .sl, and .as ccTLDs and obtained HTTPS certificates for several Google domains. The post Google Domains Impacted by Recent ccTLD Hijacks appeared first on SecurityWeek .",
+      "published": "Fri, 09 Oct 2026 11:43:14 +0000",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "OpenAI Agent Escape Causes Wikimedia Service Outage",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/openai-agent-escape-causes-wikimedia-service-outage",
-      "summary": "Autonomous agents also tried to abuse other websites and services hosted by the foundation, using them as proxies for unauthorized activities.",
-      "published": "Wed, 07 Oct 2026 19:34:08 GMT",
+      "source": "Security Week",
+      "title": "Unpatched AhsayCBS Vulnerabilities Exploited in the Wild",
+      "link": "https://www.securityweek.com/unpatched-ahsaycbs-vulnerabilities-exploited-in-the-wild/",
+      "summary": "The flaws, CVE-2026-105133 and CVE-2026-105134, allow attackers to bypass authentication and inject OS commands. The post Unpatched AhsayCBS Vulnerabilities Exploited in the Wild appeared first on SecurityWeek .",
+      "published": "Fri, 09 Oct 2026 10:23:42 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Active exploitation ×2",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Pre-Baked Firmware Malware Hits Budget Android Devices in 150+ Countries",
+      "link": "https://www.securityweek.com/pre-baked-firmware-malware-hits-budget-android-devices-in-150-countries/",
+      "summary": "Midnight Mimosa is the name given to a malware campaign primarily running preinstalled on low-cost Android devices. The post Pre-Baked Firmware Malware Hits Budget Android Devices in 150+ Countries appeared first on SecurityWeek .",
+      "published": "Fri, 09 Oct 2026 09:55:35 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "US Disrupts Chinese State-Sponsored Hacking Tools",
+      "link": "https://www.securityweek.com/us-disrupts-chinese-state-sponsored-hacking-tools/",
+      "summary": "Flax Typhoon and other APTs used MicroScan and FishHub to scan and hack US and foreign critical infrastructure. The post US Disrupts Chinese State-Sponsored Hacking Tools appeared first on SecurityWeek .",
+      "published": "Fri, 09 Oct 2026 08:36:37 +0000",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Anthropic Fast-Tracks AI Bug Reports to OSS Maintainers, Taps 11 Firms for OT Security",
+      "link": "https://www.securityweek.com/anthropic-fast-tracks-ai-bug-reports-to-oss-maintainers-taps-11-firms-for-ot-security/",
+      "summary": "OSS Scanner sends unreviewed, model-generated vulnerability reports to open source maintainers that opt in. The post Anthropic Fast-Tracks AI Bug Reports to OSS Maintainers, Taps 11 Firms for OT Security appeared first on SecurityWeek .",
+      "published": "Fri, 09 Oct 2026 08:19:33 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -401,71 +477,6 @@
       "value_score": 16,
       "value_signals": [
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Formula Predicts When AI Chatbots Are at Risk of Turning Bad",
-      "link": "https://www.securityweek.com/formula-predicts-when-ai-chatbots-are-at-risk-of-turning-bad/",
-      "summary": "Researchers from George Washington University have published a paper examining whether the time and cause of AI going rogue can be predicted. The post Formula Predicts When AI Chatbots Are at Risk of Turning Bad appeared first on SecurityWeek .",
-      "published": "Fri, 09 Oct 2026 04:12:38 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Cisco Patches a Dozen Critical Vulnerabilities",
-      "link": "https://www.securityweek.com/cisco-patches-a-dozen-critical-vulnerabilities/",
-      "summary": "The security defects could lead to unauthorized access, information leaks, privilege escalation, DoS attacks, and remote code execution. The post Cisco Patches a Dozen Critical Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Thu, 08 Oct 2026 15:28:06 +0000",
-      "value_score": 58,
-      "value_signals": [
-        "RCE",
-        "Privilege escalation",
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Security Awareness Training Isn’t Dead, but It Needs a Rethink",
-      "link": "https://www.securityweek.com/security-awareness-training-isnt-dead-but-it-needs-a-rethink/",
-      "summary": "All enterprises conduct security awareness training for their employees. But whether this has tangible benefits is debatable. The post Security Awareness Training Isn’t Dead, but It Needs a Rethink appeared first on SecurityWeek .",
-      "published": "Thu, 08 Oct 2026 14:30:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Attackers Target Critical Atlassian Vulnerability Within Hours of PoC Publication",
-      "link": "https://www.securityweek.com/attackers-target-critical-atlassian-vulnerability-within-hours-of-poc-publication/",
-      "summary": "Threat actors have started targeting CVE-2026-21589, a critical vulnerability in Atlassian’s self-hosted Data Center products. The post Attackers Target Critical Atlassian Vulnerability Within Hours of PoC Publication appeared first on SecurityWeek .",
-      "published": "Thu, 08 Oct 2026 14:04:44 +0000",
-      "value_score": 64,
-      "value_signals": [
-        "CVE mentioned",
-        "PoC available ×2",
-        "High severity ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "US Seeks Alleged Chinese Hafnium Hacker With $10 Million Reward",
-      "link": "https://www.securityweek.com/us-seeks-alleged-chinese-hafnium-hacker-with-10-million-reward/",
-      "summary": "Zhang Yu was charged alongside Xu Zewei, who was extradited from Italy to the US in April 2026. The post US Seeks Alleged Chinese Hafnium Hacker With $10 Million Reward appeared first on SecurityWeek .",
-      "published": "Thu, 08 Oct 2026 12:46:21 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "SonicWall and Splunk Patch Critical Vulnerabilities",
-      "link": "https://www.securityweek.com/sonicwall-and-splunk-patch-critical-vulnerabilities/",
-      "summary": "Critical and high-severity vulnerabilities could allow attackers to bypass authentication, execute arbitrary code, and elevate their privileges. The post SonicWall and Splunk Patch Critical Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Thu, 08 Oct 2026 12:37:32 +0000",
-      "value_score": 42,
-      "value_signals": [
-        "Patch/update ×2",
-        "High severity ×3"
       ]
     },
     {

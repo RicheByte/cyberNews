@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-10-08 19:37 UTC  
+> **Last Updated:** 2026-10-09 00:05 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**extortion group shinyhunters** • **targeted campaign aimed** • **guard ai agents** • **chinese national charged** • **windows operating systems** • **wallet import flows** • **oauth grants pile** • **individuals whose licenses** • **hacker handle rey** • **early october 2026** • **frontier ai companies** • **already semi public** • **remote code execution** • **malicious code turned** • **sprawling phishing campaign** • **twitter whistleblower complaint** • **statement released today** • **siphoning images collected** • **remained walled away** • **multiple telecommunications companies**
+**extortion group shinyhunters** • **guard ai agents** • **frontier ai companies** • **chinese national charged** • **windows operating systems** • **wallet import flows** • **oauth grants pile** • **individuals whose licenses** • **hacker handle rey** • **already semi public** • **remote code execution** • **malicious code turned** • **tokyo based center** • **targeted campaign aimed** • **sprawling phishing campaign** • **twitter whistleblower complaint** • **today issued updates** • **statement released today** • **siphoning images collected** • **selling digital scans**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [FBI disrupts Chinese hacking tools used to breach critical infrastructure](https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/)
+- [Ransomware attack disrupts Japan's IDCF Cloud used by govt clients](https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/)
 - [Low-cost Android phones ship with residential proxy malware](https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/)
 - [FakeGit malware campaign returns with 17,610 malicious GitHub repos](https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/)
 - [Cisco warns of critical flaws allowing Nexus switch takeover](https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/)
 - [OAuth grants pile up faster than you can review them. Here's how to keep up.](https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/)
 - [Uranium crypto exchange hacker convicted for stealing $53 million](https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/)
 - [Microsoft Teams to get support for third-party deepfake detection tools](https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/)
-- [ASOS links data breach to social engineering attack, credential theft](https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/)
-- [Owner of Empire cybercrime market gets 40 years in prison](https://www.bleepingcomputer.com/news/security/owner-of-empire-cybercrime-market-gets-40-years-in-prison/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- ['AgentCorruption' Puts AWS Environments At Risk With Single Prompt](https://www.darkreading.com/cloud-security/agentcorruption-aws-environments-at-risk-single-prompt)
 - [Venezuelan Cartel's Malware Honcho Nabbed for ATM Jackpotting](https://www.darkreading.com/cyberattacks-data-breaches/venezuelan-cartel-malware-honcho-nabbed-atm-jackpotting)
 - [Russian Spies Give 'MatchBoil' Malware a Stealthy Facelift](https://www.darkreading.com/cyberattacks-data-breaches/russian-spies-matchboil-malware-facelift)
 - [Writing the Next Chapter](https://www.darkreading.com/cybersecurity-operations/writing-next-chapter)
@@ -56,7 +57,6 @@
 - [Citizen Lab Slams Trump Administration, 'Techno-Fascist' Executives](https://www.darkreading.com/cyber-risk/citizen-lab-slams-trump-administration-techno-fascist-executives)
 - [Anthropic Gives Vetted Defenders Fewer Claude Guardrails](https://www.darkreading.com/vulnerabilities-threats/anthropic-vetted-defenders-claude-guardrails)
 - [OpenAI Agent Escape Causes Wikimedia Service Outage](https://www.darkreading.com/cyberattacks-data-breaches/openai-agent-escape-causes-wikimedia-service-outage)
-- [ClickFix Attacks Evolve to Better Hide Malicious Payloads](https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads)
 
 ### Security Week
 

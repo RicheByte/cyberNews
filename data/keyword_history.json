@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 801,
+      "count": 802,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -346,7 +346,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2753,
+      "count": 2754,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -944,7 +944,7 @@
       ]
     },
     "remote code execution": {
-      "count": 510,
+      "count": 511,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2098,7 +2098,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 642,
+      "count": 643,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -27536,7 +27536,7 @@
       ]
     },
     "remained walled away": {
-      "count": 78,
+      "count": 79,
       "dates": [
         "2026-08-14",
         "2026-08-15",
@@ -27556,7 +27556,8 @@
         "2026-09-25",
         "2026-09-29",
         "2026-09-30",
-        "2026-10-08"
+        "2026-10-08",
+        "2026-10-09"
       ]
     },
     "ai agent control": {
@@ -29084,7 +29085,7 @@
       ]
     },
     "statement released today": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-08-31",
         "2026-09-01",
@@ -29339,7 +29340,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 172,
+      "count": 173,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29463,7 +29464,7 @@
       ]
     },
     "already semi public": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-09-02",
         "2026-10-06",
@@ -29994,7 +29995,7 @@
       ]
     },
     "siphoning images collected": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-09-08",
         "2026-09-09",
@@ -30389,7 +30390,7 @@
       ]
     },
     "today issued updates": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-09-11",
         "2026-09-30",
@@ -32734,7 +32735,7 @@
       ]
     },
     "selling digital scans": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-10-03",
         "2026-10-04",
@@ -33059,7 +33060,7 @@
       ]
     },
     "extortion group shinyhunters": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33088,7 +33089,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33183,7 +33184,7 @@
       ]
     },
     "wallet import flows": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-08",
         "2026-10-09"
@@ -33197,7 +33198,7 @@
       ]
     },
     "frontier ai companies": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-08",
         "2026-10-09"
@@ -33222,7 +33223,7 @@
       ]
     },
     "targeted campaign aimed": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-08",
         "2026-10-09"
@@ -33236,7 +33237,7 @@
       ]
     },
     "oauth grants pile": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-08",
         "2026-10-09"
@@ -33249,13 +33250,19 @@
       ]
     },
     "malicious code turned": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-08",
         "2026-10-09"
       ]
     },
     "tokyo based center": {
+      "count": 2,
+      "dates": [
+        "2026-10-09"
+      ]
+    },
+    "turning bad researchers": {
       "count": 1,
       "dates": [
         "2026-10-09"
@@ -33263,17 +33270,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-17 09:06",
-      "articles": 48,
-      "top_keywords": [
-        "valid domain credentials",
-        "cisa releases guidance",
-        "ai agent powered",
-        "post ai agents",
-        "omelet without breaking"
-      ]
-    },
     {
       "timestamp": "2026-09-17 14:35",
       "articles": 48,
@@ -34361,6 +34357,17 @@
         "frontier ai companies",
         "chinese national charged",
         "windows operating systems"
+      ]
+    },
+    {
+      "timestamp": "2026-10-09 08:21",
+      "articles": 48,
+      "top_keywords": [
+        "extortion group shinyhunters",
+        "turning bad researchers",
+        "windows operating systems",
+        "wallet import flows",
+        "twitter whistleblower complaint"
       ]
     }
   ]

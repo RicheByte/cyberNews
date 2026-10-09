@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-09 00:05 UTC |
+| 🕐 Last Updated | 2026-10-09 08:21 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`extortion group shinyhunters` • `guard ai agents` • `frontier ai companies` • `chinese national charged` • `windows operating systems` • `wallet import flows` • `oauth grants pile` • `individuals whose licenses` • `hacker handle rey` • `already semi public`
+`extortion group shinyhunters` • `turning bad researchers` • `windows operating systems` • `wallet import flows` • `twitter whistleblower complaint` • `oauth grants pile` • `individuals whose licenses` • `hacker handle rey` • `frontier ai companies` • `already semi public`
 
 ## 📄 Reports
 

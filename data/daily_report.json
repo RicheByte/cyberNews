@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-10-09 00:05",
+  "last_updated": "2026-10-09 08:21",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "extortion group shinyhunters",
-    "guard ai agents",
-    "frontier ai companies",
-    "chinese national charged",
+    "turning bad researchers",
     "windows operating systems",
     "wallet import flows",
+    "twitter whistleblower complaint",
     "oauth grants pile",
     "individuals whose licenses",
     "hacker handle rey",
+    "frontier ai companies",
     "already semi public",
     "remote code execution",
     "malicious code turned",
     "tokyo based center",
     "targeted campaign aimed",
     "sprawling phishing campaign",
-    "twitter whistleblower complaint",
     "today issued updates",
     "statement released today",
     "siphoning images collected",
-    "selling digital scans"
+    "selling digital scans",
+    "remained walled away"
   ],
   "trending": [
     {
       "keyword": "extortion group shinyhunters",
-      "mentions": 6
+      "mentions": 7
     },
     {
-      "keyword": "guard ai agents",
-      "mentions": 3
-    },
-    {
-      "keyword": "frontier ai companies",
-      "mentions": 3
-    },
-    {
-      "keyword": "chinese national charged",
-      "mentions": 2
+      "keyword": "turning bad researchers",
+      "mentions": 1
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 801
+      "mentions": 802
     },
     {
       "keyword": "wallet import flows",
-      "mentions": 3
+      "mentions": 4
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2754
     },
     {
       "keyword": "oauth grants pile",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "individuals whose licenses",
-      "mentions": 172
+      "mentions": 173
     },
     {
       "keyword": "hacker handle rey",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "frontier ai companies",
+      "mentions": 4
     },
     {
       "keyword": "already semi public",
-      "mentions": 11
+      "mentions": 12
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions",
+      "link": "https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) and Department of Justice (DoJ) have announced the disruption of malicious tools used by a China-linked advanced persistent threat group known as Flax Typhoon. To that end, the agencies seized several domains and blocked access to platforms that were used to scan, and in some cases infiltrate, U.S. critical infrastructure. The list of seized",
+      "published": "Fri, 09 Oct 2026 12:09:29 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails",
@@ -135,13 +146,16 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks",
-      "link": "https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html",
-      "summary": "The U.S. State Department is offering up to $10 million for information leading to the identification or location of Zhang Yu, a Chinese national charged in the United States in connection with the 2021 Microsoft Exchange Server attacks known as HAFNIUM. The reward is for information leading to his identification or location, the news outlet NTD reported this week, citing a notice",
-      "published": "Thu, 08 Oct 2026 13:12:04 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/",
+      "summary": "The Pwn2Own Ireland 2026 hacking contest has concluded, with hackers collecting $1,262,000 in rewards after exploiting 98 zero-day flaws. [...]",
+      "published": "Fri, 09 Oct 2026 01:41:04 -0400",
+      "value_score": 41,
+      "value_signals": [
+        "Zero-day",
+        "Exploit wording"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -214,15 +228,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/",
       "summary": "A Maryland man was found guilty of stealing more than $53 million after hacking the decentralized crypto exchange Uranium Finance twice in April 2021. [...]",
       "published": "Thu, 08 Oct 2026 09:18:36 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft Teams to get support for third-party deepfake detection tools",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/",
-      "summary": "Microsoft will soon introduce support for third-party deepfake detection solutions and impersonation protection in Teams meetings. [...]",
-      "published": "Thu, 08 Oct 2026 08:08:16 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -376,6 +381,39 @@
     },
     {
       "source": "Security Week",
+      "title": "Citrix Urges Immediate Patching of Critical NetScaler Vulnerability",
+      "link": "https://www.securityweek.com/citrix-urges-immediate-patching-of-critical-netscaler-vulnerability/",
+      "summary": "The security defect, tracked as CVE-2026-107406, could lead to remote code execution or denial-of-service. The post Citrix Urges Immediate Patching of Critical NetScaler Vulnerability appeared first on SecurityWeek .",
+      "published": "Fri, 09 Oct 2026 06:53:53 +0000",
+      "value_score": 64,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE",
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Google Pixel 10 Exploits Earned Hackers $560,000 at Pwn2Own",
+      "link": "https://www.securityweek.com/google-pixel-10-exploits-earned-hackers-560000-at-pwn2own/",
+      "summary": "$1.2 million was paid out at Pwn2Own Ireland 2026 for exploits targeting phones, printers, smart speakers, smart home hubs, and AI infrastructure and coding tools. The post Google Pixel 10 Exploits Earned Hackers $560,000 at Pwn2Own appeared first on SecurityWeek .",
+      "published": "Fri, 09 Oct 2026 06:39:55 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Formula Predicts When AI Chatbots Are at Risk of Turning Bad",
+      "link": "https://www.securityweek.com/formula-predicts-when-ai-chatbots-are-at-risk-of-turning-bad/",
+      "summary": "Researchers from George Washington University have published a paper examining whether the time and cause of AI going rogue can be predicted. The post Formula Predicts When AI Chatbots Are at Risk of Turning Bad appeared first on SecurityWeek .",
+      "published": "Fri, 09 Oct 2026 04:12:38 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Cisco Patches a Dozen Critical Vulnerabilities",
       "link": "https://www.securityweek.com/cisco-patches-a-dozen-critical-vulnerabilities/",
       "summary": "The security defects could lead to unauthorized access, information leaks, privilege escalation, DoS attacks, and remote code execution. The post Cisco Patches a Dozen Critical Vulnerabilities appeared first on SecurityWeek .",
@@ -428,35 +466,6 @@
       "value_signals": [
         "Patch/update ×2",
         "High severity ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Rein Security Raises $25 Million to Guard AI Agents at Runtime",
-      "link": "https://www.securityweek.com/rein-security-raises-25-million-to-guard-ai-agents-at-runtime/",
-      "summary": "The cybersecurity startup will invest in product innovation, agentic research, and employee base expansion. The post Rein Security Raises $25 Million to Guard AI Agents at Runtime appeared first on SecurityWeek .",
-      "published": "Thu, 08 Oct 2026 11:11:28 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "TP-Link Faces State Lawsuits and New Scrutiny Over ISP Router Flaws",
-      "link": "https://www.securityweek.com/tp-link-faces-state-lawsuits-and-new-scrutiny-over-isp-router-flaws/",
-      "summary": "SEC Consult has published technical details on vulnerabilities mentioned in a complaint filed by several US states. The post TP-Link Faces State Lawsuits and New Scrutiny Over ISP Router Flaws appeared first on SecurityWeek .",
-      "published": "Thu, 08 Oct 2026 10:24:04 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Fake Decryption Tools Masked $11M Markup in Ransomware Recovery Scheme",
-      "link": "https://www.securityweek.com/fake-decryption-tools-masked-11m-markup-in-ransomware-recovery-scheme/",
-      "summary": "Zohar Pinhasi was paying ransoms to obtain decryption keys and then charging victims substantially more for remediation. The post Fake Decryption Tools Masked $11M Markup in Ransomware Recovery Scheme appeared first on SecurityWeek .",
-      "published": "Thu, 08 Oct 2026 09:27:55 +0000",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
       ]
     },
     {

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-10-09 00:05 UTC  
+> **Last Updated:** 2026-10-09 08:21 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**extortion group shinyhunters** • **guard ai agents** • **frontier ai companies** • **chinese national charged** • **windows operating systems** • **wallet import flows** • **oauth grants pile** • **individuals whose licenses** • **hacker handle rey** • **already semi public** • **remote code execution** • **malicious code turned** • **tokyo based center** • **targeted campaign aimed** • **sprawling phishing campaign** • **twitter whistleblower complaint** • **today issued updates** • **statement released today** • **siphoning images collected** • **selling digital scans**
+**extortion group shinyhunters** • **turning bad researchers** • **windows operating systems** • **wallet import flows** • **twitter whistleblower complaint** • **oauth grants pile** • **individuals whose licenses** • **hacker handle rey** • **frontier ai companies** • **already semi public** • **remote code execution** • **malicious code turned** • **tokyo based center** • **targeted campaign aimed** • **sprawling phishing campaign** • **today issued updates** • **statement released today** • **siphoning images collected** • **selling digital scans** • **remained walled away**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions](https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html)
 - [FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails](https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html)
 - [ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories](https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html)
 - [Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks](https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html)
@@ -23,10 +24,10 @@
 - [ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms](https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html)
 - [Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia](https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html)
 - [16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases](https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html)
-- [U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks](https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html)
 
 ### BleepingComputer
 
+- [Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland](https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/)
 - [FBI disrupts Chinese hacking tools used to breach critical infrastructure](https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/)
 - [Ransomware attack disrupts Japan's IDCF Cloud used by govt clients](https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/)
 - [Low-cost Android phones ship with residential proxy malware](https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/)
@@ -34,7 +35,6 @@
 - [Cisco warns of critical flaws allowing Nexus switch takeover](https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/)
 - [OAuth grants pile up faster than you can review them. Here's how to keep up.](https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/)
 - [Uranium crypto exchange hacker convicted for stealing $53 million](https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/)
-- [Microsoft Teams to get support for third-party deepfake detection tools](https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Citrix Urges Immediate Patching of Critical NetScaler Vulnerability](https://www.securityweek.com/citrix-urges-immediate-patching-of-critical-netscaler-vulnerability/)
+- [Google Pixel 10 Exploits Earned Hackers $560,000 at Pwn2Own](https://www.securityweek.com/google-pixel-10-exploits-earned-hackers-560000-at-pwn2own/)
+- [Formula Predicts When AI Chatbots Are at Risk of Turning Bad](https://www.securityweek.com/formula-predicts-when-ai-chatbots-are-at-risk-of-turning-bad/)
 - [Cisco Patches a Dozen Critical Vulnerabilities](https://www.securityweek.com/cisco-patches-a-dozen-critical-vulnerabilities/)
 - [Security Awareness Training Isn’t Dead, but It Needs a Rethink](https://www.securityweek.com/security-awareness-training-isnt-dead-but-it-needs-a-rethink/)
 - [Attackers Target Critical Atlassian Vulnerability Within Hours of PoC Publication](https://www.securityweek.com/attackers-target-critical-atlassian-vulnerability-within-hours-of-poc-publication/)
 - [US Seeks Alleged Chinese Hafnium Hacker With $10 Million Reward](https://www.securityweek.com/us-seeks-alleged-chinese-hafnium-hacker-with-10-million-reward/)
 - [SonicWall and Splunk Patch Critical Vulnerabilities](https://www.securityweek.com/sonicwall-and-splunk-patch-critical-vulnerabilities/)
-- [Rein Security Raises $25 Million to Guard AI Agents at Runtime](https://www.securityweek.com/rein-security-raises-25-million-to-guard-ai-agents-at-runtime/)
-- [TP-Link Faces State Lawsuits and New Scrutiny Over ISP Router Flaws](https://www.securityweek.com/tp-link-faces-state-lawsuits-and-new-scrutiny-over-isp-router-flaws/)
-- [Fake Decryption Tools Masked $11M Markup in Ransomware Recovery Scheme](https://www.securityweek.com/fake-decryption-tools-masked-11m-markup-in-ransomware-recovery-scheme/)
 
 ### Threatpost
 

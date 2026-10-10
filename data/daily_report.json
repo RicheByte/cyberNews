@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-10-10 10:25",
+  "last_updated": "2026-10-10 16:48",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "permissions ai agents",
-    "ahsaycbs backup utility",
     "google domains impacted",
     "open source maintainers",
     "full working exploit",
-    "russian national suspected",
-    "google search ads",
+    "business systems attackers",
     "canadian cybersecurity firm",
     "extortion group shinyhunters",
+    "russian national suspected",
+    "google search ads",
     "repositories cybersecurity researchers",
     "several google domains",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
-    "remote code execution",
     "publish personal information",
     "inject os commands",
     "individuals whose licenses",
-    "hacker handle rey",
-    "foreign critical infrastructure",
-    "fake claude installers"
+    "executives must match",
+    "permissions ai agents",
+    "prolific data theft",
+    "suspected shinyhunters operative",
+    "tp link systems"
   ],
   "trending": [
     {
-      "keyword": "permissions ai agents",
-      "mentions": 4
-    },
-    {
-      "keyword": "ahsaycbs backup utility",
-      "mentions": 4
-    },
-    {
       "keyword": "google domains impacted",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "open source maintainers",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "full working exploit",
-      "mentions": 4
+      "mentions": 5
     },
     {
-      "keyword": "russian national suspected",
+      "keyword": "business systems attackers",
       "mentions": 4
-    },
-    {
-      "keyword": "google search ads",
-      "mentions": 2
     },
     {
       "keyword": "canadian cybersecurity firm",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "extortion group shinyhunters",
-      "mentions": 11
+      "mentions": 12
+    },
+    {
+      "keyword": "russian national suspected",
+      "mentions": 5
+    },
+    {
+      "keyword": "google search ads",
+      "mentions": 3
     },
     {
       "keyword": "repositories cybersecurity researchers",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "several google domains",
+      "mentions": 8
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
+      "link": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
+      "summary": "In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind single sign-on. The other thousand are invisible to identity infrastructure by default, not because anyone hid them, but because an identity stack can only govern what authenticates through it, and most agents never do. That gap is the clearest",
+      "published": "Sat, 10 Oct 2026 16:30:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
@@ -139,16 +148,31 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
-      "link": "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html",
-      "summary": "Threat actors have been observed exploiting two recently disclosed flaws in the AhsayCBS backup utility to seize control of affected devices and deploy web shells and XMRig cryptocurrency miners. Details of the flaws are below - CVE-2026-105133 (CVSS v4 score: 5.5) - An improper authentication vulnerability in the checkSysPwd() function in the \"com/ahsay/obs/api/ApiStructsAction.java\"",
-      "published": "Fri, 09 Oct 2026 18:17:26 +0530",
-      "value_score": 34,
-      "value_signals": [
-        "CVE mentioned",
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
+      "summary": "Canadian cybersecurity executive Edward Dubrovsky has been arrested in Pennsylvania in connection with alleged extortion activity that multiple reports have linked to the FBI's ongoing crackdown on the ShinyHunters hacking group. [...]",
+      "published": "Sat, 10 Oct 2026 11:07:54 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
+      "link": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
+      "summary": "The cyberattacks that shook the South Korean financial sector earlier this month were launched by a Chinese hacker using the ARTEX AI penetration testing suite and Claude agents. [...]",
+      "published": "Sat, 10 Oct 2026 10:16:17 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management",
+      "link": "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/",
+      "summary": "Traditional attack surface management helps organizations discover exposed assets, but visibility alone is not enough to address threats. Criminal IP introduces AITEM, an AI-powered approach that connects exposure discovery with investigation, risk prioritization, and response. [...]",
+      "published": "Sat, 10 Oct 2026 08:30:39 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -203,40 +227,8 @@
       "value_signals": []
     },
     {
-      "source": "BleepingComputer",
-      "title": "Max severity SonicWall SMA1000 flaw now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/",
-      "summary": "Attackers are exploiting a maximum-severity vulnerability in SonicWall SMA1000 appliances (CVE-2026-102255) that was patched on Tuesday, three days ago. [...]",
-      "published": "Fri, 09 Oct 2026 08:32:16 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "CVE mentioned",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Man admits to running network of 15,000 money mules for cybercriminals",
-      "link": "https://www.bleepingcomputer.com/news/security/ukrainian-russian-dual-citizen-admits-to-laundering-millions-for-cybercriminals/",
-      "summary": "​A Ukrainian-Russian dual citizen has pleaded guilty to running a massive money laundering operation that laundered millions for cybercriminals worldwide. [...]",
-      "published": "Fri, 09 Oct 2026 07:14:28 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft: Outdated Windows devices will stop receiving security updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/",
-      "summary": "Microsoft says devices running unsupported versions of Windows will stop receiving security updates after next year's Windows Update certificate rotation. [...]",
-      "published": "Fri, 09 Oct 2026 06:12:24 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
-    },
-    {
       "source": "Krebs on Security",
-      "title": "FBI Arrests Founder of Ransomware Negotiation Firm",
+      "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
       "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
       "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity.",
       "published": "Sat, 10 Oct 2026 00:17:42 +0000",
@@ -388,6 +380,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison",
+      "link": "https://www.securityweek.com/insider-cyber-extortion-plot-against-industrial-firm-lands-engineer-in-prison/",
+      "summary": "The former core infrastructure engineer deleted admin accounts, reset hundreds of passwords, and demanded 20 bitcoin to spare the company’s servers. The post Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison appeared first on SecurityWeek .",
+      "published": "Sat, 10 Oct 2026 11:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks",
       "link": "https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/",
       "summary": "The ChatGPT maker said the researchers \"violated clear policies on handling sensitive information.” The post OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks appeared first on SecurityWeek .",
@@ -458,19 +459,6 @@
       "published": "Fri, 09 Oct 2026 08:19:33 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Citrix Urges Immediate Patching of Critical NetScaler Vulnerability",
-      "link": "https://www.securityweek.com/citrix-urges-immediate-patching-of-critical-netscaler-vulnerability/",
-      "summary": "The security defect, tracked as CVE-2026-107406, could lead to remote code execution or denial-of-service. The post Citrix Urges Immediate Patching of Critical NetScaler Vulnerability appeared first on SecurityWeek .",
-      "published": "Fri, 09 Oct 2026 06:53:53 +0000",
-      "value_score": 64,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE",
-        "High severity ×2"
-      ]
     },
     {
       "source": "Threatpost",

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-10-09 22:08 UTC  
+> **Last Updated:** 2026-10-10 03:56 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**permissions ai agents** • **ahsaycbs backup utility** • **google domains impacted** • **open source maintainers** • **full working exploit** • **russian national suspected** • **extortion group shinyhunters** • **foreign critical infrastructure** • **several google domains** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **remote code execution** • **inject os commands** • **individuals whose licenses** • **hacker handle rey** • **fake claude installers** • **executives must match** • **business systems attackers** • **prolific data theft** • **suspected shinyhunters operative**
+**permissions ai agents** • **ahsaycbs backup utility** • **google domains impacted** • **open source maintainers** • **full working exploit** • **russian national suspected** • **google search ads** • **extortion group shinyhunters** • **foreign critical infrastructure** • **several google domains** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **remote code execution** • **publish personal information** • **inject os commands** • **individuals whose licenses** • **hacker handle rey** • **fake claude installers** • **executives must match** • **business systems attackers**
 
 ---
 
@@ -38,6 +38,7 @@
 
 ### Krebs on Security
 
+- [FBI Arrests Founder of Ransomware Negotiation Firm](https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/)
 - [ShinyHunters Extorted Boeing Spin-off Prior to Arrests](https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/)
 - [Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation](https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/)
 - [U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions](https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/)
@@ -45,7 +46,6 @@
 - [Microsoft Plugs Nearly 1,000 Security Holes](https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/)
 - [FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/)
 - [Two Alleged ‘TeamPCP’ Hackers Arrested in Australia](https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/)
-- [Who’s Tracking You? Use This New Service to Find Out](https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/)
 
 ### Dark Reading
 

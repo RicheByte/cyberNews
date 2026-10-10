@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09 22:08",
+  "last_updated": "2026-10-10 03:56",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -9,61 +9,61 @@
     "open source maintainers",
     "full working exploit",
     "russian national suspected",
+    "google search ads",
     "extortion group shinyhunters",
     "foreign critical infrastructure",
     "several google domains",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
     "remote code execution",
+    "publish personal information",
     "inject os commands",
     "individuals whose licenses",
     "hacker handle rey",
     "fake claude installers",
     "executives must match",
-    "business systems attackers",
-    "prolific data theft",
-    "suspected shinyhunters operative"
+    "business systems attackers"
   ],
   "trending": [
     {
       "keyword": "permissions ai agents",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "ahsaycbs backup utility",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "google domains impacted",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "open source maintainers",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "full working exploit",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "russian national suspected",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "extortion group shinyhunters",
-      "mentions": 9
-    },
-    {
-      "keyword": "foreign critical infrastructure",
+      "keyword": "google search ads",
       "mentions": 1
     },
     {
-      "keyword": "several google domains",
-      "mentions": 5
+      "keyword": "extortion group shinyhunters",
+      "mentions": 10
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2756
+      "keyword": "foreign critical infrastructure",
+      "mentions": 2
+    },
+    {
+      "keyword": "several google domains",
+      "mentions": 6
     }
   ],
   "articles": [
@@ -238,6 +238,17 @@
     },
     {
       "source": "Krebs on Security",
+      "title": "FBI Arrests Founder of Ransomware Negotiation Firm",
+      "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
+      "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity.",
+      "published": "Sat, 10 Oct 2026 00:17:42 +0000",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
       "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
       "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
       "summary": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle \"Rey,\" was detained as ShinyHunters was in the process of extorting a business unit recently divested by the global aerospace company Boeing, which manufactures the fleet of planes used by the employer of Rey's ",
@@ -300,15 +311,6 @@
       "link": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
       "summary": "Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In a statement released today, the Australian Federal Police (AFP) said two unnamed suspects from Western Australia, aged 21 and 23, were arrested in connection with a \"sophisticated cybercrime syndicate that allegedly created malicious open-source software to rob thousands of glob",
       "published": "Thu, 27 Aug 2026 11:04:15 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Who’s Tracking You? Use This New Service to Find Out",
-      "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
-      "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large advertising platforms. Not anymore: A powerful and free new service called DecryptAds scrapes and correlates this adtech data and makes it simple to quickly learn a great deal about the entities that",
-      "published": "Fri, 14 Aug 2026 11:24:35 +0000",
       "value_score": 10,
       "value_signals": []
     },

@@ -346,7 +346,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2757,
+      "count": 2758,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -945,7 +945,7 @@
       ]
     },
     "remote code execution": {
-      "count": 514,
+      "count": 515,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2100,7 +2100,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 645,
+      "count": 646,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -29343,7 +29343,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 176,
+      "count": 177,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -33064,7 +33064,7 @@
       ]
     },
     "extortion group shinyhunters": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33094,7 +33094,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33149,7 +33149,7 @@
       ]
     },
     "several google domains": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33277,14 +33277,14 @@
       ]
     },
     "permissions ai agents": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-09",
         "2026-10-10"
       ]
     },
     "google domains impacted": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-09",
         "2026-10-10"
@@ -33297,21 +33297,21 @@
       ]
     },
     "open source maintainers": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-09",
         "2026-10-10"
       ]
     },
     "full working exploit": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-09",
         "2026-10-10"
       ]
     },
     "russian national suspected": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-09",
         "2026-10-10"
@@ -33331,7 +33331,7 @@
       ]
     },
     "inject os commands": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-09",
         "2026-10-10"
@@ -33350,7 +33350,7 @@
       ]
     },
     "ahsaycbs backup utility": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-09",
         "2026-10-10"
@@ -33364,14 +33364,14 @@
       ]
     },
     "foreign critical infrastructure": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-09",
         "2026-10-10"
       ]
     },
     "fake claude installers": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-09",
         "2026-10-10"
@@ -33390,12 +33390,24 @@
       ]
     },
     "google search ads": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-10"
       ]
     },
     "publish personal information": {
+      "count": 2,
+      "dates": [
+        "2026-10-10"
+      ]
+    },
+    "canadian cybersecurity firm": {
+      "count": 1,
+      "dates": [
+        "2026-10-10"
+      ]
+    },
+    "repositories cybersecurity researchers": {
       "count": 1,
       "dates": [
         "2026-10-10"
@@ -33403,17 +33415,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-18 02:48",
-      "articles": 48,
-      "top_keywords": [
-        "remote code execution",
-        "cisco fixes dozens",
-        "windows operating systems",
-        "leaked api keys",
-        "discovered targeting users"
-      ]
-    },
     {
       "timestamp": "2026-09-18 08:40",
       "articles": 48,
@@ -34494,6 +34495,17 @@
     },
     {
       "timestamp": "2026-10-10 03:56",
+      "articles": 48,
+      "top_keywords": [
+        "permissions ai agents",
+        "ahsaycbs backup utility",
+        "google domains impacted",
+        "open source maintainers",
+        "full working exploit"
+      ]
+    },
+    {
+      "timestamp": "2026-10-10 10:25",
       "articles": 48,
       "top_keywords": [
         "permissions ai agents",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-10 03:56",
+  "last_updated": "2026-10-10 10:25",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -10,8 +10,9 @@
     "full working exploit",
     "russian national suspected",
     "google search ads",
+    "canadian cybersecurity firm",
     "extortion group shinyhunters",
-    "foreign critical infrastructure",
+    "repositories cybersecurity researchers",
     "several google domains",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
@@ -20,53 +21,63 @@
     "inject os commands",
     "individuals whose licenses",
     "hacker handle rey",
-    "fake claude installers",
-    "executives must match",
-    "business systems attackers"
+    "foreign critical infrastructure",
+    "fake claude installers"
   ],
   "trending": [
     {
       "keyword": "permissions ai agents",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "ahsaycbs backup utility",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "google domains impacted",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "open source maintainers",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "full working exploit",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "russian national suspected",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "google search ads",
+      "mentions": 2
+    },
+    {
+      "keyword": "canadian cybersecurity firm",
       "mentions": 1
     },
     {
       "keyword": "extortion group shinyhunters",
-      "mentions": 10
+      "mentions": 11
     },
     {
-      "keyword": "foreign critical infrastructure",
-      "mentions": 2
-    },
-    {
-      "keyword": "several google domains",
-      "mentions": 6
+      "keyword": "repositories cybersecurity researchers",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
+      "link": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
+      "summary": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and targeted real websites. The AI company said it identified four broad categories of unintended model actions during evaluations and internal use of Claude - Claude Mythos",
+      "published": "Sat, 10 Oct 2026 14:48:45 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
@@ -136,19 +147,6 @@
       "value_score": 34,
       "value_signals": [
         "CVE mentioned",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies",
-      "link": "https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added five security flaws to its Known Exploited Vulnerabilities (KEV) catalog, following their abuse by a China-linked threat actor known as Flax Typhoon. The vulnerabilities in question are listed below - CVE-2015-3306 (CVSS score: 10.0) - An improper access control vulnerability in ProFTPD that could allow",
-      "published": "Fri, 09 Oct 2026 17:51:51 +0530",
-      "value_score": 74,
-      "value_signals": [
-        "CVE mentioned",
-        "CISA/KEV ×4",
         "Exploit wording"
       ]
     },

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-10-10 03:56 UTC  
+> **Last Updated:** 2026-10-10 10:25 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**permissions ai agents** • **ahsaycbs backup utility** • **google domains impacted** • **open source maintainers** • **full working exploit** • **russian national suspected** • **google search ads** • **extortion group shinyhunters** • **foreign critical infrastructure** • **several google domains** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **remote code execution** • **publish personal information** • **inject os commands** • **individuals whose licenses** • **hacker handle rey** • **fake claude installers** • **executives must match** • **business systems attackers**
+**permissions ai agents** • **ahsaycbs backup utility** • **google domains impacted** • **open source maintainers** • **full working exploit** • **russian national suspected** • **google search ads** • **canadian cybersecurity firm** • **extortion group shinyhunters** • **repositories cybersecurity researchers** • **several google domains** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **remote code execution** • **publish personal information** • **inject os commands** • **individuals whose licenses** • **hacker handle rey** • **foreign critical infrastructure** • **fake claude installers**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws](https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html)
 - [Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories](https://thehackernews.com/2026/10/credential-stealing-github-actions.html)
 - [FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack](https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html)
 - [P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands](https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html)
@@ -23,7 +24,6 @@
 - [Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access](https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html)
 - [Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects](https://thehackernews.com/2026/10/anthropic-launches-free-ai.html)
 - [Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge](https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html)
-- [Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies](https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html)
 
 ### BleepingComputer
 

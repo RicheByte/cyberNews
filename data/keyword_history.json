@@ -346,7 +346,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2762,
+      "count": 2763,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2101,7 +2101,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 650,
+      "count": 651,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -29345,7 +29345,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 181,
+      "count": 182,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -33067,7 +33067,7 @@
       ]
     },
     "extortion group shinyhunters": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33098,7 +33098,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33154,7 +33154,7 @@
       ]
     },
     "several google domains": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33291,7 +33291,7 @@
       ]
     },
     "google domains impacted": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -33305,7 +33305,7 @@
       ]
     },
     "open source maintainers": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -33313,7 +33313,7 @@
       ]
     },
     "full working exploit": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -33321,7 +33321,7 @@
       ]
     },
     "russian national suspected": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -33329,7 +33329,7 @@
       ]
     },
     "executives must match": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -33345,7 +33345,7 @@
       ]
     },
     "inject os commands": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -33372,7 +33372,7 @@
       ]
     },
     "business systems attackers": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -33394,7 +33394,7 @@
       ]
     },
     "prolific data theft": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -33402,7 +33402,7 @@
       ]
     },
     "suspected shinyhunters operative": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -33410,46 +33410,41 @@
       ]
     },
     "google search ads": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-10-10",
         "2026-10-11"
       ]
     },
     "publish personal information": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-10-10",
         "2026-10-11"
       ]
     },
     "canadian cybersecurity firm": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-10-10",
         "2026-10-11"
       ]
     },
     "repositories cybersecurity researchers": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-10-10",
+        "2026-10-11"
+      ]
+    },
+    "customer facing saas": {
+      "count": 1,
+      "dates": [
         "2026-10-11"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-19 02:46",
-      "articles": 48,
-      "top_keywords": [
-        "azure ai foundry",
-        "least 2022 nightmarestresser",
-        "ai built exploit",
-        "achieve privilege escalation",
-        "ai driven attacks"
-      ]
-    },
     {
       "timestamp": "2026-09-19 08:27",
       "articles": 48,
@@ -34530,6 +34525,17 @@
     },
     {
       "timestamp": "2026-10-11 08:10",
+      "articles": 48,
+      "top_keywords": [
+        "google domains impacted",
+        "open source maintainers",
+        "full working exploit",
+        "business systems attackers",
+        "canadian cybersecurity firm"
+      ]
+    },
+    {
+      "timestamp": "2026-10-11 16:06",
       "articles": 48,
       "top_keywords": [
         "google domains impacted",

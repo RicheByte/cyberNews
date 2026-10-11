@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11 08:10",
+  "last_updated": "2026-10-11 16:06",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -19,7 +19,7 @@
     "inject os commands",
     "individuals whose licenses",
     "executives must match",
-    "permissions ai agents",
+    "customer facing saas",
     "prolific data theft",
     "suspected shinyhunters operative",
     "hacker handle rey"
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "google domains impacted",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "open source maintainers",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "full working exploit",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "business systems attackers",
-      "mentions": 7
-    },
-    {
-      "keyword": "canadian cybersecurity firm",
-      "mentions": 5
-    },
-    {
-      "keyword": "extortion group shinyhunters",
-      "mentions": 15
-    },
-    {
-      "keyword": "russian national suspected",
       "mentions": 8
     },
     {
-      "keyword": "google search ads",
+      "keyword": "canadian cybersecurity firm",
       "mentions": 6
     },
     {
+      "keyword": "extortion group shinyhunters",
+      "mentions": 16
+    },
+    {
+      "keyword": "russian national suspected",
+      "mentions": 9
+    },
+    {
+      "keyword": "google search ads",
+      "mentions": 7
+    },
+    {
       "keyword": "repositories cybersecurity researchers",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "several google domains",
-      "mentions": 11
+      "mentions": 12
     }
   ],
   "articles": [
@@ -149,6 +149,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Nippon Columbia malware incident exposes 8.6 million karaoke fan records",
+      "link": "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/",
+      "summary": "Daiichi Kosho, a major Japanese entertainment system maker, disclosed that a malware infection at its contractor, Nippon Columbia, exposed more than 8.7 million customer and employee records. [...]",
+      "published": "Sun, 11 Oct 2026 10:23:46 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
       "link": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
       "summary": "Canadian cybersecurity executive Edward Dubrovsky has been arrested in Pennsylvania in connection with alleged extortion activity that multiple reports have linked to the FBI's ongoing crackdown on the ShinyHunters hacking group. [...]",
@@ -216,15 +225,6 @@
       "value_signals": [
         "Ransomware ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "How to keep AI agents within their permissions",
-      "link": "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/",
-      "summary": "AI agents can use valid credentials to perform actions beyond their assigned permissions, creating risks that traditional access controls may not prevent. Token Security explains how organizations can enforce agent-specific policies without sacrificing autonomy. [...]",
-      "published": "Fri, 09 Oct 2026 10:01:11 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

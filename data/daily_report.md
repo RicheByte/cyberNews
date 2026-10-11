@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-10-11 08:10 UTC  
+> **Last Updated:** 2026-10-11 16:06 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**google domains impacted** • **open source maintainers** • **full working exploit** • **business systems attackers** • **canadian cybersecurity firm** • **extortion group shinyhunters** • **russian national suspected** • **google search ads** • **repositories cybersecurity researchers** • **several google domains** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **publish personal information** • **inject os commands** • **individuals whose licenses** • **executives must match** • **permissions ai agents** • **prolific data theft** • **suspected shinyhunters operative** • **hacker handle rey**
+**google domains impacted** • **open source maintainers** • **full working exploit** • **business systems attackers** • **canadian cybersecurity firm** • **extortion group shinyhunters** • **russian national suspected** • **google search ads** • **repositories cybersecurity researchers** • **several google domains** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **publish personal information** • **inject os commands** • **individuals whose licenses** • **executives must match** • **customer facing saas** • **prolific data theft** • **suspected shinyhunters operative** • **hacker handle rey**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Nippon Columbia malware incident exposes 8.6 million karaoke fan records](https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/)
 - [Cyber exec arrested in case allegedly tied to ShinyHunters hackers](https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/)
 - [ARTEX AI, Claude agents used in cyberattacks on South Korean banks](https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/)
 - [Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management](https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/)
@@ -34,7 +35,6 @@
 - [Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto](https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/)
 - [FBI arrests another suspected ShinyHunters hacker after agency breach](https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/)
 - [Germany arrests alleged core Qilin ransomware member after extradition](https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/)
-- [How to keep AI agents within their permissions](https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/)
 
 ### Krebs on Security
 

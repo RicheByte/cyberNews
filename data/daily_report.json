@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11 00:37",
+  "last_updated": "2026-10-11 08:10",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -22,51 +22,62 @@
     "permissions ai agents",
     "prolific data theft",
     "suspected shinyhunters operative",
-    "tp link systems"
+    "hacker handle rey"
   ],
   "trending": [
     {
       "keyword": "google domains impacted",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "open source maintainers",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "full working exploit",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "business systems attackers",
-      "mentions": 6
-    },
-    {
-      "keyword": "canadian cybersecurity firm",
-      "mentions": 4
-    },
-    {
-      "keyword": "extortion group shinyhunters",
-      "mentions": 14
-    },
-    {
-      "keyword": "russian national suspected",
       "mentions": 7
     },
     {
-      "keyword": "google search ads",
+      "keyword": "canadian cybersecurity firm",
       "mentions": 5
     },
     {
+      "keyword": "extortion group shinyhunters",
+      "mentions": 15
+    },
+    {
+      "keyword": "russian national suspected",
+      "mentions": 8
+    },
+    {
+      "keyword": "google search ads",
+      "mentions": 6
+    },
+    {
       "keyword": "repositories cybersecurity researchers",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "several google domains",
-      "mentions": 10
+      "mentions": 11
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+      "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+      "summary": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the variants we usually observe, P7 reduces its on-device footprint, adds on-device keychain and crypto-wallet theft, and adds two way C2 communication with the attacker's infrastructure,\" iVerify said in a new report published Thursday. The name",
+      "published": "Sun, 11 Oct 2026 09:54:34 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
@@ -104,17 +115,6 @@
       "published": "Fri, 09 Oct 2026 23:15:26 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
-      "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
-      "summary": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the variants we usually observe, P7 reduces its on-device footprint, adds on-device keychain and crypto-wallet theft, and adds two way C2 communication with the attacker's infrastructure,\" iVerify said in a new report published Thursday. The name",
-      "published": "Fri, 09 Oct 2026 21:59:55 +0530",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "The Hacker News",

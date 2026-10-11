@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-10-11 00:37 UTC  
+> **Last Updated:** 2026-10-11 08:10 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**google domains impacted** • **open source maintainers** • **full working exploit** • **business systems attackers** • **canadian cybersecurity firm** • **extortion group shinyhunters** • **russian national suspected** • **google search ads** • **repositories cybersecurity researchers** • **several google domains** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **publish personal information** • **inject os commands** • **individuals whose licenses** • **executives must match** • **permissions ai agents** • **prolific data theft** • **suspected shinyhunters operative** • **tp link systems**
+**google domains impacted** • **open source maintainers** • **full working exploit** • **business systems attackers** • **canadian cybersecurity firm** • **extortion group shinyhunters** • **russian national suspected** • **google search ads** • **repositories cybersecurity researchers** • **several google domains** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **publish personal information** • **inject os commands** • **individuals whose licenses** • **executives must match** • **permissions ai agents** • **prolific data theft** • **suspected shinyhunters operative** • **hacker handle rey**
 
 ---
 
@@ -16,11 +16,11 @@
 
 ### The Hacker News
 
+- [P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands](https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html)
 - [The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't](https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html)
 - [Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws](https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html)
 - [Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories](https://thehackernews.com/2026/10/credential-stealing-github-actions.html)
 - [FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack](https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html)
-- [P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands](https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html)
 - [TP-Link Sued by Four More U.S. States Over Router Security and China Ties](https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html)
 - [Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access](https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html)
 - [Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects](https://thehackernews.com/2026/10/anthropic-launches-free-ai.html)

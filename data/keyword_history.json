@@ -346,7 +346,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2765,
+      "count": 2766,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -29347,7 +29347,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 184,
+      "count": 185,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -30400,14 +30400,15 @@
       ]
     },
     "today issued updates": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-09-11",
         "2026-09-30",
         "2026-10-01",
         "2026-10-07",
         "2026-10-08",
-        "2026-10-09"
+        "2026-10-09",
+        "2026-10-12"
       ]
     },
     "configuration error exposed": {
@@ -33070,7 +33071,7 @@
       ]
     },
     "extortion group shinyhunters": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33159,7 +33160,7 @@
       ]
     },
     "several google domains": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33297,7 +33298,7 @@
       ]
     },
     "google domains impacted": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -33321,7 +33322,7 @@
       ]
     },
     "full working exploit": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -33330,7 +33331,7 @@
       ]
     },
     "russian national suspected": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -33339,7 +33340,7 @@
       ]
     },
     "executives must match": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -33356,7 +33357,7 @@
       ]
     },
     "inject os commands": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -33384,7 +33385,7 @@
       ]
     },
     "business systems attackers": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -33400,10 +33401,11 @@
       ]
     },
     "fake claude installers": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-09",
-        "2026-10-10"
+        "2026-10-10",
+        "2026-10-12"
       ]
     },
     "prolific data theft": {
@@ -33425,7 +33427,7 @@
       ]
     },
     "google search ads": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -33433,7 +33435,7 @@
       ]
     },
     "publish personal information": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -33441,7 +33443,7 @@
       ]
     },
     "canadian cybersecurity firm": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -33449,7 +33451,7 @@
       ]
     },
     "repositories cybersecurity researchers": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -33457,25 +33459,32 @@
       ]
     },
     "customer facing saas": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-11",
+        "2026-10-12"
+      ]
+    },
+    "ai powered approach": {
+      "count": 1,
+      "dates": [
+        "2026-10-12"
+      ]
+    },
+    "obtained https certificates": {
+      "count": 1,
+      "dates": [
+        "2026-10-12"
+      ]
+    },
+    "anthropic's claude code": {
+      "count": 1,
+      "dates": [
         "2026-10-12"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-19 16:58",
-      "articles": 48,
-      "top_keywords": [
-        "ai built exploit",
-        "least 2022 nightmarestresser",
-        "high severity flaw",
-        "image upload server",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-09-19 19:55",
       "articles": 48,
@@ -34563,6 +34572,17 @@
         "full working exploit",
         "business systems attackers",
         "canadian cybersecurity firm"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12 08:27",
+      "articles": 48,
+      "top_keywords": [
+        "google domains impacted",
+        "full working exploit",
+        "business systems attackers",
+        "canadian cybersecurity firm",
+        "extortion group shinyhunters"
       ]
     }
   ]

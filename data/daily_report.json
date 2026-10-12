@@ -1,10 +1,9 @@
 {
-  "last_updated": "2026-10-12 00:54",
+  "last_updated": "2026-10-12 08:27",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "google domains impacted",
-    "open source maintainers",
     "full working exploit",
     "business systems attackers",
     "canadian cybersecurity firm",
@@ -13,60 +12,72 @@
     "google search ads",
     "repositories cybersecurity researchers",
     "several google domains",
+    "ai powered approach",
     "twitter whistleblower complaint",
-    "sprawling phishing campaign",
+    "today issued updates",
     "publish personal information",
+    "obtained https certificates",
     "inject os commands",
     "individuals whose licenses",
+    "fake claude installers",
     "executives must match",
     "customer facing saas",
-    "prolific data theft",
-    "suspected shinyhunters operative",
-    "hacker handle rey"
+    "anthropic's claude code"
   ],
   "trending": [
     {
       "keyword": "google domains impacted",
-      "mentions": 11
-    },
-    {
-      "keyword": "open source maintainers",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "full working exploit",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "business systems attackers",
-      "mentions": 10
-    },
-    {
-      "keyword": "canadian cybersecurity firm",
-      "mentions": 8
-    },
-    {
-      "keyword": "extortion group shinyhunters",
-      "mentions": 18
-    },
-    {
-      "keyword": "russian national suspected",
       "mentions": 11
     },
     {
-      "keyword": "google search ads",
+      "keyword": "canadian cybersecurity firm",
       "mentions": 9
     },
     {
+      "keyword": "extortion group shinyhunters",
+      "mentions": 19
+    },
+    {
+      "keyword": "russian national suspected",
+      "mentions": 12
+    },
+    {
+      "keyword": "google search ads",
+      "mentions": 10
+    },
+    {
       "keyword": "repositories cybersecurity researchers",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "several google domains",
-      "mentions": 14
+      "mentions": 15
+    },
+    {
+      "keyword": "ai powered approach",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records",
+      "link": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
+      "summary": "Cybersecurity researchers have disclosed details of a two-pronged artificial intelligence (AI)-augmented initial access campaign targeting WordPress sites, e-commerce platforms, and critical infrastructure entities in Ukraine. The activity, which brings together commodity offensive tools like Cobalt Strike with an AI orchestration layer powered by Anthropic's Claude Code, has been attributed",
+      "published": "Mon, 12 Oct 2026 12:56:12 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
@@ -91,7 +102,7 @@
       "source": "The Hacker News",
       "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
       "link": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
-      "summary": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and targeted real websites. The AI company said it identified four broad categories of unintended model actions during evaluations and internal use of Claude - Claude Mythos",
+      "summary": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations until further notice following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and targeted real websites. The AI company said it identified four broad categories of unintended model actions during evaluations and internal use of Claude",
       "published": "Sat, 10 Oct 2026 14:48:45 +0530",
       "value_score": 16,
       "value_signals": [
@@ -137,15 +148,6 @@
         "Patch/update ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
-      "link": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
-      "summary": "Anthropic on Thursday unveiled OSS Scanner as an opt-in vulnerability scanner to help secure the open-source ecosystem using artificial intelligence (AI). \"It's an opt-in service informed by our experience using Claude to find vulnerabilities during Project Glasswing,\" Anthropic said. \"Projects that join will receive thorough, periodic security scans by our strongest models at no cost.\"",
-      "published": "Fri, 09 Oct 2026 18:17:28 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -380,6 +382,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Let’s Encrypt Cuts Default Certificate Validity to 64 Days Ahead of 45-Day Switch",
+      "link": "https://www.securityweek.com/lets-encrypt-cuts-default-certificate-validity-to-64-days-ahead-of-45-day-switch/",
+      "summary": "Beginning February 2027, all newly issued certificates will have a 64-day validity period by default. The post Let’s Encrypt Cuts Default Certificate Validity to 64 Days Ahead of 45-Day Switch appeared first on SecurityWeek .",
+      "published": "Mon, 12 Oct 2026 07:53:28 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison",
       "link": "https://www.securityweek.com/insider-cyber-extortion-plot-against-industrial-firm-lands-engineer-in-prison/",
       "summary": "The former core infrastructure engineer deleted admin accounts, reset hundreds of passwords, and demanded 20 bitcoin to spare the company’s servers. The post Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison appeared first on SecurityWeek .",
@@ -450,15 +461,6 @@
       "value_signals": [
         "High severity"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Anthropic Fast-Tracks AI Bug Reports to OSS Maintainers, Taps 11 Firms for OT Security",
-      "link": "https://www.securityweek.com/anthropic-fast-tracks-ai-bug-reports-to-oss-maintainers-taps-11-firms-for-ot-security/",
-      "summary": "OSS Scanner sends unreviewed, model-generated vulnerability reports to open source maintainers that opt in. The post Anthropic Fast-Tracks AI Bug Reports to OSS Maintainers, Taps 11 Firms for OT Security appeared first on SecurityWeek .",
-      "published": "Fri, 09 Oct 2026 08:19:33 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

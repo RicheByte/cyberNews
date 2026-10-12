@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-10-12 00:54 UTC  
+> **Last Updated:** 2026-10-12 08:27 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**google domains impacted** • **open source maintainers** • **full working exploit** • **business systems attackers** • **canadian cybersecurity firm** • **extortion group shinyhunters** • **russian national suspected** • **google search ads** • **repositories cybersecurity researchers** • **several google domains** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **publish personal information** • **inject os commands** • **individuals whose licenses** • **executives must match** • **customer facing saas** • **prolific data theft** • **suspected shinyhunters operative** • **hacker handle rey**
+**google domains impacted** • **full working exploit** • **business systems attackers** • **canadian cybersecurity firm** • **extortion group shinyhunters** • **russian national suspected** • **google search ads** • **repositories cybersecurity researchers** • **several google domains** • **ai powered approach** • **twitter whistleblower complaint** • **today issued updates** • **publish personal information** • **obtained https certificates** • **inject os commands** • **individuals whose licenses** • **fake claude installers** • **executives must match** • **customer facing saas** • **anthropic's claude code**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records](https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html)
 - [P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands](https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html)
 - [The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't](https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html)
 - [Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws](https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html)
@@ -23,7 +24,6 @@
 - [FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack](https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html)
 - [TP-Link Sued by Four More U.S. States Over Router Security and China Ties](https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html)
 - [Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access](https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html)
-- [Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects](https://thehackernews.com/2026/10/anthropic-launches-free-ai.html)
 
 ### BleepingComputer
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Let’s Encrypt Cuts Default Certificate Validity to 64 Days Ahead of 45-Day Switch](https://www.securityweek.com/lets-encrypt-cuts-default-certificate-validity-to-64-days-ahead-of-45-day-switch/)
 - [Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison](https://www.securityweek.com/insider-cyber-extortion-plot-against-industrial-firm-lands-engineer-in-prison/)
 - [OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks](https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/)
 - [In Other News: AI Used in Korean Bank Breaches, Poem-Guided Botnet, Empire Admin Gets 40 Years](https://www.securityweek.com/in-other-news-ai-used-in-korean-bank-breaches-poem-guided-botnet-empire-admin-gets-40-years/)
@@ -67,7 +68,6 @@
 - [Unpatched AhsayCBS Vulnerabilities Exploited in the Wild](https://www.securityweek.com/unpatched-ahsaycbs-vulnerabilities-exploited-in-the-wild/)
 - [Pre-Baked Firmware Malware Hits Budget Android Devices in 150+ Countries](https://www.securityweek.com/pre-baked-firmware-malware-hits-budget-android-devices-in-150-countries/)
 - [US Disrupts Chinese State-Sponsored Hacking Tools](https://www.securityweek.com/us-disrupts-chinese-state-sponsored-hacking-tools/)
-- [Anthropic Fast-Tracks AI Bug Reports to OSS Maintainers, Taps 11 Firms for OT Security](https://www.securityweek.com/anthropic-fast-tracks-ai-bug-reports-to-oss-maintainers-taps-11-firms-for-ot-security/)
 
 ### Threatpost
 

@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 802,
+      "count": 803,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -342,11 +342,12 @@
         "2026-10-06",
         "2026-10-07",
         "2026-10-08",
-        "2026-10-09"
+        "2026-10-09",
+        "2026-10-12"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2766,
+      "count": 2767,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -29092,7 +29093,7 @@
       ]
     },
     "statement released today": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-08-31",
         "2026-09-01",
@@ -29102,7 +29103,8 @@
         "2026-09-06",
         "2026-09-09",
         "2026-10-08",
-        "2026-10-09"
+        "2026-10-09",
+        "2026-10-12"
       ]
     },
     "remain open questions": {
@@ -29347,7 +29349,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 185,
+      "count": 186,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -30400,7 +30402,7 @@
       ]
     },
     "today issued updates": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-09-11",
         "2026-09-30",
@@ -32310,9 +32312,10 @@
       ]
     },
     "stealing mobile call": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-09-29"
+        "2026-09-29",
+        "2026-10-12"
       ]
     },
     "darpa selects xint": {
@@ -32731,10 +32734,11 @@
       ]
     },
     "remove personal information": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-02",
-        "2026-10-03"
+        "2026-10-03",
+        "2026-10-12"
       ]
     },
     "radar kiteworks patches": {
@@ -33071,7 +33075,7 @@
       ]
     },
     "extortion group shinyhunters": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33103,7 +33107,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33340,7 +33344,7 @@
       ]
     },
     "executives must match": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -33409,7 +33413,7 @@
       ]
     },
     "prolific data theft": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -33418,7 +33422,7 @@
       ]
     },
     "suspected shinyhunters operative": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -33435,7 +33439,7 @@
       ]
     },
     "publish personal information": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -33443,7 +33447,7 @@
       ]
     },
     "canadian cybersecurity firm": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -33478,6 +33482,36 @@
       ]
     },
     "anthropic's claude code": {
+      "count": 2,
+      "dates": [
+        "2026-10-12"
+      ]
+    },
+    "canonical websites disrupted": {
+      "count": 1,
+      "dates": [
+        "2026-10-12"
+      ]
+    },
+    "varonis researchers explain": {
+      "count": 1,
+      "dates": [
+        "2026-10-12"
+      ]
+    },
+    "canonical websites including": {
+      "count": 1,
+      "dates": [
+        "2026-10-12"
+      ]
+    },
+    "typical cybersecurity firms": {
+      "count": 1,
+      "dates": [
+        "2026-10-12"
+      ]
+    },
+    "temporarily paused sales": {
       "count": 1,
       "dates": [
         "2026-10-12"
@@ -33485,17 +33519,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-19 19:55",
-      "articles": 48,
-      "top_keywords": [
-        "ai built exploit",
-        "least 2022 nightmarestresser",
-        "high severity flaw",
-        "image upload server",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-09-19 22:04",
       "articles": 48,
@@ -34583,6 +34606,17 @@
         "business systems attackers",
         "canadian cybersecurity firm",
         "extortion group shinyhunters"
+      ]
+    },
+    {
+      "timestamp": "2026-10-12 19:33",
+      "articles": 48,
+      "top_keywords": [
+        "anthropic's claude code",
+        "extortion group shinyhunters",
+        "canonical websites disrupted",
+        "varonis researchers explain",
+        "twitter whistleblower complaint"
       ]
     }
   ]

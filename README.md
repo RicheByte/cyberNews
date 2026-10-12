@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-12 08:27 UTC |
+| 🕐 Last Updated | 2026-10-12 19:33 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`google domains impacted` • `full working exploit` • `business systems attackers` • `canadian cybersecurity firm` • `extortion group shinyhunters` • `russian national suspected` • `google search ads` • `repositories cybersecurity researchers` • `several google domains` • `ai powered approach`
+`anthropic's claude code` • `extortion group shinyhunters` • `canonical websites disrupted` • `varonis researchers explain` • `twitter whistleblower complaint` • `today issued updates` • `individuals whose licenses` • `hacker handle rey` • `executives must match` • `canonical websites including`
 
 ## 📄 Reports
 

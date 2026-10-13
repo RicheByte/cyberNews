@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 804,
+      "count": 805,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -348,7 +348,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2768,
+      "count": 2769,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1329,7 +1329,7 @@
       ]
     },
     "national security risk": {
-      "count": 532,
+      "count": 533,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1434,7 +1434,8 @@
         "2026-09-28",
         "2026-09-29",
         "2026-09-30",
-        "2026-10-01"
+        "2026-10-01",
+        "2026-10-13"
       ]
     },
     "open source millions": {
@@ -20467,7 +20468,7 @@
       ]
     },
     "security experts warn": {
-      "count": 81,
+      "count": 82,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -20495,7 +20496,8 @@
         "2026-10-05",
         "2026-10-06",
         "2026-10-07",
-        "2026-10-08"
+        "2026-10-08",
+        "2026-10-13"
       ]
     },
     "targets 217 banking": {
@@ -29351,7 +29353,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 187,
+      "count": 188,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -32738,7 +32740,7 @@
       ]
     },
     "remove personal information": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-10-02",
         "2026-10-03",
@@ -33080,7 +33082,7 @@
       ]
     },
     "extortion group shinyhunters": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33113,7 +33115,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33351,7 +33353,7 @@
       ]
     },
     "executives must match": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -33421,7 +33423,7 @@
       ]
     },
     "prolific data theft": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -33431,7 +33433,7 @@
       ]
     },
     "suspected shinyhunters operative": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -33449,7 +33451,7 @@
       ]
     },
     "publish personal information": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -33458,7 +33460,7 @@
       ]
     },
     "canadian cybersecurity firm": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -33494,35 +33496,35 @@
       ]
     },
     "anthropic's claude code": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-12",
         "2026-10-13"
       ]
     },
     "canonical websites disrupted": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-12",
         "2026-10-13"
       ]
     },
     "varonis researchers explain": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-12",
         "2026-10-13"
       ]
     },
     "canonical websites including": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-12",
         "2026-10-13"
       ]
     },
     "typical cybersecurity firms": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-12",
         "2026-10-13"
@@ -33536,30 +33538,19 @@
       ]
     },
     "cve 2026 85097": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-13"
       ]
     },
     "data centers forcing": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-13"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-20 02:58",
-      "articles": 48,
-      "top_keywords": [
-        "ai built exploit",
-        "least 2022 nightmarestresser",
-        "high severity flaw",
-        "image upload server",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-09-20 08:58",
       "articles": 48,
@@ -34647,6 +34638,17 @@
         "canonical websites disrupted",
         "varonis researchers explain",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13 08:51",
+      "articles": 48,
+      "top_keywords": [
+        "anthropic's claude code",
+        "extortion group shinyhunters",
+        "cve 2026 85097",
+        "canonical websites disrupted",
+        "varonis researchers explain"
       ]
     }
   ]

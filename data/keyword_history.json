@@ -348,7 +348,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2770,
+      "count": 2771,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2106,7 +2106,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 654,
+      "count": 655,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -29262,7 +29262,7 @@
       ]
     },
     "longest running spree": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-09-01",
         "2026-09-04",
@@ -29276,7 +29276,8 @@
         "2026-09-15",
         "2026-09-22",
         "2026-09-29",
-        "2026-09-30"
+        "2026-09-30",
+        "2026-10-13"
       ]
     },
     "external actors attempted": {
@@ -29355,7 +29356,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 188,
+      "count": 189,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -31287,7 +31288,7 @@
       ]
     },
     "ai driven attacks": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-09-18",
         "2026-09-19",
@@ -32042,14 +32043,15 @@
       ]
     },
     "multiple telecommunications companies": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-09-25",
         "2026-09-26",
         "2026-09-27",
         "2026-09-28",
         "2026-09-29",
-        "2026-10-08"
+        "2026-10-08",
+        "2026-10-13"
       ]
     },
     "create administrator accounts": {
@@ -32321,7 +32323,7 @@
       ]
     },
     "stealing mobile call": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-29",
         "2026-10-12",
@@ -33086,7 +33088,7 @@
       ]
     },
     "extortion group shinyhunters": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33119,7 +33121,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33464,7 +33466,7 @@
       ]
     },
     "canadian cybersecurity firm": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -33554,7 +33556,7 @@
       ]
     },
     "xworm rat evolves": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-13"
       ]
@@ -33572,7 +33574,7 @@
       ]
     },
     "advertising unit owned": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-13"
       ]
@@ -33584,12 +33586,48 @@
       ]
     },
     "what's different many": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-13"
       ]
     },
     "ssd secure disclosure": {
+      "count": 2,
+      "dates": [
+        "2026-10-13"
+      ]
+    },
+    "root without logging": {
+      "count": 1,
+      "dates": [
+        "2026-10-13"
+      ]
+    },
+    "117 deals announced": {
+      "count": 1,
+      "dates": [
+        "2026-10-13"
+      ]
+    },
+    "runtime identity controls": {
+      "count": 1,
+      "dates": [
+        "2026-10-13"
+      ]
+    },
+    "kb5126653 cumulative updates": {
+      "count": 1,
+      "dates": [
+        "2026-10-13"
+      ]
+    },
+    "security updates addressing": {
+      "count": 1,
+      "dates": [
+        "2026-10-13"
+      ]
+    },
+    "much deeper penetration": {
       "count": 1,
       "dates": [
         "2026-10-13"
@@ -33597,17 +33635,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-20 13:53",
-      "articles": 48,
-      "top_keywords": [
-        "ai built exploit",
-        "least 2022 nightmarestresser",
-        "high severity flaw",
-        "image upload server",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-09-20 17:14",
       "articles": 48,
@@ -34693,6 +34720,17 @@
         "xworm rat evolves",
         "extortion group shinyhunters",
         "ai driven attacks",
+        "twitter whistleblower complaint",
+        "hacker handle rey"
+      ]
+    },
+    {
+      "timestamp": "2026-10-13 22:11",
+      "articles": 48,
+      "top_keywords": [
+        "xworm rat evolves",
+        "extortion group shinyhunters",
+        "root without logging",
         "twitter whistleblower complaint",
         "hacker handle rey"
       ]

@@ -1,72 +1,117 @@
 {
-  "last_updated": "2026-10-13 17:17",
+  "last_updated": "2026-10-13 22:11",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "xworm rat evolves",
     "extortion group shinyhunters",
-    "ai driven attacks",
+    "root without logging",
     "twitter whistleblower complaint",
     "hacker handle rey",
-    "flaws affect products",
-    "executives must match",
-    "community edition ce",
-    "authenticated browser sessions",
     "advertising unit owned",
-    "prolific data theft",
-    "remove personal information",
-    "publish personal information",
-    "local model runtime",
-    "what's different many",
+    "117 deals announced",
     "canadian cybersecurity firm",
-    "suspected shinyhunters operative",
+    "runtime identity controls",
+    "ai driven attacks",
+    "kb5126653 cumulative updates",
+    "security updates addressing",
+    "what's different many",
     "stealing mobile call",
     "ssd secure disclosure",
-    "sprawling phishing campaign"
+    "sprawling phishing campaign",
+    "multiple telecommunications companies",
+    "much deeper penetration",
+    "longest running spree",
+    "individuals whose licenses"
   ],
   "trending": [
     {
       "keyword": "xworm rat evolves",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "extortion group shinyhunters",
-      "mentions": 23
+      "mentions": 24
     },
     {
-      "keyword": "ai driven attacks",
-      "mentions": 15
+      "keyword": "root without logging",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2770
+      "mentions": 2771
     },
     {
       "keyword": "hacker handle rey",
-      "mentions": 19
-    },
-    {
-      "keyword": "flaws affect products",
-      "mentions": 1
-    },
-    {
-      "keyword": "executives must match",
-      "mentions": 15
-    },
-    {
-      "keyword": "community edition ce",
-      "mentions": 12
-    },
-    {
-      "keyword": "authenticated browser sessions",
-      "mentions": 1
+      "mentions": 20
     },
     {
       "keyword": "advertising unit owned",
+      "mentions": 2
+    },
+    {
+      "keyword": "117 deals announced",
       "mentions": 1
+    },
+    {
+      "keyword": "canadian cybersecurity firm",
+      "mentions": 14
+    },
+    {
+      "keyword": "runtime identity controls",
+      "mentions": 1
+    },
+    {
+      "keyword": "ai driven attacks",
+      "mentions": 16
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
+      "link": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
+      "summary": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from Anthropic. The frontier AI lab said small AI models could form autonomous, self-propagating worm botnets that are \"challenging to shut down,\" since \"there's no centralized point to shut off.\"",
+      "published": "Tue, 13 Oct 2026 23:50:57 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
+      "link": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
+      "summary": "A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it found no evidence that anyone exploited it. The flaw was in the feature that converts a personal account into an organization, Docker said in a security advisory on October 12.",
+      "published": "Tue, 13 Oct 2026 23:33:18 +0530",
+      "value_score": 32,
+      "value_signals": [
+        "Patch/update",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
+      "link": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
+      "summary": "An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm Volexity said on October 13. Ivanti has released fixes for two of the flaws and told customers on affected versions to \"act immediately.\" A fix for the third is still pending, according to Volexity. Volexity, which reported the flaws to Ivanti,",
+      "published": "Tue, 13 Oct 2026 23:03:11 +0530",
+      "value_score": 43,
+      "value_signals": [
+        "Zero-day",
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft",
+      "link": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
+      "summary": "A flaw in SAP's Cloud SDK for Python can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a security advisory on October 13. The flaw affects multi-tenant applications on SAP Business Technology Platform (BTP) that use the SDK, SAP's official Python client for BTP services. An attacker must be able to control the tenant subdomain,",
+      "published": "Tue, 13 Oct 2026 22:58:50 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
@@ -111,42 +156,80 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Product Walkthrough: Bitdefender AI Visibility and Control",
-      "link": "https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html",
-      "summary": "A user opens a browser tab, pastes data into a chat assistant, and nothing is installed. A developer adds a coding assistant as an editor extension, and nothing shows up in the installed programs list. Someone downloads a local model runtime, a program that runs models directly on the machine instead of sending data to an external service, because they were told not to send company data",
-      "published": "Tue, 13 Oct 2026 16:00:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Attackers Heat French Supermarket Fridges Up to 50°C by Hijacking Danfoss Controllers",
-      "link": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html",
-      "summary": "Attackers took remote control of fridges and freezers at hundreds of French supermarkets on the night of October 11 and warmed them, forcing stores to throw food away, several retail chains said. The attackers reached them through the controller that runs all of a store's fridges and freezers, a device made by Danish company Danfoss that maintenance firms can manage remotely. Les Mousquetaires",
-      "published": "Tue, 13 Oct 2026 14:18:41 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control",
-      "link": "https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html",
-      "summary": "Two of 31 newly disclosed flaws in Progress Software's MarkLogic Server database could let an account given only some management privileges take administrator control of the server, the company says. Progress published all 31 on October 12 and scored five of them critical. Fixes have been available since September 10, in MarkLogic 11.3.7 and MarkLogic 12.1.0. Affected",
-      "published": "Tue, 13 Oct 2026 14:14:01 +0530",
-      "value_score": 26,
+      "source": "BleepingComputer",
+      "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
+      "link": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
+      "summary": "A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution through specially crafted PDF files. [...]",
+      "published": "Tue, 13 Oct 2026 17:33:26 -0400",
+      "value_score": 56,
       "value_signals": [
-        "High severity ×2"
+        "CVE mentioned",
+        "RCE",
+        "High severity"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "GitLab Patches CVSS 10.0 Flaw That Could Let Unauthenticated Users Run Server Code",
-      "link": "https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html",
-      "summary": "GitLab has released patches for a maximum-severity security flaw impacting its Community Edition (CE) and Enterprise Edition (EE) software that could result in arbitrary code execution. \"GitLab has remediated an issue that, under certain conditions, could have allowed an unauthenticated user to execute arbitrary code on the GitLab server via a specially crafted regular expression in a CI/CD",
-      "published": "Tue, 13 Oct 2026 14:13:37 +0530",
+      "source": "BleepingComputer",
+      "title": "Anthropic warns self-replicating AI could spread to your smart devices",
+      "link": "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/",
+      "summary": "Anthropic is warning that small AI models could soon be able to self-replicate across consumer IoT devices, from Android TV boxes to smart ovens, creating distributed botnets capable of running AI workloads without relying on data centers. [...]",
+      "published": "Tue, 13 Oct 2026 17:16:34 -0400",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/",
+      "summary": "Today is Microsoft's October 2026 Patch Tuesday, with security updates addressing a record-breaking 1,411 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
+      "published": "Tue, 13 Oct 2026 15:56:09 -0400",
+      "value_score": 82,
+      "value_signals": [
+        "Zero-day",
+        "Active exploitation",
+        "Patch/update ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft releases Windows 10 KB5126657 extended security update",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5126657-extended-security-update/",
+      "summary": "Microsoft released the Windows 10 KB5126657 extended security update, which includes this month's record-breaking October 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
+      "published": "Tue, 13 Oct 2026 15:47:30 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×3"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft: Windows 11 24H2 Home and Pro reached end of support",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-home-and-pro-reached-end-of-support/",
+      "summary": "Microsoft announced today that devices running Windows 11 24H2 Home and Pro editions have reached the end of support and will no longer receive monthly security and non-security preview updates. [...]",
+      "published": "Tue, 13 Oct 2026 15:04:38 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "UK Housing Ombudsman Service investigates 'security incident'",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-housing-ombudsman-service-investigates-security-incident/",
+      "summary": "The U.K. Housing Ombudsman Service is investigating a third-party IT security incident that impacted its case management system on Tuesday. [...]",
+      "published": "Tue, 13 Oct 2026 14:19:44 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Windows 11 KB5127648 & KB5126653 cumulative updates released",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127648-and-kb5126653-cumulative-updates-released/",
+      "summary": "Microsoft has released the Patch Tuesday Windows 11 KB5127648 and KB5126653 cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]",
+      "published": "Tue, 13 Oct 2026 13:49:38 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×2"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -156,81 +239,6 @@
       "published": "Tue, 13 Oct 2026 12:44:18 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Ivanti warns of Connect Secure zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/",
-      "summary": "Ivanti urged customers on Tuesday to immediately patch an actively exploited zero-day vulnerability in the Ivanti Connect Secure (ICS) remote access gateway. [...]",
-      "published": "Tue, 13 Oct 2026 11:45:50 -0400",
-      "value_score": 99,
-      "value_signals": [
-        "Zero-day ×2",
-        "Active exploitation",
-        "Patch/update",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Docker Hub flaw let attackers impersonate users, tamper with images",
-      "link": "https://www.bleepingcomputer.com/news/security/docker-hub-flaw-let-attackers-impersonate-users-tamper-with-images/",
-      "summary": "Docker has disclosed a critical vulnerability (CVE-2026-105445) in Docker Hub that let attackers access another user's container repositories using a personal access token (PAT). [...]",
-      "published": "Tue, 13 Oct 2026 11:20:20 -0400",
-      "value_score": 36,
-      "value_signals": [
-        "CVE mentioned",
-        "High severity"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "The MFA Gaps Attackers are Still Exploiting",
-      "link": "https://www.bleepingcomputer.com/news/security/the-mfa-gaps-attackers-are-still-exploiting/",
-      "summary": "Attackers continue exploiting gaps in MFA coverage, using stolen credentials to access VPNs, RDP, and Windows systems that still rely on passwords alone. Specops explains why protecting cloud applications isn't enough and how organizations can close these authentication gaps. [...]",
-      "published": "Tue, 13 Oct 2026 10:01:11 -0400",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "SAP warns of maximum severity OAuth2 SSRF security flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-oauth2-ssrf-security-flaw/",
-      "summary": "SAP has addressed 20 security flaws across multiple products in its October 2026 security updates, including a maximum-severity vulnerability in the Cloud SDK for Python. [...]",
-      "published": "Tue, 13 Oct 2026 09:51:02 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Norway fines Microsoft ad firm $9.6 million over Grindr data sharing",
-      "link": "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/",
-      "summary": "Norway's Data Protection Authority (Datatilsynet) has fined Microsoft-owned advertising company Xandr NOK 92 million ($9.6M) for unlawfully processing and sharing sensitive data belonging to Grindr users in the country. [...]",
-      "published": "Mon, 12 Oct 2026 16:13:52 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Yandex confirms service outage as users lose access to cloud files",
-      "link": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
-      "summary": "Russian cloud services provider Yandex announced that drone attacks damaged three of its data centers, forcing it to shut down two facilities and partially disable a third. [...]",
-      "published": "Mon, 12 Oct 2026 15:23:01 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Anthropic takes risky AI tests offline after models breach govt sites",
-      "link": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
-      "summary": "Anthropic announced that its internal AI models undergoing \"high-risk and cybersecurity evaluations\" no longer have internet access following incidents involving U.S. government websites at the federal, state, and local levels. [...]",
-      "published": "Mon, 12 Oct 2026 14:51:59 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -312,6 +320,26 @@
     },
     {
       "source": "Dark Reading",
+      "title": "North Korea Phishes Ukrainians for War Intel",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel",
+      "summary": "The Democratic People's Republic of Korea (DPRK) is trying to get insight into its own war effort in Ukraine, through simple reply-baiting phishing attacks.",
+      "published": "Tue, 13 Oct 2026 21:24:45 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Anthropic Finds Ingredients for Future AI Worms",
+      "link": "https://www.darkreading.com/perimeter/anthropic-ingredients-future-ai-worms",
+      "summary": "Anthropic's latest study combined IoT and network tests to explore AI self-replication, which researchers said would be \"challenging\" to shut down.",
+      "published": "Tue, 13 Oct 2026 20:35:23 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack",
       "link": "https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack",
       "summary": "Attackers are currently targeting a critical vulnerability in SMA 1000 appliances, putting SonicWall customers in a familiar yet unenviable position.",
@@ -371,22 +399,18 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "What We Missed: FBI Strikes Back at ShinyHunters",
-      "link": "https://www.darkreading.com/identity-access-management-security/fbi-shinyhunters-claims-hack",
-      "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from the arrest of a suspected ShinyHunters operative to the compromise of a Pentagon-run data center.",
-      "published": "Fri, 09 Oct 2026 17:21:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Security Threats Don't Stop at the Office: Why Executives' Families Need Training, Too",
-      "link": "https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too",
-      "summary": "Those closest to executives must match their security postures because the weakest link in a family can become the entry point for attacks.",
-      "published": "Fri, 09 Oct 2026 16:25:05 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Security Week",
+      "title": "Ivanti Zero-Day Chain Gave Attackers Root Access to Fully Patched VPN",
+      "link": "https://www.securityweek.com/ivanti-zero-day-chain-gave-attackers-root-access-to-fully-patched-vpn/",
+      "summary": "CVE-2026-104935 affects Ivanti Connect Secure and it can be exploited for unauthenticated remote code execution with elevated privileges. The post Ivanti Zero-Day Chain Gave Attackers Root Access to Fully Patched VPN appeared first on SecurityWeek .",
+      "published": "Tue, 13 Oct 2026 18:43:43 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day ×2",
+        "RCE",
+        "Exploit wording"
+      ]
     },
     {
       "source": "Security Week",
@@ -450,15 +474,6 @@
       "link": "https://www.securityweek.com/86-million-crypto-heist-linked-to-ledger-signer-hardware-implant/",
       "summary": "A small circuit board hidden under the signers’ screens read user data and transmitted it to the attackers. The post $86 Million Crypto Heist Linked to Ledger Signer Hardware Implant appeared first on SecurityWeek .",
       "published": "Tue, 13 Oct 2026 10:36:05 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Cyberattack Prompts Grocery Giant Ahold Delhaize to Disconnect Systems",
-      "link": "https://www.securityweek.com/cyberattack-prompts-ahold-delhaize-to-disconnect-systems/",
-      "summary": "The company says it took some of its systems offline to contain a security issue within its network. The post Cyberattack Prompts Grocery Giant Ahold Delhaize to Disconnect Systems appeared first on SecurityWeek .",
-      "published": "Tue, 13 Oct 2026 09:37:12 +0000",
       "value_score": 10,
       "value_signals": []
     },

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-13 08:51 UTC |
+| 🕐 Last Updated | 2026-10-13 17:17 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`anthropic's claude code` • `extortion group shinyhunters` • `cve 2026 85097` • `canonical websites disrupted` • `varonis researchers explain` • `twitter whistleblower complaint` • `individuals whose licenses` • `hacker handle rey` • `executives must match` • `canonical websites including`
+`xworm rat evolves` • `extortion group shinyhunters` • `ai driven attacks` • `twitter whistleblower complaint` • `hacker handle rey` • `flaws affect products` • `executives must match` • `community edition ce` • `authenticated browser sessions` • `advertising unit owned`
 
 ## 📄 Reports
 

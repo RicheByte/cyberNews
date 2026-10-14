@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 805,
+      "count": 806,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -344,11 +344,12 @@
         "2026-10-08",
         "2026-10-09",
         "2026-10-12",
-        "2026-10-13"
+        "2026-10-13",
+        "2026-10-14"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2774,
+      "count": 2775,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2108,7 +2109,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 658,
+      "count": 659,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2292,7 +2293,7 @@
       ]
     },
     "latest version following": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -10028,7 +10029,7 @@
       ]
     },
     "law enforcement agencies": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-03-05",
         "2026-03-06",
@@ -11863,13 +11864,14 @@
       ]
     },
     "threat actors behind": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-03-21",
         "2026-03-22",
         "2026-03-23",
         "2026-04-02",
-        "2026-04-03"
+        "2026-04-03",
+        "2026-10-14"
       ]
     },
     "achieve code execution": {
@@ -30418,7 +30420,7 @@
       ]
     },
     "today issued updates": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-09-11",
         "2026-09-30",
@@ -33101,7 +33103,7 @@
       ]
     },
     "extortion group shinyhunters": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33135,7 +33137,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33473,7 +33475,7 @@
       ]
     },
     "publish personal information": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -33677,13 +33679,13 @@
       ]
     },
     "strict compliance governance": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-14"
       ]
     },
     "sonicwall sma devices": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-14"
       ]
@@ -33695,7 +33697,7 @@
       ]
     },
     "workforce ai protection": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-14"
       ]
@@ -33707,13 +33709,13 @@
       ]
     },
     "three bugs fixed": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-14"
       ]
     },
     "malicious server receiving": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-14"
       ]
@@ -33747,20 +33749,39 @@
       "dates": [
         "2026-10-14"
       ]
+    },
+    "anthropic finds ingredients": {
+      "count": 1,
+      "dates": [
+        "2026-10-14"
+      ]
+    },
+    "trm labs announced": {
+      "count": 1,
+      "dates": [
+        "2026-10-14"
+      ]
+    },
+    "synthetic video calls": {
+      "count": 1,
+      "dates": [
+        "2026-10-14"
+      ]
+    },
+    "stalking physical violence": {
+      "count": 1,
+      "dates": [
+        "2026-10-14"
+      ]
+    },
+    "sounds exactly like": {
+      "count": 1,
+      "dates": [
+        "2026-10-14"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-21 02:56",
-      "articles": 48,
-      "top_keywords": [
-        "ai built exploit",
-        "least 2022 nightmarestresser",
-        "high severity flaw",
-        "image upload server",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-09-21 09:31",
       "articles": 48,
@@ -34846,6 +34867,17 @@
         "law enforcement agencies",
         "workforce ai protection",
         "ai agent found",
+        "today issued updates",
+        "three bugs fixed"
+      ]
+    },
+    {
+      "timestamp": "2026-10-14 19:55",
+      "articles": 48,
+      "top_keywords": [
+        "law enforcement agencies",
+        "workforce ai protection",
+        "twitter whistleblower complaint",
         "today issued updates",
         "three bugs fixed"
       ]

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-14 14:49 UTC |
+| 🕐 Last Updated | 2026-10-14 19:55 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`law enforcement agencies` • `workforce ai protection` • `ai agent found` • `today issued updates` • `three bugs fixed` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `sonicwall sma devices` • `malicious server receiving` • `latest version following`
+`law enforcement agencies` • `workforce ai protection` • `twitter whistleblower complaint` • `today issued updates` • `three bugs fixed` • `latest version following` • `hacker handle rey` • `anthropic finds ingredients` • `publish personal information` • `extortion group shinyhunters`
 
 ## 📄 Reports
 

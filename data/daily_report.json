@@ -1,72 +1,117 @@
 {
-  "last_updated": "2026-10-14 14:49",
+  "last_updated": "2026-10-14 19:55",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "law enforcement agencies",
     "workforce ai protection",
-    "ai agent found",
+    "twitter whistleblower complaint",
     "today issued updates",
     "three bugs fixed",
-    "twitter whistleblower complaint",
-    "sprawling phishing campaign",
-    "sonicwall sma devices",
-    "malicious server receiving",
     "latest version following",
-    "hidden recording device",
     "hacker handle rey",
-    "eight indonesian banking",
-    "cisa warns admins",
-    "evade security checks",
-    "disable security checks",
-    "bypass security checks",
-    "critical authentication bypass",
-    "remove personal information",
-    "publish personal information"
+    "anthropic finds ingredients",
+    "publish personal information",
+    "extortion group shinyhunters",
+    "malicious server receiving",
+    "windows operating systems",
+    "trm labs announced",
+    "threat actors behind",
+    "synthetic video calls",
+    "strict compliance governance",
+    "stalking physical violence",
+    "sprawling phishing campaign",
+    "sounds exactly like",
+    "sonicwall sma devices"
   ],
   "trending": [
     {
       "keyword": "law enforcement agencies",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "workforce ai protection",
-      "mentions": 1
-    },
-    {
-      "keyword": "ai agent found",
-      "mentions": 1
-    },
-    {
-      "keyword": "today issued updates",
-      "mentions": 12
-    },
-    {
-      "keyword": "three bugs fixed",
-      "mentions": 1
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2774
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 658
-    },
-    {
-      "keyword": "sonicwall sma devices",
       "mentions": 2
     },
     {
-      "keyword": "malicious server receiving",
-      "mentions": 1
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2775
+    },
+    {
+      "keyword": "today issued updates",
+      "mentions": 13
+    },
+    {
+      "keyword": "three bugs fixed",
+      "mentions": 2
     },
     {
       "keyword": "latest version following",
-      "mentions": 16
+      "mentions": 17
+    },
+    {
+      "keyword": "hacker handle rey",
+      "mentions": 24
+    },
+    {
+      "keyword": "anthropic finds ingredients",
+      "mentions": 1
+    },
+    {
+      "keyword": "publish personal information",
+      "mentions": 17
+    },
+    {
+      "keyword": "extortion group shinyhunters",
+      "mentions": 27
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
+      "link": "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html",
+      "summary": "Attackers are exploiting a critical flaw in Cisco Secure Email Gateway that lets a sender with no login write files to the appliance's operating system, Cisco said in an advisory on Wednesday. The attacker sends an email with a crafted attachment through the gateway and, if it succeeds, could then run commands as root. The appliance filters an organization's email for spam, malware,",
+      "published": "Thu, 15 Oct 2026 00:08:56 +0530",
+      "value_score": 32,
+      "value_signals": [
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App",
+      "link": "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
+      "summary": "Attackers exploited a flaw in an optional Nextcloud app, Collabora Online - Built-in CODE Server, to plant web shells on Nextcloud servers. Three administrators reported the issue on GitHub, with the first logged attack on September 10. A web shell is a small file that executes any command an attacker sends via a web request, with the rights of the web server account. The flaw",
+      "published": "Wed, 14 Oct 2026 23:08:31 +0530",
+      "value_score": 36,
+      "value_signals": [
+        "Backdoor",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages",
+      "link": "https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html",
+      "summary": "Microsoft and Health-ISAC, along with the Japan Cybercrime Control Center (JC3) and a coalition of private sector companies, such as Resecurity, Cloudflare, Oracle, Proofpoint, and TRM Labs, announced the disruption of three phishing kits, CoGUI (aka NX or FA), Haozi (aka Phoenix), and Iron Man System. \"Since January 2026, the threat actors behind these kits have been responsible for",
+      "published": "Wed, 14 Oct 2026 22:39:15 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud",
+      "link": "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html",
+      "summary": "The U.S. Department of Justice (DoJ) on Tuesday charged 14 people and seized about 187 computers as part of its ongoing efforts to disrupt North Korea's fraudulent remote IT worker (ITW) scheme. The indictment charges a mix of U.S. citizens and Chinese nationals for their roles in an IT worker conspiracy affecting more than 70 U.S. companies, charging them with wire fraud conspiracy, money",
+      "published": "Wed, 14 Oct 2026 22:04:31 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
@@ -117,46 +162,34 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks",
-      "link": "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called Hirudo that works by replacing legitimate banking apps with purpose-built patched versions designed to bypass security checks from inside the app itself, marking a new escalation in financial fraud. Dutch mobile security company ThreatFabric said it identified replacements for eight Indonesian banking",
-      "published": "Wed, 14 Oct 2026 16:38:22 +0530",
+      "source": "BleepingComputer",
+      "title": "FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/",
+      "summary": "The U.S. Department of Justice (DoJ) has disrupted the Famous Chollima threat group's operations by arresting two suspects, charging 14 individuals, and seizing nearly 187 laptops used in North Korean remote IT worker schemes. [...]",
+      "published": "Wed, 14 Oct 2026 15:41:43 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part.",
-      "link": "https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html",
-      "summary": "The bug was simple: the login let you choose where your sign-in code went. Proving it on a live website was the hard part. TL;DR During an authorized assessment, an AI pentesting agent found a critical authentication bypass on a major insurer's production website, on its own. One login request let the user choose where the one-time passcode went. The attack was the easy part. Proving it",
-      "published": "Wed, 14 Oct 2026 16:30:00 +0530",
-      "value_score": 41,
-      "value_signals": [
-        "Auth bypass",
-        "High severity ×2"
-      ]
+      "source": "BleepingComputer",
+      "title": "Ledger asks sellers across Asia to halt sales after supply-chain attack",
+      "link": "https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/",
+      "summary": "Ledger has asked resellers and distributors of its wallets in Indonesia, Singapore, Thailand, the Philippines, Vietnam, Malaysia, and Hong Kong to suspend device sales and remove products from shelves while it investigates device tampering. [...]",
+      "published": "Wed, 14 Oct 2026 13:46:50 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
-      "link": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
-      "summary": "A flaw in Linux's vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions. In one virtualization setup, it lets an untrusted virtual machine write to the host's memory and hijack the program that runs the virtual machine. The bug is tracked as CVE-2026-74580 and named Vghost. Tencent Zhuque Lab, which found the",
-      "published": "Wed, 14 Oct 2026 13:16:57 +0530",
-      "value_score": 28,
+      "source": "BleepingComputer",
+      "title": "Cisco patches new Secure Email Gateway zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/",
+      "summary": "Cisco has patched another actively exploited zero-day flaw in its Secure Email Gateway (SEG) that lets remote unauthenticated attackers execute commands with root privileges. [...]",
+      "published": "Wed, 14 Oct 2026 13:29:14 -0400",
+      "value_score": 91,
       "value_signals": [
-        "CVE mentioned"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
-      "link": "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
-      "summary": "Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is taken over. The protected area is a VBS enclave, an isolated slice of memory the operating system uses to guard secrets, and the one they broke into handles passwords for a Windows anti-phishing feature. The work was done in a lab as a proof of",
-      "published": "Wed, 14 Oct 2026 11:22:28 +0530",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
+        "Zero-day ×2",
+        "Active exploitation",
+        "Exploit wording"
       ]
     },
     {
@@ -212,37 +245,6 @@
       "published": "Wed, 14 Oct 2026 07:41:20 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft: Recent Windows updates may trigger Remote Desktop failures",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/",
-      "summary": "Microsoft has confirmed that non-admin users may be unable to connect to devices via Remote Desktop after installing recent Windows updates if the \"Administrator protection\" security feature is enabled. [...]",
-      "published": "Wed, 14 Oct 2026 06:48:09 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OpenAI engineer arrested for allegedly planting spy device in office",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
-      "summary": "A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations. [...]",
-      "published": "Tue, 13 Oct 2026 18:33:02 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
-      "link": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
-      "summary": "A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution through specially crafted PDF files. [...]",
-      "published": "Tue, 13 Oct 2026 17:33:26 -0400",
-      "value_score": 56,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE",
-        "High severity"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -410,6 +412,26 @@
     },
     {
       "source": "Security Week",
+      "title": "AI Agents Navigate Unfamiliar OT Systems and Move Equipment in Minutes, Booz Allen Finds",
+      "link": "https://www.securityweek.com/ai-agents-navigate-unfamiliar-ot-systems-and-move-equipment-in-minutes-booz-allen-finds/",
+      "summary": "In Booz Allen’s isolated OT lab, AI models met every objective across eight scenarios and reached an industrial control network from a perimeter compromise in just over 16 minutes. The post AI Agents Navigate Unfamiliar OT Systems and Move Equipment in Minutes, Booz Allen Finds appeared first on SecurityWeek .",
+      "published": "Wed, 14 Oct 2026 16:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "ICS Patch Tuesday: Siemens Issues 17 Advisories, Rockwell Fixes ArmorBlock Takeover Flaw",
+      "link": "https://www.securityweek.com/ics-patch-tuesday-siemens-issues-17-advisories-rockwell-fixes-armorblock-takeover-flaw/",
+      "summary": "ABB previously published an advisory warning about possible probing of a dynovaPRO vulnerability. The post ICS Patch Tuesday: Siemens Issues 17 Advisories, Rockwell Fixes ArmorBlock Takeover Flaw appeared first on SecurityWeek .",
+      "published": "Wed, 14 Oct 2026 15:15:15 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Harmonic Security Raises $50 Million for Workforce AI Protection",
       "link": "https://www.securityweek.com/harmonic-security-raises-50-million-for-workforce-ai-protection/",
       "summary": "The cybersecurity startup plans to expand engineering and go-to-market teams in the US and UK. The post Harmonic Security Raises $50 Million for Workforce AI Protection appeared first on SecurityWeek .",
@@ -468,31 +490,6 @@
         "Auth bypass",
         "Patch/update ×2",
         "High severity"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Microsoft Patches Record 1,413 Vulnerabilities, Including Exploited Windows Zero-Day",
-      "link": "https://www.securityweek.com/microsoft-patches-record-1413-vulnerabilities-including-exploited-windows-zero-day/",
-      "summary": "The most important is CVE-2026-96951, a security feature bypass flaw in Windows that has been exploited in the wild. The post Microsoft Patches Record 1,413 Vulnerabilities, Including Exploited Windows Zero-Day appeared first on SecurityWeek .",
-      "published": "Wed, 14 Oct 2026 07:16:12 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day ×2",
-        "Active exploitation",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "SAP Patches Critical NetWeaver, S/4HANA Vulnerabilities",
-      "link": "https://www.securityweek.com/sap-patches-critical-netweaver-s-4hana-vulnerabilities/",
-      "summary": "The bugs could allow attackers to invoke internal operations and execute code, completely compromising the system. The post SAP Patches Critical NetWeaver, S/4HANA Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Wed, 14 Oct 2026 06:12:10 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×2"
       ]
     },
     {

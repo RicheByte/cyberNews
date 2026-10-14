@@ -348,7 +348,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2772,
+      "count": 2773,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2108,7 +2108,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 656,
+      "count": 657,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -20472,7 +20472,7 @@
       ]
     },
     "security experts warn": {
-      "count": 83,
+      "count": 84,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -29360,7 +29360,7 @@
       ]
     },
     "individuals whose licenses": {
-      "count": 189,
+      "count": 190,
       "dates": [
         "2026-09-02",
         "2026-09-03",
@@ -29401,7 +29401,8 @@
         "2026-10-10",
         "2026-10-11",
         "2026-10-12",
-        "2026-10-13"
+        "2026-10-13",
+        "2026-10-14"
       ]
     },
     "cybersecurity giant announced": {
@@ -30414,7 +30415,7 @@
       ]
     },
     "today issued updates": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-09-11",
         "2026-09-30",
@@ -30423,7 +30424,8 @@
         "2026-10-08",
         "2026-10-09",
         "2026-10-12",
-        "2026-10-13"
+        "2026-10-13",
+        "2026-10-14"
       ]
     },
     "configuration error exposed": {
@@ -32048,7 +32050,7 @@
       ]
     },
     "multiple telecommunications companies": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-09-25",
         "2026-09-26",
@@ -32056,7 +32058,8 @@
         "2026-09-28",
         "2026-09-29",
         "2026-10-08",
-        "2026-10-13"
+        "2026-10-13",
+        "2026-10-14"
       ]
     },
     "create administrator accounts": {
@@ -32328,7 +32331,7 @@
       ]
     },
     "stealing mobile call": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-29",
         "2026-10-12",
@@ -32752,12 +32755,13 @@
       ]
     },
     "remove personal information": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-10-02",
         "2026-10-03",
         "2026-10-12",
-        "2026-10-13"
+        "2026-10-13",
+        "2026-10-14"
       ]
     },
     "radar kiteworks patches": {
@@ -33094,7 +33098,7 @@
       ]
     },
     "extortion group shinyhunters": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33128,7 +33132,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33466,16 +33470,17 @@
       ]
     },
     "publish personal information": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-10-10",
         "2026-10-11",
         "2026-10-12",
-        "2026-10-13"
+        "2026-10-13",
+        "2026-10-14"
       ]
     },
     "canadian cybersecurity firm": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -33611,7 +33616,7 @@
       ]
     },
     "root without logging": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-13",
         "2026-10-14"
@@ -33631,14 +33636,14 @@
       ]
     },
     "kb5126653 cumulative updates": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-13",
         "2026-10-14"
       ]
     },
     "security updates addressing": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-13",
         "2026-10-14"
@@ -33651,7 +33656,7 @@
       ]
     },
     "executive conference room": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-14"
       ]
@@ -33663,6 +33668,24 @@
       ]
     },
     "hidden recording device": {
+      "count": 2,
+      "dates": [
+        "2026-10-14"
+      ]
+    },
+    "strict compliance governance": {
+      "count": 1,
+      "dates": [
+        "2026-10-14"
+      ]
+    },
+    "sonicwall sma devices": {
+      "count": 1,
+      "dates": [
+        "2026-10-14"
+      ]
+    },
+    "privilege escalation followed": {
       "count": 1,
       "dates": [
         "2026-10-14"
@@ -33670,17 +33693,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-20 20:10",
-      "articles": 48,
-      "top_keywords": [
-        "ai built exploit",
-        "least 2022 nightmarestresser",
-        "high severity flaw",
-        "image upload server",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-09-20 23:47",
       "articles": 48,
@@ -34768,6 +34780,17 @@
         "root without logging",
         "canadian cybersecurity firm",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-10-14 09:13",
+      "articles": 48,
+      "top_keywords": [
+        "executive conference room",
+        "canadian cybersecurity firm",
+        "today issued updates",
+        "twitter whistleblower complaint",
+        "sprawling phishing campaign"
       ]
     }
   ]

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-10-14 03:11 UTC  
+> **Last Updated:** 2026-10-14 09:13 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**xworm rat evolves** • **executive conference room** • **root without logging** • **canadian cybersecurity firm** • **twitter whistleblower complaint** • **saudi openai engineer** • **hacker handle rey** • **advertising unit owned** • **runtime identity controls** • **hidden recording device** • **extortion group shinyhunters** • **ai driven attacks** • **security updates addressing** • **kb5126653 cumulative updates** • **prolific data theft** • **stealing mobile call** • **ssd secure disclosure** • **sprawling phishing campaign** • **security experts warn** • **national security risk**
+**executive conference room** • **canadian cybersecurity firm** • **today issued updates** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **individuals whose licenses** • **hacker handle rey** • **extortion group shinyhunters** • **security updates addressing** • **kb5126653 cumulative updates** • **hidden recording device** • **security experts warn** • **strict compliance governance** • **stealing mobile call** • **sonicwall sma devices** • **root without logging** • **remove personal information** • **publish personal information** • **privilege escalation followed** • **multiple telecommunications companies**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave](https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html)
+- [Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug](https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html)
+- [OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room](https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html)
 - [Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets](https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html)
 - [Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another](https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html)
 - [Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far](https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html)
 - [SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft](https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html)
 - [GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking](https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html)
-- [Xandr Fined a Record €8.6 Million for Relaying Grindr Data Revealing Sexual Orientation](https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html)
-- [[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls](https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html)
-- [LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network](https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html)
 
 ### BleepingComputer
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Ransomware Gangs Embrace Physical Threats, Family Stalking?](https://www.darkreading.com/cybersecurity-analytics/ransomware-gangs-physical-threats-family-stalking)
 - [Zero-Days Lurk in Microsoft's Overgrown October Patch Tuesday](https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday)
 - [North Korea Phishes Ukrainians for War Intel](https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel)
 - [Anthropic Finds Ingredients for Future AI Worms](https://www.darkreading.com/perimeter/anthropic-ingredients-future-ai-worms)
@@ -56,18 +57,17 @@
 - [Prominent Ransomware Negotiator Faces Extortion Charges](https://www.darkreading.com/insider-threats/prominent-ransomware-negotiator-extortion-charges)
 - [No Identity, No Recovery: Cyber Resilience Starts With IAM](https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam)
 - [Passing the Baton: Dark Reading Names New Editor-in-Chief](https://www.darkreading.com/cyber-risk/passing-baton-dark-reading-new-editor-in-chief)
-- [ASOS Breach Reveals the Risks in Customer-Facing SaaS](https://www.darkreading.com/cyberattacks-data-breaches/asos-breach-risks-customer-facing-saas)
 
 ### Security Week
 
+- [Chrome, Firefox Updates Patch 114 Flaws as Mozilla Unveils Firefox Enterprise](https://www.securityweek.com/chrome-firefox-updates-patch-114-flaws-as-mozilla-unveils-firefox-enterprise/)
+- [Citrix, Fortinet, Ivanti Patch 29 Vulnerabilities Across Their Products](https://www.securityweek.com/citrix-fortinet-ivanti-patch-29-vulnerabilities-across-their-products/)
+- [Microsoft Patches Record 1,413 Vulnerabilities, Including Exploited Windows Zero-Day](https://www.securityweek.com/microsoft-patches-record-1413-vulnerabilities-including-exploited-windows-zero-day/)
+- [SAP Patches Critical NetWeaver, S/4HANA Vulnerabilities](https://www.securityweek.com/sap-patches-critical-netweaver-s-4hana-vulnerabilities/)
 - [Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say](https://www.securityweek.com/employee-arrested-after-listening-device-found-in-openai-conference-room-fbi-and-the-company-say/)
 - [Ivanti Zero-Day Chain Gave Attackers Root Access to Fully Patched VPN](https://www.securityweek.com/ivanti-zero-day-chain-gave-attackers-root-access-to-fully-patched-vpn/)
-- [Adobe Patches 140 Vulnerabilities Across 10 Products](https://www.securityweek.com/adobe-patches-140-vulnerabilities-across-10-products/)
+- [Adobe Patches 176 Vulnerabilities Across 11 Products](https://www.securityweek.com/adobe-patches-140-vulnerabilities-across-10-products/)
 - [Google Partially Reverses Chrome Bug Bounty Cuts](https://www.securityweek.com/google-partially-reverses-chrome-bug-bounty-cuts/)
-- [Meta Says Hackers Took Code, Personal Data of 1,500 in GitHub Breach](https://www.securityweek.com/meta-says-hackers-took-code-personal-data-of-1500-in-github-breach/)
-- [Small AI Models Could Soon Self-Replicate on IoT Devices, Anthropic Warns](https://www.securityweek.com/small-ai-models-may-soon-be-able-to-self-replicate-on-iot-devices-anthropic-warns/)
-- [XWorm RAT Evolves Into Surveillance Platform](https://www.securityweek.com/xworm-rat-evolves-into-surveillance-platform/)
-- [AI Turns Familiar Cyberattacks Into a Race Against Time](https://www.securityweek.com/ai-turns-familiar-cyberattacks-into-a-race-against-time/)
 
 ### Threatpost
 

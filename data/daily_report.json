@@ -1,72 +1,153 @@
 {
-  "last_updated": "2026-10-14 09:13",
+  "last_updated": "2026-10-14 14:49",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "executive conference room",
-    "canadian cybersecurity firm",
+    "law enforcement agencies",
+    "workforce ai protection",
+    "ai agent found",
     "today issued updates",
+    "three bugs fixed",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
-    "individuals whose licenses",
-    "hacker handle rey",
-    "extortion group shinyhunters",
-    "security updates addressing",
-    "kb5126653 cumulative updates",
-    "hidden recording device",
-    "security experts warn",
-    "strict compliance governance",
-    "stealing mobile call",
     "sonicwall sma devices",
-    "root without logging",
+    "malicious server receiving",
+    "latest version following",
+    "hidden recording device",
+    "hacker handle rey",
+    "eight indonesian banking",
+    "cisa warns admins",
+    "evade security checks",
+    "disable security checks",
+    "bypass security checks",
+    "critical authentication bypass",
     "remove personal information",
-    "publish personal information",
-    "privilege escalation followed",
-    "multiple telecommunications companies"
+    "publish personal information"
   ],
   "trending": [
     {
-      "keyword": "executive conference room",
-      "mentions": 2
+      "keyword": "law enforcement agencies",
+      "mentions": 12
     },
     {
-      "keyword": "canadian cybersecurity firm",
-      "mentions": 16
+      "keyword": "workforce ai protection",
+      "mentions": 1
+    },
+    {
+      "keyword": "ai agent found",
+      "mentions": 1
     },
     {
       "keyword": "today issued updates",
-      "mentions": 11
+      "mentions": 12
+    },
+    {
+      "keyword": "three bugs fixed",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2773
+      "mentions": 2774
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 657
+      "mentions": 658
     },
     {
-      "keyword": "individuals whose licenses",
-      "mentions": 190
+      "keyword": "sonicwall sma devices",
+      "mentions": 2
     },
     {
-      "keyword": "hacker handle rey",
-      "mentions": 22
+      "keyword": "malicious server receiving",
+      "mentions": 1
     },
     {
-      "keyword": "extortion group shinyhunters",
-      "mentions": 26
-    },
-    {
-      "keyword": "security updates addressing",
-      "mentions": 3
-    },
-    {
-      "keyword": "kb5126653 cumulative updates",
-      "mentions": 3
+      "keyword": "latest version following",
+      "mentions": 16
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
+      "link": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday urged organizations to take steps to immediately update their Ivanti Connect Secure (ICS) appliances and deployments to the latest version following the disclosure of an actively exploited vulnerability. The security flaw, tracked as CVE-2026-104935 (CVSS score: 8.6), is a case of authentication bypass impacting ICS",
+      "published": "Wed, 14 Oct 2026 18:00:42 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation",
+        "Auth bypass",
+        "Patch/update",
+        "CISA/KEV ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution",
+      "link": "https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html",
+      "summary": "A flaw in how curl handles HTTP/2 uploads lets a malicious server receiving an upload corrupt the client's memory, and the researcher who reported it turned that into code execution on the uploading machine. The curl project fixed it on October 14 in curl 8.23.0. Taking over a client needs exact knowledge of its build and memory layout, and curl expects a real attack to end in a crash",
+      "published": "Wed, 14 Oct 2026 17:43:36 +0530",
+      "value_score": 28,
+      "value_signals": [
+        "PoC available",
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team",
+      "link": "https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html",
+      "summary": "Cloned voices and synthetic video calls now show up in payment fraud, help desk resets, and access requests. A structured drill shows security teams exactly where verification breaks down, while nothing is at stake. The call comes in at 4:40 on a Friday. It's the CFO, or it sounds exactly like her, asking the controller to push a supplier payment out before the weekend because a deal closes",
+      "published": "Wed, 14 Oct 2026 17:20:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days",
+      "link": "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
+      "summary": "A team at security firm XBOW chained three then-unknown Google Chrome bugs into a single attack that runs code on a Windows computer when the user only loads a web page, the company said. Its researchers built the attack in six days by directing AI agents running OpenAI's publicly available GPT-5.6 Sol model. Google has since confirmed all three bugs, fixed them, and paid XBOW its top $",
+      "published": "Wed, 14 Oct 2026 16:49:02 +0530",
+      "value_score": 24,
+      "value_signals": [
+        "Patch/update",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks",
+      "link": "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called Hirudo that works by replacing legitimate banking apps with purpose-built patched versions designed to bypass security checks from inside the app itself, marking a new escalation in financial fraud. Dutch mobile security company ThreatFabric said it identified replacements for eight Indonesian banking",
+      "published": "Wed, 14 Oct 2026 16:38:22 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part.",
+      "link": "https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html",
+      "summary": "The bug was simple: the login let you choose where your sign-in code went. Proving it on a live website was the hard part. TL;DR During an authorized assessment, an AI pentesting agent found a critical authentication bypass on a major insurer's production website, on its own. One login request let the user choose where the one-time passcode went. The attack was the easy part. Proving it",
+      "published": "Wed, 14 Oct 2026 16:30:00 +0530",
+      "value_score": 41,
+      "value_signals": [
+        "Auth bypass",
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
+      "link": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
+      "summary": "A flaw in Linux's vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions. In one virtualization setup, it lets an untrusted virtual machine write to the host's memory and hijack the program that runs the virtual machine. The bug is tracked as CVE-2026-74580 and named Vghost. Tencent Zhuque Lab, which found the",
+      "published": "Wed, 14 Oct 2026 13:16:57 +0530",
+      "value_score": 28,
+      "value_signals": [
+        "CVE mentioned"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
@@ -79,78 +160,65 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug",
-      "link": "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html",
-      "summary": "Microsoft on Tuesday shattered its own Patch Tuesday record by shipping patches for a whopping 1,413 vulnerabilities, including one that it said has come under active exploitation. These include 1,102 flaws in Windows, 134 in Office, 61 in Developer Tools, 36 in SharePoint Server, and 22 in SQL Server. Of these, more than 670 relate to privilege escalation, followed by over 300 remote code",
-      "published": "Wed, 14 Oct 2026 10:04:43 +0530",
-      "value_score": 36,
-      "value_signals": [
-        "Privilege escalation",
-        "Patch/update",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
-      "link": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
-      "summary": "A Saudi National and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sensitive conversations. Abdulrahman Alfozan, 35, has been charged with using or endeavoring to use an electronic, mechanical, or other device to intercept oral communications. He was arrested by",
-      "published": "Wed, 14 Oct 2026 07:29:25 +0530",
+      "source": "BleepingComputer",
+      "title": "Microsoft fixes VPN issues caused by September Windows updates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-issues-caused-by-september-windows-updates/",
+      "summary": "Microsoft has resolved a known issue that caused Always On VPN connection issues after installing the September 2026 Windows 11 security updates. [...]",
+      "published": "Wed, 14 Oct 2026 10:27:01 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
-      "link": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
-      "summary": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from Anthropic. The frontier AI lab said small AI models could form autonomous, self-propagating worm botnets that are \"challenging to shut down,\" since \"there's no centralized point to shut off.\"",
-      "published": "Tue, 13 Oct 2026 23:50:57 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
-      "link": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
-      "summary": "A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it found no evidence that anyone exploited it. The flaw was in the feature that converts a personal account into an organization, Docker said in a security advisory on October 12.",
-      "published": "Tue, 13 Oct 2026 23:33:18 +0530",
-      "value_score": 32,
+      "source": "BleepingComputer",
+      "title": "The Blind Spots of Agentic Pentesting and How to Close Them",
+      "link": "https://www.bleepingcomputer.com/news/security/the-blind-spots-of-agentic-pentesting-and-how-to-close-them/",
+      "summary": "AI-powered penetration testing can uncover complex attack paths, but safety restrictions and network limitations leave many assets and vulnerabilities untested. Picus Security explains how combining agentic pentesting with exposure validation and breach simulation can help close these gaps. [...]",
+      "published": "Wed, 14 Oct 2026 10:00:10 -0400",
+      "value_score": 22,
       "value_signals": [
-        "Patch/update",
-        "High severity",
-        "Exploit wording"
+        "Breach/leak"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
-      "link": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
-      "summary": "An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm Volexity said on October 13. Ivanti has released fixes for two of the flaws and told customers on affected versions to \"act immediately.\" A fix for the third is still pending, according to Volexity. Volexity, which reported the flaws to Ivanti,",
-      "published": "Tue, 13 Oct 2026 23:03:11 +0530",
-      "value_score": 43,
-      "value_signals": [
-        "Zero-day",
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft",
-      "link": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
-      "summary": "A flaw in SAP's Cloud SDK for Python can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a security advisory on October 13. The flaw affects multi-tenant applications on SAP Business Technology Platform (BTP) that use the SDK, SAP's official Python client for BTP services. An attacker must be able to control the tenant subdomain,",
-      "published": "Tue, 13 Oct 2026 22:58:50 +0530",
+      "source": "BleepingComputer",
+      "title": "Global takedown hits network behind 1 billion phishing messages",
+      "link": "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/",
+      "summary": "A massive cybercriminal ecosystem facilitating more than a billion malicious messages targeting over 75,000 organizations across 150 countries has been disrupted by law enforcement agencies and partners worldwide. [...]",
+      "published": "Wed, 14 Oct 2026 09:12:52 -0400",
       "value_score": 18,
       "value_signals": [
-        "High severity"
+        "Phishing"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
-      "link": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
-      "summary": "GitHub has taken the step of expiring unvalidated npm trusted publishing configurations 48 hours after creation after researchers found that it was possible for an attacker to push new versions of a different user's package without having to steal their credentials. \"Your configuration becomes validated and exempt from expiry after its first successful publish,\" the Microsoft-owned subsidiary",
-      "published": "Tue, 13 Oct 2026 21:48:18 +0530",
+      "source": "BleepingComputer",
+      "title": "CISA warns admins to immediately fix Ivanti flaw exploited as zero-day",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged security teams to immediately patch an Ivanti Connect Secure (ICS) flaw exploited in zero-day attacks since at least October 1st. [...]",
+      "published": "Wed, 14 Oct 2026 08:58:07 -0400",
+      "value_score": 100,
+      "value_signals": [
+        "Zero-day ×2",
+        "Patch/update ×2",
+        "CISA/KEV ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Hirudo Android malware replaces banking apps to evade security checks",
+      "link": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
+      "summary": "A new Android malware called Hirudo steals bank account credentials by replacing legitimate banking apps with modified versions that disable security checks. [...]",
+      "published": "Wed, 14 Oct 2026 07:41:20 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft: Recent Windows updates may trigger Remote Desktop failures",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/",
+      "summary": "Microsoft has confirmed that non-admin users may be unable to connect to devices via Remote Desktop after installing recent Windows updates if the \"Administrator protection\" security feature is enabled. [...]",
+      "published": "Wed, 14 Oct 2026 06:48:09 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -177,66 +245,14 @@
       ]
     },
     {
-      "source": "BleepingComputer",
-      "title": "Anthropic warns self-replicating AI could spread to your smart devices",
-      "link": "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/",
-      "summary": "Anthropic is warning that small AI models could soon be able to self-replicate across consumer IoT devices, from Android TV boxes to smart ovens, creating distributed botnets capable of running AI workloads without relying on data centers. [...]",
-      "published": "Tue, 13 Oct 2026 17:16:34 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/",
-      "summary": "Today is Microsoft's October 2026 Patch Tuesday, with security updates addressing a record-breaking 1,411 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
-      "published": "Tue, 13 Oct 2026 15:56:09 -0400",
-      "value_score": 82,
+      "source": "Krebs on Security",
+      "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
+      "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
+      "summary": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial restrictions.",
+      "published": "Wed, 14 Oct 2026 14:22:49 +0000",
+      "value_score": 28,
       "value_signals": [
-        "Zero-day",
-        "Active exploitation",
-        "Patch/update ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft releases Windows 10 KB5126657 extended security update",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5126657-extended-security-update/",
-      "summary": "Microsoft released the Windows 10 KB5126657 extended security update, which includes this month's record-breaking October 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
-      "published": "Tue, 13 Oct 2026 15:47:30 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×3"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft: Windows 11 24H2 Home and Pro reached end of support",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-home-and-pro-reached-end-of-support/",
-      "summary": "Microsoft announced today that devices running Windows 11 24H2 Home and Pro editions have reached the end of support and will no longer receive monthly security and non-security preview updates. [...]",
-      "published": "Tue, 13 Oct 2026 15:04:38 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "UK Housing Ombudsman Service investigates 'security incident'",
-      "link": "https://www.bleepingcomputer.com/news/security/uk-housing-ombudsman-service-investigates-security-incident/",
-      "summary": "The U.K. Housing Ombudsman Service is investigating a third-party IT security incident that impacted its case management system on Tuesday. [...]",
-      "published": "Tue, 13 Oct 2026 14:19:44 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Windows 11 KB5127648 & KB5126653 cumulative updates released",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127648-and-kb5126653-cumulative-updates-released/",
-      "summary": "Microsoft has released the Patch Tuesday Windows 11 KB5127648 and KB5126653 cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]",
-      "published": "Tue, 13 Oct 2026 13:49:38 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
+        "Ransomware"
       ]
     },
     {
@@ -311,11 +327,11 @@
       ]
     },
     {
-      "source": "Krebs on Security",
-      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
-      "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
-      "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verification company based in Louisiana. KrebsOnSecurity also has learned that the New Orleans field office of the Federal Bureau of Investigation (FBI) today",
-      "published": "Tue, 01 Sep 2026 22:40:28 +0000",
+      "source": "Dark Reading",
+      "title": "Russian Influence Operation Widely Targeting Latin America",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-influence-operation-targeting-latin-america",
+      "summary": "The AI-enabled operation used spoofed emails, fake government documents, and the creation of a local organization to target schools in Peru and Ecuador, among other efforts.",
+      "published": "Wed, 14 Oct 2026 13:00:00 GMT",
       "value_score": 10,
       "value_signals": []
     },
@@ -323,7 +339,7 @@
       "source": "Dark Reading",
       "title": "Ransomware Gangs Embrace Physical Threats, Family Stalking?",
       "link": "https://www.darkreading.com/cybersecurity-analytics/ransomware-gangs-physical-threats-family-stalking",
-      "summary": "Organizations are reporting that employees face threats to their families, stalking, physical violence, and abduction. But these alarming claims are hard to verify.",
+      "summary": "Organizations are reporting that employees face threats of stalking, physical violence, and abduction. But these alarming claims are hard to verify.",
       "published": "Wed, 14 Oct 2026 05:00:00 GMT",
       "value_score": 28,
       "value_signals": [
@@ -334,7 +350,7 @@
       "source": "Dark Reading",
       "title": "Zero-Days Lurk in Microsoft's Overgrown October Patch Tuesday",
       "link": "https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday",
-      "summary": "The scary surprises for the largest security update ever include security bypasses and unauthenticated RCEs.",
+      "summary": "The scary surprises in the largest security update ever include security bypasses and unauthenticated RCEs.",
       "published": "Tue, 13 Oct 2026 22:29:57 GMT",
       "value_score": 26,
       "value_signals": [
@@ -393,11 +409,40 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Passing the Baton: Dark Reading Names New Editor-in-Chief",
-      "link": "https://www.darkreading.com/cyber-risk/passing-baton-dark-reading-new-editor-in-chief",
-      "summary": "Fahmida Y Rashid will keep the momentum going as she leads Dark Reading.",
-      "published": "Mon, 12 Oct 2026 12:30:58 GMT",
+      "source": "Security Week",
+      "title": "Harmonic Security Raises $50 Million for Workforce AI Protection",
+      "link": "https://www.securityweek.com/harmonic-security-raises-50-million-for-workforce-ai-protection/",
+      "summary": "The cybersecurity startup plans to expand engineering and go-to-market teams in the US and UK. The post Harmonic Security Raises $50 Million for Workforce AI Protection appeared first on SecurityWeek .",
+      "published": "Wed, 14 Oct 2026 14:09:51 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Virtual Event Today: Zero Trust Strategies Summit",
+      "link": "https://www.securityweek.com/virtual-event-today-zero-trust-strategies-summit-2/",
+      "summary": "This summit is laser-focused on the next generation of Zero Trust and Identity security, moving beyond theory to deliver actionable strategies. The post Virtual Event Today: Zero Trust Strategies Summit appeared first on SecurityWeek .",
+      "published": "Wed, 14 Oct 2026 13:56:36 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Microsoft Disrupts Chinese-Language Phishing Market Behind 1B+ Messages",
+      "link": "https://www.securityweek.com/microsoft-disrupts-chinese-language-phishing-market-behind-1b-messages/",
+      "summary": "Backed by a federal court order, Microsoft and Health-ISAC seized domains powering YAM Store, CoGUI, and Iron Man. The post Microsoft Disrupts Chinese-Language Phishing Market Behind 1B+ Messages appeared first on SecurityWeek .",
+      "published": "Wed, 14 Oct 2026 13:00:00 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "US Arrests Two in Crackdown on North Korean IT Worker Laptop Farms",
+      "link": "https://www.securityweek.com/us-arrests-two-in-crackdown-on-north-korean-it-worker-laptop-farms/",
+      "summary": "Investigators stormed 40 locations in Texas and seized 187 laptops used by North Korean IT workers to hide their location. The post US Arrests Two in Crackdown on North Korean IT Worker Laptop Farms appeared first on SecurityWeek .",
+      "published": "Wed, 14 Oct 2026 10:55:21 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -449,47 +494,6 @@
       "value_signals": [
         "High severity ×2"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say",
-      "link": "https://www.securityweek.com/employee-arrested-after-listening-device-found-in-openai-conference-room-fbi-and-the-company-say/",
-      "summary": "Saudi national Abdulrahman Alfozan was arrested Friday and terminated by OpenAI. The post Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say appeared first on SecurityWeek .",
-      "published": "Tue, 13 Oct 2026 23:07:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Ivanti Zero-Day Chain Gave Attackers Root Access to Fully Patched VPN",
-      "link": "https://www.securityweek.com/ivanti-zero-day-chain-gave-attackers-root-access-to-fully-patched-vpn/",
-      "summary": "CVE-2026-104935 affects Ivanti Connect Secure and it can be exploited for unauthenticated remote code execution with elevated privileges. The post Ivanti Zero-Day Chain Gave Attackers Root Access to Fully Patched VPN appeared first on SecurityWeek .",
-      "published": "Tue, 13 Oct 2026 18:43:43 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day ×2",
-        "RCE",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Adobe Patches 176 Vulnerabilities Across 11 Products",
-      "link": "https://www.securityweek.com/adobe-patches-140-vulnerabilities-across-10-products/",
-      "summary": "The flaws affect products such as Commerce, Photoshop, ColdFusion, Substance 3D, Dimension, FrameMaker and Bridge. The post Adobe Patches 176 Vulnerabilities Across 11 Products appeared first on SecurityWeek .",
-      "published": "Tue, 13 Oct 2026 17:14:42 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Google Partially Reverses Chrome Bug Bounty Cuts",
-      "link": "https://www.securityweek.com/google-partially-reverses-chrome-bug-bounty-cuts/",
-      "summary": "Google is restructuring bug bounty rewards with a focus on complex memory safety vulnerabilities. The post Google Partially Reverses Chrome Bug Bounty Cuts appeared first on SecurityWeek .",
-      "published": "Tue, 13 Oct 2026 17:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

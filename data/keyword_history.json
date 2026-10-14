@@ -348,7 +348,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2773,
+      "count": 2774,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2108,7 +2108,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 657,
+      "count": 658,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2292,12 +2292,13 @@
       ]
     },
     "latest version following": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2025-12-29",
         "2025-12-30",
         "2026-07-28",
-        "2026-07-29"
+        "2026-07-29",
+        "2026-10-14"
       ]
     },
     "cve 2020 12812": {
@@ -10027,10 +10028,11 @@
       ]
     },
     "law enforcement agencies": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-03-05",
-        "2026-03-06"
+        "2026-03-06",
+        "2026-10-14"
       ]
     },
     "russian state actors": {
@@ -23766,10 +23768,11 @@
       ]
     },
     "cisa warns admins": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-15",
-        "2026-07-16"
+        "2026-07-16",
+        "2026-10-14"
       ]
     },
     "money laundering organization": {
@@ -30415,7 +30418,7 @@
       ]
     },
     "today issued updates": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-09-11",
         "2026-09-30",
@@ -32755,7 +32758,7 @@
       ]
     },
     "remove personal information": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-10-02",
         "2026-10-03",
@@ -33132,7 +33135,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33470,7 +33473,7 @@
       ]
     },
     "publish personal information": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -33668,7 +33671,7 @@
       ]
     },
     "hidden recording device": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-14"
       ]
@@ -33680,7 +33683,7 @@
       ]
     },
     "sonicwall sma devices": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-14"
       ]
@@ -33690,20 +33693,63 @@
       "dates": [
         "2026-10-14"
       ]
+    },
+    "workforce ai protection": {
+      "count": 1,
+      "dates": [
+        "2026-10-14"
+      ]
+    },
+    "ai agent found": {
+      "count": 1,
+      "dates": [
+        "2026-10-14"
+      ]
+    },
+    "three bugs fixed": {
+      "count": 1,
+      "dates": [
+        "2026-10-14"
+      ]
+    },
+    "malicious server receiving": {
+      "count": 1,
+      "dates": [
+        "2026-10-14"
+      ]
+    },
+    "eight indonesian banking": {
+      "count": 1,
+      "dates": [
+        "2026-10-14"
+      ]
+    },
+    "evade security checks": {
+      "count": 1,
+      "dates": [
+        "2026-10-14"
+      ]
+    },
+    "disable security checks": {
+      "count": 1,
+      "dates": [
+        "2026-10-14"
+      ]
+    },
+    "bypass security checks": {
+      "count": 1,
+      "dates": [
+        "2026-10-14"
+      ]
+    },
+    "critical authentication bypass": {
+      "count": 1,
+      "dates": [
+        "2026-10-14"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-20 23:47",
-      "articles": 48,
-      "top_keywords": [
-        "ai built exploit",
-        "least 2022 nightmarestresser",
-        "high severity flaw",
-        "image upload server",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-09-21 02:56",
       "articles": 48,
@@ -34791,6 +34837,17 @@
         "today issued updates",
         "twitter whistleblower complaint",
         "sprawling phishing campaign"
+      ]
+    },
+    {
+      "timestamp": "2026-10-14 14:49",
+      "articles": 48,
+      "top_keywords": [
+        "law enforcement agencies",
+        "workforce ai protection",
+        "ai agent found",
+        "today issued updates",
+        "three bugs fixed"
       ]
     }
   ]

@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 806,
+      "count": 807,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -349,7 +349,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2775,
+      "count": 2776,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2293,7 +2293,7 @@
       ]
     },
     "latest version following": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -4431,7 +4431,7 @@
       ]
     },
     "released security updates": {
-      "count": 147,
+      "count": 148,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -4477,7 +4477,8 @@
         "2026-09-28",
         "2026-09-29",
         "2026-10-01",
-        "2026-10-02"
+        "2026-10-02",
+        "2026-10-14"
       ]
     },
     "auditability collide daily": {
@@ -10029,7 +10030,7 @@
       ]
     },
     "law enforcement agencies": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-03-05",
         "2026-03-06",
@@ -30420,7 +30421,7 @@
       ]
     },
     "today issued updates": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-09-11",
         "2026-09-30",
@@ -33103,7 +33104,7 @@
       ]
     },
     "extortion group shinyhunters": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33137,7 +33138,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33475,7 +33476,7 @@
       ]
     },
     "publish personal information": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -33679,7 +33680,7 @@
       ]
     },
     "strict compliance governance": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-14"
       ]
@@ -33697,7 +33698,7 @@
       ]
     },
     "workforce ai protection": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-14"
       ]
@@ -33709,13 +33710,13 @@
       ]
     },
     "three bugs fixed": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-14"
       ]
     },
     "malicious server receiving": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-14"
       ]
@@ -33751,30 +33752,42 @@
       ]
     },
     "anthropic finds ingredients": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-14"
       ]
     },
     "trm labs announced": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-14"
       ]
     },
     "synthetic video calls": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-14"
       ]
     },
     "stalking physical violence": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-14"
       ]
     },
     "sounds exactly like": {
+      "count": 2,
+      "dates": [
+        "2026-10-14"
+      ]
+    },
+    "attacks targeting firewalls": {
+      "count": 1,
+      "dates": [
+        "2026-10-14"
+      ]
+    },
+    "since january 2026": {
       "count": 1,
       "dates": [
         "2026-10-14"
@@ -33782,17 +33795,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-21 09:31",
-      "articles": 48,
-      "top_keywords": [
-        "tigerbyte cyber emerges",
-        "ai built exploit",
-        "least 2022 nightmarestresser",
-        "high severity flaw",
-        "image upload server"
-      ]
-    },
     {
       "timestamp": "2026-09-21 16:08",
       "articles": 48,
@@ -34880,6 +34882,17 @@
         "twitter whistleblower complaint",
         "today issued updates",
         "three bugs fixed"
+      ]
+    },
+    {
+      "timestamp": "2026-10-14 22:57",
+      "articles": 48,
+      "top_keywords": [
+        "law enforcement agencies",
+        "workforce ai protection",
+        "twitter whistleblower complaint",
+        "three bugs fixed",
+        "latest version following"
       ]
     }
   ]

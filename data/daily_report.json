@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-10-14 19:55",
+  "last_updated": "2026-10-14 22:57",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "law enforcement agencies",
     "workforce ai protection",
     "twitter whistleblower complaint",
-    "today issued updates",
     "three bugs fixed",
     "latest version following",
     "hacker handle rey",
+    "attacks targeting firewalls",
     "anthropic finds ingredients",
+    "today issued updates",
+    "released security updates",
     "publish personal information",
     "extortion group shinyhunters",
     "malicious server receiving",
     "windows operating systems",
     "trm labs announced",
-    "threat actors behind",
     "synthetic video calls",
     "strict compliance governance",
     "stalking physical violence",
-    "sprawling phishing campaign",
     "sounds exactly like",
-    "sonicwall sma devices"
+    "since january 2026"
   ],
   "trending": [
     {
       "keyword": "law enforcement agencies",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "workforce ai protection",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2775
-    },
-    {
-      "keyword": "today issued updates",
-      "mentions": 13
+      "mentions": 2776
     },
     {
       "keyword": "three bugs fixed",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "latest version following",
-      "mentions": 17
+      "mentions": 18
     },
     {
       "keyword": "hacker handle rey",
-      "mentions": 24
+      "mentions": 25
     },
     {
-      "keyword": "anthropic finds ingredients",
+      "keyword": "attacks targeting firewalls",
       "mentions": 1
     },
     {
-      "keyword": "publish personal information",
-      "mentions": 17
+      "keyword": "anthropic finds ingredients",
+      "mentions": 2
     },
     {
-      "keyword": "extortion group shinyhunters",
-      "mentions": 27
+      "keyword": "today issued updates",
+      "mentions": 14
+    },
+    {
+      "keyword": "released security updates",
+      "mentions": 148
     }
   ],
   "articles": [
@@ -163,6 +163,20 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
+      "summary": "Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls. [...]",
+      "published": "Wed, 14 Oct 2026 18:56:47 -0400",
+      "value_score": 99,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day",
+        "RCE ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/",
       "summary": "The U.S. Department of Justice (DoJ) has disrupted the Famous Chollima threat group's operations by arresting two suspects, charging 14 individuals, and seizing nearly 187 laptops used in North Korean remote IT worker schemes. [...]",
@@ -236,15 +250,6 @@
         "CISA/KEV ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hirudo Android malware replaces banking apps to evade security checks",
-      "link": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
-      "summary": "A new Android malware called Hirudo steals bank account credentials by replacing legitimate banking apps with modified versions that disable security checks. [...]",
-      "published": "Wed, 14 Oct 2026 07:41:20 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -330,6 +335,40 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching",
+      "summary": "CVE-2026-104935, a high-severity authentication bypass + RCE vulnerability, was only partially discovered and patched in July, leaving an opening for threat actors to capitalize on.",
+      "published": "Wed, 14 Oct 2026 21:20:13 GMT",
+      "value_score": 88,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day",
+        "RCE",
+        "Auth bypass"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Yam Store: The Phishing Network Behind a Billion Messages",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/yam-store-phishing-network-behind-billion-messages",
+      "summary": "A sprawling cybercrime marketplace supplied cloud infrastructure and phishing kits that helped fuel more than 1 billion phishing messages worldwide.",
+      "published": "Wed, 14 Oct 2026 20:57:16 GMT",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×3"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Anthropic 'SneakPeek' Flaw Is a Silent Zero-Click Threat",
+      "link": "https://www.darkreading.com/threat-intelligence/new-anthropic-sneakpeek-silent-zero-click-threat",
+      "summary": "A bug in Claude Code Desktop's preview pane can allow adversaries to quietly steal credentials from developers, including SSH private keys, AWS credentials, and Claude 0Auth tokens.",
+      "published": "Wed, 14 Oct 2026 20:09:42 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Russian Influence Operation Widely Targeting Latin America",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-influence-operation-targeting-latin-america",
       "summary": "The AI-enabled operation used spoofed emails, fake government documents, and the creation of a local organization to target schools in Peru and Ecuador, among other efforts.",
@@ -376,37 +415,6 @@
       "link": "https://www.darkreading.com/perimeter/anthropic-ingredients-future-ai-worms",
       "summary": "Anthropic's latest study combined IoT and network tests to explore AI self-replication, which researchers said would be \"challenging\" to shut down.",
       "published": "Tue, 13 Oct 2026 20:35:23 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack",
-      "summary": "Attackers are currently targeting a critical vulnerability in SMA 1000 appliances, putting SonicWall customers in a familiar yet unenviable position.",
-      "published": "Mon, 12 Oct 2026 21:42:42 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Prominent Ransomware Negotiator Faces Extortion Charges",
-      "link": "https://www.darkreading.com/insider-threats/prominent-ransomware-negotiator-extortion-charges",
-      "summary": "Edward Dubrovsky, a longtime cybersecurity executive, was arrested and charged in Pennsylvania last week under conspiracy to extort money.",
-      "published": "Mon, 12 Oct 2026 20:00:53 GMT",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "No Identity, No Recovery: Cyber Resilience Starts With IAM",
-      "link": "https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam",
-      "summary": "The proliferation of enterprise apps and the centrality of cloud identity providers requires an identity security rethink.",
-      "published": "Mon, 12 Oct 2026 18:27:25 GMT",
       "value_score": 10,
       "value_signals": []
     },

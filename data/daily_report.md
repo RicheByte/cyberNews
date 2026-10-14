@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-10-13 22:11 UTC  
+> **Last Updated:** 2026-10-14 03:11 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**xworm rat evolves** • **extortion group shinyhunters** • **root without logging** • **twitter whistleblower complaint** • **hacker handle rey** • **advertising unit owned** • **117 deals announced** • **canadian cybersecurity firm** • **runtime identity controls** • **ai driven attacks** • **kb5126653 cumulative updates** • **security updates addressing** • **what's different many** • **stealing mobile call** • **ssd secure disclosure** • **sprawling phishing campaign** • **multiple telecommunications companies** • **much deeper penetration** • **longest running spree** • **individuals whose licenses**
+**xworm rat evolves** • **executive conference room** • **root without logging** • **canadian cybersecurity firm** • **twitter whistleblower complaint** • **saudi openai engineer** • **hacker handle rey** • **advertising unit owned** • **runtime identity controls** • **hidden recording device** • **extortion group shinyhunters** • **ai driven attacks** • **security updates addressing** • **kb5126653 cumulative updates** • **prolific data theft** • **stealing mobile call** • **ssd secure disclosure** • **sprawling phishing campaign** • **security experts warn** • **national security risk**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [OpenAI engineer arrested for allegedly planting spy device in office](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/)
 - [Ghostscript flaw lets hackers hijack servers via PDF uploads](https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/)
 - [Anthropic warns self-replicating AI could spread to your smart devices](https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/)
 - [Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days](https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/)
@@ -34,10 +35,10 @@
 - [Microsoft: Windows 11 24H2 Home and Pro reached end of support](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-home-and-pro-reached-end-of-support/)
 - [UK Housing Ombudsman Service investigates 'security incident'](https://www.bleepingcomputer.com/news/security/uk-housing-ombudsman-service-investigates-security-incident/)
 - [Windows 11 KB5127648 & KB5126653 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127648-and-kb5126653-cumulative-updates-released/)
-- [TFG London cyberattack disrupts systems at Hobbs and Whistles retailers](https://www.bleepingcomputer.com/news/security/tfg-london-cyberattack-disrupts-systems-at-hobbs-and-whistles-retailers/)
 
 ### Krebs on Security
 
+- [Microsoft Patches More Than 1,400 Security Flaws](https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/)
 - [FBI Arrests Executive at Ransomware Negotiation Firm](https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/)
 - [ShinyHunters Extorted Boeing Spin-off Prior to Arrests](https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/)
 - [Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation](https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/)
@@ -45,10 +46,10 @@
 - [Data Broker Radaris Loses Domains in Privacy Fight](https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/)
 - [Microsoft Plugs Nearly 1,000 Security Holes](https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/)
 - [FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/)
-- [Two Alleged ‘TeamPCP’ Hackers Arrested in Australia](https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/)
 
 ### Dark Reading
 
+- [Zero-Days Lurk in Microsoft's Overgrown October Patch Tuesday](https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday)
 - [North Korea Phishes Ukrainians for War Intel](https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel)
 - [Anthropic Finds Ingredients for Future AI Worms](https://www.darkreading.com/perimeter/anthropic-ingredients-future-ai-worms)
 - [Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack](https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack)
@@ -56,10 +57,10 @@
 - [No Identity, No Recovery: Cyber Resilience Starts With IAM](https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam)
 - [Passing the Baton: Dark Reading Names New Editor-in-Chief](https://www.darkreading.com/cyber-risk/passing-baton-dark-reading-new-editor-in-chief)
 - [ASOS Breach Reveals the Risks in Customer-Facing SaaS](https://www.darkreading.com/cyberattacks-data-breaches/asos-breach-risks-customer-facing-saas)
-- [AI Scramble Drives Cybersecurity M&amp;A Boom](https://www.darkreading.com/cybersecurity-analytics/ai-scramble-cybersecurity-ma-boom)
 
 ### Security Week
 
+- [Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say](https://www.securityweek.com/employee-arrested-after-listening-device-found-in-openai-conference-room-fbi-and-the-company-say/)
 - [Ivanti Zero-Day Chain Gave Attackers Root Access to Fully Patched VPN](https://www.securityweek.com/ivanti-zero-day-chain-gave-attackers-root-access-to-fully-patched-vpn/)
 - [Adobe Patches 140 Vulnerabilities Across 10 Products](https://www.securityweek.com/adobe-patches-140-vulnerabilities-across-10-products/)
 - [Google Partially Reverses Chrome Bug Bounty Cuts](https://www.securityweek.com/google-partially-reverses-chrome-bug-bounty-cuts/)
@@ -67,7 +68,6 @@
 - [Small AI Models Could Soon Self-Replicate on IoT Devices, Anthropic Warns](https://www.securityweek.com/small-ai-models-may-soon-be-able-to-self-replicate-on-iot-devices-anthropic-warns/)
 - [XWorm RAT Evolves Into Surveillance Platform](https://www.securityweek.com/xworm-rat-evolves-into-surveillance-platform/)
 - [AI Turns Familiar Cyberattacks Into a Race Against Time](https://www.securityweek.com/ai-turns-familiar-cyberattacks-into-a-race-against-time/)
-- [$86 Million Crypto Heist Linked to Ledger Signer Hardware Implant](https://www.securityweek.com/86-million-crypto-heist-linked-to-ledger-signer-hardware-implant/)
 
 ### Threatpost
 

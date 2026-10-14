@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-13 22:11 UTC |
+| 🕐 Last Updated | 2026-10-14 03:11 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`xworm rat evolves` • `extortion group shinyhunters` • `root without logging` • `twitter whistleblower complaint` • `hacker handle rey` • `advertising unit owned` • `117 deals announced` • `canadian cybersecurity firm` • `runtime identity controls` • `ai driven attacks`
+`xworm rat evolves` • `executive conference room` • `root without logging` • `canadian cybersecurity firm` • `twitter whistleblower complaint` • `saudi openai engineer` • `hacker handle rey` • `advertising unit owned` • `runtime identity controls` • `hidden recording device`
 
 ## 📄 Reports
 

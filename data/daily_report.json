@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-10-13 22:11",
+  "last_updated": "2026-10-14 03:11",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "xworm rat evolves",
-    "extortion group shinyhunters",
+    "executive conference room",
     "root without logging",
+    "canadian cybersecurity firm",
     "twitter whistleblower complaint",
+    "saudi openai engineer",
     "hacker handle rey",
     "advertising unit owned",
-    "117 deals announced",
-    "canadian cybersecurity firm",
     "runtime identity controls",
+    "hidden recording device",
+    "extortion group shinyhunters",
     "ai driven attacks",
-    "kb5126653 cumulative updates",
     "security updates addressing",
-    "what's different many",
+    "kb5126653 cumulative updates",
+    "prolific data theft",
     "stealing mobile call",
     "ssd secure disclosure",
     "sprawling phishing campaign",
-    "multiple telecommunications companies",
-    "much deeper penetration",
-    "longest running spree",
-    "individuals whose licenses"
+    "security experts warn",
+    "national security risk"
   ],
   "trending": [
     {
       "keyword": "xworm rat evolves",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "extortion group shinyhunters",
-      "mentions": 24
+      "keyword": "executive conference room",
+      "mentions": 1
     },
     {
       "keyword": "root without logging",
-      "mentions": 1
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2771
-    },
-    {
-      "keyword": "hacker handle rey",
-      "mentions": 20
-    },
-    {
-      "keyword": "advertising unit owned",
       "mentions": 2
     },
     {
-      "keyword": "117 deals announced",
+      "keyword": "canadian cybersecurity firm",
+      "mentions": 15
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2772
+    },
+    {
+      "keyword": "saudi openai engineer",
       "mentions": 1
     },
     {
-      "keyword": "canadian cybersecurity firm",
-      "mentions": 14
+      "keyword": "hacker handle rey",
+      "mentions": 21
+    },
+    {
+      "keyword": "advertising unit owned",
+      "mentions": 3
     },
     {
       "keyword": "runtime identity controls",
-      "mentions": 1
+      "mentions": 2
     },
     {
-      "keyword": "ai driven attacks",
-      "mentions": 16
+      "keyword": "hidden recording device",
+      "mentions": 1
     }
   ],
   "articles": [
@@ -157,6 +157,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "OpenAI engineer arrested for allegedly planting spy device in office",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
+      "summary": "A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations. [...]",
+      "published": "Tue, 13 Oct 2026 18:33:02 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
       "link": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
       "summary": "A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution through specially crafted PDF files. [...]",
@@ -232,13 +241,15 @@
       ]
     },
     {
-      "source": "BleepingComputer",
-      "title": "TFG London cyberattack disrupts systems at Hobbs and Whistles retailers",
-      "link": "https://www.bleepingcomputer.com/news/security/tfg-london-cyberattack-disrupts-systems-at-hobbs-and-whistles-retailers/",
-      "summary": "TFG London detected a cybersecurity incident that impacted IT systems used by the Phase Eight, Hobbs, and Whistles premium fashion brands. [...]",
-      "published": "Tue, 13 Oct 2026 12:44:18 -0400",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Krebs on Security",
+      "title": "Microsoft Patches More Than 1,400 Security Flaws",
+      "link": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
+      "summary": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond.",
+      "published": "Tue, 13 Oct 2026 23:24:53 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×3"
+      ]
     },
     {
       "source": "Krebs on Security",
@@ -310,13 +321,15 @@
       "value_signals": []
     },
     {
-      "source": "Krebs on Security",
-      "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
-      "link": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
-      "summary": "Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In a statement released today, the Australian Federal Police (AFP) said two unnamed suspects from Western Australia, aged 21 and 23, were arrested in connection with a \"sophisticated cybercrime syndicate that allegedly created malicious open-source software to rob thousands of glob",
-      "published": "Thu, 27 Aug 2026 11:04:15 +0000",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Dark Reading",
+      "title": "Zero-Days Lurk in Microsoft's Overgrown October Patch Tuesday",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday",
+      "summary": "The scary surprises for the largest security update ever include security bypasses and unauthenticated RCEs.",
+      "published": "Tue, 13 Oct 2026 22:29:57 GMT",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×2"
+      ]
     },
     {
       "source": "Dark Reading",
@@ -390,11 +403,11 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "AI Scramble Drives Cybersecurity M&amp;A Boom",
-      "link": "https://www.darkreading.com/cybersecurity-analytics/ai-scramble-cybersecurity-ma-boom",
-      "summary": "Welcome to another gangbuster year for strategic M&A activity in cyber, with 117 deals announced in the latest quarter. What's different: Many of the buyers are not your typical cybersecurity firms.",
-      "published": "Fri, 09 Oct 2026 19:26:26 GMT",
+      "source": "Security Week",
+      "title": "Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say",
+      "link": "https://www.securityweek.com/employee-arrested-after-listening-device-found-in-openai-conference-room-fbi-and-the-company-say/",
+      "summary": "Saudi national Abdulrahman Alfozan was arrested Friday and terminated by OpenAI. The post Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say appeared first on SecurityWeek .",
+      "published": "Tue, 13 Oct 2026 23:07:00 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -465,15 +478,6 @@
       "link": "https://www.securityweek.com/ai-turns-familiar-cyberattacks-into-a-race-against-time/",
       "summary": "IBM’s Steve Wallin talks to SecurityWeek on the effect of AI-driven attacks on enterprise defenses. The post AI Turns Familiar Cyberattacks Into a Race Against Time appeared first on SecurityWeek .",
       "published": "Tue, 13 Oct 2026 11:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "$86 Million Crypto Heist Linked to Ledger Signer Hardware Implant",
-      "link": "https://www.securityweek.com/86-million-crypto-heist-linked-to-ledger-signer-hardware-implant/",
-      "summary": "A small circuit board hidden under the signers’ screens read user data and transmitted it to the attackers. The post $86 Million Crypto Heist Linked to Ledger Signer Hardware Implant appeared first on SecurityWeek .",
-      "published": "Tue, 13 Oct 2026 10:36:05 +0000",
       "value_score": 10,
       "value_signals": []
     },

@@ -350,7 +350,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2779,
+      "count": 2780,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2862,7 +2862,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 436,
+      "count": 437,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -32068,7 +32068,7 @@
       ]
     },
     "multiple telecommunications companies": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-09-25",
         "2026-09-26",
@@ -32077,7 +32077,8 @@
         "2026-09-29",
         "2026-10-08",
         "2026-10-13",
-        "2026-10-14"
+        "2026-10-14",
+        "2026-10-15"
       ]
     },
     "create administrator accounts": {
@@ -33151,7 +33152,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33502,7 +33503,7 @@
       ]
     },
     "canadian cybersecurity firm": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -33808,7 +33809,7 @@
       ]
     },
     "attacks targeting firewalls": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-14",
         "2026-10-15"
@@ -33822,7 +33823,7 @@
       ]
     },
     "eu grocers pay": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-15"
       ]
@@ -33846,7 +33847,7 @@
       ]
     },
     "online messaging groups": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-15"
       ]
@@ -33876,12 +33877,72 @@
       ]
     },
     "1 31 7": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-15"
       ]
     },
     "uncover vulnerabilities missed": {
+      "count": 2,
+      "dates": [
+        "2026-10-15"
+      ]
+    },
+    "ordinary online ads": {
+      "count": 1,
+      "dates": [
+        "2026-10-15"
+      ]
+    },
+    "rest gets interesting": {
+      "count": 1,
+      "dates": [
+        "2026-10-15"
+      ]
+    },
+    "deliver actionable strategies": {
+      "count": 1,
+      "dates": [
+        "2026-10-15"
+      ]
+    },
+    "compromise business accounts": {
+      "count": 1,
+      "dates": [
+        "2026-10-15"
+      ]
+    },
+    "phishing network behind": {
+      "count": 1,
+      "dates": [
+        "2026-10-15"
+      ]
+    },
+    "attacker run code": {
+      "count": 1,
+      "dates": [
+        "2026-10-15"
+      ]
+    },
+    "fake ai campaigns": {
+      "count": 1,
+      "dates": [
+        "2026-10-15"
+      ]
+    },
+    "week's security stories": {
+      "count": 1,
+      "dates": [
+        "2026-10-15"
+      ]
+    },
+    "vulnerability management isn't": {
+      "count": 1,
+      "dates": [
+        "2026-10-15"
+      ]
+    },
+    "traditional banking trojan": {
       "count": 1,
       "dates": [
         "2026-10-15"
@@ -33889,17 +33950,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-22 07:11",
-      "articles": 48,
-      "top_keywords": [
-        "fined 403 million",
-        "windows kernel driver",
-        "address password mfa",
-        "location data google",
-        "office users microsoft"
-      ]
-    },
     {
       "timestamp": "2026-09-22 13:00",
       "articles": 48,
@@ -34987,6 +35037,17 @@
         "30 000 repositories",
         "twitter whistleblower complaint",
         "online messaging groups"
+      ]
+    },
+    {
+      "timestamp": "2026-10-15 19:38",
+      "articles": 48,
+      "top_keywords": [
+        "ordinary online ads",
+        "canadian cybersecurity firm",
+        "1 31 7",
+        "twitter whistleblower complaint",
+        "rest gets interesting"
       ]
     }
   ]

@@ -1,72 +1,113 @@
 {
-  "last_updated": "2026-10-15 14:36",
+  "last_updated": "2026-10-15 19:38",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
+    "ordinary online ads",
     "canadian cybersecurity firm",
-    "remote code execution",
-    "30 000 repositories",
+    "1 31 7",
     "twitter whistleblower complaint",
+    "rest gets interesting",
     "online messaging groups",
-    "north korean remote",
     "hacker handle rey",
     "eu grocers pay",
-    "arrested 95 suspects",
-    "released security updates",
-    "understanding business context",
+    "deliver actionable strategies",
+    "multiple telecommunications companies",
+    "compromise business accounts",
     "130 companies tangled",
-    "prolific data theft",
-    "1 900 users",
-    "1 31 7",
-    "sprawling phishing campaign",
-    "security experts warn",
-    "national security risk",
-    "today issued updates",
-    "uncover vulnerabilities missed"
+    "phishing network behind",
+    "attacker run code",
+    "fake ai campaigns",
+    "attacks targeting firewalls",
+    "week's security stories",
+    "vulnerability management isn't",
+    "uncover vulnerabilities missed",
+    "traditional banking trojan"
   ],
   "trending": [
     {
+      "keyword": "ordinary online ads",
+      "mentions": 1
+    },
+    {
       "keyword": "canadian cybersecurity firm",
-      "mentions": 18
+      "mentions": 19
     },
     {
-      "keyword": "remote code execution",
-      "mentions": 516
-    },
-    {
-      "keyword": "30 000 repositories",
-      "mentions": 1
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2779
-    },
-    {
-      "keyword": "online messaging groups",
-      "mentions": 1
-    },
-    {
-      "keyword": "north korean remote",
-      "mentions": 1
-    },
-    {
-      "keyword": "hacker handle rey",
-      "mentions": 28
-    },
-    {
-      "keyword": "eu grocers pay",
+      "keyword": "1 31 7",
       "mentions": 2
     },
     {
-      "keyword": "arrested 95 suspects",
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2780
+    },
+    {
+      "keyword": "rest gets interesting",
       "mentions": 1
     },
     {
-      "keyword": "released security updates",
-      "mentions": 151
+      "keyword": "online messaging groups",
+      "mentions": 2
+    },
+    {
+      "keyword": "hacker handle rey",
+      "mentions": 29
+    },
+    {
+      "keyword": "eu grocers pay",
+      "mentions": 3
+    },
+    {
+      "keyword": "deliver actionable strategies",
+      "mentions": 1
+    },
+    {
+      "keyword": "multiple telecommunications companies",
+      "mentions": 17
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More",
+      "link": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
+      "summary": "Someone built a tool to steal data, then decided it should scare the victim for fun. Yes, that’s an actual feature. And somehow, it fits right in with this week's security stories. The rest gets interesting in different ways. A small permission can lead to a big theft. A trusted login can hide the wrong person. Old bugs are finding new victims, familiar tools are being put to strange uses, and",
+      "published": "Fri, 16 Oct 2026 00:19:33 +0530",
+      "value_score": 42,
+      "value_signals": [
+        "RCE",
+        "Backdoor"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads",
+      "link": "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html",
+      "summary": "Candiru, an Israeli maker of spyware sold to governments, infected devices at the news network Al Jazeera through ordinary online ads, in attacks that needed no click or other action from the user, researchers at the Citizen Lab said Thursday. The hidden attack code ran the moment an ad loaded on the screen, and in some cases the ad loaded out of sight, in the background. The Citizen",
+      "published": "Thu, 15 Oct 2026 21:31:57 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks",
+      "link": "https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html",
+      "summary": "The threat actor known as Silent Lynx has been attributed to a fresh set of attacks targeting government organizations across the Commonwealth of Independent States (CIS). The activity, observed from June 2025 through August 2026, involves four different infection chains that make use of macro-enabled documents, PS2EXE downloaders, GitHub-hosted PowerShell, and crafted WinRAR archives",
+      "published": "Thu, 15 Oct 2026 21:30:26 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams",
+      "link": "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html",
+      "summary": "A long-running Traffic Distribution System (TDS) known as Help TDS to a Russian-language affiliate program called Hotejka, which appears to be a rebrand of a traffic monetization operation dubbed ROI777. Help TDS is assessed to be active since at least 2017, offering PHP code templates to partners and affiliates that are installed into compromised websites with an aim to direct unsuspecting",
+      "published": "Thu, 15 Oct 2026 19:41:36 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks",
@@ -116,42 +157,20 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
-      "link": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
-      "summary": "Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation. The vulnerability, tracked as CVE-2026-0322 (CVSS score: 8.6), is a case of remote code execution in the management interface. \"A remote code execution (RCE) vulnerability in the management interface of Palo Alto Networks PAN-OS software enables an",
-      "published": "Thu, 15 Oct 2026 17:16:49 +0530",
-      "value_score": 74,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE ×4",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Why AI Confidence Is Not Validation",
-      "link": "https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html",
-      "summary": "AI is already part of digital forensics and incident response work, with or without a policy in place to govern it. The issue is that these tools are growing more confident in their own output faster than practitioners are developing reliable ways to verify it. Without governance models and validation standards in place, that gap compounds and rarely stays contained to a workstation: an",
-      "published": "Thu, 15 Oct 2026 16:34:35 +0530",
+      "source": "BleepingComputer",
+      "title": "Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/",
+      "summary": "A proxyjacking campaign has impacted devices in 34 countries, monetizing victims' internet connections through a commercial residential proxy network. [...]",
+      "published": "Thu, 15 Oct 2026 14:20:59 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1",
-      "link": "https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html",
-      "summary": "The Indian government has directed telecom service providers (TSPs) in the country to mandatorily display callers' registered names along with their numbers for incoming calls starting November 1, 2026, in an effort to help people identify calls from unknown numbers and tackle spam or fraudulent calls. To that end, the Department of Telecommunications has issued a circular urging service",
-      "published": "Thu, 15 Oct 2026 16:12:16 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories",
-      "link": "https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html",
-      "summary": "The credential-theft campaign known as GhostAction has ramped up, targeting more than 30,000 repositories across 3,000 users and organizations. The spike, according to GitGuardian, was observed on October 8 and 9, 2026. \"This resulted from compromising the GitHub accounts of about 1,900 users. It attempted to extract 3,174 secrets from public repositories' CI,\" security researchers Gaetan",
-      "published": "Thu, 15 Oct 2026 14:15:10 +0530",
+      "source": "BleepingComputer",
+      "title": "Fake Arch Linux packages push malware with root privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/",
+      "summary": "A threat actor uploaded malicious packages to the Arch User Repository (AUR) that impersonated two popular helper tools, yay and paru. [...]",
+      "published": "Thu, 15 Oct 2026 13:12:31 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -213,24 +232,6 @@
         "RCE ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/",
-      "summary": "The U.S. Department of Justice (DoJ) has disrupted the Famous Chollima threat group's operations by arresting two suspects, charging 14 individuals, and seizing nearly 187 laptops used in North Korean remote IT worker schemes. [...]",
-      "published": "Wed, 14 Oct 2026 15:41:43 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Ledger asks sellers across Asia to halt sales after supply-chain attack",
-      "link": "https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/",
-      "summary": "Ledger has asked resellers and distributors of its wallets in Indonesia, Singapore, Thailand, the Philippines, Vietnam, Malaysia, and Hong Kong to suspend device sales and remove products from shelves while it investigates device tampering. [...]",
-      "published": "Wed, 14 Oct 2026 13:46:50 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -316,9 +317,20 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Vulnerability Management Isn't About the Score — It's About How It Applies to You",
+      "link": "https://www.darkreading.com/cybersecurity-operations/vulnerability-management-isnt-about-the-score-its-about-how-it-applies-to-you",
+      "summary": "Organizations need to move away from vendor-assigned, theoretical scores toward real exploit data specific to their environments.",
+      "published": "Thu, 15 Oct 2026 15:17:18 GMT",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "EU Grocers Pay a Steep Price for Unpatched Fridge Firmware",
       "link": "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware",
-      "summary": "Hundreds of stores lost millions of dollars because they hired third parties to manage the outdated OT firmware running their cooling systems.",
+      "summary": "Hundreds of stores lost millions of euros because they hired third parties to manage the outdated OT firmware running their cooling systems.",
       "published": "Thu, 15 Oct 2026 07:00:00 GMT",
       "value_score": 10,
       "value_signals": []
@@ -389,15 +401,22 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "North Korea Phishes Ukrainians for War Intel",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel",
-      "summary": "The Democratic People's Republic of Korea (DPRK) is trying to get insight into its own war effort in Ukraine, through simple reply-baiting phishing attacks.",
-      "published": "Tue, 13 Oct 2026 21:24:45 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
+      "source": "Security Week",
+      "title": "Context Is King in the Fight Against Modern Cyberattacks",
+      "link": "https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/",
+      "summary": "Contextual defense helps security teams connect the signals, anticipate what comes next, and stop threats before they escalate. The post Context Is King in the Fight Against Modern Cyberattacks appeared first on SecurityWeek .",
+      "published": "Thu, 15 Oct 2026 17:42:50 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Watch Now: Zero Trust Strategies Summit – All Sessions Available on Demand",
+      "link": "https://www.securityweek.com/virtual-event-today-zero-trust-strategies-summit-2/",
+      "summary": "This summit is laser-focused on the next generation of Zero Trust and Identity security, moving beyond theory to deliver actionable strategies. The post Watch Now: Zero Trust Strategies Summit – All Sessions Available on Demand appeared first on SecurityWeek .",
+      "published": "Thu, 15 Oct 2026 16:51:34 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -456,30 +475,6 @@
       "published": "Thu, 15 Oct 2026 08:26:40 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Palo Alto Networks Patches PAN-OS Zero-Day Exploited for Remote Code Execution",
-      "link": "https://www.securityweek.com/palo-alto-networks-patches-pan-os-zero-day-exploited-for-remote-code-execution/",
-      "summary": "The company says it’s aware of limited exploitation against customers’ firewalls, and it has made IoCs available. The post Palo Alto Networks Patches PAN-OS Zero-Day Exploited for Remote Code Execution appeared first on SecurityWeek .",
-      "published": "Thu, 15 Oct 2026 06:59:54 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "Zero-day ×2",
-        "RCE ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Cisco Warns of Exploited Secure Email Gateway Vulnerability",
-      "link": "https://www.securityweek.com/cisco-warns-of-exploited-secure-email-gateway-vulnerability/",
-      "summary": "Unauthenticated, remote attackers could write arbitrary files to the operating system and execute commands with root privileges. The post Cisco Warns of Exploited Secure Email Gateway Vulnerability appeared first on SecurityWeek .",
-      "published": "Thu, 15 Oct 2026 06:34:15 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

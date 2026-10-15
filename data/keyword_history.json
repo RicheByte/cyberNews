@@ -350,7 +350,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2777,
+      "count": 2778,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1333,7 +1333,7 @@
       ]
     },
     "national security risk": {
-      "count": 534,
+      "count": 535,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1440,7 +1440,8 @@
         "2026-09-30",
         "2026-10-01",
         "2026-10-13",
-        "2026-10-14"
+        "2026-10-14",
+        "2026-10-15"
       ]
     },
     "open source millions": {
@@ -2295,7 +2296,7 @@
       ]
     },
     "latest version following": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -4434,7 +4435,7 @@
       ]
     },
     "released security updates": {
-      "count": 149,
+      "count": 150,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -10034,7 +10035,7 @@
       ]
     },
     "law enforcement agencies": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-03-05",
         "2026-03-06",
@@ -13589,11 +13590,12 @@
       ]
     },
     "picus security explains": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-08",
         "2026-09-15",
-        "2026-09-16"
+        "2026-09-16",
+        "2026-10-15"
       ]
     },
     "address security vulnerabilities": {
@@ -20482,7 +20484,7 @@
       ]
     },
     "security experts warn": {
-      "count": 84,
+      "count": 85,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -20512,7 +20514,8 @@
         "2026-10-07",
         "2026-10-08",
         "2026-10-13",
-        "2026-10-14"
+        "2026-10-14",
+        "2026-10-15"
       ]
     },
     "targets 217 banking": {
@@ -30426,7 +30429,7 @@
       ]
     },
     "today issued updates": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-09-11",
         "2026-09-30",
@@ -33110,7 +33113,7 @@
       ]
     },
     "extortion group shinyhunters": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33145,7 +33148,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33495,13 +33498,14 @@
       ]
     },
     "canadian cybersecurity firm": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-10-10",
         "2026-10-11",
         "2026-10-12",
         "2026-10-13",
-        "2026-10-14"
+        "2026-10-14",
+        "2026-10-15"
       ]
     },
     "repositories cybersecurity researchers": {
@@ -33708,7 +33712,7 @@
       ]
     },
     "workforce ai protection": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-10-14",
         "2026-10-15"
@@ -33728,7 +33732,7 @@
       ]
     },
     "malicious server receiving": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-10-14",
         "2026-10-15"
@@ -33772,28 +33776,28 @@
       ]
     },
     "trm labs announced": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-14",
         "2026-10-15"
       ]
     },
     "synthetic video calls": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-14",
         "2026-10-15"
       ]
     },
     "stalking physical violence": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-14",
         "2026-10-15"
       ]
     },
     "sounds exactly like": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-14",
         "2026-10-15"
@@ -33812,20 +33816,27 @@
         "2026-10-14",
         "2026-10-15"
       ]
+    },
+    "eu grocers pay": {
+      "count": 1,
+      "dates": [
+        "2026-10-15"
+      ]
+    },
+    "team cloned voices": {
+      "count": 1,
+      "dates": [
+        "2026-10-15"
+      ]
+    },
+    "stores lost millions": {
+      "count": 1,
+      "dates": [
+        "2026-10-15"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-21 21:35",
-      "articles": 48,
-      "top_keywords": [
-        "fined 403 million",
-        "windows kernel driver",
-        "address password mfa",
-        "location data google",
-        "office users microsoft"
-      ]
-    },
     {
       "timestamp": "2026-09-22 00:30",
       "articles": 48,
@@ -34913,6 +34924,17 @@
         "twitter whistleblower complaint",
         "three bugs fixed",
         "latest version following"
+      ]
+    },
+    {
+      "timestamp": "2026-10-15 08:45",
+      "articles": 48,
+      "top_keywords": [
+        "law enforcement agencies",
+        "today issued updates",
+        "released security updates",
+        "workforce ai protection",
+        "twitter whistleblower complaint"
       ]
     }
   ]

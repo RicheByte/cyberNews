@@ -350,7 +350,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2778,
+      "count": 2779,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -954,7 +954,7 @@
       ]
     },
     "remote code execution": {
-      "count": 515,
+      "count": 516,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1051,7 +1051,8 @@
         "2026-10-01",
         "2026-10-08",
         "2026-10-09",
-        "2026-10-10"
+        "2026-10-10",
+        "2026-10-15"
       ]
     },
     "attacker remotely control": {
@@ -1333,7 +1334,7 @@
       ]
     },
     "national security risk": {
-      "count": 535,
+      "count": 536,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2112,7 +2113,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 659,
+      "count": 660,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2249,7 +2250,8 @@
         "2026-10-11",
         "2026-10-12",
         "2026-10-13",
-        "2026-10-14"
+        "2026-10-14",
+        "2026-10-15"
       ]
     },
     "model agnostic abstractions": {
@@ -2860,7 +2862,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 435,
+      "count": 436,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2922,7 +2924,8 @@
         "2026-08-12",
         "2026-08-13",
         "2026-08-17",
-        "2026-08-18"
+        "2026-08-18",
+        "2026-10-15"
       ]
     },
     "corporate data stolen": {
@@ -4435,7 +4438,7 @@
       ]
     },
     "released security updates": {
-      "count": 150,
+      "count": 151,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -20484,7 +20487,7 @@
       ]
     },
     "security experts warn": {
-      "count": 85,
+      "count": 86,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -30429,7 +30432,7 @@
       ]
     },
     "today issued updates": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-09-11",
         "2026-09-30",
@@ -33148,7 +33151,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33458,14 +33461,15 @@
       ]
     },
     "prolific data theft": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-10-09",
         "2026-10-10",
         "2026-10-11",
         "2026-10-12",
         "2026-10-13",
-        "2026-10-14"
+        "2026-10-14",
+        "2026-10-15"
       ]
     },
     "suspected shinyhunters operative": {
@@ -33498,7 +33502,7 @@
       ]
     },
     "canadian cybersecurity firm": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -33818,7 +33822,7 @@
       ]
     },
     "eu grocers pay": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-15"
       ]
@@ -33834,20 +33838,57 @@
       "dates": [
         "2026-10-15"
       ]
+    },
+    "30 000 repositories": {
+      "count": 1,
+      "dates": [
+        "2026-10-15"
+      ]
+    },
+    "online messaging groups": {
+      "count": 1,
+      "dates": [
+        "2026-10-15"
+      ]
+    },
+    "north korean remote": {
+      "count": 1,
+      "dates": [
+        "2026-10-15"
+      ]
+    },
+    "arrested 95 suspects": {
+      "count": 1,
+      "dates": [
+        "2026-10-15"
+      ]
+    },
+    "understanding business context": {
+      "count": 1,
+      "dates": [
+        "2026-10-15"
+      ]
+    },
+    "1 900 users": {
+      "count": 1,
+      "dates": [
+        "2026-10-15"
+      ]
+    },
+    "1 31 7": {
+      "count": 1,
+      "dates": [
+        "2026-10-15"
+      ]
+    },
+    "uncover vulnerabilities missed": {
+      "count": 1,
+      "dates": [
+        "2026-10-15"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-22 00:30",
-      "articles": 48,
-      "top_keywords": [
-        "fined 403 million",
-        "windows kernel driver",
-        "address password mfa",
-        "location data google",
-        "office users microsoft"
-      ]
-    },
     {
       "timestamp": "2026-09-22 07:11",
       "articles": 48,
@@ -34935,6 +34976,17 @@
         "released security updates",
         "workforce ai protection",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-10-15 14:36",
+      "articles": 48,
+      "top_keywords": [
+        "canadian cybersecurity firm",
+        "remote code execution",
+        "30 000 repositories",
+        "twitter whistleblower complaint",
+        "online messaging groups"
       ]
     }
   ]

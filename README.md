@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-15 08:45 UTC |
+| 🕐 Last Updated | 2026-10-15 14:36 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`law enforcement agencies` • `today issued updates` • `released security updates` • `workforce ai protection` • `twitter whistleblower complaint` • `latest version following` • `hacker handle rey` • `eu grocers pay` • `extortion group shinyhunters` • `canadian cybersecurity firm`
+`canadian cybersecurity firm` • `remote code execution` • `30 000 repositories` • `twitter whistleblower complaint` • `online messaging groups` • `north korean remote` • `hacker handle rey` • `eu grocers pay` • `arrested 95 suspects` • `released security updates`
 
 ## 📄 Reports
 

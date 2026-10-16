@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-16 14:27 UTC |
+| 🕐 Last Updated | 2026-10-16 19:13 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`remote code execution` • `ai decision models` • `canadian cybersecurity firm` • `ordinary online ads` • `rest gets interesting` • `twitter whistleblower complaint` • `threat intelligence research` • `threat actor known` • `smart app control` • `hacker handle rey`
+`smart app control` • `threat intelligence research` • `canadian cybersecurity firm` • `twitter whistleblower complaint` • `remote code execution` • `openbsd 7 9` • `hacker handle rey` • `eu grocers pay` • `aomei backupper fetches` • `android currently rolling`
 
 ## 📄 Reports
 

@@ -1,72 +1,116 @@
 {
-  "last_updated": "2026-10-16 14:27",
+  "last_updated": "2026-10-16 19:13",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "remote code execution",
-    "ai decision models",
-    "canadian cybersecurity firm",
-    "ordinary online ads",
-    "rest gets interesting",
-    "twitter whistleblower complaint",
-    "threat intelligence research",
-    "threat actor known",
     "smart app control",
+    "threat intelligence research",
+    "canadian cybersecurity firm",
+    "twitter whistleblower complaint",
+    "remote code execution",
+    "openbsd 7 9",
     "hacker handle rey",
     "eu grocers pay",
+    "aomei backupper fetches",
     "android currently rolling",
     "amman jordan suspected",
-    "tested online reached",
     "ransomware negotiator works",
+    "tested online reached",
+    "serious threat actors",
+    "security firm calif",
     "security experts warn",
     "multiple telecommunications companies",
     "extortion group shinyhunters",
     "experts say serves",
-    "130 companies tangled"
+    "collabora online built"
   ],
   "trending": [
     {
-      "keyword": "remote code execution",
-      "mentions": 517
-    },
-    {
-      "keyword": "ai decision models",
-      "mentions": 1
-    },
-    {
-      "keyword": "canadian cybersecurity firm",
-      "mentions": 23
-    },
-    {
-      "keyword": "ordinary online ads",
-      "mentions": 5
-    },
-    {
-      "keyword": "rest gets interesting",
-      "mentions": 5
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2784
+      "keyword": "smart app control",
+      "mentions": 2
     },
     {
       "keyword": "threat intelligence research",
-      "mentions": 4
+      "mentions": 5
     },
     {
-      "keyword": "threat actor known",
-      "mentions": 73
+      "keyword": "canadian cybersecurity firm",
+      "mentions": 24
     },
     {
-      "keyword": "smart app control",
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2785
+    },
+    {
+      "keyword": "remote code execution",
+      "mentions": 518
+    },
+    {
+      "keyword": "openbsd 7 9",
       "mentions": 1
     },
     {
       "keyword": "hacker handle rey",
-      "mentions": 33
+      "mentions": 34
+    },
+    {
+      "keyword": "eu grocers pay",
+      "mentions": 8
+    },
+    {
+      "keyword": "aomei backupper fetches",
+      "mentions": 1
+    },
+    {
+      "keyword": "android currently rolling",
+      "mentions": 5
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
+      "link": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
+      "summary": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardware protections. Security firm Calif, which found and reported the flaws, published a detailed writeup and full proof-of-concept code after OpenBSD shipped",
+      "published": "Fri, 16 Oct 2026 23:18:45 +0530",
+      "value_score": 28,
+      "value_signals": [
+        "Privilege escalation",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
+      "link": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
+      "summary": "Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the Windows backup program that checked for an update during one of those windows would download and run a backdoor. Google Threat Intelligence Group, Mandiant, and ManageEngine's Threat Analysis",
+      "published": "Fri, 16 Oct 2026 22:13:39 +0530",
+      "value_score": 50,
+      "value_signals": [
+        "Patch/update ×3",
+        "Backdoor ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
+      "link": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
+      "summary": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct victims to an adversary-in-the-middle (AitM) phishing framework designed to harvest their Google account credentials and multi-factor authentication (MFA) codes. The activity is being tracked by",
+      "published": "Fri, 16 Oct 2026 21:46:44 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×3"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
+      "link": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
+      "summary": "OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research model, after not having funds on an Ethereum test network, spent test cryptocurrency from a third-party's wallet without authorization to complete a coding task. The incident, the AI company said, involved an internal research model part",
+      "published": "Fri, 16 Oct 2026 19:33:04 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "AI Decision Models and Their Impact on AI SOC Platforms",
@@ -111,49 +155,13 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
-      "link": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
-      "summary": "A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against Vercel's live cloud sandboxes, and Vercel confirmed it. The flaw, now tracked as CVE-2026-99999 and nicknamed PwnEscape, is in the Linux kernel's networking code, not in any one cloud's setup, so it reaches the shared",
-      "published": "Fri, 16 Oct 2026 01:54:36 +0530",
-      "value_score": 56,
-      "value_signals": [
-        "CVE mentioned",
-        "Breach/leak",
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More",
-      "link": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
-      "summary": "Someone built a tool to steal data, then decided it should scare the victim for fun. Yes, that’s an actual feature. And somehow, it fits right in with this week's security stories. The rest gets interesting in different ways. A small permission can lead to a big theft. A trusted login can hide the wrong person. Old bugs are finding new victims, familiar tools are being put to strange uses, and",
-      "published": "Fri, 16 Oct 2026 00:19:33 +0530",
-      "value_score": 42,
-      "value_signals": [
-        "RCE",
-        "Backdoor"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads",
-      "link": "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html",
-      "summary": "Candiru, an Israeli maker of spyware sold to governments, infected devices at the news network Al Jazeera through ordinary online ads, in attacks that needed no click or other action from the user, researchers at the Citizen Lab said Thursday. The hidden attack code ran the moment an ad loaded on the screen, and in some cases the ad loaded out of sight, in the background. The Citizen",
-      "published": "Thu, 15 Oct 2026 21:31:57 +0530",
+      "source": "BleepingComputer",
+      "title": "Targeted ads installed Candiru spyware in zero-click attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
+      "summary": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device. [...]",
+      "published": "Fri, 16 Oct 2026 13:20:03 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks",
-      "link": "https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html",
-      "summary": "The threat actor known as Silent Lynx has been attributed to a fresh set of attacks targeting government organizations across the Commonwealth of Independent States (CIS). The activity, observed from June 2025 through August 2026, involves four different infection chains that make use of macro-enabled documents, PS2EXE downloaders, GitHub-hosted PowerShell, and crafted WinRAR archives",
-      "published": "Thu, 15 Oct 2026 21:30:26 +0530",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -230,15 +238,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
       "summary": "Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices. [...]",
       "published": "Thu, 15 Oct 2026 15:48:43 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/",
-      "summary": "A proxyjacking campaign has impacted devices in 34 countries, monetizing victims' internet connections through a commercial residential proxy network. [...]",
-      "published": "Thu, 15 Oct 2026 14:20:59 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -326,6 +325,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "AI Takes Control of Robotic Arm in 16 Minutes Flat",
+      "link": "https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes",
+      "summary": "Most OT devices at utilities, factories, and elsewhere have been deployed for a decade or more, but operators need to get agile and deploy new cyber defenses.",
+      "published": "Fri, 16 Oct 2026 18:37:50 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "When Your Ransomware Negotiator Works for the Other Side",
       "link": "https://www.darkreading.com/cyber-risk/when-your-ransomware-negotiator-works-other-side",
       "summary": "The shocking arrest of a well-known ransomware negotiator reveals the critical need for vendor program oversight.",
@@ -393,20 +401,6 @@
       "published": "Thu, 15 Oct 2026 07:00:00 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching",
-      "summary": "CVE-2026-104935, a high-severity authentication bypass + RCE vulnerability, was only partially discovered and patched in July, leaving an opening for threat actors to capitalize on.",
-      "published": "Wed, 14 Oct 2026 21:20:13 GMT",
-      "value_score": 88,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day",
-        "RCE",
-        "Auth bypass"
-      ]
     },
     {
       "source": "Security Week",

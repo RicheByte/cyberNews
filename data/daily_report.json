@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-10-16 08:41",
+  "last_updated": "2026-10-16 14:27",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
+    "remote code execution",
+    "ai decision models",
     "canadian cybersecurity firm",
     "ordinary online ads",
+    "rest gets interesting",
+    "twitter whistleblower complaint",
     "threat intelligence research",
     "threat actor known",
-    "rest gets interesting",
-    "windows server 2022",
-    "twitter whistleblower complaint",
+    "smart app control",
     "hacker handle rey",
     "eu grocers pay",
     "android currently rolling",
     "amman jordan suspected",
+    "tested online reached",
+    "ransomware negotiator works",
     "security experts warn",
     "multiple telecommunications companies",
+    "extortion group shinyhunters",
     "experts say serves",
-    "130 companies tangled",
-    "phishing network behind",
-    "collabora online built",
-    "week's security stories",
-    "traditional banking trojan",
-    "tracks emerging forms"
+    "130 companies tangled"
   ],
   "trending": [
     {
+      "keyword": "remote code execution",
+      "mentions": 517
+    },
+    {
+      "keyword": "ai decision models",
+      "mentions": 1
+    },
+    {
       "keyword": "canadian cybersecurity firm",
-      "mentions": 22
+      "mentions": 23
     },
     {
       "keyword": "ordinary online ads",
-      "mentions": 4
-    },
-    {
-      "keyword": "threat intelligence research",
-      "mentions": 3
-    },
-    {
-      "keyword": "threat actor known",
-      "mentions": 72
+      "mentions": 5
     },
     {
       "keyword": "rest gets interesting",
-      "mentions": 4
-    },
-    {
-      "keyword": "windows server 2022",
-      "mentions": 3
+      "mentions": 5
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2783
+      "mentions": 2784
+    },
+    {
+      "keyword": "threat intelligence research",
+      "mentions": 4
+    },
+    {
+      "keyword": "threat actor known",
+      "mentions": 73
+    },
+    {
+      "keyword": "smart app control",
+      "mentions": 1
     },
     {
       "keyword": "hacker handle rey",
-      "mentions": 32
-    },
-    {
-      "keyword": "eu grocers pay",
-      "mentions": 6
-    },
-    {
-      "keyword": "android currently rolling",
-      "mentions": 3
+      "mentions": 33
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "AI Decision Models and Their Impact on AI SOC Platforms",
+      "link": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
+      "summary": "In the space of a month, a new category of AI model went from nonexistent to everywhere. TypeSafe AI released Jev on September 15 and called it a System One model, a nod to Kahneman's fast, intuitive thinking. OpenAI announced its own Decisions API at DevDay and opened a public beta on October 6. Cribl published cribl-decision, an open LoRA adapter you can run locally. Others, like Laya, are",
+      "published": "Fri, 16 Oct 2026 17:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
@@ -147,13 +156,35 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams",
-      "link": "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html",
-      "summary": "A long-running Traffic Distribution System (TDS) known as Help TDS to a Russian-language affiliate program called Hotejka, which appears to be a rebrand of a traffic monetization operation dubbed ROI777. Help TDS is assessed to be active since at least 2017, offering PHP code templates to partners and affiliates that are installed into compromised websites with an aim to direct unsuspecting",
-      "published": "Thu, 15 Oct 2026 19:41:36 +0530",
+      "source": "BleepingComputer",
+      "title": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
+      "link": "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
+      "summary": "Employees using personal ChatGPT accounts at work can expose sensitive company data, even when their organization provides an approved Enterprise workspace. NordLayer explains how IT teams can investigate unauthorized AI use and block sensitive information before it reaches personal accounts. [...]",
+      "published": "Fri, 16 Oct 2026 09:50:59 -0400",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Burger King Japan data breach exposes 11 million customer records",
+      "link": "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
+      "summary": "Burger King Japan, the Japanese subsidiary of global fast-food giant Burger King, disclosed a major data breach after attackers accessed a server containing 11.18 million customer records. [...]",
+      "published": "Fri, 16 Oct 2026 08:01:29 -0400",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft: October Windows update may break Smart App Control",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/",
+      "summary": "Microsoft says some users may have trouble turning on Smart App Control after installing this month's KB5127648 Windows 11 security update. [...]",
+      "published": "Fri, 16 Oct 2026 04:44:22 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×2"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -208,33 +239,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/",
       "summary": "A proxyjacking campaign has impacted devices in 34 countries, monetizing victims' internet connections through a commercial residential proxy network. [...]",
       "published": "Thu, 15 Oct 2026 14:20:59 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Fake Arch Linux packages push malware with root privileges",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/",
-      "summary": "A threat actor uploaded malicious packages to the Arch User Repository (AUR) that impersonated two popular helper tools, yay and paru. [...]",
-      "published": "Thu, 15 Oct 2026 13:12:31 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Is AI pentesting as good as a human pentester?",
-      "link": "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/",
-      "summary": "AI pentesting can uncover vulnerabilities missed by human testers, but it also has limitations in consistency, risk assessment, and understanding business context. Intruder compares the strengths and weaknesses of both approaches and explains where AI agents can improve security testing. [...]",
-      "published": "Thu, 15 Oct 2026 10:01:11 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft: Windows Server 2022 reached end of mainstream support",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
-      "summary": "Microsoft announced that Windows Server 2022 has reached the end of mainstream support and will remain in extended support until October 2031. [...]",
-      "published": "Thu, 15 Oct 2026 09:18:36 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -322,6 +326,27 @@
     },
     {
       "source": "Dark Reading",
+      "title": "When Your Ransomware Negotiator Works for the Other Side",
+      "link": "https://www.darkreading.com/cyber-risk/when-your-ransomware-negotiator-works-other-side",
+      "summary": "The shocking arrest of a well-known ransomware negotiator reveals the critical need for vendor program oversight.",
+      "published": "Fri, 16 Oct 2026 14:00:00 GMT",
+      "value_score": 54,
+      "value_signals": [
+        "Ransomware ×2",
+        "High severity"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "When AI Agents Commit Breaches, Humans May Not Be Held Liable",
+      "link": "https://www.darkreading.com/insider-threats/ai-agents-breaches-humans-liable",
+      "summary": "As agents escape containment and access external systems, responsibility remains human. Accountability, however, is much less settled.",
+      "published": "Fri, 16 Oct 2026 13:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "SecTor 2026 Reveals a Rapidly Shifting Cybersecurity Landscape",
       "link": "https://www.darkreading.com/cybersecurity-operations/sector-2026-reveals-a-rapidly-shifting-cybersecurity-landscape",
       "summary": "The event closed in Toronto last week, with experts sharing critical perspectives on emerging risks, drawing record attendance and marking 22% growth.",
@@ -384,24 +409,60 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Yam Store: The Phishing Network Behind a Billion Messages",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/yam-store-phishing-network-behind-billion-messages",
-      "summary": "A sprawling cybercrime marketplace supplied cloud infrastructure and phishing kits that helped fuel more than 1 billion phishing messages worldwide.",
-      "published": "Wed, 14 Oct 2026 20:57:16 GMT",
-      "value_score": 26,
+      "source": "Security Week",
+      "title": "In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit",
+      "link": "https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/",
+      "summary": "Noteworthy stories that might have slipped under the radar: BofA adds 1,000 patching contractors, KGB RAT pairs data theft with jump scares, and Langflow flaw under attack. The post In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit appeared first on SecurityWeek .",
+      "published": "Fri, 16 Oct 2026 14:09:51 +0000",
+      "value_score": 16,
       "value_signals": [
-        "Phishing ×3"
+        "Exploit wording"
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Anthropic 'SneakPeek' Flaw Is a Silent Zero-Click Threat",
-      "link": "https://www.darkreading.com/threat-intelligence/new-anthropic-sneakpeek-silent-zero-click-threat",
-      "summary": "A bug in Claude Code Desktop's preview pane can allow adversaries to quietly steal credentials from developers, including SSH private keys, AWS credentials, and Claude 0Auth tokens.",
-      "published": "Wed, 14 Oct 2026 20:09:42 GMT",
+      "source": "Security Week",
+      "title": "BAE Systems Security Incident Stalls Notices From US Bankruptcy Courts",
+      "link": "https://www.securityweek.com/bae-systems-security-incident-stalls-notices-from-us-bankruptcy-courts/",
+      "summary": "A cyber incident affecting contractor BAE Systems has knocked out the Bankruptcy Noticing Center, halting notices nationwide for a week. The post BAE Systems Security Incident Stalls Notices From US Bankruptcy Courts appeared first on SecurityWeek .",
+      "published": "Fri, 16 Oct 2026 11:46:40 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day",
+      "link": "https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/",
+      "summary": "Armory Castle exploited CVE-2026-102764 for initial access, deployed custom tools, and deleted logs and artifacts. The post Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day appeared first on SecurityWeek .",
+      "published": "Fri, 16 Oct 2026 10:53:22 +0000",
+      "value_score": 84,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "OpenAI Models Hacked Data Portals, Raided a Crypto Wallet to Finish Tasks",
+      "link": "https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/",
+      "summary": "Left without funds for a coding task, an OpenAI model spent test crypto from a stranger’s wallet and left it out of its report. The post OpenAI Models Hacked Data Portals, Raided a Crypto Wallet to Finish Tasks appeared first on SecurityWeek .",
+      "published": "Fri, 16 Oct 2026 10:32:11 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "F5, Juniper Networks Patch Critical Vulnerabilities",
+      "link": "https://www.securityweek.com/f5-juniper-networks-patch-critical-vulnerabilities/",
+      "summary": "Successful exploitation of some of these issues could lead to remote code execution and full device takeover. The post F5, Juniper Networks Patch Critical Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Fri, 16 Oct 2026 09:54:34 +0000",
+      "value_score": 68,
+      "value_signals": [
+        "RCE",
+        "Patch/update ×2",
+        "High severity ×2",
+        "Exploit wording"
+      ]
     },
     {
       "source": "Security Week",
@@ -430,53 +491,6 @@
       "link": "https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/",
       "summary": "Contextual defense helps security teams connect the signals, anticipate what comes next, and stop threats before they escalate. The post Context Is King in the Fight Against Modern Cyberattacks appeared first on SecurityWeek .",
       "published": "Thu, 15 Oct 2026 17:42:50 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Watch Now: Zero Trust Strategies Summit – All Sessions Available on Demand",
-      "link": "https://www.securityweek.com/virtual-event-today-zero-trust-strategies-summit-2/",
-      "summary": "This summit is laser-focused on the next generation of Zero Trust and Identity security, moving beyond theory to deliver actionable strategies. The post Watch Now: Zero Trust Strategies Summit – All Sessions Available on Demand appeared first on SecurityWeek .",
-      "published": "Thu, 15 Oct 2026 16:51:34 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "UK Legal Aid Agency Hack Scope Widens After Forensic Review",
-      "link": "https://www.securityweek.com/uk-legal-aid-agency-hack-scope-widens-after-forensic-review/",
-      "summary": "Most of the data is related to applications, claims, and payments submitted between 2007 and 2025. The post UK Legal Aid Agency Hack Scope Widens After Forensic Review appeared first on SecurityWeek .",
-      "published": "Thu, 15 Oct 2026 14:22:34 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Supermarket Refrigeration Attack Widens to Copeland, Dixell Controllers",
-      "link": "https://www.securityweek.com/supermarket-refrigeration-attack-widens-to-copeland-dixell-controllers/",
-      "summary": "Roughly 700 French supermarkets were hit by the cyberattacks, for which no group has claimed responsibility. The post Supermarket Refrigeration Attack Widens to Copeland, Dixell Controllers appeared first on SecurityWeek .",
-      "published": "Thu, 15 Oct 2026 12:50:42 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "CikaBika Bot RAT Uses Discord for C&C",
-      "link": "https://www.securityweek.com/cikabika-bot-rat-uses-discord-for-cc/",
-      "summary": "Delivered via phishing, the malware provides reconnaissance, remote execution, and data exfiltration capabilities. The post CikaBika Bot RAT Uses Discord for C&C appeared first on SecurityWeek .",
-      "published": "Thu, 15 Oct 2026 11:25:58 +0000",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Novel Android RAT ‘Hirudo’ Replaces Banking Apps With Trojanized Copies",
-      "link": "https://www.securityweek.com/novel-android-banking-rat-hirudo-replaces-banking-apps-with-trojanized-copies/",
-      "summary": "The Hirudo malware combines elements of a traditional banking trojan and a full-featured RAT. The post Novel Android RAT ‘Hirudo’ Replaces Banking Apps With Trojanized Copies appeared first on SecurityWeek .",
-      "published": "Thu, 15 Oct 2026 10:15:32 +0000",
       "value_score": 10,
       "value_signals": []
     },

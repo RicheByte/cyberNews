@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-16 02:47 UTC |
+| 🕐 Last Updated | 2026-10-16 08:41 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`canadian cybersecurity firm` • `ordinary online ads` • `rest gets interesting` • `1 31 7` • `twitter whistleblower complaint` • `threat intelligence research` • `hacker handle rey` • `eu grocers pay` • `deliver actionable strategies` • `android currently rolling`
+`canadian cybersecurity firm` • `ordinary online ads` • `threat intelligence research` • `threat actor known` • `rest gets interesting` • `windows server 2022` • `twitter whistleblower complaint` • `hacker handle rey` • `eu grocers pay` • `android currently rolling`
 
 ## 📄 Reports
 

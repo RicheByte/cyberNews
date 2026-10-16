@@ -350,7 +350,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2782,
+      "count": 2783,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -784,7 +784,7 @@
       ]
     },
     "threat actor known": {
-      "count": 71,
+      "count": 72,
       "dates": [
         "2025-12-17",
         "2025-12-30",
@@ -805,7 +805,8 @@
         "2026-09-16",
         "2026-09-17",
         "2026-09-22",
-        "2026-09-28"
+        "2026-09-28",
+        "2026-10-16"
       ]
     },
     "firefox web browser": {
@@ -2863,7 +2864,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 439,
+      "count": 440,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -20489,7 +20490,7 @@
       ]
     },
     "security experts warn": {
-      "count": 88,
+      "count": 89,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -32071,7 +32072,7 @@
       ]
     },
     "multiple telecommunications companies": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-09-25",
         "2026-09-26",
@@ -33156,7 +33157,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33508,7 +33509,7 @@
       ]
     },
     "canadian cybersecurity firm": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -33829,7 +33830,7 @@
       ]
     },
     "eu grocers pay": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-10-15",
         "2026-10-16"
@@ -33898,14 +33899,14 @@
       ]
     },
     "ordinary online ads": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-15",
         "2026-10-16"
       ]
     },
     "rest gets interesting": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-15",
         "2026-10-16"
@@ -33925,7 +33926,7 @@
       ]
     },
     "phishing network behind": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-15",
         "2026-10-16"
@@ -33945,7 +33946,7 @@
       ]
     },
     "week's security stories": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-15",
         "2026-10-16"
@@ -33958,59 +33959,61 @@
       ]
     },
     "traditional banking trojan": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-10-15"
+        "2026-10-15",
+        "2026-10-16"
       ]
     },
     "threat intelligence research": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-15",
         "2026-10-16"
       ]
     },
     "android currently rolling": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-15",
         "2026-10-16"
       ]
     },
     "experts say serves": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-15",
         "2026-10-16"
       ]
     },
     "collabora online built": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-15",
         "2026-10-16"
       ]
     },
     "windows server 2022": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-15",
+        "2026-10-16"
+      ]
+    },
+    "amman jordan suspected": {
+      "count": 1,
+      "dates": [
+        "2026-10-16"
+      ]
+    },
+    "tracks emerging forms": {
+      "count": 1,
+      "dates": [
         "2026-10-16"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-22 20:46",
-      "articles": 48,
-      "top_keywords": [
-        "chinese threat actor",
-        "stops microsoft defender",
-        "author abdelhamid naceri",
-        "2 1 0",
-        "windows operating systems"
-      ]
-    },
     {
       "timestamp": "2026-09-22 23:57",
       "articles": 48,
@@ -35098,6 +35101,17 @@
         "rest gets interesting",
         "1 31 7",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-10-16 08:41",
+      "articles": 48,
+      "top_keywords": [
+        "canadian cybersecurity firm",
+        "ordinary online ads",
+        "threat intelligence research",
+        "threat actor known",
+        "rest gets interesting"
       ]
     }
   ]

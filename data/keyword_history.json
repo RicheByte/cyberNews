@@ -350,7 +350,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2785,
+      "count": 2786,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2865,7 +2865,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 441,
+      "count": 442,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -20491,7 +20491,7 @@
       ]
     },
     "security experts warn": {
-      "count": 91,
+      "count": 92,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -32073,7 +32073,7 @@
       ]
     },
     "multiple telecommunications companies": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-09-25",
         "2026-09-26",
@@ -32780,13 +32780,14 @@
       ]
     },
     "remove personal information": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-10-02",
         "2026-10-03",
         "2026-10-12",
         "2026-10-13",
-        "2026-10-14"
+        "2026-10-14",
+        "2026-10-16"
       ]
     },
     "radar kiteworks patches": {
@@ -33159,7 +33160,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33511,7 +33512,7 @@
       ]
     },
     "canadian cybersecurity firm": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -33982,14 +33983,14 @@
       ]
     },
     "experts say serves": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-10-15",
         "2026-10-16"
       ]
     },
     "collabora online built": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-10-15",
         "2026-10-16"
@@ -34003,7 +34004,7 @@
       ]
     },
     "amman jordan suspected": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-16"
       ]
@@ -34021,31 +34022,31 @@
       ]
     },
     "smart app control": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-16"
       ]
     },
     "tested online reached": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-16"
       ]
     },
     "ransomware negotiator works": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-16"
       ]
     },
     "openbsd 7 9": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-16"
       ]
     },
     "aomei backupper fetches": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-16"
       ]
@@ -34057,6 +34058,30 @@
       ]
     },
     "security firm calif": {
+      "count": 2,
+      "dates": [
+        "2026-10-16"
+      ]
+    },
+    "approved enterprise workspace": {
+      "count": 1,
+      "dates": [
+        "2026-10-16"
+      ]
+    },
+    "ai takes control": {
+      "count": 1,
+      "dates": [
+        "2026-10-16"
+      ]
+    },
+    "ai soc platforms": {
+      "count": 1,
+      "dates": [
+        "2026-10-16"
+      ]
+    },
+    "reaches personal accounts": {
       "count": 1,
       "dates": [
         "2026-10-16"
@@ -34064,17 +34089,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-23 09:00",
-      "articles": 48,
-      "top_keywords": [
-        "check point released",
-        "twitter whistleblower complaint",
-        "defraud online merchants",
-        "enable code execution",
-        "security experts warn"
-      ]
-    },
     {
       "timestamp": "2026-09-23 14:36",
       "articles": 48,
@@ -35162,6 +35176,17 @@
         "canadian cybersecurity firm",
         "twitter whistleblower complaint",
         "remote code execution"
+      ]
+    },
+    {
+      "timestamp": "2026-10-16 22:25",
+      "articles": 48,
+      "top_keywords": [
+        "smart app control",
+        "security experts warn",
+        "canadian cybersecurity firm",
+        "twitter whistleblower complaint",
+        "openbsd 7 9"
       ]
     }
   ]

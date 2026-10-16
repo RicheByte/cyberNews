@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-10-16 19:13",
+  "last_updated": "2026-10-16 22:25",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "smart app control",
-    "threat intelligence research",
+    "security experts warn",
     "canadian cybersecurity firm",
     "twitter whistleblower complaint",
-    "remote code execution",
     "openbsd 7 9",
+    "multiple telecommunications companies",
     "hacker handle rey",
-    "eu grocers pay",
+    "approved enterprise workspace",
     "aomei backupper fetches",
-    "android currently rolling",
     "amman jordan suspected",
+    "130 companies tangled",
+    "security firm calif",
     "ransomware negotiator works",
     "tested online reached",
-    "serious threat actors",
-    "security firm calif",
-    "security experts warn",
-    "multiple telecommunications companies",
-    "extortion group shinyhunters",
     "experts say serves",
-    "collabora online built"
+    "collabora online built",
+    "ai takes control",
+    "ai soc platforms",
+    "remove personal information",
+    "reaches personal accounts"
   ],
   "trending": [
     {
       "keyword": "smart app control",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "threat intelligence research",
-      "mentions": 5
+      "keyword": "security experts warn",
+      "mentions": 92
     },
     {
       "keyword": "canadian cybersecurity firm",
-      "mentions": 24
+      "mentions": 25
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2785
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 518
+      "mentions": 2786
     },
     {
       "keyword": "openbsd 7 9",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "multiple telecommunications companies",
+      "mentions": 23
     },
     {
       "keyword": "hacker handle rey",
-      "mentions": 34
+      "mentions": 35
     },
     {
-      "keyword": "eu grocers pay",
-      "mentions": 8
-    },
-    {
-      "keyword": "aomei backupper fetches",
+      "keyword": "approved enterprise workspace",
       "mentions": 1
     },
     {
-      "keyword": "android currently rolling",
-      "mentions": 5
+      "keyword": "aomei backupper fetches",
+      "mentions": 2
+    },
+    {
+      "keyword": "amman jordan suspected",
+      "mentions": 4
     }
   ],
   "articles": [
@@ -156,6 +156,19 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
+      "summary": "Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on store servers. [...]",
+      "published": "Fri, 16 Oct 2026 16:00:59 -0400",
+      "value_score": 42,
+      "value_signals": [
+        "CVE mentioned",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Targeted ads installed Candiru spyware in zero-click attacks",
       "link": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
       "summary": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device. [...]",
@@ -231,15 +244,6 @@
         "High severity",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Android gets AI defenses against messaging scams, fake calls",
-      "link": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
-      "summary": "Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices. [...]",
-      "published": "Thu, 15 Oct 2026 15:48:43 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -325,6 +329,45 @@
     },
     {
       "source": "Dark Reading",
+      "title": "BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs",
+      "link": "https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs",
+      "summary": "Ivanti, Cisco, and Palo Alto Networks all had vulnerabilities in edge devices come under fire this week. Now BeyondTrust joins the group.",
+      "published": "Fri, 16 Oct 2026 20:34:37 GMT",
+      "value_score": 41,
+      "value_signals": [
+        "Zero-day",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Fake Claude, ChatGPT Attacks Surge, Putting Developers at Risk",
+      "link": "https://www.darkreading.com/application-security/fake-claude-chatgpt-attacks-developers-risk",
+      "summary": "Campaigns that impersonate popular AI brands are on the rise, and they typically use ClickFix-like tactics to target unsuspecting enterprise employees.",
+      "published": "Fri, 16 Oct 2026 19:49:30 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Biomemory Launches DNA Shield, First Commercial Product Built on Its Molecular IT Platform",
+      "link": "https://www.darkreading.com/data-privacy/biomemory-launches-dna-shield",
+      "summary": "The launch follows the acquisition of catalog's assets and the appointment of Laurent Guengant as CEO earlier this year.",
+      "published": "Fri, 16 Oct 2026 19:22:12 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Enterprise AI Enters Risk Management Phase as Security Concerns Rise",
+      "link": "https://www.darkreading.com/cyber-risk/enterprise-ai-risk-management-phase-security-concerns-rise",
+      "summary": "Companies are increasingly discovering that the challenge with AI is no longer adoption, but execution.",
+      "published": "Fri, 16 Oct 2026 19:13:59 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "AI Takes Control of Robotic Arm in 16 Minutes Flat",
       "link": "https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes",
       "summary": "Most OT devices at utilities, factories, and elsewhere have been deployed for a decade or more, but operators need to get agile and deploy new cyber defenses.",
@@ -363,44 +406,6 @@
       "value_signals": [
         "High severity"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "F-Secure Launches Victim-First Scam Encyclopedia Covering 50+ Types of Consumer Fraud",
-      "link": "https://www.darkreading.com/threat-intelligence/f-secure-launches-victim-first-scam-encyclopedia-covering-50-types-of-consumer-fraud",
-      "summary": "Built from decades of threat intelligence research, the new resource explains scams from the victims' perspective and tracks emerging forms of cyber crime.",
-      "published": "Thu, 15 Oct 2026 21:55:07 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "AI Slop Isn't Just for Social Media; It's Ruining Cyberattacks, Too",
-      "link": "https://www.darkreading.com/threat-intelligence/ai-slop-ruining-cyberattacks",
-      "summary": "Don't buy the hype! AI has been dumbing down cyberattacks, and serious threat actors are barely touching it.",
-      "published": "Thu, 15 Oct 2026 20:43:20 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Vulnerability Management Isn't About the Score — It's About How It Applies to You",
-      "link": "https://www.darkreading.com/cybersecurity-operations/vulnerability-management-isnt-about-the-score-its-about-how-it-applies-to-you",
-      "summary": "Organizations need to move away from vendor-assigned, theoretical scores toward real exploit data specific to their environments.",
-      "published": "Thu, 15 Oct 2026 15:17:18 GMT",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "EU Grocers Pay a Steep Price for Unpatched Fridge Firmware",
-      "link": "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware",
-      "summary": "Hundreds of stores lost millions of euros because they hired third parties to manage the outdated OT firmware running their cooling systems.",
-      "published": "Thu, 15 Oct 2026 07:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

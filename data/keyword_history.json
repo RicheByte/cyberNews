@@ -350,7 +350,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2790,
+      "count": 2791,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2866,7 +2866,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 446,
+      "count": 447,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -8539,7 +8539,7 @@
       ]
     },
     "execute code remotely": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-19",
         "2026-10-17"
@@ -20494,7 +20494,7 @@
       ]
     },
     "security experts warn": {
-      "count": 96,
+      "count": 97,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -26785,7 +26785,7 @@
       ]
     },
     "content management system": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-08-07",
         "2026-08-08",
@@ -32078,7 +32078,7 @@
       ]
     },
     "multiple telecommunications companies": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-09-25",
         "2026-09-26",
@@ -32786,7 +32786,7 @@
       ]
     },
     "remove personal information": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-10-02",
         "2026-10-03",
@@ -33167,7 +33167,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33509,7 +33509,7 @@
       ]
     },
     "publish personal information": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -33521,7 +33521,7 @@
       ]
     },
     "canadian cybersecurity firm": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -33993,7 +33993,7 @@
       ]
     },
     "experts say serves": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-10-15",
         "2026-10-16",
@@ -34035,7 +34035,7 @@
       ]
     },
     "smart app control": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-10-16",
         "2026-10-17"
@@ -34049,21 +34049,21 @@
       ]
     },
     "ransomware negotiator works": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-10-16",
         "2026-10-17"
       ]
     },
     "openbsd 7 9": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-10-16",
         "2026-10-17"
       ]
     },
     "aomei backupper fetches": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-10-16",
         "2026-10-17"
@@ -34083,14 +34083,14 @@
       ]
     },
     "approved enterprise workspace": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-10-16",
         "2026-10-17"
       ]
     },
     "ai takes control": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-10-16",
         "2026-10-17"
@@ -34104,31 +34104,26 @@
       ]
     },
     "reaches personal accounts": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-10-16",
         "2026-10-17"
       ]
     },
     "agents escape containment": {
-      "count": 2,
+      "count": 3,
+      "dates": [
+        "2026-10-17"
+      ]
+    },
+    "security bypass issue": {
+      "count": 1,
       "dates": [
         "2026-10-17"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-24 08:56",
-      "articles": 48,
-      "top_keywords": [
-        "disclosure threat actors",
-        "mikrotik routers without",
-        "frontier ai models",
-        "wordpress within hours",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-09-24 14:34",
       "articles": 48,
@@ -35216,6 +35211,17 @@
         "security firm calif",
         "twitter whistleblower complaint",
         "smart app control"
+      ]
+    },
+    {
+      "timestamp": "2026-10-17 19:58",
+      "articles": 48,
+      "top_keywords": [
+        "canadian cybersecurity firm",
+        "security experts warn",
+        "twitter whistleblower complaint",
+        "smart app control",
+        "openbsd 7 9"
       ]
     }
   ]

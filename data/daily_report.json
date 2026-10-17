@@ -1,11 +1,10 @@
 {
-  "last_updated": "2026-10-17 16:47",
+  "last_updated": "2026-10-17 19:58",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "security experts warn",
     "canadian cybersecurity firm",
-    "security firm calif",
+    "security experts warn",
     "twitter whistleblower complaint",
     "smart app control",
     "openbsd 7 9",
@@ -18,6 +17,7 @@
     "multiple telecommunications companies",
     "experts say serves",
     "130 companies tangled",
+    "security bypass issue",
     "remove personal information",
     "reaches personal accounts",
     "publish personal information",
@@ -26,44 +26,44 @@
   ],
   "trending": [
     {
-      "keyword": "security experts warn",
-      "mentions": 96
-    },
-    {
       "keyword": "canadian cybersecurity firm",
-      "mentions": 29
+      "mentions": 30
     },
     {
-      "keyword": "security firm calif",
-      "mentions": 6
+      "keyword": "security experts warn",
+      "mentions": 97
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2790
+      "mentions": 2791
     },
     {
       "keyword": "smart app control",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "openbsd 7 9",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "hacker handle rey",
-      "mentions": 39
+      "mentions": 40
     },
     {
       "keyword": "execute code remotely",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "approved enterprise workspace",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "aomei backupper fetches",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "agents escape containment",
+      "mentions": 3
     }
   ],
   "articles": [
@@ -89,7 +89,7 @@
       "source": "The Hacker News",
       "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
       "link": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
-      "summary": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardware protections. Security firm Calif, which found and reported the flaws, published a detailed writeup and full proof-of-concept code after OpenBSD shipped",
+      "summary": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardware protections.Security firm Calif, which found and reported the flaws, published a detailed writeup and full proof-of-concept code after OpenBSD shipped",
       "published": "Fri, 16 Oct 2026 23:18:45 +0530",
       "value_score": 28,
       "value_signals": [

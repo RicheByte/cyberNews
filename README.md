@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-17 16:47 UTC |
+| 🕐 Last Updated | 2026-10-17 19:58 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`security experts warn` • `canadian cybersecurity firm` • `security firm calif` • `twitter whistleblower complaint` • `smart app control` • `openbsd 7 9` • `hacker handle rey` • `execute code remotely` • `approved enterprise workspace` • `aomei backupper fetches`
+`canadian cybersecurity firm` • `security experts warn` • `twitter whistleblower complaint` • `smart app control` • `openbsd 7 9` • `hacker handle rey` • `execute code remotely` • `approved enterprise workspace` • `aomei backupper fetches` • `agents escape containment`
 
 ## 📄 Reports
 

@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-10-17 13:24",
+  "last_updated": "2026-10-17 16:47",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "security experts warn",
-    "smart app control",
     "canadian cybersecurity firm",
     "security firm calif",
     "twitter whistleblower complaint",
+    "smart app control",
     "openbsd 7 9",
     "hacker handle rey",
-    "collabora online built",
+    "execute code remotely",
     "approved enterprise workspace",
     "aomei backupper fetches",
     "agents escape containment",
@@ -21,49 +21,49 @@
     "remove personal information",
     "reaches personal accounts",
     "publish personal information",
-    "ai takes control",
-    "ai soc platforms"
+    "content management system",
+    "ai takes control"
   ],
   "trending": [
     {
       "keyword": "security experts warn",
-      "mentions": 95
-    },
-    {
-      "keyword": "smart app control",
-      "mentions": 6
+      "mentions": 96
     },
     {
       "keyword": "canadian cybersecurity firm",
-      "mentions": 28
+      "mentions": 29
     },
     {
       "keyword": "security firm calif",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2789
+      "mentions": 2790
+    },
+    {
+      "keyword": "smart app control",
+      "mentions": 7
     },
     {
       "keyword": "openbsd 7 9",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "hacker handle rey",
-      "mentions": 38
+      "mentions": 39
     },
     {
-      "keyword": "collabora online built",
-      "mentions": 8
+      "keyword": "execute code remotely",
+      "mentions": 2
     },
     {
       "keyword": "approved enterprise workspace",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "aomei backupper fetches",
-      "mentions": 5
+      "mentions": 6
     }
   ],
   "articles": [
@@ -153,6 +153,30 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
+      "summary": "ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants. [...]",
+      "published": "Sat, 17 Oct 2026 11:18:51 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
+      "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
+      "summary": "Drupal has patched two critical vulnerabilities that could allow attackers to execute code remotely on websites running any supported version of the content management system. [...]",
+      "published": "Sat, 17 Oct 2026 10:32:48 -0400",
+      "value_score": 52,
+      "value_signals": [
+        "RCE",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
       "link": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
       "summary": "Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on store servers. [...]",
@@ -212,35 +236,6 @@
       "published": "Fri, 16 Oct 2026 03:37:35 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "BeyondTrust patches zero-day exploited in attacks since August",
-      "link": "https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/",
-      "summary": "BeyondTrust warned customers on Thursday to patch a critical flaw in its Remote Support (RS) that has been exploited in zero-day attacks since late August. [...]",
-      "published": "Fri, 16 Oct 2026 02:18:08 -0400",
-      "value_score": 82,
-      "value_signals": [
-        "Zero-day ×2",
-        "Patch/update",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
-      "summary": "Threat actors are exploiting a critical command execution flaw, now tracked as CVE-2026-110447, in the Collabora Online - Built-in CODE Server app (richdocumentscode) for Nextcloud. [...]",
-      "published": "Thu, 15 Oct 2026 16:25:04 -0400",
-      "value_score": 74,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE",
-        "Backdoor",
-        "High severity",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",

@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-10-17 02:39",
+  "last_updated": "2026-10-17 08:11",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "smart app control",
     "security experts warn",
+    "smart app control",
     "canadian cybersecurity firm",
+    "security firm calif",
     "twitter whistleblower complaint",
     "openbsd 7 9",
     "multiple telecommunications companies",
     "hacker handle rey",
     "approved enterprise workspace",
     "aomei backupper fetches",
-    "amman jordan suspected",
     "130 companies tangled",
-    "security firm calif",
     "ransomware negotiator works",
     "tested online reached",
     "experts say serves",
@@ -22,51 +21,61 @@
     "ai takes control",
     "ai soc platforms",
     "remove personal information",
-    "reaches personal accounts"
+    "reaches personal accounts",
+    "publish personal information"
   ],
   "trending": [
     {
-      "keyword": "smart app control",
-      "mentions": 4
+      "keyword": "security experts warn",
+      "mentions": 94
     },
     {
-      "keyword": "security experts warn",
-      "mentions": 93
+      "keyword": "smart app control",
+      "mentions": 5
     },
     {
       "keyword": "canadian cybersecurity firm",
-      "mentions": 26
+      "mentions": 27
+    },
+    {
+      "keyword": "security firm calif",
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2787
+      "mentions": 2788
     },
     {
       "keyword": "openbsd 7 9",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "multiple telecommunications companies",
-      "mentions": 24
+      "mentions": 25
     },
     {
       "keyword": "hacker handle rey",
-      "mentions": 36
+      "mentions": 37
     },
     {
       "keyword": "approved enterprise workspace",
-      "mentions": 2
-    },
-    {
-      "keyword": "aomei backupper fetches",
       "mentions": 3
     },
     {
-      "keyword": "amman jordan suspected",
-      "mentions": 5
+      "keyword": "aomei backupper fetches",
+      "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
+      "link": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
+      "summary": "Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud Backup (formerly SkyKick) to gain unauthorized access to customers' M365 environments. ConnectWise Cloud Backup is a cloud-based backup and recovery service built for managed service providers (MSPs",
+      "published": "Sat, 17 Oct 2026 11:46:46 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
@@ -141,18 +150,6 @@
       "published": "Fri, 16 Oct 2026 12:23:09 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions",
-      "link": "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html",
-      "summary": "A suspected advanced threat actor has been observed exploiting a security flaw in Fortinet FortiOS to deliver a previously unreported memory-resident ARM64 malware known as PEERSTITCH. The attack involves the exploitation of CVE-2025-61624 (CVSS score: 5.4), a path traversal flaw in the command line interpreter of FortiOS, FortiPAM, FortiProxy, and FortiSwitchManager that could allow a",
-      "published": "Fri, 16 Oct 2026 10:29:36 +0530",
-      "value_score": 34,
-      "value_signals": [
-        "CVE mentioned",
-        "Exploit wording"
-      ]
     },
     {
       "source": "BleepingComputer",

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-17 02:39 UTC |
+| 🕐 Last Updated | 2026-10-17 08:11 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`smart app control` • `security experts warn` • `canadian cybersecurity firm` • `twitter whistleblower complaint` • `openbsd 7 9` • `multiple telecommunications companies` • `hacker handle rey` • `approved enterprise workspace` • `aomei backupper fetches` • `amman jordan suspected`
+`security experts warn` • `smart app control` • `canadian cybersecurity firm` • `security firm calif` • `twitter whistleblower complaint` • `openbsd 7 9` • `multiple telecommunications companies` • `hacker handle rey` • `approved enterprise workspace` • `aomei backupper fetches`
 
 ## 📄 Reports
 

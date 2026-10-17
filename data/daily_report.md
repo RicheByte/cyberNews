@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-10-17 02:39 UTC  
+> **Last Updated:** 2026-10-17 08:11 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**smart app control** • **security experts warn** • **canadian cybersecurity firm** • **twitter whistleblower complaint** • **openbsd 7 9** • **multiple telecommunications companies** • **hacker handle rey** • **approved enterprise workspace** • **aomei backupper fetches** • **amman jordan suspected** • **130 companies tangled** • **security firm calif** • **ransomware negotiator works** • **tested online reached** • **experts say serves** • **collabora online built** • **ai takes control** • **ai soc platforms** • **remove personal information** • **reaches personal accounts**
+**security experts warn** • **smart app control** • **canadian cybersecurity firm** • **security firm calif** • **twitter whistleblower complaint** • **openbsd 7 9** • **multiple telecommunications companies** • **hacker handle rey** • **approved enterprise workspace** • **aomei backupper fetches** • **130 companies tangled** • **ransomware negotiator works** • **tested online reached** • **experts say serves** • **collabora online built** • **ai takes control** • **ai soc platforms** • **remove personal information** • **reaches personal accounts** • **publish personal information**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants](https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html)
 - [Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug](https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html)
 - [Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor](https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html)
 - [UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing](https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html)
@@ -23,7 +24,6 @@
 - [AI Decision Models and Their Impact on AI SOC Platforms](https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html)
 - [China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers](https://thehackernews.com/2026/10/china-linked-hackers-exploited.html)
 - [CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing](https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html)
-- [PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions](https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html)
 
 ### BleepingComputer
 

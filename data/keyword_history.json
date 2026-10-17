@@ -350,7 +350,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2787,
+      "count": 2788,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2866,7 +2866,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 443,
+      "count": 444,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -20493,7 +20493,7 @@
       ]
     },
     "security experts warn": {
-      "count": 93,
+      "count": 94,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -32076,7 +32076,7 @@
       ]
     },
     "multiple telecommunications companies": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-09-25",
         "2026-09-26",
@@ -32784,7 +32784,7 @@
       ]
     },
     "remove personal information": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-10-02",
         "2026-10-03",
@@ -33165,7 +33165,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33507,18 +33507,19 @@
       ]
     },
     "publish personal information": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-10-10",
         "2026-10-11",
         "2026-10-12",
         "2026-10-13",
         "2026-10-14",
-        "2026-10-15"
+        "2026-10-15",
+        "2026-10-17"
       ]
     },
     "canadian cybersecurity firm": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -33990,7 +33991,7 @@
       ]
     },
     "experts say serves": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-10-15",
         "2026-10-16",
@@ -33998,7 +33999,7 @@
       ]
     },
     "collabora online built": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-10-15",
         "2026-10-16",
@@ -34032,35 +34033,35 @@
       ]
     },
     "smart app control": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-10-16",
         "2026-10-17"
       ]
     },
     "tested online reached": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-10-16",
         "2026-10-17"
       ]
     },
     "ransomware negotiator works": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-10-16",
         "2026-10-17"
       ]
     },
     "openbsd 7 9": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-16",
         "2026-10-17"
       ]
     },
     "aomei backupper fetches": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-16",
         "2026-10-17"
@@ -34073,35 +34074,35 @@
       ]
     },
     "security firm calif": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-16",
         "2026-10-17"
       ]
     },
     "approved enterprise workspace": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-16",
         "2026-10-17"
       ]
     },
     "ai takes control": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-16",
         "2026-10-17"
       ]
     },
     "ai soc platforms": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-16",
         "2026-10-17"
       ]
     },
     "reaches personal accounts": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-16",
         "2026-10-17"
@@ -34109,17 +34110,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-23 19:23",
-      "articles": 48,
-      "top_keywords": [
-        "arbitrary code execution",
-        "mikrotik routers without",
-        "causing harm emerging",
-        "frontier ai models",
-        "ryuk ransomware attacks"
-      ]
-    },
     {
       "timestamp": "2026-09-23 22:37",
       "articles": 48,
@@ -35207,6 +35197,17 @@
         "canadian cybersecurity firm",
         "twitter whistleblower complaint",
         "openbsd 7 9"
+      ]
+    },
+    {
+      "timestamp": "2026-10-17 08:11",
+      "articles": 48,
+      "top_keywords": [
+        "security experts warn",
+        "smart app control",
+        "canadian cybersecurity firm",
+        "security firm calif",
+        "twitter whistleblower complaint"
       ]
     }
   ]

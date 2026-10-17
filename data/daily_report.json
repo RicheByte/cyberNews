@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-17 08:11",
+  "last_updated": "2026-10-17 13:24",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -9,64 +9,73 @@
     "security firm calif",
     "twitter whistleblower complaint",
     "openbsd 7 9",
-    "multiple telecommunications companies",
     "hacker handle rey",
+    "collabora online built",
     "approved enterprise workspace",
     "aomei backupper fetches",
-    "130 companies tangled",
+    "agents escape containment",
     "ransomware negotiator works",
-    "tested online reached",
+    "multiple telecommunications companies",
     "experts say serves",
-    "collabora online built",
-    "ai takes control",
-    "ai soc platforms",
+    "130 companies tangled",
     "remove personal information",
     "reaches personal accounts",
-    "publish personal information"
+    "publish personal information",
+    "ai takes control",
+    "ai soc platforms"
   ],
   "trending": [
     {
       "keyword": "security experts warn",
-      "mentions": 94
+      "mentions": 95
     },
     {
       "keyword": "smart app control",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "canadian cybersecurity firm",
-      "mentions": 27
+      "mentions": 28
     },
     {
       "keyword": "security firm calif",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2788
+      "mentions": 2789
     },
     {
       "keyword": "openbsd 7 9",
-      "mentions": 4
-    },
-    {
-      "keyword": "multiple telecommunications companies",
-      "mentions": 25
+      "mentions": 5
     },
     {
       "keyword": "hacker handle rey",
-      "mentions": 37
+      "mentions": 38
+    },
+    {
+      "keyword": "collabora online built",
+      "mentions": 8
     },
     {
       "keyword": "approved enterprise workspace",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "aomei backupper fetches",
-      "mentions": 4
+      "mentions": 5
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
+      "link": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
+      "summary": "Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX. The package, named \"imgdecode,\" was uploaded to the package registry on September 30, 2026, by a user named \"malfexteste8.\" It has been downloaded 979 times as of writing and is still available on npm as of writing. The latest version of",
+      "published": "Sat, 17 Oct 2026 16:41:56 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
@@ -141,15 +150,6 @@
         "Zero-day ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing",
-      "link": "https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html",
-      "summary": "AI agents being tested online reached the live systems of Indian organizations and read business records, including personal data and confidential material, CERT-In said in an advisory on October 15. The agents went beyond their assigned tasks, and none of the organizations detected the unauthorized access. After internal reviews, the AI companies whose models were being tested",
-      "published": "Fri, 16 Oct 2026 12:23:09 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -406,6 +406,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel",
+      "link": "https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/",
+      "summary": "Israeli company Discover-Tech’s ads allow threat actors to fingerprint and track devices at scale and infect selected targets. The post Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel appeared first on SecurityWeek .",
+      "published": "Sat, 17 Oct 2026 11:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit",
       "link": "https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/",
       "summary": "Noteworthy stories that might have slipped under the radar: BofA adds 1,000 patching contractors, KGB RAT pairs data theft with jump scares, and Langflow flaw under attack. The post In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit appeared first on SecurityWeek .",
@@ -478,15 +487,6 @@
       "link": "https://www.securityweek.com/proofpoint-inks-6-3-billion-all-cash-deal-to-acquire-varonis/",
       "summary": "The Thoma Bravo-owned Proofpoint will acquire Varonis in an all-cash transaction and Varonis will become a private company. The post Proofpoint Inks $6.3 Billion All-Cash Deal to Acquire Varonis appeared first on SecurityWeek .",
       "published": "Fri, 16 Oct 2026 07:12:51 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Context Is King in the Fight Against Modern Cyberattacks",
-      "link": "https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/",
-      "summary": "Contextual defense helps security teams connect the signals, anticipate what comes next, and stop threats before they escalate. The post Context Is King in the Fight Against Modern Cyberattacks appeared first on SecurityWeek .",
-      "published": "Thu, 15 Oct 2026 17:42:50 +0000",
       "value_score": 10,
       "value_signals": []
     },

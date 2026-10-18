@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-18 13:43 UTC |
+| 🕐 Last Updated | 2026-10-18 17:02 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`canadian cybersecurity firm` • `connectwise cloud backup` • `security experts warn` • `cloud based backup` • `twitter whistleblower complaint` • `smart app control` • `openbsd 7 9` • `hacker handle rey` • `execute code remotely` • `approved enterprise workspace`
+`canadian cybersecurity firm` • `connectwise cloud backup` • `security experts warn` • `cloud based backup` • `us bankruptcy courts` • `twitter whistleblower complaint` • `smart app control` • `openbsd 7 9` • `hacker handle rey` • `approved enterprise workspace`
 
 ## 📄 Reports
 

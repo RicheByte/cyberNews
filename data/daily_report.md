@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-10-18 13:43 UTC  
+> **Last Updated:** 2026-10-18 17:02 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**canadian cybersecurity firm** • **connectwise cloud backup** • **security experts warn** • **cloud based backup** • **twitter whistleblower complaint** • **smart app control** • **openbsd 7 9** • **hacker handle rey** • **execute code remotely** • **approved enterprise workspace** • **aomei backupper fetches** • **agents escape containment** • **ransomware negotiator works** • **us bankruptcy courts** • **multiple telecommunications companies** • **experts say serves** • **130 companies tangled** • **remove personal information** • **reaches personal accounts** • **publish personal information**
+**canadian cybersecurity firm** • **connectwise cloud backup** • **security experts warn** • **cloud based backup** • **us bankruptcy courts** • **twitter whistleblower complaint** • **smart app control** • **openbsd 7 9** • **hacker handle rey** • **approved enterprise workspace** • **aomei backupper fetches** • **agents escape containment** • **ransomware negotiator works** • **multiple telecommunications companies** • **experts say serves** • **130 companies tangled** • **remove personal information** • **reaches personal accounts** • **publish personal information** • **ai takes control**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Hackers exploit SiteGuard WAF flaw to run commands as admins](https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/)
 - [Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack](https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/)
 - [Drupal patches critical RCE flaws, warns exploits may emerge soon](https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/)
 - [Critical BlockStrap flaw lets hackers run code on Magento servers](https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/)
@@ -34,7 +35,6 @@
 - [Employees using personal ChatGPT at work? Here's what IT admins need to do](https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/)
 - [Burger King Japan data breach exposes 11 million customer records](https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/)
 - [Microsoft: October Windows update may break Smart App Control](https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/)
-- [BAE Systems cyberattack disrupts US federal court operations](https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/)
 
 ### Krebs on Security
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18 13:43",
+  "last_updated": "2026-10-18 17:02",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -7,63 +7,63 @@
     "connectwise cloud backup",
     "security experts warn",
     "cloud based backup",
+    "us bankruptcy courts",
     "twitter whistleblower complaint",
     "smart app control",
     "openbsd 7 9",
     "hacker handle rey",
-    "execute code remotely",
     "approved enterprise workspace",
     "aomei backupper fetches",
     "agents escape containment",
     "ransomware negotiator works",
-    "us bankruptcy courts",
     "multiple telecommunications companies",
     "experts say serves",
     "130 companies tangled",
     "remove personal information",
     "reaches personal accounts",
-    "publish personal information"
+    "publish personal information",
+    "ai takes control"
   ],
   "trending": [
     {
       "keyword": "canadian cybersecurity firm",
-      "mentions": 34
+      "mentions": 35
     },
     {
       "keyword": "connectwise cloud backup",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "security experts warn",
-      "mentions": 101
+      "mentions": 102
     },
     {
       "keyword": "cloud based backup",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "us bankruptcy courts",
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2795
+      "mentions": 2796
     },
     {
       "keyword": "smart app control",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "openbsd 7 9",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "hacker handle rey",
-      "mentions": 44
-    },
-    {
-      "keyword": "execute code remotely",
-      "mentions": 7
+      "mentions": 45
     },
     {
       "keyword": "approved enterprise workspace",
-      "mentions": 10
+      "mentions": 11
     }
   ],
   "articles": [
@@ -149,6 +149,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
+      "summary": "Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affected servers. [...]",
+      "published": "Sun, 18 Oct 2026 10:23:16 -0400",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
       "summary": "ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants. [...]",
@@ -223,15 +234,6 @@
       "value_signals": [
         "Patch/update ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "BAE Systems cyberattack disrupts US federal court operations",
-      "link": "https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/",
-      "summary": "The Administrative Office of the US Courts says a cyberattack on government contractor BAE Systems has taken down the notice system used by federal bankruptcy courts. [...]",
-      "published": "Fri, 16 Oct 2026 03:37:35 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

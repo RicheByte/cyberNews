@@ -1,10 +1,12 @@
 {
-  "last_updated": "2026-10-18 08:29",
+  "last_updated": "2026-10-18 13:43",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "canadian cybersecurity firm",
+    "connectwise cloud backup",
     "security experts warn",
+    "cloud based backup",
     "twitter whistleblower complaint",
     "smart app control",
     "openbsd 7 9",
@@ -14,59 +16,66 @@
     "aomei backupper fetches",
     "agents escape containment",
     "ransomware negotiator works",
+    "us bankruptcy courts",
     "multiple telecommunications companies",
     "experts say serves",
     "130 companies tangled",
-    "security bypass issue",
     "remove personal information",
     "reaches personal accounts",
-    "publish personal information",
-    "content management system",
-    "ai takes control"
+    "publish personal information"
   ],
   "trending": [
     {
       "keyword": "canadian cybersecurity firm",
-      "mentions": 33
+      "mentions": 34
+    },
+    {
+      "keyword": "connectwise cloud backup",
+      "mentions": 1
     },
     {
       "keyword": "security experts warn",
-      "mentions": 100
+      "mentions": 101
+    },
+    {
+      "keyword": "cloud based backup",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2794
+      "mentions": 2795
     },
     {
       "keyword": "smart app control",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "openbsd 7 9",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "hacker handle rey",
-      "mentions": 43
+      "mentions": 44
     },
     {
       "keyword": "execute code remotely",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "approved enterprise workspace",
-      "mentions": 9
-    },
-    {
-      "keyword": "aomei backupper fetches",
       "mentions": 10
-    },
-    {
-      "keyword": "agents escape containment",
-      "mentions": 6
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
+      "link": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
+      "summary": "ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application identities and compromised Microsoft 365 tenants. The disabled identities are listed below - ConnectWise Cloud Backup - 506e08f9-6e9a-4da4-942b-a099a03644ae ConnectWise",
+      "published": "Sun, 18 Oct 2026 13:53:02 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
@@ -137,19 +146,6 @@
       "published": "Fri, 16 Oct 2026 17:00:00 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
-      "link": "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html",
-      "summary": "The China-nexus cyber espionage group tracked as Armory Castle (previously UNC5221 or Warp Panda) exploited a newly disclosed security flaw in BeyondTrust Remote Support (formerly Bomgar) as a zero-day in late August 2026. The vulnerability, tracked as CVE-2026-102764 (CVSS score: 9.3), is a case of improper origin validation in an internal messaging component that could be exploited by a",
-      "published": "Fri, 16 Oct 2026 12:25:55 +0530",
-      "value_score": 84,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -401,6 +397,15 @@
     },
     {
       "source": "Security Week",
+      "title": "US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars",
+      "link": "https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/",
+      "summary": "CyberSN’s Cybersecurity Jobs Report provides visibility into the US cybersecurity job market. It’s a mixed bag. The post US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars appeared first on SecurityWeek .",
+      "published": "Sun, 18 Oct 2026 11:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel",
       "link": "https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/",
       "summary": "Israeli company Discover-Tech’s ads allow threat actors to fingerprint and track devices at scale and infect selected targets. The post Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel appeared first on SecurityWeek .",
@@ -475,15 +480,6 @@
         "RCE ×3",
         "Patch/update"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Proofpoint Inks $6.3 Billion All-Cash Deal to Acquire Varonis",
-      "link": "https://www.securityweek.com/proofpoint-inks-6-3-billion-all-cash-deal-to-acquire-varonis/",
-      "summary": "The Thoma Bravo-owned Proofpoint will acquire Varonis in an all-cash transaction and Varonis will become a private company. The post Proofpoint Inks $6.3 Billion All-Cash Deal to Acquire Varonis appeared first on SecurityWeek .",
-      "published": "Fri, 16 Oct 2026 07:12:51 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

@@ -350,7 +350,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2794,
+      "count": 2795,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2867,7 +2867,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 450,
+      "count": 451,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -8541,7 +8541,7 @@
       ]
     },
     "execute code remotely": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-19",
         "2026-10-17",
@@ -20497,7 +20497,7 @@
       ]
     },
     "security experts warn": {
-      "count": 100,
+      "count": 101,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -32083,7 +32083,7 @@
       ]
     },
     "multiple telecommunications companies": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-09-25",
         "2026-09-26",
@@ -32792,7 +32792,7 @@
       ]
     },
     "remove personal information": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-10-02",
         "2026-10-03",
@@ -33174,7 +33174,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33517,7 +33517,7 @@
       ]
     },
     "publish personal information": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -33530,7 +33530,7 @@
       ]
     },
     "canadian cybersecurity firm": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -34003,7 +34003,7 @@
       ]
     },
     "experts say serves": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-10-15",
         "2026-10-16",
@@ -34046,7 +34046,7 @@
       ]
     },
     "smart app control": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-10-16",
         "2026-10-17",
@@ -34061,7 +34061,7 @@
       ]
     },
     "ransomware negotiator works": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-10-16",
         "2026-10-17",
@@ -34069,7 +34069,7 @@
       ]
     },
     "openbsd 7 9": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-10-16",
         "2026-10-17",
@@ -34077,7 +34077,7 @@
       ]
     },
     "aomei backupper fetches": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-10-16",
         "2026-10-17",
@@ -34098,7 +34098,7 @@
       ]
     },
     "approved enterprise workspace": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-10-16",
         "2026-10-17",
@@ -34121,7 +34121,7 @@
       ]
     },
     "reaches personal accounts": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-10-16",
         "2026-10-17",
@@ -34129,7 +34129,7 @@
       ]
     },
     "agents escape containment": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-10-17",
         "2026-10-18"
@@ -34141,20 +34141,27 @@
         "2026-10-17",
         "2026-10-18"
       ]
+    },
+    "connectwise cloud backup": {
+      "count": 1,
+      "dates": [
+        "2026-10-18"
+      ]
+    },
+    "cloud based backup": {
+      "count": 1,
+      "dates": [
+        "2026-10-18"
+      ]
+    },
+    "us bankruptcy courts": {
+      "count": 1,
+      "dates": [
+        "2026-10-18"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-25 03:03",
-      "articles": 48,
-      "top_keywords": [
-        "kontext security emerges",
-        "australian government portal",
-        "agent reached files",
-        "twitter whistleblower complaint",
-        "serves malicious content"
-      ]
-    },
     {
       "timestamp": "2026-09-25 09:17",
       "articles": 48,
@@ -35242,6 +35249,17 @@
         "twitter whistleblower complaint",
         "smart app control",
         "openbsd 7 9"
+      ]
+    },
+    {
+      "timestamp": "2026-10-18 13:43",
+      "articles": 48,
+      "top_keywords": [
+        "canadian cybersecurity firm",
+        "connectwise cloud backup",
+        "security experts warn",
+        "cloud based backup",
+        "twitter whistleblower complaint"
       ]
     }
   ]

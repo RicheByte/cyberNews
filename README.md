@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-19 09:30 UTC |
+| 🕐 Last Updated | 2026-10-19 16:44 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`canadian cybersecurity firm` • `security experts warn` • `taiwan research organizations` • `us bankruptcy courts` • `twitter whistleblower complaint` • `recovery service built` • `openbsd 7 9` • `hacker handle rey` • `cloud based backup` • `aomei backupper fetches`
+`stealthy fortigate implant` • `exploit paths exist` • `twitter whistleblower complaint` • `service everyone trusts` • `manipulate search results` • `hacker handle rey` • `canadian cybersecurity firm` • `ransomware negotiator works` • `remove personal information` • `range run code`
 
 ## 📄 Reports
 

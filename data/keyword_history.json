@@ -350,7 +350,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2800,
+      "count": 2801,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2868,7 +2868,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 456,
+      "count": 457,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -8543,11 +8543,12 @@
       ]
     },
     "execute code remotely": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-19",
         "2026-10-17",
-        "2026-10-18"
+        "2026-10-18",
+        "2026-10-19"
       ]
     },
     "missing something crucial": {
@@ -32796,7 +32797,7 @@
       ]
     },
     "remove personal information": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-10-02",
         "2026-10-03",
@@ -33179,7 +33180,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 49,
+      "count": 50,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33493,7 +33494,7 @@
       ]
     },
     "prolific data theft": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -33524,7 +33525,7 @@
       ]
     },
     "publish personal information": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -33538,7 +33539,7 @@
       ]
     },
     "canadian cybersecurity firm": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -34072,7 +34073,7 @@
       ]
     },
     "ransomware negotiator works": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-10-16",
         "2026-10-17",
@@ -34198,20 +34199,75 @@
       "dates": [
         "2026-10-19"
       ]
+    },
+    "stealthy fortigate implant": {
+      "count": 1,
+      "dates": [
+        "2026-10-19"
+      ]
+    },
+    "exploit paths exist": {
+      "count": 1,
+      "dates": [
+        "2026-10-19"
+      ]
+    },
+    "service everyone trusts": {
+      "count": 1,
+      "dates": [
+        "2026-10-19"
+      ]
+    },
+    "manipulate search results": {
+      "count": 1,
+      "dates": [
+        "2026-10-19"
+      ]
+    },
+    "range run code": {
+      "count": 1,
+      "dates": [
+        "2026-10-19"
+      ]
+    },
+    "fake web3 accelerator": {
+      "count": 1,
+      "dates": [
+        "2026-10-19"
+      ]
+    },
+    "services remain unavailable": {
+      "count": 1,
+      "dates": [
+        "2026-10-19"
+      ]
+    },
+    "live verification services": {
+      "count": 1,
+      "dates": [
+        "2026-10-19"
+      ]
+    },
+    "vendor program oversight": {
+      "count": 1,
+      "dates": [
+        "2026-10-19"
+      ]
+    },
+    "user named malfexteste8": {
+      "count": 1,
+      "dates": [
+        "2026-10-19"
+      ]
+    },
+    "trusted connections became": {
+      "count": 1,
+      "dates": [
+        "2026-10-19"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-26 08:59",
-      "articles": 48,
-      "top_keywords": [
-        "roundcube webmail vulnerability",
-        "north korea suspected",
-        "windows operating systems",
-        "free usage credits",
-        "attackers crosshairs tracked"
-      ]
-    },
     {
       "timestamp": "2026-09-26 14:00",
       "articles": 48,
@@ -35299,6 +35355,17 @@
         "taiwan research organizations",
         "us bankruptcy courts",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-10-19 16:44",
+      "articles": 48,
+      "top_keywords": [
+        "stealthy fortigate implant",
+        "exploit paths exist",
+        "twitter whistleblower complaint",
+        "service everyone trusts",
+        "manipulate search results"
       ]
     }
   ]

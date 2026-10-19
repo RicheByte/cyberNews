@@ -350,7 +350,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2799,
+      "count": 2800,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2868,7 +2868,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 455,
+      "count": 456,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -20499,7 +20499,7 @@
       ]
     },
     "security experts warn": {
-      "count": 105,
+      "count": 106,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -32086,7 +32086,7 @@
       ]
     },
     "multiple telecommunications companies": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-09-25",
         "2026-09-26",
@@ -32796,7 +32796,7 @@
       ]
     },
     "remove personal information": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-10-02",
         "2026-10-03",
@@ -33179,7 +33179,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 48,
+      "count": 49,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33493,7 +33493,7 @@
       ]
     },
     "prolific data theft": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -33501,7 +33501,8 @@
         "2026-10-12",
         "2026-10-13",
         "2026-10-14",
-        "2026-10-15"
+        "2026-10-15",
+        "2026-10-19"
       ]
     },
     "suspected shinyhunters operative": {
@@ -33523,7 +33524,7 @@
       ]
     },
     "publish personal information": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -33537,7 +33538,7 @@
       ]
     },
     "canadian cybersecurity firm": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -34011,7 +34012,7 @@
       ]
     },
     "experts say serves": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-10-15",
         "2026-10-16",
@@ -34071,7 +34072,7 @@
       ]
     },
     "ransomware negotiator works": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-10-16",
         "2026-10-17",
@@ -34080,7 +34081,7 @@
       ]
     },
     "openbsd 7 9": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-10-16",
         "2026-10-17",
@@ -34089,7 +34090,7 @@
       ]
     },
     "aomei backupper fetches": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-10-16",
         "2026-10-17",
@@ -34136,7 +34137,7 @@
       ]
     },
     "reaches personal accounts": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-10-16",
         "2026-10-17",
@@ -34145,7 +34146,7 @@
       ]
     },
     "agents escape containment": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-10-17",
         "2026-10-18",
@@ -34167,32 +34168,39 @@
       ]
     },
     "cloud based backup": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-10-18",
         "2026-10-19"
       ]
     },
     "us bankruptcy courts": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-10-18",
+        "2026-10-19"
+      ]
+    },
+    "taiwan research organizations": {
+      "count": 1,
+      "dates": [
+        "2026-10-19"
+      ]
+    },
+    "recovery service built": {
+      "count": 1,
+      "dates": [
+        "2026-10-19"
+      ]
+    },
+    "mail flow microsoft": {
+      "count": 1,
+      "dates": [
         "2026-10-19"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-26 03:07",
-      "articles": 48,
-      "top_keywords": [
-        "roundcube webmail vulnerability",
-        "north korea suspected",
-        "windows operating systems",
-        "free usage credits",
-        "attackers crosshairs tracked"
-      ]
-    },
     {
       "timestamp": "2026-09-26 08:59",
       "articles": 48,
@@ -35280,6 +35288,17 @@
         "security experts warn",
         "cloud based backup",
         "us bankruptcy courts"
+      ]
+    },
+    {
+      "timestamp": "2026-10-19 09:30",
+      "articles": 48,
+      "top_keywords": [
+        "canadian cybersecurity firm",
+        "security experts warn",
+        "taiwan research organizations",
+        "us bankruptcy courts",
+        "twitter whistleblower complaint"
       ]
     }
   ]

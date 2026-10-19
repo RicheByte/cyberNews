@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-10-19 02:54 UTC  
+> **Last Updated:** 2026-10-19 09:30 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**canadian cybersecurity firm** • **connectwise cloud backup** • **security experts warn** • **cloud based backup** • **us bankruptcy courts** • **twitter whistleblower complaint** • **smart app control** • **openbsd 7 9** • **hacker handle rey** • **approved enterprise workspace** • **aomei backupper fetches** • **agents escape containment** • **ransomware negotiator works** • **multiple telecommunications companies** • **experts say serves** • **130 companies tangled** • **remove personal information** • **reaches personal accounts** • **publish personal information** • **ai takes control**
+**canadian cybersecurity firm** • **security experts warn** • **taiwan research organizations** • **us bankruptcy courts** • **twitter whistleblower complaint** • **recovery service built** • **openbsd 7 9** • **hacker handle rey** • **cloud based backup** • **aomei backupper fetches** • **agents escape containment** • **ransomware negotiator works** • **multiple telecommunications companies** • **experts say serves** • **130 companies tangled** • **remove personal information** • **reaches personal accounts** • **publish personal information** • **mail flow microsoft** • **prolific data theft**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers](https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html)
+- [OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys](https://thehackernews.com/2026/10/opencode-console-breach-may-have.html)
 - [ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants](https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html)
 - [MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon](https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html)
 - [Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants](https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html)
 - [Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug](https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html)
 - [Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor](https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html)
 - [UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing](https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html)
-- [OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract](https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html)
-- [AI Decision Models and Their Impact on AI SOC Platforms](https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html)
 
 ### BleepingComputer
 
+- [Microsoft: October Windows Server updates break Exchange sign-in, mail flow](https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/)
 - [Hackers exploit SiteGuard WAF flaw to run commands as admins](https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/)
 - [Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack](https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/)
 - [Drupal patches critical RCE flaws, warns exploits may emerge soon](https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/)
@@ -34,7 +35,6 @@
 - [Targeted ads installed Candiru spyware in zero-click attacks](https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/)
 - [Employees using personal ChatGPT at work? Here's what IT admins need to do](https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/)
 - [Burger King Japan data breach exposes 11 million customer records](https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/)
-- [Microsoft: October Windows update may break Smart App Control](https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Anthropic Acquires Confidential AI Startup Opaque Systems](https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/)
 - [US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars](https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/)
 - [Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel](https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/)
 - [In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit](https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/)
@@ -67,7 +68,6 @@
 - [Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day](https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/)
 - [OpenAI Models Hacked Data Portals, Raided a Crypto Wallet to Finish Tasks](https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/)
 - [F5, Juniper Networks Patch Critical Vulnerabilities](https://www.securityweek.com/f5-juniper-networks-patch-critical-vulnerabilities/)
-- [Microsoft Patches Two Dozen RCE Flaws in Office](https://www.securityweek.com/microsoft-patches-two-dozen-rce-flaws-in-office/)
 
 ### Threatpost
 

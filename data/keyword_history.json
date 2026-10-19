@@ -350,7 +350,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2801,
+      "count": 2802,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -32797,7 +32797,7 @@
       ]
     },
     "remove personal information": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-10-02",
         "2026-10-03",
@@ -33159,10 +33159,11 @@
       ]
     },
     "deploy cryptocurrency miners": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-07",
-        "2026-10-08"
+        "2026-10-08",
+        "2026-10-19"
       ]
     },
     "llm workers reach": {
@@ -33180,7 +33181,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 50,
+      "count": 51,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33494,7 +33495,7 @@
       ]
     },
     "prolific data theft": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -33525,7 +33526,7 @@
       ]
     },
     "publish personal information": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -33539,7 +33540,7 @@
       ]
     },
     "canadian cybersecurity firm": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -34201,49 +34202,49 @@
       ]
     },
     "stealthy fortigate implant": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-19"
       ]
     },
     "exploit paths exist": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-19"
       ]
     },
     "service everyone trusts": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-19"
       ]
     },
     "manipulate search results": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-19"
       ]
     },
     "range run code": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-19"
       ]
     },
     "fake web3 accelerator": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-19"
       ]
     },
     "services remain unavailable": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-19"
       ]
     },
     "live verification services": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-19"
       ]
@@ -34261,6 +34262,30 @@
       ]
     },
     "trusted connections became": {
+      "count": 2,
+      "dates": [
+        "2026-10-19"
+      ]
+    },
+    "rank math pro": {
+      "count": 1,
+      "dates": [
+        "2026-10-19"
+      ]
+    },
+    "system wide outage": {
+      "count": 1,
+      "dates": [
+        "2026-10-19"
+      ]
+    },
+    "online alias boredhackerblog": {
+      "count": 1,
+      "dates": [
+        "2026-10-19"
+      ]
+    },
+    "install crypto miners": {
       "count": 1,
       "dates": [
         "2026-10-19"
@@ -34268,17 +34293,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-26 14:00",
-      "articles": 48,
-      "top_keywords": [
-        "north korea suspected",
-        "create administrator accounts",
-        "free usage credits",
-        "code injection vulnerability",
-        "received threat intelligence"
-      ]
-    },
     {
       "timestamp": "2026-09-26 18:55",
       "articles": 48,
@@ -35366,6 +35380,17 @@
         "twitter whistleblower complaint",
         "service everyone trusts",
         "manipulate search results"
+      ]
+    },
+    {
+      "timestamp": "2026-10-19 21:55",
+      "articles": 48,
+      "top_keywords": [
+        "stealthy fortigate implant",
+        "rank math pro",
+        "range run code",
+        "deploy cryptocurrency miners",
+        "twitter whistleblower complaint"
       ]
     }
   ]

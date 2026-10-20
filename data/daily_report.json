@@ -1,10 +1,9 @@
 {
-  "last_updated": "2026-10-20 18:15",
+  "last_updated": "2026-10-20 22:53",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "authentication bypass flaw",
-    "aomei backupper compromised",
     "stealing mobile call",
     "hacker handle rey",
     "twitter whistleblower complaint",
@@ -12,61 +11,71 @@
     "hosting provider ovhcloud",
     "concept poc exploit",
     "chameleonic cryptocurrency platform",
-    "canadian cybersecurity firm",
-    "backdoor called hookedge",
+    "321 810 accounts",
     "treat ai agents",
-    "publish personal information",
+    "aomei backupper compromised",
+    "extortion group shinyhunters",
+    "php security team",
+    "addressing security risk",
     "tame wild code",
-    "services whose certificates",
     "execute unauthorized code",
     "arbitrary code execution",
     "ai assisted workflow",
     "ai adoption scale",
-    "addressing security risk"
+    "windows server 2025"
   ],
   "trending": [
     {
       "keyword": "authentication bypass flaw",
-      "mentions": 51
-    },
-    {
-      "keyword": "aomei backupper compromised",
-      "mentions": 1
+      "mentions": 52
     },
     {
       "keyword": "stealing mobile call",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "hacker handle rey",
-      "mentions": 55
+      "mentions": 56
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2806
+      "mentions": 2807
     },
     {
       "keyword": "manipulate search results",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "hosting provider ovhcloud",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "concept poc exploit",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "chameleonic cryptocurrency platform",
+      "mentions": 2
+    },
+    {
+      "keyword": "321 810 accounts",
       "mentions": 1
     },
     {
-      "keyword": "canadian cybersecurity firm",
-      "mentions": 45
+      "keyword": "treat ai agents",
+      "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
+      "link": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
+      "summary": "The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised, Mozilla and Google's Chrome Root Program confirms on October 20. An intermediate CA signs the certificates that websites present, so anyone holding one of these keys could issue a certificate for any website that a browser would accept. A researcher reported the",
+      "published": "Tue, 20 Oct 2026 22:39:53 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
@@ -148,14 +157,25 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader",
-      "link": "https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html",
-      "summary": "The Russia-linked state-sponsored threat actor tracked as APT28 (aka BlueDelta, Fancy Bear, and Forest Blizzard) has been attributed to attacks targeting two member states of the North Atlantic Treaty Organization (NATO). The Symantec Threat Hunter Team, which is tracking the activity cluster under the moniker Swallowtail, involved the use of a backdoor called HOOKEDGE and a previously",
-      "published": "Tue, 20 Oct 2026 16:36:25 +0530",
+      "source": "BleepingComputer",
+      "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
+      "link": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
+      "summary": "The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead of their scheduled disclosure. [...]",
+      "published": "Tue, 20 Oct 2026 16:56:43 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Zeabur shutting down after second security breach in two months",
+      "link": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
+      "summary": "Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over 3.2 million environment variable records and information for 321,810 accounts. [...]",
+      "published": "Tue, 20 Oct 2026 15:33:02 -0400",
       "value_score": 22,
       "value_signals": [
-        "Backdoor"
+        "Breach/leak"
       ]
     },
     {
@@ -211,24 +231,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/",
       "summary": "French cloud and hosting provider OVHcloud is warning users that attackers compromised its open-source command-line interface (CLI) tool to distribute information-stealing malware. [...]",
       "published": "Tue, 20 Oct 2026 07:31:22 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Ahold Delhaize: Cyberattack affects services across US and Europe",
-      "link": "https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/",
-      "summary": "Ahold Delhaize, one of the world's largest food retail chains, confirmed that last week's cyberattack disrupted services at stores across Europe and the United States. [...]",
-      "published": "Tue, 20 Oct 2026 07:18:35 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Revolut outage disrupts online banking operations worldwide",
-      "link": "https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/",
-      "summary": "Fintech company Revolut is working to resolve a massive outage that disrupted most of its services worldwide earlier today. [...]",
-      "published": "Tue, 20 Oct 2026 05:46:44 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -316,6 +318,24 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys",
+      "link": "https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys",
+      "summary": "Google, Mozilla, Apple, the Go project and others moved swiftly to block the affected certificates from the Indian CA, though it's unclear how the keys were compromised.",
+      "published": "Tue, 20 Oct 2026 21:45:47 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Ex-OpenAI Engineer Detained After Planting Secret Recorder at HQ",
+      "link": "https://www.darkreading.com/insider-threats/ex-openai-engineer-secret-recorder-saudi-ties",
+      "summary": "The perp, who has Saudi ties, was arrested for allegedly bugging an OpenAI conference room, highlighting a preventable insider threat vector.",
+      "published": "Tue, 20 Oct 2026 19:16:49 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Close Identity Gaps in Software Development Before Unleashing AI",
       "link": "https://www.darkreading.com/application-security/close-identity-gaps-sdlc-before-ai",
       "summary": "Artificial Intelligence is complicating security in the software development lifecycle, but a Dark Reading roundtable found collaboration, better identity visibility, and reduced testing costs offer CISOs a way ahead.",
@@ -369,27 +389,6 @@
       "published": "Mon, 19 Oct 2026 14:28:11 GMT",
       "value_score": 16,
       "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "The Evolving Cybersecurity Lexicon: Vulnerability Discovery to Resilience",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/cybersecurity-lexicon-vulnerability-discovery-resilience",
-      "summary": "An industry-wide laser focus on vulnerabilities has left cybersecurity teams without enough room to strategize for resilience.",
-      "published": "Mon, 19 Oct 2026 14:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs",
-      "link": "https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs",
-      "summary": "Ivanti, Cisco, and Palo Alto Networks all had vulnerabilities in edge devices come under fire this week. Now BeyondTrust joins the group.",
-      "published": "Fri, 16 Oct 2026 20:34:37 GMT",
-      "value_score": 41,
-      "value_signals": [
-        "Zero-day",
         "Exploit wording"
       ]
     },

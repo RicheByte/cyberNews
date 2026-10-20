@@ -351,7 +351,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2806,
+      "count": 2807,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2451,7 +2451,7 @@
       ]
     },
     "authentication bypass flaw": {
-      "count": 51,
+      "count": 52,
       "dates": [
         "2025-12-31",
         "2026-01-01",
@@ -3262,7 +3262,7 @@
       ]
     },
     "concept poc exploit": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-01-08",
         "2026-01-09",
@@ -3517,7 +3517,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 358,
+      "count": 359,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -14193,9 +14193,10 @@
       ]
     },
     "windows server 2025": {
-      "count": 6,
+      "count": 7,
       "dates": [
-        "2026-04-15"
+        "2026-04-15",
+        "2026-10-20"
       ]
     },
     "foreigners calls texts": {
@@ -30576,7 +30577,7 @@
       ]
     },
     "ai assisted workflow": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-09-11",
         "2026-09-12",
@@ -32380,7 +32381,7 @@
       ]
     },
     "stealing mobile call": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-09-29",
         "2026-10-12",
@@ -33153,7 +33154,7 @@
       ]
     },
     "extortion group shinyhunters": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33164,7 +33165,8 @@
         "2026-10-13",
         "2026-10-14",
         "2026-10-15",
-        "2026-10-16"
+        "2026-10-16",
+        "2026-10-20"
       ]
     },
     "deploy cryptocurrency miners": {
@@ -33191,7 +33193,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 55,
+      "count": 56,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -34238,7 +34240,7 @@
       ]
     },
     "manipulate search results": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-10-19",
         "2026-10-20"
@@ -34338,7 +34340,7 @@
       ]
     },
     "treat ai agents": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-20"
       ]
@@ -34368,25 +34370,25 @@
       ]
     },
     "tame wild code": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-20"
       ]
     },
     "aomei backupper compromised": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-20"
       ]
     },
     "hosting provider ovhcloud": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-20"
       ]
     },
     "chameleonic cryptocurrency platform": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-20"
       ]
@@ -34398,18 +34400,30 @@
       ]
     },
     "execute unauthorized code": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-20"
       ]
     },
     "ai adoption scale": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-20"
       ]
     },
     "addressing security risk": {
+      "count": 2,
+      "dates": [
+        "2026-10-20"
+      ]
+    },
+    "321 810 accounts": {
+      "count": 1,
+      "dates": [
+        "2026-10-20"
+      ]
+    },
+    "php security team": {
       "count": 1,
       "dates": [
         "2026-10-20"
@@ -34417,17 +34431,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-27 14:57",
-      "articles": 48,
-      "top_keywords": [
-        "north korea suspected",
-        "received threat intelligence",
-        "office 2019 installations",
-        "fixing zero visibility",
-        "wallet addresses linked"
-      ]
-    },
     {
       "timestamp": "2026-09-27 19:27",
       "articles": 48,
@@ -35515,6 +35518,17 @@
         "stealing mobile call",
         "hacker handle rey",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-10-20 22:53",
+      "articles": 48,
+      "top_keywords": [
+        "authentication bypass flaw",
+        "stealing mobile call",
+        "hacker handle rey",
+        "twitter whistleblower complaint",
+        "manipulate search results"
       ]
     }
   ]

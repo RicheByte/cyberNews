@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-20 18:15 UTC |
+| 🕐 Last Updated | 2026-10-20 22:53 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`authentication bypass flaw` • `aomei backupper compromised` • `stealing mobile call` • `hacker handle rey` • `twitter whistleblower complaint` • `manipulate search results` • `hosting provider ovhcloud` • `concept poc exploit` • `chameleonic cryptocurrency platform` • `canadian cybersecurity firm`
+`authentication bypass flaw` • `stealing mobile call` • `hacker handle rey` • `twitter whistleblower complaint` • `manipulate search results` • `hosting provider ovhcloud` • `concept poc exploit` • `chameleonic cryptocurrency platform` • `321 810 accounts` • `treat ai agents`
 
 ## 📄 Reports
 

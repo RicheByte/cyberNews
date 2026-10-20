@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-10-20 18:15 UTC  
+> **Last Updated:** 2026-10-20 22:53 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**authentication bypass flaw** • **aomei backupper compromised** • **stealing mobile call** • **hacker handle rey** • **twitter whistleblower complaint** • **manipulate search results** • **hosting provider ovhcloud** • **concept poc exploit** • **chameleonic cryptocurrency platform** • **canadian cybersecurity firm** • **backdoor called hookedge** • **treat ai agents** • **publish personal information** • **tame wild code** • **services whose certificates** • **execute unauthorized code** • **arbitrary code execution** • **ai assisted workflow** • **ai adoption scale** • **addressing security risk**
+**authentication bypass flaw** • **stealing mobile call** • **hacker handle rey** • **twitter whistleblower complaint** • **manipulate search results** • **hosting provider ovhcloud** • **concept poc exploit** • **chameleonic cryptocurrency platform** • **321 810 accounts** • **treat ai agents** • **aomei backupper compromised** • **extortion group shinyhunters** • **php security team** • **addressing security risk** • **tame wild code** • **execute unauthorized code** • **arbitrary code execution** • **ai assisted workflow** • **ai adoption scale** • **windows server 2025**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software](https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html)
 - [Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution](https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html)
 - [Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA](https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html)
 - [Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites](https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html)
@@ -23,18 +24,17 @@
 - [WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators](https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html)
 - [What Security Teams Can Do To Tame Wild Code](https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html)
 - [Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns](https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html)
-- [Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader](https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html)
 
 ### BleepingComputer
 
+- [PHP warns admins of two critical flaws, emergency patches coming tomorrow](https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/)
+- [Zeabur shutting down after second security breach in two months](https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/)
 - [OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/)
 - [DHS bans DeepSeek products across US federal civilian agencies](https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/)
 - [CJIS v6.1 Compliance: 5 Practical Priorities for Agencies](https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/)
 - [Hacker gets 8 years for stealing $3.3 million from taxpayers](https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/)
 - [Windows Server 2025 gets support for quick machine recovery](https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/)
 - [OVHcloud CLI releases backdoored on GitHub to steal developer secrets](https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/)
-- [Ahold Delhaize: Cyberattack affects services across US and Europe](https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/)
-- [Revolut outage disrupts online banking operations worldwide](https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys](https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys)
+- [Ex-OpenAI Engineer Detained After Planting Secret Recorder at HQ](https://www.darkreading.com/insider-threats/ex-openai-engineer-secret-recorder-saudi-ties)
 - [Close Identity Gaps in Software Development Before Unleashing AI](https://www.darkreading.com/application-security/close-identity-gaps-sdlc-before-ai)
 - [Hackers Abuse AI Pen-Test Tool Cairn to Automate Massive Attack Spree](https://www.darkreading.com/cyberattacks-data-breaches/hackers-abuse-ai-pen-test-tool-cairn)
 - [Researchers Infiltrate Microsoft Tech Support Scam Operation](https://www.darkreading.com/threat-intelligence/microsoft-tech-support-scam-operation)
 - ['AdFection' Turns Ad Impressions Into Zero-Click Spyware Delivery](https://www.darkreading.com/data-privacy/adfection-online-ads-spyware-delivery)
 - [ConnectWise Disables Cloud Backups Amid Concerns for Downstream MSPs](https://www.darkreading.com/identity-access-management-security/connectwise-disables-cloud-backups-downstream-msps)
 - [OnlyFans Copyright Takedowns Expose Compromised Websites](https://www.darkreading.com/vulnerabilities-threats/onlyfans-copyright-takedowns-expose-compromised-websites)
-- [The Evolving Cybersecurity Lexicon: Vulnerability Discovery to Resilience](https://www.darkreading.com/vulnerabilities-threats/cybersecurity-lexicon-vulnerability-discovery-resilience)
-- [BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs](https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs)
 
 ### Security Week
 

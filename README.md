@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-20 13:13 UTC |
+| 🕐 Last Updated | 2026-10-20 18:15 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`steal secrets stored` • `executive conference room` • `treat ai agents` • `stealing mobile call` • `twitter whistleblower complaint` • `system wide outage` • `replacing application credentials` • `manipulate search results` • `help pages telling` • `hacker handle rey`
+`authentication bypass flaw` • `aomei backupper compromised` • `stealing mobile call` • `hacker handle rey` • `twitter whistleblower complaint` • `manipulate search results` • `hosting provider ovhcloud` • `concept poc exploit` • `chameleonic cryptocurrency platform` • `canadian cybersecurity firm`
 
 ## 📄 Reports
 

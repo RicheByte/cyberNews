@@ -351,7 +351,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2805,
+      "count": 2806,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2451,7 +2451,7 @@
       ]
     },
     "authentication bypass flaw": {
-      "count": 50,
+      "count": 51,
       "dates": [
         "2025-12-31",
         "2026-01-01",
@@ -2463,7 +2463,8 @@
         "2026-08-30",
         "2026-08-31",
         "2026-09-10",
-        "2026-09-11"
+        "2026-09-11",
+        "2026-10-20"
       ]
     },
     "bypass authentication mechanisms": {
@@ -3261,10 +3262,11 @@
       ]
     },
     "concept poc exploit": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-01-08",
-        "2026-01-09"
+        "2026-01-09",
+        "2026-10-20"
       ]
     },
     "security problems show": {
@@ -3515,7 +3517,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 357,
+      "count": 358,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3575,7 +3577,8 @@
         "2026-09-06",
         "2026-09-07",
         "2026-09-23",
-        "2026-09-24"
+        "2026-09-24",
+        "2026-10-20"
       ]
     },
     "authenticated remote attacker": {
@@ -30573,7 +30576,7 @@
       ]
     },
     "ai assisted workflow": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-09-11",
         "2026-09-12",
@@ -32377,7 +32380,7 @@
       ]
     },
     "stealing mobile call": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-09-29",
         "2026-10-12",
@@ -33188,7 +33191,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 54,
+      "count": 55,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33535,7 +33538,7 @@
       ]
     },
     "publish personal information": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -33550,7 +33553,7 @@
       ]
     },
     "canadian cybersecurity firm": {
-      "count": 44,
+      "count": 45,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -34235,7 +34238,7 @@
       ]
     },
     "manipulate search results": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-10-19",
         "2026-10-20"
@@ -34335,7 +34338,7 @@
       ]
     },
     "treat ai agents": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-20"
       ]
@@ -34353,7 +34356,7 @@
       ]
     },
     "services whose certificates": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-20"
       ]
@@ -34365,6 +34368,48 @@
       ]
     },
     "tame wild code": {
+      "count": 2,
+      "dates": [
+        "2026-10-20"
+      ]
+    },
+    "aomei backupper compromised": {
+      "count": 1,
+      "dates": [
+        "2026-10-20"
+      ]
+    },
+    "hosting provider ovhcloud": {
+      "count": 1,
+      "dates": [
+        "2026-10-20"
+      ]
+    },
+    "chameleonic cryptocurrency platform": {
+      "count": 1,
+      "dates": [
+        "2026-10-20"
+      ]
+    },
+    "backdoor called hookedge": {
+      "count": 1,
+      "dates": [
+        "2026-10-20"
+      ]
+    },
+    "execute unauthorized code": {
+      "count": 1,
+      "dates": [
+        "2026-10-20"
+      ]
+    },
+    "ai adoption scale": {
+      "count": 1,
+      "dates": [
+        "2026-10-20"
+      ]
+    },
+    "addressing security risk": {
       "count": 1,
       "dates": [
         "2026-10-20"
@@ -34372,17 +34417,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-27 09:44",
-      "articles": 48,
-      "top_keywords": [
-        "north korea suspected",
-        "create administrator accounts",
-        "received threat intelligence",
-        "office 2019 installations",
-        "fixing zero visibility"
-      ]
-    },
     {
       "timestamp": "2026-09-27 14:57",
       "articles": 48,
@@ -35469,6 +35503,17 @@
         "executive conference room",
         "treat ai agents",
         "stealing mobile call",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-10-20 18:15",
+      "articles": 48,
+      "top_keywords": [
+        "authentication bypass flaw",
+        "aomei backupper compromised",
+        "stealing mobile call",
+        "hacker handle rey",
         "twitter whistleblower complaint"
       ]
     }

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-20 07:01 UTC |
+| 🕐 Last Updated | 2026-10-20 13:13 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`stealthy fortigate implant` • `rank math pro` • `system wide outage` • `deploy cryptocurrency miners` • `twitter whistleblower complaint` • `online alias boredhackerblog` • `manipulate search results` • `hacker handle rey` • `canadian cybersecurity firm` • `system nobody thought`
+`steal secrets stored` • `executive conference room` • `treat ai agents` • `stealing mobile call` • `twitter whistleblower complaint` • `system wide outage` • `replacing application credentials` • `manipulate search results` • `help pages telling` • `hacker handle rey`
 
 ## 📄 Reports
 

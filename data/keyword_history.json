@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 808,
+      "count": 809,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -346,11 +346,12 @@
         "2026-10-12",
         "2026-10-13",
         "2026-10-14",
-        "2026-10-15"
+        "2026-10-15",
+        "2026-10-20"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2804,
+      "count": 2805,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2120,7 +2121,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 660,
+      "count": 661,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2258,7 +2259,8 @@
         "2026-10-12",
         "2026-10-13",
         "2026-10-14",
-        "2026-10-15"
+        "2026-10-15",
+        "2026-10-20"
       ]
     },
     "model agnostic abstractions": {
@@ -30571,12 +30573,13 @@
       ]
     },
     "ai assisted workflow": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-09-11",
         "2026-09-12",
         "2026-09-13",
-        "2026-09-14"
+        "2026-09-14",
+        "2026-10-20"
       ]
     },
     "cyber kill chain": {
@@ -32374,12 +32377,13 @@
       ]
     },
     "stealing mobile call": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-09-29",
         "2026-10-12",
         "2026-10-13",
-        "2026-10-14"
+        "2026-10-14",
+        "2026-10-20"
       ]
     },
     "darpa selects xint": {
@@ -32798,7 +32802,7 @@
       ]
     },
     "remove personal information": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-10-02",
         "2026-10-03",
@@ -33184,7 +33188,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 53,
+      "count": 54,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33531,7 +33535,7 @@
       ]
     },
     "publish personal information": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -33546,7 +33550,7 @@
       ]
     },
     "canadian cybersecurity firm": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -33728,9 +33732,10 @@
       ]
     },
     "executive conference room": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-10-14"
+        "2026-10-14",
+        "2026-10-20"
       ]
     },
     "saudi openai engineer": {
@@ -34216,7 +34221,7 @@
       ]
     },
     "exploit paths exist": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-10-19",
         "2026-10-20"
@@ -34230,7 +34235,7 @@
       ]
     },
     "manipulate search results": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-10-19",
         "2026-10-20"
@@ -34291,7 +34296,7 @@
       ]
     },
     "system wide outage": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-19",
         "2026-10-20"
@@ -34322,20 +34327,51 @@
       "dates": [
         "2026-10-20"
       ]
+    },
+    "steal secrets stored": {
+      "count": 1,
+      "dates": [
+        "2026-10-20"
+      ]
+    },
+    "treat ai agents": {
+      "count": 1,
+      "dates": [
+        "2026-10-20"
+      ]
+    },
+    "replacing application credentials": {
+      "count": 1,
+      "dates": [
+        "2026-10-20"
+      ]
+    },
+    "help pages telling": {
+      "count": 1,
+      "dates": [
+        "2026-10-20"
+      ]
+    },
+    "services whose certificates": {
+      "count": 1,
+      "dates": [
+        "2026-10-20"
+      ]
+    },
+    "whatsapp hid instructions": {
+      "count": 1,
+      "dates": [
+        "2026-10-20"
+      ]
+    },
+    "tame wild code": {
+      "count": 1,
+      "dates": [
+        "2026-10-20"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-27 03:13",
-      "articles": 48,
-      "top_keywords": [
-        "north korea suspected",
-        "create administrator accounts",
-        "received threat intelligence",
-        "office 2019 installations",
-        "fixing zero visibility"
-      ]
-    },
     {
       "timestamp": "2026-09-27 09:44",
       "articles": 48,
@@ -35422,6 +35458,17 @@
         "rank math pro",
         "system wide outage",
         "deploy cryptocurrency miners",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-10-20 13:13",
+      "articles": 48,
+      "top_keywords": [
+        "steal secrets stored",
+        "executive conference room",
+        "treat ai agents",
+        "stealing mobile call",
         "twitter whistleblower complaint"
       ]
     }

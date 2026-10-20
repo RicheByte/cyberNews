@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-10-20 00:53",
+  "last_updated": "2026-10-20 07:01",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "stealthy fortigate implant",
     "rank math pro",
-    "range run code",
+    "system wide outage",
     "deploy cryptocurrency miners",
     "twitter whistleblower complaint",
-    "system wide outage",
-    "service everyone trusts",
     "online alias boredhackerblog",
     "manipulate search results",
     "hacker handle rey",
     "canadian cybersecurity firm",
+    "system nobody thought",
     "remove personal information",
     "publish personal information",
     "install crypto miners",
     "fake web3 accelerator",
+    "company continues remediation",
     "exploit paths exist",
     "prolific data theft",
     "services remain unavailable",
@@ -27,46 +27,64 @@
   "trending": [
     {
       "keyword": "stealthy fortigate implant",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "rank math pro",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "range run code",
+      "keyword": "system wide outage",
       "mentions": 3
     },
     {
       "keyword": "deploy cryptocurrency miners",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2803
-    },
-    {
-      "keyword": "system wide outage",
-      "mentions": 2
-    },
-    {
-      "keyword": "service everyone trusts",
-      "mentions": 3
+      "mentions": 2804
     },
     {
       "keyword": "online alias boredhackerblog",
-      "mentions": 2
-    },
-    {
-      "keyword": "manipulate search results",
       "mentions": 3
     },
     {
+      "keyword": "manipulate search results",
+      "mentions": 4
+    },
+    {
       "keyword": "hacker handle rey",
-      "mentions": 52
+      "mentions": 53
+    },
+    {
+      "keyword": "canadian cybersecurity firm",
+      "mentions": 43
+    },
+    {
+      "keyword": "system nobody thought",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge",
+      "link": "https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html",
+      "summary": "A U.S. court on Monday granted the U.S. government's request to detain a former OpenAI engineer accused of planting a recording device in an executive conference room at the company's San Francisco office to allegedly steal sensitive secrets. In a new court filing Sunday, prosecutors revealed that Abdulrahman Alfozan, a 35-year-old Saudi national, was \"in frequent communications via WhatsApp",
+      "published": "Tue, 20 Oct 2026 11:23:16 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware",
+      "link": "https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html",
+      "summary": "Cybersecurity researchers have disclosed details of a ClickFix delivery platform called ROMULUS that's being used to distribute malware such as Legion Loader. According to Forescout Research - Vedere Labs, ROMULUS is akin to a malware delivery service that employs ClickFix-style lures on bogus landing pages to trick unsuspecting users into running malicious commands and infecting their own",
+      "published": "Tue, 20 Oct 2026 09:35:58 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor",
@@ -126,26 +144,6 @@
       "published": "Mon, 19 Oct 2026 15:36:40 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
-      "link": "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html",
-      "summary": "A flaw in Broadcom's Wi-Fi setup software lets an attacker within radio range run code as root on Broadcom-based routers, without the network password or any pairing step, security researcher Quentin Kaiser disclosed on October 16. He showed the attack working against home gateways supplied by three Belgian internet providers, in one case reading the Wi-Fi password off the device",
-      "published": "Mon, 19 Oct 2026 11:59:44 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys",
-      "link": "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html",
-      "summary": "An intruder reached a legacy system at OpenCode on the night of October 16 and may have exposed the third-party AI provider keys that users had saved in OpenCode Console, the company said. Console is OpenCode's optional hosted service: a workspace saves its own OpenAI, Anthropic, or Google key there, and Console uses that key to call the provider so team members can use the models without",
-      "published": "Mon, 19 Oct 2026 11:37:08 +0530",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
     },
     {
       "source": "BleepingComputer",

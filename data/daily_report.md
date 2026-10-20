@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-10-20 00:53 UTC  
+> **Last Updated:** 2026-10-20 07:01 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**stealthy fortigate implant** • **rank math pro** • **range run code** • **deploy cryptocurrency miners** • **twitter whistleblower complaint** • **system wide outage** • **service everyone trusts** • **online alias boredhackerblog** • **manipulate search results** • **hacker handle rey** • **canadian cybersecurity firm** • **remove personal information** • **publish personal information** • **install crypto miners** • **fake web3 accelerator** • **exploit paths exist** • **prolific data theft** • **services remain unavailable** • **live verification services** • **trusted connections became**
+**stealthy fortigate implant** • **rank math pro** • **system wide outage** • **deploy cryptocurrency miners** • **twitter whistleblower complaint** • **online alias boredhackerblog** • **manipulate search results** • **hacker handle rey** • **canadian cybersecurity firm** • **system nobody thought** • **remove personal information** • **publish personal information** • **install crypto miners** • **fake web3 accelerator** • **company continues remediation** • **exploit paths exist** • **prolific data theft** • **services remain unavailable** • **live verification services** • **trusted connections became**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge](https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html)
+- [Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware](https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html)
 - [Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor](https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html)
 - [Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor](https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html)
 - [⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More](https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html)
 - [GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories](https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html)
 - [From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software](https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html)
 - [Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic](https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html)
-- [Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers](https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html)
-- [OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys](https://thehackernews.com/2026/10/opencode-console-breach-may-have.html)
 
 ### BleepingComputer
 

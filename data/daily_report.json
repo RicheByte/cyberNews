@@ -1,72 +1,121 @@
 {
-  "last_updated": "2026-10-21 02:58",
+  "last_updated": "2026-10-21 09:03",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
+    "ai adoption scale",
     "authentication bypass flaw",
-    "hacker handle rey",
+    "arbitrary code execution",
+    "1 200 sites",
     "twitter whistleblower complaint",
-    "stealing mobile call",
+    "php will ship",
     "manipulate search results",
+    "hacker handle rey",
     "concept poc exploit",
     "chameleonic cryptocurrency platform",
-    "321 810 accounts",
-    "treat ai agents",
+    "backdoor wordpress sites",
     "aomei backupper compromised",
-    "extortion group shinyhunters",
-    "tame wild code",
+    "experts say serves",
     "execute unauthorized code",
-    "arbitrary code execution",
-    "php security team",
-    "addressing security risk",
-    "ai assisted workflow",
-    "ai adoption scale",
-    "whatsapp hid instructions",
-    "vladan oki rector"
+    "federal investigators pursuing",
+    "canadian cybersecurity firm",
+    "unauthorized vpn connections",
+    "stealing mobile call",
+    "sprawling phishing campaign",
+    "ru money laundering"
   ],
   "trending": [
     {
-      "keyword": "authentication bypass flaw",
-      "mentions": 53
-    },
-    {
-      "keyword": "hacker handle rey",
-      "mentions": 57
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2808
-    },
-    {
-      "keyword": "stealing mobile call",
-      "mentions": 10
-    },
-    {
-      "keyword": "manipulate search results",
-      "mentions": 8
-    },
-    {
-      "keyword": "concept poc exploit",
-      "mentions": 15
-    },
-    {
-      "keyword": "chameleonic cryptocurrency platform",
-      "mentions": 3
-    },
-    {
-      "keyword": "321 810 accounts",
-      "mentions": 2
-    },
-    {
-      "keyword": "treat ai agents",
+      "keyword": "ai adoption scale",
       "mentions": 4
     },
     {
-      "keyword": "aomei backupper compromised",
-      "mentions": 3
+      "keyword": "authentication bypass flaw",
+      "mentions": 54
+    },
+    {
+      "keyword": "arbitrary code execution",
+      "mentions": 361
+    },
+    {
+      "keyword": "1 200 sites",
+      "mentions": 1
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2809
+    },
+    {
+      "keyword": "php will ship",
+      "mentions": 1
+    },
+    {
+      "keyword": "manipulate search results",
+      "mentions": 9
+    },
+    {
+      "keyword": "hacker handle rey",
+      "mentions": 58
+    },
+    {
+      "keyword": "concept poc exploit",
+      "mentions": 16
+    },
+    {
+      "keyword": "chameleonic cryptocurrency platform",
+      "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web",
+      "link": "https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html",
+      "summary": "State Bank of India has identified 3,897 customer records containing personal information in a set of about 375,000 records available on the dark web, and it does not yet know where the data came from. The state-owned bank, India's largest, said in a stock-exchange filing dated October 21 that it \"has experienced an incident involving the loss of certain data.\" The count is",
+      "published": "Wed, 21 Oct 2026 13:14:22 +0530",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws",
+      "link": "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including four vulnerabilities impacting Plex Media Server that's collectively called Plex2Shell. The vulnerabilities are listed below - CVE-2026-96652 (CVSS score: 5.3) - Plex Media Server Server-Side Request Forgery (SSRF)",
+      "published": "Wed, 21 Oct 2026 12:56:49 +0530",
+      "value_score": 82,
+      "value_signals": [
+        "CVE mentioned",
+        "Patch/update",
+        "CISA/KEV ×4",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion",
+      "link": "https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html",
+      "summary": "A Belarus-aligned hacktivist group spent nearly two years within the network of a Russian healthcare organization. According to a report published by Russian cybersecurity firm Solar, the activity has been attributed to a threat cluster dubbed Partisan Zmiy, which is also known as the Cyber Partisans. Known to be active since at least 2020, the group has a track record of striking industrial",
+      "published": "Wed, 21 Oct 2026 11:35:15 +0530",
+      "value_score": 22,
+      "value_signals": [
+        "Backdoor"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
+      "link": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
+      "summary": "This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the official advisory. PHP will ship an out-of-cycle security release at 14:00 UTC today, October 21, for two critical vulnerabilities that its security team has rated 9.2 on the CVSS v4.0 scale but has not described.",
+      "published": "Wed, 21 Oct 2026 10:27:50 +0530",
+      "value_score": 54,
+      "value_signals": [
+        "RCE",
+        "Patch/update",
+        "High severity ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
@@ -117,43 +166,16 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election",
-      "link": "https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html",
-      "summary": "The iPhone of Vladan Đokić, rector of the University of Belgrade and a prominent supporter of Serbia's student protest movement, was infected with NSO Group's Pegasus spyware in 2026, the Citizen Lab said on October 19. The finding came six days before Serbia's October 25 snap parliamentary election. The infection used a zero-click exploit, meaning Đokić did not have to tap a link or",
-      "published": "Tue, 20 Oct 2026 18:29:44 +0530",
-      "value_score": 16,
+      "source": "BleepingComputer",
+      "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024. [...]",
+      "published": "Wed, 21 Oct 2026 04:36:24 -0400",
+      "value_score": 100,
       "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators",
-      "link": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html",
-      "summary": "WhatsApp's help pages carried hidden instructions for its support chatbot that told it not to recommend a data protection authority or regulator to users who could no longer delete their accounts, even though WhatsApp's own privacy policy for Europe tells users they can complain to one. The text sat in the pages' code, never shown on screen, until it was removed by October 18. Whether the",
-      "published": "Tue, 20 Oct 2026 17:11:06 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "What Security Teams Can Do To Tame Wild Code",
-      "link": "https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html",
-      "summary": "A sales manager builds an AI-assisted workflow to route leads. It connects to customer records, summarizes inbound requests, and posts updates to a shared channel. The workflow saves time, reduces manual work, and soon becomes part of the team’s daily routine. Across the same organization, employees are building useful apps, agents, and automations faster than existing processes can support them",
-      "published": "Tue, 20 Oct 2026 17:03:04 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns",
-      "link": "https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html",
-      "summary": "Go 1.27.3 and Go 1.26.10, released on October 20, make Go's certificate verifier reject any certificate chain that passes through one of eight intermediate certificate authority keys. Programs built on the new release will refuse connections to sites and services whose certificates were issued under those keys. The Go team says the keys belong to one certificate authority it has not",
-      "published": "Tue, 20 Oct 2026 17:02:59 +0530",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
+        "Ransomware ×2",
+        "CISA/KEV ×2",
+        "High severity ×2"
       ]
     },
     {
@@ -222,15 +244,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/",
       "summary": "CJIS v6.1 requires agencies to maintain strong authentication, account security, and audit controls while demonstrating ongoing compliance. Specops outlines five practical priorities covering MFA, account management, passwords, logging, and audit readiness. [...]",
       "published": "Tue, 20 Oct 2026 09:51:00 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hacker gets 8 years for stealing $3.3 million from taxpayers",
-      "link": "https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/",
-      "summary": "A Nigerian national was sentenced to eight years in prison for his involvement in a series of spearphishing attacks targeting US tax preparation businesses since 2019. [...]",
-      "published": "Tue, 20 Oct 2026 09:18:36 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -394,6 +407,39 @@
     },
     {
       "source": "Security Week",
+      "title": "PHP2Shell: Mass Exploitation Looms for Leaked Critical PHP Flaws",
+      "link": "https://www.securityweek.com/php2shell-mass-exploitation-looms-for-leaked-critical-php-flaws/",
+      "summary": "Tracked as CVE-2026-109618 and CVE-2026-109619, the bugs could potentially lead to unauthenticated remote code execution. The post PHP2Shell: Mass Exploitation Looms for Leaked Critical PHP Flaws appeared first on SecurityWeek .",
+      "published": "Wed, 21 Oct 2026 07:02:06 +0000",
+      "value_score": 96,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "RCE",
+        "High severity ×2",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Hijacked Developer Account Used to Plant Stealer in OVHcloud CLI",
+      "link": "https://www.securityweek.com/hijacked-developer-account-used-to-plant-stealer-in-ovhcloud-cli/",
+      "summary": "Researchers say the developer’s account was compromised in March with a GlassWorm-linked loader. The post Hijacked Developer Account Used to Plant Stealer in OVHcloud CLI appeared first on SecurityWeek .",
+      "published": "Wed, 21 Oct 2026 06:02:27 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Accenture, Dragos, SANS Launch $10M Initiative to Defend Small US Utilities",
+      "link": "https://www.securityweek.com/accenture-dragos-sans-launch-10m-initiative-to-defend-small-us-utilities/",
+      "summary": "The first phase will cover up to 500 utilities, which will get free security tools, equipment, deployment help and training. The post Accenture, Dragos, SANS Launch $10M Initiative to Defend Small US Utilities appeared first on SecurityWeek .",
+      "published": "Wed, 21 Oct 2026 04:22:11 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "US Agencies Detail Incident Response Practices for Rogue AI Agents",
       "link": "https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/",
       "summary": "NIST, CISA and NSA share ten voluntary practices for preparing for, detecting, responding to, recovering from, and reporting rogue AI agent incidents. The post US Agencies Detail Incident Response Practices for Rogue AI Agents appeared first on SecurityWeek .",
@@ -438,33 +484,6 @@
       "link": "https://www.securityweek.com/ai-platform-cairn-abused-to-hack-over-100-organizations/",
       "summary": "At least three threat actors have been abusing Cairn for persistent access and financial theft. The post AI Platform Cairn Abused to Hack Over 100 Organizations appeared first on SecurityWeek .",
       "published": "Tue, 20 Oct 2026 12:47:22 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Ex-OpenAI Worker Accused of Bugging Conference Room Planned to Fly to Saudi Arabia, Prosecutors Say",
-      "link": "https://www.securityweek.com/ex-openai-worker-accused-of-bugging-conference-room-planned-to-fly-to-saudi-arabia-prosecutors-say/",
-      "summary": "Abdulrahman Alfozan’s wife and young son also left the country the day after the 35-year-old Saudi national’s arrest. The post Ex-OpenAI Worker Accused of Bugging Conference Room Planned to Fly to Saudi Arabia, Prosecutors Say appeared first on SecurityWeek .",
-      "published": "Tue, 20 Oct 2026 12:33:12 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Microsoft Targets Rogue AI Agents With Dynamic Permissions, Risk Scoring",
-      "link": "https://www.securityweek.com/microsoft-targets-rogue-ai-agents-with-dynamic-permissions-risk-scoring/",
-      "summary": "Microsoft says companies should treat AI agents as insiders, and is adding controls that grant access per task and tighten it as an agent’s risk rises. The post Microsoft Targets Rogue AI Agents With Dynamic Permissions, Risk Scoring appeared first on SecurityWeek .",
-      "published": "Tue, 20 Oct 2026 11:30:18 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Hackers Steal 1.8 Million Records From Nikkei",
-      "link": "https://www.securityweek.com/hackers-steal-1-8-million-records-from-nikkei/",
-      "summary": "The compromised information includes names, addresses, email addresses, phone numbers, and dates of birth. The post Hackers Steal 1.8 Million Records From Nikkei appeared first on SecurityWeek .",
-      "published": "Tue, 20 Oct 2026 10:35:18 +0000",
       "value_score": 10,
       "value_signals": []
     },

@@ -351,7 +351,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2808,
+      "count": 2809,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2122,7 +2122,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 661,
+      "count": 662,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2261,7 +2261,8 @@
         "2026-10-13",
         "2026-10-14",
         "2026-10-15",
-        "2026-10-20"
+        "2026-10-20",
+        "2026-10-21"
       ]
     },
     "model agnostic abstractions": {
@@ -2452,7 +2453,7 @@
       ]
     },
     "authentication bypass flaw": {
-      "count": 53,
+      "count": 54,
       "dates": [
         "2025-12-31",
         "2026-01-01",
@@ -3264,7 +3265,7 @@
       ]
     },
     "concept poc exploit": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-01-08",
         "2026-01-09",
@@ -3520,7 +3521,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 360,
+      "count": 361,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -32386,7 +32387,7 @@
       ]
     },
     "stealing mobile call": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-09-29",
         "2026-10-12",
@@ -33200,7 +33201,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 57,
+      "count": 58,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33563,7 +33564,7 @@
       ]
     },
     "canadian cybersecurity firm": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -33575,7 +33576,8 @@
         "2026-10-17",
         "2026-10-18",
         "2026-10-19",
-        "2026-10-20"
+        "2026-10-20",
+        "2026-10-21"
       ]
     },
     "repositories cybersecurity researchers": {
@@ -34039,13 +34041,14 @@
       ]
     },
     "experts say serves": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-10-15",
         "2026-10-16",
         "2026-10-17",
         "2026-10-18",
-        "2026-10-19"
+        "2026-10-19",
+        "2026-10-21"
       ]
     },
     "collabora online built": {
@@ -34248,7 +34251,7 @@
       ]
     },
     "manipulate search results": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-10-19",
         "2026-10-20",
@@ -34388,7 +34391,7 @@
       ]
     },
     "aomei backupper compromised": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-20",
         "2026-10-21"
@@ -34401,7 +34404,7 @@
       ]
     },
     "chameleonic cryptocurrency platform": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-20",
         "2026-10-21"
@@ -34414,14 +34417,14 @@
       ]
     },
     "execute unauthorized code": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-20",
         "2026-10-21"
       ]
     },
     "ai adoption scale": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-20",
         "2026-10-21"
@@ -34453,20 +34456,45 @@
       "dates": [
         "2026-10-21"
       ]
+    },
+    "1 200 sites": {
+      "count": 1,
+      "dates": [
+        "2026-10-21"
+      ]
+    },
+    "php will ship": {
+      "count": 1,
+      "dates": [
+        "2026-10-21"
+      ]
+    },
+    "backdoor wordpress sites": {
+      "count": 1,
+      "dates": [
+        "2026-10-21"
+      ]
+    },
+    "federal investigators pursuing": {
+      "count": 1,
+      "dates": [
+        "2026-10-21"
+      ]
+    },
+    "unauthorized vpn connections": {
+      "count": 1,
+      "dates": [
+        "2026-10-21"
+      ]
+    },
+    "ru money laundering": {
+      "count": 1,
+      "dates": [
+        "2026-10-21"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-27 22:45",
-      "articles": 48,
-      "top_keywords": [
-        "north korea suspected",
-        "received threat intelligence",
-        "national security risk",
-        "office 2019 installations",
-        "fixing zero visibility"
-      ]
-    },
     {
       "timestamp": "2026-09-28 03:10",
       "articles": 48,
@@ -35554,6 +35582,17 @@
         "twitter whistleblower complaint",
         "stealing mobile call",
         "manipulate search results"
+      ]
+    },
+    {
+      "timestamp": "2026-10-21 09:03",
+      "articles": 48,
+      "top_keywords": [
+        "ai adoption scale",
+        "authentication bypass flaw",
+        "arbitrary code execution",
+        "1 200 sites",
+        "twitter whistleblower complaint"
       ]
     }
   ]

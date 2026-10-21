@@ -1,72 +1,85 @@
 {
-  "last_updated": "2026-10-21 19:52",
+  "last_updated": "2026-10-21 22:58",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "google hardens chrome",
     "push malicious code",
-    "glassworm threat actors",
+    "released emergency updates",
     "memory bugs account",
     "developer's github account",
-    "released emergency updates",
-    "popular wordpress backup",
+    "7 0 released",
     "twitter whistleblower complaint",
-    "safepay ransomware gang",
     "hacker handle rey",
-    "ai agent running",
+    "glassworm threat actors",
+    "copy suspicious commands",
+    "affects every version",
+    "account run code",
+    "prolific data theft",
     "extortion group shinyhunters",
-    "protect 2026 conference",
     "php2shell patches land",
     "php will release",
     "windows operating systems",
+    "versions 19 2",
     "trusted chatbot platforms",
-    "tower research ventures",
-    "stealing mobile call",
-    "sprawling phishing campaign"
+    "tower research ventures"
   ],
   "trending": [
     {
       "keyword": "google hardens chrome",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "push malicious code",
-      "mentions": 1
-    },
-    {
-      "keyword": "glassworm threat actors",
-      "mentions": 1
-    },
-    {
-      "keyword": "memory bugs account",
       "mentions": 2
-    },
-    {
-      "keyword": "developer's github account",
-      "mentions": 1
     },
     {
       "keyword": "released emergency updates",
-      "mentions": 20
+      "mentions": 21
     },
     {
-      "keyword": "popular wordpress backup",
+      "keyword": "memory bugs account",
+      "mentions": 3
+    },
+    {
+      "keyword": "developer's github account",
       "mentions": 2
+    },
+    {
+      "keyword": "7 0 released",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2811
-    },
-    {
-      "keyword": "safepay ransomware gang",
-      "mentions": 2
+      "mentions": 2812
     },
     {
       "keyword": "hacker handle rey",
-      "mentions": 60
+      "mentions": 61
+    },
+    {
+      "keyword": "glassworm threat actors",
+      "mentions": 2
+    },
+    {
+      "keyword": "copy suspicious commands",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
+      "link": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+      "summary": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2014. The fix matters even for administrators who patched nine days earlier: the October 12 update covered only versions 19.2 and later, and the new fixed versions sit one patch above it, so an",
+      "published": "Thu, 22 Oct 2026 00:27:34 +0530",
+      "value_score": 54,
+      "value_signals": [
+        "RCE",
+        "Patch/update ×4",
+        "High severity"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
@@ -142,11 +155,29 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "The Harness Is the Hard Part of Agentic Pentesting",
-      "link": "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html",
-      "summary": "An AppSec team can point an AI agent running on a general-purpose model at its own web apps with little setup. Sure, the model writes the attacks. But everything that makes those attacks safe to run against production and worth acting on afterward lives in the harness around the model. The harness is where the engineering in AI pentesting sits. The Hugging Face intrusion OpenAI disclosed in July",
-      "published": "Wed, 21 Oct 2026 16:02:40 +0530",
+      "source": "BleepingComputer",
+      "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
+      "link": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
+      "summary": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]",
+      "published": "Wed, 21 Oct 2026 18:16:26 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
+      "link": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
+      "summary": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers. [...]",
+      "published": "Wed, 21 Oct 2026 17:43:27 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
+      "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
+      "summary": "North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]",
+      "published": "Wed, 21 Oct 2026 16:31:48 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -203,41 +234,6 @@
       "published": "Wed, 21 Oct 2026 08:20:34 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft says October updates didn’t actually fix VPN issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/",
-      "summary": "Microsoft says it mistakenly flagged a bug causing Always On VPN connection issues as fixed in the October 2026 Windows 11 cumulative updates. [...]",
-      "published": "Wed, 21 Oct 2026 06:14:53 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024. [...]",
-      "published": "Wed, 21 Oct 2026 04:36:24 -0400",
-      "value_score": 100,
-      "value_signals": [
-        "Ransomware ×2",
-        "CISA/KEV ×2",
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
-      "link": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
-      "summary": "A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to connected websites. [...]",
-      "published": "Tue, 20 Oct 2026 21:01:50 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Backdoor"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -328,6 +324,47 @@
     },
     {
       "source": "Dark Reading",
+      "title": "TiDB Breach Exposes Flawed Cloud Security Assumptions",
+      "link": "https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security",
+      "summary": "Cloud providers may be storing sensitive customer data, without either party knowing it. But when a provider is breached, the data comes home to roost.",
+      "published": "Wed, 21 Oct 2026 21:15:39 GMT",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Marvell, Microsoft &amp; Oracle Work to Standardize Data Center Hardware Security",
+      "link": "https://www.darkreading.com/cloud-security/marvell-microsoft-oracle-standardize-data-center-hardware-security",
+      "summary": "The effort is aimed at standardizing a NIST FIPS 140-3 Level 3 integrated HSM for cloud and hyperscale data center infrastructure.",
+      "published": "Wed, 21 Oct 2026 20:14:42 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Cloud Security Alliance Survey Finds Data Loss Prevention Often Detects Data Loss Only After It Happens",
+      "link": "https://www.darkreading.com/cloud-security/cloud-security-alliance-survey-data-loss-prevention-detects-data-loss",
+      "summary": "Research finds that, among respondents experiencing data loss, only 16% said DLP blocked their most significant incidents before data left the organization.",
+      "published": "Wed, 21 Oct 2026 20:03:14 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "'PHP2Shell' Bugs Signal Red Alert for Security Industry",
+      "link": "https://www.darkreading.com/application-security/php2shell-bugs-red-alert-security-industry",
+      "summary": "Security teams are scrambling to remediate two critical PHP vulnerabilities following leaked details and reports of exploitation attempts.",
+      "published": "Wed, 21 Oct 2026 19:19:17 GMT",
+      "value_score": 24,
+      "value_signals": [
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "OVHcloud GitHub Compromise Tied to GlassWorm Threat Actors",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/ovhcloud-github-compromise-glassworm-threat-actors",
       "summary": "A developer's GitHub account that was compromised several months earlier was used to push malicious code to unsuspecting users.",
@@ -359,42 +396,6 @@
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/decades-old-windows-utility-modern-clickfix-attack",
       "summary": "The attack uses malicious Google search results related to Amazon and leverages the \"finger\" utility to launch a CAPTCHA that installs malware, including the Lumma stealer.",
       "published": "Wed, 21 Oct 2026 13:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys",
-      "link": "https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys",
-      "summary": "Google, Mozilla, Apple, the Go project and others moved swiftly to block the affected certificates from the Indian CA, though it's unclear how the keys were compromised.",
-      "published": "Tue, 20 Oct 2026 21:45:47 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Ex-OpenAI Engineer Detained After Planting Secret Recorder at HQ",
-      "link": "https://www.darkreading.com/insider-threats/ex-openai-engineer-secret-recorder-saudi-ties",
-      "summary": "The perp, who has Saudi ties, was arrested for allegedly bugging an OpenAI conference room, highlighting a preventable insider threat vector.",
-      "published": "Tue, 20 Oct 2026 19:16:49 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Close Identity Gaps in Software Development Before Unleashing AI",
-      "link": "https://www.darkreading.com/application-security/close-identity-gaps-sdlc-before-ai",
-      "summary": "Artificial intelligence is complicating security in the software development life cycle, but a Dark Reading roundtable found collaboration, better identity visibility, and reduced testing costs offer CISOs a way ahead.",
-      "published": "Tue, 20 Oct 2026 15:35:45 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Hackers Abuse AI Pen-Test Tool Cairn to Automate Massive Attack Spree",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/hackers-abuse-ai-pen-test-tool-cairn",
-      "summary": "A Chinese-speaking attacker has compromised hundreds of websites across the globe, looting from big fish like John Deere, SharkNinja, and engine manufacturer Cummins.",
-      "published": "Tue, 20 Oct 2026 14:36:05 GMT",
       "value_score": 10,
       "value_signals": []
     },

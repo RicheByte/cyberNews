@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 810,
+      "count": 811,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -352,7 +352,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2811,
+      "count": 2812,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -8094,7 +8094,7 @@
       ]
     },
     "released emergency updates": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-02-16",
         "2026-02-17",
@@ -33163,7 +33163,7 @@
       ]
     },
     "extortion group shinyhunters": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33203,7 +33203,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 60,
+      "count": 61,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33519,7 +33519,7 @@
       ]
     },
     "prolific data theft": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -33529,7 +33529,8 @@
         "2026-10-14",
         "2026-10-15",
         "2026-10-19",
-        "2026-10-20"
+        "2026-10-20",
+        "2026-10-21"
       ]
     },
     "suspected shinyhunters operative": {
@@ -34496,7 +34497,7 @@
       ]
     },
     "memory bugs account": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-21"
       ]
@@ -34562,13 +34563,13 @@
       ]
     },
     "trusted chatbot platforms": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-21"
       ]
     },
     "tower research ventures": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-21"
       ]
@@ -34580,36 +34581,66 @@
       ]
     },
     "google hardens chrome": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-21"
       ]
     },
     "push malicious code": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-21"
       ]
     },
     "glassworm threat actors": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-21"
       ]
     },
     "developer's github account": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-21"
       ]
     },
     "php2shell patches land": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-21"
       ]
     },
     "php will release": {
+      "count": 2,
+      "dates": [
+        "2026-10-21"
+      ]
+    },
+    "7 0 released": {
+      "count": 1,
+      "dates": [
+        "2026-10-21"
+      ]
+    },
+    "copy suspicious commands": {
+      "count": 1,
+      "dates": [
+        "2026-10-21"
+      ]
+    },
+    "affects every version": {
+      "count": 1,
+      "dates": [
+        "2026-10-21"
+      ]
+    },
+    "account run code": {
+      "count": 1,
+      "dates": [
+        "2026-10-21"
+      ]
+    },
+    "versions 19 2": {
       "count": 1,
       "dates": [
         "2026-10-21"
@@ -34617,17 +34648,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-28 19:07",
-      "articles": 48,
-      "top_keywords": [
-        "ai escape party",
-        "national security risk",
-        "twitter whistleblower complaint",
-        "threat actor known",
-        "individuals whose licenses"
-      ]
-    },
     {
       "timestamp": "2026-09-29 00:07",
       "articles": 48,
@@ -35713,6 +35733,17 @@
         "google hardens chrome",
         "push malicious code",
         "glassworm threat actors",
+        "memory bugs account",
+        "developer's github account"
+      ]
+    },
+    {
+      "timestamp": "2026-10-21 22:58",
+      "articles": 48,
+      "top_keywords": [
+        "google hardens chrome",
+        "push malicious code",
+        "released emergency updates",
         "memory bugs account",
         "developer's github account"
       ]

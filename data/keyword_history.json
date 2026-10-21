@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 809,
+      "count": 810,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -347,11 +347,12 @@
         "2026-10-13",
         "2026-10-14",
         "2026-10-15",
-        "2026-10-20"
+        "2026-10-20",
+        "2026-10-21"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2810,
+      "count": 2811,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2122,7 +2123,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 662,
+      "count": 663,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -8093,11 +8094,12 @@
       ]
     },
     "released emergency updates": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-02-16",
         "2026-02-17",
-        "2026-07-20"
+        "2026-07-20",
+        "2026-10-21"
       ]
     },
     "weaponize windows drivers": {
@@ -32387,7 +32389,7 @@
       ]
     },
     "stealing mobile call": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-09-29",
         "2026-10-12",
@@ -33161,7 +33163,7 @@
       ]
     },
     "extortion group shinyhunters": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33201,7 +33203,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 59,
+      "count": 60,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -34494,13 +34496,13 @@
       ]
     },
     "memory bugs account": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-21"
       ]
     },
     "popular wordpress backup": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-21"
       ]
@@ -34524,7 +34526,7 @@
       ]
     },
     "safepay ransomware gang": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-21"
       ]
@@ -34536,13 +34538,13 @@
       ]
     },
     "protect 2026 conference": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-21"
       ]
     },
     "ai agent running": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-21"
       ]
@@ -34560,13 +34562,13 @@
       ]
     },
     "trusted chatbot platforms": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-21"
       ]
     },
     "tower research ventures": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-21"
       ]
@@ -34576,20 +34578,45 @@
       "dates": [
         "2026-10-21"
       ]
+    },
+    "google hardens chrome": {
+      "count": 1,
+      "dates": [
+        "2026-10-21"
+      ]
+    },
+    "push malicious code": {
+      "count": 1,
+      "dates": [
+        "2026-10-21"
+      ]
+    },
+    "glassworm threat actors": {
+      "count": 1,
+      "dates": [
+        "2026-10-21"
+      ]
+    },
+    "developer's github account": {
+      "count": 1,
+      "dates": [
+        "2026-10-21"
+      ]
+    },
+    "php2shell patches land": {
+      "count": 1,
+      "dates": [
+        "2026-10-21"
+      ]
+    },
+    "php will release": {
+      "count": 1,
+      "dates": [
+        "2026-10-21"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-28 10:24",
-      "articles": 48,
-      "top_keywords": [
-        "north korea suspected",
-        "national security risk",
-        "critical security flaw",
-        "fixing zero visibility",
-        "wallet addresses linked"
-      ]
-    },
     {
       "timestamp": "2026-09-28 19:07",
       "articles": 48,
@@ -35677,6 +35704,17 @@
         "china defends deepseek",
         "july attackers hijacked",
         "chinese speaking attacker"
+      ]
+    },
+    {
+      "timestamp": "2026-10-21 19:52",
+      "articles": 48,
+      "top_keywords": [
+        "google hardens chrome",
+        "push malicious code",
+        "glassworm threat actors",
+        "memory bugs account",
+        "developer's github account"
       ]
     }
   ]

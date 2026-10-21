@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-21 14:48 UTC |
+| 🕐 Last Updated | 2026-10-21 19:52 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`memory bugs account` • `popular wordpress backup` • `china defends deepseek` • `july attackers hijacked` • `chinese speaking attacker` • `twitter whistleblower complaint` • `safepay ransomware gang` • `remove deepseek products` • `protect 2026 conference` • `hacker handle rey`
+`google hardens chrome` • `push malicious code` • `glassworm threat actors` • `memory bugs account` • `developer's github account` • `released emergency updates` • `popular wordpress backup` • `twitter whistleblower complaint` • `safepay ransomware gang` • `hacker handle rey`
 
 ## 📄 Reports
 

@@ -1,68 +1,68 @@
 {
-  "last_updated": "2026-10-20 22:53",
+  "last_updated": "2026-10-21 02:58",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "authentication bypass flaw",
-    "stealing mobile call",
     "hacker handle rey",
     "twitter whistleblower complaint",
+    "stealing mobile call",
     "manipulate search results",
-    "hosting provider ovhcloud",
     "concept poc exploit",
     "chameleonic cryptocurrency platform",
     "321 810 accounts",
     "treat ai agents",
     "aomei backupper compromised",
     "extortion group shinyhunters",
-    "php security team",
-    "addressing security risk",
     "tame wild code",
     "execute unauthorized code",
     "arbitrary code execution",
+    "php security team",
+    "addressing security risk",
     "ai assisted workflow",
     "ai adoption scale",
-    "windows server 2025"
+    "whatsapp hid instructions",
+    "vladan oki rector"
   ],
   "trending": [
     {
       "keyword": "authentication bypass flaw",
-      "mentions": 52
-    },
-    {
-      "keyword": "stealing mobile call",
-      "mentions": 9
+      "mentions": 53
     },
     {
       "keyword": "hacker handle rey",
-      "mentions": 56
+      "mentions": 57
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2807
+      "mentions": 2808
+    },
+    {
+      "keyword": "stealing mobile call",
+      "mentions": 10
     },
     {
       "keyword": "manipulate search results",
-      "mentions": 7
-    },
-    {
-      "keyword": "hosting provider ovhcloud",
-      "mentions": 2
+      "mentions": 8
     },
     {
       "keyword": "concept poc exploit",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "chameleonic cryptocurrency platform",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "321 810 accounts",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "treat ai agents",
+      "mentions": 4
+    },
+    {
+      "keyword": "aomei backupper compromised",
       "mentions": 3
     }
   ],
@@ -158,6 +158,26 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
+      "link": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
+      "summary": "A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to connected websites. [...]",
+      "published": "Tue, 20 Oct 2026 21:01:50 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Backdoor"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Mozilla, Google, Apple block compromised eMudhra CA certificates",
+      "link": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
+      "summary": "Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone could recover them almost instantly and use them to forge trusted certificates for legitimate websites. [...]",
+      "published": "Tue, 20 Oct 2026 20:46:42 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
       "link": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
       "summary": "The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead of their scheduled disclosure. [...]",
@@ -211,26 +231,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/",
       "summary": "A Nigerian national was sentenced to eight years in prison for his involvement in a series of spearphishing attacks targeting US tax preparation businesses since 2019. [...]",
       "published": "Tue, 20 Oct 2026 09:18:36 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Windows Server 2025 gets support for quick machine recovery",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/",
-      "summary": "Microsoft announced that IT administrators can now use quick machine recovery on Windows Server 2025 after installing the October 2026 security update. [...]",
-      "published": "Tue, 20 Oct 2026 08:16:32 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OVHcloud CLI releases backdoored on GitHub to steal developer secrets",
-      "link": "https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/",
-      "summary": "French cloud and hosting provider OVHcloud is warning users that attackers compromised its open-source command-line interface (CLI) tool to distribute information-stealing malware. [...]",
-      "published": "Tue, 20 Oct 2026 07:31:22 -0400",
       "value_score": 10,
       "value_signals": []
     },

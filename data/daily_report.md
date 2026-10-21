@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-10-20 22:53 UTC  
+> **Last Updated:** 2026-10-21 02:58 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**authentication bypass flaw** • **stealing mobile call** • **hacker handle rey** • **twitter whistleblower complaint** • **manipulate search results** • **hosting provider ovhcloud** • **concept poc exploit** • **chameleonic cryptocurrency platform** • **321 810 accounts** • **treat ai agents** • **aomei backupper compromised** • **extortion group shinyhunters** • **php security team** • **addressing security risk** • **tame wild code** • **execute unauthorized code** • **arbitrary code execution** • **ai assisted workflow** • **ai adoption scale** • **windows server 2025**
+**authentication bypass flaw** • **hacker handle rey** • **twitter whistleblower complaint** • **stealing mobile call** • **manipulate search results** • **concept poc exploit** • **chameleonic cryptocurrency platform** • **321 810 accounts** • **treat ai agents** • **aomei backupper compromised** • **extortion group shinyhunters** • **tame wild code** • **execute unauthorized code** • **arbitrary code execution** • **php security team** • **addressing security risk** • **ai assisted workflow** • **ai adoption scale** • **whatsapp hid instructions** • **vladan oki rector**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Stolen UpdraftCentral keys used to backdoor WordPress sites](https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/)
+- [Mozilla, Google, Apple block compromised eMudhra CA certificates](https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/)
 - [PHP warns admins of two critical flaws, emergency patches coming tomorrow](https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/)
 - [Zeabur shutting down after second security breach in two months](https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/)
 - [OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/)
 - [DHS bans DeepSeek products across US federal civilian agencies](https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/)
 - [CJIS v6.1 Compliance: 5 Practical Priorities for Agencies](https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/)
 - [Hacker gets 8 years for stealing $3.3 million from taxpayers](https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/)
-- [Windows Server 2025 gets support for quick machine recovery](https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/)
-- [OVHcloud CLI releases backdoored on GitHub to steal developer secrets](https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/)
 
 ### Krebs on Security
 

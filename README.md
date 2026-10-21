@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-21 09:03 UTC |
+| 🕐 Last Updated | 2026-10-21 14:48 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`ai adoption scale` • `authentication bypass flaw` • `arbitrary code execution` • `1 200 sites` • `twitter whistleblower complaint` • `php will ship` • `manipulate search results` • `hacker handle rey` • `concept poc exploit` • `chameleonic cryptocurrency platform`
+`memory bugs account` • `popular wordpress backup` • `china defends deepseek` • `july attackers hijacked` • `chinese speaking attacker` • `twitter whistleblower complaint` • `safepay ransomware gang` • `remove deepseek products` • `protect 2026 conference` • `hacker handle rey`
 
 ## 📄 Reports
 

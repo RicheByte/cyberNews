@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-22 14:48 UTC |
-| 📰 Articles Analyzed | 48 |
+| 🕐 Last Updated | 2026-10-22 19:41 UTC |
+| 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`operation serengeti iii` • `1 400 people` • `php2shell vulnerabilities vendors` • `global crackdown interpol` • `encrypted environment variables` • `1 200 vulnerabilities` • `hacker handle rey` • `php2shell security firms` • `twitter whistleblower complaint` • `glassworm threat actors`
+`operation serengeti iii` • `net client library` • `1 400 people` • `node js integration` • `global crackdown interpol` • `industrial edge devices` • `hacker handle rey` • `php2shell vulnerabilities vendors` • `1 200 vulnerabilities` • `twitter whistleblower complaint`
 
 ## 📄 Reports
 

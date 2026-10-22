@@ -353,7 +353,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2815,
+      "count": 2816,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -4886,9 +4886,10 @@
       ]
     },
     "industrial edge devices": {
-      "count": 9,
+      "count": 10,
       "dates": [
-        "2026-01-20"
+        "2026-01-20",
+        "2026-10-22"
       ]
     },
     "programmable logic controller": {
@@ -5906,9 +5907,10 @@
       ]
     },
     "underlying host system": {
-      "count": 7,
+      "count": 8,
       "dates": [
-        "2026-01-28"
+        "2026-01-28",
+        "2026-10-22"
       ]
     },
     "stole 1 4tb": {
@@ -33209,7 +33211,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 64,
+      "count": 65,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33575,7 +33577,7 @@
       ]
     },
     "canadian cybersecurity firm": {
-      "count": 48,
+      "count": 49,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -34416,7 +34418,7 @@
       ]
     },
     "chameleonic cryptocurrency platform": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-10-20",
         "2026-10-21",
@@ -34608,7 +34610,7 @@
       ]
     },
     "glassworm threat actors": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-10-21",
         "2026-10-22"
@@ -34671,7 +34673,7 @@
       ]
     },
     "1 400 people": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-22"
       ]
@@ -34683,7 +34685,7 @@
       ]
     },
     "1 200 vulnerabilities": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-22"
       ]
@@ -34695,19 +34697,19 @@
       ]
     },
     "operation serengeti iii": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-22"
       ]
     },
     "php2shell vulnerabilities vendors": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-22"
       ]
     },
     "global crackdown interpol": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-22"
       ]
@@ -34719,7 +34721,7 @@
       ]
     },
     "php2shell security firms": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-22"
       ]
@@ -34747,20 +34749,51 @@
       "dates": [
         "2026-10-22"
       ]
+    },
+    "net client library": {
+      "count": 1,
+      "dates": [
+        "2026-10-22"
+      ]
+    },
+    "node js integration": {
+      "count": 1,
+      "dates": [
+        "2026-10-22"
+      ]
+    },
+    "perform unauthorized operations": {
+      "count": 1,
+      "dates": [
+        "2026-10-22"
+      ]
+    },
+    "pay 25 billion": {
+      "count": 1,
+      "dates": [
+        "2026-10-22"
+      ]
+    },
+    "hacked litellm release": {
+      "count": 1,
+      "dates": [
+        "2026-10-22"
+      ]
+    },
+    "contact customer support": {
+      "count": 1,
+      "dates": [
+        "2026-10-22"
+      ]
+    },
+    "add outside tools": {
+      "count": 1,
+      "dates": [
+        "2026-10-22"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-29 20:23",
-      "articles": 48,
-      "top_keywords": [
-        "darpa selects xint",
-        "fake event invites",
-        "rig security emerges",
-        "shinyhunters extortion group",
-        "hacker group shinyhunters"
-      ]
-    },
     {
       "timestamp": "2026-09-30 00:57",
       "articles": 48,
@@ -35848,6 +35881,17 @@
         "php2shell vulnerabilities vendors",
         "global crackdown interpol",
         "encrypted environment variables"
+      ]
+    },
+    {
+      "timestamp": "2026-10-22 19:41",
+      "articles": 56,
+      "top_keywords": [
+        "operation serengeti iii",
+        "net client library",
+        "1 400 people",
+        "node js integration",
+        "global crackdown interpol"
       ]
     }
   ]

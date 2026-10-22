@@ -1,72 +1,94 @@
 {
-  "last_updated": "2026-10-22 19:41",
+  "last_updated": "2026-10-22 22:55",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "operation serengeti iii",
+    "hacked litellm release",
     "net client library",
-    "1 400 people",
     "node js integration",
     "global crackdown interpol",
+    "flaw lets anyone",
     "industrial edge devices",
     "hacker handle rey",
-    "php2shell vulnerabilities vendors",
     "1 200 vulnerabilities",
+    "php2shell vulnerabilities vendors",
+    "php2shell security firms",
     "twitter whistleblower complaint",
     "perform unauthorized operations",
     "pay 25 billion",
-    "hacked litellm release",
-    "glassworm threat actors",
+    "operation lonestar justice",
+    "detecting suspicious activity",
     "contact customer support",
     "chameleonic cryptocurrency platform",
-    "canadian cybersecurity firm",
-    "add outside tools",
-    "php2shell security firms",
+    "prolific data theft",
+    "extortion group shinyhunters",
     "underlying host system"
   ],
   "trending": [
     {
-      "keyword": "operation serengeti iii",
+      "keyword": "hacked litellm release",
       "mentions": 2
     },
     {
       "keyword": "net client library",
-      "mentions": 1
-    },
-    {
-      "keyword": "1 400 people",
-      "mentions": 3
+      "mentions": 2
     },
     {
       "keyword": "node js integration",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "global crackdown interpol",
-      "mentions": 2
-    },
-    {
-      "keyword": "industrial edge devices",
-      "mentions": 10
-    },
-    {
-      "keyword": "hacker handle rey",
-      "mentions": 65
-    },
-    {
-      "keyword": "php2shell vulnerabilities vendors",
-      "mentions": 2
-    },
-    {
-      "keyword": "1 200 vulnerabilities",
       "mentions": 3
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2816
+      "keyword": "flaw lets anyone",
+      "mentions": 1
+    },
+    {
+      "keyword": "industrial edge devices",
+      "mentions": 11
+    },
+    {
+      "keyword": "hacker handle rey",
+      "mentions": 66
+    },
+    {
+      "keyword": "1 200 vulnerabilities",
+      "mentions": 4
+    },
+    {
+      "keyword": "php2shell vulnerabilities vendors",
+      "mentions": 3
+    },
+    {
+      "keyword": "php2shell security firms",
+      "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
+      "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
+      "summary": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching. Nobody reviewed its access. Nobody owns it. If an employee had that much reach with that little oversight, you would call it an insider risk. So why do we still call the agent a productivity tool?",
+      "published": "Fri, 23 Oct 2026 00:35:35 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
+      "link": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
+      "summary": "Attackers are exploiting a zero-day SQL injection flaw in Arista's VeloCloud Orchestrator (VCO), the central management system for VeloCloud SD-WAN networks, the company said in an advisory on October 22. The flaw lets anyone who can log in to the orchestrator, even with a read-only customer account, gain operator privileges, the top level of control over it. For",
+      "published": "Fri, 23 Oct 2026 00:35:17 +0530",
+      "value_score": 74,
+      "value_signals": [
+        "Zero-day ×2",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
@@ -123,15 +145,6 @@
     },
     {
       "source": "The Hacker News",
-      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
-      "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
-      "summary": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching. Nobody reviewed its access. Nobody owns it. If an employee had that much reach with that little oversight, you would call it an insider risk. So why do we still call the agent a productivity tool?",
-      "published": "Thu, 22 Oct 2026 17:15:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
       "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
       "link": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
       "summary": "Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed \"anomalous activity\" related to systems that store customer environment variables. Upon further investigation, the company found that an unauthorized third party may have gained access to encrypted environment variables, and, in some cases, obtained the decrypted contents. The impact, it said, is limited to a \"subset of users,",
@@ -140,14 +153,25 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
-      "link": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
-      "summary": "A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Context Protocol) servers to add outside tools, and such code would run with the developer's own access. Anomaly, the company behind OpenCode, fixed the flaw in version 1.18.33 on September",
-      "published": "Thu, 22 Oct 2026 16:14:05 +0530",
-      "value_score": 18,
+      "source": "BleepingComputer",
+      "title": "Railway warns devs to rotate secrets after potential breach",
+      "link": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
+      "summary": "Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...]",
+      "published": "Thu, 22 Oct 2026 17:25:31 -0400",
+      "value_score": 22,
       "value_signals": [
-        "Patch/update"
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Capcom confirms data breach affecting 11.7 million accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
+      "summary": "Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...]",
+      "published": "Thu, 22 Oct 2026 16:22:45 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
       ]
     },
     {
@@ -213,26 +237,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
       "summary": "GitLab has released security patches for a maximum-severity Regular Expression Compiler flaw that can let remote attackers run arbitrary code on vulnerable servers. [...]",
       "published": "Thu, 22 Oct 2026 07:41:48 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
-      "link": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
-      "summary": "Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams. [...]",
-      "published": "Thu, 22 Oct 2026 04:27:11 -0400",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
-      "link": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
-      "summary": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]",
-      "published": "Wed, 21 Oct 2026 18:16:26 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -325,6 +329,33 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Microsoft Links Storm-0940 to ConnectWise Supply Chain Attack",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack",
+      "summary": "The China-linked actor used an AI-enabled penetration-testing tool to automate and accelerate its attack on more than 2,200 tenants.",
+      "published": "Thu, 22 Oct 2026 20:42:17 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "What We Missed: Feds Lasso Texas Laptop Farms",
+      "link": "https://www.darkreading.com/insider-threats/texas-laptop-farms-north-korean-it-workers",
+      "summary": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, from busting up North Korea's stateside infrastructure in \"Operation Lonestar Justice\" to Staples' gift card bonanza.",
+      "published": "Thu, 22 Oct 2026 20:33:10 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Les supermarchés de l'UE paient d'un firmware de réfrigérateur non mis à jour",
+      "link": "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware-french",
+      "summary": "Des centaines de magasins ont subi des pertes se chiffrant en millions d'euros parce qu'ils avaient fait appel à des tiers pour gérer le micrologiciel OT obsolète qui pilotait leurs systèmes de climatisation.",
+      "published": "Thu, 22 Oct 2026 19:30:20 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "UAE Transitions 50% of Gov't Services to Agentic AI",
       "link": "https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai",
       "summary": "The United Arab Emirates says it's creating a foundation of security and safety as it transforms its public service footprint.",
@@ -372,33 +403,6 @@
         "High severity",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "OVHcloud GitHub Compromise Tied to GlassWorm Threat Actors",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ovhcloud-github-compromise-glassworm-threat-actors",
-      "summary": "A developer's GitHub account that was compromised several months earlier was used to push malicious code to unsuspecting users.",
-      "published": "Wed, 21 Oct 2026 16:50:15 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Optiv Launches CyberBOT Cybersecurity Awareness Training Program",
-      "link": "https://www.darkreading.com/cybersecurity-operations/optiv-launches-cyberbot-cybersecurity-awareness-training-program",
-      "summary": "Hands-on sessions provide educators, nonprofits, and community leaders with an accessible resource to foster year-round cyber awareness and build more resilient communities.",
-      "published": "Wed, 21 Oct 2026 15:44:48 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Survey Finds High-Profile Executives Feel Untouchable as Digital Exposure Turns Into Physical Risk",
-      "link": "https://www.darkreading.com/cybersecurity-operations/360-privacy-survey-high-profile-executives-feel-untouchable",
-      "summary": "360 Privacy finds more than 8 in 10 security and wealth professionals say cybersecurity and physical security can no longer be separated.",
-      "published": "Wed, 21 Oct 2026 15:29:09 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

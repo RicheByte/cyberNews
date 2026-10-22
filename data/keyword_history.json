@@ -353,7 +353,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2816,
+      "count": 2817,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -4886,7 +4886,7 @@
       ]
     },
     "industrial edge devices": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-20",
         "2026-10-22"
@@ -5907,7 +5907,7 @@
       ]
     },
     "underlying host system": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-28",
         "2026-10-22"
@@ -33170,7 +33170,7 @@
       ]
     },
     "extortion group shinyhunters": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33211,7 +33211,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 65,
+      "count": 66,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33528,7 +33528,7 @@
       ]
     },
     "prolific data theft": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -34418,7 +34418,7 @@
       ]
     },
     "chameleonic cryptocurrency platform": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-10-20",
         "2026-10-21",
@@ -34685,7 +34685,7 @@
       ]
     },
     "1 200 vulnerabilities": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-22"
       ]
@@ -34703,13 +34703,13 @@
       ]
     },
     "php2shell vulnerabilities vendors": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-22"
       ]
     },
     "global crackdown interpol": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-22"
       ]
@@ -34721,7 +34721,7 @@
       ]
     },
     "php2shell security firms": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-22"
       ]
@@ -34751,37 +34751,37 @@
       ]
     },
     "net client library": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-22"
       ]
     },
     "node js integration": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-22"
       ]
     },
     "perform unauthorized operations": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-22"
       ]
     },
     "pay 25 billion": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-22"
       ]
     },
     "hacked litellm release": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-22"
       ]
     },
     "contact customer support": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-22"
       ]
@@ -34791,20 +34791,27 @@
       "dates": [
         "2026-10-22"
       ]
+    },
+    "flaw lets anyone": {
+      "count": 1,
+      "dates": [
+        "2026-10-22"
+      ]
+    },
+    "operation lonestar justice": {
+      "count": 1,
+      "dates": [
+        "2026-10-22"
+      ]
+    },
+    "detecting suspicious activity": {
+      "count": 1,
+      "dates": [
+        "2026-10-22"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-30 00:57",
-      "articles": 48,
-      "top_keywords": [
-        "darpa selects xint",
-        "fake event invites",
-        "rig security emerges",
-        "shinyhunters extortion group",
-        "hacker group shinyhunters"
-      ]
-    },
     {
       "timestamp": "2026-09-30 07:50",
       "articles": 48,
@@ -35892,6 +35899,17 @@
         "1 400 people",
         "node js integration",
         "global crackdown interpol"
+      ]
+    },
+    {
+      "timestamp": "2026-10-22 22:55",
+      "articles": 56,
+      "top_keywords": [
+        "hacked litellm release",
+        "net client library",
+        "node js integration",
+        "global crackdown interpol",
+        "flaw lets anyone"
       ]
     }
   ]

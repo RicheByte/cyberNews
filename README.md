@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-22 19:41 UTC |
+| 🕐 Last Updated | 2026-10-22 22:55 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`operation serengeti iii` • `net client library` • `1 400 people` • `node js integration` • `global crackdown interpol` • `industrial edge devices` • `hacker handle rey` • `php2shell vulnerabilities vendors` • `1 200 vulnerabilities` • `twitter whistleblower complaint`
+`hacked litellm release` • `net client library` • `node js integration` • `global crackdown interpol` • `flaw lets anyone` • `industrial edge devices` • `hacker handle rey` • `1 200 vulnerabilities` • `php2shell vulnerabilities vendors` • `php2shell security firms`
 
 ## 📄 Reports
 

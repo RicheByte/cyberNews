@@ -1,152 +1,184 @@
 {
-  "last_updated": "2026-10-22 09:05",
+  "last_updated": "2026-10-22 14:48",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "google hardens chrome",
+    "operation serengeti iii",
     "1 400 people",
-    "push malicious code",
-    "memory bugs account",
-    "developer's github account",
-    "twitter whistleblower complaint",
-    "released emergency updates",
-    "hacker handle rey",
-    "glassworm threat actors",
-    "critical severity rating",
-    "copy suspicious commands",
-    "canadian cybersecurity firm",
-    "affects every version",
-    "account run code",
+    "php2shell vulnerabilities vendors",
+    "global crackdown interpol",
+    "encrypted environment variables",
     "1 200 vulnerabilities",
+    "hacker handle rey",
+    "php2shell security firms",
+    "twitter whistleblower complaint",
+    "glassworm threat actors",
+    "chameleonic cryptocurrency platform",
+    "canadian cybersecurity firm",
+    "public service footprint",
+    "madpot honeypot service",
     "prolific data theft",
     "extortion group shinyhunters",
-    "windows operating systems",
-    "versions 19 2",
-    "updating fully protects"
+    "urging immediate patching",
+    "uae transitions 50",
+    "stores api keys",
+    "sprawling phishing campaign"
   ],
   "trending": [
     {
-      "keyword": "google hardens chrome",
-      "mentions": 4
+      "keyword": "operation serengeti iii",
+      "mentions": 1
     },
     {
       "keyword": "1 400 people",
+      "mentions": 2
+    },
+    {
+      "keyword": "php2shell vulnerabilities vendors",
       "mentions": 1
     },
     {
-      "keyword": "push malicious code",
-      "mentions": 4
+      "keyword": "global crackdown interpol",
+      "mentions": 1
     },
     {
-      "keyword": "memory bugs account",
-      "mentions": 5
+      "keyword": "encrypted environment variables",
+      "mentions": 1
     },
     {
-      "keyword": "developer's github account",
-      "mentions": 4
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2814
-    },
-    {
-      "keyword": "released emergency updates",
-      "mentions": 23
+      "keyword": "1 200 vulnerabilities",
+      "mentions": 2
     },
     {
       "keyword": "hacker handle rey",
-      "mentions": 63
+      "mentions": 64
+    },
+    {
+      "keyword": "php2shell security firms",
+      "mentions": 1
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2815
     },
     {
       "keyword": "glassworm threat actors",
-      "mentions": 4
-    },
-    {
-      "keyword": "critical severity rating",
-      "mentions": 1
+      "mentions": 5
     }
   ],
   "articles": [
     {
       "source": "The Hacker News",
-      "title": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
-      "link": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
-      "summary": "Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application. During the incident, Storm-0940 used ARTEX, a Go-based agentic AI penetration testing framework that was made closed-source in the wake of its abuse against South Korean financial institutions, to speed up scanning and",
-      "published": "Thu, 22 Oct 2026 09:51:26 +0530",
+      "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
+      "link": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
+      "summary": "INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds. In tandem, the effort saw law enforcement agencies from 21 countries arrest 1,462 suspects. Codenamed Operation Serengeti III, the cybercrime crackdown took place between June 29 and August 31, 2026. \"Authorities identified",
+      "published": "Thu, 22 Oct 2026 19:08:22 +0530",
       "value_score": 10,
       "value_signals": []
     },
     {
       "source": "The Hacker News",
-      "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
-      "link": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
-      "summary": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2014. The fix matters even for administrators who patched nine days earlier: the October 12 update covered only versions 19.2 and later, and the new fixed versions sit one patch above it, so an",
-      "published": "Thu, 22 Oct 2026 00:27:34 +0530",
-      "value_score": 54,
+      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
+      "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
+      "summary": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching. Nobody reviewed its access. Nobody owns it. If an employee had that much reach with that little oversight, you would call it an insider risk. So why do we still call the agent a productivity tool?",
+      "published": "Thu, 22 Oct 2026 17:15:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
+      "link": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
+      "summary": "Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed \"anomalous activity\" related to systems that store customer environment variables. Upon further investigation, the company found that an unauthorized third party may have gained access to encrypted environment variables, and, in some cases, obtained the decrypted contents. The impact, it said, is limited to a \"subset of users,",
+      "published": "Thu, 22 Oct 2026 16:45:42 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
+      "link": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
+      "summary": "A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Context Protocol) servers to add outside tools, and such code would run with the developer's own access. Anomaly, the company behind OpenCode, fixed the flaw in version 1.18.33 on September",
+      "published": "Thu, 22 Oct 2026 16:14:05 +0530",
+      "value_score": 18,
       "value_signals": [
-        "RCE",
-        "Patch/update ×4",
-        "High severity"
+        "Patch/update"
       ]
     },
     {
       "source": "The Hacker News",
-      "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
-      "link": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
-      "summary": "The popular LiteLLM Python package has been compromised as part of a software supply chain attack that delivered a credential stealer and a backdoor, according to reports from SafeDep, Socket, StepSecurity, and Upwind. The compromise affects LiteLLM 1.107.0, distributed through PyPI wheels and Docker images. The Python package has since been quarantined on Python Package Index (PyPI), and the",
-      "published": "Wed, 21 Oct 2026 23:31:57 +0530",
+      "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
+      "link": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
+      "summary": "LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package containing a credential stealer and a backdoor. On October 21, 2026, LiteLLM's release pipeline was compromised to push 1.107.0 to the Docker Hub registry and the Python Package Index (PyPI) repository. The incident took place around 4:00 a.m.",
+      "published": "Thu, 22 Oct 2026 13:58:48 +0530",
       "value_score": 34,
       "value_signals": [
-        "Backdoor ×2"
+        "Breach/leak",
+        "Backdoor"
       ]
     },
     {
       "source": "The Hacker News",
-      "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
-      "link": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
-      "summary": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks. The AI company said the incident took place on October 3 and 6, 2026, for Sol and Astra, respectively, as part of an internal deployment. \"A GPT-6.1 Sol agent repairing an evaluation",
-      "published": "Wed, 21 Oct 2026 22:03:47 +0530",
+      "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
+      "link": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
+      "summary": "Node.js released security updates on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that Node.js bundles, which the project says can allow remote code execution, meaning an attacker could run code of their choosing on the affected system. Each supported line has one fixed version:",
+      "published": "Thu, 22 Oct 2026 13:17:22 +0530",
+      "value_score": 58,
+      "value_signals": [
+        "RCE ×2",
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
+      "link": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
+      "summary": "A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO disclosed, releasing working proof-of-concept code. By sending a small batch of compressed HTTP headers that expands in memory to a much larger set, the attacker can force the server to use thousands of times more memory than it received, enough to run a default server",
+      "published": "Thu, 22 Oct 2026 12:08:31 +0530",
       "value_score": 10,
       "value_signals": []
     },
     {
       "source": "The Hacker News",
-      "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
-      "link": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
-      "summary": "PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixes are in PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35, and the PHP team says only updating fully protects a server. The flaws, together called PHP2Shell, sit in the PHP runtime, not in any application, so a site is exposed even when its own",
-      "published": "Wed, 21 Oct 2026 19:30:00 +0530",
-      "value_score": 60,
+      "title": "Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed",
+      "link": "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html",
+      "summary": "Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities on October 17, 2026, against its MadPot honeypot service, as the flaws come under broad exploitation in the wild following the release of the patches. \"The exploit attempt originated from an IP address associated with a commercial anonymization network,\" CJ Moses,",
+      "published": "Thu, 22 Oct 2026 12:04:10 +0530",
+      "value_score": 41,
       "value_signals": [
-        "RCE",
-        "Patch/update",
-        "High severity ×2",
+        "Active exploitation",
         "Exploit wording"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands",
-      "link": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html",
-      "summary": "Google on Tuesday said it's rolling out improved safeguards in its Chrome browser to secure users against ClickFix attacks when Enhanced Protection is enabled. ClickFix is a popular social engineering technique in which bad actors trick users into copying and pasting malicious code directly into their computer's operating system, thereby bypassing conventional security controls. As part of",
-      "published": "Wed, 21 Oct 2026 18:45:09 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Machine speed attacks require machine speed detection and response",
+      "link": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
+      "summary": "Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA phishing, explaining why faster detection and automated containment are critical. [...]",
+      "published": "Thu, 22 Oct 2026 10:02:12 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing",
+        "High severity"
+      ]
     },
     {
-      "source": "The Hacker News",
-      "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
-      "link": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
-      "summary": "Cybersecurity researchers have disclosed details of a previously undocumented China-aligned threat cluster known as Bronze Sandcastle that has been observed targeting organizations in Asia and Africa since mid-2025. \"The most distinctive technical marker for Bronze Sandcastle is its consistent use of Sandboxie DLL sideloading,\" Sophos security researcher Gabor Szappanos said in a post published",
-      "published": "Wed, 21 Oct 2026 17:35:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
+      "link": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
+      "summary": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]",
+      "published": "Thu, 22 Oct 2026 09:09:12 -0400",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
-      "link": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
-      "summary": "Generative AI has changed what a malicious email looks like. Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templates now arrive fluent, personalized, and unique to each recipient, and the behavioral signals email filters have relied on for years are fading as a result. Proofpoint shared several examples of the shift at its Protect 2026 conference.",
-      "published": "Wed, 21 Oct 2026 17:23:34 +0530",
+      "source": "BleepingComputer",
+      "title": "GitLab warns of new max severity code execution vulnerability",
+      "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
+      "summary": "GitLab has released security patches for a maximum-severity Regular Expression Compiler flaw that can let remote attackers run arbitrary code on vulnerable servers. [...]",
+      "published": "Thu, 22 Oct 2026 07:41:48 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -200,38 +232,6 @@
         "CISA/KEV ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OpenAI agents disabled safety monitoring, one lied about it",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/",
-      "summary": "OpenAI agents powered by the GPT-6.1 Sol and GPT-6 Astra models weakened misalignment monitoring during two internal tasks, interpreting coding instructions as authorization to do so. [...]",
-      "published": "Wed, 21 Oct 2026 12:26:53 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "PHP ships emergency patches for critical PHP2Shell flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
-      "summary": "The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell. [...]",
-      "published": "Wed, 21 Oct 2026 10:07:05 -0400",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "RCE ×2",
-        "High severity ×2",
-        "Multiple CVEs"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
-      "link": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/",
-      "summary": "ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into executing malware. Push Security examines how these attacks evade traditional defenses and why AI tools have become increasingly effective lures. [...]",
-      "published": "Wed, 21 Oct 2026 10:00:10 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -399,6 +399,76 @@
     },
     {
       "source": "Security Week",
+      "title": "Hacker Conversations: Corey Thuen and the Evil Bit",
+      "link": "https://www.securityweek.com/hacker-conversations-corey-thuen-and-the-evil-bit/",
+      "summary": "Corey Thuen hires hackers for what he calls ‘the evil bit’ — an adversarial streak he believes is either there or it isn’t. The post Hacker Conversations: Corey Thuen and the Evil Bit appeared first on SecurityWeek .",
+      "published": "Thu, 22 Oct 2026 14:31:34 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Indurex Raises $8 Million to Expand Industrial Cybersecurity Platform",
+      "link": "https://www.securityweek.com/indurex-raises-8-million-to-expand-industrial-cybersecurity-platform/",
+      "summary": "The Amsterdam-based company plans to use the funding for research and development and commercial expansion in Europe and the Middle East. The post Indurex Raises $8 Million to Expand Industrial Cybersecurity Platform appeared first on SecurityWeek .",
+      "published": "Thu, 22 Oct 2026 13:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Signal Vulnerability Lets Malicious Callers Block Hang-Ups",
+      "link": "https://www.securityweek.com/signal-vulnerability-lets-malicious-callers-block-hang-ups/",
+      "summary": "Affecting the open source calling library RingRTC, the bug prevented calls from ending properly. The post Signal Vulnerability Lets Malicious Callers Block Hang-Ups appeared first on SecurityWeek .",
+      "published": "Thu, 22 Oct 2026 12:34:31 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Tech and Security Companies Respond to PHP2Shell Vulnerabilities",
+      "link": "https://www.securityweek.com/tech-and-security-companies-respond-to-php2shell-vulnerabilities/",
+      "summary": "Vendors are checking their products for PHP2Shell, security firms are shipping detections, and governments are urging immediate patching. The post Tech and Security Companies Respond to PHP2Shell Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Thu, 22 Oct 2026 12:20:23 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Splunk, SolarWinds Release Fresh Security Updates",
+      "link": "https://www.securityweek.com/splunk-solarwinds-release-fresh-security-updates/",
+      "summary": "Patched vulnerabilities could allow attackers to execute code, elevate privileges, and leak sensitive information. The post Splunk, SolarWinds Release Fresh Security Updates appeared first on SecurityWeek .",
+      "published": "Thu, 22 Oct 2026 10:45:24 +0000",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Cisco Patches 34 Vulnerabilities Across Multiple Products",
+      "link": "https://www.securityweek.com/cisco-patches-34-vulnerabilities-across-multiple-products/",
+      "summary": "Critical-severity security defects could lead to command execution, authentication bypass, and XSS attacks. The post Cisco Patches 34 Vulnerabilities Across Multiple Products appeared first on SecurityWeek .",
+      "published": "Thu, 22 Oct 2026 10:05:21 +0000",
+      "value_score": 33,
+      "value_signals": [
+        "Auth bypass",
+        "High severity"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "PHP2Shell Exploitation Started Days Before Patches",
+      "link": "https://www.securityweek.com/php2shell-exploitation-started-days-before-patches/",
+      "summary": "Initial attempts were observed on October 17, and mass activity began shortly after patches were released. The post PHP2Shell Exploitation Started Days Before Patches appeared first on SecurityWeek .",
+      "published": "Thu, 22 Oct 2026 09:48:58 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU",
       "link": "https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/",
       "summary": "Nearly 100 vulnerabilities have been assigned a critical severity rating and Fusion Middleware received the most patches. The post Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU appeared first on SecurityWeek .",
@@ -406,78 +476,6 @@
       "value_score": 18,
       "value_signals": [
         "High severity"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Meta Ordered to Pay New Mexico $25 Billion for Deceiving Users About Privacy on Facebook",
-      "link": "https://www.securityweek.com/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook/",
-      "summary": "The $25 billion award far exceeds a $5 billion fine the Federal Trade Commission levied against Facebook in 2019. The post Meta Ordered to Pay New Mexico $25 Billion for Deceiving Users About Privacy on Facebook appeared first on SecurityWeek .",
-      "published": "Thu, 22 Oct 2026 07:26:54 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections",
-      "link": "https://www.securityweek.com/google-hardens-chrome-against-clickfix-attacks-insecure-http-connections/",
-      "summary": "Protections have been added against scams and social engineering, including new site warnings and server-side Gemini analysis. The post Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections appeared first on SecurityWeek .",
-      "published": "Wed, 21 Oct 2026 17:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors",
-      "link": "https://www.securityweek.com/php2shell-patches-land-as-first-exploitation-attempts-hit-sensors/",
-      "summary": "Several cybersecurity companies saw exploitation attempts of CVE-2026-109618 and CVE-2026-109619 before PHP released the patches. The post PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors appeared first on SecurityWeek .",
-      "published": "Wed, 21 Oct 2026 16:50:40 +0000",
-      "value_score": 60,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "‘Context Bombs’ Cut AI Attack Success by Misleading Agents With Fake Targets",
-      "link": "https://www.securityweek.com/context-bombs-cut-ai-attack-success-by-misleading-agents-with-fake-targets/",
-      "summary": "Deceptive prompts lure AI agents into decoys and dead ends, cutting attack success by up to 91% in tests and raising the cost of a successful attack 23-fold. The post ‘Context Bombs’ Cut AI Attack Success by Misleading Agents With Fake Targets appeared first on SecurityWeek .",
-      "published": "Wed, 21 Oct 2026 15:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "High-Severity Flaws Exploited in Three Days as Ransomware Dominates Q3: Rapid7",
-      "link": "https://www.securityweek.com/high-severity-flaws-exploited-in-three-days-as-ransomware-dominates-q3-rapid7/",
-      "summary": "Rapid7’s Q3 analysis finds high-severity flaws exploited within three days on average, while AI appeared in just 8% of tracked incidents. The post High-Severity Flaws Exploited in Three Days as Ransomware Dominates Q3: Rapid7 appeared first on SecurityWeek .",
-      "published": "Wed, 21 Oct 2026 14:45:00 +0000",
-      "value_score": 52,
-      "value_signals": [
-        "Ransomware ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Asymptote Labs Lands $5.5 Million Seed for AI Agent Runtime Security",
-      "link": "https://www.securityweek.com/asymptote-labs-lands-5-5-million-seed-for-ai-agent-runtime-security/",
-      "summary": "Asymptote Labs raises $5.5M seed led by Tower Research Ventures to commercialize its Beacon AI agent runtime security platform. The post Asymptote Labs Lands $5.5 Million Seed for AI Agent Runtime Security appeared first on SecurityWeek .",
-      "published": "Wed, 21 Oct 2026 13:17:35 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Memory Bugs Account for Most of Chrome’s 353 New Security Fixes",
-      "link": "https://www.securityweek.com/memory-bugs-account-for-most-of-chromes-353-new-security-fixes/",
-      "summary": "The update fixes 353 flaws, including 163 memory corruption and 125 use-after-free vulnerabilities. The post Memory Bugs Account for Most of Chrome’s 353 New Security Fixes appeared first on SecurityWeek .",
-      "published": "Wed, 21 Oct 2026 12:57:47 +0000",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
       ]
     },
     {

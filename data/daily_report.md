@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-10-22 09:05 UTC  
+> **Last Updated:** 2026-10-22 14:48 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**google hardens chrome** • **1 400 people** • **push malicious code** • **memory bugs account** • **developer's github account** • **twitter whistleblower complaint** • **released emergency updates** • **hacker handle rey** • **glassworm threat actors** • **critical severity rating** • **copy suspicious commands** • **canadian cybersecurity firm** • **affects every version** • **account run code** • **1 200 vulnerabilities** • **prolific data theft** • **extortion group shinyhunters** • **windows operating systems** • **versions 19 2** • **updating fully protects**
+**operation serengeti iii** • **1 400 people** • **php2shell vulnerabilities vendors** • **global crackdown interpol** • **encrypted environment variables** • **1 200 vulnerabilities** • **hacker handle rey** • **php2shell security firms** • **twitter whistleblower complaint** • **glassworm threat actors** • **chameleonic cryptocurrency platform** • **canadian cybersecurity firm** • **public service footprint** • **madpot honeypot service** • **prolific data theft** • **extortion group shinyhunters** • **urging immediate patching** • **uae transitions 50** • **stores api keys** • **sprawling phishing campaign**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
-- [China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack](https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html)
-- [Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases](https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html)
-- [LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor](https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html)
-- [OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So](https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html)
-- [PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge](https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html)
-- [Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands](https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html)
-- [China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors](https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html)
-- [Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports](https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html)
+- [INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown](https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html)
+- [The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat](https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html)
+- [Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation](https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html)
+- [OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL](https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html)
+- [LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release](https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html)
+- [Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions](https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html)
+- [New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification](https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html)
+- [Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed](https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html)
 
 ### BleepingComputer
 
+- [Machine speed attacks require machine speed detection and response](https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/)
+- [Amazon says PHP2Shell exploitation began 4 days before patches](https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/)
+- [GitLab warns of new max severity code execution vulnerability](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/)
 - [Authorities disrupt nearly 11,000 cybercrime networks in Africa](https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/)
 - [Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks](https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/)
 - [Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected](https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/)
 - [Lazarus hackers use post-quantum cryptography for malware delivery](https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/)
 - [CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers](https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/)
-- [OpenAI agents disabled safety monitoring, one lied about it](https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/)
-- [PHP ships emergency patches for critical PHP2Shell flaws](https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/)
-- [ClickFix has never been bigger, and AI tools are its most convincing lure yet](https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Hacker Conversations: Corey Thuen and the Evil Bit](https://www.securityweek.com/hacker-conversations-corey-thuen-and-the-evil-bit/)
+- [Indurex Raises $8 Million to Expand Industrial Cybersecurity Platform](https://www.securityweek.com/indurex-raises-8-million-to-expand-industrial-cybersecurity-platform/)
+- [Signal Vulnerability Lets Malicious Callers Block Hang-Ups](https://www.securityweek.com/signal-vulnerability-lets-malicious-callers-block-hang-ups/)
+- [Tech and Security Companies Respond to PHP2Shell Vulnerabilities](https://www.securityweek.com/tech-and-security-companies-respond-to-php2shell-vulnerabilities/)
+- [Splunk, SolarWinds Release Fresh Security Updates](https://www.securityweek.com/splunk-solarwinds-release-fresh-security-updates/)
+- [Cisco Patches 34 Vulnerabilities Across Multiple Products](https://www.securityweek.com/cisco-patches-34-vulnerabilities-across-multiple-products/)
+- [PHP2Shell Exploitation Started Days Before Patches](https://www.securityweek.com/php2shell-exploitation-started-days-before-patches/)
 - [Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU](https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/)
-- [Meta Ordered to Pay New Mexico $25 Billion for Deceiving Users About Privacy on Facebook](https://www.securityweek.com/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook/)
-- [Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections](https://www.securityweek.com/google-hardens-chrome-against-clickfix-attacks-insecure-http-connections/)
-- [PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors](https://www.securityweek.com/php2shell-patches-land-as-first-exploitation-attempts-hit-sensors/)
-- [‘Context Bombs’ Cut AI Attack Success by Misleading Agents With Fake Targets](https://www.securityweek.com/context-bombs-cut-ai-attack-success-by-misleading-agents-with-fake-targets/)
-- [High-Severity Flaws Exploited in Three Days as Ransomware Dominates Q3: Rapid7](https://www.securityweek.com/high-severity-flaws-exploited-in-three-days-as-ransomware-dominates-q3-rapid7/)
-- [Asymptote Labs Lands $5.5 Million Seed for AI Agent Runtime Security](https://www.securityweek.com/asymptote-labs-lands-5-5-million-seed-for-ai-agent-runtime-security/)
-- [Memory Bugs Account for Most of Chrome’s 353 New Security Fixes](https://www.securityweek.com/memory-bugs-account-for-most-of-chromes-353-new-security-fixes/)
 
 ### Threatpost
 

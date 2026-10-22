@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-22 09:05 UTC |
+| 🕐 Last Updated | 2026-10-22 14:48 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`google hardens chrome` • `1 400 people` • `push malicious code` • `memory bugs account` • `developer's github account` • `twitter whistleblower complaint` • `released emergency updates` • `hacker handle rey` • `glassworm threat actors` • `critical severity rating`
+`operation serengeti iii` • `1 400 people` • `php2shell vulnerabilities vendors` • `global crackdown interpol` • `encrypted environment variables` • `1 200 vulnerabilities` • `hacker handle rey` • `php2shell security firms` • `twitter whistleblower complaint` • `glassworm threat actors`
 
 ## 📄 Reports
 

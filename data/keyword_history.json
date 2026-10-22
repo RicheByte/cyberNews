@@ -353,7 +353,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2814,
+      "count": 2815,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2125,7 +2125,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 663,
+      "count": 664,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2265,7 +2265,8 @@
         "2026-10-14",
         "2026-10-15",
         "2026-10-20",
-        "2026-10-21"
+        "2026-10-21",
+        "2026-10-22"
       ]
     },
     "model agnostic abstractions": {
@@ -18616,10 +18617,11 @@
       ]
     },
     "urging immediate patching": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-28",
-        "2026-05-29"
+        "2026-05-29",
+        "2026-10-22"
       ]
     },
     "network video recorder": {
@@ -33166,7 +33168,7 @@
       ]
     },
     "extortion group shinyhunters": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33207,7 +33209,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 63,
+      "count": 64,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33524,7 +33526,7 @@
       ]
     },
     "prolific data theft": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -33573,7 +33575,7 @@
       ]
     },
     "canadian cybersecurity firm": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -34414,10 +34416,11 @@
       ]
     },
     "chameleonic cryptocurrency platform": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-10-20",
-        "2026-10-21"
+        "2026-10-21",
+        "2026-10-22"
       ]
     },
     "backdoor called hookedge": {
@@ -34605,7 +34608,7 @@
       ]
     },
     "glassworm threat actors": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-10-21",
         "2026-10-22"
@@ -34668,7 +34671,7 @@
       ]
     },
     "1 400 people": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-22"
       ]
@@ -34680,7 +34683,7 @@
       ]
     },
     "1 200 vulnerabilities": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-22"
       ]
@@ -34690,20 +34693,63 @@
       "dates": [
         "2026-10-22"
       ]
+    },
+    "operation serengeti iii": {
+      "count": 1,
+      "dates": [
+        "2026-10-22"
+      ]
+    },
+    "php2shell vulnerabilities vendors": {
+      "count": 1,
+      "dates": [
+        "2026-10-22"
+      ]
+    },
+    "global crackdown interpol": {
+      "count": 1,
+      "dates": [
+        "2026-10-22"
+      ]
+    },
+    "encrypted environment variables": {
+      "count": 1,
+      "dates": [
+        "2026-10-22"
+      ]
+    },
+    "php2shell security firms": {
+      "count": 1,
+      "dates": [
+        "2026-10-22"
+      ]
+    },
+    "public service footprint": {
+      "count": 1,
+      "dates": [
+        "2026-10-22"
+      ]
+    },
+    "madpot honeypot service": {
+      "count": 1,
+      "dates": [
+        "2026-10-22"
+      ]
+    },
+    "uae transitions 50": {
+      "count": 1,
+      "dates": [
+        "2026-10-22"
+      ]
+    },
+    "stores api keys": {
+      "count": 1,
+      "dates": [
+        "2026-10-22"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-29 14:32",
-      "articles": 48,
-      "top_keywords": [
-        "ai escape party",
-        "rig security emerges",
-        "hacker group shinyhunters",
-        "executing powershell commands",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-09-29 20:23",
       "articles": 48,
@@ -35791,6 +35837,17 @@
         "push malicious code",
         "memory bugs account",
         "developer's github account"
+      ]
+    },
+    {
+      "timestamp": "2026-10-22 14:48",
+      "articles": 48,
+      "top_keywords": [
+        "operation serengeti iii",
+        "1 400 people",
+        "php2shell vulnerabilities vendors",
+        "global crackdown interpol",
+        "encrypted environment variables"
       ]
     }
   ]

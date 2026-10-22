@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 812,
+      "count": 813,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -353,7 +353,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2813,
+      "count": 2814,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -8096,7 +8096,7 @@
       ]
     },
     "released emergency updates": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-02-16",
         "2026-02-17",
@@ -33166,7 +33166,7 @@
       ]
     },
     "extortion group shinyhunters": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33207,7 +33207,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 62,
+      "count": 63,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33524,7 +33524,7 @@
       ]
     },
     "prolific data theft": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -33573,7 +33573,7 @@
       ]
     },
     "canadian cybersecurity firm": {
-      "count": 46,
+      "count": 47,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -33586,7 +33586,8 @@
         "2026-10-18",
         "2026-10-19",
         "2026-10-20",
-        "2026-10-21"
+        "2026-10-21",
+        "2026-10-22"
       ]
     },
     "repositories cybersecurity researchers": {
@@ -34503,7 +34504,7 @@
       ]
     },
     "memory bugs account": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-10-21",
         "2026-10-22"
@@ -34590,28 +34591,28 @@
       ]
     },
     "google hardens chrome": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-21",
         "2026-10-22"
       ]
     },
     "push malicious code": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-21",
         "2026-10-22"
       ]
     },
     "glassworm threat actors": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-21",
         "2026-10-22"
       ]
     },
     "developer's github account": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-21",
         "2026-10-22"
@@ -34639,46 +34640,59 @@
       ]
     },
     "copy suspicious commands": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-21",
         "2026-10-22"
       ]
     },
     "affects every version": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-21",
         "2026-10-22"
       ]
     },
     "account run code": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-21",
         "2026-10-22"
       ]
     },
     "versions 19 2": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-21",
+        "2026-10-22"
+      ]
+    },
+    "1 400 people": {
+      "count": 1,
+      "dates": [
+        "2026-10-22"
+      ]
+    },
+    "critical severity rating": {
+      "count": 1,
+      "dates": [
+        "2026-10-22"
+      ]
+    },
+    "1 200 vulnerabilities": {
+      "count": 1,
+      "dates": [
+        "2026-10-22"
+      ]
+    },
+    "updating fully protects": {
+      "count": 1,
+      "dates": [
         "2026-10-22"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-29 07:47",
-      "articles": 48,
-      "top_keywords": [
-        "cve 2026 86950",
-        "ai escape party",
-        "unauthorized actions openai",
-        "twitter whistleblower complaint",
-        "practical enterprise framework"
-      ]
-    },
     {
       "timestamp": "2026-09-29 14:32",
       "articles": 48,
@@ -35764,6 +35778,17 @@
         "google hardens chrome",
         "push malicious code",
         "released emergency updates",
+        "memory bugs account",
+        "developer's github account"
+      ]
+    },
+    {
+      "timestamp": "2026-10-22 09:05",
+      "articles": 48,
+      "top_keywords": [
+        "google hardens chrome",
+        "1 400 people",
+        "push malicious code",
         "memory bugs account",
         "developer's github account"
       ]

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-22 02:57 UTC |
+| 🕐 Last Updated | 2026-10-22 09:05 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`google hardens chrome` • `push malicious code` • `released emergency updates` • `memory bugs account` • `developer's github account` • `7 0 released` • `twitter whistleblower complaint` • `hacker handle rey` • `glassworm threat actors` • `copy suspicious commands`
+`google hardens chrome` • `1 400 people` • `push malicious code` • `memory bugs account` • `developer's github account` • `twitter whistleblower complaint` • `released emergency updates` • `hacker handle rey` • `glassworm threat actors` • `critical severity rating`
 
 ## 📄 Reports
 

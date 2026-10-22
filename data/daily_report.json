@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-10-22 02:57",
+  "last_updated": "2026-10-22 09:05",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "google hardens chrome",
+    "1 400 people",
     "push malicious code",
-    "released emergency updates",
     "memory bugs account",
     "developer's github account",
-    "7 0 released",
     "twitter whistleblower complaint",
+    "released emergency updates",
     "hacker handle rey",
     "glassworm threat actors",
+    "critical severity rating",
     "copy suspicious commands",
+    "canadian cybersecurity firm",
     "affects every version",
     "account run code",
+    "1 200 vulnerabilities",
     "prolific data theft",
     "extortion group shinyhunters",
-    "php2shell patches land",
-    "php will release",
     "windows operating systems",
     "versions 19 2",
-    "trusted chatbot platforms",
-    "tower research ventures"
+    "updating fully protects"
   ],
   "trending": [
     {
       "keyword": "google hardens chrome",
-      "mentions": 3
-    },
-    {
-      "keyword": "push malicious code",
-      "mentions": 3
-    },
-    {
-      "keyword": "released emergency updates",
-      "mentions": 22
-    },
-    {
-      "keyword": "memory bugs account",
       "mentions": 4
     },
     {
-      "keyword": "developer's github account",
-      "mentions": 3
+      "keyword": "1 400 people",
+      "mentions": 1
     },
     {
-      "keyword": "7 0 released",
-      "mentions": 2
+      "keyword": "push malicious code",
+      "mentions": 4
+    },
+    {
+      "keyword": "memory bugs account",
+      "mentions": 5
+    },
+    {
+      "keyword": "developer's github account",
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2813
+      "mentions": 2814
+    },
+    {
+      "keyword": "released emergency updates",
+      "mentions": 23
     },
     {
       "keyword": "hacker handle rey",
-      "mentions": 62
+      "mentions": 63
     },
     {
       "keyword": "glassworm threat actors",
-      "mentions": 3
+      "mentions": 4
     },
     {
-      "keyword": "copy suspicious commands",
-      "mentions": 2
+      "keyword": "critical severity rating",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
+      "link": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
+      "summary": "Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application. During the incident, Storm-0940 used ARTEX, a Go-based agentic AI penetration testing framework that was made closed-source in the wake of its abuse against South Korean financial institutions, to speed up scanning and",
+      "published": "Thu, 22 Oct 2026 09:51:26 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
@@ -95,7 +104,7 @@
       "source": "The Hacker News",
       "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
       "link": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
-      "summary": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and one GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks. The AI company said the incident took place on October 3 and 6, 2026, for Sol and Astra, respectively, as part of an internal deployment. \"A GPT-6.1 Sol agent repairing an",
+      "summary": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks. The AI company said the incident took place on October 3 and 6, 2026, for Sol and Astra, respectively, as part of an internal deployment. \"A GPT-6.1 Sol agent repairing an evaluation",
       "published": "Wed, 21 Oct 2026 22:03:47 +0530",
       "value_score": 10,
       "value_signals": []
@@ -142,16 +151,14 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
-      "link": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
-      "summary": "You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm that suggested it now says. PHP will release the fix at 14:00 UTC on October 21 for two flaws it rates 9.2 out of 10, and has given no workaround of its own. Until you can install it, what lowers your",
-      "published": "Wed, 21 Oct 2026 16:06:53 +0530",
-      "value_score": 54,
+      "source": "BleepingComputer",
+      "title": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
+      "link": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
+      "summary": "Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams. [...]",
+      "published": "Thu, 22 Oct 2026 04:27:11 -0400",
+      "value_score": 28,
       "value_signals": [
-        "RCE",
-        "Patch/update ×3",
-        "High severity"
+        "Ransomware"
       ]
     },
     {
@@ -223,15 +230,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/",
       "summary": "ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into executing malware. Push Security examines how these attacks evade traditional defenses and why AI tools have become increasingly effective lures. [...]",
       "published": "Wed, 21 Oct 2026 10:00:10 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft PowerToys adds CursorHide, Button Lock mouse tools",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/",
-      "summary": "Microsoft has released PowerToys 0.102, with two new mouse utilities, new command-line tools, and Command Palette improvements. [...]",
-      "published": "Wed, 21 Oct 2026 08:20:34 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -324,6 +322,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "UAE Transitions 50% of Gov't Services to Agentic AI",
+      "link": "https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai",
+      "summary": "The United Arab Emirates says it's creating a foundation of security and safety as it transforms its public service footprint.",
+      "published": "Thu, 22 Oct 2026 05:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "TiDB Breach Exposes Flawed Cloud Security Assumptions",
       "link": "https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security",
       "summary": "Cloud providers may be storing sensitive customer data, without either party knowing it. But when a provider is breached, the data comes home to roost.",
@@ -391,11 +398,22 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Decades-Old Windows Utility Powers Modern ClickFix Attack",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/decades-old-windows-utility-modern-clickfix-attack",
-      "summary": "The attack uses malicious Google search results related to Amazon and leverages the \"finger\" utility to launch a CAPTCHA that installs malware, including the Lumma stealer.",
-      "published": "Wed, 21 Oct 2026 13:00:00 GMT",
+      "source": "Security Week",
+      "title": "Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU",
+      "link": "https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/",
+      "summary": "Nearly 100 vulnerabilities have been assigned a critical severity rating and Fusion Middleware received the most patches. The post Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU appeared first on SecurityWeek .",
+      "published": "Thu, 22 Oct 2026 07:38:14 +0000",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Meta Ordered to Pay New Mexico $25 Billion for Deceiving Users About Privacy on Facebook",
+      "link": "https://www.securityweek.com/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook/",
+      "summary": "The $25 billion award far exceeds a $5 billion fine the Federal Trade Commission levied against Facebook in 2019. The post Meta Ordered to Pay New Mexico $25 Billion for Deceiving Users About Privacy on Facebook appeared first on SecurityWeek .",
+      "published": "Thu, 22 Oct 2026 07:26:54 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -461,24 +479,6 @@
       "value_signals": [
         "Patch/update"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "OpenAI Agents Silenced Security Team Alerts, Removed Misalignment Monitor",
-      "link": "https://www.securityweek.com/openai-agents-silenced-security-team-alerts-removed-misalignment-monitor/",
-      "summary": "In two internal incidents, agents read routine coding instructions as permission to weaken monitoring, and one gave a false answer about it. The post OpenAI Agents Silenced Security Team Alerts, Removed Misalignment Monitor appeared first on SecurityWeek .",
-      "published": "Wed, 21 Oct 2026 12:34:22 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Browsers Block eMudhra Intermediate CAs Over Recoverable Private Keys",
-      "link": "https://www.securityweek.com/browsers-block-emudhra-intermediate-cas-over-recoverable-private-keys/",
-      "summary": "The private keys associated with eight certificates were compromised, and root programs and trust stores are blocking them. The post Browsers Block eMudhra Intermediate CAs Over Recoverable Private Keys appeared first on SecurityWeek .",
-      "published": "Wed, 21 Oct 2026 11:22:05 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

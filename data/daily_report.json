@@ -1,72 +1,105 @@
 {
-  "last_updated": "2026-10-23 14:35",
+  "last_updated": "2026-10-23 19:43",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "net client library",
     "11 million impacted",
-    "sdks default client",
-    "pixels without checking",
-    "industrial edge devices",
+    "quanum lsm system",
     "web applications configured",
-    "underlying host system",
     "twitter whistleblower complaint",
-    "modifying system configurations",
+    "stealing mobile call",
     "hacker handle rey",
-    "concept ran code",
-    "another threat actor",
-    "mfa phishing explaining",
+    "underlying host system",
+    "modifying system configurations",
+    "gentlemen ransomware groups",
     "destructive ukraine attack",
     "prolific data theft",
     "extortion group shinyhunters",
-    "malicious api asked",
-    "approve malicious packages",
-    "gained privileged access",
-    "third party components"
+    "policing unpredictable agents",
+    "concept ran code",
+    "canadian cybersecurity firm",
+    "third party components",
+    "teams messages starting",
+    "sophisticated underground market",
+    "shared mitigation measures"
   ],
   "trending": [
     {
       "keyword": "net client library",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "11 million impacted",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "sdks default client",
+      "keyword": "quanum lsm system",
       "mentions": 1
-    },
-    {
-      "keyword": "pixels without checking",
-      "mentions": 1
-    },
-    {
-      "keyword": "industrial edge devices",
-      "mentions": 14
     },
     {
       "keyword": "web applications configured",
-      "mentions": 1
-    },
-    {
-      "keyword": "underlying host system",
-      "mentions": 12
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2820
-    },
-    {
-      "keyword": "modifying system configurations",
       "mentions": 2
     },
     {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2821
+    },
+    {
+      "keyword": "stealing mobile call",
+      "mentions": 14
+    },
+    {
       "keyword": "hacker handle rey",
-      "mentions": 69
+      "mentions": 70
+    },
+    {
+      "keyword": "underlying host system",
+      "mentions": 13
+    },
+    {
+      "keyword": "modifying system configurations",
+      "mentions": 3
+    },
+    {
+      "keyword": "gentlemen ransomware groups",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
+      "link": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
+      "summary": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and Turkmenistan in early 2026, is suspected to be orchestrated by a China-linked state-sponsored hacking group known as APT41, Kaspersky said in a technical report",
+      "published": "Sat, 24 Oct 2026 00:20:13 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
+      "link": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
+      "summary": "Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab patched over the past month. GitLab found that a specially crafted pattern could corrupt memory while Ruby compiles it, potentially leading to code execution on its own servers. Ruby says any",
+      "published": "Fri, 23 Oct 2026 23:24:08 +0530",
+      "value_score": 54,
+      "value_signals": [
+        "RCE",
+        "Patch/update",
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
+      "link": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
+      "summary": "Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups. Central to the operation is an \"Autonomous Red Team Kill Chain Framework\" referred to as Phantom. The threat actor is assessed to be Russian-speaking and functions both as an intrusion and data-extortion operator, as well as an",
+      "published": "Fri, 23 Oct 2026 23:20:47 +0530",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
@@ -80,7 +113,7 @@
     },
     {
       "source": "The Hacker News",
-      "title": "PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches",
+      "title": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
       "link": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
       "summary": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws. The new issue, assigned CVE-2026-115560, affects only web applications configured in an unusual way, and PHP considers it an unlikely risk.The project is not issuing an emergency fix for it. Instead, it recommends turning off a feature called",
       "published": "Fri, 23 Oct 2026 16:55:43 +0530",
@@ -94,7 +127,7 @@
     },
     {
       "source": "The Hacker News",
-      "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
+      "title": "Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
       "link": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
       "summary": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year. According to ESET, the attack involved UAC-0099 (aka Earth Sirrush) obtaining initial access to the target on July 16, 2025, via a spear-phishing email bearing a malware-laced attachment that led to the deployment of",
       "published": "Fri, 23 Oct 2026 16:41:23 +0530",
@@ -131,38 +164,47 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances",
-      "link": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
-      "summary": "AI agents paying for API calls with the x402 SDKs could sign a payment for their full balance of a supported token if a malicious API asked for it, security firm V12 said on October 22. The cause was the SDKs' default client, which set no spending limit until releases on August 18 added one. The risk was limited to agents who automatically signed payments and whose apps set",
-      "published": "Fri, 23 Oct 2026 14:05:45 +0530",
-      "value_score": 18,
+      "source": "BleepingComputer",
+      "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
+      "summary": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]",
+      "published": "Fri, 23 Oct 2026 14:54:41 -0400",
+      "value_score": 26,
       "value_signals": [
-        "High severity"
+        "Phishing ×2"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
-      "link": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
-      "summary": "Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerges that weaponizing the flaws may be harder than previously thought. The attacks aim to exploit CVE-2026-109618 and CVE-2026-109619 (CVSS scores: 9.2), which can result in unauthenticated remote",
-      "published": "Fri, 23 Oct 2026 13:10:45 +0530",
-      "value_score": 70,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "Botnet",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
-      "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
-      "summary": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching. Nobody reviewed its access. Nobody owns it. If an employee had that much reach with that little oversight, you would call it an insider risk. So why do we still call the agent a productivity tool?",
-      "published": "Fri, 23 Oct 2026 00:35:35 +0530",
+      "source": "BleepingComputer",
+      "title": "Microsoft: Windows Server 2016 reaches end of support in January",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
+      "summary": "Microsoft says Windows Server 2016 will stop receiving security updates after it reaches the end of support in January 2027. [...]",
+      "published": "Fri, 23 Oct 2026 13:05:07 -0400",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Quest Diagnostics confirms data breach exposed patient records",
+      "link": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
+      "summary": "American clinical laboratory company Quest Diagnostics disclosed that patient records have been exposed after a threat actor gained unauthorized access to its Quanum LSM system. [...]",
+      "published": "Fri, 23 Oct 2026 12:40:07 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "PHP shares mitigation for new RCE vulnerability with no patch",
+      "link": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
+      "summary": "The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. [...]",
+      "published": "Fri, 23 Oct 2026 11:38:05 -0400",
+      "value_score": 66,
+      "value_signals": [
+        "RCE ×2",
+        "Patch/update ×2"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -206,52 +248,6 @@
       "value_score": 22,
       "value_signals": [
         "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
-      "link": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
-      "summary": "Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]",
-      "published": "Thu, 22 Oct 2026 15:12:51 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
-      "summary": "Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
-      "published": "Thu, 22 Oct 2026 13:18:22 -0400",
-      "value_score": 99,
-      "value_signals": [
-        "Zero-day ×2",
-        "Active exploitation",
-        "Patch/update",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft shares how to fix broken Exchange Online EWS apps",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
-      "summary": "Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working. [...]",
-      "published": "Thu, 22 Oct 2026 11:49:32 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Machine speed attacks require machine speed detection and response",
-      "link": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
-      "summary": "Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA phishing, explaining why faster detection and automated containment are critical. [...]",
-      "published": "Thu, 22 Oct 2026 10:02:12 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing",
-        "High severity"
       ]
     },
     {
@@ -343,6 +339,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "AI Tools Are Generating Massive Attacks for Little Cost",
+      "link": "https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost",
+      "summary": "One campaign targets 105 sites using open-weight models; in another, public models gained full domain control for $12. Cyber-defense will have to change.",
+      "published": "Fri, 23 Oct 2026 17:26:59 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Why Caribbean Threats Cascade Into Global Cyber-Risk",
       "link": "https://www.darkreading.com/cyber-risk/why-caribbean-threats-cascade-global-cyber-risk",
       "summary": "The region is demonstrating what happens when exploits accelerate but assurance does not.",
@@ -365,7 +370,7 @@
       "source": "Dark Reading",
       "title": "AI Agents as Insider Threats: Inside Microsoft's Bet on a Unified Security Stack",
       "link": "https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack",
-      "summary": "Microsoft's Project Perception adds Guardian Agents to monitor and contain anomalous AI agents, but experts warn that policing unpredictable agents with other agents may multiply — not contain — the risk.",
+      "summary": "Microsoft's Project Perception adds Guardian Agents to monitor and contain anomalous AI agents, but experts warn that policing unpredictable agents with other agents may compound — not contain — the risk.",
       "published": "Fri, 23 Oct 2026 11:38:28 GMT",
       "value_score": 10,
       "value_signals": []
@@ -405,15 +410,6 @@
       "link": "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware-french",
       "summary": "Des centaines de magasins ont subi des pertes se chiffrant en millions d'euros parce qu'ils avaient fait appel à des tiers pour gérer le micrologiciel OT obsolète qui pilotait leurs systèmes de climatisation.",
       "published": "Thu, 22 Oct 2026 19:30:20 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "As AI Risks Grow, Insurers Split on Covering the Damage",
-      "link": "https://www.darkreading.com/cyber-risk/cyber-insurance-covering-ai-damage",
-      "summary": "Insurers are split on AI risk: some build specialized agentic AI coverage, while major carriers quietly exclude it — leaving enterprises exposed without their knowledge.",
-      "published": "Thu, 22 Oct 2026 14:21:22 GMT",
       "value_score": 10,
       "value_signals": []
     },
@@ -589,6 +585,20 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-114625 Arista VeloCloud Orchestrator SQL Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civili",
+      "published": "Fri, 23 Oct 26 12:00:00 +0000",
+      "value_score": 99,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "CISA/KEV ×4",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "Siemens SIMATIC S7 Webserver API",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-10",
       "summary": "View CSAF Summary .NET Client Library for SIMATIC S7 Webserver API contains multiple vulnerabilities that could allow an attacker to obtain sensitive information or write arbitrary files outside the intended download directory. Siemens has released a new version for .NET Client Library for SIMATIC S7 Webserver API and recommends to update to the latest version. The following versions of Siemens SIMATIC S7 Webserver API are affected: .NET Client Library for SIMATIC S7 Webserver API vers:intdot/<3",
@@ -671,18 +681,6 @@
       "value_signals": [
         "Source boost: CISA Alerts",
         "Privilege escalation",
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Siemens Industrial Edge Device Kit",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-09",
-      "summary": "View CSAF Summary Users of Industrial Edge Devices are advised to consult the respective Security Advisories for their devices (for Siemens Industrial Edge devices see Additional Information). Industrial Edge Device Kit contains multiple path traversal vulnerabilities that could facilitate an authenticated remote attacker to access sensitive internal information. Siemens has released new versions for several affected products and recommends to update to the latest versions. Siemens recommends sp",
-      "published": "Thu, 22 Oct 26 12:00:00 +0000",
-      "value_score": 43,
-      "value_signals": [
-        "Source boost: CISA Alerts",
         "Patch/update"
       ]
     }

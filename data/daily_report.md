@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-10-23 14:35 UTC  
+> **Last Updated:** 2026-10-23 19:43 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**net client library** • **11 million impacted** • **sdks default client** • **pixels without checking** • **industrial edge devices** • **web applications configured** • **underlying host system** • **twitter whistleblower complaint** • **modifying system configurations** • **hacker handle rey** • **concept ran code** • **another threat actor** • **mfa phishing explaining** • **destructive ukraine attack** • **prolific data theft** • **extortion group shinyhunters** • **malicious api asked** • **approve malicious packages** • **gained privileged access** • **third party components**
+**net client library** • **11 million impacted** • **quanum lsm system** • **web applications configured** • **twitter whistleblower complaint** • **stealing mobile call** • **hacker handle rey** • **underlying host system** • **modifying system configurations** • **gentlemen ransomware groups** • **destructive ukraine attack** • **prolific data theft** • **extortion group shinyhunters** • **policing unpredictable agents** • **concept ran code** • **canadian cybersecurity firm** • **third party components** • **teams messages starting** • **sophisticated underground market** • **shared mitigation measures**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations](https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html)
+- [Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws](https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html)
+- [Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions](https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html)
 - [Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials](https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html)
-- [PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches](https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html)
-- [Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack](https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html)
+- [PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches](https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html)
+- [Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack](https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html)
 - [Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image](https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html)
 - [Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data](https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html)
-- [Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances](https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html)
-- [PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware](https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html)
-- [The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat](https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html)
 
 ### BleepingComputer
 
+- [Microsoft Teams to get AI-powered, context-aware phishing detection](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/)
+- [Microsoft: Windows Server 2016 reaches end of support in January](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/)
+- [Quest Diagnostics confirms data breach exposed patient records](https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/)
+- [PHP shares mitigation for new RCE vulnerability with no patch](https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/)
 - [You gave your AI agent access, but who is giving it orders?](https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/)
 - [HPE patches eight max severity RCE and auth bypass AOS flaws](https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/)
 - [Railway warns devs to rotate secrets after potential breach](https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/)
 - [Capcom confirms data breach affecting 11.7 million accounts](https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/)
-- [LiteLLM release pipeline hacked to distribute info-stealer malware](https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/)
-- [Arista patches new VeloCloud Orchestrator zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/)
-- [Microsoft shares how to fix broken Exchange Online EWS apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/)
-- [Machine speed attacks require machine speed detection and response](https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [AI Tools Are Generating Massive Attacks for Little Cost](https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost)
 - [Why Caribbean Threats Cascade Into Global Cyber-Risk](https://www.darkreading.com/cyber-risk/why-caribbean-threats-cascade-global-cyber-risk)
 - [Cyber Insurance's New Reality: Underwriting Isn't Enough](https://www.darkreading.com/cyber-risk/cyber-insurances-underwriting-isnt-enough)
 - [AI Agents as Insider Threats: Inside Microsoft's Bet on a Unified Security Stack](https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack)
@@ -56,7 +57,6 @@
 - [Microsoft Links Storm-0940 to ConnectWise Supply Chain Attack](https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack)
 - [What We Missed: Feds Lasso Texas Laptop Farms](https://www.darkreading.com/insider-threats/texas-laptop-farms-north-korean-it-workers)
 - [Les supermarchés de l'UE paient d'un firmware de réfrigérateur non mis à jour](https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware-french)
-- [As AI Risks Grow, Insurers Split on Covering the Damage](https://www.darkreading.com/cyber-risk/cyber-insurance-covering-ai-damage)
 
 ### Security Week
 
@@ -82,6 +82,7 @@
 
 ### CISA Alerts
 
+- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [Siemens SIMATIC S7 Webserver API](https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-10)
 - [Siemens APOGEE, TALON and Desigo PXC/PXM Products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-08)
 - [Siemens RUGGEDCOM CROSSBOW](https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-12)
@@ -89,7 +90,6 @@
 - [Siemens Industrial Edge App Publisher](https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-02)
 - [Siemens SIMATIC S7-1500 CPU 1518(F)-4 PN/DP MFP](https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-11)
 - [Siemens WinCC](https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-13)
-- [Siemens Industrial Edge Device Kit](https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-09)
 
 ---
 

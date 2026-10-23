@@ -353,7 +353,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2820,
+      "count": 2821,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -5909,7 +5909,7 @@
       ]
     },
     "underlying host system": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-01-28",
         "2026-10-22",
@@ -32399,14 +32399,15 @@
       ]
     },
     "stealing mobile call": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-09-29",
         "2026-10-12",
         "2026-10-13",
         "2026-10-14",
         "2026-10-20",
-        "2026-10-21"
+        "2026-10-21",
+        "2026-10-23"
       ]
     },
     "darpa selects xint": {
@@ -33173,7 +33174,7 @@
       ]
     },
     "extortion group shinyhunters": {
-      "count": 44,
+      "count": 45,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33215,7 +33216,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 69,
+      "count": 70,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33533,7 +33534,7 @@
       ]
     },
     "prolific data theft": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -33583,7 +33584,7 @@
       ]
     },
     "canadian cybersecurity firm": {
-      "count": 50,
+      "count": 51,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -34764,7 +34765,7 @@
       ]
     },
     "net client library": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-10-22",
         "2026-10-23"
@@ -34833,7 +34834,7 @@
       ]
     },
     "11 million impacted": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-23"
       ]
@@ -34851,7 +34852,7 @@
       ]
     },
     "concept ran code": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-23"
       ]
@@ -34869,7 +34870,7 @@
       ]
     },
     "modifying system configurations": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-23"
       ]
@@ -34887,7 +34888,7 @@
       ]
     },
     "web applications configured": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-23"
       ]
@@ -34905,7 +34906,7 @@
       ]
     },
     "destructive ukraine attack": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-23"
       ]
@@ -34923,6 +34924,42 @@
       ]
     },
     "third party components": {
+      "count": 2,
+      "dates": [
+        "2026-10-23"
+      ]
+    },
+    "quanum lsm system": {
+      "count": 1,
+      "dates": [
+        "2026-10-23"
+      ]
+    },
+    "gentlemen ransomware groups": {
+      "count": 1,
+      "dates": [
+        "2026-10-23"
+      ]
+    },
+    "policing unpredictable agents": {
+      "count": 1,
+      "dates": [
+        "2026-10-23"
+      ]
+    },
+    "teams messages starting": {
+      "count": 1,
+      "dates": [
+        "2026-10-23"
+      ]
+    },
+    "sophisticated underground market": {
+      "count": 1,
+      "dates": [
+        "2026-10-23"
+      ]
+    },
+    "shared mitigation measures": {
       "count": 1,
       "dates": [
         "2026-10-23"
@@ -34930,17 +34967,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-01 01:00",
-      "articles": 48,
-      "top_keywords": [
-        "execute arbitrary code",
-        "state sponsored group",
-        "patched security flaw",
-        "siphoning images collected",
-        "windows operating systems"
-      ]
-    },
     {
       "timestamp": "2026-10-01 08:10",
       "articles": 48,
@@ -36028,6 +36054,17 @@
         "sdks default client",
         "pixels without checking",
         "industrial edge devices"
+      ]
+    },
+    {
+      "timestamp": "2026-10-23 19:43",
+      "articles": 56,
+      "top_keywords": [
+        "net client library",
+        "11 million impacted",
+        "quanum lsm system",
+        "web applications configured",
+        "twitter whistleblower complaint"
       ]
     }
   ]

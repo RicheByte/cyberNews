@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-23 14:35 UTC |
+| 🕐 Last Updated | 2026-10-23 19:43 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`net client library` • `11 million impacted` • `sdks default client` • `pixels without checking` • `industrial edge devices` • `web applications configured` • `underlying host system` • `twitter whistleblower complaint` • `modifying system configurations` • `hacker handle rey`
+`net client library` • `11 million impacted` • `quanum lsm system` • `web applications configured` • `twitter whistleblower complaint` • `stealing mobile call` • `hacker handle rey` • `underlying host system` • `modifying system configurations` • `gentlemen ransomware groups`
 
 ## 📄 Reports
 

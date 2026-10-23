@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 535,
+      "count": 536,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -167,7 +167,8 @@
         "2026-06-10",
         "2026-06-11",
         "2026-06-17",
-        "2026-06-18"
+        "2026-06-18",
+        "2026-10-23"
       ]
     },
     "user named csnemess": {
@@ -353,7 +354,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2821,
+      "count": 2822,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -10874,14 +10875,15 @@
       ]
     },
     "execute malicious code": {
-      "count": 50,
+      "count": 51,
       "dates": [
         "2026-03-12",
         "2026-03-13",
         "2026-03-14",
         "2026-03-15",
         "2026-03-16",
-        "2026-03-17"
+        "2026-03-17",
+        "2026-10-23"
       ]
     },
     "747 security researchers": {
@@ -32399,7 +32401,7 @@
       ]
     },
     "stealing mobile call": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-09-29",
         "2026-10-12",
@@ -33174,7 +33176,7 @@
       ]
     },
     "extortion group shinyhunters": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33216,7 +33218,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 70,
+      "count": 71,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33534,7 +33536,7 @@
       ]
     },
     "prolific data theft": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -33584,7 +33586,7 @@
       ]
     },
     "canadian cybersecurity firm": {
-      "count": 51,
+      "count": 52,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -34765,7 +34767,7 @@
       ]
     },
     "net client library": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-10-22",
         "2026-10-23"
@@ -34834,7 +34836,7 @@
       ]
     },
     "11 million impacted": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-23"
       ]
@@ -34852,7 +34854,7 @@
       ]
     },
     "concept ran code": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-23"
       ]
@@ -34870,7 +34872,7 @@
       ]
     },
     "modifying system configurations": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-23"
       ]
@@ -34888,7 +34890,7 @@
       ]
     },
     "web applications configured": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-23"
       ]
@@ -34906,7 +34908,7 @@
       ]
     },
     "destructive ukraine attack": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-23"
       ]
@@ -34924,25 +34926,25 @@
       ]
     },
     "third party components": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-23"
       ]
     },
     "quanum lsm system": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-23"
       ]
     },
     "gentlemen ransomware groups": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-23"
       ]
     },
     "policing unpredictable agents": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-23"
       ]
@@ -34964,20 +34966,21 @@
       "dates": [
         "2026-10-23"
       ]
+    },
+    "abandoned time4popcorn app": {
+      "count": 1,
+      "dates": [
+        "2026-10-23"
+      ]
+    },
+    "recommends specific mitigations": {
+      "count": 1,
+      "dates": [
+        "2026-10-23"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-01 08:10",
-      "articles": 48,
-      "top_keywords": [
-        "cve 2026 86950",
-        "execute arbitrary code",
-        "state sponsored group",
-        "msp360 remote monitoring",
-        "cve 2026 88772"
-      ]
-    },
     {
       "timestamp": "2026-10-01 16:50",
       "articles": 48,
@@ -36065,6 +36068,17 @@
         "quanum lsm system",
         "web applications configured",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-10-23 22:50",
+      "articles": 56,
+      "top_keywords": [
+        "net client library",
+        "quanum lsm system",
+        "11 million impacted",
+        "execute malicious code",
+        "web applications configured"
       ]
     }
   ]

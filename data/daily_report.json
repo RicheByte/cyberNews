@@ -1,17 +1,20 @@
 {
-  "last_updated": "2026-10-23 19:43",
+  "last_updated": "2026-10-23 22:50",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "net client library",
-    "11 million impacted",
     "quanum lsm system",
+    "11 million impacted",
+    "execute malicious code",
     "web applications configured",
     "twitter whistleblower complaint",
     "stealing mobile call",
-    "hacker handle rey",
-    "underlying host system",
     "modifying system configurations",
+    "malicious cyber actors",
+    "hacker handle rey",
+    "abandoned time4popcorn app",
+    "recommends specific mitigations",
     "gentlemen ransomware groups",
     "destructive ukraine attack",
     "prolific data theft",
@@ -19,51 +22,48 @@
     "policing unpredictable agents",
     "concept ran code",
     "canadian cybersecurity firm",
-    "third party components",
-    "teams messages starting",
-    "sophisticated underground market",
-    "shared mitigation measures"
+    "third party components"
   ],
   "trending": [
     {
       "keyword": "net client library",
-      "mentions": 6
-    },
-    {
-      "keyword": "11 million impacted",
-      "mentions": 3
+      "mentions": 7
     },
     {
       "keyword": "quanum lsm system",
-      "mentions": 1
-    },
-    {
-      "keyword": "web applications configured",
       "mentions": 2
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2821
+      "keyword": "11 million impacted",
+      "mentions": 4
     },
     {
-      "keyword": "stealing mobile call",
-      "mentions": 14
+      "keyword": "execute malicious code",
+      "mentions": 51
     },
     {
-      "keyword": "hacker handle rey",
-      "mentions": 70
-    },
-    {
-      "keyword": "underlying host system",
-      "mentions": 13
-    },
-    {
-      "keyword": "modifying system configurations",
+      "keyword": "web applications configured",
       "mentions": 3
     },
     {
-      "keyword": "gentlemen ransomware groups",
-      "mentions": 1
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2822
+    },
+    {
+      "keyword": "stealing mobile call",
+      "mentions": 15
+    },
+    {
+      "keyword": "modifying system configurations",
+      "mentions": 4
+    },
+    {
+      "keyword": "malicious cyber actors",
+      "mentions": 536
+    },
+    {
+      "keyword": "hacker handle rey",
+      "mentions": 71
     }
   ],
   "articles": [
@@ -165,6 +165,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
+      "summary": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with elevated privileges on millions of computers. [...]",
+      "published": "Fri, 23 Oct 2026 16:55:05 -0400",
+      "value_score": 30,
+      "value_signals": [
+        "RCE"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
       "summary": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]",
@@ -234,17 +245,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
       "summary": "Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...]",
       "published": "Thu, 22 Oct 2026 17:25:31 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Capcom confirms data breach affecting 11.7 million accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
-      "summary": "Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...]",
-      "published": "Thu, 22 Oct 2026 16:22:45 -0400",
       "value_score": 22,
       "value_signals": [
         "Breach/leak"
@@ -339,6 +339,29 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Trust Is Not What It Seems — And Fraudsters Are Counting on It",
+      "link": "https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it",
+      "summary": "Threat actors don't need to rely on malware to breach organizations anymore. They're simply calling help desks and politely asking for access, with a little help from artificial intelligence.",
+      "published": "Fri, 23 Oct 2026 20:57:56 GMT",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Exposed to PHP2Shell? Cyber Experts Weigh in With Advice",
+      "link": "https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice",
+      "summary": "Fixing the critical PHP flaws is not as simple as clicking \"Update.\" Here's how to assess your risk, and what you can do to protect yourself.",
+      "published": "Fri, 23 Oct 2026 19:41:23 GMT",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update",
+        "High severity"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "AI Tools Are Generating Massive Attacks for Little Cost",
       "link": "https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost",
       "summary": "One campaign targets 105 sites using open-weight models; in another, public models gained full domain control for $12. Cyber-defense will have to change.",
@@ -392,24 +415,6 @@
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack",
       "summary": "The China-linked actor used an AI-enabled penetration-testing tool to automate and accelerate its attack on more than 2,200 tenants.",
       "published": "Thu, 22 Oct 2026 20:42:17 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "What We Missed: Feds Lasso Texas Laptop Farms",
-      "link": "https://www.darkreading.com/insider-threats/texas-laptop-farms-north-korean-it-workers",
-      "summary": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, from busting up North Korea's stateside infrastructure in \"Operation Lonestar Justice\" to Staples' gift card bonanza.",
-      "published": "Thu, 22 Oct 2026 20:33:10 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Les supermarchés de l'UE paient d'un firmware de réfrigérateur non mis à jour",
-      "link": "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware-french",
-      "summary": "Des centaines de magasins ont subi des pertes se chiffrant en millions d'euros parce qu'ils avaient fait appel à des tiers pour gérer le micrologiciel OT obsolète qui pilotait leurs systèmes de climatisation.",
-      "published": "Thu, 22 Oct 2026 19:30:20 GMT",
       "value_score": 10,
       "value_signals": []
     },
@@ -586,6 +591,20 @@
     {
       "source": "CISA Alerts",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog-0",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-110447 Collabora Online – Built-in CODE Server OS Command Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements f",
+      "published": "Fri, 23 Oct 26 12:00:00 +0000",
+      "value_score": 99,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "CISA/KEV ×4",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-114625 Arista VeloCloud Orchestrator SQL Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civili",
       "published": "Fri, 23 Oct 26 12:00:00 +0000",
@@ -669,19 +688,6 @@
       "value_score": 35,
       "value_signals": [
         "Source boost: CISA Alerts"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Siemens WinCC",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-13",
-      "summary": "View CSAF Summary Multiple SIMATIC WinCC versions are affected by a database privilege escalation vulnerability that could allow an authenticated user with access to the database to execute commands on the underlying host system. Siemens has released new versions for several affected products and recommends to update to the latest versions. Siemens is preparing further fixes and recommends mitigations for products where fixes are not or not yet available. The following versions of Siemens WinCC ",
-      "published": "Thu, 22 Oct 26 12:00:00 +0000",
-      "value_score": 55,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Privilege escalation",
-        "Patch/update"
       ]
     }
   ],

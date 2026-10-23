@@ -1,72 +1,100 @@
 {
-  "last_updated": "2026-10-23 03:00",
+  "last_updated": "2026-10-23 09:00",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "hacked litellm release",
     "net client library",
-    "node js integration",
-    "global crackdown interpol",
+    "11 million impacted",
+    "hacked litellm release",
+    "node js disclosed",
+    "iran s prince",
     "flaw lets anyone",
     "industrial edge devices",
+    "node js integration",
     "hacker handle rey",
-    "1 200 vulnerabilities",
-    "php2shell vulnerabilities vendors",
-    "php2shell security firms",
     "twitter whistleblower complaint",
-    "perform unauthorized operations",
     "pay 25 billion",
-    "operation lonestar justice",
-    "detecting suspicious activity",
-    "contact customer support",
-    "chameleonic cryptocurrency platform",
+    "concept ran code",
+    "approve malicious packages",
+    "post litellm compromised",
     "prolific data theft",
     "extortion group shinyhunters",
-    "underlying host system"
+    "underlying host system",
+    "modifying system configurations",
+    "canadian cybersecurity firm",
+    "uae transitions 50"
   ],
   "trending": [
     {
-      "keyword": "hacked litellm release",
-      "mentions": 3
-    },
-    {
       "keyword": "net client library",
-      "mentions": 3
-    },
-    {
-      "keyword": "node js integration",
-      "mentions": 3
-    },
-    {
-      "keyword": "global crackdown interpol",
       "mentions": 4
+    },
+    {
+      "keyword": "11 million impacted",
+      "mentions": 1
+    },
+    {
+      "keyword": "hacked litellm release",
+      "mentions": 4
+    },
+    {
+      "keyword": "node js disclosed",
+      "mentions": 1
+    },
+    {
+      "keyword": "iran s prince",
+      "mentions": 1
     },
     {
       "keyword": "flaw lets anyone",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "industrial edge devices",
-      "mentions": 12
+      "mentions": 13
+    },
+    {
+      "keyword": "node js integration",
+      "mentions": 4
     },
     {
       "keyword": "hacker handle rey",
-      "mentions": 67
+      "mentions": 68
     },
     {
-      "keyword": "1 200 vulnerabilities",
-      "mentions": 5
-    },
-    {
-      "keyword": "php2shell vulnerabilities vendors",
-      "mentions": 4
-    },
-    {
-      "keyword": "php2shell security firms",
-      "mentions": 4
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2819
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
+      "link": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
+      "summary": "Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have demonstrated. Their \"Node2Shell\" proof of concept ran code on the official Node.js 24.22.0 image for Linux arm64, with no debugger or custom build, by feeding crafted data to the bundled Brotli decoder (CVE-2026-111497). Node.js disclosed the flaw",
+      "published": "Fri, 23 Oct 2026 13:20:01 +0530",
+      "value_score": 64,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE",
+        "PoC available",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
+      "link": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
+      "summary": "Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerges that weaponizing the flaws may be harder than previously thought. The attacks aim to exploit CVE-2026-109618 and CVE-2026-109619 (CVSS scores: 9.2), which can result in unauthenticated remote",
+      "published": "Fri, 23 Oct 2026 13:10:45 +0530",
+      "value_score": 70,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Botnet",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
@@ -131,24 +159,6 @@
       "link": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
       "summary": "Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang from the company's Cambridge Analytica data scandal, which came to light in 2018. According to multiple reports from the Associated Press, the New York Times, Reuters, and the Wall Street Journal, state District Court Judge Francis J. Mathew called",
       "published": "Thu, 22 Oct 2026 21:42:31 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
-      "link": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
-      "summary": "INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds. In tandem, the effort saw law enforcement agencies from 21 countries arrest 1,462 suspects. Codenamed Operation Serengeti III, the cybercrime crackdown took place between June 29 and August 31, 2026. \"Authorities identified",
-      "published": "Thu, 22 Oct 2026 19:08:22 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
-      "link": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
-      "summary": "Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed \"anomalous activity\" related to systems that store customer environment variables. Upon further investigation, the company found that an unauthorized third party may have gained access to encrypted environment variables, and, in some cases, obtained the decrypted contents. The impact, it said, is limited to a \"subset of users,",
-      "published": "Thu, 22 Oct 2026 16:45:42 +0530",
       "value_score": 10,
       "value_signals": []
     },
@@ -329,6 +339,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "State Bank of India Suffers a Customer PII Data Leak",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak",
+      "summary": "Relatively small data breaches in India can turn quite serious, thanks to a sophisticated underground market for trading PII.",
+      "published": "Fri, 23 Oct 2026 03:30:00 GMT",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Microsoft Links Storm-0940 to ConnectWise Supply Chain Attack",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack",
       "summary": "The China-linked actor used an AI-enabled penetration-testing tool to automate and accelerate its attack on more than 2,200 tenants.",
@@ -393,16 +414,55 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "'PHP2Shell' Bugs Signal Red Alert for Security Industry",
-      "link": "https://www.darkreading.com/application-security/php2shell-bugs-red-alert-security-industry",
-      "summary": "Security teams are scrambling to remediate two critical PHP vulnerabilities following leaked details and reports of exploitation attempts.",
-      "published": "Wed, 21 Oct 2026 19:19:17 GMT",
-      "value_score": 24,
+      "source": "Security Week",
+      "title": "11 Million Impacted by Capcom Data Breach",
+      "link": "https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/",
+      "summary": "The hackers stole 11 million email addresses from CAPCOM ID and changed the login passwords for 196 accounts. The post 11 Million Impacted by Capcom Data Breach appeared first on SecurityWeek .",
+      "published": "Fri, 23 Oct 2026 08:34:14 +0000",
+      "value_score": 34,
       "value_signals": [
-        "High severity",
-        "Exploit wording"
+        "Breach/leak ×2"
       ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Quest Diagnostics Reports Cyber Breach Affecting ‘Certain Patient Records’",
+      "link": "https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/",
+      "summary": "In a regulatory filing, Quest Diagnostics reported unauthorized access to its Quanum Lab Services Manager, a platform where certain clients can place test orders. The post Quest Diagnostics Reports Cyber Breach Affecting ‘Certain Patient Records’ appeared first on SecurityWeek .",
+      "published": "Fri, 23 Oct 2026 08:25:06 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "LiteLLM Compromised in Fresh Supply Chain Attack",
+      "link": "https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/",
+      "summary": "Hackers used compromised GitHub CLI OAuth tokens to push and approve malicious packages on PyPI and Docker. The post LiteLLM Compromised in Fresh Supply Chain Attack appeared first on SecurityWeek .",
+      "published": "Fri, 23 Oct 2026 08:10:46 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Atlassian Patches 75 Flaws in Data Center and Server Products",
+      "link": "https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/",
+      "summary": "Atlassian’s October bulletin lists 176 vulnerability entries, including 14 critical-severity issues, all in third-party components. The post Atlassian Patches 75 Flaws in Data Center and Server Products appeared first on SecurityWeek .",
+      "published": "Fri, 23 Oct 2026 07:54:47 +0000",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Iran’s Prince of Persia APT Hosts C&C in US for First Time Since 2016",
+      "link": "https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/",
+      "summary": "After a three-month lull, Prince of Persia hid a Tornado C&C server on US shared hosting, its first US-based server since 2016. The post Iran’s Prince of Persia APT Hosts C&C in US for First Time Since 2016 appeared first on SecurityWeek .",
+      "published": "Fri, 23 Oct 2026 06:39:29 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -430,60 +490,6 @@
       "published": "Thu, 22 Oct 2026 12:34:31 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Tech and Security Companies Respond to PHP2Shell Vulnerabilities",
-      "link": "https://www.securityweek.com/tech-and-security-companies-respond-to-php2shell-vulnerabilities/",
-      "summary": "Vendors are checking their products for PHP2Shell, security firms are shipping detections, and governments are urging immediate patching. The post Tech and Security Companies Respond to PHP2Shell Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Thu, 22 Oct 2026 12:20:23 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Splunk, SolarWinds Release Fresh Security Updates",
-      "link": "https://www.securityweek.com/splunk-solarwinds-release-fresh-security-updates/",
-      "summary": "Patched vulnerabilities could allow attackers to execute code, elevate privileges, and leak sensitive information. The post Splunk, SolarWinds Release Fresh Security Updates appeared first on SecurityWeek .",
-      "published": "Thu, 22 Oct 2026 10:45:24 +0000",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Cisco Patches 34 Vulnerabilities Across Multiple Products",
-      "link": "https://www.securityweek.com/cisco-patches-34-vulnerabilities-across-multiple-products/",
-      "summary": "Critical-severity security defects could lead to command execution, authentication bypass, and XSS attacks. The post Cisco Patches 34 Vulnerabilities Across Multiple Products appeared first on SecurityWeek .",
-      "published": "Thu, 22 Oct 2026 10:05:21 +0000",
-      "value_score": 33,
-      "value_signals": [
-        "Auth bypass",
-        "High severity"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "PHP2Shell Exploitation Started Days Before Patches",
-      "link": "https://www.securityweek.com/php2shell-exploitation-started-days-before-patches/",
-      "summary": "Initial attempts were observed on October 17, and mass activity began shortly after patches were released. The post PHP2Shell Exploitation Started Days Before Patches appeared first on SecurityWeek .",
-      "published": "Thu, 22 Oct 2026 09:48:58 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU",
-      "link": "https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/",
-      "summary": "Nearly 100 vulnerabilities have been assigned a critical severity rating and Fusion Middleware received the most patches. The post Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU appeared first on SecurityWeek .",
-      "published": "Thu, 22 Oct 2026 07:38:14 +0000",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
     },
     {
       "source": "Threatpost",

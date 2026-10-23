@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-23 03:00 UTC |
+| 🕐 Last Updated | 2026-10-23 09:00 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`hacked litellm release` • `net client library` • `node js integration` • `global crackdown interpol` • `flaw lets anyone` • `industrial edge devices` • `hacker handle rey` • `1 200 vulnerabilities` • `php2shell vulnerabilities vendors` • `php2shell security firms`
+`net client library` • `11 million impacted` • `hacked litellm release` • `node js disclosed` • `iran s prince` • `flaw lets anyone` • `industrial edge devices` • `node js integration` • `hacker handle rey` • `twitter whistleblower complaint`
 
 ## 📄 Reports
 

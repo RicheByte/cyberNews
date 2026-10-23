@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-10-23 03:00 UTC  
+> **Last Updated:** 2026-10-23 09:00 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**hacked litellm release** • **net client library** • **node js integration** • **global crackdown interpol** • **flaw lets anyone** • **industrial edge devices** • **hacker handle rey** • **1 200 vulnerabilities** • **php2shell vulnerabilities vendors** • **php2shell security firms** • **twitter whistleblower complaint** • **perform unauthorized operations** • **pay 25 billion** • **operation lonestar justice** • **detecting suspicious activity** • **contact customer support** • **chameleonic cryptocurrency platform** • **prolific data theft** • **extortion group shinyhunters** • **underlying host system**
+**net client library** • **11 million impacted** • **hacked litellm release** • **node js disclosed** • **iran s prince** • **flaw lets anyone** • **industrial edge devices** • **node js integration** • **hacker handle rey** • **twitter whistleblower complaint** • **pay 25 billion** • **concept ran code** • **approve malicious packages** • **post litellm compromised** • **prolific data theft** • **extortion group shinyhunters** • **underlying host system** • **modifying system configurations** • **canadian cybersecurity firm** • **uae transitions 50**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data](https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html)
+- [PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware](https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html)
 - [The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat](https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html)
 - [Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks](https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html)
 - [eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable](https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html)
 - [ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More](https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html)
 - [Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes](https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html)
 - [Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations](https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html)
-- [INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown](https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html)
-- [Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation](https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html)
 
 ### BleepingComputer
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [State Bank of India Suffers a Customer PII Data Leak](https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak)
 - [Microsoft Links Storm-0940 to ConnectWise Supply Chain Attack](https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack)
 - [What We Missed: Feds Lasso Texas Laptop Farms](https://www.darkreading.com/insider-threats/texas-laptop-farms-north-korean-it-workers)
 - [Les supermarchés de l'UE paient d'un firmware de réfrigérateur non mis à jour](https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware-french)
@@ -56,18 +57,17 @@
 - [TiDB Breach Exposes Flawed Cloud Security Assumptions](https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security)
 - [Marvell, Microsoft &amp; Oracle Work to Standardize Data Center Hardware Security](https://www.darkreading.com/cloud-security/marvell-microsoft-oracle-standardize-data-center-hardware-security)
 - [Cloud Security Alliance Survey Finds Data Loss Prevention Often Detects Data Loss Only After It Happens](https://www.darkreading.com/cloud-security/cloud-security-alliance-survey-data-loss-prevention-detects-data-loss)
-- ['PHP2Shell' Bugs Signal Red Alert for Security Industry](https://www.darkreading.com/application-security/php2shell-bugs-red-alert-security-industry)
 
 ### Security Week
 
+- [11 Million Impacted by Capcom Data Breach](https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/)
+- [Quest Diagnostics Reports Cyber Breach Affecting ‘Certain Patient Records’](https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/)
+- [LiteLLM Compromised in Fresh Supply Chain Attack](https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/)
+- [Atlassian Patches 75 Flaws in Data Center and Server Products](https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/)
+- [Iran’s Prince of Persia APT Hosts C&C in US for First Time Since 2016](https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/)
 - [Hacker Conversations: Corey Thuen and the Evil Bit](https://www.securityweek.com/hacker-conversations-corey-thuen-and-the-evil-bit/)
 - [Indurex Raises $8 Million to Expand Industrial Cybersecurity Platform](https://www.securityweek.com/indurex-raises-8-million-to-expand-industrial-cybersecurity-platform/)
 - [Signal Vulnerability Lets Malicious Callers Block Hang-Ups](https://www.securityweek.com/signal-vulnerability-lets-malicious-callers-block-hang-ups/)
-- [Tech and Security Companies Respond to PHP2Shell Vulnerabilities](https://www.securityweek.com/tech-and-security-companies-respond-to-php2shell-vulnerabilities/)
-- [Splunk, SolarWinds Release Fresh Security Updates](https://www.securityweek.com/splunk-solarwinds-release-fresh-security-updates/)
-- [Cisco Patches 34 Vulnerabilities Across Multiple Products](https://www.securityweek.com/cisco-patches-34-vulnerabilities-across-multiple-products/)
-- [PHP2Shell Exploitation Started Days Before Patches](https://www.securityweek.com/php2shell-exploitation-started-days-before-patches/)
-- [Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU](https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/)
 
 ### Threatpost
 

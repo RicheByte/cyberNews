@@ -353,7 +353,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2818,
+      "count": 2819,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -4887,7 +4887,7 @@
       ]
     },
     "industrial edge devices": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-01-20",
         "2026-10-22",
@@ -5909,7 +5909,7 @@
       ]
     },
     "underlying host system": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-28",
         "2026-10-22",
@@ -33173,7 +33173,7 @@
       ]
     },
     "extortion group shinyhunters": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33215,7 +33215,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 67,
+      "count": 68,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33533,7 +33533,7 @@
       ]
     },
     "prolific data theft": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -33583,7 +33583,7 @@
       ]
     },
     "canadian cybersecurity firm": {
-      "count": 49,
+      "count": 50,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -33597,7 +33597,8 @@
         "2026-10-19",
         "2026-10-20",
         "2026-10-21",
-        "2026-10-22"
+        "2026-10-22",
+        "2026-10-23"
       ]
     },
     "repositories cybersecurity researchers": {
@@ -34750,9 +34751,10 @@
       ]
     },
     "uae transitions 50": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-10-22"
+        "2026-10-22",
+        "2026-10-23"
       ]
     },
     "stores api keys": {
@@ -34762,14 +34764,14 @@
       ]
     },
     "net client library": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-22",
         "2026-10-23"
       ]
     },
     "node js integration": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-22",
         "2026-10-23"
@@ -34783,14 +34785,14 @@
       ]
     },
     "pay 25 billion": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-22",
         "2026-10-23"
       ]
     },
     "hacked litellm release": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-22",
         "2026-10-23"
@@ -34810,7 +34812,7 @@
       ]
     },
     "flaw lets anyone": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-22",
         "2026-10-23"
@@ -34829,20 +34831,51 @@
         "2026-10-22",
         "2026-10-23"
       ]
+    },
+    "11 million impacted": {
+      "count": 1,
+      "dates": [
+        "2026-10-23"
+      ]
+    },
+    "node js disclosed": {
+      "count": 1,
+      "dates": [
+        "2026-10-23"
+      ]
+    },
+    "iran s prince": {
+      "count": 1,
+      "dates": [
+        "2026-10-23"
+      ]
+    },
+    "concept ran code": {
+      "count": 1,
+      "dates": [
+        "2026-10-23"
+      ]
+    },
+    "approve malicious packages": {
+      "count": 1,
+      "dates": [
+        "2026-10-23"
+      ]
+    },
+    "post litellm compromised": {
+      "count": 1,
+      "dates": [
+        "2026-10-23"
+      ]
+    },
+    "modifying system configurations": {
+      "count": 1,
+      "dates": [
+        "2026-10-23"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-30 14:30",
-      "articles": 48,
-      "top_keywords": [
-        "execute arbitrary code",
-        "openssl wolfssl roughly",
-        "shinyhunters extortion group",
-        "siphoning images collected",
-        "state sponsored group"
-      ]
-    },
     {
       "timestamp": "2026-09-30 20:27",
       "articles": 48,
@@ -35930,6 +35963,17 @@
         "node js integration",
         "global crackdown interpol",
         "flaw lets anyone"
+      ]
+    },
+    {
+      "timestamp": "2026-10-23 09:00",
+      "articles": 56,
+      "top_keywords": [
+        "net client library",
+        "11 million impacted",
+        "hacked litellm release",
+        "node js disclosed",
+        "iran s prince"
       ]
     }
   ]

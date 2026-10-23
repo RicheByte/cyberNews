@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-23 09:00 UTC |
+| 🕐 Last Updated | 2026-10-23 14:35 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`net client library` • `11 million impacted` • `hacked litellm release` • `node js disclosed` • `iran s prince` • `flaw lets anyone` • `industrial edge devices` • `node js integration` • `hacker handle rey` • `twitter whistleblower complaint`
+`net client library` • `11 million impacted` • `sdks default client` • `pixels without checking` • `industrial edge devices` • `web applications configured` • `underlying host system` • `twitter whistleblower complaint` • `modifying system configurations` • `hacker handle rey`
 
 ## 📄 Reports
 

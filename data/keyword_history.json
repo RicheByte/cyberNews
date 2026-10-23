@@ -353,7 +353,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2819,
+      "count": 2820,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -4887,7 +4887,7 @@
       ]
     },
     "industrial edge devices": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-01-20",
         "2026-10-22",
@@ -5909,7 +5909,7 @@
       ]
     },
     "underlying host system": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-28",
         "2026-10-22",
@@ -33173,7 +33173,7 @@
       ]
     },
     "extortion group shinyhunters": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33215,7 +33215,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 68,
+      "count": 69,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33533,7 +33533,7 @@
       ]
     },
     "prolific data theft": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -34764,7 +34764,7 @@
       ]
     },
     "net client library": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-10-22",
         "2026-10-23"
@@ -34833,7 +34833,7 @@
       ]
     },
     "11 million impacted": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-23"
       ]
@@ -34851,13 +34851,13 @@
       ]
     },
     "concept ran code": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-23"
       ]
     },
     "approve malicious packages": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-23"
       ]
@@ -34869,6 +34869,60 @@
       ]
     },
     "modifying system configurations": {
+      "count": 2,
+      "dates": [
+        "2026-10-23"
+      ]
+    },
+    "sdks default client": {
+      "count": 1,
+      "dates": [
+        "2026-10-23"
+      ]
+    },
+    "pixels without checking": {
+      "count": 1,
+      "dates": [
+        "2026-10-23"
+      ]
+    },
+    "web applications configured": {
+      "count": 1,
+      "dates": [
+        "2026-10-23"
+      ]
+    },
+    "another threat actor": {
+      "count": 1,
+      "dates": [
+        "2026-10-23"
+      ]
+    },
+    "mfa phishing explaining": {
+      "count": 1,
+      "dates": [
+        "2026-10-23"
+      ]
+    },
+    "destructive ukraine attack": {
+      "count": 1,
+      "dates": [
+        "2026-10-23"
+      ]
+    },
+    "malicious api asked": {
+      "count": 1,
+      "dates": [
+        "2026-10-23"
+      ]
+    },
+    "gained privileged access": {
+      "count": 1,
+      "dates": [
+        "2026-10-23"
+      ]
+    },
+    "third party components": {
       "count": 1,
       "dates": [
         "2026-10-23"
@@ -34876,17 +34930,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-09-30 20:27",
-      "articles": 48,
-      "top_keywords": [
-        "execute arbitrary code",
-        "state sponsored group",
-        "openssl wolfssl roughly",
-        "siphoning images collected",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-10-01 01:00",
       "articles": 48,
@@ -35974,6 +36017,17 @@
         "hacked litellm release",
         "node js disclosed",
         "iran s prince"
+      ]
+    },
+    {
+      "timestamp": "2026-10-23 14:35",
+      "articles": 56,
+      "top_keywords": [
+        "net client library",
+        "11 million impacted",
+        "sdks default client",
+        "pixels without checking",
+        "industrial edge devices"
       ]
     }
   ]

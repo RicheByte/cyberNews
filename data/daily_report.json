@@ -1,72 +1,113 @@
 {
-  "last_updated": "2026-10-24 08:34",
+  "last_updated": "2026-10-24 13:47",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "net client library",
-    "quanum lsm system",
     "11 million impacted",
-    "execute malicious code",
-    "web applications configured",
+    "quanum lsm system",
     "twitter whistleblower complaint",
     "stealing mobile call",
+    "recommends specific mitigations",
+    "hacker handle rey",
+    "gentlemen ransomware groups",
+    "execute malicious code",
     "modifying system configurations",
     "malicious cyber actors",
-    "hacker handle rey",
-    "abandoned time4popcorn app",
-    "recommends specific mitigations",
-    "gentlemen ransomware groups",
-    "destructive ukraine attack",
-    "prolific data theft",
     "extortion group shinyhunters",
+    "prolific data theft",
     "policing unpredictable agents",
     "canadian cybersecurity firm",
     "third party components",
-    "sophisticated underground market"
+    "streamed pirated films",
+    "sprawling phishing campaign",
+    "sophisticated underground market",
+    "shared mitigation measures"
   ],
   "trending": [
     {
       "keyword": "net client library",
-      "mentions": 9
-    },
-    {
-      "keyword": "quanum lsm system",
-      "mentions": 4
+      "mentions": 10
     },
     {
       "keyword": "11 million impacted",
-      "mentions": 6
+      "mentions": 7
     },
     {
-      "keyword": "execute malicious code",
-      "mentions": 53
-    },
-    {
-      "keyword": "web applications configured",
+      "keyword": "quanum lsm system",
       "mentions": 5
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2824
+      "mentions": 2825
     },
     {
       "keyword": "stealing mobile call",
-      "mentions": 17
+      "mentions": 18
     },
     {
-      "keyword": "modifying system configurations",
-      "mentions": 6
-    },
-    {
-      "keyword": "malicious cyber actors",
-      "mentions": 538
+      "keyword": "recommends specific mitigations",
+      "mentions": 4
     },
     {
       "keyword": "hacker handle rey",
-      "mentions": 73
+      "mentions": 74
+    },
+    {
+      "keyword": "gentlemen ransomware groups",
+      "mentions": 5
+    },
+    {
+      "keyword": "execute malicious code",
+      "mentions": 54
+    },
+    {
+      "keyword": "modifying system configurations",
+      "mentions": 7
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
+      "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
+      "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli. Tracked as CVE-2026-111497, the flaw allows crafted compressed data to overwrite past the end of a buffer and corrupt a program's memory, potentially",
+      "published": "Sat, 24 Oct 2026 16:39:29 +0530",
+      "value_score": 48,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
+      "link": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
+      "summary": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python package. \"On May 27, 2026, a configuration file was committed to the public LiteLLM-Labs/lite-harness repository which inadvertently contained the master key to a deployment of",
+      "published": "Sat, 24 Oct 2026 16:33:33 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
+      "link": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
+      "summary": "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on their activity on other connected Google services. \"You may choose to allow certain Google services, including services like Search or Gemini Apps, to access data from other Google services you use,",
+      "published": "Sat, 24 Oct 2026 16:06:33 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
+      "link": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
+      "summary": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have allowed an outsider to take over the machine. The updater belongs to Time4Popcorn, an abandoned copy of Popcorn Time, a free app that streamed pirated films and TV over BitTorrent. Popcorn Time was",
+      "published": "Sat, 24 Oct 2026 14:34:24 +0530",
+      "value_score": 20,
+      "value_signals": [
+        "Botnet"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
@@ -113,55 +154,6 @@
       "value_score": 46,
       "value_signals": [
         "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
-      "link": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
-      "summary": "Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls. \"Artifacts from this investigation also indicate that operators in this campaign have obtained access to numerous organizations worldwide, and have attempted to further compromise some victims,",
-      "published": "Fri, 23 Oct 2026 19:20:56 +0530",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
-      "link": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
-      "summary": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws. The new issue, assigned CVE-2026-115560, affects only web applications configured in an unusual way, and PHP considers it an unlikely risk.The project is not issuing an emergency fix for it. Instead, it recommends turning off a feature called",
-      "published": "Fri, 23 Oct 2026 16:55:43 +0530",
-      "value_score": 64,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE",
-        "Patch/update",
-        "High severity"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
-      "link": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
-      "summary": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year. According to ESET, the attack involved UAC-0099 (aka Earth Sirrush) obtaining initial access to the target on July 16, 2025, via a spear-phishing email bearing a malware-laced attachment that led to the deployment of",
-      "published": "Fri, 23 Oct 2026 16:41:23 +0530",
-      "value_score": 30,
-      "value_signals": [
-        "Backdoor",
-        "Phishing"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
-      "link": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
-      "summary": "Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open. The flaw, CVE-2026-112900, is in the way Pillow handles EPS images, which it opens by passing the file's name to Ghostscript, a separate program it runs to turn the image into pixels, without checking the name first.",
-      "published": "Fri, 23 Oct 2026 15:06:00 +0530",
-      "value_score": 36,
-      "value_signals": [
-        "CVE mentioned",
-        "High severity"
       ]
     },
     {

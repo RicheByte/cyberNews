@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 539,
+      "count": 540,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -355,7 +355,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2825,
+      "count": 2826,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -10878,7 +10878,7 @@
       ]
     },
     "execute malicious code": {
-      "count": 54,
+      "count": 55,
       "dates": [
         "2026-03-12",
         "2026-03-13",
@@ -32405,7 +32405,7 @@
       ]
     },
     "stealing mobile call": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-09-29",
         "2026-10-12",
@@ -33181,7 +33181,7 @@
       ]
     },
     "extortion group shinyhunters": {
-      "count": 49,
+      "count": 50,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33224,7 +33224,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 74,
+      "count": 75,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33543,7 +33543,7 @@
       ]
     },
     "prolific data theft": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -33594,7 +33594,7 @@
       ]
     },
     "canadian cybersecurity firm": {
-      "count": 55,
+      "count": 56,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -34776,7 +34776,7 @@
       ]
     },
     "net client library": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-10-22",
         "2026-10-23",
@@ -34846,7 +34846,7 @@
       ]
     },
     "11 million impacted": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-10-23",
         "2026-10-24"
@@ -34884,7 +34884,7 @@
       ]
     },
     "modifying system configurations": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-10-23",
         "2026-10-24"
@@ -34941,28 +34941,28 @@
       ]
     },
     "third party components": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-10-23",
         "2026-10-24"
       ]
     },
     "quanum lsm system": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-10-23",
         "2026-10-24"
       ]
     },
     "gentlemen ransomware groups": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-10-23",
         "2026-10-24"
       ]
     },
     "policing unpredictable agents": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-10-23",
         "2026-10-24"
@@ -34975,14 +34975,14 @@
       ]
     },
     "sophisticated underground market": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-23",
         "2026-10-24"
       ]
     },
     "shared mitigation measures": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-23",
         "2026-10-24"
@@ -34996,13 +34996,19 @@
       ]
     },
     "recommends specific mitigations": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-10-23",
         "2026-10-24"
       ]
     },
     "streamed pirated films": {
+      "count": 2,
+      "dates": [
+        "2026-10-24"
+      ]
+    },
+    "seize full control": {
       "count": 1,
       "dates": [
         "2026-10-24"
@@ -35010,17 +35016,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-02 10:14",
-      "articles": 48,
-      "top_keywords": [
-        "artificial intelligence faster",
-        "verified applications classified",
-        "cve 2026 104286",
-        "killsec ransomware group",
-        "least 110 terabytes"
-      ]
-    },
     {
       "timestamp": "2026-10-02 17:17",
       "articles": 48,
@@ -36101,6 +36096,17 @@
     },
     {
       "timestamp": "2026-10-24 13:47",
+      "articles": 56,
+      "top_keywords": [
+        "net client library",
+        "11 million impacted",
+        "quanum lsm system",
+        "twitter whistleblower complaint",
+        "stealing mobile call"
+      ]
+    },
+    {
+      "timestamp": "2026-10-24 17:09",
       "articles": 56,
       "top_keywords": [
         "net client library",

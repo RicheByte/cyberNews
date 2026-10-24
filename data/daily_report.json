@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24 13:47",
+  "last_updated": "2026-10-24 17:09",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -20,50 +20,50 @@
     "canadian cybersecurity firm",
     "third party components",
     "streamed pirated films",
-    "sprawling phishing campaign",
     "sophisticated underground market",
-    "shared mitigation measures"
+    "shared mitigation measures",
+    "seize full control"
   ],
   "trending": [
     {
       "keyword": "net client library",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "11 million impacted",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "quanum lsm system",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2825
+      "mentions": 2826
     },
     {
       "keyword": "stealing mobile call",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "recommends specific mitigations",
-      "mentions": 4
-    },
-    {
-      "keyword": "hacker handle rey",
-      "mentions": 74
-    },
-    {
-      "keyword": "gentlemen ransomware groups",
       "mentions": 5
     },
     {
+      "keyword": "hacker handle rey",
+      "mentions": 75
+    },
+    {
+      "keyword": "gentlemen ransomware groups",
+      "mentions": 6
+    },
+    {
       "keyword": "execute malicious code",
-      "mentions": 54
+      "mentions": 55
     },
     {
       "keyword": "modifying system configurations",
-      "mentions": 7
+      "mentions": 8
     }
   ],
   "articles": [
@@ -158,6 +158,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
+      "link": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
+      "summary": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast. [...]",
+      "published": "Sat, 24 Oct 2026 10:17:32 -0400",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
       "link": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
       "summary": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with elevated privileges on millions of computers. [...]",
@@ -230,17 +241,6 @@
         "RCE",
         "Auth bypass ×2",
         "Patch/update"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Railway warns devs to rotate secrets after potential breach",
-      "link": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
-      "summary": "Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...]",
-      "published": "Thu, 22 Oct 2026 17:25:31 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
       ]
     },
     {

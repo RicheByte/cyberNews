@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-10-24 13:47 UTC  
+> **Last Updated:** 2026-10-24 17:09 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**net client library** • **11 million impacted** • **quanum lsm system** • **twitter whistleblower complaint** • **stealing mobile call** • **recommends specific mitigations** • **hacker handle rey** • **gentlemen ransomware groups** • **execute malicious code** • **modifying system configurations** • **malicious cyber actors** • **extortion group shinyhunters** • **prolific data theft** • **policing unpredictable agents** • **canadian cybersecurity firm** • **third party components** • **streamed pirated films** • **sprawling phishing campaign** • **sophisticated underground market** • **shared mitigation measures**
+**net client library** • **11 million impacted** • **quanum lsm system** • **twitter whistleblower complaint** • **stealing mobile call** • **recommends specific mitigations** • **hacker handle rey** • **gentlemen ransomware groups** • **execute malicious code** • **modifying system configurations** • **malicious cyber actors** • **extortion group shinyhunters** • **prolific data theft** • **policing unpredictable agents** • **canadian cybersecurity firm** • **third party components** • **streamed pirated films** • **sophisticated underground market** • **shared mitigation measures** • **seize full control**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot](https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/)
 - [Abandoned Popcorn Time app exposed millions of devices to RCE attacks](https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/)
 - [Microsoft Teams to get AI-powered, context-aware phishing detection](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/)
 - [Microsoft: Windows Server 2016 reaches end of support in January](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/)
@@ -34,7 +35,6 @@
 - [PHP shares mitigation for new RCE vulnerability with no patch](https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/)
 - [You gave your AI agent access, but who is giving it orders?](https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/)
 - [HPE patches eight max severity RCE and auth bypass AOS flaws](https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/)
-- [Railway warns devs to rotate secrets after potential breach](https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/)
 
 ### Krebs on Security
 

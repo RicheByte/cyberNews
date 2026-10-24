@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-10-24 02:57 UTC  
+> **Last Updated:** 2026-10-24 08:34 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**net client library** • **quanum lsm system** • **11 million impacted** • **execute malicious code** • **web applications configured** • **twitter whistleblower complaint** • **stealing mobile call** • **modifying system configurations** • **malicious cyber actors** • **hacker handle rey** • **abandoned time4popcorn app** • **recommends specific mitigations** • **gentlemen ransomware groups** • **destructive ukraine attack** • **prolific data theft** • **extortion group shinyhunters** • **policing unpredictable agents** • **concept ran code** • **canadian cybersecurity firm** • **third party components**
+**net client library** • **quanum lsm system** • **11 million impacted** • **execute malicious code** • **web applications configured** • **twitter whistleblower complaint** • **stealing mobile call** • **modifying system configurations** • **malicious cyber actors** • **hacker handle rey** • **abandoned time4popcorn app** • **recommends specific mitigations** • **gentlemen ransomware groups** • **destructive ukraine attack** • **prolific data theft** • **extortion group shinyhunters** • **policing unpredictable agents** • **canadian cybersecurity firm** • **third party components** • **sophisticated underground market**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud](https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html)
 - [BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations](https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html)
 - [Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws](https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html)
 - [Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions](https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html)
@@ -23,7 +24,6 @@
 - [PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches](https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html)
 - [Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack](https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html)
 - [Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image](https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html)
-- [Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data](https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html)
 
 ### BleepingComputer
 

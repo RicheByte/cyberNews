@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 544,
+      "count": 545,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -208,7 +208,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 814,
+      "count": 815,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -357,7 +357,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2830,
+      "count": 2831,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -10881,7 +10881,7 @@
       ]
     },
     "execute malicious code": {
-      "count": 59,
+      "count": 60,
       "dates": [
         "2026-03-12",
         "2026-03-13",
@@ -32409,7 +32409,7 @@
       ]
     },
     "stealing mobile call": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-09-29",
         "2026-10-12",
@@ -33186,7 +33186,7 @@
       ]
     },
     "extortion group shinyhunters": {
-      "count": 54,
+      "count": 55,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33230,7 +33230,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 79,
+      "count": 80,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33550,7 +33550,7 @@
       ]
     },
     "prolific data theft": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -34532,9 +34532,10 @@
       ]
     },
     "ru money laundering": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-10-21"
+        "2026-10-21",
+        "2026-10-25"
       ]
     },
     "memory bugs account": {
@@ -34785,7 +34786,7 @@
       ]
     },
     "net client library": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-10-22",
         "2026-10-23",
@@ -34856,7 +34857,7 @@
       ]
     },
     "11 million impacted": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-10-23",
         "2026-10-24",
@@ -34895,7 +34896,7 @@
       ]
     },
     "modifying system configurations": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-10-23",
         "2026-10-24",
@@ -34947,7 +34948,7 @@
       ]
     },
     "gained privileged access": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-23",
         "2026-10-25"
@@ -34962,7 +34963,7 @@
       ]
     },
     "quanum lsm system": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-10-23",
         "2026-10-24",
@@ -34978,7 +34979,7 @@
       ]
     },
     "policing unpredictable agents": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-10-23",
         "2026-10-24",
@@ -34992,7 +34993,7 @@
       ]
     },
     "sophisticated underground market": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-10-23",
         "2026-10-24",
@@ -35000,7 +35001,7 @@
       ]
     },
     "shared mitigation measures": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-10-23",
         "2026-10-24",
@@ -35015,7 +35016,7 @@
       ]
     },
     "recommends specific mitigations": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-10-23",
         "2026-10-24",
@@ -35023,14 +35024,14 @@
       ]
     },
     "streamed pirated films": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-10-24",
         "2026-10-25"
       ]
     },
     "seize full control": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-10-24",
         "2026-10-25"
@@ -35038,17 +35039,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-03 12:57",
-      "articles": 48,
-      "top_keywords": [
-        "critical infrastructure attacks",
-        "verified applications classified",
-        "macos users targeted",
-        "ultra sensitive environments",
-        "exploiting sharepoint vulnerabilities"
-      ]
-    },
     {
       "timestamp": "2026-10-03 17:43",
       "articles": 48,
@@ -36129,6 +36119,17 @@
     },
     {
       "timestamp": "2026-10-25 08:53",
+      "articles": 56,
+      "top_keywords": [
+        "net client library",
+        "11 million impacted",
+        "quanum lsm system",
+        "twitter whistleblower complaint",
+        "stealing mobile call"
+      ]
+    },
+    {
+      "timestamp": "2026-10-25 14:03",
       "articles": 56,
       "top_keywords": [
         "net client library",

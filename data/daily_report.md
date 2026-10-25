@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-10-25 08:53 UTC  
+> **Last Updated:** 2026-10-25 14:03 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**net client library** • **11 million impacted** • **quanum lsm system** • **twitter whistleblower complaint** • **stealing mobile call** • **recommends specific mitigations** • **hacker handle rey** • **modifying system configurations** • **malicious cyber actors** • **execute malicious code** • **extortion group shinyhunters** • **prolific data theft** • **policing unpredictable agents** • **gained privileged access** • **windows operating systems** • **third party components** • **streamed pirated films** • **sophisticated underground market** • **shared mitigation measures** • **seize full control**
+**net client library** • **11 million impacted** • **quanum lsm system** • **twitter whistleblower complaint** • **stealing mobile call** • **recommends specific mitigations** • **hacker handle rey** • **modifying system configurations** • **malicious cyber actors** • **execute malicious code** • **prolific data theft** • **extortion group shinyhunters** • **policing unpredictable agents** • **gained privileged access** • **windows operating systems** • **streamed pirated films** • **sophisticated underground market** • **shared mitigation measures** • **seize full control** • **ru money laundering**
 
 ---
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave](https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/)
 - [In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware](https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/)
 - [Mirai Botnet Operators Join PHP2Shell Attacks as ASLR Bypass Exploits Emerge](https://www.securityweek.com/mirai-botnet-operators-join-php2shell-attacks-as-aslr-bypass-exploits-emerge/)
 - [China APT Uses AI Pentest Tool Artex in ConnectWise Attacks](https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/)
@@ -67,7 +68,6 @@
 - [11 Million Impacted by Capcom Data Breach](https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/)
 - [Quest Diagnostics Data Breach Exposed ‘Certain Patient Records’](https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/)
 - [LiteLLM Compromised in Fresh Supply Chain Attack](https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/)
-- [Atlassian Patches 75 Flaws in Data Center and Server Products](https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/)
 
 ### Threatpost
 

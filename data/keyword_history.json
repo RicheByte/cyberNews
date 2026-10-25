@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 546,
+      "count": 547,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -208,7 +208,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 816,
+      "count": 817,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -357,7 +357,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2832,
+      "count": 2833,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -10881,7 +10881,7 @@
       ]
     },
     "execute malicious code": {
-      "count": 61,
+      "count": 62,
       "dates": [
         "2026-03-12",
         "2026-03-13",
@@ -24248,7 +24248,7 @@
       ]
     },
     "gain root access": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-07-19",
         "2026-07-20",
@@ -32410,7 +32410,7 @@
       ]
     },
     "stealing mobile call": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-09-29",
         "2026-10-12",
@@ -33187,7 +33187,7 @@
       ]
     },
     "extortion group shinyhunters": {
-      "count": 56,
+      "count": 57,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33231,7 +33231,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 81,
+      "count": 82,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33551,7 +33551,7 @@
       ]
     },
     "prolific data theft": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -34787,7 +34787,7 @@
       ]
     },
     "net client library": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-10-22",
         "2026-10-23",
@@ -34858,7 +34858,7 @@
       ]
     },
     "11 million impacted": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-10-23",
         "2026-10-24",
@@ -34897,7 +34897,7 @@
       ]
     },
     "modifying system configurations": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-10-23",
         "2026-10-24",
@@ -34949,7 +34949,7 @@
       ]
     },
     "gained privileged access": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-10-23",
         "2026-10-25"
@@ -34964,7 +34964,7 @@
       ]
     },
     "quanum lsm system": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-10-23",
         "2026-10-24",
@@ -34980,7 +34980,7 @@
       ]
     },
     "policing unpredictable agents": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-10-23",
         "2026-10-24",
@@ -34994,7 +34994,7 @@
       ]
     },
     "sophisticated underground market": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-10-23",
         "2026-10-24",
@@ -35017,7 +35017,7 @@
       ]
     },
     "recommends specific mitigations": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-10-23",
         "2026-10-24",
@@ -35025,7 +35025,7 @@
       ]
     },
     "streamed pirated films": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-10-24",
         "2026-10-25"
@@ -35039,30 +35039,19 @@
       ]
     },
     "customer's downloads folder": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-25"
       ]
     },
     "single hacked device": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-25"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-03 20:29",
-      "articles": 48,
-      "top_keywords": [
-        "macos users targeted",
-        "critical infrastructure attacks",
-        "200 000 people",
-        "exploiting sharepoint vulnerabilities",
-        "ultra sensitive environments"
-      ]
-    },
     {
       "timestamp": "2026-10-04 00:18",
       "articles": 48,
@@ -36143,6 +36132,17 @@
     },
     {
       "timestamp": "2026-10-25 18:40",
+      "articles": 56,
+      "top_keywords": [
+        "net client library",
+        "customer's downloads folder",
+        "11 million impacted",
+        "quanum lsm system",
+        "single hacked device"
+      ]
+    },
+    {
+      "timestamp": "2026-10-25 22:14",
       "articles": 56,
       "top_keywords": [
         "net client library",

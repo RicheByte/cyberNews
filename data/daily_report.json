@@ -1,72 +1,94 @@
 {
-  "last_updated": "2026-10-25 14:03",
+  "last_updated": "2026-10-25 18:40",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "net client library",
+    "customer's downloads folder",
     "11 million impacted",
     "quanum lsm system",
+    "single hacked device",
     "twitter whistleblower complaint",
     "stealing mobile call",
     "recommends specific mitigations",
     "hacker handle rey",
+    "execute malicious code",
     "modifying system configurations",
     "malicious cyber actors",
-    "execute malicious code",
     "prolific data theft",
     "extortion group shinyhunters",
-    "policing unpredictable agents",
     "gained privileged access",
+    "gain root access",
+    "policing unpredictable agents",
     "windows operating systems",
     "streamed pirated films",
-    "sophisticated underground market",
-    "shared mitigation measures",
-    "seize full control",
-    "ru money laundering"
+    "sophisticated underground market"
   ],
   "trending": [
     {
       "keyword": "net client library",
-      "mentions": 16
+      "mentions": 17
+    },
+    {
+      "keyword": "customer's downloads folder",
+      "mentions": 1
     },
     {
       "keyword": "11 million impacted",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "quanum lsm system",
-      "mentions": 11
+      "mentions": 12
+    },
+    {
+      "keyword": "single hacked device",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2831
+      "mentions": 2832
     },
     {
       "keyword": "stealing mobile call",
-      "mentions": 24
+      "mentions": 25
     },
     {
       "keyword": "recommends specific mitigations",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "hacker handle rey",
-      "mentions": 80
-    },
-    {
-      "keyword": "modifying system configurations",
-      "mentions": 13
-    },
-    {
-      "keyword": "malicious cyber actors",
-      "mentions": 545
+      "mentions": 81
     },
     {
       "keyword": "execute malicious code",
-      "mentions": 60
+      "mentions": 61
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
+      "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
+      "summary": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week. The attack requires two things: Tailscale SSH set up to allow port forwarding, and an attacker who already controls one device that the network's access rules permit to connect to the target. The findings were",
+      "published": "Sun, 25 Oct 2026 23:14:09 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+      "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+      "summary": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619. \"In one case, the attackers targeted a government entity in Europe and within two hours of the initial exploitation they had successfully accessed password hashes and multi-factor",
+      "published": "Sun, 25 Oct 2026 22:49:46 +0530",
+      "value_score": 60,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
@@ -133,26 +155,13 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
-      "link": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
-      "summary": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and Turkmenistan in early 2026, is suspected to be orchestrated by a China-linked state-sponsored hacking group known as APT41, Kaspersky said in a technical report",
-      "published": "Sat, 24 Oct 2026 00:20:13 +0530",
+      "source": "BleepingComputer",
+      "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
+      "link": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
+      "summary": "Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]",
+      "published": "Sun, 25 Oct 2026 11:49:38 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
-      "link": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
-      "summary": "Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab patched over the past month. GitLab found that a specially crafted pattern could corrupt memory while Ruby compiles it, potentially leading to code execution on its own servers. Ruby says any",
-      "published": "Fri, 23 Oct 2026 23:24:08 +0530",
-      "value_score": 54,
-      "value_signals": [
-        "RCE",
-        "Patch/update",
-        "High severity ×2"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -227,19 +236,6 @@
       "published": "Fri, 23 Oct 2026 10:00:10 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "HPE patches eight max severity RCE and auth bypass AOS flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
-      "summary": "Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximum-severity authentication bypass and code execution issues. [...]",
-      "published": "Fri, 23 Oct 2026 08:48:00 -0400",
-      "value_score": 68,
-      "value_signals": [
-        "RCE",
-        "Auth bypass ×2",
-        "Patch/update"
-      ]
     },
     {
       "source": "Krebs on Security",

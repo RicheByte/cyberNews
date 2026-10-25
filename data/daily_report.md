@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-10-25 03:14 UTC  
+> **Last Updated:** 2026-10-25 08:53 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**net client library** • **11 million impacted** • **quanum lsm system** • **twitter whistleblower complaint** • **stealing mobile call** • **recommends specific mitigations** • **hacker handle rey** • **gentlemen ransomware groups** • **execute malicious code** • **modifying system configurations** • **malicious cyber actors** • **extortion group shinyhunters** • **prolific data theft** • **policing unpredictable agents** • **canadian cybersecurity firm** • **third party components** • **streamed pirated films** • **sophisticated underground market** • **shared mitigation measures** • **seize full control**
+**net client library** • **11 million impacted** • **quanum lsm system** • **twitter whistleblower complaint** • **stealing mobile call** • **recommends specific mitigations** • **hacker handle rey** • **modifying system configurations** • **malicious cyber actors** • **execute malicious code** • **extortion group shinyhunters** • **prolific data theft** • **policing unpredictable agents** • **gained privileged access** • **windows operating systems** • **third party components** • **streamed pirated films** • **sophisticated underground market** • **shared mitigation measures** • **seize full control**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication](https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html)
 - [Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software](https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html)
 - [Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline](https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html)
 - [Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads](https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html)
@@ -23,7 +24,6 @@
 - [CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud](https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html)
 - [BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations](https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html)
 - [Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws](https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html)
-- [Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions](https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html)
 
 ### BleepingComputer
 

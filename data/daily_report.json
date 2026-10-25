@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25 03:14",
+  "last_updated": "2026-10-25 08:53",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -10,14 +10,14 @@
     "stealing mobile call",
     "recommends specific mitigations",
     "hacker handle rey",
-    "gentlemen ransomware groups",
-    "execute malicious code",
     "modifying system configurations",
     "malicious cyber actors",
+    "execute malicious code",
     "extortion group shinyhunters",
     "prolific data theft",
     "policing unpredictable agents",
-    "canadian cybersecurity firm",
+    "gained privileged access",
+    "windows operating systems",
     "third party components",
     "streamed pirated films",
     "sophisticated underground market",
@@ -27,46 +27,55 @@
   "trending": [
     {
       "keyword": "net client library",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "11 million impacted",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "quanum lsm system",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2829
+      "mentions": 2830
     },
     {
       "keyword": "stealing mobile call",
-      "mentions": 22
+      "mentions": 23
     },
     {
       "keyword": "recommends specific mitigations",
-      "mentions": 8
-    },
-    {
-      "keyword": "hacker handle rey",
-      "mentions": 78
-    },
-    {
-      "keyword": "gentlemen ransomware groups",
       "mentions": 9
     },
     {
-      "keyword": "execute malicious code",
-      "mentions": 58
+      "keyword": "hacker handle rey",
+      "mentions": 79
     },
     {
       "keyword": "modifying system configurations",
-      "mentions": 11
+      "mentions": 12
+    },
+    {
+      "keyword": "malicious cyber actors",
+      "mentions": 544
+    },
+    {
+      "keyword": "execute malicious code",
+      "mentions": 59
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
+      "link": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
+      "summary": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models. \"Based on the current state of alignment research, monitoring systems, and the security of internet infrastructure, we believe the responsible approach is to conduct frontier model training with no",
+      "published": "Sun, 25 Oct 2026 12:24:29 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
@@ -143,17 +152,6 @@
         "RCE",
         "Patch/update",
         "High severity ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
-      "link": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
-      "summary": "Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups. Central to the operation is an \"Autonomous Red Team Kill Chain Framework\" referred to as Phantom. The threat actor is assessed to be Russian-speaking and functions both as an intrusion and data-extortion operator, as well as an",
-      "published": "Fri, 23 Oct 2026 23:20:47 +0530",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
       ]
     },
     {

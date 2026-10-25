@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-25 03:14 UTC |
+| 🕐 Last Updated | 2026-10-25 08:53 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`net client library` • `11 million impacted` • `quanum lsm system` • `twitter whistleblower complaint` • `stealing mobile call` • `recommends specific mitigations` • `hacker handle rey` • `gentlemen ransomware groups` • `execute malicious code` • `modifying system configurations`
+`net client library` • `11 million impacted` • `quanum lsm system` • `twitter whistleblower complaint` • `stealing mobile call` • `recommends specific mitigations` • `hacker handle rey` • `modifying system configurations` • `malicious cyber actors` • `execute malicious code`
 
 ## 📄 Reports
 

@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 550,
+      "count": 551,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -359,7 +359,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2836,
+      "count": 2837,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -18796,7 +18796,7 @@
       ]
     },
     "unknown threat actor": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-05-29",
         "2026-05-30",
@@ -18807,7 +18807,8 @@
         "2026-06-18",
         "2026-06-19",
         "2026-06-30",
-        "2026-07-01"
+        "2026-07-01",
+        "2026-10-26"
       ]
     },
     "protect user data": {
@@ -32416,7 +32417,7 @@
       ]
     },
     "stealing mobile call": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-09-29",
         "2026-10-12",
@@ -33194,7 +33195,7 @@
       ]
     },
     "extortion group shinyhunters": {
-      "count": 60,
+      "count": 61,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33239,7 +33240,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 85,
+      "count": 86,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33560,7 +33561,7 @@
       ]
     },
     "prolific data theft": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -33613,7 +33614,7 @@
       ]
     },
     "canadian cybersecurity firm": {
-      "count": 60,
+      "count": 61,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -34458,7 +34459,7 @@
       ]
     },
     "chameleonic cryptocurrency platform": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-10-20",
         "2026-10-21",
@@ -34799,7 +34800,7 @@
       ]
     },
     "net client library": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-10-22",
         "2026-10-23",
@@ -34911,7 +34912,7 @@
       ]
     },
     "modifying system configurations": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-10-23",
         "2026-10-24",
@@ -35037,7 +35038,7 @@
       ]
     },
     "recommends specific mitigations": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-10-23",
         "2026-10-24",
@@ -35093,25 +35094,25 @@
       ]
     },
     "drained 400 000": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-26"
       ]
     },
     "cryptocurrency investment scam": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-26"
       ]
     },
     "php2shell exploitation moves": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-26"
       ]
     },
     "run wechat inside": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-26"
       ]
@@ -35121,20 +35122,33 @@
       "dates": [
         "2026-10-26"
       ]
+    },
+    "ransomware cybersecurity researchers": {
+      "count": 1,
+      "dates": [
+        "2026-10-26"
+      ]
+    },
+    "steal cloud secrets": {
+      "count": 1,
+      "dates": [
+        "2026-10-26"
+      ]
+    },
+    "forced password resets": {
+      "count": 1,
+      "dates": [
+        "2026-10-26"
+      ]
+    },
+    "this2shell that2shell everything2shell": {
+      "count": 1,
+      "dates": [
+        "2026-10-26"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-04 17:56",
-      "articles": 48,
-      "top_keywords": [
-        "macos users targeted",
-        "critical infrastructure attacks",
-        "individuals whose licenses",
-        "200 000 people",
-        "exploiting sharepoint vulnerabilities"
-      ]
-    },
     {
       "timestamp": "2026-10-04 20:53",
       "articles": 48,
@@ -36222,6 +36236,17 @@
         "cryptocurrency investment scam",
         "execute malicious code",
         "single hacked device"
+      ]
+    },
+    {
+      "timestamp": "2026-10-26 22:11",
+      "articles": 56,
+      "top_keywords": [
+        "net client library",
+        "ransomware cybersecurity researchers",
+        "steal cloud secrets",
+        "drained 400 000",
+        "forced password resets"
       ]
     }
   ]

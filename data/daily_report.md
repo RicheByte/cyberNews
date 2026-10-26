@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-10-26 16:24 UTC  
+> **Last Updated:** 2026-10-26 22:11 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**net client library** • **drained 400 000** • **cryptocurrency investment scam** • **execute malicious code** • **single hacked device** • **malicious cyber actors** • **twitter whistleblower complaint** • **recommends specific mitigations** • **modifying system configurations** • **hacker handle rey** • **downloads folder tries** • **customer's downloads folder** • **chameleonic cryptocurrency platform** • **extortion group shinyhunters** • **php2shell exploitation moves** • **ai coding agent** • **policing unpredictable agents** • **run wechat inside** • **canadian cybersecurity firm** • **submitting malicious code**
+**net client library** • **ransomware cybersecurity researchers** • **steal cloud secrets** • **drained 400 000** • **forced password resets** • **cryptocurrency investment scam** • **canadian cybersecurity firm** • **unknown threat actor** • **twitter whistleblower complaint** • **recommends specific mitigations** • **modifying system configurations** • **malicious cyber actors** • **hacker handle rey** • **chameleonic cryptocurrency platform** • **extortion group shinyhunters** • **run wechat inside** • **prolific data theft** • **php2shell exploitation moves** • **this2shell that2shell everything2shell** • **stealing mobile call**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento](https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html)
+- [PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw](https://thehackernews.com/2026/10/php-issues-second-windows-security.html)
+- [Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware](https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html)
 - [⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More](https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html)
 - [Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes](https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html)
 - [Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses](https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html)
 - [uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts](https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html)
 - [Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations](https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html)
-- [Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs](https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html)
-- [Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware](https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html)
-- [Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers](https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html)
 
 ### BleepingComputer
 
+- [Former pentester used ARTEX AI to steal 8.2 million data records](https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/)
+- [OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/)
+- [DreamHost forces password resets in ongoing "incident"](https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/)
+- [Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches](https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/)
 - [Microsoft releases emergency .NET patches for critical Brotli flaw](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-net-patches-for-critical-brotli-flaw/)
 - [When an AI Agent Is the Incident, the Identity Record Is the Evidence](https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/)
 - [Chinese man extradited for role in $36 million cryptocurrency scam](https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/)
 - [Kali Linux 2026.3 released with 6 new tools, desktop updates](https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/)
-- [PHP2Shell security flaws now sucessfully exploited in the wild](https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/)
-- [AI coding agents hijacked using AGENTS.md file in Downloads folder](https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/)
-- [BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot](https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/)
-- [Abandoned Popcorn Time app exposed millions of devices to RCE attacks](https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/)
 
 ### Krebs on Security
 
@@ -49,17 +49,18 @@
 
 ### Dark Reading
 
+- [Risks &amp; Rewards: How AI Is Redefining the CISO's Role](https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role)
+- [In-the-Wild Attack Abuses AI Agents' Trust in Markdown](https://www.darkreading.com/application-security/in-the-wild-attack-ai-agents-trust-markdown)
+- ['Gheist' Weaponizes GitHub Tokens to Steal Cloud Secrets](https://www.darkreading.com/cyberattacks-data-breaches/gheist-stolen-github-tokens-cloud-secrets)
 - [10 Software Security Practices Built for the Next 250 Years](https://www.darkreading.com/cyberattacks-data-breaches/10-software-security-practices-built-250-years)
 - [Trust Is Not What It Seems — and Fraudsters Are Counting on It](https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it)
 - [Exposed to PHP2Shell? Cyber Experts Weigh in With Advice](https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice)
 - [AI Tools Are Generating Massive Attacks for Little Cost](https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost)
 - [Why Caribbean Threats Cascade Into Global Cyber-Risk](https://www.darkreading.com/cyber-risk/why-caribbean-threats-cascade-global-cyber-risk)
-- [Cyber Insurance's New Reality: Underwriting Isn't Enough](https://www.darkreading.com/cyber-risk/cyber-insurances-underwriting-isnt-enough)
-- [AI Agents as Insider Threats: Inside Microsoft's Bet on a Unified Security Stack](https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack)
-- [State Bank of India Suffers a Customer PII Data Leak](https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak)
 
 ### Security Week
 
+- [Anthropic Files for Potentially the Biggest IPO Ever as CEO Warns of Risk to Humanity From AI](https://www.securityweek.com/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-risk-to-humanity-from-ai/)
 - [Industrial Vendors Check Products for PHP2Shell Vulnerabilities](https://www.securityweek.com/industrial-vendors-check-products-for-php2shell-vulnerabilities/)
 - [Genesys Hack Exposes Customer Data From Internal Systems](https://www.securityweek.com/genesys-hack-exposes-customer-data-from-internal-systems/)
 - [Stolen AI Reasoning Could Help China Build Cheaper Rivals](https://www.securityweek.com/stolen-ai-reasoning-could-help-china-build-cheaper-rivals/)
@@ -67,7 +68,6 @@
 - [953 Online Stores Infected in Long-Lasting Malware Campaign](https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/)
 - [Dutch Police Arrest Two Over NFC Relay Attacks That Drained $400,000+ From Bank Accounts](https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/)
 - [Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages](https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/)
-- [Mythos 5 Ignored Real-World Harm in July Attack](https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/)
 
 ### Threatpost
 

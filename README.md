@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-26 16:24 UTC |
+| 🕐 Last Updated | 2026-10-26 22:11 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`net client library` • `drained 400 000` • `cryptocurrency investment scam` • `execute malicious code` • `single hacked device` • `malicious cyber actors` • `twitter whistleblower complaint` • `recommends specific mitigations` • `modifying system configurations` • `hacker handle rey`
+`net client library` • `ransomware cybersecurity researchers` • `steal cloud secrets` • `drained 400 000` • `forced password resets` • `cryptocurrency investment scam` • `canadian cybersecurity firm` • `unknown threat actor` • `twitter whistleblower complaint` • `recommends specific mitigations`
 
 ## 📄 Reports
 

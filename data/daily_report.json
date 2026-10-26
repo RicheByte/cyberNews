@@ -1,72 +1,104 @@
 {
-  "last_updated": "2026-10-26 16:24",
+  "last_updated": "2026-10-26 22:11",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "net client library",
+    "ransomware cybersecurity researchers",
+    "steal cloud secrets",
     "drained 400 000",
+    "forced password resets",
     "cryptocurrency investment scam",
-    "execute malicious code",
-    "single hacked device",
-    "malicious cyber actors",
+    "canadian cybersecurity firm",
+    "unknown threat actor",
     "twitter whistleblower complaint",
     "recommends specific mitigations",
     "modifying system configurations",
+    "malicious cyber actors",
     "hacker handle rey",
-    "downloads folder tries",
-    "customer's downloads folder",
     "chameleonic cryptocurrency platform",
     "extortion group shinyhunters",
-    "php2shell exploitation moves",
-    "ai coding agent",
-    "policing unpredictable agents",
     "run wechat inside",
-    "canadian cybersecurity firm",
-    "submitting malicious code"
+    "prolific data theft",
+    "php2shell exploitation moves",
+    "this2shell that2shell everything2shell",
+    "stealing mobile call"
   ],
   "trending": [
     {
       "keyword": "net client library",
-      "mentions": 21
+      "mentions": 22
+    },
+    {
+      "keyword": "ransomware cybersecurity researchers",
+      "mentions": 1
+    },
+    {
+      "keyword": "steal cloud secrets",
+      "mentions": 1
     },
     {
       "keyword": "drained 400 000",
+      "mentions": 2
+    },
+    {
+      "keyword": "forced password resets",
       "mentions": 1
     },
     {
       "keyword": "cryptocurrency investment scam",
-      "mentions": 1
+      "mentions": 2
     },
     {
-      "keyword": "execute malicious code",
-      "mentions": 65
+      "keyword": "canadian cybersecurity firm",
+      "mentions": 61
     },
     {
-      "keyword": "single hacked device",
-      "mentions": 5
-    },
-    {
-      "keyword": "malicious cyber actors",
-      "mentions": 550
+      "keyword": "unknown threat actor",
+      "mentions": 40
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2836
+      "mentions": 2837
     },
     {
       "keyword": "recommends specific mitigations",
-      "mentions": 15
-    },
-    {
-      "keyword": "modifying system configurations",
-      "mentions": 18
-    },
-    {
-      "keyword": "hacker handle rey",
-      "mentions": 85
+      "mentions": 16
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
+      "link": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
+      "summary": "An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025. According to Dutch e-commerce security company Sansec, the activity is designed to add a small piece of code to the store's pages that, when visited by unsuspecting users, serves malicious JavaScript loader code through Magento CMS blocks. \"When you",
+      "published": "Mon, 26 Oct 2026 23:42:22 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
+      "link": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
+      "summary": "PHP has rebuilt its official Windows packages for PHP 8.2 through 8.5 to fix CVE-2026-111497, a flaw in the Brotli compression library that the packages include. The flaw can let an attacker corrupt memory and potentially run code. PHP says the flaw can be reached through the cURL extension when the extension decompresses HTTP responses automatically. cURL leaves that off by default, but",
+      "published": "Mon, 26 Oct 2026 23:15:57 +0530",
+      "value_score": 44,
+      "value_signals": [
+        "CVE mentioned",
+        "Patch/update ×3"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
+      "link": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
+      "summary": "Cybersecurity researchers are calling attention to what they say is a \"recurring social engineering pattern\" across hundreds of cases in which threat actors use Microsoft Teams' external chat creation feature to conduct impersonation scams or to deliver malware. \"A consistent pattern of attacker behavior has emerged across these incidents: the use of the same throwaway tenants, the same 'IT",
+      "published": "Mon, 26 Oct 2026 21:22:40 +0530",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
@@ -121,31 +153,42 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
-      "link": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
-      "summary": "An automated campaign is using stolen GitHub tokens to plant workflows that print a repository's secrets into its GitHub Actions logs, which the attackers then download before deleting the runs. The attacks have succeeded in private repositories and GitHub Enterprise environments, according to an analysis by cloud security company Wiz. A GitHub safeguard that pauses",
-      "published": "Mon, 26 Oct 2026 13:19:46 +0530",
+      "source": "BleepingComputer",
+      "title": "Former pentester used ARTEX AI to steal 8.2 million data records",
+      "link": "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/",
+      "summary": "South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI pentesting framework used in most of the attacks. [...]",
+      "published": "Mon, 26 Oct 2026 17:08:28 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
-      "link": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
-      "summary": "A malicious instruction file sitting in a developer's Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm Forever Security said in a report published last week. The company caught the attempt on a real customer's machine and stopped the agent before any code ran. It could not determine how the file got into the folder. The file",
-      "published": "Mon, 26 Oct 2026 11:33:48 +0530",
+      "source": "BleepingComputer",
+      "title": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/",
+      "summary": "OpenAI has launched GPT-6.1 Terra, a new model focused on computer use, visual reasoning, coding, and everyday work, while costing significantly less than its larger models. [...]",
+      "published": "Mon, 26 Oct 2026 16:46:49 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
-      "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
-      "summary": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week. The attack requires two things: Tailscale SSH set up to allow port forwarding, and an attacker who already controls one device that the network's access rules permit to connect to the target. The findings were",
-      "published": "Sun, 25 Oct 2026 23:14:09 +0530",
+      "source": "BleepingComputer",
+      "title": "DreamHost forces password resets in ongoing \"incident\"",
+      "link": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
+      "summary": "DreamHost has forced password resets for email and FTP/SFTP users following an incident that disrupted connections to the File Manager interface. [...]",
+      "published": "Mon, 26 Oct 2026 15:26:20 -0400",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
+      "summary": "A critical flaw dubbed 'HTTP2Shell' in Brotli, the C decoder library built into Node.js, could allow attackers to corrupt memory and access sensitive data. [...]",
+      "published": "Mon, 26 Oct 2026 12:27:57 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×2"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -187,53 +230,6 @@
       "published": "Mon, 26 Oct 2026 06:26:52 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
-      "link": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
-      "summary": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]",
-      "published": "Mon, 26 Oct 2026 05:19:57 -0400",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "Active exploitation ×2",
-        "RCE",
-        "High severity",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
-      "summary": "Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]",
-      "published": "Sun, 25 Oct 2026 11:49:38 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
-      "link": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
-      "summary": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast. [...]",
-      "published": "Sat, 24 Oct 2026 10:17:32 -0400",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
-      "summary": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with elevated privileges on millions of computers. [...]",
-      "published": "Fri, 23 Oct 2026 16:55:05 -0400",
-      "value_score": 30,
-      "value_signals": [
-        "RCE"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -324,6 +320,35 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Risks &amp; Rewards: How AI Is Redefining the CISO's Role",
+      "link": "https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role",
+      "summary": "Nvidia security executive Mark Weatherford says CISOs must help business leaders weigh AI's pros and cons, and ensure those deploying it own the risks.",
+      "published": "Mon, 26 Oct 2026 21:44:33 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "In-the-Wild Attack Abuses AI Agents' Trust in Markdown",
+      "link": "https://www.darkreading.com/application-security/in-the-wild-attack-ai-agents-trust-markdown",
+      "summary": "A new AI agent prompt injection technique exploits how coding assistants consume local instruction files, blurring the line between text documents and executable actions.",
+      "published": "Mon, 26 Oct 2026 20:59:26 GMT",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "'Gheist' Weaponizes GitHub Tokens to Steal Cloud Secrets",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/gheist-stolen-github-tokens-cloud-secrets",
+      "summary": "An ongoing supply chain attack is harvesting credentials and sensitive data from thousands of developer repositories.",
+      "published": "Mon, 26 Oct 2026 18:01:40 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "10 Software Security Practices Built for the Next 250 Years",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/10-software-security-practices-built-250-years",
       "summary": "This Cybersecurity Awareness Month's theme, \"Securing the Next 250,\" asks us to look beyond vulnerabilities and consider what will make our digital systems resilient for generations.",
@@ -375,33 +400,13 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Cyber Insurance's New Reality: Underwriting Isn't Enough",
-      "link": "https://www.darkreading.com/cyber-risk/cyber-insurances-underwriting-isnt-enough",
-      "summary": "Rising AI, social engineering, and cloud risks are pushing carriers beyond risk transfer and deeper into cybersecurity itself.",
-      "published": "Fri, 23 Oct 2026 13:30:00 GMT",
+      "source": "Security Week",
+      "title": "Anthropic Files for Potentially the Biggest IPO Ever as CEO Warns of Risk to Humanity From AI",
+      "link": "https://www.securityweek.com/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-risk-to-humanity-from-ai/",
+      "summary": "A string of hacking incidents by rogue AI agents also has raised fears the technology will slip free of human control to carry out harmful, life-threatening tasks. The post Anthropic Files for Potentially the Biggest IPO Ever as CEO Warns of Risk to Humanity From AI appeared first on SecurityWeek .",
+      "published": "Mon, 26 Oct 2026 20:20:56 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "AI Agents as Insider Threats: Inside Microsoft's Bet on a Unified Security Stack",
-      "link": "https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack",
-      "summary": "Microsoft's Project Perception adds Guardian Agents to monitor and contain anomalous AI agents, but experts warn that policing unpredictable agents with other agents may compound — not contain — the risk.",
-      "published": "Fri, 23 Oct 2026 11:38:28 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "State Bank of India Suffers a Customer PII Data Leak",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak",
-      "summary": "Relatively small data breaches in India can turn quite serious, thanks to a sophisticated underground market for trading PII.",
-      "published": "Fri, 23 Oct 2026 03:30:00 GMT",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
     },
     {
       "source": "Security Week",
@@ -465,15 +470,6 @@
       "link": "https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/",
       "summary": "An out-of-bounds write in Google’s Brotli decoder affects Node.js, .NET, PowerShell, and Python packages, and can lead to code execution. The post Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages appeared first on SecurityWeek .",
       "published": "Mon, 26 Oct 2026 10:21:57 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Mythos 5 Ignored Real-World Harm in July Attack",
-      "link": "https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/",
-      "summary": "The model engaged in severe overreach and dishonesty, creating fake identities and submitting malicious code on GitHub. The post Mythos 5 Ignored Real-World Harm in July Attack appeared first on SecurityWeek .",
-      "published": "Mon, 26 Oct 2026 09:10:03 +0000",
       "value_score": 10,
       "value_signals": []
     },

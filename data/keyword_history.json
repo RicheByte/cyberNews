@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 549,
+      "count": 550,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -359,7 +359,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2835,
+      "count": 2836,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -10884,7 +10884,7 @@
       ]
     },
     "execute malicious code": {
-      "count": 64,
+      "count": 65,
       "dates": [
         "2026-03-12",
         "2026-03-13",
@@ -12327,7 +12327,7 @@
       ]
     },
     "ai coding agent": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-25",
         "2026-07-09",
@@ -33194,7 +33194,7 @@
       ]
     },
     "extortion group shinyhunters": {
-      "count": 59,
+      "count": 60,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33239,7 +33239,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 84,
+      "count": 85,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33613,7 +33613,7 @@
       ]
     },
     "canadian cybersecurity firm": {
-      "count": 59,
+      "count": 60,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -33630,7 +33630,8 @@
         "2026-10-22",
         "2026-10-23",
         "2026-10-24",
-        "2026-10-25"
+        "2026-10-25",
+        "2026-10-26"
       ]
     },
     "repositories cybersecurity researchers": {
@@ -34457,12 +34458,13 @@
       ]
     },
     "chameleonic cryptocurrency platform": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-10-20",
         "2026-10-21",
         "2026-10-22",
-        "2026-10-23"
+        "2026-10-23",
+        "2026-10-26"
       ]
     },
     "backdoor called hookedge": {
@@ -34797,7 +34799,7 @@
       ]
     },
     "net client library": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-10-22",
         "2026-10-23",
@@ -34909,7 +34911,7 @@
       ]
     },
     "modifying system configurations": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-10-23",
         "2026-10-24",
@@ -34995,7 +34997,7 @@
       ]
     },
     "policing unpredictable agents": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-10-23",
         "2026-10-24",
@@ -35035,7 +35037,7 @@
       ]
     },
     "recommends specific mitigations": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-10-23",
         "2026-10-24",
@@ -35059,21 +35061,21 @@
       ]
     },
     "customer's downloads folder": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-10-25",
         "2026-10-26"
       ]
     },
     "single hacked device": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-10-25",
         "2026-10-26"
       ]
     },
     "downloads folder tries": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-26"
       ]
@@ -35089,20 +35091,39 @@
       "dates": [
         "2026-10-26"
       ]
+    },
+    "drained 400 000": {
+      "count": 1,
+      "dates": [
+        "2026-10-26"
+      ]
+    },
+    "cryptocurrency investment scam": {
+      "count": 1,
+      "dates": [
+        "2026-10-26"
+      ]
+    },
+    "php2shell exploitation moves": {
+      "count": 1,
+      "dates": [
+        "2026-10-26"
+      ]
+    },
+    "run wechat inside": {
+      "count": 1,
+      "dates": [
+        "2026-10-26"
+      ]
+    },
+    "submitting malicious code": {
+      "count": 1,
+      "dates": [
+        "2026-10-26"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-04 13:37",
-      "articles": 48,
-      "top_keywords": [
-        "macos users targeted",
-        "individuals whose licenses",
-        "critical infrastructure attacks",
-        "200 000 people",
-        "exploiting sharepoint vulnerabilities"
-      ]
-    },
     {
       "timestamp": "2026-10-04 17:56",
       "articles": 48,
@@ -36189,6 +36210,17 @@
         "11 million impacted",
         "quanum lsm system",
         "ai coding agent",
+        "single hacked device"
+      ]
+    },
+    {
+      "timestamp": "2026-10-26 16:24",
+      "articles": 56,
+      "top_keywords": [
+        "net client library",
+        "drained 400 000",
+        "cryptocurrency investment scam",
+        "execute malicious code",
         "single hacked device"
       ]
     }

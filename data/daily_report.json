@@ -1,72 +1,99 @@
 {
-  "last_updated": "2026-10-26 02:49",
+  "last_updated": "2026-10-26 09:35",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "net client library",
-    "customer's downloads folder",
     "11 million impacted",
     "quanum lsm system",
+    "ai coding agent",
     "single hacked device",
-    "twitter whistleblower complaint",
-    "stealing mobile call",
-    "recommends specific mitigations",
-    "hacker handle rey",
     "execute malicious code",
-    "modifying system configurations",
+    "twitter whistleblower complaint",
+    "recommends specific mitigations",
     "malicious cyber actors",
-    "prolific data theft",
-    "extortion group shinyhunters",
+    "hacker handle rey",
+    "downloads folder tries",
+    "customer's downloads folder",
+    "abandoned time4popcorn app",
     "gained privileged access",
     "gain root access",
+    "modifying system configurations",
+    "bun microsoft's net",
+    "extortion group shinyhunters",
     "policing unpredictable agents",
-    "windows operating systems",
-    "streamed pirated films",
-    "sophisticated underground market"
+    "early november 2026"
   ],
   "trending": [
     {
       "keyword": "net client library",
-      "mentions": 19
-    },
-    {
-      "keyword": "customer's downloads folder",
-      "mentions": 3
+      "mentions": 20
     },
     {
       "keyword": "11 million impacted",
-      "mentions": 16
+      "mentions": 17
     },
     {
       "keyword": "quanum lsm system",
-      "mentions": 14
+      "mentions": 15
+    },
+    {
+      "keyword": "ai coding agent",
+      "mentions": 10
     },
     {
       "keyword": "single hacked device",
-      "mentions": 3
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2834
-    },
-    {
-      "keyword": "stealing mobile call",
-      "mentions": 27
-    },
-    {
-      "keyword": "recommends specific mitigations",
-      "mentions": 13
-    },
-    {
-      "keyword": "hacker handle rey",
-      "mentions": 83
+      "mentions": 4
     },
     {
       "keyword": "execute malicious code",
-      "mentions": 63
+      "mentions": 64
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2835
+    },
+    {
+      "keyword": "recommends specific mitigations",
+      "mentions": 14
+    },
+    {
+      "keyword": "malicious cyber actors",
+      "mentions": 549
+    },
+    {
+      "keyword": "hacker handle rey",
+      "mentions": 84
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
+      "link": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
+      "summary": "Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen tokens to break into email accounts at 79 organizations. Huntress, which observed the activity between July 14 and September 22, 2026, said it detected 497 successful Microsoft 365 sign-in events across",
+      "published": "Mon, 26 Oct 2026 14:05:51 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
+      "link": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
+      "summary": "An automated campaign is using stolen GitHub tokens to plant workflows that print a repository's secrets into its GitHub Actions logs, which the attackers then download before deleting the runs. The attacks have succeeded in private repositories and GitHub Enterprise environments, according to an analysis by cloud security company Wiz. A GitHub safeguard that pauses",
+      "published": "Mon, 26 Oct 2026 13:19:46 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
+      "link": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
+      "summary": "A malicious instruction file sitting in a developer's Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm Forever Security said in a report published last week. The company caught the attempt on a real customer's machine and stopped the agent before any code ran. It could not determine how the file got into the folder. The file",
+      "published": "Mon, 26 Oct 2026 11:33:48 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
@@ -78,14 +105,13 @@
     },
     {
       "source": "The Hacker News",
-      "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+      "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
       "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
-      "summary": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619. \"In one case, the attackers targeted a government entity in Europe and within two hours of the initial exploitation they had successfully accessed password hashes and multi-factor",
+      "summary": "In an update, Palo Alto Networks Unit 42 said it's retracting its earlier assessment that the post-compromise activity targeting the European government agency involved the exploitation of the PHP2Shell flaws. \"What researchers saw was an attack against a European government agency executed in the context of a vulnerable PHP application,\" a spokesperson for the company told The Hacker News via",
       "published": "Sun, 25 Oct 2026 22:49:46 +0530",
-      "value_score": 60,
+      "value_score": 24,
       "value_signals": [
-        "CVE mentioned ×2",
-        "Multiple CVEs",
+        "Patch/update",
         "Exploit wording"
       ]
     },
@@ -102,7 +128,7 @@
       "source": "The Hacker News",
       "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
       "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-      "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli. Tracked as CVE-2026-111497, the flaw allows crafted compressed data to overwrite past the end of a buffer and corrupt a program's memory, potentially",
+      "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, Microsoft's .NET, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli. Tracked as CVE-2026-111497, the flaw allows crafted compressed data to overwrite past the end of a buffer and corrupt a program's memory,",
       "published": "Sat, 24 Oct 2026 16:39:29 +0530",
       "value_score": 48,
       "value_signals": [
@@ -120,37 +146,18 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
-      "link": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
-      "summary": "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on their activity on other connected Google services. \"You may choose to allow certain Google services, including services like Search or Gemini Apps, to access data from other Google services you use,",
-      "published": "Sat, 24 Oct 2026 16:06:33 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
-      "link": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
-      "summary": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have allowed an outsider to take over the machine. The updater belongs to Time4Popcorn, an abandoned copy of Popcorn Time, a free app that streamed pirated films and TV over BitTorrent. Popcorn Time was",
-      "published": "Sat, 24 Oct 2026 14:34:24 +0530",
-      "value_score": 20,
-      "value_signals": [
-        "Botnet"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
-      "link": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV), citing reports of active exploitation in the wild. The critical-severity vulnerabilities are listed below - CVE-2026-110447 (CVSS score: 9.2) - An operating",
-      "published": "Sat, 24 Oct 2026 11:55:57 +0530",
+      "source": "BleepingComputer",
+      "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
+      "link": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
+      "summary": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]",
+      "published": "Mon, 26 Oct 2026 05:19:57 -0400",
       "value_score": 100,
       "value_signals": [
-        "CVE mentioned",
+        "CVE mentioned ×2",
         "Active exploitation ×2",
-        "CISA/KEV ×4",
-        "High severity ×2",
+        "RCE",
+        "High severity",
+        "Multiple CVEs",
         "Exploit wording"
       ]
     },
@@ -227,15 +234,6 @@
         "RCE ×2",
         "Patch/update ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "You gave your AI agent access, but who is giving it orders?",
-      "link": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
-      "summary": "AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their legitimate permissions. Gen Digital explains how its Agent Trust Hub helps protect agents through skill verification, secure connectivity, and runtime controls that intercept dangerous act [...]",
-      "published": "Fri, 23 Oct 2026 10:00:10 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -407,6 +405,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Mythos 5 Ignored Real-World Harm in July Attack",
+      "link": "https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/",
+      "summary": "The model engaged in severe overreach and dishonesty, creating fake identities and submitting malicious code on GitHub. The post Mythos 5 Ignored Real-World Harm in July Attack appeared first on SecurityWeek .",
+      "published": "Mon, 26 Oct 2026 09:10:03 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave",
       "link": "https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/",
       "summary": "Founded in 2025 by Unit 8200 alumni, Tel Aviv-based Mave uses AI agents to investigate alerts across existing security stacks. The post Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave appeared first on SecurityWeek .",
@@ -480,15 +487,6 @@
       "value_signals": [
         "Breach/leak ×2"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "LiteLLM Compromised in Fresh Supply Chain Attack",
-      "link": "https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/",
-      "summary": "Hackers used compromised GitHub CLI OAuth tokens to push and approve malicious packages on PyPI and Docker. The post LiteLLM Compromised in Fresh Supply Chain Attack appeared first on SecurityWeek .",
-      "published": "Fri, 23 Oct 2026 08:10:46 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

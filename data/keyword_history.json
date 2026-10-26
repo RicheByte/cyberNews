@@ -1,6 +1,5 @@
 {
   "dates": [
-    "2026-09-26",
     "2026-09-27",
     "2026-09-28",
     "2026-09-29",
@@ -29,7 +28,8 @@
     "2026-10-22",
     "2026-10-23",
     "2026-10-24",
-    "2026-10-25"
+    "2026-10-25",
+    "2026-10-26"
   ],
   "keywords": {
     "five cybersecurity predictions": {
@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 547,
+      "count": 548,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -170,7 +170,8 @@
         "2026-06-18",
         "2026-10-23",
         "2026-10-24",
-        "2026-10-25"
+        "2026-10-25",
+        "2026-10-26"
       ]
     },
     "user named csnemess": {
@@ -208,7 +209,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 817,
+      "count": 818,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -353,11 +354,12 @@
         "2026-10-20",
         "2026-10-21",
         "2026-10-22",
-        "2026-10-25"
+        "2026-10-25",
+        "2026-10-26"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2833,
+      "count": 2834,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -671,7 +673,8 @@
         "2026-10-22",
         "2026-10-23",
         "2026-10-24",
-        "2026-10-25"
+        "2026-10-25",
+        "2026-10-26"
       ]
     },
     "supposed wayward package": {
@@ -10881,7 +10884,7 @@
       ]
     },
     "execute malicious code": {
-      "count": 62,
+      "count": 63,
       "dates": [
         "2026-03-12",
         "2026-03-13",
@@ -10891,7 +10894,8 @@
         "2026-03-17",
         "2026-10-23",
         "2026-10-24",
-        "2026-10-25"
+        "2026-10-25",
+        "2026-10-26"
       ]
     },
     "747 security researchers": {
@@ -24248,11 +24252,12 @@
       ]
     },
     "gain root access": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-07-19",
         "2026-07-20",
-        "2026-10-25"
+        "2026-10-25",
+        "2026-10-26"
       ]
     },
     "okta's red team": {
@@ -32410,7 +32415,7 @@
       ]
     },
     "stealing mobile call": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-09-29",
         "2026-10-12",
@@ -32420,7 +32425,8 @@
         "2026-10-21",
         "2026-10-23",
         "2026-10-24",
-        "2026-10-25"
+        "2026-10-25",
+        "2026-10-26"
       ]
     },
     "darpa selects xint": {
@@ -33187,7 +33193,7 @@
       ]
     },
     "extortion group shinyhunters": {
-      "count": 57,
+      "count": 58,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33204,7 +33210,8 @@
         "2026-10-22",
         "2026-10-23",
         "2026-10-24",
-        "2026-10-25"
+        "2026-10-25",
+        "2026-10-26"
       ]
     },
     "deploy cryptocurrency miners": {
@@ -33231,7 +33238,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 82,
+      "count": 83,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33251,7 +33258,8 @@
         "2026-10-22",
         "2026-10-23",
         "2026-10-24",
-        "2026-10-25"
+        "2026-10-25",
+        "2026-10-26"
       ]
     },
     "reach internal functions": {
@@ -33551,7 +33559,7 @@
       ]
     },
     "prolific data theft": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -33566,7 +33574,8 @@
         "2026-10-22",
         "2026-10-23",
         "2026-10-24",
-        "2026-10-25"
+        "2026-10-25",
+        "2026-10-26"
       ]
     },
     "suspected shinyhunters operative": {
@@ -34787,12 +34796,13 @@
       ]
     },
     "net client library": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-10-22",
         "2026-10-23",
         "2026-10-24",
-        "2026-10-25"
+        "2026-10-25",
+        "2026-10-26"
       ]
     },
     "node js integration": {
@@ -34858,11 +34868,12 @@
       ]
     },
     "11 million impacted": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-10-23",
         "2026-10-24",
-        "2026-10-25"
+        "2026-10-25",
+        "2026-10-26"
       ]
     },
     "node js disclosed": {
@@ -34897,11 +34908,12 @@
       ]
     },
     "modifying system configurations": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-10-23",
         "2026-10-24",
-        "2026-10-25"
+        "2026-10-25",
+        "2026-10-26"
       ]
     },
     "sdks default client": {
@@ -34949,10 +34961,11 @@
       ]
     },
     "gained privileged access": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-10-23",
-        "2026-10-25"
+        "2026-10-25",
+        "2026-10-26"
       ]
     },
     "third party components": {
@@ -34964,11 +34977,12 @@
       ]
     },
     "quanum lsm system": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-10-23",
         "2026-10-24",
-        "2026-10-25"
+        "2026-10-25",
+        "2026-10-26"
       ]
     },
     "gentlemen ransomware groups": {
@@ -34980,11 +34994,12 @@
       ]
     },
     "policing unpredictable agents": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-10-23",
         "2026-10-24",
-        "2026-10-25"
+        "2026-10-25",
+        "2026-10-26"
       ]
     },
     "teams messages starting": {
@@ -34994,11 +35009,12 @@
       ]
     },
     "sophisticated underground market": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-10-23",
         "2026-10-24",
-        "2026-10-25"
+        "2026-10-25",
+        "2026-10-26"
       ]
     },
     "shared mitigation measures": {
@@ -35017,18 +35033,20 @@
       ]
     },
     "recommends specific mitigations": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-10-23",
         "2026-10-24",
-        "2026-10-25"
+        "2026-10-25",
+        "2026-10-26"
       ]
     },
     "streamed pirated films": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-10-24",
-        "2026-10-25"
+        "2026-10-25",
+        "2026-10-26"
       ]
     },
     "seize full control": {
@@ -35039,30 +35057,21 @@
       ]
     },
     "customer's downloads folder": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-10-25"
+        "2026-10-25",
+        "2026-10-26"
       ]
     },
     "single hacked device": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-10-25"
+        "2026-10-25",
+        "2026-10-26"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-04 00:18",
-      "articles": 48,
-      "top_keywords": [
-        "ultra sensitive environments",
-        "macos users targeted",
-        "critical infrastructure attacks",
-        "200 000 people",
-        "exploiting sharepoint vulnerabilities"
-      ]
-    },
     {
       "timestamp": "2026-10-04 07:40",
       "articles": 48,
@@ -36143,6 +36152,17 @@
     },
     {
       "timestamp": "2026-10-25 22:14",
+      "articles": 56,
+      "top_keywords": [
+        "net client library",
+        "customer's downloads folder",
+        "11 million impacted",
+        "quanum lsm system",
+        "single hacked device"
+      ]
+    },
+    {
+      "timestamp": "2026-10-26 02:49",
       "articles": 56,
       "top_keywords": [
         "net client library",

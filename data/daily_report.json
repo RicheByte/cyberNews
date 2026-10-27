@@ -1,72 +1,95 @@
 {
-  "last_updated": "2026-10-27 03:22",
+  "last_updated": "2026-10-27 09:31",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "cybersecurity issue forces",
     "net client library",
-    "ransomware cybersecurity researchers",
-    "steal cloud secrets",
     "forced password resets",
-    "drained 400 000",
-    "canadian cybersecurity firm",
-    "cryptocurrency investment scam",
+    "cybersecurity issue forces",
+    "php2shell exploitation moves",
+    "steal cloud secrets",
+    "525 000 people",
+    "video stream changing",
     "unknown threat actor",
+    "ukraine cert ua",
     "twitter whistleblower complaint",
     "modifying system configurations",
     "malicious cyber actors",
     "hacker handle rey",
-    "chameleonic cryptocurrency platform",
-    "extortion group shinyhunters",
-    "run wechat inside",
     "prolific data theft",
+    "maritime specific products",
+    "canadian cybersecurity firm",
+    "extortion group shinyhunters",
+    "ransomware cybersecurity researchers",
     "post anthropic files",
-    "php2shell exploitation moves",
-    "look beyond vulnerabilities"
+    "ot vulnerabilities relevant"
   ],
   "trending": [
     {
-      "keyword": "cybersecurity issue forces",
-      "mentions": 1
-    },
-    {
       "keyword": "net client library",
-      "mentions": 23
-    },
-    {
-      "keyword": "ransomware cybersecurity researchers",
-      "mentions": 2
-    },
-    {
-      "keyword": "steal cloud secrets",
-      "mentions": 2
+      "mentions": 24
     },
     {
       "keyword": "forced password resets",
+      "mentions": 3
+    },
+    {
+      "keyword": "cybersecurity issue forces",
       "mentions": 2
     },
     {
-      "keyword": "drained 400 000",
+      "keyword": "php2shell exploitation moves",
+      "mentions": 4
+    },
+    {
+      "keyword": "steal cloud secrets",
       "mentions": 3
     },
     {
-      "keyword": "canadian cybersecurity firm",
-      "mentions": 62
+      "keyword": "525 000 people",
+      "mentions": 1
     },
     {
-      "keyword": "cryptocurrency investment scam",
-      "mentions": 3
+      "keyword": "video stream changing",
+      "mentions": 1
     },
     {
       "keyword": "unknown threat actor",
-      "mentions": 41
+      "mentions": 42
+    },
+    {
+      "keyword": "ukraine cert ua",
+      "mentions": 14
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2838
+      "mentions": 2839
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses",
+      "link": "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
+      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of unauthorized remote access to video surveillance systems manufactured by Dahua. \"Cases of compromising IP cameras and DVRs with access to the video stream, changing the device configuration and creating third-party accounts have been recorded,\" the State Special Communications Service of Ukraine (SSSCIP)",
+      "published": "Tue, 27 Oct 2026 12:04:47 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
+      "link": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (KEV) catalog. The PHP vulnerabilities, both rated 9.2 on the CVSS scoring system, facilitate unauthenticated remote code execution on affected deployments - CVE-2026-109618 - An out-of-memory",
+      "published": "Tue, 27 Oct 2026 10:07:59 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE ×2",
+        "CISA/KEV ×4",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
@@ -133,24 +156,29 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
-      "link": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
-      "summary": "A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches people who install one of these tampered copies, spread outside the official app stores, or who run WeChat inside the kit makers' own container app. The kit's Telegram part matches Baohuo, a backdoor that Doctor",
-      "published": "Mon, 26 Oct 2026 15:24:02 +0530",
+      "source": "BleepingComputer",
+      "title": "Energy giant ENGIE discloses data breach affecting customers",
+      "link": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/",
+      "summary": "French energy giant ENGIE, one of the world's largest power and natural gas providers, confirmed that attackers stole customer data after breaching a marketing platform used by business partners. [...]",
+      "published": "Tue, 27 Oct 2026 05:25:50 -0400",
       "value_score": 22,
       "value_signals": [
-        "Backdoor"
+        "Breach/leak"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
-      "link": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
-      "summary": "Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen tokens to break into email accounts at 79 organizations. Huntress, which observed the activity between July 14 and September 22, 2026, said it detected 497 successful Microsoft 365 sign-in events across",
-      "published": "Mon, 26 Oct 2026 14:05:51 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell vulnerabilities to its catalog of actively exploited security flaws and ordered federal agencies to patch their systems by Thursday. [...]",
+      "published": "Tue, 27 Oct 2026 04:20:54 -0400",
+      "value_score": 89,
+      "value_signals": [
+        "Active exploitation",
+        "Patch/update",
+        "CISA/KEV ×2",
+        "Exploit wording"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -212,26 +240,6 @@
         "Patch/update",
         "High severity ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "When an AI Agent Is the Incident, the Identity Record Is the Evidence",
-      "link": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
-      "summary": "A new NIST, CISA, and NSA guide treats runaway agents as incidents to be rehearsed. The hard part of the response is answering whose authority the agent used, and that answer has to exist before the incident does. [...]",
-      "published": "Mon, 26 Oct 2026 10:00:10 -0400",
-      "value_score": 30,
-      "value_signals": [
-        "CISA/KEV"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Chinese man extradited for role in $36 million cryptocurrency scam",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/",
-      "summary": "A Chinese national was arraigned in California after being extradited from the Netherlands for his alleged involvement in a cryptocurrency investment scam that stole nearly $37 million from 174 victims in the United States. [...]",
-      "published": "Mon, 26 Oct 2026 09:56:44 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -401,6 +409,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Maritime Coalition Launches Free Vulnerability Database for Ship and Port Systems",
+      "link": "https://www.securityweek.com/maritime-coalition-launches-free-vulnerability-database-for-ship-and-port-systems/",
+      "summary": "Blue Initiative indexes nearly 30,000 IT and OT vulnerabilities relevant to ships and ports, 37 of them in maritime-specific products. The post Maritime Coalition Launches Free Vulnerability Database for Ship and Port Systems appeared first on SecurityWeek .",
+      "published": "Tue, 27 Oct 2026 07:14:27 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Cybersecurity Issue Forces a Major New Mexico Hospital to Divert Patients and Close Clinics",
       "link": "https://www.securityweek.com/cybersecurity-issue-forces-a-major-new-mexico-hospital-to-divert-patients-and-close-clinics/",
       "summary": "The University of New Mexico Health System told people not to show up at its main hospital in Albuquerque and canceled appointments at more than 30 clinics. The post Cybersecurity Issue Forces a Major New Mexico Hospital to Divert Patients and Close Clinics appeared first on SecurityWeek .",
@@ -461,15 +478,6 @@
       "link": "https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/",
       "summary": "Small loader code injected into the stores served a payload to visitors or did nothing to avoid detection. The post 953 Online Stores Infected in Long-Lasting Malware Campaign appeared first on SecurityWeek .",
       "published": "Mon, 26 Oct 2026 12:46:44 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Dutch Police Arrest Two Over NFC Relay Attacks That Drained $400,000+ From Bank Accounts",
-      "link": "https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/",
-      "summary": "The individuals called victims and persuaded them to install an app and scan their credit cards to loot their bank accounts. The post Dutch Police Arrest Two Over NFC Relay Attacks That Drained $400,000+ From Bank Accounts appeared first on SecurityWeek .",
-      "published": "Mon, 26 Oct 2026 11:47:52 +0000",
       "value_score": 10,
       "value_signals": []
     },

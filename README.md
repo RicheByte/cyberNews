@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-27 03:22 UTC |
+| 🕐 Last Updated | 2026-10-27 09:31 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`cybersecurity issue forces` • `net client library` • `ransomware cybersecurity researchers` • `steal cloud secrets` • `forced password resets` • `drained 400 000` • `canadian cybersecurity firm` • `cryptocurrency investment scam` • `unknown threat actor` • `twitter whistleblower complaint`
+`net client library` • `forced password resets` • `cybersecurity issue forces` • `php2shell exploitation moves` • `steal cloud secrets` • `525 000 people` • `video stream changing` • `unknown threat actor` • `ukraine cert ua` • `twitter whistleblower complaint`
 
 ## 📄 Reports
 

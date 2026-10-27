@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 552,
+      "count": 553,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -360,7 +360,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2838,
+      "count": 2839,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -14452,13 +14452,14 @@
       ]
     },
     "ukraine cert ua": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-04-16",
         "2026-07-19",
         "2026-07-20",
         "2026-08-12",
-        "2026-10-07"
+        "2026-10-07",
+        "2026-10-27"
       ]
     },
     "actively exploited flaw": {
@@ -18798,7 +18799,7 @@
       ]
     },
     "unknown threat actor": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2026-05-29",
         "2026-05-30",
@@ -33198,7 +33199,7 @@
       ]
     },
     "extortion group shinyhunters": {
-      "count": 62,
+      "count": 63,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33244,7 +33245,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 87,
+      "count": 88,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33566,7 +33567,7 @@
       ]
     },
     "prolific data theft": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -33620,7 +33621,7 @@
       ]
     },
     "canadian cybersecurity firm": {
-      "count": 62,
+      "count": 63,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -34808,7 +34809,7 @@
       ]
     },
     "net client library": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-10-22",
         "2026-10-23",
@@ -34921,7 +34922,7 @@
       ]
     },
     "modifying system configurations": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-10-23",
         "2026-10-24",
@@ -35118,7 +35119,7 @@
       ]
     },
     "php2shell exploitation moves": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-26",
         "2026-10-27"
@@ -35138,21 +35139,21 @@
       ]
     },
     "ransomware cybersecurity researchers": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-26",
         "2026-10-27"
       ]
     },
     "steal cloud secrets": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-26",
         "2026-10-27"
       ]
     },
     "forced password resets": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-26",
         "2026-10-27"
@@ -35165,13 +35166,13 @@
       ]
     },
     "cybersecurity issue forces": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-27"
       ]
     },
     "post anthropic files": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-27"
       ]
@@ -35181,20 +35182,33 @@
       "dates": [
         "2026-10-27"
       ]
+    },
+    "525 000 people": {
+      "count": 1,
+      "dates": [
+        "2026-10-27"
+      ]
+    },
+    "video stream changing": {
+      "count": 1,
+      "dates": [
+        "2026-10-27"
+      ]
+    },
+    "maritime specific products": {
+      "count": 1,
+      "dates": [
+        "2026-10-27"
+      ]
+    },
+    "ot vulnerabilities relevant": {
+      "count": 1,
+      "dates": [
+        "2026-10-27"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-05 00:22",
-      "articles": 48,
-      "top_keywords": [
-        "macos users targeted",
-        "individuals whose licenses",
-        "200 000 people",
-        "critical infrastructure attacks",
-        "exploiting sharepoint vulnerabilities"
-      ]
-    },
     {
       "timestamp": "2026-10-05 08:08",
       "articles": 48,
@@ -36282,6 +36296,17 @@
         "ransomware cybersecurity researchers",
         "steal cloud secrets",
         "forced password resets"
+      ]
+    },
+    {
+      "timestamp": "2026-10-27 09:31",
+      "articles": 56,
+      "top_keywords": [
+        "net client library",
+        "forced password resets",
+        "cybersecurity issue forces",
+        "php2shell exploitation moves",
+        "steal cloud secrets"
       ]
     }
   ]

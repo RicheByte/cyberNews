@@ -210,7 +210,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 818,
+      "count": 819,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -356,11 +356,12 @@
         "2026-10-21",
         "2026-10-22",
         "2026-10-25",
-        "2026-10-26"
+        "2026-10-26",
+        "2026-10-27"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2839,
+      "count": 2840,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -14452,7 +14453,7 @@
       ]
     },
     "ukraine cert ua": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-04-16",
         "2026-07-19",
@@ -33199,7 +33200,7 @@
       ]
     },
     "extortion group shinyhunters": {
-      "count": 63,
+      "count": 64,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33245,7 +33246,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 88,
+      "count": 89,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33567,7 +33568,7 @@
       ]
     },
     "prolific data theft": {
-      "count": 44,
+      "count": 45,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -33621,7 +33622,7 @@
       ]
     },
     "canadian cybersecurity firm": {
-      "count": 63,
+      "count": 64,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -34809,7 +34810,7 @@
       ]
     },
     "net client library": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-10-22",
         "2026-10-23",
@@ -34848,10 +34849,11 @@
       ]
     },
     "contact customer support": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-22",
-        "2026-10-23"
+        "2026-10-23",
+        "2026-10-27"
       ]
     },
     "add outside tools": {
@@ -35184,13 +35186,13 @@
       ]
     },
     "525 000 people": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-27"
       ]
     },
     "video stream changing": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-27"
       ]
@@ -35206,20 +35208,63 @@
       "dates": [
         "2026-10-27"
       ]
+    },
+    "hpe patches dozens": {
+      "count": 1,
+      "dates": [
+        "2026-10-27"
+      ]
+    },
+    "tailscale security team": {
+      "count": 1,
+      "dates": [
+        "2026-10-27"
+      ]
+    },
+    "tailscale rushes patches": {
+      "count": 1,
+      "dates": [
+        "2026-10-27"
+      ]
+    },
+    "tailworm flaws tailscale": {
+      "count": 1,
+      "dates": [
+        "2026-10-27"
+      ]
+    },
+    "dozen security vulnerabilities": {
+      "count": 1,
+      "dates": [
+        "2026-10-27"
+      ]
+    },
+    "memory tailscale warns": {
+      "count": 1,
+      "dates": [
+        "2026-10-27"
+      ]
+    },
+    "world's largest power": {
+      "count": 1,
+      "dates": [
+        "2026-10-27"
+      ]
+    },
+    "victim's work account": {
+      "count": 1,
+      "dates": [
+        "2026-10-27"
+      ]
+    },
+    "user cannot read": {
+      "count": 1,
+      "dates": [
+        "2026-10-27"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-05 08:08",
-      "articles": 48,
-      "top_keywords": [
-        "cve 2026 88779",
-        "macos users targeted",
-        "individuals whose licenses",
-        "200 000 people",
-        "prominent anthropic employee"
-      ]
-    },
     {
       "timestamp": "2026-10-05 19:04",
       "articles": 48,
@@ -36307,6 +36352,17 @@
         "cybersecurity issue forces",
         "php2shell exploitation moves",
         "steal cloud secrets"
+      ]
+    },
+    {
+      "timestamp": "2026-10-27 15:39",
+      "articles": 56,
+      "top_keywords": [
+        "net client library",
+        "hpe patches dozens",
+        "tailscale security team",
+        "tailscale rushes patches",
+        "525 000 people"
       ]
     }
   ]

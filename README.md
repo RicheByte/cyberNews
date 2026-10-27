@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-27 15:39 UTC |
+| 🕐 Last Updated | 2026-10-27 20:21 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`net client library` • `hpe patches dozens` • `tailscale security team` • `tailscale rushes patches` • `525 000 people` • `tailworm flaws tailscale` • `video stream changing` • `ukraine cert ua` • `twitter whistleblower complaint` • `hacker handle rey`
+`net client library` • `hpe patches dozens` • `525 000 people` • `malicious cyber actors` • `exploited coregraphics flaw` • `twitter whistleblower complaint` • `hacker handle rey` • `canadian cybersecurity firm` • `ai tools expands` • `dozen security vulnerabilities`
 
 ## 📄 Reports
 

@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 553,
+      "count": 554,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -210,7 +210,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 819,
+      "count": 820,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -361,7 +361,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2840,
+      "count": 2841,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3539,7 +3539,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 361,
+      "count": 362,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3601,7 +3601,8 @@
         "2026-09-23",
         "2026-09-24",
         "2026-10-20",
-        "2026-10-21"
+        "2026-10-21",
+        "2026-10-27"
       ]
     },
     "authenticated remote attacker": {
@@ -33200,7 +33201,7 @@
       ]
     },
     "extortion group shinyhunters": {
-      "count": 64,
+      "count": 65,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33246,7 +33247,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 89,
+      "count": 90,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33568,7 +33569,7 @@
       ]
     },
     "prolific data theft": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -33622,7 +33623,7 @@
       ]
     },
     "canadian cybersecurity firm": {
-      "count": 64,
+      "count": 65,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -34810,7 +34811,7 @@
       ]
     },
     "net client library": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-10-22",
         "2026-10-23",
@@ -35180,13 +35181,13 @@
       ]
     },
     "look beyond vulnerabilities": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-27"
       ]
     },
     "525 000 people": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-27"
       ]
@@ -35210,31 +35211,31 @@
       ]
     },
     "hpe patches dozens": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-27"
       ]
     },
     "tailscale security team": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-27"
       ]
     },
     "tailscale rushes patches": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-27"
       ]
     },
     "tailworm flaws tailscale": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-27"
       ]
     },
     "dozen security vulnerabilities": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-27"
       ]
@@ -35246,7 +35247,7 @@
       ]
     },
     "world's largest power": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-27"
       ]
@@ -35262,20 +35263,27 @@
       "dates": [
         "2026-10-27"
       ]
+    },
+    "exploited coregraphics flaw": {
+      "count": 1,
+      "dates": [
+        "2026-10-27"
+      ]
+    },
+    "ai tools expands": {
+      "count": 1,
+      "dates": [
+        "2026-10-27"
+      ]
+    },
+    "contain multiple vulnerabilities": {
+      "count": 1,
+      "dates": [
+        "2026-10-27"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-05 19:04",
-      "articles": 48,
-      "top_keywords": [
-        "250 000 impacted",
-        "high severity flaw",
-        "microsoft exchange server",
-        "session forgery stemming",
-        "cve 2026 88779"
-      ]
-    },
     {
       "timestamp": "2026-10-06 01:04",
       "articles": 48,
@@ -36363,6 +36371,17 @@
         "tailscale security team",
         "tailscale rushes patches",
         "525 000 people"
+      ]
+    },
+    {
+      "timestamp": "2026-10-27 20:21",
+      "articles": 56,
+      "top_keywords": [
+        "net client library",
+        "hpe patches dozens",
+        "525 000 people",
+        "malicious cyber actors",
+        "exploited coregraphics flaw"
       ]
     }
   ]

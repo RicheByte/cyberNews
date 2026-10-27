@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-10-26 22:11",
+  "last_updated": "2026-10-27 03:22",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "cybersecurity issue forces",
     "net client library",
     "ransomware cybersecurity researchers",
     "steal cloud secrets",
-    "drained 400 000",
     "forced password resets",
-    "cryptocurrency investment scam",
+    "drained 400 000",
     "canadian cybersecurity firm",
+    "cryptocurrency investment scam",
     "unknown threat actor",
     "twitter whistleblower complaint",
-    "recommends specific mitigations",
     "modifying system configurations",
     "malicious cyber actors",
     "hacker handle rey",
@@ -20,50 +20,50 @@
     "extortion group shinyhunters",
     "run wechat inside",
     "prolific data theft",
+    "post anthropic files",
     "php2shell exploitation moves",
-    "this2shell that2shell everything2shell",
-    "stealing mobile call"
+    "look beyond vulnerabilities"
   ],
   "trending": [
     {
+      "keyword": "cybersecurity issue forces",
+      "mentions": 1
+    },
+    {
       "keyword": "net client library",
-      "mentions": 22
+      "mentions": 23
     },
     {
       "keyword": "ransomware cybersecurity researchers",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "steal cloud secrets",
-      "mentions": 1
-    },
-    {
-      "keyword": "drained 400 000",
       "mentions": 2
     },
     {
       "keyword": "forced password resets",
-      "mentions": 1
-    },
-    {
-      "keyword": "cryptocurrency investment scam",
       "mentions": 2
     },
     {
+      "keyword": "drained 400 000",
+      "mentions": 3
+    },
+    {
       "keyword": "canadian cybersecurity firm",
-      "mentions": 61
+      "mentions": 62
+    },
+    {
+      "keyword": "cryptocurrency investment scam",
+      "mentions": 3
     },
     {
       "keyword": "unknown threat actor",
-      "mentions": 40
+      "mentions": 41
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2837
-    },
-    {
-      "keyword": "recommends specific mitigations",
-      "mentions": 16
+      "mentions": 2838
     }
   ],
   "articles": [
@@ -154,6 +154,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "University of Copenhagen data breach exposes data of 525,000 people",
+      "link": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
+      "summary": "The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people. [...]",
+      "published": "Mon, 26 Oct 2026 18:20:36 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Former pentester used ARTEX AI to steal 8.2 million data records",
       "link": "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/",
       "summary": "South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI pentesting framework used in most of the attacks. [...]",
@@ -219,15 +230,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/",
       "summary": "A Chinese national was arraigned in California after being extradited from the Netherlands for his alleged involvement in a cryptocurrency investment scam that stole nearly $37 million from 174 victims in the United States. [...]",
       "published": "Mon, 26 Oct 2026 09:56:44 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
-      "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
-      "summary": "Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed build scripts, and more. [...]",
-      "published": "Mon, 26 Oct 2026 06:26:52 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -320,6 +322,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "So Many AI Security Benchmarks, But None Tell the Whole Story",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges",
+      "summary": "Measuring AI model security gets complex fast — a growing patchwork of benchmarks targets different variables in the equation, but none replace testing against your own code and workflows.",
+      "published": "Tue, 27 Oct 2026 00:26:50 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Risks &amp; Rewards: How AI Is Redefining the CISO's Role",
       "link": "https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role",
       "summary": "Nvidia security executive Mark Weatherford says CISOs must help business leaders weigh AI's pros and cons, and ensure those deploying it own the risks.",
@@ -389,15 +400,13 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Why Caribbean Threats Cascade Into Global Cyber-Risk",
-      "link": "https://www.darkreading.com/cyber-risk/why-caribbean-threats-cascade-global-cyber-risk",
-      "summary": "The region is demonstrating what happens when exploits accelerate but assurance does not.",
-      "published": "Fri, 23 Oct 2026 14:00:00 GMT",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
+      "source": "Security Week",
+      "title": "Cybersecurity Issue Forces a Major New Mexico Hospital to Divert Patients and Close Clinics",
+      "link": "https://www.securityweek.com/cybersecurity-issue-forces-a-major-new-mexico-hospital-to-divert-patients-and-close-clinics/",
+      "summary": "The University of New Mexico Health System told people not to show up at its main hospital in Albuquerque and canceled appointments at more than 30 clinics. The post Cybersecurity Issue Forces a Major New Mexico Hospital to Divert Patients and Close Clinics appeared first on SecurityWeek .",
+      "published": "Tue, 27 Oct 2026 01:30:00 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -461,15 +470,6 @@
       "link": "https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/",
       "summary": "The individuals called victims and persuaded them to install an app and scan their credit cards to loot their bank accounts. The post Dutch Police Arrest Two Over NFC Relay Attacks That Drained $400,000+ From Bank Accounts appeared first on SecurityWeek .",
       "published": "Mon, 26 Oct 2026 11:47:52 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages",
-      "link": "https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/",
-      "summary": "An out-of-bounds write in Google’s Brotli decoder affects Node.js, .NET, PowerShell, and Python packages, and can lead to code execution. The post Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages appeared first on SecurityWeek .",
-      "published": "Mon, 26 Oct 2026 10:21:57 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -555,6 +555,22 @@
       "published": "Mon, 22 Aug 2022 13:59:06 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/10/26/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog and updated the PHP Alert, Critical Vulnerabilities in PHP Require Immediate Patching : CVE-2026-109618 – PHP Memory Corruption Vulnerability CVE-2026-109619 – PHP Stale Internal Request-State Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Secu",
+      "published": "Mon, 26 Oct 26 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×2",
+        "CISA/KEV ×5",
+        "High severity",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
     },
     {
       "source": "CISA Alerts",
@@ -645,17 +661,6 @@
         "Source boost: CISA Alerts",
         "RCE",
         "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Siemens SIMATIC S7-1500 CPU 1518(F)-4 PN/DP MFP",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-11",
-      "summary": "View CSAF Summary Multiple vulnerabilities have been identified in the additional GNU/Linux subsystem of the firmware version V3.1.7 for the SIMATIC S7-1500 CPU 1518(F)-4 PN/DP MFP (incl. SIPLUS variant). Siemens is preparing fixes and recommends specific mitigations for products where fixes are not or not yet available. The following versions of Siemens SIMATIC S7-1500 CPU 1518(F)-4 PN/DP MFP are affected: SIMATIC S7-1500 CPU 1518-4 PN/DP MFP (6ES7518-4AX00-1AB0) vers:intdot/>=3.1.7 SIMATIC S7-",
-      "published": "Thu, 22 Oct 26 12:00:00 +0000",
-      "value_score": 35,
-      "value_signals": [
-        "Source boost: CISA Alerts"
       ]
     }
   ],

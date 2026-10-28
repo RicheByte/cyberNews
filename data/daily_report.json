@@ -1,72 +1,122 @@
 {
-  "last_updated": "2026-10-28 00:54",
+  "last_updated": "2026-10-28 07:50",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "canadian cybersecurity firm",
     "net client library",
     "hpe patches dozens",
     "prolific data theft",
     "twitter whistleblower complaint",
+    "internal management interface",
     "hacker handle rey",
     "chameleonic cryptocurrency platform",
     "ai tools expands",
-    "tailscale rushes patches",
     "dozen security vulnerabilities",
+    "tailscale rushes patches",
+    "tailscale security team",
     "malicious cyber actors",
     "windows operating systems",
-    "exploited coregraphics flaw",
+    "canadian cybersecurity firm",
     "arbitrary code execution",
-    "tailscale security team",
     "contain multiple vulnerabilities",
-    "extortion group shinyhunters",
     "risks amp rewards",
+    "exploited coregraphics flaw",
     "victim's work account",
     "traditional infostealer playbook"
   ],
   "trending": [
     {
-      "keyword": "canadian cybersecurity firm",
-      "mentions": 66
-    },
-    {
       "keyword": "net client library",
-      "mentions": 27
+      "mentions": 28
     },
     {
       "keyword": "hpe patches dozens",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "prolific data theft",
-      "mentions": 47
+      "mentions": 48
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2842
+      "mentions": 2843
+    },
+    {
+      "keyword": "internal management interface",
+      "mentions": 1
     },
     {
       "keyword": "hacker handle rey",
-      "mentions": 91
+      "mentions": 92
     },
     {
       "keyword": "chameleonic cryptocurrency platform",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "ai tools expands",
-      "mentions": 2
-    },
-    {
-      "keyword": "tailscale rushes patches",
       "mentions": 3
     },
     {
       "keyword": "dozen security vulnerabilities",
-      "mentions": 3
+      "mentions": 4
+    },
+    {
+      "keyword": "tailscale rushes patches",
+      "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach",
+      "link": "https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html",
+      "summary": "Japan's GMO Internet Group is offering up to $1 million in total for tips that help catch the attackers who breached its Onamae.com Desktop Cloud service, after refusing to pay an extortion demand. The reward program opened on October 28 and pays only if a tip helps lead to an arrest or an international wanted notice. The service hosts Windows desktops used for FX trading,",
+      "published": "Wed, 28 Oct 2026 12:43:21 +0530",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Tailscale Patches SSH Flaws That Could Let Hacked Devices Gain Root Access on Other Servers",
+      "link": "https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html",
+      "summary": "Tailscale has released version 1.104.4 to fix flaws in its built-in SSH server that could let an attacker reach services and files on other servers that only the root user should be able to touch. The flaws are in how Tailscale SSH forwards network connections, a job the Tailscale background process carries out with root privileges. To use them, an attacker must",
+      "published": "Wed, 28 Oct 2026 11:50:37 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws",
+      "link": "https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html",
+      "summary": "The critical Oracle PeopleSoft bug that ShinyHunters has exploited since May is not one flaw but three chained together, the researchers who reported it said this week. Oracle patched all three under a single identifier, CVE-2026-35273, in June. Its root is a server-side request forgery (SSRF) that reaches an internal management interface because PeopleSoft trusts its own loopback address",
+      "published": "Wed, 28 Oct 2026 11:34:58 +0530",
+      "value_score": 67,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges",
+      "link": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two vulnerabilities impacting Adobe Commerce and Magento, and Google's Brotli decoder library to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-111497 (CVSS score: 9.2) - An unchecked return value vulnerability in",
+      "published": "Wed, 28 Oct 2026 11:12:26 +0530",
+      "value_score": 86,
+      "value_signals": [
+        "CVE mentioned",
+        "Breach/leak",
+        "CISA/KEV ×3",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
@@ -109,44 +159,6 @@
         "CVE mentioned",
         "Patch/update ×3"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key",
-      "link": "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html",
-      "summary": "An attacker who gained access to Keystone's website obtained the key that its hardware wallets use to prove they are genuine, the company said in a statement on October 26. Someone with that key could build counterfeit devices that pass the online check owners use to verify a Keystone. A buyer who trusted a counterfeit could have their crypto stolen, but the incident did not involve",
-      "published": "Tue, 27 Oct 2026 17:16:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "AI-Generated Fake Login Pages Are Making Account Takeovers Easier",
-      "link": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
-      "summary": "Fake login pages are nothing new, but generative AI is making them easier to build and more convincing. Attackers can recreate familiar login screens, impersonate trusted brands and tailor phishing attempts to specific employees or organizations. Some fake login pages go beyond stealing passwords. They can also capture MFA codes or hijack authenticated sessions, allowing attackers to gain",
-      "published": "Tue, 27 Oct 2026 17:02:46 +0530",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
-      "link": "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
-      "summary": "The North Korea-linked Lazarus Group has been attributed to a cyber espionage campaign dubbed Operation FlashHole targeting at least three organizations in South Korea spanning the construction, software, and wire-communication equipment manufacturing sectors. According to Russian cybersecurity company Kaspersky, the campaign has been active since at least July 2025. It's assessed to pick up",
-      "published": "Tue, 27 Oct 2026 17:02:31 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers",
-      "link": "https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html",
-      "summary": "A criminal using the Amadey malware can no longer access or steal data from 180,000 infected computers around the world, including some in Australia, the Australian Signals Directorate (ASD) says. The agency's operators gained access to the criminal's operation's backend and cut it off from those computers. \"The next steps that we took were to disconnect that Amadey controller from all those",
-      "published": "Tue, 27 Oct 2026 15:03:06 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -319,6 +331,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Third Serengeti Sweep Tops 1,400 Arrests as Investigations Mature",
+      "link": "https://www.darkreading.com/cybersecurity-operations/third-serengeti-sweep-1400-arrests-investigations-mature",
+      "summary": "Interpol's annual Operation Serengeti, now on its third iteration, led to 1,462 arrests across 20 African countries and the US, recovering $105 million in stolen funds.",
+      "published": "Wed, 28 Oct 2026 06:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "3 Frameworks to Protect CISOs &amp; Orgs Against AI Liability",
       "link": "https://www.darkreading.com/cyber-risk/3-frameworks-cisos-ai-liability",
       "summary": "Cyber leaders can get ahead of AI liability with rigorous documentation, transparency, and smart contract negotiations with AI vendors.",
@@ -381,17 +402,6 @@
       "published": "Mon, 26 Oct 2026 21:44:33 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "In-the-Wild Attack Abuses AI Agents' Trust in Markdown",
-      "link": "https://www.darkreading.com/application-security/in-the-wild-attack-ai-agents-trust-markdown",
-      "summary": "A new AI agent prompt injection technique exploits how coding assistants consume local instruction files, blurring the line between text documents and executable actions.",
-      "published": "Mon, 26 Oct 2026 20:59:26 GMT",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "Security Week",

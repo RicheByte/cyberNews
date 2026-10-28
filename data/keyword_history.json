@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 555,
+      "count": 556,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -211,7 +211,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 821,
+      "count": 822,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -363,7 +363,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2842,
+      "count": 2843,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3542,7 +3542,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 363,
+      "count": 364,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -33252,7 +33252,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 91,
+      "count": 92,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33575,7 +33575,7 @@
       ]
     },
     "prolific data theft": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -33630,7 +33630,7 @@
       ]
     },
     "canadian cybersecurity firm": {
-      "count": 66,
+      "count": 67,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -34477,7 +34477,7 @@
       ]
     },
     "chameleonic cryptocurrency platform": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-10-20",
         "2026-10-21",
@@ -34820,7 +34820,7 @@
       ]
     },
     "net client library": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-10-22",
         "2026-10-23",
@@ -35221,21 +35221,21 @@
       ]
     },
     "hpe patches dozens": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-27",
         "2026-10-28"
       ]
     },
     "tailscale security team": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-27",
         "2026-10-28"
       ]
     },
     "tailscale rushes patches": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-27",
         "2026-10-28"
@@ -35248,7 +35248,7 @@
       ]
     },
     "dozen security vulnerabilities": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-27",
         "2026-10-28"
@@ -35267,7 +35267,7 @@
       ]
     },
     "victim's work account": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-27",
         "2026-10-28"
@@ -35280,33 +35280,39 @@
       ]
     },
     "exploited coregraphics flaw": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-27",
         "2026-10-28"
       ]
     },
     "ai tools expands": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-27",
         "2026-10-28"
       ]
     },
     "contain multiple vulnerabilities": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-27",
         "2026-10-28"
       ]
     },
     "risks amp rewards": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-28"
       ]
     },
     "traditional infostealer playbook": {
+      "count": 2,
+      "dates": [
+        "2026-10-28"
+      ]
+    },
+    "internal management interface": {
       "count": 1,
       "dates": [
         "2026-10-28"
@@ -35314,17 +35320,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-06 08:27",
-      "articles": 48,
-      "top_keywords": [
-        "microsoft exchange server",
-        "250 000 impacted",
-        "cve 2026 96940",
-        "cve 2026 61500",
-        "ai cyber espionage"
-      ]
-    },
     {
       "timestamp": "2026-10-06 16:26",
       "articles": 48,
@@ -36412,6 +36407,17 @@
         "hpe patches dozens",
         "prolific data theft",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-10-28 07:50",
+      "articles": 56,
+      "top_keywords": [
+        "net client library",
+        "hpe patches dozens",
+        "prolific data theft",
+        "twitter whistleblower complaint",
+        "internal management interface"
       ]
     }
   ]

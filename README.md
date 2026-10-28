@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-27 20:21 UTC |
+| 🕐 Last Updated | 2026-10-28 00:54 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`net client library` • `hpe patches dozens` • `525 000 people` • `malicious cyber actors` • `exploited coregraphics flaw` • `twitter whistleblower complaint` • `hacker handle rey` • `canadian cybersecurity firm` • `ai tools expands` • `dozen security vulnerabilities`
+`canadian cybersecurity firm` • `net client library` • `hpe patches dozens` • `prolific data theft` • `twitter whistleblower complaint` • `hacker handle rey` • `chameleonic cryptocurrency platform` • `ai tools expands` • `tailscale rushes patches` • `dozen security vulnerabilities`
 
 ## 📄 Reports
 

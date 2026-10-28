@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-10-27 20:21",
+  "last_updated": "2026-10-28 00:54",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "canadian cybersecurity firm",
     "net client library",
     "hpe patches dozens",
-    "525 000 people",
-    "malicious cyber actors",
-    "exploited coregraphics flaw",
+    "prolific data theft",
     "twitter whistleblower complaint",
     "hacker handle rey",
-    "canadian cybersecurity firm",
+    "chameleonic cryptocurrency platform",
     "ai tools expands",
-    "dozen security vulnerabilities",
-    "tailscale security team",
     "tailscale rushes patches",
-    "prolific data theft",
-    "tailworm flaws tailscale",
-    "extortion group shinyhunters",
-    "arbitrary code execution",
+    "dozen security vulnerabilities",
+    "malicious cyber actors",
     "windows operating systems",
-    "look beyond vulnerabilities",
+    "exploited coregraphics flaw",
+    "arbitrary code execution",
+    "tailscale security team",
     "contain multiple vulnerabilities",
-    "world's largest power"
+    "extortion group shinyhunters",
+    "risks amp rewards",
+    "victim's work account",
+    "traditional infostealer playbook"
   ],
   "trending": [
     {
+      "keyword": "canadian cybersecurity firm",
+      "mentions": 66
+    },
+    {
       "keyword": "net client library",
-      "mentions": 26
+      "mentions": 27
     },
     {
       "keyword": "hpe patches dozens",
-      "mentions": 2
-    },
-    {
-      "keyword": "525 000 people",
       "mentions": 3
     },
     {
-      "keyword": "malicious cyber actors",
-      "mentions": 554
-    },
-    {
-      "keyword": "exploited coregraphics flaw",
-      "mentions": 1
+      "keyword": "prolific data theft",
+      "mentions": 47
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2841
+      "mentions": 2842
     },
     {
       "keyword": "hacker handle rey",
-      "mentions": 90
+      "mentions": 91
     },
     {
-      "keyword": "canadian cybersecurity firm",
-      "mentions": 65
+      "keyword": "chameleonic cryptocurrency platform",
+      "mentions": 12
     },
     {
       "keyword": "ai tools expands",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "tailscale rushes patches",
+      "mentions": 3
     },
     {
       "keyword": "dozen security vulnerabilities",
-      "mentions": 2
+      "mentions": 3
     }
   ],
   "articles": [
@@ -150,6 +150,46 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
+      "link": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
+      "summary": "The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company's Onamae Desktop Cloud threatened to launch a ransomware attack today. [...]",
+      "published": "Tue, 27 Oct 2026 19:35:51 -0400",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/",
+      "summary": "OpenAI confirmed GPT-6.1 Terra is safer overall than some of its older models, but its safety testing also found other problems. [...]",
+      "published": "Tue, 27 Oct 2026 18:43:27 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "UNM Health ransomware attack disrupts patient care, surgeries",
+      "link": "https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/",
+      "summary": "The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic activities. [...]",
+      "published": "Tue, 27 Oct 2026 18:07:34 -0400",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Hackers hijack Convertr analytics script to steal payment card data",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/",
+      "summary": "A credit card skimming group reportedly compromised a shared analytics script used by e-commerce platform Convertr to steal shoppers' payment data during checkout. [...]",
+      "published": "Tue, 27 Oct 2026 16:57:25 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Microsoft releases Windows OOB updates to distrust eMudhra certificates",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/",
       "summary": "Microsoft has released out-of-band (OOB) Windows updates to remove trust in certificates tied to compromised eMudhra certificate authority keys, protecting systems that do not receive automatic certificate trust updates. [...]",
@@ -189,54 +229,6 @@
       "published": "Tue, 27 Oct 2026 10:01:11 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Apple backports CoreGraphics zero-day patches to older iPhones",
-      "link": "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/",
-      "summary": "​Apple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
-      "published": "Tue, 27 Oct 2026 06:36:12 -0400",
-      "value_score": 66,
-      "value_signals": [
-        "Zero-day ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Energy giant ENGIE discloses data breach affecting customers",
-      "link": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/",
-      "summary": "French energy giant ENGIE, one of the world's largest power and natural gas providers, confirmed that attackers stole customer data after breaching a marketing platform used by business partners. [...]",
-      "published": "Tue, 27 Oct 2026 05:25:50 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell vulnerabilities to its catalog of actively exploited security flaws and ordered federal agencies to patch their systems by Thursday. [...]",
-      "published": "Tue, 27 Oct 2026 04:20:54 -0400",
-      "value_score": 89,
-      "value_signals": [
-        "Active exploitation",
-        "Patch/update",
-        "CISA/KEV ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "University of Copenhagen data breach exposes data of 525,000 people",
-      "link": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
-      "summary": "The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people. [...]",
-      "published": "Mon, 26 Oct 2026 18:20:36 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -327,6 +319,35 @@
     },
     {
       "source": "Dark Reading",
+      "title": "3 Frameworks to Protect CISOs &amp; Orgs Against AI Liability",
+      "link": "https://www.darkreading.com/cyber-risk/3-frameworks-cisos-ai-liability",
+      "summary": "Cyber leaders can get ahead of AI liability with rigorous documentation, transparency, and smart contract negotiations with AI vendors.",
+      "published": "Tue, 27 Oct 2026 21:15:03 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "External Teams Chats Anchor 15-Minute Malware Delivery",
+      "link": "https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path",
+      "summary": "Main bombing sis getting a new look with a wide-scale, ongoing social engineering campaign that might be tied to the Black Basta ransomware gang.",
+      "published": "Tue, 27 Oct 2026 20:42:40 GMT",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "SBOMs Alone Can't Reveal the Scope of a Supply Chain Attack",
+      "link": "https://www.darkreading.com/cyber-risk/sboms-alone-scope-supply-chain-attack",
+      "summary": "A recent Shai-Hulud attack shows defenders need real-time visibility into production code and affected services to respond to supply chain compromises.",
+      "published": "Tue, 27 Oct 2026 19:58:06 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Beware the Slasher: AI Could Kill Off Cybersecurity Pros' Skills",
       "link": "https://www.darkreading.com/cybersecurity-operations/ai-kill-off-cybersecurity-pros-skills",
       "summary": "Nathan Hamiel outlines potential SecOps horror in the AI midst, as core technical capabilities go the way of reading an atlas or remembering phone numbers.",
@@ -370,35 +391,6 @@
       "value_score": 16,
       "value_signals": [
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "'Gheist' Weaponizes GitHub Tokens to Steal Cloud Secrets",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/gheist-stolen-github-tokens-cloud-secrets",
-      "summary": "An ongoing supply chain attack is harvesting credentials and sensitive data from thousands of developer repositories.",
-      "published": "Mon, 26 Oct 2026 18:01:40 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "10 Software Security Practices Built for the Next 250 Years",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/10-software-security-practices-built-250-years",
-      "summary": "This Cybersecurity Awareness Month's theme, \"Securing the Next 250,\" asks us to look beyond vulnerabilities and consider what will make our digital systems resilient for generations.",
-      "published": "Mon, 26 Oct 2026 14:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Trust Is Not What It Seems — and Fraudsters Are Counting on It",
-      "link": "https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it",
-      "summary": "Threat actors don't need to rely on malware to breach organizations anymore. They're simply calling help desks and politely asking for access, with a little help from artificial intelligence.",
-      "published": "Fri, 23 Oct 2026 20:57:56 GMT",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
       ]
     },
     {

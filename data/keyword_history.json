@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 556,
+      "count": 557,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -363,7 +363,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2843,
+      "count": 2844,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2836,7 +2836,7 @@
       ]
     },
     "token security explains": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-01-05",
         "2026-01-06",
@@ -2851,7 +2851,8 @@
         "2026-09-25",
         "2026-09-26",
         "2026-09-30",
-        "2026-10-01"
+        "2026-10-01",
+        "2026-10-28"
       ]
     },
     "advanced ai technologies": {
@@ -3542,7 +3543,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 364,
+      "count": 365,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -32427,7 +32428,7 @@
       ]
     },
     "stealing mobile call": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-09-29",
         "2026-10-12",
@@ -32438,7 +32439,8 @@
         "2026-10-23",
         "2026-10-24",
         "2026-10-25",
-        "2026-10-26"
+        "2026-10-26",
+        "2026-10-28"
       ]
     },
     "darpa selects xint": {
@@ -33079,10 +33081,11 @@
       ]
     },
     "supply chain compromises": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-06",
-        "2026-10-07"
+        "2026-10-07",
+        "2026-10-28"
       ]
     },
     "live conversation companies": {
@@ -33252,7 +33255,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 92,
+      "count": 93,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -34820,7 +34823,7 @@
       ]
     },
     "net client library": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-10-22",
         "2026-10-23",
@@ -35079,10 +35082,11 @@
       ]
     },
     "seize full control": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-10-24",
-        "2026-10-25"
+        "2026-10-25",
+        "2026-10-28"
       ]
     },
     "customer's downloads folder": {
@@ -35307,7 +35311,7 @@
       ]
     },
     "traditional infostealer playbook": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-28"
       ]
@@ -35317,20 +35321,69 @@
       "dates": [
         "2026-10-28"
       ]
+    },
+    "tls flaws found": {
+      "count": 1,
+      "dates": [
+        "2026-10-28"
+      ]
+    },
+    "php flaws known": {
+      "count": 1,
+      "dates": [
+        "2026-10-28"
+      ]
+    },
+    "web management interfaces": {
+      "count": 1,
+      "dates": [
+        "2026-10-28"
+      ]
+    },
+    "ransomware attack today": {
+      "count": 1,
+      "dates": [
+        "2026-10-28"
+      ]
+    },
+    "unauthenticated sql injection": {
+      "count": 1,
+      "dates": [
+        "2026-10-28"
+      ]
+    },
+    "traditional credential theft": {
+      "count": 1,
+      "dates": [
+        "2026-10-28"
+      ]
+    },
+    "third iteration led": {
+      "count": 1,
+      "dates": [
+        "2026-10-28"
+      ]
+    },
+    "smart contract negotiations": {
+      "count": 1,
+      "dates": [
+        "2026-10-28"
+      ]
+    },
+    "single compromised endpoint": {
+      "count": 1,
+      "dates": [
+        "2026-10-28"
+      ]
+    },
+    "sexually explicit images": {
+      "count": 1,
+      "dates": [
+        "2026-10-28"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-06 16:26",
-      "articles": 48,
-      "top_keywords": [
-        "cve 2026 61500",
-        "windows operating systems",
-        "supply chain compromises",
-        "live conversation companies",
-        "blame rogue ai"
-      ]
-    },
     {
       "timestamp": "2026-10-06 22:10",
       "articles": 48,
@@ -36418,6 +36471,17 @@
         "prolific data theft",
         "twitter whistleblower complaint",
         "internal management interface"
+      ]
+    },
+    {
+      "timestamp": "2026-10-28 14:46",
+      "articles": 56,
+      "top_keywords": [
+        "net client library",
+        "tls flaws found",
+        "malicious cyber actors",
+        "php flaws known",
+        "web management interfaces"
       ]
     }
   ]

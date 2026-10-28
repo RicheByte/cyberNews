@@ -1,83 +1,130 @@
 {
-  "last_updated": "2026-10-28 14:46",
+  "last_updated": "2026-10-28 20:43",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "net client library",
-    "tls flaws found",
     "malicious cyber actors",
+    "tls flaws found",
     "php flaws known",
-    "web management interfaces",
     "twitter whistleblower complaint",
+    "service dos condition",
+    "pwn2own berlin contest",
     "hacker handle rey",
-    "arbitrary code execution",
-    "ransomware attack today",
-    "unauthenticated sql injection",
+    "cve 2026 16437",
+    "contact customer support",
+    "connected devices compromised",
+    "extortion group shinyhunters",
+    "prolific data theft",
     "traditional infostealer playbook",
-    "traditional credential theft",
-    "token security explains",
     "third iteration led",
-    "supply chain compromises",
     "stealing mobile call",
     "smart contract negotiations",
     "single compromised endpoint",
-    "sexually explicit images",
-    "seize full control"
+    "ru money laundering",
+    "rigorous documentation transparency",
+    "remembering phone numbers"
   ],
   "trending": [
     {
-      "keyword": "net client library",
-      "mentions": 29
+      "keyword": "malicious cyber actors",
+      "mentions": 558
     },
     {
       "keyword": "tls flaws found",
-      "mentions": 1
-    },
-    {
-      "keyword": "malicious cyber actors",
-      "mentions": 557
+      "mentions": 2
     },
     {
       "keyword": "php flaws known",
-      "mentions": 1
-    },
-    {
-      "keyword": "web management interfaces",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2844
+      "mentions": 2845
     },
     {
-      "keyword": "hacker handle rey",
-      "mentions": 93
+      "keyword": "service dos condition",
+      "mentions": 74
     },
     {
-      "keyword": "arbitrary code execution",
-      "mentions": 365
-    },
-    {
-      "keyword": "ransomware attack today",
+      "keyword": "pwn2own berlin contest",
       "mentions": 1
     },
     {
-      "keyword": "unauthenticated sql injection",
+      "keyword": "hacker handle rey",
+      "mentions": 94
+    },
+    {
+      "keyword": "cve 2026 16437",
+      "mentions": 1
+    },
+    {
+      "keyword": "contact customer support",
+      "mentions": 5
+    },
+    {
+      "keyword": "connected devices compromised",
       "mentions": 1
     }
   ],
   "articles": [
     {
       "source": "The Hacker News",
+      "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
+      "link": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
+      "summary": "The China-nexus cyber espionage group known as Volt Typhoon has been attributed to a now-disrupted covert access network dubbed Silent Train that has been put to use for zero-day exploitation and strategic access. \"First identified in late 2023, Silent Train uses rotating chains of compromised SOHO, IoT, and enterprise infrastructure,\" Lumen Technologies Black Lotus Labs said in a report shared",
+      "published": "Wed, 28 Oct 2026 23:38:33 +0530",
+      "value_score": 66,
+      "value_signals": [
+        "Zero-day ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.",
+      "link": "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html",
+      "summary": "Third-party Android app stores can now apply to Google for permission to install apps with one tap, without Android's usual confirmation screens, and to update them in the background. To qualify, a store must pass identity checks and send Google its full catalog, along with every new app and update, for ongoing malware scanning. Approved stores get the features from December 1, but only on",
+      "published": "Wed, 28 Oct 2026 22:38:09 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
+      "link": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
+      "summary": "A chain of logic flaws, with no memory corruption, can turn a malicious web page into code running on a Windows computer outside Microsoft Edge's sandbox, a security researcher has shown. Orange Tsai of DEVCORE published the full method on October 28, five months after the chain won $175,000 at the Pwn2Own Berlin contest in May. Microsoft fixed the Edge bugs the day after the contest,",
+      "published": "Wed, 28 Oct 2026 21:53:34 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
+      "link": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
+      "summary": "Cybersecurity researchers have disclosed details of what appears to be an artificial intelligence (AI)-assisted attack orchestrated by a suspected China-nexus threat actor that has leveraged the PHP2Shell vulnerabilities to breach exposed systems. The activity, which was observed on October 25, 2026, involved an attacker combining PHP2Shell with a kernel privilege escalation exploit to root",
+      "published": "Wed, 28 Oct 2026 21:32:45 +0530",
+      "value_score": 40,
+      "value_signals": [
+        "Privilege escalation",
+        "Breach/leak",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
       "title": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
       "link": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
-      "summary": "Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber. The vulnerability in question is CVE-2026-101767 (CVSS score: 9.8) in the Oracle Application Object Library of Oracle E-Business Suite. It was patched by Oracle last week as part of its Critical Patch Update. Security researchers",
+      "summary": "Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber. The vulnerability in question is CVE-2026-101767 (CVSS score: 9.8) , a case of improper authentication in the Oracle Application Object Library of Oracle E-Business Suite. It was patched by Oracle last week as part of its Critical",
       "published": "Wed, 28 Oct 2026 18:18:03 +0530",
-      "value_score": 80,
+      "value_score": 72,
       "value_signals": [
         "CVE mentioned",
         "RCE",
-        "Patch/update ×3",
+        "Patch/update",
         "High severity ×3"
       ]
     },
@@ -116,45 +163,45 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed",
-      "link": "https://thehackernews.com/2026/10/american-organizations-under-attack.html",
-      "summary": "Modern phishing campaigns can compromise American businesses without relying on traditional credential theft. Attackers can abuse legitimate cloud services, authentication mechanisms, and trusted business workflows to gain access to corporate accounts while leaving fewer obvious signs behind. ANY.RUN's analysis of Skyw4lker, a device code phishing campaign primarily targeting U.S. organizations",
-      "published": "Wed, 28 Oct 2026 16:00:00 +0530",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×3"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
-      "link": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
-      "summary": "An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into working proof-of-concept exploits, the company said in its latest report. The exploits were built in the lab after the model was prompted, not seen in any real attack, and Anthropic reported every flaw to the vendor first, so all of them are already patched. One proof of",
-      "published": "Wed, 28 Oct 2026 13:45:07 +0530",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "FBI Seizes Virtualine Domain Over Alleged Criminal Hosting and Bitcoin Money Laundering",
-      "link": "https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html",
-      "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a domain associated with a bulletproof hosting provider (BPH) named Virtualine. The move was in response to the service being used to commit and facilitate prolific criminal activity, including \"the advertisement of sexually explicit images of minors, the intentional disclosure of nonconsensual intimate visual depictions",
-      "published": "Wed, 28 Oct 2026 13:07:50 +0530",
+      "source": "BleepingComputer",
+      "title": "Discord to let search engines index public server messages",
+      "link": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/",
+      "summary": "Discord will allow search engines to index discussions in Discoverable Servers and make them accessible on the web to users outside the platform without an account or invitation. [...]",
+      "published": "Wed, 28 Oct 2026 14:44:16 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach",
-      "link": "https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html",
-      "summary": "Japan's GMO Internet Group is offering up to $1 million in total for tips that help catch the attackers who breached its Onamae.com Desktop Cloud service, after refusing to pay an extortion demand. The reward program opened on October 28 and pays only if a tip helps lead to an arrest or an international wanted notice. The service hosts Windows desktops used for FX trading,",
-      "published": "Wed, 28 Oct 2026 12:43:21 +0530",
-      "value_score": 22,
+      "source": "BleepingComputer",
+      "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
+      "link": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
+      "summary": "Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers' personal information. [...]",
+      "published": "Wed, 28 Oct 2026 12:45:47 -0400",
+      "value_score": 34,
       "value_signals": [
-        "Breach/leak"
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework",
+      "link": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
+      "summary": "Chinese state-sponsored hacking group Volt Typhoon has been using a framework that relies on rotating chains of connected devices compromised on demand, including for zero-day attacks targeting high-value systems. [...]",
+      "published": "Wed, 28 Oct 2026 12:00:00 -0400",
+      "value_score": 60,
+      "value_signals": [
+        "Zero-day ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft urges Entra ID admins to migrate users to passkeys",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/",
+      "summary": "Microsoft again asked Entra ID administrators to migrate users to phishing-resistant methods to avoid sign-in disruptions before it retires SMS and voice authentication in February 2027. [...]",
+      "published": "Wed, 28 Oct 2026 10:48:32 -0400",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
       ]
     },
     {
@@ -205,48 +252,6 @@
         "CISA/KEV ×2",
         "High severity ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Nefilim and Hive ransomware affiliate gets 70 months in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/",
-      "summary": "A Ukrainian national was sentenced to 70 months in prison for his role in ransomware attacks targeting hospitals, government entities, and high-revenue businesses worldwide between 2018 and 2021. [...]",
-      "published": "Wed, 28 Oct 2026 05:43:15 -0400",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
-      "link": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
-      "summary": "The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company's Onamae Desktop Cloud threatened to launch a ransomware attack today. [...]",
-      "published": "Tue, 27 Oct 2026 19:35:51 -0400",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/",
-      "summary": "OpenAI confirmed GPT-6.1 Terra is safer overall than some of its older models, but its safety testing also found other problems. [...]",
-      "published": "Tue, 27 Oct 2026 18:43:27 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "UNM Health ransomware attack disrupts patient care, surgeries",
-      "link": "https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/",
-      "summary": "The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic activities. [...]",
-      "published": "Tue, 27 Oct 2026 18:07:34 -0400",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
       ]
     },
     {
@@ -338,9 +343,18 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Attacker Relentlessly Scans for Credentials by Impersonating AI Bots",
+      "link": "https://www.darkreading.com/cyber-risk/attacker-impersonates-ai-bots-scans-credentials",
+      "summary": "The threat actor lurked behind bots posing as agents from OpenAI, Anthropic, Meta, and others to find exposed data.",
+      "published": "Wed, 28 Oct 2026 14:37:52 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Third Serengeti Sweep Tops 1,400 Arrests as Investigations Mature",
       "link": "https://www.darkreading.com/cybersecurity-operations/third-serengeti-sweep-1400-arrests-investigations-mature",
-      "summary": "Interpol's annual Operation Serengeti, now on its third iteration, led to 1,462 arrests across 20 African countries and the US, recovering $105 million in stolen funds.",
+      "summary": "Interpol's annual Operation Serengeti, now in its third iteration, led to 1,462 arrests across 20 African countries and the US, recovering $105 million in stolen funds.",
       "published": "Wed, 28 Oct 2026 06:00:00 GMT",
       "value_score": 10,
       "value_signals": []
@@ -402,13 +416,15 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Risks &amp; Rewards: How AI Is Redefining the CISO's Role",
-      "link": "https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role",
-      "summary": "Nvidia security executive Mark Weatherford says CISOs must help business leaders weigh AI's pros and cons, and ensure those deploying it own the risks.",
-      "published": "Mon, 26 Oct 2026 21:44:33 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Security Week",
+      "title": "Ukrainian Hive and Nefilim Ransomware Affiliate Gets 70 Months in US Prison",
+      "link": "https://www.securityweek.com/ukrainian-hive-and-nefilim-ransomware-affiliate-gets-70-months-in-us-prison/",
+      "summary": "Artem Stryzhak was sentenced to 70 months in prison after pleading guilty to using Nefilim ransomware in attacks. The post Ukrainian Hive and Nefilim Ransomware Affiliate Gets 70 Months in US Prison appeared first on SecurityWeek .",
+      "published": "Wed, 28 Oct 2026 15:05:06 +0000",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×3"
+      ]
     },
     {
       "source": "Security Week",
@@ -476,19 +492,6 @@
       "published": "Wed, 28 Oct 2026 09:48:24 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Hackers Start Probing Fresh Oracle EBS Vulnerability",
-      "link": "https://www.securityweek.com/hackers-start-probing-fresh-oracle-ebs-vulnerability/",
-      "summary": "CVE-2026-101767 is an unauthenticated SQL injection that can be exploited for remote code execution. The post Hackers Start Probing Fresh Oracle EBS Vulnerability appeared first on SecurityWeek .",
-      "published": "Wed, 28 Oct 2026 09:14:23 +0000",
-      "value_score": 54,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",
@@ -572,6 +575,21 @@
       "published": "Mon, 22 Aug 2022 13:59:06 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/10/28/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-41709 Broadcom VMWare ESX Insufficient Logging Vulnerability CVE-2026-46300 Linux Kernel Missing Initialization of a Variable Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates B",
+      "published": "Wed, 28 Oct 26 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×2",
+        "CISA/KEV ×5",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
     },
     {
       "source": "CISA Alerts",
@@ -662,26 +680,16 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "Siemens SIMATIC S7 Webserver API",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-10",
-      "summary": "View CSAF Summary .NET Client Library for SIMATIC S7 Webserver API contains multiple vulnerabilities that could allow an attacker to obtain sensitive information or write arbitrary files outside the intended download directory. Siemens has released a new version for .NET Client Library for SIMATIC S7 Webserver API and recommends to update to the latest version. The following versions of Siemens SIMATIC S7 Webserver API are affected: .NET Client Library for SIMATIC S7 Webserver API vers:intdot/<3",
+      "title": "Siemens RUGGEDCOM APE1808 Devices",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-18",
+      "summary": "View CSAF Summary Nozomi Networks has published information on vulnerabilities in Nozomi Guardian/CMC. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Siemens recommends to contact customer support to receive patch and update information. The following versions of Siemens RUGGEDCOM APE1808 Devices are affected: RUGGEDCOM APE1808 vers:all/* (CVE-2026-33387, CVE-2026-33388, CVE-2026-33389, CVE-2026-33391, CVE-2026-33920) CVSS Vendor Equipment v3 7.5 S",
       "published": "Thu, 22 Oct 26 12:00:00 +0000",
-      "value_score": 43,
+      "value_score": 99,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Siemens APOGEE, TALON and Desigo PXC/PXM Products",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-08",
-      "summary": "View CSAF Summary The products listed below contain multiple vulnerabilities that could allow an attacker to cause a denial of service and potentially impact the availability of the affected device. Siemens has released new versions for several affected products and recommends to update to the latest versions. Siemens recommends specific mitigations for products where fixes are not or not yet available. The following versions of Siemens APOGEE, TALON and Desigo PXC/PXM Products are affected: APO",
-      "published": "Thu, 22 Oct 26 12:00:00 +0000",
-      "value_score": 43,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Patch/update"
+        "CVE mentioned ×5",
+        "Patch/update ×2",
+        "Multiple CVEs"
       ]
     }
   ],

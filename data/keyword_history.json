@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 557,
+      "count": 558,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -363,7 +363,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2844,
+      "count": 2845,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -13517,7 +13517,7 @@
       ]
     },
     "service dos condition": {
-      "count": 73,
+      "count": 74,
       "dates": [
         "2026-04-07",
         "2026-04-08",
@@ -13528,7 +13528,8 @@
         "2026-04-13",
         "2026-04-14",
         "2026-07-17",
-        "2026-07-18"
+        "2026-07-18",
+        "2026-10-28"
       ]
     },
     "cve 2025 59528": {
@@ -32428,7 +32429,7 @@
       ]
     },
     "stealing mobile call": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-09-29",
         "2026-10-12",
@@ -33208,7 +33209,7 @@
       ]
     },
     "extortion group shinyhunters": {
-      "count": 66,
+      "count": 67,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33255,7 +33256,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 93,
+      "count": 94,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33578,7 +33579,7 @@
       ]
     },
     "prolific data theft": {
-      "count": 48,
+      "count": 49,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -34569,10 +34570,11 @@
       ]
     },
     "ru money laundering": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-21",
-        "2026-10-25"
+        "2026-10-25",
+        "2026-10-28"
       ]
     },
     "memory bugs account": {
@@ -34863,11 +34865,12 @@
       ]
     },
     "contact customer support": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-10-22",
         "2026-10-23",
-        "2026-10-27"
+        "2026-10-27",
+        "2026-10-28"
       ]
     },
     "add outside tools": {
@@ -35311,7 +35314,7 @@
       ]
     },
     "traditional infostealer playbook": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-28"
       ]
@@ -35323,13 +35326,13 @@
       ]
     },
     "tls flaws found": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-28"
       ]
     },
     "php flaws known": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-28"
       ]
@@ -35359,19 +35362,19 @@
       ]
     },
     "third iteration led": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-28"
       ]
     },
     "smart contract negotiations": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-28"
       ]
     },
     "single compromised endpoint": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-28"
       ]
@@ -35381,20 +35384,39 @@
       "dates": [
         "2026-10-28"
       ]
+    },
+    "pwn2own berlin contest": {
+      "count": 1,
+      "dates": [
+        "2026-10-28"
+      ]
+    },
+    "cve 2026 16437": {
+      "count": 1,
+      "dates": [
+        "2026-10-28"
+      ]
+    },
+    "connected devices compromised": {
+      "count": 1,
+      "dates": [
+        "2026-10-28"
+      ]
+    },
+    "rigorous documentation transparency": {
+      "count": 1,
+      "dates": [
+        "2026-10-28"
+      ]
+    },
+    "remembering phone numbers": {
+      "count": 1,
+      "dates": [
+        "2026-10-28"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-06 22:10",
-      "articles": 48,
-      "top_keywords": [
-        "cve 2026 21589",
-        "supply chain compromises",
-        "live conversation companies",
-        "ai cyber espionage",
-        "security experts warn"
-      ]
-    },
     {
       "timestamp": "2026-10-07 03:52",
       "articles": 48,
@@ -36482,6 +36504,17 @@
         "malicious cyber actors",
         "php flaws known",
         "web management interfaces"
+      ]
+    },
+    {
+      "timestamp": "2026-10-28 20:43",
+      "articles": 56,
+      "top_keywords": [
+        "malicious cyber actors",
+        "tls flaws found",
+        "php flaws known",
+        "twitter whistleblower complaint",
+        "service dos condition"
       ]
     }
   ]

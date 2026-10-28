@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-10-28 14:46 UTC  
+> **Last Updated:** 2026-10-28 20:43 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**net client library** • **tls flaws found** • **malicious cyber actors** • **php flaws known** • **web management interfaces** • **twitter whistleblower complaint** • **hacker handle rey** • **arbitrary code execution** • **ransomware attack today** • **unauthenticated sql injection** • **traditional infostealer playbook** • **traditional credential theft** • **token security explains** • **third iteration led** • **supply chain compromises** • **stealing mobile call** • **smart contract negotiations** • **single compromised endpoint** • **sexually explicit images** • **seize full control**
+**malicious cyber actors** • **tls flaws found** • **php flaws known** • **twitter whistleblower complaint** • **service dos condition** • **pwn2own berlin contest** • **hacker handle rey** • **cve 2026 16437** • **contact customer support** • **connected devices compromised** • **extortion group shinyhunters** • **prolific data theft** • **traditional infostealer playbook** • **third iteration led** • **stealing mobile call** • **smart contract negotiations** • **single compromised endpoint** • **ru money laundering** • **rigorous documentation transparency** • **remembering phone numbers**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns](https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html)
+- [Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.](https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html)
+- [Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win](https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html)
+- [PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network](https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html)
 - [Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch](https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html)
 - [Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers](https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html)
 - [Wazuh and AI for Enhanced SOC Workflows](https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html)
 - [Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass](https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html)
-- [American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed](https://thehackernews.com/2026/10/american-organizations-under-attack.html)
-- [Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits](https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html)
-- [FBI Seizes Virtualine Domain Over Alleged Criminal Hosting and Bitcoin Money Laundering](https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html)
-- [Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach](https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html)
 
 ### BleepingComputer
 
+- [Discord to let search engines index public server messages](https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/)
+- [Sony ISP subsidiary data breach exposes 2.5 million customer records](https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/)
+- [Volt Typhoon hides zero-day attacks using 'Silent Train' framework](https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/)
+- [Microsoft urges Entra ID admins to migrate users to passkeys](https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/)
 - [InfraTrust report warns of exploited flaws in critical network infrastructure](https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/)
 - [Even after PHP2Shell, blast radius matters more than a CVSS score](https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/)
 - [Hackers now scanning systems for recently-patched Oracle flaw](https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/)
 - [CISA warns of hackers now exploiting critical Node2Shell flaw](https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/)
-- [Nefilim and Hive ransomware affiliate gets 70 months in prison](https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/)
-- [Japan's GMO urges customers to shut down PCs amid ransomware threat](https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/)
-- [OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/)
-- [UNM Health ransomware attack disrupts patient care, surgeries](https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Attacker Relentlessly Scans for Credentials by Impersonating AI Bots](https://www.darkreading.com/cyber-risk/attacker-impersonates-ai-bots-scans-credentials)
 - [Third Serengeti Sweep Tops 1,400 Arrests as Investigations Mature](https://www.darkreading.com/cybersecurity-operations/third-serengeti-sweep-1400-arrests-investigations-mature)
 - [3 Frameworks to Protect CISOs &amp; Orgs Against AI Liability](https://www.darkreading.com/cyber-risk/3-frameworks-cisos-ai-liability)
 - [External Teams Chats Anchor 15-Minute Malware Delivery](https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path)
@@ -56,10 +57,10 @@
 - [Beware the Slasher: AI Could Kill Off Cybersecurity Pros' Skills](https://www.darkreading.com/cybersecurity-operations/ai-kill-off-cybersecurity-pros-skills)
 - ['Aokigahara' Stealer Targets 'Developer Keyrings' &amp; AI Assistants](https://www.darkreading.com/endpoint-security/aokigahara-stealer-developer-keyrings-ai-assistants)
 - [So Many AI Security Benchmarks, But None Tell the Whole Story](https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges)
-- [Risks &amp; Rewards: How AI Is Redefining the CISO's Role](https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role)
 
 ### Security Week
 
+- [Ukrainian Hive and Nefilim Ransomware Affiliate Gets 70 Months in US Prison](https://www.securityweek.com/ukrainian-hive-and-nefilim-ransomware-affiliate-gets-70-months-in-us-prison/)
 - [Upwind Security Raises $400 Million at $3.8 Billion Valuation](https://www.securityweek.com/upwind-security-raises-400-million-at-3-8-billion-valuation/)
 - [Chrome and Firefox Updates Patch Over 200 Vulnerabilities](https://www.securityweek.com/chrome-and-firefox-updates-patch-over-200-vulnerabilities/)
 - [TLS Flaws Found in GoAhead Web Server Used in Hundreds of Millions of Devices](https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/)
@@ -67,7 +68,6 @@
 - [Long-Hidden Flaws Patched in EPICS Research Facility Control Software](https://www.securityweek.com/long-hidden-flaws-patched-in-epics-research-facility-control-software/)
 - [Nobody Trusts the Security Questionnaire. We Rely on It Anyway.](https://www.securityweek.com/nobody-trusts-the-security-questionnaire-we-rely-on-it-anyway/)
 - [Secrets Management Firm Infisical Valued at $600 Million After $40 Million Raise](https://www.securityweek.com/secrets-management-firm-infisical-valued-at-600-million-after-40-million-raise/)
-- [Hackers Start Probing Fresh Oracle EBS Vulnerability](https://www.securityweek.com/hackers-start-probing-fresh-oracle-ebs-vulnerability/)
 
 ### Threatpost
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
+- [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/10/28/cisa-adds-two-known-exploited-vulnerabilities-catalog)
 - [Mitsubishi Electric GENESIS, GENESIS64, ICONICS Suite, Hyper Historian, AnalytiX, MobileHMI, IoTWorX, MC Works64, GENESIS32 and BizViz](https://www.cisa.gov/news-events/ics-advisories/icsa-26-300-02)
 - [EPICS Base](https://www.cisa.gov/news-events/ics-advisories/icsa-26-300-01)
 - [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/10/27/cisa-adds-two-known-exploited-vulnerabilities-catalog)
 - [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/10/26/cisa-adds-two-known-exploited-vulnerabilities-catalog)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog-0)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog)
-- [Siemens SIMATIC S7 Webserver API](https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-10)
-- [Siemens APOGEE, TALON and Desigo PXC/PXM Products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-08)
+- [Siemens RUGGEDCOM APE1808 Devices](https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-18)
 
 ---
 

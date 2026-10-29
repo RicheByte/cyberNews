@@ -1,72 +1,105 @@
 {
-  "last_updated": "2026-10-29 14:54",
+  "last_updated": "2026-10-29 20:47",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "alpine linux project's",
-    "victim's phone via",
+    "valid saml assertion",
+    "recommended immediate actions",
+    "apple app store",
+    "approximately 23 000",
     "twitter whistleblower complaint",
-    "seize full control",
     "long horizon capabilities",
-    "gemini 4 carbon",
     "emerge across sequences",
-    "traditional security processes",
-    "security analyst's job",
-    "national security risk",
+    "authentication bypass flaw",
+    "seize full control",
     "malicious cyber actors",
+    "gemini 4 carbon",
+    "cyber threats look",
+    "4 simple questions",
     "extortion group shinyhunters",
     "windows operating systems",
-    "patching vulnerabilities google",
-    "unauthenticated remote attacker",
-    "third iteration led",
-    "sprawling phishing campaign",
-    "smart contract negotiations",
-    "service dos condition",
-    "ru money laundering"
+    "traditional security processes",
+    "security analyst's job",
+    "fixes microsoft released",
+    "authentication bypass vulnerability",
+    "voting machine risks"
   ],
   "trending": [
     {
-      "keyword": "alpine linux project's",
+      "keyword": "valid saml assertion",
       "mentions": 1
     },
     {
-      "keyword": "victim's phone via",
+      "keyword": "recommended immediate actions",
+      "mentions": 76
+    },
+    {
+      "keyword": "apple app store",
+      "mentions": 1
+    },
+    {
+      "keyword": "approximately 23 000",
       "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2848
-    },
-    {
-      "keyword": "seize full control",
-      "mentions": 8
+      "mentions": 2849
     },
     {
       "keyword": "long horizon capabilities",
-      "mentions": 1
-    },
-    {
-      "keyword": "gemini 4 carbon",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "emerge across sequences",
-      "mentions": 1
+      "mentions": 2
     },
     {
-      "keyword": "traditional security processes",
-      "mentions": 1
+      "keyword": "authentication bypass flaw",
+      "mentions": 55
     },
     {
-      "keyword": "security analyst's job",
-      "mentions": 1
+      "keyword": "seize full control",
+      "mentions": 9
     },
     {
-      "keyword": "national security risk",
-      "mentions": 537
+      "keyword": "malicious cyber actors",
+      "mentions": 562
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
+      "link": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
+      "summary": "Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and trusted software doing things it shouldn't. There's a strange mix of clever tricks and careless mistakes. Hackers are borrowing trust from familiar apps, websites, and AI tools. Some are using AI to speed things up. Others are leaving their",
+      "published": "Fri, 30 Oct 2026 00:41:58 +0530",
+      "value_score": 24,
+      "value_signals": [
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
+      "link": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
+      "summary": "A flaw in the Linux kernel's TCP code, tracked as CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel's own CVE team rates it 9.8 out of 10 on the CVSS scale. Anthropic said on October 27 that its AI model wrote an exploit that uses the flaw to let a remote attacker with no credentials run commands as root on Linux servers with a",
+      "published": "Thu, 29 Oct 2026 21:27:05 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "CVE mentioned",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
+      "link": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
+      "summary": "Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Claude and OpenAI ChatGPT as part of a campaign dubbed Yoba. The activity involves creating fake GitHub projects that claim to be desktop applications like GPT-5.6 Sol, GPT-6 Astra, and Claude Opus, only to deliver a malware family called",
+      "published": "Thu, 29 Oct 2026 20:50:29 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
@@ -94,7 +127,7 @@
       "source": "The Hacker News",
       "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
       "link": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
-      "summary": "A flaw in Telegram for Android allowed an attacker to run code on a victim's phone via a voice call once the victim answered, according to security startup NebuSec. The attacker needed only an ordinary Telegram account. Telegram fixed the flaw in version 12.10.4 of the app, released in late September, and NebuSec disclosed it on October 29. The flaw can be triggered in every version from",
+      "summary": "A flaw in Telegram for Android could be chained with two other bugs to take full control of a victim's phone through a voice call, once the victim answered, according to security startup NebuSec. The attacker needed only an ordinary Telegram account. Telegram fixed the flaw in version 12.10.4 of the app, released in late September, and NebuSec disclosed it on October 29. Combined with an",
       "published": "Thu, 29 Oct 2026 17:09:18 +0530",
       "value_score": 18,
       "value_signals": [
@@ -120,40 +153,34 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
-      "link": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
-      "summary": "Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-76418, is rated 8.6 on the CVSS scoring system. Successful exploitation could allow an unauthenticated, remote attacker to cause the",
-      "published": "Thu, 29 Oct 2026 16:14:46 +0530",
-      "value_score": 84,
-      "value_signals": [
-        "CVE mentioned",
-        "Active exploitation ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "GitHub Launches npm Firewall to Block Malicious Packages Before Installation",
-      "link": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
-      "summary": "GitHub has announced that it's introducing a new package firewall as a preview to block installation of suspicious npm packages during installation time. \"The firewall inspects both metadata requests and package downloads for signs of malicious activity, acting as an install-time policy gate,\" GitHub said. The feature, which currently supports only npm packages, is available in public preview",
-      "published": "Thu, 29 Oct 2026 15:56:33 +0530",
+      "source": "BleepingComputer",
+      "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/",
+      "summary": "A fake cryptocurrency trading app called Padre Terminal, previously available on the Apple App Store for iOS devices, has been linked to the theft of approximately $23,000 from 27 Solana wallets. [...]",
+      "published": "Thu, 29 Oct 2026 15:23:41 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open",
-      "link": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
-      "summary": "An attacker tried to exploit a critical GitLab vulnerability on the Alpine Linux project's own GitLab server a week after GitLab released a fix, Alpine Linux said on 28 October. The flaw, CVE-2026-97229 (CVSS score: 10.0), can let an attacker run code on a GitLab server through a crafted regular expression in a CI configuration. Alpine found no evidence that the attack worked but",
-      "published": "Thu, 29 Oct 2026 14:35:39 +0530",
-      "value_score": 50,
+      "source": "BleepingComputer",
+      "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
+      "summary": "A newly identified advanced persistent threat (APT) group tracked as UAT-11473 was observed exploiting CVE-2026-20127, an authentication-bypass flaw in Cisco Catalyst SD-WAN Controllers, to deploy a custom malware framework called KeyDrift. [...]",
+      "published": "Thu, 29 Oct 2026 14:38:26 -0400",
+      "value_score": 34,
       "value_signals": [
         "CVE mentioned",
-        "Patch/update",
-        "High severity",
         "Exploit wording"
       ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Chrome extensions with 13.4 million installs caught hijacking searches",
+      "link": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/",
+      "summary": "A massive search-hijacking campaign involving 319 Chrome extensions with a combined 13.4 million reported installations redirected users' searches through tracking servers to generate advertising revenue from Bing and Yahoo. [...]",
+      "published": "Thu, 29 Oct 2026 12:10:31 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -209,35 +236,6 @@
         "Zero-day ×2",
         "Patch/update",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
-      "link": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
-      "summary": "U.S. law enforcement has seized the primary domain of Virtualine, a bulletproof hosting service advertised on cybercrime forums for facilitating illegal activities. [...]",
-      "published": "Wed, 28 Oct 2026 16:47:22 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Discord to let search engines index public server messages",
-      "link": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/",
-      "summary": "Discord will allow search engines to index discussions in Discoverable Servers and make them accessible on the web to users outside the platform without an account or invitation. [...]",
-      "published": "Wed, 28 Oct 2026 14:44:16 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
-      "link": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
-      "summary": "Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers' personal information. [...]",
-      "published": "Wed, 28 Oct 2026 12:45:47 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
       ]
     },
     {
@@ -329,6 +327,26 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Claude Model Builds Exploits Across Major Browsers &amp; OSes",
+      "link": "https://www.darkreading.com/application-security/claude-model-exploits-major-browsers-oses",
+      "summary": "An unreleased version of the AI model has found and chained multiple vulnerabilities in Chrome, Safari, Android, Windows, and Linux, Anthropic says.",
+      "published": "Thu, 29 Oct 2026 18:15:59 GMT",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Threat Modeling With 4 Simple Questions on a White Board",
+      "link": "https://www.darkreading.com/cyber-risk/threat-modeling-4-simple-questions",
+      "summary": "A four-question exercise that CISOs can use to create a threat model that promises results, without a big spend.",
+      "published": "Thu, 29 Oct 2026 15:44:04 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Shadowy AI Relay Disables OpenAI Codex, Claude Code Sandboxes",
       "link": "https://www.darkreading.com/threat-intelligence/ai-relay-service-openai-codex-claude-code-sandboxes",
       "summary": "The enigmatic service is providing popular AI coding tools to mainland China and other regions where OpenAI and Anthropic products are not officially for sale — but with key security features turned off.",
@@ -340,14 +358,14 @@
       "source": "Dark Reading",
       "title": "Cyber Vulnerabilities Besiege Italy, Absent Clear Cause",
       "link": "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy",
-      "summary": "Researchers can't quite explain why cyber threats look so different in Italy compared to everywhere else.",
+      "summary": "Researchers can't quite explain why cyber threats look so different in Italy compared with everywhere else.",
       "published": "Thu, 29 Oct 2026 08:00:00 GMT",
       "value_score": 10,
       "value_signals": []
     },
     {
       "source": "Dark Reading",
-      "title": "GhostAction Hacking Wave Fizzles, But Attackers Lurk on in GitHub",
+      "title": "GhostAction Hacking Wave Fizzles, but Attackers Lurk on in GitHub",
       "link": "https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github",
       "summary": "The supply chain attack campaign's shift toward developer endpoints and cloud access signals what could be next for the cybercrime outfit.",
       "published": "Wed, 28 Oct 2026 19:39:00 GMT",
@@ -382,24 +400,31 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "3 Frameworks to Protect CISOs &amp; Orgs Against AI Liability",
-      "link": "https://www.darkreading.com/cyber-risk/3-frameworks-cisos-ai-liability",
-      "summary": "Cyber leaders can get ahead of AI liability with rigorous documentation, transparency, and smart contract negotiations with AI vendors.",
-      "published": "Tue, 27 Oct 2026 21:15:03 GMT",
+      "source": "Security Week",
+      "title": "When Risk Becomes Personal: What Security Leaders Can Learn From a Cancer Diagnosis",
+      "link": "https://www.securityweek.com/when-risk-becomes-personal-what-security-leaders-can-learn-from-a-cancer-diagnosis/",
+      "summary": "Risk managers are trained to spot weak signals, plan for disruption and make hard decisions under uncertainty. But the discipline looks different when the risk is not a system or an enterprise, but you. The post When Risk Becomes Personal: What Security Leaders Can Learn From a Cancer Diagnosis appeared first on SecurityWeek .",
+      "published": "Thu, 29 Oct 2026 16:30:00 +0000",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "External Teams Chats Anchor 15-Minute Malware Delivery",
-      "link": "https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path",
-      "summary": "Mail bombing is getting a new look with a wide-scale, ongoing social engineering campaign that might be tied to the Black Basta ransomware gang.",
-      "published": "Tue, 27 Oct 2026 20:42:40 GMT",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
-      ]
+      "source": "Security Week",
+      "title": "Google Touts Powerful Cybersecurity Capabilities in Gemini 4 Carbon Model",
+      "link": "https://www.securityweek.com/google-says-gemini-4-carbon-leads-in-finding-exploiting-and-fixing-vulnerabilities/",
+      "summary": "Google’s new frontier model scored 88.2% on SEC-bench Pro and is rolling out first to vetted cyber defenders via its Fairwind Program. The post Google Touts Powerful Cybersecurity Capabilities in Gemini 4 Carbon Model appeared first on SecurityWeek .",
+      "published": "Thu, 29 Oct 2026 15:01:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "How Secure Are US Elections? Voting Machine Risks and the Growing Threat of AI",
+      "link": "https://www.securityweek.com/how-secure-are-us-elections-voting-machine-risks-and-the-growing-threat-of-ai/",
+      "summary": "Unpatched voting machines, unverifiable QR-coded ballots, and AI-driven influence campaigns leave US elections short of secure. The post How Secure Are US Elections? Voting Machine Risks and the Growing Threat of AI appeared first on SecurityWeek .",
+      "published": "Thu, 29 Oct 2026 15:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -449,41 +474,6 @@
       "published": "Thu, 29 Oct 2026 11:00:00 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Cisco SD-WAN Zero-Day Exploitation Tied to Volt Typhoon’s ‘Silent Train’ Network",
-      "link": "https://www.securityweek.com/cisco-sd-wan-zero-day-exploitation-tied-to-volt-typhoons-silent-train-network/",
-      "summary": "Cisco Talos linked SD-WAN key-stealing malware to infrastructure overlapping Volt Typhoon’s Silent Train network, which Lumen detailed. The post Cisco SD-WAN Zero-Day Exploitation Tied to Volt Typhoon’s ‘Silent Train’ Network appeared first on SecurityWeek .",
-      "published": "Thu, 29 Oct 2026 10:29:25 +0000",
-      "value_score": 66,
-      "value_signals": [
-        "Zero-day ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Attackers Exploit Second Cisco Firewall VPN Zero-Day Since August",
-      "link": "https://www.securityweek.com/attackers-exploit-second-cisco-firewall-vpn-zero-day-since-august/",
-      "summary": "An exploited flaw in the Remote Access SSL VPN service lets unauthenticated attackers remotely force ASA and FTD firewalls to reload. The post Attackers Exploit Second Cisco Firewall VPN Zero-Day Since August appeared first on SecurityWeek .",
-      "published": "Thu, 29 Oct 2026 09:47:10 +0000",
-      "value_score": 66,
-      "value_signals": [
-        "Zero-day ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "HHS Filing Puts iRhythm Data Breach Toll at 8.2 Million",
-      "link": "https://www.securityweek.com/hhs-filing-puts-irhythm-data-breach-toll-at-8-2-million/",
-      "summary": "Hackers stole personal information and iRhythm account and device data from third-party-hosted business applications. The post HHS Filing Puts iRhythm Data Breach Toll at 8.2 Million appeared first on SecurityWeek .",
-      "published": "Thu, 29 Oct 2026 08:27:16 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
     },
     {
       "source": "Threatpost",
@@ -570,6 +560,45 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "Hitachi Energy CoreTec Product",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-03",
+      "summary": "View CSAF Summary Hitachi Energy is aware of OS command injection and Dirty Frag vulnerabilities that affect CoreTec product versions listed in this document. Successful exploitation of these vulnerabilities could result in impact on confidentiality, integrity and availability of the product. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. The following versions of Hitachi Energy CoreTec Product are affected: CoreTec5 vers:CoreTec5/<=3.4.0, 5.0",
+      "published": "Thu, 29 Oct 26 12:00:00 +0000",
+      "value_score": 41,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Siemens Mendix SAML Module",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-01",
+      "summary": "View CSAF Summary Mendix SAML module contains an authentication bypass vulnerability that could allow an unauthenticated remote attacker to gain unauthorized access by replaying a valid SAML assertion in IdP-initiated authentication flows. Siemens has released new versions for the affected products and recommends to update to the latest versions. The following versions of Siemens Mendix SAML Module are affected: Mendix SAML (Mendix 10 compatible) vers:intdot/<4.2.4 (CVE-2026-89209) Mendix SAML (",
+      "published": "Thu, 29 Oct 26 12:00:00 +0000",
+      "value_score": 76,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "Auth bypass",
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Hitachi Energy TRO600 series products",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-02",
+      "summary": "View CSAF Summary Hitachi Energy is aware of multiple vulnerabilities that affect the TRO600 series product versions listed in this document. These vulnerabilities can be exploited for remote code execution (RCE) to carry out further attacks and disclosure of sensitive information. Please refer to the Recommended Immediate Actions section for information about the mitigation/remediation. The following versions of Hitachi Energy TRO600 series products are affected: TRO600 vers:TRO600/<=9.2.1.6, v",
+      "published": "Thu, 29 Oct 26 12:00:00 +0000",
+      "value_score": 81,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "RCE ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/10/28/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-41709 Broadcom VMWare ESX Insufficient Logging Vulnerability CVE-2026-46300 Linux Kernel Missing Initialization of a Variable Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates B",
@@ -585,9 +614,24 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "Mitsubishi Electric GENESIS, GENESIS64, ICONICS Suite, Hyper Historian, AnalytiX, MobileHMI, IoTWorX, MC Works64, GENESIS32 and BizViz",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/10/27/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-48356 Adobe Commerce and Magento Unrestricted Upload of File with Dangerous Type Vulnerability CVE-2026-111497 Google Brotli Unchecked Return Value Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritiz",
+      "published": "Tue, 27 Oct 26 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×2",
+        "CISA/KEV ×5",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Mitsubishi Electric and Mitsubishi Electric Iconics Digital Solutions GENESIS, GENESIS64, ICONICS Suite, Hyper Historian, AnalytiX, MobileHMI, IoTWorX, MC Works64, GENESIS32 and BizViz",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-300-02",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to execute arbitrary code (CVE-2023-4863), bypass authentication (CVE-2026-16436 and CVE-2026-16437), or perform arbitrary operations (CVE-2026-16438), resulting in information disclosure, tampering with, destruction, or deletion of information, and a denial-of-service (DoS) condition of the system. The following versions of Mitsubishi Electric GENESIS, GENESIS64, ICONICS Suite, Hyper Historian, AnalytiX, ",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to execute arbitrary code (CVE-2023-4863), bypass authentication (CVE-2026-16436 and CVE-2026-16437), or perform arbitrary operations (CVE-2026-16438), resulting in information disclosure, tampering with, destruction, or deletion of information, and a denial-of-service (DoS) condition of the system. The following versions of Mitsubishi Electric GENESIS, GENESIS64, ICONICS Suite, HyperHistorian, AnalytiX, M",
       "published": "Tue, 27 Oct 26 12:00:00 +0000",
       "value_score": 89,
       "value_signals": [
@@ -614,21 +658,6 @@
     {
       "source": "CISA Alerts",
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/10/27/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-48356 Adobe Commerce and Magento Unrestricted Upload of File with Dangerous Type Vulnerability CVE-2026-111497 Google Brotli Unchecked Return Value Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritiz",
-      "published": "Tue, 27 Oct 26 12:00:00 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×2",
-        "CISA/KEV ×5",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/10/26/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog and updated the PHP Alert, Critical Vulnerabilities in PHP Require Immediate Patching : CVE-2026-109618 – PHP Memory Corruption Vulnerability CVE-2026-109619 – PHP Stale Internal Request-State Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Secu",
       "published": "Mon, 26 Oct 26 12:00:00 +0000",
@@ -640,48 +669,6 @@
         "High severity",
         "Multiple CVEs",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog-0",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-110447 Collabora Online – Built-in CODE Server OS Command Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements f",
-      "published": "Fri, 23 Oct 26 12:00:00 +0000",
-      "value_score": 99,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "CISA/KEV ×4",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-114625 Arista VeloCloud Orchestrator SQL Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civili",
-      "published": "Fri, 23 Oct 26 12:00:00 +0000",
-      "value_score": 99,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "CISA/KEV ×4",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Siemens RUGGEDCOM APE1808 Devices",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-18",
-      "summary": "View CSAF Summary Nozomi Networks has published information on vulnerabilities in Nozomi Guardian/CMC. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Siemens recommends to contact customer support to receive patch and update information. The following versions of Siemens RUGGEDCOM APE1808 Devices are affected: RUGGEDCOM APE1808 vers:all/* (CVE-2026-33387, CVE-2026-33388, CVE-2026-33389, CVE-2026-33391, CVE-2026-33920) CVSS Vendor Equipment v3 7.5 S",
-      "published": "Thu, 22 Oct 26 12:00:00 +0000",
-      "value_score": 99,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×5",
-        "Patch/update ×2",
-        "Multiple CVEs"
       ]
     }
   ],

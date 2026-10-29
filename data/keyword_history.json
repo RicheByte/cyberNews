@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 561,
+      "count": 562,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -212,7 +212,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 823,
+      "count": 824,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -365,7 +365,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2848,
+      "count": 2849,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2479,7 +2479,7 @@
       ]
     },
     "authentication bypass flaw": {
-      "count": 54,
+      "count": 55,
       "dates": [
         "2025-12-31",
         "2026-01-01",
@@ -2493,7 +2493,8 @@
         "2026-09-10",
         "2026-09-11",
         "2026-10-20",
-        "2026-10-21"
+        "2026-10-21",
+        "2026-10-29"
       ]
     },
     "bypass authentication mechanisms": {
@@ -3407,7 +3408,7 @@
       ]
     },
     "recommended immediate actions": {
-      "count": 75,
+      "count": 76,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -3432,7 +3433,8 @@
         "2026-06-07",
         "2026-06-08",
         "2026-06-09",
-        "2026-06-10"
+        "2026-06-10",
+        "2026-10-29"
       ]
     },
     "next wave hits": {
@@ -5360,13 +5362,14 @@
       ]
     },
     "authentication bypass vulnerability": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-01-22",
         "2026-01-23",
         "2026-04-15",
         "2026-04-16",
-        "2026-09-11"
+        "2026-09-11",
+        "2026-10-29"
       ]
     },
     "us tech concern": {
@@ -32063,9 +32066,10 @@
       ]
     },
     "fixes microsoft released": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-09-25"
+        "2026-09-25",
+        "2026-10-29"
       ]
     },
     "north korea suspected": {
@@ -33219,7 +33223,7 @@
       ]
     },
     "extortion group shinyhunters": {
-      "count": 70,
+      "count": 71,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -35100,7 +35104,7 @@
       ]
     },
     "seize full control": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-10-24",
         "2026-10-25",
@@ -35455,31 +35459,31 @@
       ]
     },
     "long horizon capabilities": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-29"
       ]
     },
     "gemini 4 carbon": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-29"
       ]
     },
     "emerge across sequences": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-29"
       ]
     },
     "traditional security processes": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-29"
       ]
     },
     "security analyst's job": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-29"
       ]
@@ -35489,20 +35493,45 @@
       "dates": [
         "2026-10-29"
       ]
+    },
+    "valid saml assertion": {
+      "count": 1,
+      "dates": [
+        "2026-10-29"
+      ]
+    },
+    "apple app store": {
+      "count": 1,
+      "dates": [
+        "2026-10-29"
+      ]
+    },
+    "approximately 23 000": {
+      "count": 1,
+      "dates": [
+        "2026-10-29"
+      ]
+    },
+    "cyber threats look": {
+      "count": 1,
+      "dates": [
+        "2026-10-29"
+      ]
+    },
+    "4 simple questions": {
+      "count": 1,
+      "dates": [
+        "2026-10-29"
+      ]
+    },
+    "voting machine risks": {
+      "count": 1,
+      "dates": [
+        "2026-10-29"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-07 23:58",
-      "articles": 48,
-      "top_keywords": [
-        "extortion group shinyhunters",
-        "deploy cryptocurrency miners",
-        "llm workers reach",
-        "already semi public",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-10-08 05:17",
       "articles": 48,
@@ -36590,6 +36619,17 @@
         "twitter whistleblower complaint",
         "seize full control",
         "long horizon capabilities"
+      ]
+    },
+    {
+      "timestamp": "2026-10-29 20:47",
+      "articles": 56,
+      "top_keywords": [
+        "valid saml assertion",
+        "recommended immediate actions",
+        "apple app store",
+        "approximately 23 000",
+        "twitter whistleblower complaint"
       ]
     }
   ]

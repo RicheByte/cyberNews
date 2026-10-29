@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-29 14:54 UTC |
+| 🕐 Last Updated | 2026-10-29 20:47 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`alpine linux project's` • `victim's phone via` • `twitter whistleblower complaint` • `seize full control` • `long horizon capabilities` • `gemini 4 carbon` • `emerge across sequences` • `traditional security processes` • `security analyst's job` • `national security risk`
+`valid saml assertion` • `recommended immediate actions` • `apple app store` • `approximately 23 000` • `twitter whistleblower complaint` • `long horizon capabilities` • `emerge across sequences` • `authentication bypass flaw` • `seize full control` • `malicious cyber actors`
 
 ## 📄 Reports
 

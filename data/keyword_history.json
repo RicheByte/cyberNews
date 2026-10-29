@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 559,
+      "count": 560,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -364,7 +364,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2846,
+      "count": 2847,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2143,7 +2143,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 665,
+      "count": 666,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2285,7 +2285,8 @@
         "2026-10-20",
         "2026-10-21",
         "2026-10-22",
-        "2026-10-24"
+        "2026-10-24",
+        "2026-10-29"
       ]
     },
     "model agnostic abstractions": {
@@ -2838,7 +2839,7 @@
       ]
     },
     "token security explains": {
-      "count": 44,
+      "count": 45,
       "dates": [
         "2026-01-05",
         "2026-01-06",
@@ -2854,7 +2855,8 @@
         "2026-09-26",
         "2026-09-30",
         "2026-10-01",
-        "2026-10-28"
+        "2026-10-28",
+        "2026-10-29"
       ]
     },
     "advanced ai technologies": {
@@ -13520,7 +13522,7 @@
       ]
     },
     "service dos condition": {
-      "count": 75,
+      "count": 76,
       "dates": [
         "2026-04-07",
         "2026-04-08",
@@ -32433,7 +32435,7 @@
       ]
     },
     "stealing mobile call": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-09-29",
         "2026-10-12",
@@ -33214,7 +33216,7 @@
       ]
     },
     "extortion group shinyhunters": {
-      "count": 68,
+      "count": 69,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33262,7 +33264,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 95,
+      "count": 96,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33586,7 +33588,7 @@
       ]
     },
     "prolific data theft": {
-      "count": 50,
+      "count": 51,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -34578,7 +34580,7 @@
       ]
     },
     "ru money laundering": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-10-21",
         "2026-10-25",
@@ -35324,7 +35326,7 @@
       ]
     },
     "traditional infostealer playbook": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-10-28",
         "2026-10-29"
@@ -35337,23 +35339,24 @@
       ]
     },
     "tls flaws found": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-28",
         "2026-10-29"
       ]
     },
     "php flaws known": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-28",
         "2026-10-29"
       ]
     },
     "web management interfaces": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-10-28"
+        "2026-10-28",
+        "2026-10-29"
       ]
     },
     "ransomware attack today": {
@@ -35375,21 +35378,21 @@
       ]
     },
     "third iteration led": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-28",
         "2026-10-29"
       ]
     },
     "smart contract negotiations": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-28",
         "2026-10-29"
       ]
     },
     "single compromised endpoint": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-28",
         "2026-10-29"
@@ -35402,21 +35405,21 @@
       ]
     },
     "pwn2own berlin contest": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-28",
         "2026-10-29"
       ]
     },
     "cve 2026 16437": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-28",
         "2026-10-29"
       ]
     },
     "connected devices compromised": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-28",
         "2026-10-29"
@@ -35437,17 +35440,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-07 10:47",
-      "articles": 48,
-      "top_keywords": [
-        "vetted cyber teams",
-        "ai access anthropic",
-        "security experts warn",
-        "opened security researchers",
-        "ai cyber espionage"
-      ]
-    },
     {
       "timestamp": "2026-10-07 18:18",
       "articles": 48,
@@ -36531,6 +36523,17 @@
       "articles": 56,
       "top_keywords": [
         "malicious cyber actors",
+        "tls flaws found",
+        "service dos condition",
+        "twitter whistleblower complaint",
+        "pwn2own berlin contest"
+      ]
+    },
+    {
+      "timestamp": "2026-10-29 07:55",
+      "articles": 56,
+      "top_keywords": [
+        "web management interfaces",
         "tls flaws found",
         "service dos condition",
         "twitter whistleblower complaint",

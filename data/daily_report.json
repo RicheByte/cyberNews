@@ -1,72 +1,98 @@
 {
-  "last_updated": "2026-10-29 01:28",
+  "last_updated": "2026-10-29 07:55",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "malicious cyber actors",
+    "web management interfaces",
     "tls flaws found",
     "service dos condition",
     "twitter whistleblower complaint",
     "pwn2own berlin contest",
+    "malicious cyber actors",
     "hacker handle rey",
     "cve 2026 16437",
-    "contact customer support",
     "connected devices compromised",
     "extortion group shinyhunters",
     "php flaws known",
-    "arbitrary code execution",
     "prolific data theft",
     "traditional infostealer playbook",
+    "token security explains",
     "third iteration led",
     "stealing mobile call",
+    "sprawling phishing campaign",
     "smart contract negotiations",
     "single compromised endpoint",
-    "ru money laundering",
-    "rigorous documentation transparency"
+    "ru money laundering"
   ],
   "trending": [
     {
-      "keyword": "malicious cyber actors",
-      "mentions": 559
+      "keyword": "web management interfaces",
+      "mentions": 2
     },
     {
       "keyword": "tls flaws found",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "service dos condition",
-      "mentions": 75
+      "mentions": 76
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2846
+      "mentions": 2847
     },
     {
       "keyword": "pwn2own berlin contest",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "malicious cyber actors",
+      "mentions": 560
     },
     {
       "keyword": "hacker handle rey",
-      "mentions": 95
+      "mentions": 96
     },
     {
       "keyword": "cve 2026 16437",
-      "mentions": 2
-    },
-    {
-      "keyword": "contact customer support",
-      "mentions": 6
+      "mentions": 3
     },
     {
       "keyword": "connected devices compromised",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "extortion group shinyhunters",
-      "mentions": 68
+      "mentions": 69
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
+      "link": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Broadcom VMware ESX to its Known Exploited Vulnerabilities (KEV) catalog, after CrowdStrike revealed that it had been weaponized by a China-nexus threat actor known as Warp Panda in attacks targeting the U.S. legal sector. The vulnerability in question is CVE-2026-41709 (CVSS score:",
+      "published": "Thu, 29 Oct 2026 11:52:33 +0530",
+      "value_score": 99,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day",
+        "CISA/KEV ×3",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
+      "link": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
+      "summary": "Palo Alto Networks on Wednesday warned that threat actors are exploiting the recently patched PHP2Shell vulnerabilities against publicly-accessible management interfaces. \"Active exploitation has been observed targeting the Palo Alto Networks management interface exposed to the internet,\" the network security company said in an update to its advisory. The vulnerabilities, tracked as",
+      "published": "Thu, 29 Oct 2026 11:20:17 +0530",
+      "value_score": 24,
+      "value_signals": [
+        "Patch/update",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
@@ -137,29 +163,6 @@
       "value_score": 26,
       "value_signals": [
         "High severity ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Wazuh and AI for Enhanced SOC Workflows",
-      "link": "https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html",
-      "summary": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover patterns hidden within large datasets, and support faster decision-making. Cybersecurity has experienced a similar transformation. While attackers employ AI to automate",
-      "published": "Wed, 28 Oct 2026 17:00:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
-      "link": "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
-      "summary": "Adobe has released patches to address multiple critical security flaws in Campaign Classic that, if successfully exploited, could result in arbitrary code execution, security feature bypass, and privilege escalation. The list of eight vulnerabilities is as follows - CVE-2026-104351 (CVSS score: 9.9) - A code injection vulnerability that could lead to arbitrary code execution.",
-      "published": "Wed, 28 Oct 2026 16:45:51 +0530",
-      "value_score": 62,
-      "value_signals": [
-        "CVE mentioned",
-        "Privilege escalation",
-        "High severity ×2",
-        "Exploit wording"
       ]
     },
     {

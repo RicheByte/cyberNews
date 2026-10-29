@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-10-29 01:28 UTC  
+> **Last Updated:** 2026-10-29 07:55 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**malicious cyber actors** • **tls flaws found** • **service dos condition** • **twitter whistleblower complaint** • **pwn2own berlin contest** • **hacker handle rey** • **cve 2026 16437** • **contact customer support** • **connected devices compromised** • **extortion group shinyhunters** • **php flaws known** • **arbitrary code execution** • **prolific data theft** • **traditional infostealer playbook** • **third iteration led** • **stealing mobile call** • **smart contract negotiations** • **single compromised endpoint** • **ru money laundering** • **rigorous documentation transparency**
+**web management interfaces** • **tls flaws found** • **service dos condition** • **twitter whistleblower complaint** • **pwn2own berlin contest** • **malicious cyber actors** • **hacker handle rey** • **cve 2026 16437** • **connected devices compromised** • **extortion group shinyhunters** • **php flaws known** • **prolific data theft** • **traditional infostealer playbook** • **token security explains** • **third iteration led** • **stealing mobile call** • **sprawling phishing campaign** • **smart contract negotiations** • **single compromised endpoint** • **ru money laundering**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility](https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html)
+- [Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces](https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html)
 - [Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns](https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html)
 - [Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.](https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html)
 - [Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win](https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html)
 - [PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network](https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html)
 - [Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch](https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html)
 - [Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers](https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html)
-- [Wazuh and AI for Enhanced SOC Workflows](https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html)
-- [Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass](https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html)
 
 ### BleepingComputer
 

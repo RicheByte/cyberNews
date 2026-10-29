@@ -1,127 +1,101 @@
 {
-  "last_updated": "2026-10-29 07:55",
+  "last_updated": "2026-10-29 14:54",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "web management interfaces",
-    "tls flaws found",
-    "service dos condition",
+    "alpine linux project's",
+    "victim's phone via",
     "twitter whistleblower complaint",
-    "pwn2own berlin contest",
+    "seize full control",
+    "long horizon capabilities",
+    "gemini 4 carbon",
+    "emerge across sequences",
+    "traditional security processes",
+    "security analyst's job",
+    "national security risk",
     "malicious cyber actors",
-    "hacker handle rey",
-    "cve 2026 16437",
-    "connected devices compromised",
     "extortion group shinyhunters",
-    "php flaws known",
-    "prolific data theft",
-    "traditional infostealer playbook",
-    "token security explains",
+    "windows operating systems",
+    "patching vulnerabilities google",
+    "unauthenticated remote attacker",
     "third iteration led",
-    "stealing mobile call",
     "sprawling phishing campaign",
     "smart contract negotiations",
-    "single compromised endpoint",
+    "service dos condition",
     "ru money laundering"
   ],
   "trending": [
     {
-      "keyword": "web management interfaces",
-      "mentions": 2
+      "keyword": "alpine linux project's",
+      "mentions": 1
     },
     {
-      "keyword": "tls flaws found",
-      "mentions": 4
-    },
-    {
-      "keyword": "service dos condition",
-      "mentions": 76
+      "keyword": "victim's phone via",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2847
+      "mentions": 2848
     },
     {
-      "keyword": "pwn2own berlin contest",
-      "mentions": 3
+      "keyword": "seize full control",
+      "mentions": 8
     },
     {
-      "keyword": "malicious cyber actors",
-      "mentions": 560
+      "keyword": "long horizon capabilities",
+      "mentions": 1
     },
     {
-      "keyword": "hacker handle rey",
-      "mentions": 96
+      "keyword": "gemini 4 carbon",
+      "mentions": 1
     },
     {
-      "keyword": "cve 2026 16437",
-      "mentions": 3
+      "keyword": "emerge across sequences",
+      "mentions": 1
     },
     {
-      "keyword": "connected devices compromised",
-      "mentions": 3
+      "keyword": "traditional security processes",
+      "mentions": 1
     },
     {
-      "keyword": "extortion group shinyhunters",
-      "mentions": 69
+      "keyword": "security analyst's job",
+      "mentions": 1
+    },
+    {
+      "keyword": "national security risk",
+      "mentions": 537
     }
   ],
   "articles": [
     {
       "source": "The Hacker News",
-      "title": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
-      "link": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Broadcom VMware ESX to its Known Exploited Vulnerabilities (KEV) catalog, after CrowdStrike revealed that it had been weaponized by a China-nexus threat actor known as Warp Panda in attacks targeting the U.S. legal sector. The vulnerability in question is CVE-2026-41709 (CVSS score:",
-      "published": "Thu, 29 Oct 2026 11:52:33 +0530",
-      "value_score": 99,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day",
-        "CISA/KEV ×3",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
-      "link": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
-      "summary": "Palo Alto Networks on Wednesday warned that threat actors are exploiting the recently patched PHP2Shell vulnerabilities against publicly-accessible management interfaces. \"Active exploitation has been observed targeting the Palo Alto Networks management interface exposed to the internet,\" the network security company said in an update to its advisory. The vulnerabilities, tracked as",
-      "published": "Thu, 29 Oct 2026 11:20:17 +0530",
+      "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
+      "link": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
+      "summary": "Google on Wednesday took the wraps off Gemini 4 Carbon, its latest frontier model with state-of-the-art cybersecurity and long-horizon capabilities. \"It shows significant gains across coding and agentic tasks as well as across key capabilities critical for cybersecurity defense, landing a firm lead in SEC-bench Pro (88.2%) for finding vulnerabilities, ExploitGym (54.8%) for exploitation, and",
+      "published": "Thu, 29 Oct 2026 19:12:40 +0530",
       "value_score": 24,
       "value_signals": [
-        "Patch/update",
+        "High severity",
         "Exploit wording"
       ]
     },
     {
       "source": "The Hacker News",
-      "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
-      "link": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
-      "summary": "The China-nexus cyber espionage group known as Volt Typhoon has been attributed to a now-disrupted covert access network dubbed Silent Train that has been put to use for zero-day exploitation and strategic access. \"First identified in late 2023, Silent Train uses rotating chains of compromised SOHO, IoT, and enterprise infrastructure,\" Lumen Technologies Black Lotus Labs said in a report shared",
-      "published": "Wed, 28 Oct 2026 23:38:33 +0530",
-      "value_score": 66,
+      "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
+      "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
+      "summary": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act. Advanced AI models can now help attackers discover vulnerabilities, generate exploit code, and move through weaknesses faster than traditional security processes were built to handle. The challenge is no longer just finding another vulnerability or",
+      "published": "Thu, 29 Oct 2026 17:09:41 +0530",
+      "value_score": 16,
       "value_signals": [
-        "Zero-day ×2",
         "Exploit wording"
       ]
     },
     {
       "source": "The Hacker News",
-      "title": "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.",
-      "link": "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html",
-      "summary": "Third-party Android app stores can now apply to Google for permission to install apps with one tap, without Android's usual confirmation screens, and to update them in the background. To qualify, a store must pass identity checks and send Google its full catalog, along with every new app and update, for ongoing malware scanning. Approved stores get the features from December 1, but only on",
-      "published": "Wed, 28 Oct 2026 22:38:09 +0530",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
-      "link": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
-      "summary": "A chain of logic flaws, with no memory corruption, can turn a malicious web page into code running on a Windows computer outside Microsoft Edge's sandbox, a security researcher has shown. Orange Tsai of DEVCORE published the full method on October 28, five months after the chain won $175,000 at the Pwn2Own Berlin contest in May. Microsoft fixed the Edge bugs the day after the contest,",
-      "published": "Wed, 28 Oct 2026 21:53:34 +0530",
+      "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
+      "link": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
+      "summary": "A flaw in Telegram for Android allowed an attacker to run code on a victim's phone via a voice call once the victim answered, according to security startup NebuSec. The attacker needed only an ordinary Telegram account. Telegram fixed the flaw in version 12.10.4 of the app, released in late September, and NebuSec disclosed it on October 29. The flaw can be triggered in every version from",
+      "published": "Thu, 29 Oct 2026 17:09:18 +0530",
       "value_score": 18,
       "value_signals": [
         "Patch/update"
@@ -129,40 +103,112 @@
     },
     {
       "source": "The Hacker News",
-      "title": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
-      "link": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
-      "summary": "Cybersecurity researchers have disclosed details of what appears to be an artificial intelligence (AI)-assisted attack orchestrated by a suspected China-nexus threat actor that has leveraged the PHP2Shell vulnerabilities to breach exposed systems. The activity, which was observed on October 25, 2026, involved an attacker combining PHP2Shell with a kernel privilege escalation exploit to root",
-      "published": "Wed, 28 Oct 2026 21:32:45 +0530",
-      "value_score": 40,
+      "title": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
+      "link": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
+      "summary": "AI is beginning to take over much of the work that has traditionally defined the security analyst's job. Investigating alerts, collecting evidence, correlating activity across tools, and executing response actions are becoming tasks that AI systems can perform on their own. As these capabilities mature, security operations centers (SOCs) will see major changes in how work is organized, how",
+      "published": "Thu, 29 Oct 2026 17:03:41 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
+      "link": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
+      "summary": "26,400 credentials that developers left in public code on Gitee, a Chinese code-hosting service, still worked when a researcher tested them. Anyone who copied one from that code could have used it. Independent researcher Ben Zimmermann found them by scanning 7.25 million public Gitee repositories and reported the results on October 28. Most were keys for cloud and AI services, led by",
+      "published": "Thu, 29 Oct 2026 17:03:15 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
+      "link": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
+      "summary": "Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-76418, is rated 8.6 on the CVSS scoring system. Successful exploitation could allow an unauthenticated, remote attacker to cause the",
+      "published": "Thu, 29 Oct 2026 16:14:46 +0530",
+      "value_score": 84,
       "value_signals": [
-        "Privilege escalation",
-        "Breach/leak",
+        "CVE mentioned",
+        "Active exploitation ×2",
         "Exploit wording"
       ]
     },
     {
       "source": "The Hacker News",
-      "title": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
-      "link": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
-      "summary": "Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber. The vulnerability in question is CVE-2026-101767 (CVSS score: 9.8) , a case of improper authentication in the Oracle Application Object Library of Oracle E-Business Suite. It was patched by Oracle last week as part of its Critical",
-      "published": "Wed, 28 Oct 2026 18:18:03 +0530",
-      "value_score": 72,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE",
-        "Patch/update",
-        "High severity ×3"
-      ]
+      "title": "GitHub Launches npm Firewall to Block Malicious Packages Before Installation",
+      "link": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
+      "summary": "GitHub has announced that it's introducing a new package firewall as a preview to block installation of suspicious npm packages during installation time. \"The firewall inspects both metadata requests and package downloads for signs of malicious activity, acting as an install-time policy gate,\" GitHub said. The feature, which currently supports only npm packages, is available in public preview",
+      "published": "Thu, 29 Oct 2026 15:56:33 +0530",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "The Hacker News",
-      "title": "Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers",
-      "link": "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html",
-      "summary": "A critical 16-year-old flaw in EDK II, the open-source code that most hardware makers use to build UEFI firmware, can allow an attacker to run code on a machine before its operating system loads, but only while the machine is booting over the network. UEFI firmware is the software that runs first when a computer is switched on, before the operating system. An attacker who can reach the machine",
-      "published": "Wed, 28 Oct 2026 17:20:00 +0530",
+      "title": "Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open",
+      "link": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
+      "summary": "An attacker tried to exploit a critical GitLab vulnerability on the Alpine Linux project's own GitLab server a week after GitLab released a fix, Alpine Linux said on 28 October. The flaw, CVE-2026-97229 (CVSS score: 10.0), can let an attacker run code on a GitLab server through a crafted regular expression in a CI configuration. Alpine found no evidence that the attack worked but",
+      "published": "Thu, 29 Oct 2026 14:35:39 +0530",
+      "value_score": 50,
+      "value_signals": [
+        "CVE mentioned",
+        "Patch/update",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft fixes Remote Desktop failures caused by recent Windows updates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-failures-caused-by-recent-windows-updates/",
+      "summary": "Microsoft has resolved a known issue that prevents non-admin users from connecting to devices via Remote Desktop when the \"Administrator protection\" security feature is enabled. [...]",
+      "published": "Thu, 29 Oct 2026 10:35:40 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "3 Ways AI Agents Already Operate in Your Browser",
+      "link": "https://www.bleepingcomputer.com/news/security/3-ways-ai-agents-already-operate-in-your-browser/",
+      "summary": "AI agents can control authenticated browsers, interact with corporate applications, and access sensitive data while appearing to act as legitimate employees. Keep Aware examines three ways agents operate inside browsers and why traditional security tools may struggle to distinguish their activity from human users. [...]",
+      "published": "Thu, 29 Oct 2026 10:00:10 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies to patch a high-severity Linux kernel privilege escalation bug that attackers are chaining with the PHP2Shell flaws in the wild. [...]",
+      "published": "Thu, 29 Oct 2026 09:59:48 -0400",
+      "value_score": 95,
+      "value_signals": [
+        "Active exploitation",
+        "Privilege escalation",
+        "Patch/update",
+        "CISA/KEV ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Windows 11 KB5127936 update released with 41 changes and fixes",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127936-update-released-with-41-changes-and-fixes/",
+      "summary": "Microsoft released the KB5127936 preview cumulative update for Windows 11 versions 25H2 and 26H2, with 41 changes, including File Explorer and Cloud rebuild improvements. [...]",
+      "published": "Thu, 29 Oct 2026 08:00:07 -0400",
       "value_score": 26,
       "value_signals": [
-        "High severity ×2"
+        "Patch/update ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/",
+      "summary": "Cisco released security updates to patch a denial-of-service zero-day in Adaptive Security Appliance (ASA) and Threat Defense (FTD) software that attackers are exploiting to remotely crash vulnerable firewall devices. [...]",
+      "published": "Thu, 29 Oct 2026 07:10:13 -0400",
+      "value_score": 74,
+      "value_signals": [
+        "Zero-day ×2",
+        "Patch/update",
+        "Exploit wording"
       ]
     },
     {
@@ -192,65 +238,6 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework",
-      "link": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
-      "summary": "Chinese state-sponsored hacking group Volt Typhoon has been using a framework that relies on rotating chains of connected devices compromised on demand, including for zero-day attacks targeting high-value systems. [...]",
-      "published": "Wed, 28 Oct 2026 12:00:00 -0400",
-      "value_score": 60,
-      "value_signals": [
-        "Zero-day ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft urges Entra ID admins to migrate users to passkeys",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/",
-      "summary": "Microsoft again asked Entra ID administrators to migrate users to phishing-resistant methods to avoid sign-in disruptions before it retires SMS and voice authentication in February 2027. [...]",
-      "published": "Wed, 28 Oct 2026 10:48:32 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
-      "link": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
-      "summary": "Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as \"PHP2Shell\" put the web management interfaces of firewalls, VPNs, application delivery controllers, and other appliances at risk. [...]",
-      "published": "Wed, 28 Oct 2026 10:00:00 -0400",
-      "value_score": 32,
-      "value_signals": [
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Even after PHP2Shell, blast radius matters more than a CVSS score",
-      "link": "https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/",
-      "summary": "PHP2Shell shows how quickly attackers can exploit critical vulnerabilities, often before organizations have time to patch. Token Security explains why limiting the access of service accounts, API keys, and AI agents is just as important as fixing vulnerabilities to reduce the damage from a breach. [...]",
-      "published": "Wed, 28 Oct 2026 09:50:59 -0400",
-      "value_score": 44,
-      "value_signals": [
-        "Patch/update",
-        "Breach/leak",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers now scanning systems for recently-patched Oracle flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/",
-      "summary": "Attackers have begun probing the Internet for systems unpatched against a recently disclosed critical Oracle E-Business Suite (EBS) vulnerability. [...]",
-      "published": "Wed, 28 Oct 2026 08:19:57 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
       ]
     },
     {
@@ -342,10 +329,37 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Shadowy AI Relay Disables OpenAI Codex, Claude Code Sandboxes",
+      "link": "https://www.darkreading.com/threat-intelligence/ai-relay-service-openai-codex-claude-code-sandboxes",
+      "summary": "The enigmatic service is providing popular AI coding tools to mainland China and other regions where OpenAI and Anthropic products are not officially for sale — but with key security features turned off.",
+      "published": "Thu, 29 Oct 2026 10:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Cyber Vulnerabilities Besiege Italy, Absent Clear Cause",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy",
+      "summary": "Researchers can't quite explain why cyber threats look so different in Italy compared to everywhere else.",
+      "published": "Thu, 29 Oct 2026 08:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "GhostAction Hacking Wave Fizzles, But Attackers Lurk on in GitHub",
       "link": "https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github",
       "summary": "The supply chain attack campaign's shift toward developer endpoints and cloud access signals what could be next for the cybercrime outfit.",
       "published": "Wed, 28 Oct 2026 19:39:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "AI Takes Root in Hospital Corridors, Raises Security Stakes",
+      "link": "https://www.darkreading.com/cybersecurity-operations/ai-root-hospital-corridors-raised-security-stakes",
+      "summary": "Artificial intelligence (AI) is everywhere in healthcare, from doctors’ intake forms to cancer screenings. But in some cases, life-and-death uses are outpacing cybersecurity.",
+      "published": "Wed, 28 Oct 2026 15:29:06 GMT",
       "value_score": 10,
       "value_signals": []
     },
@@ -388,109 +402,88 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "SBOMs Alone Can't Reveal the Scope of a Supply Chain Attack",
-      "link": "https://www.darkreading.com/cyber-risk/sboms-alone-scope-supply-chain-attack",
-      "summary": "A recent Shai-Hulud attack shows defenders need real-time visibility into production code and affected services to respond to supply chain compromises.",
-      "published": "Tue, 27 Oct 2026 19:58:06 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Beware the Slasher: AI Could Kill Off Cybersecurity Pros' Skills",
-      "link": "https://www.darkreading.com/cybersecurity-operations/ai-kill-off-cybersecurity-pros-skills",
-      "summary": "Nathan Hamiel outlines potential SecOps horror in the AI midst, as core technical capabilities go the way of reading an atlas or remembering phone numbers.",
-      "published": "Tue, 27 Oct 2026 17:43:07 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "'Aokigahara' Stealer Targets 'Developer Keyrings' &amp; AI Assistants",
-      "link": "https://www.darkreading.com/endpoint-security/aokigahara-stealer-developer-keyrings-ai-assistants",
-      "summary": "The malware's focus on AI tools expands the traditional infostealer playbook to expose a forest of AI sessions, sensitive business data, and developer infrastructure from a single compromised endpoint.",
-      "published": "Tue, 27 Oct 2026 16:47:20 GMT",
+      "source": "Security Week",
+      "title": "Cisco Open Sources Quarry to Catch AI Agent Attacks Hidden in Harmless Steps",
+      "link": "https://www.securityweek.com/cisco-open-sources-quarry-to-catch-ai-agent-attacks-hidden-in-harmless-steps/",
+      "summary": "Cisco open sourced Project Quarry, a rule language for detecting AI agent attacks that only emerge across sequences of benign actions. The post Cisco Open Sources Quarry to Catch AI Agent Attacks Hidden in Harmless Steps appeared first on SecurityWeek .",
+      "published": "Thu, 29 Oct 2026 14:18:03 +0000",
       "value_score": 10,
       "value_signals": []
     },
     {
       "source": "Security Week",
-      "title": "Ukrainian Hive and Nefilim Ransomware Affiliate Gets 70 Months in US Prison",
-      "link": "https://www.securityweek.com/ukrainian-hive-and-nefilim-ransomware-affiliate-gets-70-months-in-us-prison/",
-      "summary": "Artem Stryzhak was sentenced to 70 months in prison after pleading guilty to using Nefilim ransomware in attacks. The post Ukrainian Hive and Nefilim Ransomware Affiliate Gets 70 Months in US Prison appeared first on SecurityWeek .",
-      "published": "Wed, 28 Oct 2026 15:05:06 +0000",
-      "value_score": 46,
+      "title": "Adobe, Veeam, Juniper Networks Patch Critical Vulnerabilities",
+      "link": "https://www.securityweek.com/adobe-veeam-juniper-networks-patch-critical-vulnerabilities/",
+      "summary": "The flaws could lead to arbitrary code execution, authorization bypasses, and privilege escalation. The post Adobe, Veeam, Juniper Networks Patch Critical Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Thu, 29 Oct 2026 13:42:52 +0000",
+      "value_score": 54,
       "value_signals": [
-        "Ransomware ×3"
+        "Privilege escalation",
+        "Patch/update ×2",
+        "High severity ×2"
       ]
     },
     {
       "source": "Security Week",
-      "title": "Upwind Security Raises $400 Million at $3.8 Billion Valuation",
-      "link": "https://www.securityweek.com/upwind-security-raises-400-million-at-3-8-billion-valuation/",
-      "summary": "The massive funding round comes just days after reports emerged that Upwind had attracted acquisition interest from several companies, including Datadog The post Upwind Security Raises $400 Million at $3.8 Billion Valuation appeared first on SecurityWeek .",
-      "published": "Wed, 28 Oct 2026 13:56:50 +0000",
+      "title": "BAE Says No Data Extracted in Incident Hitting Bankruptcy Courts",
+      "link": "https://www.securityweek.com/bae-says-no-data-extracted-in-incident-hitting-bankruptcy-courts/",
+      "summary": "BAE Systems says no data was extracted and no PII was breached in the incident that disrupted US bankruptcy court notices for weeks. The post BAE Says No Data Extracted in Incident Hitting Bankruptcy Courts appeared first on SecurityWeek .",
+      "published": "Thu, 29 Oct 2026 13:26:49 +0000",
       "value_score": 10,
       "value_signals": []
     },
     {
       "source": "Security Week",
-      "title": "Chrome and Firefox Updates Patch Over 200 Vulnerabilities",
-      "link": "https://www.securityweek.com/chrome-and-firefox-updates-patch-over-200-vulnerabilities/",
-      "summary": "The Chrome 156 update fixes 52 bugs, while Firefox 159 was rolled out with 167 security patches. The post Chrome and Firefox Updates Patch Over 200 Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Wed, 28 Oct 2026 13:39:35 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "TLS Flaws Found in GoAhead Web Server Used in Hundreds of Millions of Devices",
-      "link": "https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/",
-      "summary": "FoxIO disclosed three GoAhead TLS bugs that can let revoked certificates through or expose some encrypted sessions to eavesdroppers. The post TLS Flaws Found in GoAhead Web Server Used in Hundreds of Millions of Devices appeared first on SecurityWeek .",
-      "published": "Wed, 28 Oct 2026 13:10:34 +0000",
+      "title": "Over 41,000 DHS Employee Records Leaked Online",
+      "link": "https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/",
+      "summary": "The personal and work information was allegedly stolen from an Okta single sign-on system earlier this year. The post Over 41,000 DHS Employee Records Leaked Online appeared first on SecurityWeek .",
+      "published": "Thu, 29 Oct 2026 12:54:14 +0000",
       "value_score": 10,
       "value_signals": []
     },
     {
       "source": "Security Week",
-      "title": "China-Linked Hackers Exploit PHP2Shell to Root Firewalls",
-      "link": "https://www.securityweek.com/china-linked-hackers-exploit-php2shell-to-root-firewalls/",
-      "summary": "The attackers chained PHP2Shell and Fragnesia exploits and hacked two servers of a US government-affiliated organization. The post China-Linked Hackers Exploit PHP2Shell to Root Firewalls appeared first on SecurityWeek .",
-      "published": "Wed, 28 Oct 2026 12:00:59 +0000",
-      "value_score": 16,
+      "title": "Hackers Steal 2.6 Million Records From Sony’s Japanese ISP So-net",
+      "link": "https://www.securityweek.com/hackers-steal-2-6-million-records-from-sonys-japanese-isp-so-net/",
+      "summary": "The data of So-net and Plala customers in Japan was exposed, along with 54,401 email account passwords and 16 bank account records. The post Hackers Steal 2.6 Million Records From Sony’s Japanese ISP So-net appeared first on SecurityWeek .",
+      "published": "Thu, 29 Oct 2026 11:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Cisco SD-WAN Zero-Day Exploitation Tied to Volt Typhoon’s ‘Silent Train’ Network",
+      "link": "https://www.securityweek.com/cisco-sd-wan-zero-day-exploitation-tied-to-volt-typhoons-silent-train-network/",
+      "summary": "Cisco Talos linked SD-WAN key-stealing malware to infrastructure overlapping Volt Typhoon’s Silent Train network, which Lumen detailed. The post Cisco SD-WAN Zero-Day Exploitation Tied to Volt Typhoon’s ‘Silent Train’ Network appeared first on SecurityWeek .",
+      "published": "Thu, 29 Oct 2026 10:29:25 +0000",
+      "value_score": 66,
       "value_signals": [
+        "Zero-day ×2",
         "Exploit wording"
       ]
     },
     {
       "source": "Security Week",
-      "title": "Long-Hidden Flaws Patched in EPICS Research Facility Control Software",
-      "link": "https://www.securityweek.com/long-hidden-flaws-patched-in-epics-research-facility-control-software/",
-      "summary": "Four EPICS Base flaws found by an autonomous system could let attackers crash processes at particle accelerators and fusion labs. The post Long-Hidden Flaws Patched in EPICS Research Facility Control Software appeared first on SecurityWeek .",
-      "published": "Wed, 28 Oct 2026 10:48:00 +0000",
-      "value_score": 10,
-      "value_signals": []
+      "title": "Attackers Exploit Second Cisco Firewall VPN Zero-Day Since August",
+      "link": "https://www.securityweek.com/attackers-exploit-second-cisco-firewall-vpn-zero-day-since-august/",
+      "summary": "An exploited flaw in the Remote Access SSL VPN service lets unauthenticated attackers remotely force ASA and FTD firewalls to reload. The post Attackers Exploit Second Cisco Firewall VPN Zero-Day Since August appeared first on SecurityWeek .",
+      "published": "Thu, 29 Oct 2026 09:47:10 +0000",
+      "value_score": 66,
+      "value_signals": [
+        "Zero-day ×2",
+        "Exploit wording"
+      ]
     },
     {
       "source": "Security Week",
-      "title": "Nobody Trusts the Security Questionnaire. We Rely on It Anyway.",
-      "link": "https://www.securityweek.com/nobody-trusts-the-security-questionnaire-we-rely-on-it-anyway/",
-      "summary": "The process that gates nearly every B2B deal is a self-assessment the sender distrusts and the receiver accepts. There is finally a better basis for trust between companies. The post Nobody Trusts the Security Questionnaire. We Rely on It Anyway. appeared first on SecurityWeek .",
-      "published": "Wed, 28 Oct 2026 10:30:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Secrets Management Firm Infisical Valued at $600 Million After $40 Million Raise",
-      "link": "https://www.securityweek.com/secrets-management-firm-infisical-valued-at-600-million-after-40-million-raise/",
-      "summary": "The company will use the Series B funds to expand its platform for securing AI agents’ access to sensitive systems. The post Secrets Management Firm Infisical Valued at $600 Million After $40 Million Raise appeared first on SecurityWeek .",
-      "published": "Wed, 28 Oct 2026 09:48:24 +0000",
-      "value_score": 10,
-      "value_signals": []
+      "title": "HHS Filing Puts iRhythm Data Breach Toll at 8.2 Million",
+      "link": "https://www.securityweek.com/hhs-filing-puts-irhythm-data-breach-toll-at-8-2-million/",
+      "summary": "Hackers stole personal information and iRhythm account and device data from third-party-hosted business applications. The post HHS Filing Puts iRhythm Data Breach Toll at 8.2 Million appeared first on SecurityWeek .",
+      "published": "Thu, 29 Oct 2026 08:27:16 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
     },
     {
       "source": "Threatpost",

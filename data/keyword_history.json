@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 560,
+      "count": 561,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -212,7 +212,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 822,
+      "count": 823,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -360,11 +360,12 @@
         "2026-10-25",
         "2026-10-26",
         "2026-10-27",
-        "2026-10-28"
+        "2026-10-28",
+        "2026-10-29"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2847,
+      "count": 2848,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1364,7 +1365,7 @@
       ]
     },
     "national security risk": {
-      "count": 536,
+      "count": 537,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1472,7 +1473,8 @@
         "2026-10-01",
         "2026-10-13",
         "2026-10-14",
-        "2026-10-15"
+        "2026-10-15",
+        "2026-10-29"
       ]
     },
     "open source millions": {
@@ -2143,7 +2145,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 666,
+      "count": 667,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -3129,7 +3131,7 @@
       ]
     },
     "unauthenticated remote attacker": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2026-01-07",
         "2026-01-08",
@@ -3144,7 +3146,8 @@
         "2026-09-03",
         "2026-09-04",
         "2026-09-10",
-        "2026-10-01"
+        "2026-10-01",
+        "2026-10-29"
       ]
     },
     "remote authenticated attacker": {
@@ -13522,7 +13525,7 @@
       ]
     },
     "service dos condition": {
-      "count": 76,
+      "count": 77,
       "dates": [
         "2026-04-07",
         "2026-04-08",
@@ -33216,7 +33219,7 @@
       ]
     },
     "extortion group shinyhunters": {
-      "count": 69,
+      "count": 70,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -34580,7 +34583,7 @@
       ]
     },
     "ru money laundering": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-10-21",
         "2026-10-25",
@@ -35097,11 +35100,12 @@
       ]
     },
     "seize full control": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-10-24",
         "2026-10-25",
-        "2026-10-28"
+        "2026-10-28",
+        "2026-10-29"
       ]
     },
     "customer's downloads folder": {
@@ -35378,14 +35382,14 @@
       ]
     },
     "third iteration led": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-10-28",
         "2026-10-29"
       ]
     },
     "smart contract negotiations": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-10-28",
         "2026-10-29"
@@ -35437,20 +35441,57 @@
       "dates": [
         "2026-10-28"
       ]
+    },
+    "alpine linux project's": {
+      "count": 1,
+      "dates": [
+        "2026-10-29"
+      ]
+    },
+    "victim's phone via": {
+      "count": 1,
+      "dates": [
+        "2026-10-29"
+      ]
+    },
+    "long horizon capabilities": {
+      "count": 1,
+      "dates": [
+        "2026-10-29"
+      ]
+    },
+    "gemini 4 carbon": {
+      "count": 1,
+      "dates": [
+        "2026-10-29"
+      ]
+    },
+    "emerge across sequences": {
+      "count": 1,
+      "dates": [
+        "2026-10-29"
+      ]
+    },
+    "traditional security processes": {
+      "count": 1,
+      "dates": [
+        "2026-10-29"
+      ]
+    },
+    "security analyst's job": {
+      "count": 1,
+      "dates": [
+        "2026-10-29"
+      ]
+    },
+    "patching vulnerabilities google": {
+      "count": 1,
+      "dates": [
+        "2026-10-29"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-07 18:18",
-      "articles": 48,
-      "top_keywords": [
-        "extortion group shinyhunters",
-        "deploy cryptocurrency miners",
-        "llm workers reach",
-        "ai cyber espionage",
-        "already semi public"
-      ]
-    },
     {
       "timestamp": "2026-10-07 23:58",
       "articles": 48,
@@ -36538,6 +36579,17 @@
         "service dos condition",
         "twitter whistleblower complaint",
         "pwn2own berlin contest"
+      ]
+    },
+    {
+      "timestamp": "2026-10-29 14:54",
+      "articles": 56,
+      "top_keywords": [
+        "alpine linux project's",
+        "victim's phone via",
+        "twitter whistleblower complaint",
+        "seize full control",
+        "long horizon capabilities"
       ]
     }
   ]

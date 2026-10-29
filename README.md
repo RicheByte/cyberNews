@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-29 07:55 UTC |
+| 🕐 Last Updated | 2026-10-29 14:54 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`web management interfaces` • `tls flaws found` • `service dos condition` • `twitter whistleblower complaint` • `pwn2own berlin contest` • `malicious cyber actors` • `hacker handle rey` • `cve 2026 16437` • `connected devices compromised` • `extortion group shinyhunters`
+`alpine linux project's` • `victim's phone via` • `twitter whistleblower complaint` • `seize full control` • `long horizon capabilities` • `gemini 4 carbon` • `emerge across sequences` • `traditional security processes` • `security analyst's job` • `national security risk`
 
 ## 📄 Reports
 

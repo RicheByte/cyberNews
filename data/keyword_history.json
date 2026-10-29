@@ -1,6 +1,5 @@
 {
   "dates": [
-    "2026-09-29",
     "2026-09-30",
     "2026-10-01",
     "2026-10-02",
@@ -29,7 +28,8 @@
     "2026-10-25",
     "2026-10-26",
     "2026-10-27",
-    "2026-10-28"
+    "2026-10-28",
+    "2026-10-29"
   ],
   "keywords": {
     "five cybersecurity predictions": {
@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 558,
+      "count": 559,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -173,7 +173,8 @@
         "2026-10-25",
         "2026-10-26",
         "2026-10-27",
-        "2026-10-28"
+        "2026-10-28",
+        "2026-10-29"
       ]
     },
     "user named csnemess": {
@@ -363,7 +364,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2845,
+      "count": 2846,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -680,7 +681,8 @@
         "2026-10-25",
         "2026-10-26",
         "2026-10-27",
-        "2026-10-28"
+        "2026-10-28",
+        "2026-10-29"
       ]
     },
     "supposed wayward package": {
@@ -3543,7 +3545,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 365,
+      "count": 366,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3607,7 +3609,8 @@
         "2026-10-20",
         "2026-10-21",
         "2026-10-27",
-        "2026-10-28"
+        "2026-10-28",
+        "2026-10-29"
       ]
     },
     "authenticated remote attacker": {
@@ -13517,7 +13520,7 @@
       ]
     },
     "service dos condition": {
-      "count": 74,
+      "count": 75,
       "dates": [
         "2026-04-07",
         "2026-04-08",
@@ -13529,7 +13532,8 @@
         "2026-04-14",
         "2026-07-17",
         "2026-07-18",
-        "2026-10-28"
+        "2026-10-28",
+        "2026-10-29"
       ]
     },
     "cve 2025 59528": {
@@ -32429,7 +32433,7 @@
       ]
     },
     "stealing mobile call": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-09-29",
         "2026-10-12",
@@ -32441,7 +32445,8 @@
         "2026-10-24",
         "2026-10-25",
         "2026-10-26",
-        "2026-10-28"
+        "2026-10-28",
+        "2026-10-29"
       ]
     },
     "darpa selects xint": {
@@ -33209,7 +33214,7 @@
       ]
     },
     "extortion group shinyhunters": {
-      "count": 67,
+      "count": 68,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33229,7 +33234,8 @@
         "2026-10-25",
         "2026-10-26",
         "2026-10-27",
-        "2026-10-28"
+        "2026-10-28",
+        "2026-10-29"
       ]
     },
     "deploy cryptocurrency miners": {
@@ -33256,7 +33262,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 94,
+      "count": 95,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33279,7 +33285,8 @@
         "2026-10-25",
         "2026-10-26",
         "2026-10-27",
-        "2026-10-28"
+        "2026-10-28",
+        "2026-10-29"
       ]
     },
     "reach internal functions": {
@@ -33579,7 +33586,7 @@
       ]
     },
     "prolific data theft": {
-      "count": 49,
+      "count": 50,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -33597,7 +33604,8 @@
         "2026-10-25",
         "2026-10-26",
         "2026-10-27",
-        "2026-10-28"
+        "2026-10-28",
+        "2026-10-29"
       ]
     },
     "suspected shinyhunters operative": {
@@ -34570,11 +34578,12 @@
       ]
     },
     "ru money laundering": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-21",
         "2026-10-25",
-        "2026-10-28"
+        "2026-10-28",
+        "2026-10-29"
       ]
     },
     "memory bugs account": {
@@ -34865,12 +34874,13 @@
       ]
     },
     "contact customer support": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-10-22",
         "2026-10-23",
         "2026-10-27",
-        "2026-10-28"
+        "2026-10-28",
+        "2026-10-29"
       ]
     },
     "add outside tools": {
@@ -35314,9 +35324,10 @@
       ]
     },
     "traditional infostealer playbook": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-10-28"
+        "2026-10-28",
+        "2026-10-29"
       ]
     },
     "internal management interface": {
@@ -35326,15 +35337,17 @@
       ]
     },
     "tls flaws found": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-10-28"
+        "2026-10-28",
+        "2026-10-29"
       ]
     },
     "php flaws known": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-10-28"
+        "2026-10-28",
+        "2026-10-29"
       ]
     },
     "web management interfaces": {
@@ -35362,21 +35375,24 @@
       ]
     },
     "third iteration led": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-10-28"
+        "2026-10-28",
+        "2026-10-29"
       ]
     },
     "smart contract negotiations": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-10-28"
+        "2026-10-28",
+        "2026-10-29"
       ]
     },
     "single compromised endpoint": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-10-28"
+        "2026-10-28",
+        "2026-10-29"
       ]
     },
     "sexually explicit images": {
@@ -35386,27 +35402,31 @@
       ]
     },
     "pwn2own berlin contest": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-10-28"
+        "2026-10-28",
+        "2026-10-29"
       ]
     },
     "cve 2026 16437": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-10-28"
+        "2026-10-28",
+        "2026-10-29"
       ]
     },
     "connected devices compromised": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-10-28"
+        "2026-10-28",
+        "2026-10-29"
       ]
     },
     "rigorous documentation transparency": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-10-28"
+        "2026-10-28",
+        "2026-10-29"
       ]
     },
     "remembering phone numbers": {
@@ -35417,17 +35437,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-07 03:52",
-      "articles": 48,
-      "top_keywords": [
-        "cve 2026 21589",
-        "supply chain compromises",
-        "live conversation companies",
-        "ai cyber espionage",
-        "security experts warn"
-      ]
-    },
     {
       "timestamp": "2026-10-07 10:47",
       "articles": 48,
@@ -36515,6 +36524,17 @@
         "php flaws known",
         "twitter whistleblower complaint",
         "service dos condition"
+      ]
+    },
+    {
+      "timestamp": "2026-10-29 01:28",
+      "articles": 56,
+      "top_keywords": [
+        "malicious cyber actors",
+        "tls flaws found",
+        "service dos condition",
+        "twitter whistleblower complaint",
+        "pwn2own berlin contest"
       ]
     }
   ]

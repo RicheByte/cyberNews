@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-28 20:43 UTC |
+| 🕐 Last Updated | 2026-10-29 01:28 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`malicious cyber actors` • `tls flaws found` • `php flaws known` • `twitter whistleblower complaint` • `service dos condition` • `pwn2own berlin contest` • `hacker handle rey` • `cve 2026 16437` • `contact customer support` • `connected devices compromised`
+`malicious cyber actors` • `tls flaws found` • `service dos condition` • `twitter whistleblower complaint` • `pwn2own berlin contest` • `hacker handle rey` • `cve 2026 16437` • `contact customer support` • `connected devices compromised` • `extortion group shinyhunters`
 
 ## 📄 Reports
 

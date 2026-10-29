@@ -1,19 +1,20 @@
 {
-  "last_updated": "2026-10-28 20:43",
+  "last_updated": "2026-10-29 01:28",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "malicious cyber actors",
     "tls flaws found",
-    "php flaws known",
-    "twitter whistleblower complaint",
     "service dos condition",
+    "twitter whistleblower complaint",
     "pwn2own berlin contest",
     "hacker handle rey",
     "cve 2026 16437",
     "contact customer support",
     "connected devices compromised",
     "extortion group shinyhunters",
+    "php flaws known",
+    "arbitrary code execution",
     "prolific data theft",
     "traditional infostealer playbook",
     "third iteration led",
@@ -21,49 +22,48 @@
     "smart contract negotiations",
     "single compromised endpoint",
     "ru money laundering",
-    "rigorous documentation transparency",
-    "remembering phone numbers"
+    "rigorous documentation transparency"
   ],
   "trending": [
     {
       "keyword": "malicious cyber actors",
-      "mentions": 558
+      "mentions": 559
     },
     {
       "keyword": "tls flaws found",
-      "mentions": 2
-    },
-    {
-      "keyword": "php flaws known",
-      "mentions": 2
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2845
+      "mentions": 3
     },
     {
       "keyword": "service dos condition",
-      "mentions": 74
+      "mentions": 75
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2846
     },
     {
       "keyword": "pwn2own berlin contest",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "hacker handle rey",
-      "mentions": 94
+      "mentions": 95
     },
     {
       "keyword": "cve 2026 16437",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "contact customer support",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "connected devices compromised",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "extortion group shinyhunters",
+      "mentions": 68
     }
   ],
   "articles": [
@@ -164,6 +164,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
+      "link": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
+      "summary": "U.S. law enforcement has seized the primary domain of Virtualine, a bulletproof hosting service advertised on cybercrime forums for facilitating illegal activities. [...]",
+      "published": "Wed, 28 Oct 2026 16:47:22 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Discord to let search engines index public server messages",
       "link": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/",
       "summary": "Discord will allow search engines to index discussions in Discoverable Servers and make them accessible on the web to users outside the platform without an account or invitation. [...]",
@@ -239,19 +248,6 @@
       "value_score": 18,
       "value_signals": [
         "High severity"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA warns of hackers now exploiting critical Node2Shell flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
-      "summary": "On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli vulnerability known as Node2Shell, Broccoli2Shell, and HTTP2Shell. [...]",
-      "published": "Wed, 28 Oct 2026 06:46:23 -0400",
-      "value_score": 72,
-      "value_signals": [
-        "CISA/KEV ×2",
-        "High severity ×2",
-        "Exploit wording"
       ]
     },
     {
@@ -343,6 +339,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "GhostAction Hacking Wave Fizzles, But Attackers Lurk on in GitHub",
+      "link": "https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github",
+      "summary": "The supply chain attack campaign's shift toward developer endpoints and cloud access signals what could be next for the cybercrime outfit.",
+      "published": "Wed, 28 Oct 2026 19:39:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Attacker Relentlessly Scans for Credentials by Impersonating AI Bots",
       "link": "https://www.darkreading.com/cyber-risk/attacker-impersonates-ai-bots-scans-credentials",
       "summary": "The threat actor lurked behind bots posing as agents from OpenAI, Anthropic, Meta, and others to find exposed data.",
@@ -403,15 +408,6 @@
       "link": "https://www.darkreading.com/endpoint-security/aokigahara-stealer-developer-keyrings-ai-assistants",
       "summary": "The malware's focus on AI tools expands the traditional infostealer playbook to expose a forest of AI sessions, sensitive business data, and developer infrastructure from a single compromised endpoint.",
       "published": "Tue, 27 Oct 2026 16:47:20 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "So Many AI Security Benchmarks, But None Tell the Whole Story",
-      "link": "https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges",
-      "summary": "Measuring AI model security gets complex, fast, thanks to a growing patchwork of benchmarks targeting different variables in the equation. But none replace testing against your own code and workflows.",
-      "published": "Tue, 27 Oct 2026 00:26:50 GMT",
       "value_score": 10,
       "value_signals": []
     },

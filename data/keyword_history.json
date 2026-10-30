@@ -367,7 +367,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2851,
+      "count": 2852,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -987,7 +987,7 @@
       ]
     },
     "remote code execution": {
-      "count": 518,
+      "count": 519,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1086,7 +1086,8 @@
         "2026-10-09",
         "2026-10-10",
         "2026-10-15",
-        "2026-10-16"
+        "2026-10-16",
+        "2026-10-30"
       ]
     },
     "attacker remotely control": {
@@ -1163,7 +1164,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 158,
+      "count": 159,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1197,7 +1198,8 @@
         "2026-08-31",
         "2026-09-01",
         "2026-09-30",
-        "2026-10-01"
+        "2026-10-01",
+        "2026-10-30"
       ]
     },
     "france arrests latvian": {
@@ -3413,7 +3415,7 @@
       ]
     },
     "recommended immediate actions": {
-      "count": 78,
+      "count": 79,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -5368,7 +5370,7 @@
       ]
     },
     "authentication bypass vulnerability": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-01-22",
         "2026-01-23",
@@ -33232,7 +33234,7 @@
       ]
     },
     "extortion group shinyhunters": {
-      "count": 73,
+      "count": 74,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33281,7 +33283,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 96,
+      "count": 97,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33305,7 +33307,8 @@
         "2026-10-26",
         "2026-10-27",
         "2026-10-28",
-        "2026-10-29"
+        "2026-10-29",
+        "2026-10-30"
       ]
     },
     "reach internal functions": {
@@ -35430,10 +35433,11 @@
       ]
     },
     "cve 2026 16437": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-28",
-        "2026-10-29"
+        "2026-10-29",
+        "2026-10-30"
       ]
     },
     "connected devices compromised": {
@@ -35510,7 +35514,7 @@
       ]
     },
     "valid saml assertion": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-29",
         "2026-10-30"
@@ -35568,7 +35572,7 @@
       ]
     },
     "5 8 billion": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-30"
       ]
@@ -35584,20 +35588,69 @@
       "dates": [
         "2026-10-30"
       ]
+    },
+    "6 3 billion": {
+      "count": 1,
+      "dates": [
+        "2026-10-30"
+      ]
+    },
+    "persistent ssh backdoor": {
+      "count": 1,
+      "dates": [
+        "2026-10-30"
+      ]
+    },
+    "fresh wordpress vulnerability": {
+      "count": 1,
+      "dates": [
+        "2026-10-30"
+      ]
+    },
+    "cve 2026 97229": {
+      "count": 1,
+      "dates": [
+        "2026-10-30"
+      ]
+    },
+    "2 million drained": {
+      "count": 1,
+      "dates": [
+        "2026-10-30"
+      ]
+    },
+    "5 000 developers": {
+      "count": 1,
+      "dates": [
+        "2026-10-30"
+      ]
+    },
+    "russian cyber objectives": {
+      "count": 1,
+      "dates": [
+        "2026-10-30"
+      ]
+    },
+    "promises results without": {
+      "count": 1,
+      "dates": [
+        "2026-10-30"
+      ]
+    },
+    "alpine linux tracked": {
+      "count": 1,
+      "dates": [
+        "2026-10-30"
+      ]
+    },
+    "3 3 13": {
+      "count": 1,
+      "dates": [
+        "2026-10-30"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-08 19:37",
-      "articles": 48,
-      "top_keywords": [
-        "extortion group shinyhunters",
-        "targeted campaign aimed",
-        "guard ai agents",
-        "chinese national charged",
-        "windows operating systems"
-      ]
-    },
     {
       "timestamp": "2026-10-09 00:05",
       "articles": 48,
@@ -36685,6 +36738,17 @@
         "approximately 23 000",
         "5 8 billion",
         "windows operating systems"
+      ]
+    },
+    {
+      "timestamp": "2026-10-30 14:54",
+      "articles": 56,
+      "top_keywords": [
+        "execute arbitrary code",
+        "recommended immediate actions",
+        "remote code execution",
+        "6 3 billion",
+        "persistent ssh backdoor"
       ]
     }
   ]

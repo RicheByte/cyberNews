@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-30 07:58 UTC |
+| 🕐 Last Updated | 2026-10-30 14:54 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`recommended immediate actions` • `apple app store` • `approximately 23 000` • `5 8 billion` • `windows operating systems` • `valid saml assertion` • `twitter whistleblower complaint` • `take full control` • `sec bench pro` • `much time defenders`
+`execute arbitrary code` • `recommended immediate actions` • `remote code execution` • `6 3 billion` • `persistent ssh backdoor` • `authentication bypass vulnerability` • `fresh wordpress vulnerability` • `cve 2026 97229` • `cve 2026 16437` • `2 million drained`
 
 ## 📄 Reports
 

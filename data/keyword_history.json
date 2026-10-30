@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 563,
+      "count": 564,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -213,7 +213,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 825,
+      "count": 826,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -367,7 +367,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2850,
+      "count": 2851,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3413,7 +3413,7 @@
       ]
     },
     "recommended immediate actions": {
-      "count": 77,
+      "count": 78,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -5368,7 +5368,7 @@
       ]
     },
     "authentication bypass vulnerability": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-01-22",
         "2026-01-23",
@@ -6828,11 +6828,12 @@
       ]
     },
     "take full control": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-02-03",
         "2026-02-04",
-        "2026-02-05"
+        "2026-02-05",
+        "2026-10-30"
       ]
     },
     "multistage infection chain": {
@@ -13535,7 +13536,7 @@
       ]
     },
     "service dos condition": {
-      "count": 77,
+      "count": 78,
       "dates": [
         "2026-04-07",
         "2026-04-08",
@@ -13548,7 +13549,8 @@
         "2026-07-17",
         "2026-07-18",
         "2026-10-28",
-        "2026-10-29"
+        "2026-10-29",
+        "2026-10-30"
       ]
     },
     "cve 2025 59528": {
@@ -33230,7 +33232,7 @@
       ]
     },
     "extortion group shinyhunters": {
-      "count": 72,
+      "count": 73,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -35467,28 +35469,28 @@
       ]
     },
     "long horizon capabilities": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-29",
         "2026-10-30"
       ]
     },
     "gemini 4 carbon": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-29",
         "2026-10-30"
       ]
     },
     "emerge across sequences": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-29",
         "2026-10-30"
       ]
     },
     "traditional security processes": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-29",
         "2026-10-30"
@@ -35508,21 +35510,21 @@
       ]
     },
     "valid saml assertion": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-29",
         "2026-10-30"
       ]
     },
     "apple app store": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-29",
         "2026-10-30"
       ]
     },
     "approximately 23 000": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-29",
         "2026-10-30"
@@ -35535,7 +35537,7 @@
       ]
     },
     "4 simple questions": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-29",
         "2026-10-30"
@@ -35548,7 +35550,7 @@
       ]
     },
     "sec bench pro": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-30"
       ]
@@ -35564,20 +35566,27 @@
       "dates": [
         "2026-10-30"
       ]
+    },
+    "5 8 billion": {
+      "count": 1,
+      "dates": [
+        "2026-10-30"
+      ]
+    },
+    "much time defenders": {
+      "count": 1,
+      "dates": [
+        "2026-10-30"
+      ]
+    },
+    "cloud access signals": {
+      "count": 1,
+      "dates": [
+        "2026-10-30"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-08 12:39",
-      "articles": 48,
-      "top_keywords": [
-        "extortion group shinyhunters",
-        "fortinet devices attackers",
-        "will add msix",
-        "wallet import flows",
-        "several google domains"
-      ]
-    },
     {
       "timestamp": "2026-10-08 19:37",
       "articles": 48,
@@ -36665,6 +36674,17 @@
         "apple app store",
         "approximately 23 000",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-10-30 07:58",
+      "articles": 56,
+      "top_keywords": [
+        "recommended immediate actions",
+        "apple app store",
+        "approximately 23 000",
+        "5 8 billion",
+        "windows operating systems"
       ]
     }
   ]

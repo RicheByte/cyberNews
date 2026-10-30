@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-30 01:29 UTC |
+| 🕐 Last Updated | 2026-10-30 07:58 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`valid saml assertion` • `recommended immediate actions` • `apple app store` • `approximately 23 000` • `twitter whistleblower complaint` • `sec bench pro` • `long horizon capabilities` • `emerge across sequences` • `credentials run commands` • `authentication bypass vulnerability`
+`recommended immediate actions` • `apple app store` • `approximately 23 000` • `5 8 billion` • `windows operating systems` • `valid saml assertion` • `twitter whistleblower complaint` • `take full control` • `sec bench pro` • `much time defenders`
 
 ## 📄 Reports
 

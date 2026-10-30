@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-10-30 01:29 UTC  
+> **Last Updated:** 2026-10-30 07:58 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**valid saml assertion** • **recommended immediate actions** • **apple app store** • **approximately 23 000** • **twitter whistleblower complaint** • **sec bench pro** • **long horizon capabilities** • **emerge across sequences** • **credentials run commands** • **authentication bypass vulnerability** • **malicious cyber actors** • **gemini 4 carbon** • **4 simple questions** • **extortion group shinyhunters** • **traditional security processes** • **security analyst's job** • **authentication bypass flaw** • **wraparound improper handlin** • **windows operating systems** • **sprawling phishing campaign**
+**recommended immediate actions** • **apple app store** • **approximately 23 000** • **5 8 billion** • **windows operating systems** • **valid saml assertion** • **twitter whistleblower complaint** • **take full control** • **sec bench pro** • **much time defenders** • **long horizon capabilities** • **emerge across sequences** • **malicious cyber actors** • **gemini 4 carbon** • **4 simple questions** • **authentication bypass vulnerability** • **extortion group shinyhunters** • **traditional security processes** • **service dos condition** • **cloud access signals**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV](https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html)
+- [Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen](https://thehackernews.com/2026/10/binance-suffers-security-breach.html)
 - [ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories](https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html)
 - [Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions](https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html)
 - [Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners](https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html)
 - [Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities](https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html)
 - [Webinar: How to Build AI Threat Readiness Into Your Security Operations](https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html)
 - [Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls](https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html)
-- [The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers](https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html)
-- [26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories](https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html)
 
 ### BleepingComputer
 

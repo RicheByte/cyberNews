@@ -1,72 +1,98 @@
 {
-  "last_updated": "2026-10-30 01:29",
+  "last_updated": "2026-10-30 07:58",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "valid saml assertion",
     "recommended immediate actions",
     "apple app store",
     "approximately 23 000",
+    "5 8 billion",
+    "windows operating systems",
+    "valid saml assertion",
     "twitter whistleblower complaint",
+    "take full control",
     "sec bench pro",
+    "much time defenders",
     "long horizon capabilities",
     "emerge across sequences",
-    "credentials run commands",
-    "authentication bypass vulnerability",
     "malicious cyber actors",
     "gemini 4 carbon",
     "4 simple questions",
+    "authentication bypass vulnerability",
     "extortion group shinyhunters",
     "traditional security processes",
-    "security analyst's job",
-    "authentication bypass flaw",
-    "wraparound improper handlin",
-    "windows operating systems",
-    "sprawling phishing campaign"
+    "service dos condition",
+    "cloud access signals"
   ],
   "trending": [
     {
-      "keyword": "valid saml assertion",
-      "mentions": 2
-    },
-    {
       "keyword": "recommended immediate actions",
-      "mentions": 77
+      "mentions": 78
     },
     {
       "keyword": "apple app store",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "approximately 23 000",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "5 8 billion",
+      "mentions": 1
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 826
+    },
+    {
+      "keyword": "valid saml assertion",
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2850
+      "mentions": 2851
+    },
+    {
+      "keyword": "take full control",
+      "mentions": 13
     },
     {
       "keyword": "sec bench pro",
+      "mentions": 2
+    },
+    {
+      "keyword": "much time defenders",
       "mentions": 1
-    },
-    {
-      "keyword": "long horizon capabilities",
-      "mentions": 3
-    },
-    {
-      "keyword": "emerge across sequences",
-      "mentions": 3
-    },
-    {
-      "keyword": "credentials run commands",
-      "mentions": 1
-    },
-    {
-      "keyword": "authentication bypass vulnerability",
-      "mentions": 26
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
+      "link": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-97229 (CVSS score: 10.0) - An integer overflow or wraparound vulnerability in GitLab Community Edition and Enterprise",
+      "published": "Fri, 30 Oct 2026 12:57:05 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation",
+        "RCE",
+        "CISA/KEV ×5",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
+      "link": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
+      "summary": "Cryptocurrency giant Binance said on Thursday that a \"security incident\" on its platform has impacted about $6.3 billion worth of assets. The world's biggest cryptocurrency exchange said nearly $3 billion of those assets have been frozen on-chain so far. Tether and Circle said they have frozen more than 1.567 billion USDT and 800 million USDT related to the incident, respectively. The",
+      "published": "Fri, 30 Oct 2026 09:44:59 +0530",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
@@ -133,24 +159,6 @@
       "value_signals": [
         "Patch/update"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
-      "link": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
-      "summary": "AI is beginning to take over much of the work that has traditionally defined the security analyst's job. Investigating alerts, collecting evidence, correlating activity across tools, and executing response actions are becoming tasks that AI systems can perform on their own. As these capabilities mature, security operations centers (SOCs) will see major changes in how work is organized, how",
-      "published": "Thu, 29 Oct 2026 17:03:41 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
-      "link": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
-      "summary": "26,400 credentials that developers left in public code on Gitee, a Chinese code-hosting service, still worked when a researcher tested them. Anyone who copied one from that code could have used it. Independent researcher Ben Zimmermann found them by scanning 7.25 million public Gitee repositories and reported the results on October 28. Most were keys for cloud and AI services, led by",
-      "published": "Thu, 29 Oct 2026 17:03:15 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",

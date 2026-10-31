@@ -367,7 +367,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2855,
+      "count": 2856,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -988,7 +988,7 @@
       ]
     },
     "remote code execution": {
-      "count": 522,
+      "count": 523,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1373,7 +1373,7 @@
       ]
     },
     "national security risk": {
-      "count": 537,
+      "count": 538,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1482,7 +1482,8 @@
         "2026-10-13",
         "2026-10-14",
         "2026-10-15",
-        "2026-10-29"
+        "2026-10-29",
+        "2026-10-31"
       ]
     },
     "open source millions": {
@@ -3418,7 +3419,7 @@
       ]
     },
     "recommended immediate actions": {
-      "count": 82,
+      "count": 83,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -33289,7 +33290,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 100,
+      "count": 101,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33615,7 +33616,7 @@
       ]
     },
     "prolific data theft": {
-      "count": 51,
+      "count": 52,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -33634,7 +33635,8 @@
         "2026-10-26",
         "2026-10-27",
         "2026-10-28",
-        "2026-10-29"
+        "2026-10-29",
+        "2026-10-31"
       ]
     },
     "suspected shinyhunters operative": {
@@ -34181,7 +34183,7 @@
       ]
     },
     "amman jordan suspected": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-10-16",
         "2026-10-17",
@@ -35523,7 +35525,7 @@
       ]
     },
     "valid saml assertion": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-10-29",
         "2026-10-30",
@@ -35627,21 +35629,21 @@
       ]
     },
     "2 million drained": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-10-30",
         "2026-10-31"
       ]
     },
     "5 000 developers": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-10-30",
         "2026-10-31"
       ]
     },
     "russian cyber objectives": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-10-30",
         "2026-10-31"
@@ -35667,14 +35669,14 @@
       ]
     },
     "suspected hardware implant": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-30",
         "2026-10-31"
       ]
     },
     "approximately 11 hours": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-30",
         "2026-10-31"
@@ -35693,24 +35695,42 @@
       ]
     },
     "operation blackout went": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-31"
       ]
     },
     "remotely execute commands": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-31"
       ]
     },
     "cursor's extension marketplace": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-31"
       ]
     },
     "38 threat actors": {
+      "count": 2,
+      "dates": [
+        "2026-10-31"
+      ]
+    },
+    "visitors without accounts": {
+      "count": 1,
+      "dates": [
+        "2026-10-31"
+      ]
+    },
+    "chainalysis confirms intrusion": {
+      "count": 1,
+      "dates": [
+        "2026-10-31"
+      ]
+    },
+    "security firm patched": {
       "count": 1,
       "dates": [
         "2026-10-31"
@@ -35718,17 +35738,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-09 22:08",
-      "articles": 48,
-      "top_keywords": [
-        "permissions ai agents",
-        "ahsaycbs backup utility",
-        "google domains impacted",
-        "open source maintainers",
-        "full working exploit"
-      ]
-    },
     {
       "timestamp": "2026-10-10 03:56",
       "articles": 48,
@@ -36816,6 +36825,17 @@
         "remote code execution",
         "authentication bypass vulnerability",
         "alpine linux tracked"
+      ]
+    },
+    {
+      "timestamp": "2026-10-31 14:13",
+      "articles": 56,
+      "top_keywords": [
+        "recommended immediate actions",
+        "remote code execution",
+        "5 000 developers",
+        "38 threat actors",
+        "2 million drained"
       ]
     }
   ]

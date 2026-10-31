@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-10-31 07:53 UTC |
+| 🕐 Last Updated | 2026-10-31 14:13 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`recommended immediate actions` • `execute arbitrary code` • `remote code execution` • `authentication bypass vulnerability` • `alpine linux tracked` • `5 000 developers` • `38 threat actors` • `2 million drained` • `suspected hardware implant` • `allows unauthenticated attackers`
+`recommended immediate actions` • `remote code execution` • `5 000 developers` • `38 threat actors` • `2 million drained` • `suspected hardware implant` • `prolific data theft` • `cursor's extension marketplace` • `visitors without accounts` • `valid saml assertion`
 
 ## 📄 Reports
 

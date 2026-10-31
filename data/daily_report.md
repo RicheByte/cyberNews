@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-10-31 01:21 UTC  
+> **Last Updated:** 2026-10-31 07:53 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**recommended immediate actions** • **execute arbitrary code** • **remote code execution** • **persistent ssh backdoor** • **5 000 developers** • **authentication bypass vulnerability** • **suspected hardware implant** • **allows unauthenticated attackers** • **alpine linux tracked** • **valid saml assertion** • **twitter whistleblower complaint** • **russian cyber objectives** • **operation blackout went** • **hacker handle rey** • **cve 2026 97229** • **approximately 11 hours** • **2 million drained** • **remotely execute commands** • **amman jordan suspected** • **cursor's extension marketplace**
+**recommended immediate actions** • **execute arbitrary code** • **remote code execution** • **authentication bypass vulnerability** • **alpine linux tracked** • **5 000 developers** • **38 threat actors** • **2 million drained** • **suspected hardware implant** • **allows unauthenticated attackers** • **cursor's extension marketplace** • **valid saml assertion** • **twitter whistleblower complaint** • **russian cyber objectives** • **operation blackout went** • **hacker handle rey** • **approximately 11 hours** • **remotely execute commands** • **amman jordan suspected** • **fresh wordpress vulnerability**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats](https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html)
+- [Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%](https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html)
 - [Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide](https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html)
 - [TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them](https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html)
 - [WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours](https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html)
 - [Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis](https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html)
 - [Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving](https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html)
 - [Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison](https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html)
-- [Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor](https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html)
-- [Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw](https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html)
 
 ### BleepingComputer
 

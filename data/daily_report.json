@@ -1,72 +1,92 @@
 {
-  "last_updated": "2026-10-31 01:21",
+  "last_updated": "2026-10-31 07:53",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "recommended immediate actions",
     "execute arbitrary code",
     "remote code execution",
-    "persistent ssh backdoor",
-    "5 000 developers",
     "authentication bypass vulnerability",
+    "alpine linux tracked",
+    "5 000 developers",
+    "38 threat actors",
+    "2 million drained",
     "suspected hardware implant",
     "allows unauthenticated attackers",
-    "alpine linux tracked",
+    "cursor's extension marketplace",
     "valid saml assertion",
     "twitter whistleblower complaint",
     "russian cyber objectives",
     "operation blackout went",
     "hacker handle rey",
-    "cve 2026 97229",
     "approximately 11 hours",
-    "2 million drained",
     "remotely execute commands",
     "amman jordan suspected",
-    "cursor's extension marketplace"
+    "fresh wordpress vulnerability"
   ],
   "trending": [
     {
       "keyword": "recommended immediate actions",
-      "mentions": 81
+      "mentions": 82
     },
     {
       "keyword": "execute arbitrary code",
-      "mentions": 161
+      "mentions": 162
     },
     {
       "keyword": "remote code execution",
-      "mentions": 521
-    },
-    {
-      "keyword": "persistent ssh backdoor",
-      "mentions": 3
-    },
-    {
-      "keyword": "5 000 developers",
-      "mentions": 3
+      "mentions": 522
     },
     {
       "keyword": "authentication bypass vulnerability",
-      "mentions": 30
-    },
-    {
-      "keyword": "suspected hardware implant",
-      "mentions": 2
-    },
-    {
-      "keyword": "allows unauthenticated attackers",
-      "mentions": 2
+      "mentions": 31
     },
     {
       "keyword": "alpine linux tracked",
+      "mentions": 4
+    },
+    {
+      "keyword": "5 000 developers",
+      "mentions": 4
+    },
+    {
+      "keyword": "38 threat actors",
+      "mentions": 1
+    },
+    {
+      "keyword": "2 million drained",
+      "mentions": 4
+    },
+    {
+      "keyword": "suspected hardware implant",
       "mentions": 3
     },
     {
-      "keyword": "valid saml assertion",
-      "mentions": 6
+      "keyword": "allows unauthenticated attackers",
+      "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
+      "link": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
+      "summary": "A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at the security firm Parameter showed. The researchers reported the flaw through OpenAI's bug bounty program on October 18, and OpenAI fixed it eight days later and rated it P1, its most serious category.",
+      "published": "Sat, 31 Oct 2026 11:03:41 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
+      "link": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
+      "summary": "Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday. The web infrastructure and security company said it autonomously mitigated 18.2 million network-layer (L3) DDoS attacks and 14.4 trillion HTTP DDoS requests in the third quarter of 2026. That amounts to 197,400 attacks per day, or one attack every 0.44",
+      "published": "Sat, 31 Oct 2026 10:26:12 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
@@ -129,31 +149,6 @@
       "published": "Fri, 30 Oct 2026 16:10:45 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
-      "link": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
-      "summary": "Cybersecurity researchers have disclosed that a trojanized version of Anthropic's official Claude Code extension was distributed through the Cursor Marketplace as a legitimate update, attempting to install a persistent SSH backdoor on affected systems. The malicious update, version 2.1.313, was distributed under the extension's legitimate publisher identity, prompting Cursor to temporarily shut",
-      "published": "Fri, 30 Oct 2026 14:25:47 +0530",
-      "value_score": 50,
-      "value_signals": [
-        "Patch/update ×2",
-        "Backdoor ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
-      "link": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
-      "summary": "Drupal has warned that threat actors are exploiting a \"highly critical\" security flaw in its Commerce Core component. The vulnerability, tracked as CVE-2026-118539 (CVSS score: N/A), is a case of missing authorization affecting Commerce Core versions from 0.0.0 to 2.41 and from 3.0.0 to 3.3.13. \"This module enables you to sell goods and services to customers through an included shopping cart",
-      "published": "Fri, 30 Oct 2026 13:15:30 +0530",
-      "value_score": 50,
-      "value_signals": [
-        "CVE mentioned",
-        "High severity ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "BleepingComputer",

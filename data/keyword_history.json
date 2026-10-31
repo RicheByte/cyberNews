@@ -367,7 +367,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2854,
+      "count": 2855,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -988,7 +988,7 @@
       ]
     },
     "remote code execution": {
-      "count": 521,
+      "count": 522,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1166,7 +1166,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 161,
+      "count": 162,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -3418,7 +3418,7 @@
       ]
     },
     "recommended immediate actions": {
-      "count": 81,
+      "count": 82,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -5374,7 +5374,7 @@
       ]
     },
     "authentication bypass vulnerability": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-01-22",
         "2026-01-23",
@@ -29861,7 +29861,7 @@
       ]
     },
     "allows unauthenticated attackers": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-04",
         "2026-10-31"
@@ -33289,7 +33289,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 99,
+      "count": 100,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -34181,7 +34181,7 @@
       ]
     },
     "amman jordan suspected": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-10-16",
         "2026-10-17",
@@ -35523,7 +35523,7 @@
       ]
     },
     "valid saml assertion": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-10-29",
         "2026-10-30",
@@ -35613,9 +35613,10 @@
       ]
     },
     "fresh wordpress vulnerability": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-10-30"
+        "2026-10-30",
+        "2026-10-31"
       ]
     },
     "cve 2026 97229": {
@@ -35626,21 +35627,21 @@
       ]
     },
     "2 million drained": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-30",
         "2026-10-31"
       ]
     },
     "5 000 developers": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-30",
         "2026-10-31"
       ]
     },
     "russian cyber objectives": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-30",
         "2026-10-31"
@@ -35653,7 +35654,7 @@
       ]
     },
     "alpine linux tracked": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-30",
         "2026-10-31"
@@ -35666,14 +35667,14 @@
       ]
     },
     "suspected hardware implant": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-30",
         "2026-10-31"
       ]
     },
     "approximately 11 hours": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-30",
         "2026-10-31"
@@ -35692,18 +35693,24 @@
       ]
     },
     "operation blackout went": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-31"
       ]
     },
     "remotely execute commands": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-10-31"
       ]
     },
     "cursor's extension marketplace": {
+      "count": 2,
+      "dates": [
+        "2026-10-31"
+      ]
+    },
+    "38 threat actors": {
       "count": 1,
       "dates": [
         "2026-10-31"
@@ -35711,17 +35718,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-09 16:45",
-      "articles": 48,
-      "top_keywords": [
-        "permissions ai agents",
-        "google domains impacted",
-        "xmrig cryptocurrency miners",
-        "open source maintainers",
-        "full working exploit"
-      ]
-    },
     {
       "timestamp": "2026-10-09 22:08",
       "articles": 48,
@@ -36809,6 +36805,17 @@
         "remote code execution",
         "persistent ssh backdoor",
         "5 000 developers"
+      ]
+    },
+    {
+      "timestamp": "2026-10-31 07:53",
+      "articles": 56,
+      "top_keywords": [
+        "recommended immediate actions",
+        "execute arbitrary code",
+        "remote code execution",
+        "authentication bypass vulnerability",
+        "alpine linux tracked"
       ]
     }
   ]

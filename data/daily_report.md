@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-10-31 14:13 UTC  
+> **Last Updated:** 2026-10-31 19:40 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**recommended immediate actions** • **remote code execution** • **5 000 developers** • **38 threat actors** • **2 million drained** • **suspected hardware implant** • **prolific data theft** • **cursor's extension marketplace** • **visitors without accounts** • **valid saml assertion** • **twitter whistleblower complaint** • **russian cyber objectives** • **remotely execute commands** • **operation blackout went** • **hacker handle rey** • **approximately 11 hours** • **chainalysis confirms intrusion** • **amman jordan suspected** • **security firm patched** • **national security risk**
+**recommended immediate actions** • **remote code execution** • **5 000 developers** • **38 threat actors** • **remotely execute commands** • **2 million drained** • **suspected hardware implant** • **prolific data theft** • **cursor's extension marketplace** • **valid saml assertion** • **twitter whistleblower complaint** • **russian cyber objectives** • **received credible reports** • **operation blackout went** • **hacker handle rey** • **approximately 11 hours** • **authentication bypass vulnerability** • **chainalysis confirms intrusion** • **amman jordan suspected** • **allows unauthenticated attackers**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Northflank security breach leads to abuse of customers' AI API keys](https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/)
+- [New Android SMS of Death exploit can remotely crash unpatched phones](https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/)
 - [Reddit to lock content behind logins to fight scrapers](https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/)
 - [From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.](https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/)
 - [Chainalysis discloses data breach from "offensive agentic techniques"](https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/)
 - [Critical Linux kernel flaw allows remote root attacks on MPTCP servers](https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/)
 - [Trezor warns of suspected crypto-theft implant in hardware wallet](https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/)
 - [Malicious Claude Code extension on Cursor planted SSH backdoors](https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/)
-- [SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone](https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/)
-- [CISA says max severity GitLab flaw now exploited in the wild](https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/)
 
 ### Krebs on Security
 

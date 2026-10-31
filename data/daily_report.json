@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-31 14:13",
+  "last_updated": "2026-10-31 19:40",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,63 +7,63 @@
     "remote code execution",
     "5 000 developers",
     "38 threat actors",
+    "remotely execute commands",
     "2 million drained",
     "suspected hardware implant",
     "prolific data theft",
     "cursor's extension marketplace",
-    "visitors without accounts",
     "valid saml assertion",
     "twitter whistleblower complaint",
     "russian cyber objectives",
-    "remotely execute commands",
+    "received credible reports",
     "operation blackout went",
     "hacker handle rey",
     "approximately 11 hours",
+    "authentication bypass vulnerability",
     "chainalysis confirms intrusion",
     "amman jordan suspected",
-    "security firm patched",
-    "national security risk"
+    "allows unauthenticated attackers"
   ],
   "trending": [
     {
       "keyword": "recommended immediate actions",
-      "mentions": 83
+      "mentions": 84
     },
     {
       "keyword": "remote code execution",
-      "mentions": 523
+      "mentions": 524
     },
     {
       "keyword": "5 000 developers",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "38 threat actors",
-      "mentions": 2
-    },
-    {
-      "keyword": "2 million drained",
-      "mentions": 5
-    },
-    {
-      "keyword": "suspected hardware implant",
-      "mentions": 4
-    },
-    {
-      "keyword": "prolific data theft",
-      "mentions": 52
-    },
-    {
-      "keyword": "cursor's extension marketplace",
       "mentions": 3
     },
     {
-      "keyword": "visitors without accounts",
-      "mentions": 1
+      "keyword": "remotely execute commands",
+      "mentions": 4
+    },
+    {
+      "keyword": "2 million drained",
+      "mentions": 6
+    },
+    {
+      "keyword": "suspected hardware implant",
+      "mentions": 5
+    },
+    {
+      "keyword": "prolific data theft",
+      "mentions": 53
+    },
+    {
+      "keyword": "cursor's extension marketplace",
+      "mentions": 4
     },
     {
       "keyword": "valid saml assertion",
-      "mentions": 8
+      "mentions": 9
     }
   ],
   "articles": [
@@ -157,6 +157,29 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Northflank security breach leads to abuse of customers' AI API keys",
+      "link": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
+      "summary": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]",
+      "published": "Sat, 31 Oct 2026 14:01:12 -0400",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
+      "link": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
+      "summary": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sending a specially crafted text message. [...]",
+      "published": "Sat, 31 Oct 2026 11:35:11 -0400",
+      "value_score": 34,
+      "value_signals": [
+        "CVE mentioned",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Reddit to lock content behind logins to fight scrapers",
       "link": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
       "summary": "Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a \"logged-in service,\" offering limited access to visitors without accounts. [...]",
@@ -168,7 +191,7 @@
       "source": "BleepingComputer",
       "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
       "link": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
-      "summary": "[...]",
+      "summary": "AI-generated vulnerability reports are overwhelming some bug bounty programs, making it harder for aspiring security researchers to know where to start. TryHackMe explains how beginners can build practical cybersecurity skills, use AI responsibly, and produce reproducible findings that stand up to scrutiny. [...]",
       "published": "Sat, 31 Oct 2026 09:10:19 -0400",
       "value_score": 10,
       "value_signals": []
@@ -213,30 +236,6 @@
       "published": "Fri, 30 Oct 2026 10:36:54 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
-      "link": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/",
-      "summary": "Flaws in SS7 and Diameter signaling protocols can allow attackers to track phone locations, intercept calls and SMS verification codes, and impersonate subscribers without compromising their devices. Cape explains how these attacks exploit trust between networks and how its security-focused mobile service helps defend against them. [...]",
-      "published": "Fri, 30 Oct 2026 10:00:10 -0400",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA says max severity GitLab flaw now exploited in the wild",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/",
-      "summary": "Attackers have started exploiting a maximum-severity GitLab vulnerability patched earlier this month, according to the US Cybersecurity and Infrastructure Security Agency (CISA). [...]",
-      "published": "Fri, 30 Oct 2026 09:00:32 -0400",
-      "value_score": 81,
-      "value_signals": [
-        "Active exploitation",
-        "CISA/KEV ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",

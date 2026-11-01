@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-11-01 10:58",
+  "last_updated": "2026-11-01 17:30",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "recommended immediate actions",
-    "5 000 developers",
     "remotely execute commands",
     "remote code execution",
     "38 threat actors",
-    "2 million drained",
-    "cursor's extension marketplace",
+    "national security risk",
     "authentication bypass vulnerability",
     "visitors without accounts",
     "valid saml assertion",
     "twitter whistleblower complaint",
     "secret service usss",
     "russian cyber objectives",
-    "received credible reports",
     "operation blackout went",
     "hacker handle rey",
-    "amman jordan suspected",
+    "bringing work features",
     "fresh wordpress vulnerability",
     "malicious cyber actors",
-    "allows unauthenticated attackers"
+    "allows unauthenticated attackers",
+    "extortion group shinyhunters",
+    "security firm patched",
+    "aspiring security researchers"
   ],
   "trending": [
     {
       "keyword": "recommended immediate actions",
-      "mentions": 87
-    },
-    {
-      "keyword": "5 000 developers",
-      "mentions": 9
+      "mentions": 88
     },
     {
       "keyword": "remotely execute commands",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "remote code execution",
-      "mentions": 527
+      "mentions": 528
     },
     {
       "keyword": "38 threat actors",
-      "mentions": 6
-    },
-    {
-      "keyword": "2 million drained",
-      "mentions": 9
-    },
-    {
-      "keyword": "cursor's extension marketplace",
       "mentions": 7
     },
     {
+      "keyword": "national security risk",
+      "mentions": 539
+    },
+    {
       "keyword": "authentication bypass vulnerability",
-      "mentions": 35
+      "mentions": 36
     },
     {
       "keyword": "visitors without accounts",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "valid saml assertion",
-      "mentions": 12
+      "mentions": 13
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2861
+    },
+    {
+      "keyword": "secret service usss",
+      "mentions": 2
     }
   ],
   "articles": [
@@ -153,6 +153,28 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
+      "link": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
+      "summary": "Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset all passwords over concerns of a possible compromise. [...]",
+      "published": "Sun, 01 Nov 2026 10:11:21 -0500",
+      "value_score": 44,
+      "value_signals": [
+        "RCE",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/",
+      "summary": "OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]",
+      "published": "Sun, 01 Nov 2026 08:53:11 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Northflank security breach leads to abuse of customers' AI API keys",
       "link": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
       "summary": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]",
@@ -214,24 +236,6 @@
         "High severity ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Trezor warns of suspected crypto-theft implant in hardware wallet",
-      "link": "https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/",
-      "summary": "Hardware wallet device maker Trezor has received credible reports about a suspected hardware crypto-theft implant in a Trezor Safe 5 sold by its reseller CryptoBilis in Southeast Asia. [...]",
-      "published": "Fri, 30 Oct 2026 11:58:20 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
-      "summary": "A malicious version of Anthropic's Claude Code VS Code extension was distributed through Cursor's extension marketplace for approximately 11 hours on October 29, exposing up to 5,000 developers to malware designed to install persistent SSH backdoors. [...]",
-      "published": "Fri, 30 Oct 2026 10:36:54 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -396,6 +400,17 @@
     },
     {
       "source": "Security Week",
+      "title": "Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations",
+      "link": "https://www.securityweek.com/northstar-security-exits-stealth-with-7m-to-expose-toxic-risk-combinations/",
+      "summary": "The startup maps how identities, assets and vulnerabilities connect, and uses AI agents to find and fix risky combinations of issues. The post Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations appeared first on SecurityWeek .",
+      "published": "Sun, 01 Nov 2026 11:15:00 +0000",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Syrian Hacker Gets Prison Time in US After Over a Decade on the Run",
       "link": "https://www.securityweek.com/syrian-hacker-gets-prison-time-in-us-after-over-a-decade-on-the-run/",
       "summary": "A US court sentenced Syrian hacker Ahmad Umar Agha to 42 months for pro-Assad attacks on media, businesses, and government entities. The post Syrian Hacker Gets Prison Time in US After Over a Decade on the Run appeared first on SecurityWeek .",
@@ -469,15 +484,6 @@
         "High severity",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "$2 Million+ Drained From Polymarket Traders in New Supply Chain Attack",
-      "link": "https://www.securityweek.com/2-million-drained-from-polymarket-traders-in-new-supply-chain-attack/",
-      "summary": "Malicious code linked to a website monitoring tool was designed to hijack logged-in Polymarket sessions and siphon user funds. The post $2 Million+ Drained From Polymarket Traders in New Supply Chain Attack appeared first on SecurityWeek .",
-      "published": "Fri, 30 Oct 2026 09:41:36 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

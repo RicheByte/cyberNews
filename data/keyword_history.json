@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 565,
+      "count": 566,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -368,7 +368,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2860,
+      "count": 2861,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -990,7 +990,7 @@
       ]
     },
     "remote code execution": {
-      "count": 527,
+      "count": 528,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1376,7 +1376,7 @@
       ]
     },
     "national security risk": {
-      "count": 538,
+      "count": 539,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1486,7 +1486,8 @@
         "2026-10-14",
         "2026-10-15",
         "2026-10-29",
-        "2026-10-31"
+        "2026-10-31",
+        "2026-11-01"
       ]
     },
     "open source millions": {
@@ -3422,7 +3423,7 @@
       ]
     },
     "recommended immediate actions": {
-      "count": 87,
+      "count": 88,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -5379,7 +5380,7 @@
       ]
     },
     "authentication bypass vulnerability": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-01-22",
         "2026-01-23",
@@ -29867,7 +29868,7 @@
       ]
     },
     "allows unauthenticated attackers": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-09-04",
         "2026-10-31",
@@ -33247,7 +33248,7 @@
       ]
     },
     "extortion group shinyhunters": {
-      "count": 75,
+      "count": 76,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33269,7 +33270,8 @@
         "2026-10-27",
         "2026-10-28",
         "2026-10-29",
-        "2026-10-30"
+        "2026-10-30",
+        "2026-11-01"
       ]
     },
     "deploy cryptocurrency miners": {
@@ -33296,7 +33298,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 105,
+      "count": 106,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -35534,7 +35536,7 @@
       ]
     },
     "valid saml assertion": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-10-29",
         "2026-10-30",
@@ -35625,7 +35627,7 @@
       ]
     },
     "fresh wordpress vulnerability": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-30",
         "2026-10-31",
@@ -35656,7 +35658,7 @@
       ]
     },
     "russian cyber objectives": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-10-30",
         "2026-10-31",
@@ -35711,14 +35713,14 @@
       ]
     },
     "operation blackout went": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-10-31",
         "2026-11-01"
       ]
     },
     "remotely execute commands": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-10-31",
         "2026-11-01"
@@ -35732,14 +35734,14 @@
       ]
     },
     "38 threat actors": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-10-31",
         "2026-11-01"
       ]
     },
     "visitors without accounts": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-31",
         "2026-11-01"
@@ -35753,9 +35755,10 @@
       ]
     },
     "security firm patched": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-10-31"
+        "2026-10-31",
+        "2026-11-01"
       ]
     },
     "received credible reports": {
@@ -35766,6 +35769,18 @@
       ]
     },
     "secret service usss": {
+      "count": 2,
+      "dates": [
+        "2026-11-01"
+      ]
+    },
+    "bringing work features": {
+      "count": 1,
+      "dates": [
+        "2026-11-01"
+      ]
+    },
+    "aspiring security researchers": {
       "count": 1,
       "dates": [
         "2026-11-01"
@@ -35773,17 +35788,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-11 00:37",
-      "articles": 48,
-      "top_keywords": [
-        "google domains impacted",
-        "open source maintainers",
-        "full working exploit",
-        "business systems attackers",
-        "canadian cybersecurity firm"
-      ]
-    },
     {
       "timestamp": "2026-10-11 08:10",
       "articles": 48,
@@ -36871,6 +36875,17 @@
         "remotely execute commands",
         "remote code execution",
         "38 threat actors"
+      ]
+    },
+    {
+      "timestamp": "2026-11-01 17:30",
+      "articles": 56,
+      "top_keywords": [
+        "recommended immediate actions",
+        "remotely execute commands",
+        "remote code execution",
+        "38 threat actors",
+        "national security risk"
       ]
     }
   ]

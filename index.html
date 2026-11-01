@@ -500,7 +500,7 @@
             <p class="tagline">Real-time Cybersecurity News Aggregation & Trend Analysis</p>
             <div class="live-indicator">
                 <span class="live-dot"></span>
-                <span>Last updated: 2026-11-01 17:30 UTC</span>
+                <span>Last updated: 2026-11-01 21:36 UTC</span>
             </div>
         </header>
         
@@ -529,7 +529,7 @@
                     <div class="card-title"><span class="card-icon">🔥</span> Trending Keywords</div>
                 </div>
                 <div class="keyword-cloud">
-                    <span class="keyword-tag large">recommended immediate actions (88) </span><span class="keyword-tag large">remotely execute commands (8) </span><span class="keyword-tag large">remote code execution (528) </span><span class="keyword-tag medium">38 threat actors (7) </span><span class="keyword-tag medium">national security risk (539) </span><span class="keyword-tag medium">authentication bypass vulnerability (36) </span><span class="keyword-tag medium">visitors without accounts (3) </span><span class="keyword-tag small">valid saml assertion (13) </span><span class="keyword-tag small">twitter whistleblower complaint (2861) </span><span class="keyword-tag small">secret service usss (2) </span>
+                    <span class="keyword-tag large">recommended immediate actions (89) </span><span class="keyword-tag large">remote code execution (529) </span><span class="keyword-tag large">38 threat actors (8) </span><span class="keyword-tag medium">national security risk (540) </span><span class="keyword-tag medium">authentication bypass vulnerability (37) </span><span class="keyword-tag medium">visitors without accounts (4) </span><span class="keyword-tag medium">valid saml assertion (14) </span><span class="keyword-tag small">twitter whistleblower complaint (2862) </span><span class="keyword-tag small">secret service usss (3) </span><span class="keyword-tag small">russian cyber objectives (11) </span>
                 </div>
             </div>
             
@@ -539,6 +539,13 @@
                 </div>
                 <div class="timeline">
                     
+        <div class="timeline-item">
+            <div class="timeline-time">2026-11-01 21:36</div>
+            <div class="timeline-content">
+                <strong>56 articles</strong> analyzed
+                <div class="timeline-keywords">recommended immediate actions, remote code execution, 38 threat actors</div>
+            </div>
+        </div>
         <div class="timeline-item">
             <div class="timeline-time">2026-11-01 17:30</div>
             <div class="timeline-content">
@@ -583,13 +590,6 @@
         </div>
         <div class="timeline-item">
             <div class="timeline-time">2026-10-31 07:53</div>
-            <div class="timeline-content">
-                <strong>56 articles</strong> analyzed
-                <div class="timeline-keywords">recommended immediate actions, execute arbitrary code, remote code execution</div>
-            </div>
-        </div>
-        <div class="timeline-item">
-            <div class="timeline-time">2026-10-31 01:21</div>
             <div class="timeline-content">
                 <strong>56 articles</strong> analyzed
                 <div class="timeline-keywords">recommended immediate actions, execute arbitrary code, remote code execution</div>
@@ -763,6 +763,17 @@
             <div class="article-card" data-source="BleepingComputer">
                 <div class="article-top">
                     <div class="article-source">BleepingComputer</div>
+                    <div class="value-badge value-low">Value 10</div>
+                </div>
+                <h3 class="article-title">
+                    <a href="https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/" target="_blank" rel="noopener">FBI links $6.3 billion Binance crypto heist to North Korean hackers</a>
+                </h3>
+                <p class="article-summary">The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, ma...</p>
+                <div class="article-meta">Sun, 01 Nov 2026 14:57:53</div>
+            </div>
+            <div class="article-card" data-source="BleepingComputer">
+                <div class="article-top">
+                    <div class="article-source">BleepingComputer</div>
                     <div class="value-badge value-low">Value 44</div>
                 </div>
                 <h3 class="article-title">
@@ -803,17 +814,6 @@
                 </h3>
                 <p class="article-summary">A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed &quot;SMS of Death&quot; and tracked as CVE-2...</p>
                 <div class="article-meta">Sat, 31 Oct 2026 11:35:11</div>
-            </div>
-            <div class="article-card" data-source="BleepingComputer">
-                <div class="article-top">
-                    <div class="article-source">BleepingComputer</div>
-                    <div class="value-badge value-low">Value 10</div>
-                </div>
-                <h3 class="article-title">
-                    <a href="https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/" target="_blank" rel="noopener">Reddit to lock content behind logins to fight scrapers</a>
-                </h3>
-                <p class="article-summary">Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a &quot;logged-in service,&quot; offering limited access to visitors ...</p>
-                <div class="article-meta">Sat, 31 Oct 2026 10:05:15</div>
             </div>
             <div class="article-card" data-source="Krebs on Security">
                 <div class="article-top">
@@ -1146,10 +1146,10 @@
         new Chart(keywordCtx, {
             type: 'bar',
             data: {
-                labels: ["recommended immediat", "remotely execute com", "remote code executio", "38 threat actors", "national security ri", "authentication bypas", "visitors without acc", "valid saml assertion", "twitter whistleblowe", "secret service usss"],
+                labels: ["recommended immediat", "remote code executio", "38 threat actors", "national security ri", "authentication bypas", "visitors without acc", "valid saml assertion", "twitter whistleblowe", "secret service usss", "russian cyber object"],
                 datasets: [{
                     label: 'Mentions',
-                    data: [88, 8, 528, 7, 539, 36, 3, 13, 2861, 2],
+                    data: [89, 529, 8, 540, 37, 4, 14, 2862, 3, 11],
                     backgroundColor: 'rgba(0, 255, 136, 0.6)',
                     borderColor: '#00ff88',
                     borderWidth: 1,

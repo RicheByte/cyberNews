@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-11-01 17:30 UTC  
+> **Last Updated:** 2026-11-01 21:36 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**recommended immediate actions** • **remotely execute commands** • **remote code execution** • **38 threat actors** • **national security risk** • **authentication bypass vulnerability** • **visitors without accounts** • **valid saml assertion** • **twitter whistleblower complaint** • **secret service usss** • **russian cyber objectives** • **operation blackout went** • **hacker handle rey** • **bringing work features** • **fresh wordpress vulnerability** • **malicious cyber actors** • **allows unauthenticated attackers** • **extortion group shinyhunters** • **security firm patched** • **aspiring security researchers**
+**recommended immediate actions** • **remote code execution** • **38 threat actors** • **national security risk** • **authentication bypass vulnerability** • **visitors without accounts** • **valid saml assertion** • **twitter whistleblower complaint** • **secret service usss** • **russian cyber objectives** • **operation blackout went** • **hacker handle rey** • **bringing work features** • **fresh wordpress vulnerability** • **malicious cyber actors** • **extortion group shinyhunters** • **canadian cybersecurity firm** • **security firm patched** • **unauthenticated remote attacker** • **wraparound improper handlin**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [FBI links $6.3 billion Binance crypto heist to North Korean hackers](https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/)
 - [Alpine Linux rebuilds GitLab after attempted RCE attack](https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/)
 - [OpenAI says it's doubling Pro usage limits and bringing Work features to Chat](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/)
 - [Northflank security breach leads to abuse of customers' AI API keys](https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/)
@@ -34,7 +35,6 @@
 - [Reddit to lock content behind logins to fight scrapers](https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/)
 - [From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.](https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/)
 - [Chainalysis discloses data breach from "offensive agentic techniques"](https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/)
-- [Critical Linux kernel flaw allows remote root attacks on MPTCP servers](https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/)
 
 ### Krebs on Security
 

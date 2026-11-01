@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 564,
+      "count": 565,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -175,7 +175,8 @@
         "2026-10-27",
         "2026-10-28",
         "2026-10-29",
-        "2026-10-30"
+        "2026-10-30",
+        "2026-11-01"
       ]
     },
     "user named csnemess": {
@@ -367,7 +368,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2859,
+      "count": 2860,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -989,7 +990,7 @@
       ]
     },
     "remote code execution": {
-      "count": 526,
+      "count": 527,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -3421,7 +3422,7 @@
       ]
     },
     "recommended immediate actions": {
-      "count": 86,
+      "count": 87,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -5378,7 +5379,7 @@
       ]
     },
     "authentication bypass vulnerability": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-01-22",
         "2026-01-23",
@@ -29866,7 +29867,7 @@
       ]
     },
     "allows unauthenticated attackers": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-09-04",
         "2026-10-31",
@@ -33295,7 +33296,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 104,
+      "count": 105,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -34190,7 +34191,7 @@
       ]
     },
     "amman jordan suspected": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-10-16",
         "2026-10-17",
@@ -35533,7 +35534,7 @@
       ]
     },
     "valid saml assertion": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-10-29",
         "2026-10-30",
@@ -35624,10 +35625,11 @@
       ]
     },
     "fresh wordpress vulnerability": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-30",
-        "2026-10-31"
+        "2026-10-31",
+        "2026-11-01"
       ]
     },
     "cve 2026 97229": {
@@ -35638,7 +35640,7 @@
       ]
     },
     "2 million drained": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-10-30",
         "2026-10-31",
@@ -35646,7 +35648,7 @@
       ]
     },
     "5 000 developers": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-10-30",
         "2026-10-31",
@@ -35654,7 +35656,7 @@
       ]
     },
     "russian cyber objectives": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-10-30",
         "2026-10-31",
@@ -35709,37 +35711,38 @@
       ]
     },
     "operation blackout went": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-10-31",
         "2026-11-01"
       ]
     },
     "remotely execute commands": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-10-31",
         "2026-11-01"
       ]
     },
     "cursor's extension marketplace": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-10-31",
         "2026-11-01"
       ]
     },
     "38 threat actors": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-10-31",
         "2026-11-01"
       ]
     },
     "visitors without accounts": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-10-31"
+        "2026-10-31",
+        "2026-11-01"
       ]
     },
     "chainalysis confirms intrusion": {
@@ -35756,25 +35759,20 @@
       ]
     },
     "received credible reports": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-31",
+        "2026-11-01"
+      ]
+    },
+    "secret service usss": {
+      "count": 1,
+      "dates": [
         "2026-11-01"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-10 21:01",
-      "articles": 48,
-      "top_keywords": [
-        "google domains impacted",
-        "open source maintainers",
-        "full working exploit",
-        "business systems attackers",
-        "canadian cybersecurity firm"
-      ]
-    },
     {
       "timestamp": "2026-10-11 00:37",
       "articles": 48,
@@ -36862,6 +36860,17 @@
         "5 000 developers",
         "38 threat actors",
         "remotely execute commands"
+      ]
+    },
+    {
+      "timestamp": "2026-11-01 10:58",
+      "articles": 56,
+      "top_keywords": [
+        "recommended immediate actions",
+        "5 000 developers",
+        "remotely execute commands",
+        "remote code execution",
+        "38 threat actors"
       ]
     }
   ]

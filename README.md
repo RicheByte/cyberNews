@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-11-01 03:53 UTC |
+| 🕐 Last Updated | 2026-11-01 10:58 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`recommended immediate actions` • `remote code execution` • `5 000 developers` • `38 threat actors` • `remotely execute commands` • `2 million drained` • `suspected hardware implant` • `prolific data theft` • `cursor's extension marketplace` • `valid saml assertion`
+`recommended immediate actions` • `5 000 developers` • `remotely execute commands` • `remote code execution` • `38 threat actors` • `2 million drained` • `cursor's extension marketplace` • `authentication bypass vulnerability` • `visitors without accounts` • `valid saml assertion`
 
 ## 📄 Reports
 

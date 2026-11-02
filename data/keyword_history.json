@@ -215,7 +215,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 826,
+      "count": 827,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -365,11 +365,12 @@
         "2026-10-27",
         "2026-10-28",
         "2026-10-29",
-        "2026-10-30"
+        "2026-10-30",
+        "2026-11-02"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2864,
+      "count": 2865,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3429,7 +3430,7 @@
       ]
     },
     "recommended immediate actions": {
-      "count": 91,
+      "count": 92,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -5387,7 +5388,7 @@
       ]
     },
     "authentication bypass vulnerability": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-01-22",
         "2026-01-23",
@@ -29369,9 +29370,10 @@
       ]
     },
     "company s systems": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-09-01"
+        "2026-09-01",
+        "2026-11-02"
       ]
     },
     "anthropic users hit": {
@@ -33256,7 +33258,7 @@
       ]
     },
     "extortion group shinyhunters": {
-      "count": 79,
+      "count": 80,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33307,7 +33309,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 109,
+      "count": 110,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33635,7 +33637,7 @@
       ]
     },
     "prolific data theft": {
-      "count": 55,
+      "count": 56,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -33656,7 +33658,8 @@
         "2026-10-28",
         "2026-10-29",
         "2026-10-31",
-        "2026-11-01"
+        "2026-11-01",
+        "2026-11-02"
       ]
     },
     "suspected shinyhunters operative": {
@@ -33693,7 +33696,7 @@
       ]
     },
     "canadian cybersecurity firm": {
-      "count": 70,
+      "count": 71,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -35548,7 +35551,7 @@
       ]
     },
     "valid saml assertion": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-10-29",
         "2026-10-30",
@@ -35603,7 +35606,7 @@
       ]
     },
     "wraparound improper handlin": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-10-30",
         "2026-11-01",
@@ -35674,7 +35677,7 @@
       ]
     },
     "russian cyber objectives": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-10-30",
         "2026-10-31",
@@ -35730,7 +35733,7 @@
       ]
     },
     "operation blackout went": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-10-31",
         "2026-11-01",
@@ -35821,20 +35824,51 @@
       "dates": [
         "2026-11-02"
       ]
+    },
+    "1 0 0": {
+      "count": 1,
+      "dates": [
+        "2026-11-02"
+      ]
+    },
+    "1 12 8": {
+      "count": 1,
+      "dates": [
+        "2026-11-02"
+      ]
+    },
+    "people barely think": {
+      "count": 1,
+      "dates": [
+        "2026-11-02"
+      ]
+    },
+    "draining hot wallets": {
+      "count": 1,
+      "dates": [
+        "2026-11-02"
+      ]
+    },
+    "devices immediately due": {
+      "count": 1,
+      "dates": [
+        "2026-11-02"
+      ]
+    },
+    "account bypass authentication": {
+      "count": 1,
+      "dates": [
+        "2026-11-02"
+      ]
+    },
+    "mobile carrier stores": {
+      "count": 1,
+      "dates": [
+        "2026-11-02"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-12 00:54",
-      "articles": 48,
-      "top_keywords": [
-        "google domains impacted",
-        "open source maintainers",
-        "full working exploit",
-        "business systems attackers",
-        "canadian cybersecurity firm"
-      ]
-    },
     {
       "timestamp": "2026-10-12 08:27",
       "articles": 48,
@@ -36922,6 +36956,17 @@
         "cve 2026 58882",
         "cve 2026 118527",
         "national security risk"
+      ]
+    },
+    {
+      "timestamp": "2026-11-02 19:56",
+      "articles": 56,
+      "top_keywords": [
+        "recommended immediate actions",
+        "1 0 0",
+        "1 12 8",
+        "valid saml assertion",
+        "twitter whistleblower complaint"
       ]
     }
   ]

@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 568,
+      "count": 569,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -369,7 +369,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2863,
+      "count": 2864,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -992,7 +992,7 @@
       ]
     },
     "remote code execution": {
-      "count": 530,
+      "count": 531,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1379,7 +1379,7 @@
       ]
     },
     "national security risk": {
-      "count": 541,
+      "count": 542,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -3429,7 +3429,7 @@
       ]
     },
     "recommended immediate actions": {
-      "count": 90,
+      "count": 91,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -5387,7 +5387,7 @@
       ]
     },
     "authentication bypass vulnerability": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-01-22",
         "2026-01-23",
@@ -33256,7 +33256,7 @@
       ]
     },
     "extortion group shinyhunters": {
-      "count": 78,
+      "count": 79,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33307,7 +33307,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 108,
+      "count": 109,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33693,7 +33693,7 @@
       ]
     },
     "canadian cybersecurity firm": {
-      "count": 69,
+      "count": 70,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -35548,7 +35548,7 @@
       ]
     },
     "valid saml assertion": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-10-29",
         "2026-10-30",
@@ -35642,7 +35642,7 @@
       ]
     },
     "fresh wordpress vulnerability": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-10-30",
         "2026-10-31",
@@ -35674,7 +35674,7 @@
       ]
     },
     "russian cyber objectives": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-10-30",
         "2026-10-31",
@@ -35730,7 +35730,7 @@
       ]
     },
     "operation blackout went": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-10-31",
         "2026-11-01",
@@ -35760,7 +35760,7 @@
       ]
     },
     "visitors without accounts": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-10-31",
         "2026-11-01",
@@ -35775,7 +35775,7 @@
       ]
     },
     "security firm patched": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-10-31",
         "2026-11-01",
@@ -35790,38 +35790,40 @@
       ]
     },
     "secret service usss": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-11-01",
         "2026-11-02"
       ]
     },
     "bringing work features": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-01",
         "2026-11-02"
       ]
     },
     "aspiring security researchers": {
+      "count": 2,
+      "dates": [
+        "2026-11-01",
+        "2026-11-02"
+      ]
+    },
+    "cve 2026 58882": {
       "count": 1,
       "dates": [
-        "2026-11-01"
+        "2026-11-02"
+      ]
+    },
+    "cve 2026 118527": {
+      "count": 1,
+      "dates": [
+        "2026-11-02"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-11 21:22",
-      "articles": 48,
-      "top_keywords": [
-        "google domains impacted",
-        "open source maintainers",
-        "full working exploit",
-        "business systems attackers",
-        "canadian cybersecurity firm"
-      ]
-    },
     {
       "timestamp": "2026-10-12 00:54",
       "articles": 48,
@@ -36909,6 +36911,17 @@
         "38 threat actors",
         "national security risk",
         "authentication bypass vulnerability"
+      ]
+    },
+    {
+      "timestamp": "2026-11-02 08:44",
+      "articles": 56,
+      "top_keywords": [
+        "recommended immediate actions",
+        "remote code execution",
+        "cve 2026 58882",
+        "cve 2026 118527",
+        "national security risk"
       ]
     }
   ]

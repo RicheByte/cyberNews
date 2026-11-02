@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-11-02 01:10 UTC |
+| 🕐 Last Updated | 2026-11-02 08:44 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`recommended immediate actions` • `remote code execution` • `38 threat actors` • `national security risk` • `authentication bypass vulnerability` • `visitors without accounts` • `valid saml assertion` • `twitter whistleblower complaint` • `secret service usss` • `russian cyber objectives`
+`recommended immediate actions` • `remote code execution` • `cve 2026 58882` • `cve 2026 118527` • `national security risk` • `authentication bypass vulnerability` • `visitors without accounts` • `valid saml assertion` • `twitter whistleblower complaint` • `secret service usss`
 
 ## 📄 Reports
 

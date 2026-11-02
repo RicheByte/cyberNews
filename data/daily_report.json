@@ -1,11 +1,12 @@
 {
-  "last_updated": "2026-11-02 01:10",
+  "last_updated": "2026-11-02 08:44",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "recommended immediate actions",
     "remote code execution",
-    "38 threat actors",
+    "cve 2026 58882",
+    "cve 2026 118527",
     "national security risk",
     "authentication bypass vulnerability",
     "visitors without accounts",
@@ -14,59 +15,67 @@
     "secret service usss",
     "russian cyber objectives",
     "operation blackout went",
+    "malicious cyber actors",
     "hacker handle rey",
     "bringing work features",
     "fresh wordpress vulnerability",
-    "malicious cyber actors",
-    "extortion group shinyhunters",
     "canadian cybersecurity firm",
+    "extortion group shinyhunters",
     "security firm patched",
-    "unauthenticated remote attacker",
-    "wraparound improper handlin"
+    "aspiring security researchers"
   ],
   "trending": [
     {
       "keyword": "recommended immediate actions",
-      "mentions": 90
+      "mentions": 91
     },
     {
       "keyword": "remote code execution",
-      "mentions": 530
+      "mentions": 531
     },
     {
-      "keyword": "38 threat actors",
-      "mentions": 9
+      "keyword": "cve 2026 58882",
+      "mentions": 1
+    },
+    {
+      "keyword": "cve 2026 118527",
+      "mentions": 1
     },
     {
       "keyword": "national security risk",
-      "mentions": 541
+      "mentions": 542
     },
     {
       "keyword": "authentication bypass vulnerability",
-      "mentions": 38
+      "mentions": 39
     },
     {
       "keyword": "visitors without accounts",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "valid saml assertion",
-      "mentions": 15
+      "mentions": 16
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2863
+      "mentions": 2864
     },
     {
       "keyword": "secret service usss",
-      "mentions": 4
-    },
-    {
-      "keyword": "russian cyber objectives",
-      "mentions": 12
+      "mentions": 5
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
+      "link": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
+      "summary": "Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim's stolen data by their monetization value. Like other typical stealer families, VOLTA is equipped to harvest passwords and cookies from Chromium-based web browsers; data from Outlook profiles and Slack workspaces;",
+      "published": "Mon, 02 Nov 2026 11:21:07 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
@@ -91,7 +100,7 @@
       "source": "The Hacker News",
       "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
       "link": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima, PUKCHONG, Slow Pisces, and UNC4899. The FBI, along with the U.S. Secret Service (USSS) and the Internal Revenue Service Criminal Investigation (IRS-CI), said it",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets from Binance to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima, PUKCHONG, Slow Pisces, and UNC4899. The FBI, along with the U.S. Secret Service (USSS) and the Internal Revenue Service Criminal Investigation (IRS-CI),",
       "published": "Sun, 01 Nov 2026 12:33:00 +0530",
       "value_score": 10,
       "value_signals": []
@@ -141,15 +150,6 @@
       "value_signals": [
         "Patch/update"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
-      "link": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
-      "summary": "Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday. The web infrastructure and security company said it autonomously mitigated 18.2 million network-layer (L3) DDoS attacks and 14.4 trillion HTTP DDoS requests in the third quarter of 2026. That amounts to 197,400 attacks per day, or one attack every 0.44",
-      "published": "Sat, 31 Oct 2026 10:26:12 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -397,6 +397,21 @@
     },
     {
       "source": "Security Week",
+      "title": "Ivanti Patches Two More Zero-Days Exploited in Connect Secure Attack Chain",
+      "link": "https://www.securityweek.com/ivanti-patches-two-more-zero-days-exploited-in-connect-secure-attack-chain/",
+      "summary": "CISA has added CVE-2026-111357 and CVE-2026-118527 to its KEV catalog after the Ivanti VPN flaws were chained in zero-day attacks. The post Ivanti Patches Two More Zero-Days Exploited in Connect Secure Attack Chain appeared first on SecurityWeek .",
+      "published": "Mon, 02 Nov 2026 07:57:49 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Zero-day",
+        "CISA/KEV ×2",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations",
       "link": "https://www.securityweek.com/northstar-security-exits-stealth-with-7m-to-expose-toxic-risk-combinations/",
       "summary": "The startup maps how identities, assets and vulnerabilities connect, and uses AI agents to find and fix risky combinations of issues. The post Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations appeared first on SecurityWeek .",
@@ -466,19 +481,6 @@
       "value_score": 36,
       "value_signals": [
         "RCE",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Drupal Commerce Core Vulnerability Exploited Against Online Stores",
-      "link": "https://www.securityweek.com/drupal-commerce-core-vulnerability-exploited-against-online-stores/",
-      "summary": "Drupal says a highly critical Commerce Core access bypass is exploited in the wild and urges store owners to audit their orders. The post Drupal Commerce Core Vulnerability Exploited Against Online Stores appeared first on SecurityWeek .",
-      "published": "Fri, 30 Oct 2026 11:07:11 +0000",
-      "value_score": 49,
-      "value_signals": [
-        "Active exploitation",
-        "High severity",
         "Exploit wording"
       ]
     },

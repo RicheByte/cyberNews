@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-11-02 01:10 UTC  
+> **Last Updated:** 2026-11-02 08:44 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**recommended immediate actions** • **remote code execution** • **38 threat actors** • **national security risk** • **authentication bypass vulnerability** • **visitors without accounts** • **valid saml assertion** • **twitter whistleblower complaint** • **secret service usss** • **russian cyber objectives** • **operation blackout went** • **hacker handle rey** • **bringing work features** • **fresh wordpress vulnerability** • **malicious cyber actors** • **extortion group shinyhunters** • **canadian cybersecurity firm** • **security firm patched** • **unauthenticated remote attacker** • **wraparound improper handlin**
+**recommended immediate actions** • **remote code execution** • **cve 2026 58882** • **cve 2026 118527** • **national security risk** • **authentication bypass vulnerability** • **visitors without accounts** • **valid saml assertion** • **twitter whistleblower complaint** • **secret service usss** • **russian cyber objectives** • **operation blackout went** • **malicious cyber actors** • **hacker handle rey** • **bringing work features** • **fresh wordpress vulnerability** • **canadian cybersecurity firm** • **extortion group shinyhunters** • **security firm patched** • **aspiring security researchers**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value](https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html)
 - [CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key](https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html)
 - [Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script](https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html)
 - [FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist](https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html)
@@ -23,7 +24,6 @@
 - [Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data](https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html)
 - [Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access](https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html)
 - [A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats](https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html)
-- [Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%](https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html)
 
 ### BleepingComputer
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Ivanti Patches Two More Zero-Days Exploited in Connect Secure Attack Chain](https://www.securityweek.com/ivanti-patches-two-more-zero-days-exploited-in-connect-secure-attack-chain/)
 - [Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations](https://www.securityweek.com/northstar-security-exits-stealth-with-7m-to-expose-toxic-risk-combinations/)
 - [Syrian Hacker Gets Prison Time in US After Over a Decade on the Run](https://www.securityweek.com/syrian-hacker-gets-prison-time-in-us-after-over-a-decade-on-the-run/)
 - [PHP2Shell Attacks Root Palo Alto Firewalls but Fail Against WordPress](https://www.securityweek.com/php2shell-attacks-root-palo-alto-firewalls-but-fail-against-wordpress/)
@@ -67,7 +68,6 @@
 - [Passkeys Are Better Than Passwords. But They Are Not Enough.](https://www.securityweek.com/passkeys-are-better-than-passwords-but-they-are-not-enough/)
 - [Bulletproof Host Virtualine Loses Its Domain to FBI Seizure](https://www.securityweek.com/bulletproof-host-virtualine-loses-its-domain-to-fbi-seizure/)
 - [Fresh WordPress Vulnerability in Attackers’ Crosshairs](https://www.securityweek.com/fresh-wordpress-vulnerability-in-attackers-crosshairs/)
-- [Drupal Commerce Core Vulnerability Exploited Against Online Stores](https://www.securityweek.com/drupal-commerce-core-vulnerability-exploited-against-online-stores/)
 
 ### Threatpost
 

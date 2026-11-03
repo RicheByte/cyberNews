@@ -215,7 +215,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 828,
+      "count": 829,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -371,7 +371,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2866,
+      "count": 2867,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3432,7 +3432,7 @@
       ]
     },
     "recommended immediate actions": {
-      "count": 93,
+      "count": 94,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -4876,13 +4876,14 @@
       ]
     },
     "run arbitrary code": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-01-19",
         "2026-01-20",
         "2026-01-22",
         "2026-05-20",
-        "2026-09-05"
+        "2026-09-05",
+        "2026-11-03"
       ]
     },
     "42 000 impacted": {
@@ -12465,7 +12466,7 @@
       ]
     },
     "frequent attack vector": {
-      "count": 55,
+      "count": 56,
       "dates": [
         "2026-03-26",
         "2026-03-29",
@@ -17739,9 +17740,10 @@
       ]
     },
     "os command injection": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-05-19"
+        "2026-05-19",
+        "2026-11-03"
       ]
     },
     "north africa mena": {
@@ -22872,11 +22874,12 @@
       ]
     },
     "building ai agents": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-07-08",
         "2026-07-22",
-        "2026-07-23"
+        "2026-07-23",
+        "2026-11-03"
       ]
     },
     "ci cd workflows": {
@@ -29375,7 +29378,7 @@
       ]
     },
     "company s systems": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-01",
         "2026-11-02",
@@ -33316,7 +33319,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 111,
+      "count": 112,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33645,7 +33648,7 @@
       ]
     },
     "prolific data theft": {
-      "count": 57,
+      "count": 58,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -35561,7 +35564,7 @@
       ]
     },
     "valid saml assertion": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-10-29",
         "2026-10-30",
@@ -35745,7 +35748,7 @@
       ]
     },
     "operation blackout went": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-10-31",
         "2026-11-01",
@@ -35839,28 +35842,28 @@
       ]
     },
     "1 0 0": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-02",
         "2026-11-03"
       ]
     },
     "1 12 8": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-02",
         "2026-11-03"
       ]
     },
     "people barely think": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-02",
         "2026-11-03"
       ]
     },
     "draining hot wallets": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-02",
         "2026-11-03"
@@ -35880,13 +35883,25 @@
       ]
     },
     "mobile carrier stores": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-02",
         "2026-11-03"
       ]
     },
     "untested attack possibilities": {
+      "count": 2,
+      "dates": [
+        "2026-11-03"
+      ]
+    },
+    "belgium sweden estonia": {
+      "count": 1,
+      "dates": [
+        "2026-11-03"
+      ]
+    },
+    "delete arbitrary files": {
       "count": 1,
       "dates": [
         "2026-11-03"
@@ -35894,17 +35909,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-12 19:33",
-      "articles": 48,
-      "top_keywords": [
-        "anthropic's claude code",
-        "extortion group shinyhunters",
-        "canonical websites disrupted",
-        "varonis researchers explain",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-10-13 01:45",
       "articles": 48,
@@ -36992,6 +36996,17 @@
         "1 12 8",
         "valid saml assertion",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-11-03 09:15",
+      "articles": 56,
+      "top_keywords": [
+        "recommended immediate actions",
+        "run arbitrary code",
+        "building ai agents",
+        "1 12 8",
+        "1 0 0"
       ]
     }
   ]

@@ -1,72 +1,119 @@
 {
-  "last_updated": "2026-11-03 01:59",
+  "last_updated": "2026-11-03 09:15",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "recommended immediate actions",
-    "1 0 0",
+    "run arbitrary code",
+    "building ai agents",
     "1 12 8",
+    "1 0 0",
     "valid saml assertion",
     "twitter whistleblower complaint",
-    "prolific data theft",
     "people barely think",
+    "os command injection",
     "operation blackout went",
     "hacker handle rey",
     "draining hot wallets",
-    "account bypass authentication",
+    "belgium sweden estonia",
     "windows operating systems",
     "company s systems",
     "untested attack possibilities",
-    "frequent attack vector",
-    "authentication bypass vulnerability",
-    "extortion group shinyhunters",
     "mobile carrier stores",
-    "canadian cybersecurity firm",
-    "wraparound improper handlin"
+    "frequent attack vector",
+    "delete arbitrary files",
+    "prolific data theft"
   ],
   "trending": [
     {
       "keyword": "recommended immediate actions",
-      "mentions": 93
+      "mentions": 94
     },
     {
-      "keyword": "1 0 0",
-      "mentions": 2
+      "keyword": "run arbitrary code",
+      "mentions": 17
+    },
+    {
+      "keyword": "building ai agents",
+      "mentions": 11
     },
     {
       "keyword": "1 12 8",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "1 0 0",
+      "mentions": 3
     },
     {
       "keyword": "valid saml assertion",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2866
-    },
-    {
-      "keyword": "prolific data theft",
-      "mentions": 57
+      "mentions": 2867
     },
     {
       "keyword": "people barely think",
+      "mentions": 3
+    },
+    {
+      "keyword": "os command injection",
       "mentions": 2
     },
     {
       "keyword": "operation blackout went",
-      "mentions": 13
-    },
-    {
-      "keyword": "hacker handle rey",
-      "mentions": 111
-    },
-    {
-      "keyword": "draining hot wallets",
-      "mentions": 2
+      "mentions": 14
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
+      "link": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
+      "summary": "Synology is urging customers to update the DiskStation Manager (DSM) software powering its Network Attached Storage (NAS) devices following ransomware attacks. The Taiwanese vendor said it observed threat actors exploiting a vulnerability patched in December 2024 to target devices running outdated versions of DSM. \"These attacks aim to encrypt data and extort ransom,\" it said in a statement",
+      "published": "Tue, 03 Nov 2026 13:13:07 +0530",
+      "value_score": 60,
+      "value_signals": [
+        "Ransomware ×2",
+        "Patch/update",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food",
+      "link": "https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html",
+      "summary": "Attackers remotely changed the settings on refrigeration controls at supermarkets in Belgium, Sweden, Estonia and other European countries overnight into Monday, November 2, warming fridges and freezers. No chain reported more than several dozen affected stores, and some had to throw away chilled and frozen food or take it off the shelf. Danfoss, a Danish maker of refrigeration controls,",
+      "published": "Tue, 03 Nov 2026 12:57:07 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
+      "link": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
+      "summary": "A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devices has come under active exploitation, VulnCheck has revealed. The vulnerability, tracked as CVE-2026-58115 (CVSS score: 10.0), is a case of missing authentication for a critical function that could be exploited by an unauthenticated remote attacker to run arbitrary code. \"SIMATIC IoT2050 Advanced devices running",
+      "published": "Tue, 03 Nov 2026 11:04:41 +0530",
+      "value_score": 50,
+      "value_signals": [
+        "CVE mentioned",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials",
+      "link": "https://thehackernews.com/2026/11/attackers-target-unpatched.html",
+      "summary": "Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused Cyber. The vulnerability in question is CVE-2026-81648, which carries a CVSS score of 10.0. Successful exploitation of the flaw could permit unauthenticated users to delete arbitrary files on the server and extract",
+      "published": "Tue, 03 Nov 2026 11:04:37 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "CVE mentioned",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
@@ -113,42 +160,6 @@
         "CISA/KEV",
         "High severity ×2"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy",
-      "link": "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html",
-      "summary": "Forty percent of security teams now use AI every day, and another 56% are testing it. Only 4% have no plans to adopt it, according to Prophet Security's State of AI in Security Operations 2026 survey of more than 250 CISOs, SOC leaders and practitioners. For the teams still testing, the next decision is whether their own SOC is ready. AI SOC readiness has two parts: whether a SOC has the",
-      "published": "Mon, 02 Nov 2026 17:00:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data",
-      "link": "https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html",
-      "summary": "Attackers posing as IT support on Microsoft Teams talked employees into giving them remote control of their PCs. They then used insecure Active Directory Certificate Services (AD CS) settings to obtain login certificates for privileged accounts, including one for a domain controller. Microsoft said in a report that it investigated two such intrusions, one of which resulted in company",
-      "published": "Mon, 02 Nov 2026 16:38:45 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts",
-      "link": "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html",
-      "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign specifically targeting Linux infrastructure associated with government entities and state-affiliated infrastructure. The activity, observed by Palo Alto Networks Unit 42 between October 2025 and April 2026, has been tracked under the moniker CL-UNK-1211, where \"CL\" refers to cluster and \"UNK\" stands for unknown",
-      "published": "Mon, 02 Nov 2026 16:19:59 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
-      "link": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
-      "summary": "Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim's stolen data by their monetization value. Like other typical stealer families, VOLTA is equipped to harvest passwords and cookies from Chromium-based web browsers; data from Outlook profiles and Slack workspaces;",
-      "published": "Mon, 02 Nov 2026 11:21:07 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -232,6 +243,17 @@
     },
     {
       "source": "Krebs on Security",
+      "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
+      "link": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
+      "summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and conducts advertising fraud. Experts involved in the takedown say the action is likely to sever the botnet's access to more than 10 million additional compromised systems, including other Internet of Things (IoT) products such as Android-based healthcare devices ",
+      "published": "Tue, 03 Nov 2026 02:24:31 +0000",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×3"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
       "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
       "link": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
       "summary": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Experts say there are working exploits for the flaws, and that these critical bugs are already being exploited in the wild.",
@@ -309,15 +331,6 @@
       ]
     },
     {
-      "source": "Krebs on Security",
-      "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
-      "link": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
-      "summary": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims.",
-      "published": "Fri, 25 Sep 2026 21:44:40 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
       "source": "Dark Reading",
       "title": "One Compromised Laptop, Billions Lost: The Binance Attack-Path Warning",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths",
@@ -393,6 +406,24 @@
     },
     {
       "source": "Security Week",
+      "title": "NATO’s Crossed Swords Exercise Brings AI Agents Into Cyber Operations Training",
+      "link": "https://www.securityweek.com/natos-crossed-swords-exercise-brings-ai-agents-into-cyber-operations-training/",
+      "summary": "The NATO CCDCOE exercise in Estonia introduces AI agents and OpenAI Daybreak into joint cyber and kinetic operations training. The post NATO’s Crossed Swords Exercise Brings AI Agents Into Cyber Operations Training appeared first on SecurityWeek .",
+      "published": "Tue, 03 Nov 2026 08:49:03 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Over 100 European Stores Hit as Supermarket Fridge Attacks Return",
+      "link": "https://www.securityweek.com/over-100-european-stores-hit-as-supermarket-fridge-attacks-resume/",
+      "summary": "Attackers again tampered with internet-exposed refrigeration controllers, this time at stores in Belgium, Sweden, Ireland and beyond. The post Over 100 European Stores Hit as Supermarket Fridge Attacks Return appeared first on SecurityWeek .",
+      "published": "Tue, 03 Nov 2026 07:43:24 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Cybersecurity M&A Roundup: 37 Deals Announced in October 2026",
       "link": "https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-october-2026/",
       "summary": "Significant cybersecurity deals were announced by Absolute Security, Aikido, Anthropic, Cohere, Hex-Rays, and Proofpoint. The post Cybersecurity M&A Roundup: 37 Deals Announced in October 2026 appeared first on SecurityWeek .",
@@ -413,9 +444,9 @@
     },
     {
       "source": "Security Week",
-      "title": "Revolve Data Breach Impacts at Least 180,000 People",
+      "title": "Revolve Data Breach Impacts at Least 200,000 People",
       "link": "https://www.securityweek.com/revolve-data-breach-impacts-at-least-180000-people/",
-      "summary": "Hackers accessed its online shopping platform and stole customers’ personal and payment card information. The post Revolve Data Breach Impacts at Least 180,000 People appeared first on SecurityWeek .",
+      "summary": "Hackers accessed its online shopping platform and stole customers’ personal and payment card information. The post Revolve Data Breach Impacts at Least 200,000 People appeared first on SecurityWeek .",
       "published": "Mon, 02 Nov 2026 13:35:21 +0000",
       "value_score": 34,
       "value_signals": [
@@ -450,24 +481,6 @@
       "value_signals": [
         "Breach/leak ×2"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Polymarket Returns $3.9 Million to Traders as DebugBear Cites DNS Hijack",
-      "link": "https://www.securityweek.com/polymarket-returns-3-9-million-to-traders-as-debugbear-cites-dns-hijack/",
-      "summary": "DebugBear says its DNS records were compromised via its domain registrar, and early findings show a single customer was targeted. The post Polymarket Returns $3.9 Million to Traders as DebugBear Cites DNS Hijack appeared first on SecurityWeek .",
-      "published": "Mon, 02 Nov 2026 09:33:15 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "FBI Flags Over 600 Addresses Tied to North Korea’s Binance Heist",
-      "link": "https://www.securityweek.com/fbi-flags-over-600-addresses-tied-to-north-koreas-binance-heist/",
-      "summary": "The FBI has officially pinned the $6 billion Binance hack on North Korea’s TraderTraitor as the attackers launder the stolen crypto. The post FBI Flags Over 600 Addresses Tied to North Korea’s Binance Heist appeared first on SecurityWeek .",
-      "published": "Mon, 02 Nov 2026 08:40:36 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

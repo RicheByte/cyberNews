@@ -371,7 +371,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2867,
+      "count": 2868,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2165,7 +2165,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 668,
+      "count": 669,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2309,7 +2309,8 @@
         "2026-10-22",
         "2026-10-24",
         "2026-10-29",
-        "2026-10-30"
+        "2026-10-30",
+        "2026-11-03"
       ]
     },
     "model agnostic abstractions": {
@@ -3432,7 +3433,7 @@
       ]
     },
     "recommended immediate actions": {
-      "count": 94,
+      "count": 95,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -12466,7 +12467,7 @@
       ]
     },
     "frequent attack vector": {
-      "count": 56,
+      "count": 57,
       "dates": [
         "2026-03-26",
         "2026-03-29",
@@ -22711,10 +22712,11 @@
       ]
     },
     "fake job interviews": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-06",
-        "2026-07-07"
+        "2026-07-07",
+        "2026-11-03"
       ]
     },
     "ai systems trusted": {
@@ -33319,7 +33321,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 112,
+      "count": 113,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -34221,13 +34223,14 @@
       ]
     },
     "amman jordan suspected": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-10-16",
         "2026-10-17",
         "2026-10-30",
         "2026-10-31",
-        "2026-11-01"
+        "2026-11-01",
+        "2026-11-03"
       ]
     },
     "tracks emerging forms": {
@@ -34561,7 +34564,7 @@
       ]
     },
     "chameleonic cryptocurrency platform": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-10-20",
         "2026-10-21",
@@ -34569,7 +34572,8 @@
         "2026-10-23",
         "2026-10-26",
         "2026-10-27",
-        "2026-10-28"
+        "2026-10-28",
+        "2026-11-03"
       ]
     },
     "backdoor called hookedge": {
@@ -35564,7 +35568,7 @@
       ]
     },
     "valid saml assertion": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-10-29",
         "2026-10-30",
@@ -35890,7 +35894,7 @@
       ]
     },
     "untested attack possibilities": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-03"
       ]
@@ -35906,20 +35910,69 @@
       "dates": [
         "2026-11-03"
       ]
+    },
+    "cpguard security tool": {
+      "count": 1,
+      "dates": [
+        "2026-11-03"
+      ]
+    },
+    "unnamed company suspected": {
+      "count": 1,
+      "dates": [
+        "2026-11-03"
+      ]
+    },
+    "cloud charges google": {
+      "count": 1,
+      "dates": [
+        "2026-11-03"
+      ]
+    },
+    "ai agents take": {
+      "count": 1,
+      "dates": [
+        "2026-11-03"
+      ]
+    },
+    "states including china": {
+      "count": 1,
+      "dates": [
+        "2026-11-03"
+      ]
+    },
+    "kinetic operations training": {
+      "count": 1,
+      "dates": [
+        "2026-11-03"
+      ]
+    },
+    "gartner s report": {
+      "count": 1,
+      "dates": [
+        "2026-11-03"
+      ]
+    },
+    "cyber operations training": {
+      "count": 1,
+      "dates": [
+        "2026-11-03"
+      ]
+    },
+    "cloud bugs google": {
+      "count": 1,
+      "dates": [
+        "2026-11-03"
+      ]
+    },
+    "2028 gartner predicts": {
+      "count": 1,
+      "dates": [
+        "2026-11-03"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-13 01:45",
-      "articles": 48,
-      "top_keywords": [
-        "anthropic's claude code",
-        "extortion group shinyhunters",
-        "canonical websites disrupted",
-        "varonis researchers explain",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-10-13 08:51",
       "articles": 48,
@@ -37007,6 +37060,17 @@
         "building ai agents",
         "1 12 8",
         "1 0 0"
+      ]
+    },
+    {
+      "timestamp": "2026-11-03 17:28",
+      "articles": 56,
+      "top_keywords": [
+        "recommended immediate actions",
+        "cpguard security tool",
+        "unnamed company suspected",
+        "cloud charges google",
+        "ai agents take"
       ]
     }
   ]

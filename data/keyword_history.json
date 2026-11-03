@@ -215,7 +215,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 829,
+      "count": 830,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -371,7 +371,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2868,
+      "count": 2869,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2165,7 +2165,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 669,
+      "count": 670,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -3433,7 +3433,7 @@
       ]
     },
     "recommended immediate actions": {
-      "count": 95,
+      "count": 96,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -22712,7 +22712,7 @@
       ]
     },
     "fake job interviews": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-06",
         "2026-07-07",
@@ -33269,7 +33269,7 @@
       ]
     },
     "extortion group shinyhunters": {
-      "count": 81,
+      "count": 82,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33321,7 +33321,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 113,
+      "count": 114,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33710,7 +33710,7 @@
       ]
     },
     "canadian cybersecurity firm": {
-      "count": 72,
+      "count": 73,
       "dates": [
         "2026-10-10",
         "2026-10-11",
@@ -34223,7 +34223,7 @@
       ]
     },
     "amman jordan suspected": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-10-16",
         "2026-10-17",
@@ -34564,7 +34564,7 @@
       ]
     },
     "chameleonic cryptocurrency platform": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-10-20",
         "2026-10-21",
@@ -35568,7 +35568,7 @@
       ]
     },
     "valid saml assertion": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-10-29",
         "2026-10-30",
@@ -35912,43 +35912,43 @@
       ]
     },
     "cpguard security tool": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-03"
       ]
     },
     "unnamed company suspected": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-03"
       ]
     },
     "cloud charges google": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-03"
       ]
     },
     "ai agents take": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-03"
       ]
     },
     "states including china": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-03"
       ]
     },
     "kinetic operations training": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-03"
       ]
     },
     "gartner s report": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-03"
       ]
@@ -35970,20 +35970,21 @@
       "dates": [
         "2026-11-03"
       ]
+    },
+    "fake job interview": {
+      "count": 1,
+      "dates": [
+        "2026-11-03"
+      ]
+    },
+    "hijacking enterprise access": {
+      "count": 1,
+      "dates": [
+        "2026-11-03"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-13 08:51",
-      "articles": 48,
-      "top_keywords": [
-        "anthropic's claude code",
-        "extortion group shinyhunters",
-        "cve 2026 85097",
-        "canonical websites disrupted",
-        "varonis researchers explain"
-      ]
-    },
     {
       "timestamp": "2026-10-13 17:17",
       "articles": 48,
@@ -37070,6 +37071,17 @@
         "cpguard security tool",
         "unnamed company suspected",
         "cloud charges google",
+        "ai agents take"
+      ]
+    },
+    {
+      "timestamp": "2026-11-03 22:47",
+      "articles": 56,
+      "top_keywords": [
+        "recommended immediate actions",
+        "cpguard security tool",
+        "cloud charges google",
+        "unnamed company suspected",
         "ai agents take"
       ]
     }

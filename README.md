@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-11-03 17:28 UTC |
+| 🕐 Last Updated | 2026-11-03 22:47 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`recommended immediate actions` • `cpguard security tool` • `unnamed company suspected` • `cloud charges google` • `ai agents take` • `valid saml assertion` • `twitter whistleblower complaint` • `states including china` • `sprawling phishing campaign` • `hacker handle rey`
+`recommended immediate actions` • `cpguard security tool` • `cloud charges google` • `unnamed company suspected` • `ai agents take` • `windows operating systems` • `valid saml assertion` • `twitter whistleblower complaint` • `states including china` • `sprawling phishing campaign`
 
 ## 📄 Reports
 

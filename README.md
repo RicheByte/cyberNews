@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-11-02 19:56 UTC |
+| 🕐 Last Updated | 2026-11-03 01:59 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`recommended immediate actions` • `1 0 0` • `1 12 8` • `valid saml assertion` • `twitter whistleblower complaint` • `russian cyber objectives` • `prolific data theft` • `people barely think` • `operation blackout went` • `hacker handle rey`
+`recommended immediate actions` • `1 0 0` • `1 12 8` • `valid saml assertion` • `twitter whistleblower complaint` • `prolific data theft` • `people barely think` • `operation blackout went` • `hacker handle rey` • `draining hot wallets`
 
 ## 📄 Reports
 

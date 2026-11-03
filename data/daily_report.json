@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02 19:56",
+  "last_updated": "2026-11-03 01:59",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -8,16 +8,16 @@
     "1 12 8",
     "valid saml assertion",
     "twitter whistleblower complaint",
-    "russian cyber objectives",
     "prolific data theft",
     "people barely think",
     "operation blackout went",
     "hacker handle rey",
     "draining hot wallets",
-    "devices immediately due",
     "account bypass authentication",
     "windows operating systems",
     "company s systems",
+    "untested attack possibilities",
+    "frequent attack vector",
     "authentication bypass vulnerability",
     "extortion group shinyhunters",
     "mobile carrier stores",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "recommended immediate actions",
-      "mentions": 92
+      "mentions": 93
     },
     {
       "keyword": "1 0 0",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "1 12 8",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "valid saml assertion",
-      "mentions": 17
+      "mentions": 18
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2865
-    },
-    {
-      "keyword": "russian cyber objectives",
-      "mentions": 14
+      "mentions": 2866
     },
     {
       "keyword": "prolific data theft",
-      "mentions": 56
+      "mentions": 57
     },
     {
       "keyword": "people barely think",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "operation blackout went",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "hacker handle rey",
-      "mentions": 110
+      "mentions": 111
+    },
+    {
+      "keyword": "draining hot wallets",
+      "mentions": 2
     }
   ],
   "articles": [
@@ -152,6 +152,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
+      "summary": "Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries. [...]",
+      "published": "Mon, 02 Nov 2026 16:40:14 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Fintech platform Sageworks taken offline after suspected cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/",
       "summary": "Financial technology company Abrigo has restored its Sageworks risk management application, except for borrower-facing capabilities, following an outage triggered by \"irregular activity\" in its environment. [...]",
@@ -219,18 +228,6 @@
         "Active exploitation",
         "RCE ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Synology warns of C3RB3R ransomware attacks targeting NAS devices",
-      "link": "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/",
-      "summary": "Taiwanese network-attached storage (NAS) appliance maker Synology warned customers to update their devices immediately due to a surge in C3RB3r ransomware attacks. [...]",
-      "published": "Mon, 02 Nov 2026 06:28:42 -0500",
-      "value_score": 54,
-      "value_signals": [
-        "Ransomware ×2",
-        "Patch/update"
       ]
     },
     {
@@ -322,6 +319,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "One Compromised Laptop, Billions Lost: The Binance Attack-Path Warning",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths",
+      "summary": "The record theft shows how weak system separation, inadequate controls, and untested attack possibilities can turn one breach into systemic loss.",
+      "published": "Mon, 02 Nov 2026 22:27:24 GMT",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Microsoft's AI Risk Report Misses This Key Detail",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-ai-cyber-risk-report-miss",
       "summary": "The latest \"Digital Defense Report\" identifies government agencies as prime targets for AI attacks but doesn't mention that they are broadly being targeted through Microsoft bugs.",
@@ -380,15 +388,6 @@
       "link": "https://www.darkreading.com/application-security/undead-software-projects-raise-security-risks",
       "summary": "A security firm patched a decade-old app to prevent the takeover of millions of machines, highlighting that abandoned domains remain a boon to attackers.",
       "published": "Fri, 30 Oct 2026 14:10:37 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "As Russia's Cyberwar Evolves, Belarus Steps Forward",
-      "link": "https://www.darkreading.com/physical-security/russia-cyber-war-belarus-steps-forward",
-      "summary": "The \"FrostyNeighbor\" advanced persistent threat (APT) launched a destructive attack in Ukraine and is raising concerns about deeper alignment with Russian cyber objectives.",
-      "published": "Fri, 30 Oct 2026 08:00:00 GMT",
       "value_score": 10,
       "value_signals": []
     },

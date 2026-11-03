@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-11-02 19:56 UTC  
+> **Last Updated:** 2026-11-03 01:59 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**recommended immediate actions** • **1 0 0** • **1 12 8** • **valid saml assertion** • **twitter whistleblower complaint** • **russian cyber objectives** • **prolific data theft** • **people barely think** • **operation blackout went** • **hacker handle rey** • **draining hot wallets** • **devices immediately due** • **account bypass authentication** • **windows operating systems** • **company s systems** • **authentication bypass vulnerability** • **extortion group shinyhunters** • **mobile carrier stores** • **canadian cybersecurity firm** • **wraparound improper handlin**
+**recommended immediate actions** • **1 0 0** • **1 12 8** • **valid saml assertion** • **twitter whistleblower complaint** • **prolific data theft** • **people barely think** • **operation blackout went** • **hacker handle rey** • **draining hot wallets** • **account bypass authentication** • **windows operating systems** • **company s systems** • **untested attack possibilities** • **frequent attack vector** • **authentication bypass vulnerability** • **extortion group shinyhunters** • **mobile carrier stores** • **canadian cybersecurity firm** • **wraparound improper handlin**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Chinese hackers use ARTEX AI in automated attacks against 200 orgs](https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/)
 - [Fintech platform Sageworks taken offline after suspected cyberattack](https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/)
 - [Google disrupts million-device XCPE Android malware botnet, bans TV box maker](https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/)
 - [BTCPay Server warns of hot wallet crypto thefts on outdated instances](https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/)
@@ -34,7 +35,6 @@
 - [Hackers disrupt refrigeration systems at European supermarkets](https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/)
 - [Microsoft fixes Smart App Control broken by October Windows update](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/)
 - [Over 1,000 GitLab servers vulnerable to ongoing RCE attacks](https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/)
-- [Synology warns of C3RB3R ransomware attacks targeting NAS devices](https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [One Compromised Laptop, Billions Lost: The Binance Attack-Path Warning](https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths)
 - [Microsoft's AI Risk Report Misses This Key Detail](https://www.darkreading.com/cyberattacks-data-breaches/microsoft-ai-cyber-risk-report-miss)
 - [PapRAT Cyber-Espionage Campaign Leaves a 'Bitter' Taste in South Asia](https://www.darkreading.com/cyberattacks-data-breaches/paprat-cyberespionage-campaign-bitter-south-asia)
 - [Investors Dish on New Startups &amp; What They'd Back Next](https://www.darkreading.com/cybersecurity-operations/investors-dish-new-startsup-what-back-next)
@@ -56,7 +57,6 @@
 - [Behind the Scenes of How Operation Blackout Went Down](https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down)
 - [L’Italia è afflitta da vulnerabilità informatiche, senza una causa chiara](https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy-italian)
 - [Undead Software Projects Continue to Raise Security Risks](https://www.darkreading.com/application-security/undead-software-projects-raise-security-risks)
-- [As Russia's Cyberwar Evolves, Belarus Steps Forward](https://www.darkreading.com/physical-security/russia-cyber-war-belarus-steps-forward)
 
 ### Security Week
 

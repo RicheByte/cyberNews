@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-11-03 22:47 UTC  
+> **Last Updated:** 2026-11-04 04:30 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**recommended immediate actions** • **cpguard security tool** • **cloud charges google** • **unnamed company suspected** • **ai agents take** • **windows operating systems** • **valid saml assertion** • **twitter whistleblower complaint** • **states including china** • **sprawling phishing campaign** • **hacker handle rey** • **chameleonic cryptocurrency platform** • **canadian cybersecurity firm** • **kinetic operations training** • **gartner s report** • **fake job interviews** • **fake job interview** • **amman jordan suspected** • **extortion group shinyhunters** • **hijacking enterprise access**
+**recommended immediate actions** • **cpguard security tool** • **cloud charges google** • **unnamed company suspected** • **ai agents take** • **valid saml assertion** • **twitter whistleblower complaint** • **states including china** • **sprawling phishing campaign** • **hacker handle rey** • **chameleonic cryptocurrency platform** • **canadian cybersecurity firm** • **kinetic operations training** • **gartner s report** • **fake job interviews** • **fake job interview** • **amman jordan suspected** • **extortion group shinyhunters** • **hijacking enterprise access** • **cyber operations training**
 
 ---
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach](https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach)
 - [Fresh European Fridge Attacks Put Cold-Chain Security in Focus](https://www.darkreading.com/ics-ot-security/fresh-european-fridge-attacks-cold-chain-security)
 - [Germany Busts 'Crime-as-a-Service' Investment Fraud Outfit](https://www.darkreading.com/cybersecurity-operations/germany-crime-service-investment-fraud)
 - [9 Cyber Awareness Tips That Actually Match Today's Maze of Threats](https://www.darkreading.com/cyber-risk/9-cyber-awareness-tips-todays-maze-threats)
@@ -56,7 +57,6 @@
 - [3AM Affiliate Embraces AI-Like Loops in European School Attack](https://www.darkreading.com/data-privacy/3am-affiliate-ai-loops-european-school-attack)
 - [One Compromised Laptop, Billions Lost: The Binance Attack-Path Warning](https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths)
 - [Microsoft's AI Risk Report Misses This Key Detail](https://www.darkreading.com/cyberattacks-data-breaches/microsoft-ai-cyber-risk-report-miss)
-- [PapRAT Cyber-Espionage Campaign Leaves a 'Bitter' Taste in South Asia](https://www.darkreading.com/cyberattacks-data-breaches/paprat-cyberespionage-campaign-bitter-south-asia)
 
 ### Security Week
 

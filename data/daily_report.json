@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03 22:47",
+  "last_updated": "2026-11-04 04:30",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -8,7 +8,6 @@
     "cloud charges google",
     "unnamed company suspected",
     "ai agents take",
-    "windows operating systems",
     "valid saml assertion",
     "twitter whistleblower complaint",
     "states including china",
@@ -22,48 +21,49 @@
     "fake job interview",
     "amman jordan suspected",
     "extortion group shinyhunters",
-    "hijacking enterprise access"
+    "hijacking enterprise access",
+    "cyber operations training"
   ],
   "trending": [
     {
       "keyword": "recommended immediate actions",
-      "mentions": 96
+      "mentions": 97
     },
     {
       "keyword": "cpguard security tool",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "cloud charges google",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "unnamed company suspected",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "ai agents take",
-      "mentions": 2
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 830
+      "mentions": 3
     },
     {
       "keyword": "valid saml assertion",
-      "mentions": 21
+      "mentions": 22
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2869
+      "mentions": 2870
     },
     {
       "keyword": "states including china",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 670
+      "mentions": 671
+    },
+    {
+      "keyword": "hacker handle rey",
+      "mentions": 115
     }
   ],
   "articles": [
@@ -331,6 +331,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach",
+      "summary": "An unknown operator appears to have exfiltrated SQL Server backups from the Philippine Overseas Employment Administration in under a half hour.",
+      "published": "Wed, 04 Nov 2026 02:00:00 GMT",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Fresh European Fridge Attacks Put Cold-Chain Security in Focus",
       "link": "https://www.darkreading.com/ics-ot-security/fresh-european-fridge-attacks-cold-chain-security",
       "summary": "Beyond food storage, the same combination of Internet connectivity, remote access, and inadequate security practices can put temperature-controlled infrastructure across other critical sectors at risk.",
@@ -395,15 +406,6 @@
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-ai-cyber-risk-report-miss",
       "summary": "The latest \"Digital Defense Report\" identifies government agencies as prime targets for AI attacks but doesn't mention that they are broadly being targeted through Microsoft bugs.",
       "published": "Mon, 02 Nov 2026 15:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "PapRAT Cyber-Espionage Campaign Leaves a 'Bitter' Taste in South Asia",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/paprat-cyberespionage-campaign-bitter-south-asia",
-      "summary": "Organizations in the region face growing cyberattacks from the known India-linked threat group, which leverages legitimate Windows functionality in three distinct attack chains.",
-      "published": "Mon, 02 Nov 2026 14:00:00 GMT",
       "value_score": 10,
       "value_signals": []
     },

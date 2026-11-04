@@ -372,7 +372,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2871,
+      "count": 2872,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2167,7 +2167,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 672,
+      "count": 673,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -32489,9 +32489,10 @@
       ]
     },
     "shinyhunters hacking group": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-09-29"
+        "2026-09-29",
+        "2026-11-04"
       ]
     },
     "stealing mobile call": {
@@ -33276,7 +33277,7 @@
       ]
     },
     "extortion group shinyhunters": {
-      "count": 83,
+      "count": 84,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33329,7 +33330,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 116,
+      "count": 117,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -34666,12 +34667,13 @@
       ]
     },
     "ru money laundering": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-10-21",
         "2026-10-25",
         "2026-10-28",
-        "2026-10-29"
+        "2026-10-29",
+        "2026-11-04"
       ]
     },
     "memory bugs account": {
@@ -36008,7 +36010,7 @@
       ]
     },
     "chrome 157 rolls": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-04"
       ]
@@ -36020,7 +36022,7 @@
       ]
     },
     "surveillance campaign designed": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-04"
       ]
@@ -36044,13 +36046,13 @@
       ]
     },
     "identity verification gap": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-04"
       ]
     },
     "gap looks like": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-04"
       ]
@@ -36062,6 +36064,60 @@
       ]
     },
     "unknown operator appears": {
+      "count": 2,
+      "dates": [
+        "2026-11-04"
+      ]
+    },
+    "fake login pages": {
+      "count": 1,
+      "dates": [
+        "2026-11-04"
+      ]
+    },
+    "webmail sessions dreamhost": {
+      "count": 1,
+      "dates": [
+        "2026-11-04"
+      ]
+    },
+    "lucrative business model": {
+      "count": 1,
+      "dates": [
+        "2026-11-04"
+      ]
+    },
+    "websites serving 404": {
+      "count": 1,
+      "dates": [
+        "2026-11-04"
+      ]
+    },
+    "threats practical guidance": {
+      "count": 1,
+      "dates": [
+        "2026-11-04"
+      ]
+    },
+    "sogou input method": {
+      "count": 1,
+      "dates": [
+        "2026-11-04"
+      ]
+    },
+    "remove passkeys following": {
+      "count": 1,
+      "dates": [
+        "2026-11-04"
+      ]
+    },
+    "material security examines": {
+      "count": 1,
+      "dates": [
+        "2026-11-04"
+      ]
+    },
+    "mass email automation": {
       "count": 1,
       "dates": [
         "2026-11-04"
@@ -36069,17 +36125,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-14 03:11",
-      "articles": 48,
-      "top_keywords": [
-        "xworm rat evolves",
-        "executive conference room",
-        "root without logging",
-        "canadian cybersecurity firm",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-10-14 09:13",
       "articles": 48,
@@ -37167,6 +37212,17 @@
         "authentication bypass vulnerability",
         "valid saml assertion",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-11-04 20:38",
+      "articles": 48,
+      "top_keywords": [
+        "chrome 157 rolls",
+        "fake login pages",
+        "webmail sessions dreamhost",
+        "twitter whistleblower complaint",
+        "surveillance campaign designed"
       ]
     }
   ]

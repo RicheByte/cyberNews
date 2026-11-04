@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-11-04 13:39 UTC |
-| 📰 Articles Analyzed | 56 |
+| 🕐 Last Updated | 2026-11-04 20:38 UTC |
+| 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`recommended immediate actions` • `chrome 157 rolls` • `authentication bypass vulnerability` • `valid saml assertion` • `twitter whistleblower complaint` • `suspicious activity linked` • `surveillance campaign designed` • `sprawling phishing campaign` • `november security bulletin` • `months long campaign`
+`chrome 157 rolls` • `fake login pages` • `webmail sessions dreamhost` • `twitter whistleblower complaint` • `surveillance campaign designed` • `sprawling phishing campaign` • `lucrative business model` • `hacker handle rey` • `identity verification gap` • `gap looks like`
 
 ## 📄 Reports
 

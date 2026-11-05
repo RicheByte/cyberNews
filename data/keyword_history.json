@@ -372,7 +372,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2874,
+      "count": 2875,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2168,7 +2168,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 675,
+      "count": 676,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -23082,9 +23082,10 @@
       ]
     },
     "attackers gained access": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-07-09"
+        "2026-07-09",
+        "2026-11-05"
       ]
     },
     "12 million impacted": {
@@ -32021,7 +32022,7 @@
       ]
     },
     "1 2 million": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-24",
         "2026-11-05"
@@ -33666,7 +33667,7 @@
       ]
     },
     "prolific data theft": {
-      "count": 58,
+      "count": 59,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -33689,7 +33690,8 @@
         "2026-10-31",
         "2026-11-01",
         "2026-11-02",
-        "2026-11-03"
+        "2026-11-03",
+        "2026-11-05"
       ]
     },
     "suspected shinyhunters operative": {
@@ -36057,7 +36059,7 @@
       ]
     },
     "identity verification gap": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-11-04",
         "2026-11-05"
@@ -36091,7 +36093,7 @@
       ]
     },
     "webmail sessions dreamhost": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-04",
         "2026-11-05"
@@ -36104,7 +36106,7 @@
       ]
     },
     "websites serving 404": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-04",
         "2026-11-05"
@@ -36157,7 +36159,7 @@
       ]
     },
     "10 gs1900 models": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-05"
       ]
@@ -36179,20 +36181,75 @@
       "dates": [
         "2026-11-05"
       ]
+    },
+    "system whether attackers": {
+      "count": 1,
+      "dates": [
+        "2026-11-05"
+      ]
+    },
+    "web server behind": {
+      "count": 1,
+      "dates": [
+        "2026-11-05"
+      ]
+    },
+    "harmful content starting": {
+      "count": 1,
+      "dates": [
+        "2026-11-05"
+      ]
+    },
+    "harmful content apple": {
+      "count": 1,
+      "dates": [
+        "2026-11-05"
+      ]
+    },
+    "fraud network spanning": {
+      "count": 1,
+      "dates": [
+        "2026-11-05"
+      ]
+    },
+    "school s network": {
+      "count": 1,
+      "dates": [
+        "2026-11-05"
+      ]
+    },
+    "internal business system": {
+      "count": 1,
+      "dates": [
+        "2026-11-05"
+      ]
+    },
+    "visionos 27 3": {
+      "count": 1,
+      "dates": [
+        "2026-11-05"
+      ]
+    },
+    "ungated resource explains": {
+      "count": 1,
+      "dates": [
+        "2026-11-05"
+      ]
+    },
+    "specially crafted app": {
+      "count": 1,
+      "dates": [
+        "2026-11-05"
+      ]
+    },
+    "social engineering risks": {
+      "count": 1,
+      "dates": [
+        "2026-11-05"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-14 19:55",
-      "articles": 48,
-      "top_keywords": [
-        "law enforcement agencies",
-        "workforce ai protection",
-        "twitter whistleblower complaint",
-        "today issued updates",
-        "three bugs fixed"
-      ]
-    },
     {
       "timestamp": "2026-10-14 22:57",
       "articles": 48,
@@ -37280,6 +37337,17 @@
         "fake login pages",
         "10 gs1900 models",
         "webmail sessions dreamhost"
+      ]
+    },
+    {
+      "timestamp": "2026-11-05 17:48",
+      "articles": 48,
+      "top_keywords": [
+        "system whether attackers",
+        "web server behind",
+        "sprawling phishing campaign",
+        "1 2 million",
+        "twitter whistleblower complaint"
       ]
     }
   ]

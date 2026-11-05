@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-11-05 08:59 UTC |
+| 🕐 Last Updated | 2026-11-05 17:48 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`chrome 157 rolls` • `1 2 million` • `fake login pages` • `10 gs1900 models` • `webmail sessions dreamhost` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `identity verification gap` • `exploit lets anyone` • `cryptocurrency wallet data`
+`system whether attackers` • `web server behind` • `sprawling phishing campaign` • `1 2 million` • `twitter whistleblower complaint` • `harmful content starting` • `harmful content apple` • `10 gs1900 models` • `fraud network spanning` • `attackers gained access`
 
 ## 📄 Reports
 

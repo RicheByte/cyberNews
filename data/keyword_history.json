@@ -372,7 +372,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2873,
+      "count": 2874,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2168,7 +2168,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 674,
+      "count": 675,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -3036,7 +3036,7 @@
       ]
     },
     "write arbitrary files": {
-      "count": 60,
+      "count": 61,
       "dates": [
         "2026-01-06",
         "2026-01-07",
@@ -3048,7 +3048,8 @@
         "2026-05-19",
         "2026-05-20",
         "2026-10-02",
-        "2026-10-03"
+        "2026-10-03",
+        "2026-11-05"
       ]
     },
     "supply chain risks": {
@@ -32020,9 +32021,10 @@
       ]
     },
     "1 2 million": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-09-24"
+        "2026-09-24",
+        "2026-11-05"
       ]
     },
     "stronger evidence requirements": {
@@ -34672,7 +34674,7 @@
       ]
     },
     "ru money laundering": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-10-21",
         "2026-10-25",
@@ -35191,12 +35193,13 @@
       ]
     },
     "seize full control": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-10-24",
         "2026-10-25",
         "2026-10-28",
-        "2026-10-29"
+        "2026-10-29",
+        "2026-11-05"
       ]
     },
     "customer's downloads folder": {
@@ -36016,7 +36019,7 @@
       ]
     },
     "chrome 157 rolls": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-04",
         "2026-11-05"
@@ -36054,7 +36057,7 @@
       ]
     },
     "identity verification gap": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-04",
         "2026-11-05"
@@ -36074,21 +36077,21 @@
       ]
     },
     "unknown operator appears": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-04",
         "2026-11-05"
       ]
     },
     "fake login pages": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-04",
         "2026-11-05"
       ]
     },
     "webmail sessions dreamhost": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-04",
         "2026-11-05"
@@ -36101,14 +36104,14 @@
       ]
     },
     "websites serving 404": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-04",
         "2026-11-05"
       ]
     },
     "threats practical guidance": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-04",
         "2026-11-05"
@@ -36122,14 +36125,14 @@
       ]
     },
     "remove passkeys following": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-04",
         "2026-11-05"
       ]
     },
     "material security examines": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-04",
         "2026-11-05"
@@ -36142,7 +36145,7 @@
       ]
     },
     "steal configuration files": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-05"
       ]
@@ -36152,20 +36155,33 @@
       "dates": [
         "2026-11-05"
       ]
+    },
+    "10 gs1900 models": {
+      "count": 1,
+      "dates": [
+        "2026-11-05"
+      ]
+    },
+    "exploit lets anyone": {
+      "count": 1,
+      "dates": [
+        "2026-11-05"
+      ]
+    },
+    "cryptocurrency wallet data": {
+      "count": 1,
+      "dates": [
+        "2026-11-05"
+      ]
+    },
+    "inadequate security practices": {
+      "count": 1,
+      "dates": [
+        "2026-11-05"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-14 14:49",
-      "articles": 48,
-      "top_keywords": [
-        "law enforcement agencies",
-        "workforce ai protection",
-        "ai agent found",
-        "today issued updates",
-        "three bugs fixed"
-      ]
-    },
     {
       "timestamp": "2026-10-14 19:55",
       "articles": 48,
@@ -37253,6 +37269,17 @@
         "webmail sessions dreamhost",
         "twitter whistleblower complaint",
         "surveillance campaign designed"
+      ]
+    },
+    {
+      "timestamp": "2026-11-05 08:59",
+      "articles": 48,
+      "top_keywords": [
+        "chrome 157 rolls",
+        "1 2 million",
+        "fake login pages",
+        "10 gs1900 models",
+        "webmail sessions dreamhost"
       ]
     }
   ]

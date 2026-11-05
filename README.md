@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-11-04 20:38 UTC |
+| 🕐 Last Updated | 2026-11-05 01:56 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`chrome 157 rolls` • `fake login pages` • `webmail sessions dreamhost` • `twitter whistleblower complaint` • `surveillance campaign designed` • `sprawling phishing campaign` • `lucrative business model` • `hacker handle rey` • `identity verification gap` • `gap looks like`
+`chrome 157 rolls` • `fake login pages` • `webmail sessions dreamhost` • `twitter whistleblower complaint` • `surveillance campaign designed` • `sprawling phishing campaign` • `hacker handle rey` • `identity verification gap` • `gap looks like` • `extortion group shinyhunters`
 
 ## 📄 Reports
 

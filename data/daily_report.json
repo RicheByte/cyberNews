@@ -1,72 +1,96 @@
 {
-  "last_updated": "2026-11-05 17:48",
+  "last_updated": "2026-11-05 23:09",
   "sources_count": 8,
-  "articles_count": 48,
+  "articles_count": 56,
   "keywords": [
     "system whether attackers",
-    "web server behind",
-    "sprawling phishing campaign",
     "1 2 million",
+    "sprawling phishing campaign",
     "twitter whistleblower complaint",
     "harmful content starting",
     "harmful content apple",
-    "10 gs1900 models",
-    "fraud network spanning",
-    "attackers gained access",
-    "identity verification gap",
+    "chameleonic cryptocurrency platform",
+    "alpine linux attackers",
+    "web server behind",
+    "post quantum questions",
+    "google account credentials",
     "prolific data theft",
-    "school s network",
     "internal business system",
-    "websites serving 404",
-    "webmail sessions dreamhost",
     "visionos 27 3",
     "ungated resource explains",
     "specially crafted app",
-    "social engineering risks"
+    "social engineering risks",
+    "simple file copy",
+    "seize full control",
+    "securitydatapipeline com launches"
   ],
   "trending": [
     {
       "keyword": "system whether attackers",
+      "mentions": 2
+    },
+    {
+      "keyword": "1 2 million",
+      "mentions": 4
+    },
+    {
+      "keyword": "sprawling phishing campaign",
+      "mentions": 677
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2876
+    },
+    {
+      "keyword": "harmful content starting",
+      "mentions": 2
+    },
+    {
+      "keyword": "harmful content apple",
+      "mentions": 2
+    },
+    {
+      "keyword": "chameleonic cryptocurrency platform",
+      "mentions": 17
+    },
+    {
+      "keyword": "alpine linux attackers",
       "mentions": 1
     },
     {
       "keyword": "web server behind",
-      "mentions": 1
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 676
-    },
-    {
-      "keyword": "1 2 million",
-      "mentions": 3
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2875
-    },
-    {
-      "keyword": "harmful content starting",
-      "mentions": 1
-    },
-    {
-      "keyword": "harmful content apple",
-      "mentions": 1
-    },
-    {
-      "keyword": "10 gs1900 models",
       "mentions": 2
     },
     {
-      "keyword": "fraud network spanning",
+      "keyword": "post quantum questions",
       "mentions": 1
-    },
-    {
-      "keyword": "attackers gained access",
-      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
+      "link": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
+      "summary": "Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package. They need network access to the server, an account name, and a password between 257 and 1,024 bytes long. OpenSSH, which rates the flaw critical, released version 10.6p2 today to block it. Alpine has published fixed packages for every",
+      "published": "Thu, 05 Nov 2026 22:12:46 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "Patch/update ×2",
+        "High severity"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
+      "link": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
+      "summary": "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT. Lockdown Mode was introduced by the artificial intelligence (AI) company in June 2026 as an optional setting to minimize data exfiltration risks arising from prompt injections. \"The flaw could enable silent chat data theft, phishing,",
+      "published": "Thu, 05 Nov 2026 22:12:32 +0530",
+      "value_score": 24,
+      "value_signals": [
+        "Phishing",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
@@ -133,31 +157,33 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
-      "link": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
-      "summary": "Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found. The exploit lets anyone who can reach a switch's web management interface run commands on it without logging in. Zyxel has released new firmware for 10 GS1900 models that closes the hole. The earlier fix is the 2.90",
-      "published": "Thu, 05 Nov 2026 12:36:33 +0530",
-      "value_score": 82,
+      "source": "BleepingComputer",
+      "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
+      "summary": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and authentication sessions. [...]",
+      "published": "Thu, 05 Nov 2026 16:30:30 -0500",
+      "value_score": 26,
       "value_signals": [
-        "Zero-day",
-        "Active exploitation",
-        "Patch/update ×3",
-        "Exploit wording"
+        "Phishing ×2"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability in question is CVE-2024-27834 (CVSS score: 5.5), a case of improper authentication that could allow an attacker with",
-      "published": "Thu, 05 Nov 2026 10:47:04 +0530",
-      "value_score": 74,
-      "value_signals": [
-        "CVE mentioned",
-        "CISA/KEV ×4",
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
+      "link": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
+      "summary": "Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed secrets that remain valid. [...]",
+      "published": "Thu, 05 Nov 2026 15:15:08 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
+      "link": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
+      "summary": "OpenAI has disclosed another AI alignment incident where GPT-6 Astra was found to sometimes quietly withhold help on safety research. [...]",
+      "published": "Thu, 05 Nov 2026 14:24:26 -0500",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -207,38 +233,6 @@
       "published": "Thu, 05 Nov 2026 04:18:29 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Vercel rolls out new protection against stolen session cookie attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
-      "summary": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
-      "published": "Wed, 04 Nov 2026 16:31:18 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
-      "link": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
-      "summary": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]",
-      "published": "Wed, 04 Nov 2026 15:58:19 -0500",
-      "value_score": 66,
-      "value_signals": [
-        "Zero-day ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
-      "link": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
-      "summary": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]",
-      "published": "Wed, 04 Nov 2026 14:05:19 -0500",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -329,6 +323,35 @@
     },
     {
       "source": "Dark Reading",
+      "title": "US Government Email Systems Open to Abuse Thanks to Typos",
+      "link": "https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos",
+      "summary": "Erroneous or outdated DNS records can give attackers surprising powers over organizations' email systems.",
+      "published": "Thu, 05 Nov 2026 21:35:05 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "What We Missed: Knicks Phishing Test Goes Out of Bounds",
+      "link": "https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds",
+      "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from an ill-conceived phishing simulation to a hacktivist attack on a US government agency.",
+      "published": "Thu, 05 Nov 2026 21:00:47 GMT",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "APT29's Watering Holes Target Thousands of Mobile Users",
+      "link": "https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users",
+      "summary": "After compromising websites, the Russian state-sponsored threat group is fingerprinting victims, then harvesting information from the interesting ones.",
+      "published": "Thu, 05 Nov 2026 20:05:39 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "SecurityDataPipeline.com Launches as a New Educational Resource for the AI Era",
       "link": "https://www.darkreading.com/cybersecurity-operations/securitydatapipeline-com-launches-as-a-new-educational-resource-for-the-ai-era",
       "summary": "The ungated resource explains how security data pipelines reduce SIEM ingestion costs, preserve detection coverage, and prepare the data layer for AI-driven security operations.",
@@ -378,37 +401,6 @@
       "value_signals": [
         "Breach/leak"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Phishing-Resistant Isn't Enough; Yubico Takes Aim at Identity-Verification Gap",
-      "link": "https://www.darkreading.com/identity-access-management-security/beyond-phishing-resistant-yubico-identity-verification-gap",
-      "summary": "The new YubiID service bridges identity verification with credential enrollment and recovery across existing identity platforms, closing a phishing-resistant authentication gap. Plus: post-quantum YubiKey beta.",
-      "published": "Wed, 04 Nov 2026 01:05:40 GMT",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Fresh European Fridge Attacks Put Cold-Chain Security in Focus",
-      "link": "https://www.darkreading.com/ics-ot-security/fresh-european-fridge-attacks-cold-chain-security",
-      "summary": "Beyond food storage, the same combination of Internet connectivity, remote access, and inadequate security practices can put temperature-controlled infrastructure across other critical sectors at risk.",
-      "published": "Tue, 03 Nov 2026 22:16:49 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Germany Busts 'Crime-as-a-Service' Investment Fraud Outfit",
-      "link": "https://www.darkreading.com/cybersecurity-operations/germany-crime-service-investment-fraud",
-      "summary": "Authorities seized more than 100 servers and arrested seven as part of a crackdown on a fraud network spanning more than 50 countries.",
-      "published": "Tue, 03 Nov 2026 21:57:12 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -578,6 +570,115 @@
       "published": "Mon, 22 Aug 2022 13:59:06 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Post-Quantum Questions to Ask Your Vendors",
+      "link": "https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors",
+      "summary": "CISA, the Australian Signals Directorate’s Australian Cyber Security Centre (ASD’s ACSC) and the National Security Agency (NSA) released joint guidance and an accompanying quick-reference list to help organizations assess vendor readiness for transitioning to post-quantum cryptography (PQC). As quantum computing advances, widely used public-key cryptography will become vulnerable to compromise from cryptographically relevant quantum computers (CRQCs). To protect their systems and data, organizat",
+      "published": "Thu, 05 Nov 26 12:00:00 +0000",
+      "value_score": 55,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CISA/KEV"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
+      "link": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
+      "summary": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter referred to as “the authoring organizations”—are aware of malicious cyber activity targeting industrial refrigeration and cold chain monitoring systems globally. Organizations in the Healthcare and Public Health , Chemical , Food and Agriculture , and Transportation",
+      "published": "Thu, 05 Nov 26 12:00:00 +0000",
+      "value_score": 55,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CISA/KEV"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/11/04/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2024-27834 Apple Multiple Products Improper Authentication Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civ",
+      "published": "Wed, 04 Nov 26 12:00:00 +0000",
+      "value_score": 99,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "CISA/KEV ×4",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/11/03/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-119977 WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requiremen",
+      "published": "Tue, 03 Nov 26 12:00:00 +0000",
+      "value_score": 99,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "CISA/KEV ×4",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Subnet Solutions PowerSYSTEM Center",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-307-01",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to execute unauthorized SQL commands and gain access to unauthorized resources. The following versions of Subnet Solutions PowerSYSTEM Center are affected: PowerSYSTEM Center 2020 <=5.29.x (CVE-2026-63017) PowerSYSTEM Center 2024 >=6.0.x|<=6.2.x (CVE-2026-63017, CVE-2026-63774) PowerSYSTEM Center 2026 >=7.0.x|<=7.1.x (CVE-2026-63017, CVE-2026-63774) CVSS Vendor Equipment v3 9 Subnet Solutions PowerSYSTEM C",
+      "published": "Tue, 03 Nov 26 12:00:00 +0000",
+      "value_score": 89,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×5",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/10/30/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-111357 Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability CVE-2026-118527 Ivanti Connect Secure Generation of Predictable Numbers or Identifiers Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Direc",
+      "published": "Fri, 30 Oct 26 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×2",
+        "CISA/KEV ×5",
+        "High severity",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Hitachi Energy CoreTec Product",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-03",
+      "summary": "View CSAF Summary Hitachi Energy is aware of OS command injection and Dirty Frag vulnerabilities that affect CoreTec product versions listed in this document. Successful exploitation of these vulnerabilities could result in impact on confidentiality, integrity and availability of the product. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. The following versions of Hitachi Energy CoreTec Product are affected: CoreTec5 vers:CoreTec5/<=3.4.0, 5.0",
+      "published": "Thu, 29 Oct 26 12:00:00 +0000",
+      "value_score": 41,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/10/29/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-97229 GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound vulnerability CVE-2026-76418 Cisco Secure Firewall ASA Software and Cisco Secure FTD Software Unchecked Return Value to NULL Pointer Dereference Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant ris",
+      "published": "Thu, 29 Oct 26 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×2",
+        "CISA/KEV ×5",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
     }
   ],
   "sources": [

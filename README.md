@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-11-05 17:48 UTC |
-| 📰 Articles Analyzed | 48 |
+| 🕐 Last Updated | 2026-11-05 23:09 UTC |
+| 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`system whether attackers` • `web server behind` • `sprawling phishing campaign` • `1 2 million` • `twitter whistleblower complaint` • `harmful content starting` • `harmful content apple` • `10 gs1900 models` • `fraud network spanning` • `attackers gained access`
+`system whether attackers` • `1 2 million` • `sprawling phishing campaign` • `twitter whistleblower complaint` • `harmful content starting` • `harmful content apple` • `chameleonic cryptocurrency platform` • `alpine linux attackers` • `web server behind` • `post quantum questions`
 
 ## 📄 Reports
 

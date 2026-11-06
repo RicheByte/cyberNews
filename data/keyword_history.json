@@ -372,7 +372,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2878,
+      "count": 2879,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2169,7 +2169,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 679,
+      "count": 680,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -3442,7 +3442,7 @@
       ]
     },
     "recommended immediate actions": {
-      "count": 98,
+      "count": 99,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -3474,7 +3474,8 @@
         "2026-11-01",
         "2026-11-02",
         "2026-11-03",
-        "2026-11-04"
+        "2026-11-04",
+        "2026-11-06"
       ]
     },
     "next wave hits": {
@@ -4216,7 +4217,7 @@
       ]
     },
     "poses significant risks": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2026-01-14",
         "2026-03-13",
@@ -4225,16 +4226,18 @@
         "2026-03-16",
         "2026-03-17",
         "2026-05-25",
-        "2026-05-26"
+        "2026-05-26",
+        "2026-11-06"
       ]
     },
     "pose significant risks": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-01-14",
         "2026-02-09",
         "2026-02-19",
-        "2026-02-20"
+        "2026-02-20",
+        "2026-11-06"
       ]
     },
     "dire critical rating": {
@@ -33340,7 +33343,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 119,
+      "count": 120,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -34684,14 +34687,15 @@
       ]
     },
     "ru money laundering": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-10-21",
         "2026-10-25",
         "2026-10-28",
         "2026-10-29",
         "2026-11-04",
-        "2026-11-05"
+        "2026-11-05",
+        "2026-11-06"
       ]
     },
     "memory bugs account": {
@@ -35203,7 +35207,7 @@
       ]
     },
     "seize full control": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-10-24",
         "2026-10-25",
@@ -36245,7 +36249,7 @@
       ]
     },
     "ungated resource explains": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-11-05",
         "2026-11-06"
@@ -36272,7 +36276,7 @@
       ]
     },
     "post quantum questions": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-05",
         "2026-11-06"
@@ -36293,7 +36297,7 @@
       ]
     },
     "securitydatapipeline com launches": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-05",
         "2026-11-06"
@@ -36318,13 +36322,13 @@
       ]
     },
     "openssh rushes patches": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-06"
       ]
     },
     "harden refrigeration controllers": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-06"
       ]
@@ -36348,7 +36352,7 @@
       ]
     },
     "person's computer researchers": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-06"
       ]
@@ -36360,6 +36364,36 @@
       ]
     },
     "sshole authentication bypass": {
+      "count": 2,
+      "dates": [
+        "2026-11-06"
+      ]
+    },
+    "qnap app center": {
+      "count": 1,
+      "dates": [
+        "2026-11-06"
+      ]
+    },
+    "outdated dns records": {
+      "count": 1,
+      "dates": [
+        "2026-11-06"
+      ]
+    },
+    "things iot products": {
+      "count": 1,
+      "dates": [
+        "2026-11-06"
+      ]
+    },
+    "step change improvement": {
+      "count": 1,
+      "dates": [
+        "2026-11-06"
+      ]
+    },
+    "requests never appear": {
       "count": 1,
       "dates": [
         "2026-11-06"
@@ -36367,17 +36401,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-15 14:36",
-      "articles": 48,
-      "top_keywords": [
-        "canadian cybersecurity firm",
-        "remote code execution",
-        "30 000 repositories",
-        "twitter whistleblower complaint",
-        "online messaging groups"
-      ]
-    },
     {
       "timestamp": "2026-10-15 19:38",
       "articles": 48,
@@ -37465,6 +37488,17 @@
         "alpine linux attackers",
         "openssh rushes patches",
         "harden refrigeration controllers"
+      ]
+    },
+    {
+      "timestamp": "2026-11-06 20:11",
+      "articles": 56,
+      "top_keywords": [
+        "harden refrigeration controllers",
+        "twitter whistleblower complaint",
+        "sshole authentication bypass",
+        "sprawling phishing campaign",
+        "qnap app center"
       ]
     }
   ]

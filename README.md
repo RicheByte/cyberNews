@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-11-06 13:37 UTC |
+| 🕐 Last Updated | 2026-11-06 20:11 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`openai model wrote` • `post quantum questions` • `alpine linux attackers` • `openssh rushes patches` • `harden refrigeration controllers` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `published fixed packages` • `hacker handle rey` • `google account credentials`
+`harden refrigeration controllers` • `twitter whistleblower complaint` • `sshole authentication bypass` • `sprawling phishing campaign` • `qnap app center` • `post quantum questions` • `outdated dns records` • `openssh rushes patches` • `hacker handle rey` • `person's computer researchers`
 
 ## 📄 Reports
 

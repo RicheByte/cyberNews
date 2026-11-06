@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05 23:09",
+  "last_updated": "2026-11-06 04:45",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -11,59 +11,59 @@
     "harmful content apple",
     "chameleonic cryptocurrency platform",
     "alpine linux attackers",
-    "web server behind",
     "post quantum questions",
+    "web server behind",
     "google account credentials",
     "prolific data theft",
     "internal business system",
-    "visionos 27 3",
+    "us government agency",
     "ungated resource explains",
-    "specially crafted app",
     "social engineering risks",
     "simple file copy",
     "seize full control",
-    "securitydatapipeline com launches"
+    "securitydatapipeline com launches",
+    "secrets revocation program"
   ],
   "trending": [
     {
       "keyword": "system whether attackers",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "1 2 million",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 677
+      "mentions": 678
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2876
+      "mentions": 2877
     },
     {
       "keyword": "harmful content starting",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "harmful content apple",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "chameleonic cryptocurrency platform",
-      "mentions": 17
+      "mentions": 18
     },
     {
       "keyword": "alpine linux attackers",
-      "mentions": 1
-    },
-    {
-      "keyword": "web server behind",
       "mentions": 2
     },
     {
       "keyword": "post quantum questions",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "web server behind",
+      "mentions": 3
     }
   ],
   "articles": [
@@ -158,6 +158,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
+      "summary": "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [...]",
+      "published": "Thu, 05 Nov 2026 19:56:44 -0500",
+      "value_score": 50,
+      "value_signals": [
+        "CISA/KEV ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
       "link": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
       "summary": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and authentication sessions. [...]",
@@ -222,15 +233,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
       "summary": "Attackers target IT service desks to bypass MFA by impersonating employees and convincing staff to reset passwords or register new authentication devices. Specops Software explains why traditional identity verification methods are no longer sufficient and how organizations can secure account recovery against social engineering risks. [...]",
       "published": "Thu, 05 Nov 2026 10:00:10 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
-      "link": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
-      "summary": "Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]",
-      "published": "Thu, 05 Nov 2026 04:18:29 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -404,6 +406,15 @@
     },
     {
       "source": "Security Week",
+      "title": "3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million",
+      "link": "https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
+      "summary": "The trio, who have nicknames that include “Rocky Balboa,” “Superman Cash” and “Fat Boy,” often targeted the companies’ accounting departments. The post 3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million appeared first on SecurityWeek .",
+      "published": "Fri, 06 Nov 2026 03:03:29 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research",
       "link": "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/",
       "summary": "An unreleased OpenAI cyber model found and exploited 948 distinct Linux kernel privilege escalation bugs for about $1.2 million. The post AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research appeared first on SecurityWeek .",
@@ -474,17 +485,6 @@
       "value_signals": [
         "CVE mentioned",
         "Zero-day ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes",
-      "link": "https://www.securityweek.com/russia-linked-hackers-hit-ios-android-devices-with-exploit-chains-via-watering-holes/",
-      "summary": "The large-scale watering hole campaign has been targeting entities in the US and Europe, mainly in Ukraine. The post Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes appeared first on SecurityWeek .",
-      "published": "Thu, 05 Nov 2026 10:37:13 +0000",
-      "value_score": 16,
-      "value_signals": [
         "Exploit wording"
       ]
     },

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-11-06 04:45 UTC |
+| 🕐 Last Updated | 2026-11-06 13:37 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`system whether attackers` • `1 2 million` • `sprawling phishing campaign` • `twitter whistleblower complaint` • `harmful content starting` • `harmful content apple` • `chameleonic cryptocurrency platform` • `alpine linux attackers` • `post quantum questions` • `web server behind`
+`openai model wrote` • `post quantum questions` • `alpine linux attackers` • `openssh rushes patches` • `harden refrigeration controllers` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `published fixed packages` • `hacker handle rey` • `google account credentials`
 
 ## 📄 Reports
 

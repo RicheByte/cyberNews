@@ -372,7 +372,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2877,
+      "count": 2878,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2169,7 +2169,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 678,
+      "count": 679,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -14105,10 +14105,11 @@
       ]
     },
     "recent security incident": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-13",
-        "2026-04-14"
+        "2026-04-14",
+        "2026-11-06"
       ]
     },
     "bx rat janelarat": {
@@ -32024,7 +32025,7 @@
       ]
     },
     "1 2 million": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-24",
         "2026-11-05",
@@ -33339,7 +33340,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 118,
+      "count": 119,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33370,7 +33371,8 @@
         "2026-11-02",
         "2026-11-03",
         "2026-11-04",
-        "2026-11-05"
+        "2026-11-05",
+        "2026-11-06"
       ]
     },
     "reach internal functions": {
@@ -35201,7 +35203,7 @@
       ]
     },
     "seize full control": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-10-24",
         "2026-10-25",
@@ -36243,7 +36245,7 @@
       ]
     },
     "ungated resource explains": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-05",
         "2026-11-06"
@@ -36263,21 +36265,21 @@
       ]
     },
     "alpine linux attackers": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-05",
         "2026-11-06"
       ]
     },
     "post quantum questions": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-05",
         "2026-11-06"
       ]
     },
     "google account credentials": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-05",
         "2026-11-06"
@@ -36291,7 +36293,7 @@
       ]
     },
     "securitydatapipeline com launches": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-05",
         "2026-11-06"
@@ -36308,20 +36310,63 @@
       "dates": [
         "2026-11-06"
       ]
+    },
+    "openai model wrote": {
+      "count": 1,
+      "dates": [
+        "2026-11-06"
+      ]
+    },
+    "openssh rushes patches": {
+      "count": 1,
+      "dates": [
+        "2026-11-06"
+      ]
+    },
+    "harden refrigeration controllers": {
+      "count": 1,
+      "dates": [
+        "2026-11-06"
+      ]
+    },
+    "published fixed packages": {
+      "count": 1,
+      "dates": [
+        "2026-11-06"
+      ]
+    },
+    "company released patches": {
+      "count": 1,
+      "dates": [
+        "2026-11-06"
+      ]
+    },
+    "certain alpine linux": {
+      "count": 1,
+      "dates": [
+        "2026-11-06"
+      ]
+    },
+    "person's computer researchers": {
+      "count": 1,
+      "dates": [
+        "2026-11-06"
+      ]
+    },
+    "email filtering appliance": {
+      "count": 1,
+      "dates": [
+        "2026-11-06"
+      ]
+    },
+    "sshole authentication bypass": {
+      "count": 1,
+      "dates": [
+        "2026-11-06"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-15 08:45",
-      "articles": 48,
-      "top_keywords": [
-        "law enforcement agencies",
-        "today issued updates",
-        "released security updates",
-        "workforce ai protection",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-10-15 14:36",
       "articles": 48,
@@ -37409,6 +37454,17 @@
         "sprawling phishing campaign",
         "twitter whistleblower complaint",
         "harmful content starting"
+      ]
+    },
+    {
+      "timestamp": "2026-11-06 13:37",
+      "articles": 56,
+      "top_keywords": [
+        "openai model wrote",
+        "post quantum questions",
+        "alpine linux attackers",
+        "openssh rushes patches",
+        "harden refrigeration controllers"
       ]
     }
   ]

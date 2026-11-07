@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-11-07 08:10",
+  "last_updated": "2026-11-07 16:01",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "sshole authentication bypass",
+    "fake security tools",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
     "qnap app center",
     "outdated dns records",
-    "openssh rushes patches",
     "hacker handle rey",
     "person's computer researchers",
     "user selects yes",
+    "trigger unwanted subscriptions",
     "things iot products",
     "step change improvement",
     "ru money laundering",
@@ -26,44 +26,44 @@
   ],
   "trending": [
     {
-      "keyword": "sshole authentication bypass",
-      "mentions": 4
+      "keyword": "fake security tools",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2881
+      "mentions": 2882
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 682
+      "mentions": 683
     },
     {
       "keyword": "qnap app center",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "outdated dns records",
-      "mentions": 3
-    },
-    {
-      "keyword": "openssh rushes patches",
       "mentions": 4
     },
     {
       "keyword": "hacker handle rey",
-      "mentions": 122
+      "mentions": 123
     },
     {
       "keyword": "person's computer researchers",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "user selects yes",
+      "mentions": 2
+    },
+    {
+      "keyword": "trigger unwanted subscriptions",
       "mentions": 1
     },
     {
       "keyword": "things iot products",
-      "mentions": 3
+      "mentions": 4
     }
   ],
   "articles": [
@@ -160,6 +160,26 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hackers pull off $133 million French bank heist via service provider",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
+      "summary": "French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [...]",
+      "published": "Sat, 07 Nov 2026 10:25:35 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
+      "link": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
+      "summary": "Scammers are impersonating major brands and celebrities to lure consumers into fake gift card giveaways that collect personal information and trigger unwanted subscriptions. CTM360 reveals how these campaigns use deceptive verification steps and affiliate networks to generate revenue without delivering the promised rewards. [...]",
+      "published": "Sat, 07 Nov 2026 09:10:19 -0500",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
       "summary": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
@@ -224,26 +244,6 @@
       "published": "Fri, 06 Nov 2026 10:25:31 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It",
-      "link": "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/",
-      "summary": "IMSI and IMEI are IDs your phone shares with networks. Learn how they differ, how attackers get them, and why rotating your IMSI blunts tracking. [...]",
-      "published": "Fri, 06 Nov 2026 10:00:10 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Chainalysis says breach exposed credentials for all customers",
-      "link": "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/",
-      "summary": "Blockchain intelligence firm Chainalysis says a recent attack on its systems and internal tools has exposed credentials and live tokens for all customers. [...]",
-      "published": "Fri, 06 Nov 2026 09:17:07 -0500",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -410,6 +410,18 @@
     },
     {
       "source": "Security Week",
+      "title": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
+      "link": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
+      "summary": "CVE-2026-19868 can let attackers holding credentials for a different login method get past SAML checks, including SAML-enforced MFA. The post SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins appeared first on SecurityWeek .",
+      "published": "Sat, 07 Nov 2026 10:16:23 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "CVE mentioned",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks",
       "link": "https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/",
       "summary": "The emergency package comes after dozens of companies and government agencies were hit by unauthorized access to their systems and leaks of client data, prompting uneasiness across Japan. The post Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks appeared first on SecurityWeek .",
@@ -478,17 +490,6 @@
       "published": "Fri, 06 Nov 2026 12:16:13 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "OpenSSH Rushes Patches for ‘SSHole’ Authentication Bypass",
-      "link": "https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/",
-      "summary": "On Linux distributions using musl libc without PAM, some accounts accept any password between 257 and 1024 characters. The post OpenSSH Rushes Patches for ‘SSHole’ Authentication Bypass appeared first on SecurityWeek .",
-      "published": "Fri, 06 Nov 2026 12:07:42 +0000",
-      "value_score": 40,
-      "value_signals": [
-        "Auth bypass ×2"
-      ]
     },
     {
       "source": "Threatpost",

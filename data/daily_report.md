@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-11-07 01:31 UTC  
+> **Last Updated:** 2026-11-07 08:10 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**sshole authentication bypass** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **qnap app center** • **outdated dns records** • **openssh rushes patches** • **hacker handle rey** • **person's computer researchers** • **seize full control** • **things iot products** • **step change improvement** • **sonicos firewalls including** • **ru money laundering** • **requests never appear** • **recommended immediate actions** • **poses significant risks** • **pose significant risks** • **os command injection** • **musl c library** • **led ahold delhaize**
+**sshole authentication bypass** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **qnap app center** • **outdated dns records** • **openssh rushes patches** • **hacker handle rey** • **person's computer researchers** • **user selects yes** • **things iot products** • **step change improvement** • **ru money laundering** • **recommended immediate actions** • **public github repositories** • **project settings file** • **poses significant risks** • **pose significant risks** • **musl c library** • **led ahold delhaize** • **honeypot threat actors**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub](https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html)
 - [Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time](https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html)
 - [Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot](https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html)
 - [OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits](https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html)
@@ -23,7 +24,6 @@
 - [Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers](https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html)
 - [The Flood is Coming And The Pipes Were Already Full](https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html)
 - [Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services](https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html)
-- [Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs](https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html)
 
 ### BleepingComputer
 

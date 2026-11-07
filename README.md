@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-11-07 01:31 UTC |
+| 🕐 Last Updated | 2026-11-07 08:10 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`sshole authentication bypass` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `qnap app center` • `outdated dns records` • `openssh rushes patches` • `hacker handle rey` • `person's computer researchers` • `seize full control` • `things iot products`
+`sshole authentication bypass` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `qnap app center` • `outdated dns records` • `openssh rushes patches` • `hacker handle rey` • `person's computer researchers` • `user selects yes` • `things iot products`
 
 ## 📄 Reports
 

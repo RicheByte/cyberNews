@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07 01:31",
+  "last_updated": "2026-11-07 08:10",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -11,62 +11,71 @@
     "openssh rushes patches",
     "hacker handle rey",
     "person's computer researchers",
-    "seize full control",
+    "user selects yes",
     "things iot products",
     "step change improvement",
-    "sonicos firewalls including",
     "ru money laundering",
-    "requests never appear",
     "recommended immediate actions",
+    "public github repositories",
+    "project settings file",
     "poses significant risks",
     "pose significant risks",
-    "os command injection",
     "musl c library",
-    "led ahold delhaize"
+    "led ahold delhaize",
+    "honeypot threat actors"
   ],
   "trending": [
     {
       "keyword": "sshole authentication bypass",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2880
+      "mentions": 2881
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 681
+      "mentions": 682
     },
     {
       "keyword": "qnap app center",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "outdated dns records",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "openssh rushes patches",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "hacker handle rey",
-      "mentions": 121
+      "mentions": 122
     },
     {
       "keyword": "person's computer researchers",
-      "mentions": 3
+      "mentions": 4
     },
     {
-      "keyword": "seize full control",
-      "mentions": 15
+      "keyword": "user selects yes",
+      "mentions": 1
     },
     {
       "keyword": "things iot products",
-      "mentions": 2
+      "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+      "link": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+      "summary": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask again,\" Anthropic's AI coding assistant can save the command, word-for-word, including the secret, in a project settings file. Software security company Apiiro said yesterday that 1,122 public",
+      "published": "Sat, 07 Nov 2026 12:14:17 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
@@ -147,17 +156,6 @@
       "value_score": 22,
       "value_signals": [
         "Breach/leak"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
-      "link": "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
-      "summary": "A backdoor has been found hiding in the web server that runs Control Web Panel (CWP), a free panel for managing Linux hosting servers, researchers at QiAnXin's XLab said this week. The backdoored web server executes commands that attackers send via web requests, and those requests never appear in its access logs. Installing it takes root access, so the attackers must already control the server.",
-      "published": "Fri, 06 Nov 2026 11:28:54 +0530",
-      "value_score": 34,
-      "value_signals": [
-        "Backdoor ×2"
       ]
     },
     {

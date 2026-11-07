@@ -372,7 +372,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2882,
+      "count": 2883,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2170,7 +2170,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 683,
+      "count": 684,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -3444,7 +3444,7 @@
       ]
     },
     "recommended immediate actions": {
-      "count": 102,
+      "count": 103,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -4220,7 +4220,7 @@
       ]
     },
     "poses significant risks": {
-      "count": 51,
+      "count": 52,
       "dates": [
         "2026-01-14",
         "2026-03-13",
@@ -4235,7 +4235,7 @@
       ]
     },
     "pose significant risks": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-01-14",
         "2026-02-09",
@@ -33349,7 +33349,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 123,
+      "count": 124,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -34694,7 +34694,7 @@
       ]
     },
     "ru money laundering": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-10-21",
         "2026-10-25",
@@ -36362,7 +36362,7 @@
       ]
     },
     "person's computer researchers": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-11-06",
         "2026-11-07"
@@ -36382,28 +36382,28 @@
       ]
     },
     "qnap app center": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-11-06",
         "2026-11-07"
       ]
     },
     "outdated dns records": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-11-06",
         "2026-11-07"
       ]
     },
     "things iot products": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-11-06",
         "2026-11-07"
       ]
     },
     "step change improvement": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-11-06",
         "2026-11-07"
@@ -36423,66 +36423,55 @@
       ]
     },
     "musl c library": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-07"
       ]
     },
     "led ahold delhaize": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-07"
       ]
     },
     "user selects yes": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-07"
       ]
     },
     "public github repositories": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-07"
       ]
     },
     "project settings file": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-07"
       ]
     },
     "honeypot threat actors": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-07"
       ]
     },
     "fake security tools": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-07"
       ]
     },
     "trigger unwanted subscriptions": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-07"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-16 08:41",
-      "articles": 48,
-      "top_keywords": [
-        "canadian cybersecurity firm",
-        "ordinary online ads",
-        "threat intelligence research",
-        "threat actor known",
-        "rest gets interesting"
-      ]
-    },
     {
       "timestamp": "2026-10-16 14:27",
       "articles": 48,
@@ -37563,6 +37552,17 @@
     },
     {
       "timestamp": "2026-11-07 16:01",
+      "articles": 56,
+      "top_keywords": [
+        "fake security tools",
+        "twitter whistleblower complaint",
+        "sprawling phishing campaign",
+        "qnap app center",
+        "outdated dns records"
+      ]
+    },
+    {
+      "timestamp": "2026-11-07 21:20",
       "articles": 56,
       "top_keywords": [
         "fake security tools",

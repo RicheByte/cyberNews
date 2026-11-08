@@ -372,7 +372,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2885,
+      "count": 2886,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2171,7 +2171,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 686,
+      "count": 687,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -3446,7 +3446,7 @@
       ]
     },
     "recommended immediate actions": {
-      "count": 105,
+      "count": 106,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -4223,7 +4223,7 @@
       ]
     },
     "poses significant risks": {
-      "count": 54,
+      "count": 55,
       "dates": [
         "2026-01-14",
         "2026-03-13",
@@ -4239,7 +4239,7 @@
       ]
     },
     "pose significant risks": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-01-14",
         "2026-02-09",
@@ -33354,7 +33354,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 126,
+      "count": 127,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -34700,7 +34700,7 @@
       ]
     },
     "ru money laundering": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-10-21",
         "2026-10-25",
@@ -36369,7 +36369,7 @@
       ]
     },
     "person's computer researchers": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-11-06",
         "2026-11-07",
@@ -36390,7 +36390,7 @@
       ]
     },
     "qnap app center": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-11-06",
         "2026-11-07",
@@ -36398,7 +36398,7 @@
       ]
     },
     "outdated dns records": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-11-06",
         "2026-11-07",
@@ -36406,7 +36406,7 @@
       ]
     },
     "things iot products": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-11-06",
         "2026-11-07",
@@ -36414,7 +36414,7 @@
       ]
     },
     "step change improvement": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-11-06",
         "2026-11-07",
@@ -36435,35 +36435,35 @@
       ]
     },
     "musl c library": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-11-07",
         "2026-11-08"
       ]
     },
     "led ahold delhaize": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-11-07",
         "2026-11-08"
       ]
     },
     "user selects yes": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-11-07",
         "2026-11-08"
       ]
     },
     "public github repositories": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-11-07",
         "2026-11-08"
       ]
     },
     "project settings file": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-11-07",
         "2026-11-08"
@@ -36477,32 +36477,27 @@
       ]
     },
     "fake security tools": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-11-07",
         "2026-11-08"
       ]
     },
     "trigger unwanted subscriptions": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-11-07",
+        "2026-11-08"
+      ]
+    },
+    "brava security emerges": {
+      "count": 1,
+      "dates": [
         "2026-11-08"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-16 22:25",
-      "articles": 48,
-      "top_keywords": [
-        "smart app control",
-        "security experts warn",
-        "canadian cybersecurity firm",
-        "twitter whistleblower complaint",
-        "openbsd 7 9"
-      ]
-    },
     {
       "timestamp": "2026-10-17 02:39",
       "articles": 48,
@@ -37590,6 +37585,17 @@
         "sprawling phishing campaign",
         "qnap app center",
         "outdated dns records"
+      ]
+    },
+    {
+      "timestamp": "2026-11-08 16:28",
+      "articles": 56,
+      "top_keywords": [
+        "brava security emerges",
+        "fake security tools",
+        "twitter whistleblower complaint",
+        "sprawling phishing campaign",
+        "qnap app center"
       ]
     }
   ]

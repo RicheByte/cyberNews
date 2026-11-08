@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-11-08 08:28 UTC  
+> **Last Updated:** 2026-11-08 16:28 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**fake security tools** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **qnap app center** • **outdated dns records** • **hacker handle rey** • **person's computer researchers** • **user selects yes** • **trigger unwanted subscriptions** • **things iot products** • **step change improvement** • **ru money laundering** • **recommended immediate actions** • **public github repositories** • **project settings file** • **poses significant risks** • **pose significant risks** • **musl c library** • **led ahold delhaize** • **honeypot threat actors**
+**brava security emerges** • **fake security tools** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **qnap app center** • **outdated dns records** • **hacker handle rey** • **user selects yes** • **trigger unwanted subscriptions** • **things iot products** • **step change improvement** • **ru money laundering** • **recommended immediate actions** • **public github repositories** • **project settings file** • **poses significant risks** • **pose significant risks** • **person's computer researchers** • **musl c library** • **led ahold delhaize**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Iris Ohyama data cloud breach exposes info of 7.7 million customers](https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/)
 - [Hackers pull off $133 million French bank heist via service provider](https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/)
 - [CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands](https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/)
 - [SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/)
@@ -34,7 +35,6 @@
 - [OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs](https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/)
 - [Fake security tools on GitHub push backdoors and infostealers](https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/)
 - [QNAP says hackers breaching NAS devices in Plex2Shell attacks](https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/)
-- [Veeam warns of Software Appliance boot failures on AMD EPYC hosts](https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Brava Security Emerges From Stealth With $15 Million in Funding](https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/)
 - [SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins](https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/)
 - [Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks](https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/)
 - [In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days](https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/)
@@ -67,7 +68,6 @@
 - [OpenAI Says New GPT-6 Cyber Model Hunts Flaws Without Crossing the Line](https://www.securityweek.com/openai-says-new-gpt-6-cyber-model-hunts-flaws-without-crossing-the-line/)
 - [US Agencies Urge Organizations to Harden Refrigeration Controllers](https://www.securityweek.com/us-agencies-urge-organizations-to-harden-refrigeration-controllers/)
 - [Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack](https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/)
-- [Researchers Find Residential Proxies on White House Network](https://www.securityweek.com/researchers-find-residential-proxies-on-white-house-network/)
 
 ### Threatpost
 

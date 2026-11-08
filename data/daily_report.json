@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-11-08 08:28",
+  "last_updated": "2026-11-08 16:28",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "brava security emerges",
     "fake security tools",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
     "qnap app center",
     "outdated dns records",
     "hacker handle rey",
-    "person's computer researchers",
     "user selects yes",
     "trigger unwanted subscriptions",
     "things iot products",
@@ -20,50 +20,50 @@
     "project settings file",
     "poses significant risks",
     "pose significant risks",
+    "person's computer researchers",
     "musl c library",
-    "led ahold delhaize",
-    "honeypot threat actors"
+    "led ahold delhaize"
   ],
   "trending": [
     {
+      "keyword": "brava security emerges",
+      "mentions": 1
+    },
+    {
       "keyword": "fake security tools",
-      "mentions": 4
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2885
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 686
-    },
-    {
-      "keyword": "qnap app center",
-      "mentions": 7
-    },
-    {
-      "keyword": "outdated dns records",
-      "mentions": 7
-    },
-    {
-      "keyword": "hacker handle rey",
-      "mentions": 126
-    },
-    {
-      "keyword": "person's computer researchers",
-      "mentions": 8
-    },
-    {
-      "keyword": "user selects yes",
       "mentions": 5
     },
     {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2886
+    },
+    {
+      "keyword": "sprawling phishing campaign",
+      "mentions": 687
+    },
+    {
+      "keyword": "qnap app center",
+      "mentions": 8
+    },
+    {
+      "keyword": "outdated dns records",
+      "mentions": 8
+    },
+    {
+      "keyword": "hacker handle rey",
+      "mentions": 127
+    },
+    {
+      "keyword": "user selects yes",
+      "mentions": 6
+    },
+    {
       "keyword": "trigger unwanted subscriptions",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "things iot products",
-      "mentions": 7
+      "mentions": 8
     }
   ],
   "articles": [
@@ -160,6 +160,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
+      "link": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
+      "summary": "Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a third-party cloud service the company used. [...]",
+      "published": "Sun, 08 Nov 2026 10:43:08 -0500",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Hackers pull off $133 million French bank heist via service provider",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
       "summary": "French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [...]",
@@ -235,15 +246,6 @@
         "Patch/update",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Veeam warns of Software Appliance boot failures on AMD EPYC hosts",
-      "link": "https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/",
-      "summary": "​Veeam warned customers about boot failures affecting Software Appliance virtual machines (VMs) on hosts with AMD EPYC processors. [...]",
-      "published": "Fri, 06 Nov 2026 10:25:31 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -410,6 +412,17 @@
     },
     {
       "source": "Security Week",
+      "title": "Brava Security Emerges From Stealth With $15 Million in Funding",
+      "link": "https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/",
+      "summary": "Its multi-agent AI platform generates the telemetry an attack would produce to fix gaps in enterprise defenses. The post Brava Security Emerges From Stealth With $15 Million in Funding appeared first on SecurityWeek .",
+      "published": "Sun, 08 Nov 2026 12:14:00 +0000",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
       "link": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
       "summary": "CVE-2026-19868 can let attackers holding credentials for a different login method get past SAML checks, including SAML-enforced MFA. The post SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins appeared first on SecurityWeek .",
@@ -479,15 +492,6 @@
       "link": "https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/",
       "summary": "The October incident will cut fourth-quarter sales by up to €250 million and has led Ahold Delhaize to lower its 2026 outlook. The post Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack appeared first on SecurityWeek .",
       "published": "Fri, 06 Nov 2026 12:47:55 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Researchers Find Residential Proxies on White House Network",
-      "link": "https://www.securityweek.com/researchers-find-residential-proxies-on-white-house-network/",
-      "summary": "In a month, 28 residential proxy services used 6 addresses, mainly between 5 p.m. and midnight, Eastern Time. The post Researchers Find Residential Proxies on White House Network appeared first on SecurityWeek .",
-      "published": "Fri, 06 Nov 2026 12:16:13 +0000",
       "value_score": 10,
       "value_signals": []
     },

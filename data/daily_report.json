@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09 01:21",
+  "last_updated": "2026-11-09 08:57",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -9,64 +9,97 @@
     "sprawling phishing campaign",
     "qnap app center",
     "outdated dns records",
+    "harden refrigeration controllers",
     "hacker handle rey",
     "user selects yes",
+    "us government agency",
     "trigger unwanted subscriptions",
     "things iot products",
     "step change improvement",
+    "seize full control",
     "ru money laundering",
+    "remotely alter settings",
     "recommended immediate actions",
     "public github repositories",
-    "project settings file",
-    "poses significant risks",
-    "pose significant risks",
-    "person's computer researchers",
-    "musl c library",
-    "led ahold delhaize"
+    "prolific data theft",
+    "project settings file"
   ],
   "trending": [
     {
       "keyword": "brava security emerges",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "fake security tools",
-      "mentions": 7
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2888
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 689
-    },
-    {
-      "keyword": "qnap app center",
-      "mentions": 10
-    },
-    {
-      "keyword": "outdated dns records",
-      "mentions": 10
-    },
-    {
-      "keyword": "hacker handle rey",
-      "mentions": 129
-    },
-    {
-      "keyword": "user selects yes",
       "mentions": 8
     },
     {
-      "keyword": "trigger unwanted subscriptions",
-      "mentions": 7
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2889
     },
     {
-      "keyword": "things iot products",
-      "mentions": 10
+      "keyword": "sprawling phishing campaign",
+      "mentions": 690
+    },
+    {
+      "keyword": "qnap app center",
+      "mentions": 11
+    },
+    {
+      "keyword": "outdated dns records",
+      "mentions": 11
+    },
+    {
+      "keyword": "harden refrigeration controllers",
+      "mentions": 3
+    },
+    {
+      "keyword": "hacker handle rey",
+      "mentions": 130
+    },
+    {
+      "keyword": "user selects yes",
+      "mentions": 9
+    },
+    {
+      "keyword": "us government agency",
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
+      "link": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
+      "summary": "The OpenAI engineer who was arrested and charged last month for planting a covert audio recording device in the company's office has pleaded not guilty. According to reports from Bloomberg and CNBC, Saudi national Abdulrahman Alfozan made an appearance in San Francisco federal court on Friday, where he entered the plea. His next hearing is scheduled for November 17, 2026. If proven guilty, the",
+      "published": "Mon, 09 Nov 2026 12:35:48 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses",
+      "link": "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html",
+      "summary": "U.S. government agencies have warned that threat actors are actively targeting industrial refrigeration and cold-chain monitoring systems globally with an aim to cause service disruptions, fire hazards, and loss of inventory. \"The actors may exploit vulnerabilities or weaknesses in unpatched or internet-accessible controllers to remotely alter settings and force units into continuous heating",
+      "published": "Mon, 09 Nov 2026 11:45:10 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
+      "link": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity vulnerability impacting SonicWall SonicOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports that it said may have been exploited in real-world attacks. The vulnerability, tracked as CVE-2026-19868 (CVSS score: 7.1 / 7.5), has been described as an authentication reinforcement",
+      "published": "Mon, 09 Nov 2026 11:35:24 +0530",
+      "value_score": 74,
+      "value_signals": [
+        "CVE mentioned",
+        "CISA/KEV ×4",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
@@ -123,39 +156,6 @@
         "CVE mentioned",
         "RCE ×2",
         "Patch/update ×6"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
-      "link": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
-      "summary": "A browser extension that can run scripts on claude.ai could make Claude Desktop run code on a person's computer, researchers at Forever Security, an endpoint security company, showed in a test. The attack needs Dispatch, a Claude feature that lets people send tasks from their phone to Claude Desktop. The flaw that makes this possible can still be exploited, the researchers said earlier this",
-      "published": "Fri, 06 Nov 2026 17:36:35 +0530",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "The Flood is Coming And The Pipes Were Already Full",
-      "link": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
-      "summary": "An update on Athena, and some unsolicited predictions on what's coming next On Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go read it if you haven't. I've spent the summer looking at what these models find, and the gap he describes between what they can do and what the rest of us are ready for is the one I've been staring at since May. The hardest piece of his",
-      "published": "Fri, 06 Nov 2026 17:00:00 +0530",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
-      "link": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
-      "summary": "Blockchain analysis firm Chainalysis has revealed that its ongoing investigation into the agentic cyber attack targeting its systems also exposed names, usernames, password hashes and live tokens for all users. \"While we investigated, we removed access to Reactor and Data Solutions,\" the company said. \"At this time we continue to have no evidence that any investigations data has been accessed",
-      "published": "Fri, 06 Nov 2026 13:34:49 +0530",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
       ]
     },
     {
@@ -412,6 +412,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Google DeepMind’s AI Agents Make 1024-Bit RSA Keys Cheaper to Attack",
+      "link": "https://www.securityweek.com/google-deepminds-ai-agents-make-1024-bit-rsa-keys-cheaper-to-attack/",
+      "summary": "Working with cryptographers, DeepMind’s AI agents cut the cost of forging RSA-1024 signatures and found a cheaper way to factor keys. The post Google DeepMind’s AI Agents Make 1024-Bit RSA Keys Cheaper to Attack appeared first on SecurityWeek .",
+      "published": "Mon, 09 Nov 2026 08:35:50 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Brava Security Emerges From Stealth With $15 Million in Funding",
       "link": "https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/",
       "summary": "Its multi-agent AI platform generates the telemetry an attack would produce to fix gaps in enterprise defenses. The post Brava Security Emerges From Stealth With $15 Million in Funding appeared first on SecurityWeek .",
@@ -483,15 +492,6 @@
       "link": "https://www.securityweek.com/us-agencies-urge-organizations-to-harden-refrigeration-controllers/",
       "summary": "The recommendations come amid attacks targeting fridges and freezers in supermarkets and blood banks in Europe. The post US Agencies Urge Organizations to Harden Refrigeration Controllers appeared first on SecurityWeek .",
       "published": "Fri, 06 Nov 2026 13:02:26 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack",
-      "link": "https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/",
-      "summary": "The October incident will cut fourth-quarter sales by up to €250 million and has led Ahold Delhaize to lower its 2026 outlook. The post Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack appeared first on SecurityWeek .",
-      "published": "Fri, 06 Nov 2026 12:47:55 +0000",
       "value_score": 10,
       "value_signals": []
     },

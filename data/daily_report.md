@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-11-09 01:21 UTC  
+> **Last Updated:** 2026-11-09 08:57 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**brava security emerges** • **fake security tools** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **qnap app center** • **outdated dns records** • **hacker handle rey** • **user selects yes** • **trigger unwanted subscriptions** • **things iot products** • **step change improvement** • **ru money laundering** • **recommended immediate actions** • **public github repositories** • **project settings file** • **poses significant risks** • **pose significant risks** • **person's computer researchers** • **musl c library** • **led ahold delhaize**
+**brava security emerges** • **fake security tools** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **qnap app center** • **outdated dns records** • **harden refrigeration controllers** • **hacker handle rey** • **user selects yes** • **us government agency** • **trigger unwanted subscriptions** • **things iot products** • **step change improvement** • **seize full control** • **ru money laundering** • **remotely alter settings** • **recommended immediate actions** • **public github repositories** • **prolific data theft** • **project settings file**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room](https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html)
+- [U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses](https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html)
+- [CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation](https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html)
 - [Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub](https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html)
 - [Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time](https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html)
 - [Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot](https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html)
 - [OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits](https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html)
 - [Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It](https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html)
-- [Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers](https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html)
-- [The Flood is Coming And The Pipes Were Already Full](https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html)
-- [Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services](https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html)
 
 ### BleepingComputer
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Google DeepMind’s AI Agents Make 1024-Bit RSA Keys Cheaper to Attack](https://www.securityweek.com/google-deepminds-ai-agents-make-1024-bit-rsa-keys-cheaper-to-attack/)
 - [Brava Security Emerges From Stealth With $15 Million in Funding](https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/)
 - [SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins](https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/)
 - [Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks](https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/)
@@ -67,7 +68,6 @@
 - [DigiCert Data Breach Impacts Business Customer Information](https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/)
 - [OpenAI Says New GPT-6 Cyber Model Hunts Flaws Without Crossing the Line](https://www.securityweek.com/openai-says-new-gpt-6-cyber-model-hunts-flaws-without-crossing-the-line/)
 - [US Agencies Urge Organizations to Harden Refrigeration Controllers](https://www.securityweek.com/us-agencies-urge-organizations-to-harden-refrigeration-controllers/)
-- [Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack](https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/)
 
 ### Threatpost
 

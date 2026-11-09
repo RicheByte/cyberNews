@@ -372,7 +372,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2888,
+      "count": 2889,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2172,7 +2172,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 689,
+      "count": 690,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -3448,7 +3448,7 @@
       ]
     },
     "recommended immediate actions": {
-      "count": 108,
+      "count": 109,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -33359,7 +33359,7 @@
       ]
     },
     "hacker handle rey": {
-      "count": 129,
+      "count": 130,
       "dates": [
         "2026-10-07",
         "2026-10-08",
@@ -33694,7 +33694,7 @@
       ]
     },
     "prolific data theft": {
-      "count": 61,
+      "count": 62,
       "dates": [
         "2026-10-09",
         "2026-10-10",
@@ -33719,7 +33719,8 @@
         "2026-11-02",
         "2026-11-03",
         "2026-11-05",
-        "2026-11-06"
+        "2026-11-06",
+        "2026-11-09"
       ]
     },
     "suspected shinyhunters operative": {
@@ -34706,7 +34707,7 @@
       ]
     },
     "ru money laundering": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-10-21",
         "2026-10-25",
@@ -35229,7 +35230,7 @@
       ]
     },
     "seize full control": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-10-24",
         "2026-10-25",
@@ -35237,7 +35238,8 @@
         "2026-10-29",
         "2026-11-05",
         "2026-11-06",
-        "2026-11-07"
+        "2026-11-07",
+        "2026-11-09"
       ]
     },
     "customer's downloads folder": {
@@ -36327,9 +36329,10 @@
       ]
     },
     "us government agency": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-11-06"
+        "2026-11-06",
+        "2026-11-09"
       ]
     },
     "secrets revocation program": {
@@ -36352,9 +36355,10 @@
       ]
     },
     "harden refrigeration controllers": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-11-06"
+        "2026-11-06",
+        "2026-11-09"
       ]
     },
     "published fixed packages": {
@@ -36398,7 +36402,7 @@
       ]
     },
     "qnap app center": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-11-06",
         "2026-11-07",
@@ -36407,7 +36411,7 @@
       ]
     },
     "outdated dns records": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-11-06",
         "2026-11-07",
@@ -36416,7 +36420,7 @@
       ]
     },
     "things iot products": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-11-06",
         "2026-11-07",
@@ -36425,7 +36429,7 @@
       ]
     },
     "step change improvement": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-11-06",
         "2026-11-07",
@@ -36463,7 +36467,7 @@
       ]
     },
     "user selects yes": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-11-07",
         "2026-11-08",
@@ -36471,7 +36475,7 @@
       ]
     },
     "public github repositories": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-11-07",
         "2026-11-08",
@@ -36479,7 +36483,7 @@
       ]
     },
     "project settings file": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-11-07",
         "2026-11-08",
@@ -36494,7 +36498,7 @@
       ]
     },
     "fake security tools": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-11-07",
         "2026-11-08",
@@ -36502,7 +36506,7 @@
       ]
     },
     "trigger unwanted subscriptions": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-11-07",
         "2026-11-08",
@@ -36510,25 +36514,20 @@
       ]
     },
     "brava security emerges": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-08",
+        "2026-11-09"
+      ]
+    },
+    "remotely alter settings": {
+      "count": 1,
+      "dates": [
         "2026-11-09"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-17 13:24",
-      "articles": 48,
-      "top_keywords": [
-        "security experts warn",
-        "smart app control",
-        "canadian cybersecurity firm",
-        "security firm calif",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-10-17 16:47",
       "articles": 48,
@@ -37609,6 +37608,17 @@
     },
     {
       "timestamp": "2026-11-09 01:21",
+      "articles": 56,
+      "top_keywords": [
+        "brava security emerges",
+        "fake security tools",
+        "twitter whistleblower complaint",
+        "sprawling phishing campaign",
+        "qnap app center"
+      ]
+    },
+    {
+      "timestamp": "2026-11-09 08:57",
       "articles": 56,
       "top_keywords": [
         "brava security emerges",

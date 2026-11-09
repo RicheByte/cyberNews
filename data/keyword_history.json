@@ -372,7 +372,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2889,
+      "count": 2890,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2172,7 +2172,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 690,
+      "count": 691,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2940,7 +2940,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 458,
+      "count": 459,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -3008,7 +3008,8 @@
         "2026-10-17",
         "2026-10-18",
         "2026-10-19",
-        "2026-11-04"
+        "2026-11-04",
+        "2026-11-09"
       ]
     },
     "corporate data stolen": {
@@ -3448,7 +3449,7 @@
       ]
     },
     "recommended immediate actions": {
-      "count": 109,
+      "count": 110,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -4226,7 +4227,7 @@
       ]
     },
     "poses significant risks": {
-      "count": 57,
+      "count": 58,
       "dates": [
         "2026-01-14",
         "2026-03-13",
@@ -4243,7 +4244,7 @@
       ]
     },
     "pose significant risks": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-01-14",
         "2026-02-09",
@@ -17771,11 +17772,12 @@
       ]
     },
     "os command injection": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-19",
         "2026-11-03",
-        "2026-11-07"
+        "2026-11-07",
+        "2026-11-09"
       ]
     },
     "north africa mena": {
@@ -34272,7 +34274,7 @@
       ]
     },
     "amman jordan suspected": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-10-16",
         "2026-10-17",
@@ -34280,7 +34282,8 @@
         "2026-10-31",
         "2026-11-01",
         "2026-11-03",
-        "2026-11-04"
+        "2026-11-04",
+        "2026-11-09"
       ]
     },
     "tracks emerging forms": {
@@ -35230,7 +35233,7 @@
       ]
     },
     "seize full control": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-10-24",
         "2026-10-25",
@@ -36420,7 +36423,7 @@
       ]
     },
     "things iot products": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-11-06",
         "2026-11-07",
@@ -36525,20 +36528,69 @@
       "dates": [
         "2026-11-09"
       ]
+    },
+    "breach customer accounts": {
+      "count": 1,
+      "dates": [
+        "2026-11-09"
+      ]
+    },
+    "several security fixes": {
+      "count": 1,
+      "dates": [
+        "2026-11-09"
+      ]
+    },
+    "us financial system": {
+      "count": 1,
+      "dates": [
+        "2026-11-09"
+      ]
+    },
+    "least 15 fires": {
+      "count": 1,
+      "dates": [
+        "2026-11-09"
+      ]
+    },
+    "equador entre outras": {
+      "count": 1,
+      "dates": [
+        "2026-11-09"
+      ]
+    },
+    "dirty frag vulnerabilities": {
+      "count": 1,
+      "dates": [
+        "2026-11-09"
+      ]
+    },
+    "connected car unlock": {
+      "count": 1,
+      "dates": [
+        "2026-11-09"
+      ]
+    },
+    "0 023 bitcoin": {
+      "count": 1,
+      "dates": [
+        "2026-11-09"
+      ]
+    },
+    "s ignoring ai": {
+      "count": 1,
+      "dates": [
+        "2026-11-09"
+      ]
+    },
+    "former fbi agent": {
+      "count": 1,
+      "dates": [
+        "2026-11-09"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-17 16:47",
-      "articles": 48,
-      "top_keywords": [
-        "security experts warn",
-        "canadian cybersecurity firm",
-        "security firm calif",
-        "twitter whistleblower complaint",
-        "smart app control"
-      ]
-    },
     {
       "timestamp": "2026-10-17 19:58",
       "articles": 48,
@@ -37626,6 +37678,17 @@
         "twitter whistleblower complaint",
         "sprawling phishing campaign",
         "qnap app center"
+      ]
+    },
+    {
+      "timestamp": "2026-11-09 20:20",
+      "articles": 56,
+      "top_keywords": [
+        "twitter whistleblower complaint",
+        "breach customer accounts",
+        "several security fixes",
+        "us financial system",
+        "things iot products"
       ]
     }
   ]

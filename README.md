@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-11-09 08:57 UTC |
+| 🕐 Last Updated | 2026-11-09 20:20 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`brava security emerges` • `fake security tools` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `qnap app center` • `outdated dns records` • `harden refrigeration controllers` • `hacker handle rey` • `user selects yes` • `us government agency`
+`twitter whistleblower complaint` • `breach customer accounts` • `several security fixes` • `us financial system` • `things iot products` • `sprawling phishing campaign` • `seize full control` • `recommended immediate actions` • `poses significant risks` • `pose significant risks`
 
 ## 📄 Reports
 

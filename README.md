@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-11-10 12:03 UTC |
+| 🕐 Last Updated | 2026-11-10 20:40 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`france blames iran` • `700 retail sites` • `updates released yesterday` • `twitter whistleblower complaint` • `cve 2026 116779` • `caused food losses` • `security will fail` • `poses significant risks` • `pose significant risks` • `bluetooth pairing vulnerabilities`
+`ios sandbox escape` • `execute arbitrary commands` • `sprawling phishing campaign` • `october 10 2026` • `2 55 1` • `twitter whistleblower complaint` • `prioritize response actions` • `critical security vulnerability` • `vsa 2026 062` • `rest authentication passes`
 
 ## 📄 Reports
 

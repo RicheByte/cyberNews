@@ -372,7 +372,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2892,
+      "count": 2893,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -831,7 +831,7 @@
       ]
     },
     "threat actor known": {
-      "count": 73,
+      "count": 74,
       "dates": [
         "2025-12-17",
         "2025-12-30",
@@ -853,7 +853,8 @@
         "2026-09-17",
         "2026-09-22",
         "2026-09-28",
-        "2026-10-16"
+        "2026-10-16",
+        "2026-11-10"
       ]
     },
     "firefox web browser": {
@@ -1790,14 +1791,15 @@
       ]
     },
     "critical security vulnerability": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2025-12-23",
         "2025-12-24",
         "2026-01-06",
         "2026-01-07",
         "2026-04-10",
-        "2026-08-28"
+        "2026-08-28",
+        "2026-11-10"
       ]
     },
     "platform emphasizes practicality": {
@@ -2173,7 +2175,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 693,
+      "count": 694,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -4230,7 +4232,7 @@
       ]
     },
     "poses significant risks": {
-      "count": 60,
+      "count": 61,
       "dates": [
         "2026-01-14",
         "2026-03-13",
@@ -7162,7 +7164,7 @@
       ]
     },
     "execute arbitrary commands": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -7173,7 +7175,8 @@
         "2026-04-30",
         "2026-06-25",
         "2026-06-26",
-        "2026-09-15"
+        "2026-09-15",
+        "2026-11-10"
       ]
     },
     "arbitrary system commands": {
@@ -34717,7 +34720,7 @@
       ]
     },
     "ru money laundering": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-10-21",
         "2026-10-25",
@@ -35241,7 +35244,7 @@
       ]
     },
     "seize full control": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-10-24",
         "2026-10-25",
@@ -36432,7 +36435,7 @@
       ]
     },
     "things iot products": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-11-06",
         "2026-11-07",
@@ -36611,7 +36614,7 @@
       ]
     },
     "prioritize response actions": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-10"
       ]
@@ -36711,20 +36714,69 @@
       "dates": [
         "2026-11-10"
       ]
+    },
+    "ios sandbox escape": {
+      "count": 1,
+      "dates": [
+        "2026-11-10"
+      ]
+    },
+    "october 10 2026": {
+      "count": 1,
+      "dates": [
+        "2026-11-10"
+      ]
+    },
+    "2 55 1": {
+      "count": 1,
+      "dates": [
+        "2026-11-10"
+      ]
+    },
+    "vsa 2026 062": {
+      "count": 1,
+      "dates": [
+        "2026-11-10"
+      ]
+    },
+    "rest authentication passes": {
+      "count": 1,
+      "dates": [
+        "2026-11-10"
+      ]
+    },
+    "cve 2026 111760": {
+      "count": 1,
+      "dates": [
+        "2026-11-10"
+      ]
+    },
+    "cve 2026 105134": {
+      "count": 1,
+      "dates": [
+        "2026-11-10"
+      ]
+    },
+    "malware code similarities": {
+      "count": 1,
+      "dates": [
+        "2026-11-10"
+      ]
+    },
+    "ransomware doesn't guarantee": {
+      "count": 1,
+      "dates": [
+        "2026-11-10"
+      ]
+    },
+    "python based implant": {
+      "count": 1,
+      "dates": [
+        "2026-11-10"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-18 02:40",
-      "articles": 48,
-      "top_keywords": [
-        "canadian cybersecurity firm",
-        "security experts warn",
-        "twitter whistleblower complaint",
-        "smart app control",
-        "openbsd 7 9"
-      ]
-    },
     {
       "timestamp": "2026-10-18 08:29",
       "articles": 48,
@@ -37812,6 +37864,17 @@
         "updates released yesterday",
         "twitter whistleblower complaint",
         "cve 2026 116779"
+      ]
+    },
+    {
+      "timestamp": "2026-11-10 20:40",
+      "articles": 56,
+      "top_keywords": [
+        "ios sandbox escape",
+        "execute arbitrary commands",
+        "sprawling phishing campaign",
+        "october 10 2026",
+        "2 55 1"
       ]
     }
   ]

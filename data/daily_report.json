@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-11-09 20:20",
+  "last_updated": "2026-11-10 03:55",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "twitter whistleblower complaint",
-    "breach customer accounts",
     "several security fixes",
-    "us financial system",
+    "prolific data theft",
+    "agency s ability",
+    "poses significant risks",
+    "pose significant risks",
+    "breach customer accounts",
     "things iot products",
     "sprawling phishing campaign",
     "seize full control",
-    "recommended immediate actions",
-    "poses significant risks",
-    "pose significant risks",
-    "os command injection",
+    "prioritize response actions",
     "least 15 fires",
-    "equador entre outras",
-    "dirty frag vulnerabilities",
+    "india inaugural edition",
     "connected car unlock",
+    "conducts advertising fraud",
+    "binding operational direc",
     "amman jordan suspected",
+    "2007 york university",
     "130 companies tangled",
-    "0 023 bitcoin",
-    "s ignoring ai",
-    "former fbi agent"
+    "0 023 bitcoin"
   ],
   "trending": [
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2890
-    },
-    {
-      "keyword": "breach customer accounts",
-      "mentions": 1
+      "mentions": 2891
     },
     {
       "keyword": "several security fixes",
+      "mentions": 2
+    },
+    {
+      "keyword": "prolific data theft",
+      "mentions": 63
+    },
+    {
+      "keyword": "agency s ability",
       "mentions": 1
-    },
-    {
-      "keyword": "us financial system",
-      "mentions": 1
-    },
-    {
-      "keyword": "things iot products",
-      "mentions": 12
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 691
-    },
-    {
-      "keyword": "seize full control",
-      "mentions": 17
-    },
-    {
-      "keyword": "recommended immediate actions",
-      "mentions": 110
     },
     {
       "keyword": "poses significant risks",
-      "mentions": 58
+      "mentions": 59
     },
     {
       "keyword": "pose significant risks",
-      "mentions": 24
+      "mentions": 25
+    },
+    {
+      "keyword": "breach customer accounts",
+      "mentions": 2
+    },
+    {
+      "keyword": "things iot products",
+      "mentions": 13
+    },
+    {
+      "keyword": "sprawling phishing campaign",
+      "mentions": 692
+    },
+    {
+      "keyword": "seize full control",
+      "mentions": 18
     }
   ],
   "articles": [
@@ -155,6 +155,51 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
+      "link": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
+      "summary": "Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee, and research data. [...]",
+      "published": "Mon, 09 Nov 2026 18:52:12 -0500",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "SEGA newsletter data breach exposes 2.2 million email addresses",
+      "link": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
+      "summary": "Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2.2 million newsletter subscribers. [...]",
+      "published": "Mon, 09 Nov 2026 17:09:33 -0500",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
+      "link": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
+      "summary": "N-able has taken its hosted N-central environments offline and urged on-premises customers to shut down their servers after a security researcher publicly disclosed more than 30 alleged zero-day vulnerabilities, including exploits that could let attackers take over vulnerable systems. [...]",
+      "published": "Mon, 09 Nov 2026 16:26:25 -0500",
+      "value_score": 41,
+      "value_signals": [
+        "Zero-day",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "York University breach exposed personal information dating to 2007",
+      "link": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/",
+      "summary": "York University has announced it suffered a cybersecurity incident in which a threat actor stole personal information people submitted through online forms. [...]",
+      "published": "Mon, 09 Nov 2026 16:22:31 -0500",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
       "link": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
       "summary": "France has linked October cyberattacks that disrupted refrigeration systems at more than 700 supermarkets and other retail locations to Iranian state-backed hackers, saying the attacks caused food losses and sparked at least 15 fires. [...]",
@@ -194,42 +239,6 @@
         "Breach/leak",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "The Biggest Threat to Your GRC Job Isn’t AI. It’s Ignoring AI.",
-      "link": "https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/",
-      "summary": "AI agents are taking over routine governance, risk, and compliance tasks, forcing GRC professionals to rethink the skills needed to stay relevant. Anecdotes examines three essential skills for the AI-driven GRC workplace: data literacy, agent governance, and communication. [...]",
-      "published": "Mon, 09 Nov 2026 10:05:15 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "FBI agent stole $2.5 million in crypto from hackers under investigation",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/",
-      "summary": "A former FBI agent has pleaded guilty to stealing nearly $2.5 million from the wallets of fraud victims and nation-state hackers under investigation. [...]",
-      "published": "Mon, 09 Nov 2026 09:34:03 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "US bans MEXC crypto exchange over sanctions evasion, cybercrime links",
-      "link": "https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/",
-      "summary": "The US Department of the Treasury has cut off the MEXC Global crypto exchange from the US financial system over sanctions evasion and links with cybercrime gangs. [...]",
-      "published": "Mon, 09 Nov 2026 08:28:56 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Ukraine dismantles crypto scam network that stole €4.3 million",
-      "link": "https://www.bleepingcomputer.com/news/security/ukraine-dismantles-crypto-scam-network-that-stole-43-million/",
-      "summary": "Ukrainian law enforcement arrested four suspects in a case involving the theft of more than €4.3 million using a network of cryptocurrency investment scam call centers. [...]",
-      "published": "Mon, 09 Nov 2026 07:16:13 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -320,6 +329,39 @@
     },
     {
       "source": "Dark Reading",
+      "title": "CISA Announces Enhanced Reporting Form for Cyber Incidents",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/cisa-announces-enhanced-reporting-form-cyber-incidents",
+      "summary": "New questionnaire captures critical data and information that improves the agency’s ability to assess incidents, identify trends and prioritize response actions.",
+      "published": "Mon, 09 Nov 2026 21:38:20 GMT",
+      "value_score": 38,
+      "value_signals": [
+        "CISA/KEV",
+        "High severity"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Microsoft Fixes RCE Bug in Windows Paint After Weeks of Confusion",
+      "link": "https://www.darkreading.com/application-security/microsoft-rce-bug-windows-paint-confusion",
+      "summary": "Last month, Microsoft disclosed a vulnerability in Microsoft Paint, but messaging regarding a patch was unclear.",
+      "published": "Mon, 09 Nov 2026 21:12:24 GMT",
+      "value_score": 38,
+      "value_signals": [
+        "RCE",
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Black Hat India 2026 Makes a Landmark Debut in Bengaluru, Bringing the Global Cybersecurity Community to India",
+      "link": "https://www.darkreading.com/cybersecurity-operations/black-hat-india-2026-landmark-debut",
+      "summary": "Inaugural edition by Informa Markets in India brings together leading researchers, security practitioners and industry decision makers for four days of cutting-edge research, technical exchange and strategic dialogue.",
+      "published": "Mon, 09 Nov 2026 20:19:56 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Attackers Crash Claude's 'Office Party' Flaw to Run Malicious Code on Linux",
       "link": "https://www.darkreading.com/endpoint-security/attackers-claude-office-party-flaw-malicious-code-linux",
       "summary": "Attackers can exploit a flaw in Claude's document-processing tool by creating a temporary file that Anthropic's AI assistant can access and run on a user's machine.",
@@ -362,35 +404,6 @@
       "link": "https://www.darkreading.com/cyber-risk/ai-gave-your-incident-archive-second-job",
       "summary": "Security records are increasingly being used by vendors to train their models, creating new risks for enterprises.",
       "published": "Fri, 06 Nov 2026 18:27:30 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Why Europe's Freezer Hacks Spread So Far, So Fast",
-      "link": "https://www.darkreading.com/ics-ot-security/europes-freezer-hacks-spread-so-far-so-fast",
-      "summary": "Europe's supermarket freezer hacks show how security issues can cascade across an industry, disrupting supply chains at scale.",
-      "published": "Fri, 06 Nov 2026 14:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "UK Warns Its Critical Infrastructure Faces Grave Risk",
-      "link": "https://www.darkreading.com/cybersecurity-operations/uk-warns-critical-infrastructure-grave-risk",
-      "summary": "Britain's new Labour-led government is making a concerted push to get ahead of the AI risks to its national networks and the industrial complex.",
-      "published": "Fri, 06 Nov 2026 09:00:00 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Operação de influência russa tem como alvo generalizado a América Latina",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/opera-o-de-influ-ncia-russa-tem-como-alvo-generalizado-a-am-rica-latina",
-      "summary": "A operação, que contou com o uso de inteligência artificial, utilizou e-mails falsos, documentos governamentais falsificados e a criação de uma organização local para atacar escolas no Peru e no Equador, entre outras ações.",
-      "published": "Thu, 05 Nov 2026 22:13:23 GMT",
       "value_score": 10,
       "value_signals": []
     },
@@ -566,6 +579,21 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/11/09/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-102895 GPUStack Improper Authentication Vulnerability CVE-2026-116779 SignalWire FreeSwitch Code Injection Vulnerability CVE-2026-123158 OpenBSD OpenSSH Unexpected Status Code or Return Value Vulnerability CVE-2026-123218 IBM Aspera Faspex Incorrect Authorization Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cy",
+      "published": "Mon, 09 Nov 26 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×4",
+        "CISA/KEV ×5",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-19868 SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements fo",
@@ -580,9 +608,9 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
-      "link": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
-      "summary": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter referred to as “the authoring organizations”—are aware of malicious cyber activity targeting industrial refrigeration and cold chain monitoring systems globally. Organizations in the Healthcare and Public Health , Chemical , Food and Agriculture , and Transportation",
+      "title": "Post-Quantum Questions to Ask Your Vendors",
+      "link": "https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors",
+      "summary": "CISA, the Australian Signals Directorate’s Australian Cyber Security Centre (ASD’s ACSC) and the National Security Agency (NSA) released joint guidance and an accompanying quick-reference list to help organizations assess vendor readiness for transitioning to post-quantum cryptography (PQC). As quantum computing advances, widely used public-key cryptography will become vulnerable to compromise from cryptographically relevant quantum computers (CRQCs). To protect their systems and data, organizat",
       "published": "Thu, 05 Nov 26 12:00:00 +0000",
       "value_score": 55,
       "value_signals": [
@@ -592,9 +620,9 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "Post-Quantum Questions to Ask Your Vendors",
-      "link": "https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors",
-      "summary": "CISA, the Australian Signals Directorate’s Australian Cyber Security Centre (ASD’s ACSC) and the National Security Agency (NSA) released joint guidance and an accompanying quick-reference list to help organizations assess vendor readiness for transitioning to post-quantum cryptography (PQC). As quantum computing advances, widely used public-key cryptography will become vulnerable to compromise from cryptographically relevant quantum computers (CRQCs). To protect their systems and data, organizat",
+      "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
+      "link": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
+      "summary": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter referred to as “the authoring organizations”—are aware of malicious cyber activity targeting industrial refrigeration and cold chain monitoring systems globally. Organizations in the Healthcare and Public Health , Chemical , Food and Agriculture , and Transportation",
       "published": "Thu, 05 Nov 26 12:00:00 +0000",
       "value_score": 55,
       "value_signals": [
@@ -657,18 +685,6 @@
         "CISA/KEV ×5",
         "High severity",
         "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Hitachi Energy CoreTec Product",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-03",
-      "summary": "View CSAF Summary Hitachi Energy is aware of OS command injection and Dirty Frag vulnerabilities that affect CoreTec product versions listed in this document. Successful exploitation of these vulnerabilities could result in impact on confidentiality, integrity and availability of the product. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. The following versions of Hitachi Energy CoreTec Product are affected: CoreTec5 vers:CoreTec5/<=3.4.0, 5.0",
-      "published": "Thu, 29 Oct 26 12:00:00 +0000",
-      "value_score": 41,
-      "value_signals": [
-        "Source boost: CISA Alerts",
         "Exploit wording"
       ]
     }

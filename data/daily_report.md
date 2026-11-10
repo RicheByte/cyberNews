@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-11-09 20:20 UTC  
+> **Last Updated:** 2026-11-10 03:55 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**twitter whistleblower complaint** • **breach customer accounts** • **several security fixes** • **us financial system** • **things iot products** • **sprawling phishing campaign** • **seize full control** • **recommended immediate actions** • **poses significant risks** • **pose significant risks** • **os command injection** • **least 15 fires** • **equador entre outras** • **dirty frag vulnerabilities** • **connected car unlock** • **amman jordan suspected** • **130 companies tangled** • **0 023 bitcoin** • **s ignoring ai** • **former fbi agent**
+**twitter whistleblower complaint** • **several security fixes** • **prolific data theft** • **agency s ability** • **poses significant risks** • **pose significant risks** • **breach customer accounts** • **things iot products** • **sprawling phishing campaign** • **seize full control** • **prioritize response actions** • **least 15 fires** • **india inaugural edition** • **connected car unlock** • **conducts advertising fraud** • **binding operational direc** • **amman jordan suspected** • **2007 york university** • **130 companies tangled** • **0 023 bitcoin**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Vanderbilt University hit in BYOD ransomware attack, data theft claimed](https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/)
+- [SEGA newsletter data breach exposes 2.2 million email addresses](https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/)
+- [N-able takes cloud platform offline after 30+ "zero-days" published](https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/)
+- [York University breach exposed personal information dating to 2007](https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/)
 - [France blames Iranian hackers for supermarket attacks that sparked fires](https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/)
 - [Russian cloud firm Beget rebuilds from scratch after data wiper attack](https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/)
 - [Binance denies data breach after alleged ShinyHunters claims](https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/)
 - [Hackers exploit SSHole OpenSSH flaw to breach Linux systems](https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/)
-- [The Biggest Threat to Your GRC Job Isn’t AI. It’s Ignoring AI.](https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/)
-- [FBI agent stole $2.5 million in crypto from hackers under investigation](https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/)
-- [US bans MEXC crypto exchange over sanctions evasion, cybercrime links](https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/)
-- [Ukraine dismantles crypto scam network that stole €4.3 million](https://www.bleepingcomputer.com/news/security/ukraine-dismantles-crypto-scam-network-that-stole-43-million/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [CISA Announces Enhanced Reporting Form for Cyber Incidents](https://www.darkreading.com/cyberattacks-data-breaches/cisa-announces-enhanced-reporting-form-cyber-incidents)
+- [Microsoft Fixes RCE Bug in Windows Paint After Weeks of Confusion](https://www.darkreading.com/application-security/microsoft-rce-bug-windows-paint-confusion)
+- [Black Hat India 2026 Makes a Landmark Debut in Bengaluru, Bringing the Global Cybersecurity Community to India](https://www.darkreading.com/cybersecurity-operations/black-hat-india-2026-landmark-debut)
 - [Attackers Crash Claude's 'Office Party' Flaw to Run Malicious Code on Linux](https://www.darkreading.com/endpoint-security/attackers-claude-office-party-flaw-malicious-code-linux)
 - [PwC's CISO on AI, Robots &amp; What's Next for Security](https://www.darkreading.com/cybersecurity-operations/pwc-ciso-ai-robots-security)
 - [NIST: Solo Shouldn't Mean Less Secure](https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure)
 - [UK Wades Into Tech Sovereignty Amid AI Policy Changes](https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy)
 - [AI Gave Your Incident Archive a Second Job](https://www.darkreading.com/cyber-risk/ai-gave-your-incident-archive-second-job)
-- [Why Europe's Freezer Hacks Spread So Far, So Fast](https://www.darkreading.com/ics-ot-security/europes-freezer-hacks-spread-so-far-so-fast)
-- [UK Warns Its Critical Infrastructure Faces Grave Risk](https://www.darkreading.com/cybersecurity-operations/uk-warns-critical-infrastructure-grave-risk)
-- [Operação de influência russa tem como alvo generalizado a América Latina](https://www.darkreading.com/cyberattacks-data-breaches/opera-o-de-influ-ncia-russa-tem-como-alvo-generalizado-a-am-rica-latina)
 
 ### Security Week
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
+- [CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/09/cisa-adds-four-known-exploited-vulnerabilities-catalog)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog)
-- [US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems](https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems)
 - [Post-Quantum Questions to Ask Your Vendors](https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors)
+- [US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems](https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/04/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/03/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [Subnet Solutions PowerSYSTEM Center](https://www.cisa.gov/news-events/ics-advisories/icsa-26-307-01)
 - [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/10/30/cisa-adds-two-known-exploited-vulnerabilities-catalog)
-- [Hitachi Energy CoreTec Product](https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-03)
 
 ---
 

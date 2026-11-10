@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-11-10 03:55 UTC |
+| 🕐 Last Updated | 2026-11-10 12:03 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`twitter whistleblower complaint` • `several security fixes` • `prolific data theft` • `agency s ability` • `poses significant risks` • `pose significant risks` • `breach customer accounts` • `things iot products` • `sprawling phishing campaign` • `seize full control`
+`france blames iran` • `700 retail sites` • `updates released yesterday` • `twitter whistleblower complaint` • `cve 2026 116779` • `caused food losses` • `security will fail` • `poses significant risks` • `pose significant risks` • `bluetooth pairing vulnerabilities`
 
 ## 📄 Reports
 

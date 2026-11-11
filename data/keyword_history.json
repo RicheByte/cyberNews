@@ -372,7 +372,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2895,
+      "count": 2896,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1186,7 +1186,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 162,
+      "count": 163,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1222,7 +1222,8 @@
         "2026-09-30",
         "2026-10-01",
         "2026-10-30",
-        "2026-10-31"
+        "2026-10-31",
+        "2026-11-11"
       ]
     },
     "france arrests latvian": {
@@ -1393,7 +1394,7 @@
       ]
     },
     "national security risk": {
-      "count": 543,
+      "count": 544,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -4238,7 +4239,7 @@
       ]
     },
     "poses significant risks": {
-      "count": 62,
+      "count": 63,
       "dates": [
         "2026-01-14",
         "2026-03-13",
@@ -32535,7 +32536,7 @@
       ]
     },
     "shinyhunters hacking group": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-29",
         "2026-11-04",
@@ -34729,7 +34730,7 @@
       ]
     },
     "ru money laundering": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-10-21",
         "2026-10-25",
@@ -36446,7 +36447,7 @@
       ]
     },
     "things iot products": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-11-06",
         "2026-11-07",
@@ -36814,18 +36815,78 @@
       ]
     },
     "estimated 740 000": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-11"
       ]
     },
     "ai provider will": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-11"
       ]
     },
     "misleading chatbot answers": {
+      "count": 2,
+      "dates": [
+        "2026-11-11"
+      ]
+    },
+    "sql server 53": {
+      "count": 1,
+      "dates": [
+        "2026-11-11"
+      ]
+    },
+    "100 000 workspaces": {
+      "count": 1,
+      "dates": [
+        "2026-11-11"
+      ]
+    },
+    "xcp ng nodes": {
+      "count": 1,
+      "dates": [
+        "2026-11-11"
+      ]
+    },
+    "social network x": {
+      "count": 1,
+      "dates": [
+        "2026-11-11"
+      ]
+    },
+    "previously declared unaffected": {
+      "count": 1,
+      "dates": [
+        "2026-11-11"
+      ]
+    },
+    "mobile devices equipped": {
+      "count": 1,
+      "dates": [
+        "2026-11-11"
+      ]
+    },
+    "massive drop comes": {
+      "count": 1,
+      "dates": [
+        "2026-11-11"
+      ]
+    },
+    "games landing pages": {
+      "count": 1,
+      "dates": [
+        "2026-11-11"
+      ]
+    },
+    "extortion group krebsonsecurity": {
+      "count": 1,
+      "dates": [
+        "2026-11-11"
+      ]
+    },
+    "defense strategies defining": {
       "count": 1,
       "dates": [
         "2026-11-11"
@@ -36833,17 +36894,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-18 17:02",
-      "articles": 48,
-      "top_keywords": [
-        "canadian cybersecurity firm",
-        "connectwise cloud backup",
-        "security experts warn",
-        "cloud based backup",
-        "us bankruptcy courts"
-      ]
-    },
     {
       "timestamp": "2026-10-18 19:58",
       "articles": 48,
@@ -37931,6 +37981,17 @@
         "twitter whistleblower complaint",
         "national security risk",
         "vsa 2026 062"
+      ]
+    },
+    {
+      "timestamp": "2026-11-11 17:38",
+      "articles": 56,
+      "top_keywords": [
+        "twitter whistleblower complaint",
+        "things iot products",
+        "sql server 53",
+        "execute arbitrary code",
+        "ai provider will"
       ]
     }
   ]

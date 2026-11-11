@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-11-11 08:44 UTC |
+| 🕐 Last Updated | 2026-11-11 17:38 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`rest authentication passes` • `2 55 1` • `twitter whistleblower complaint` • `national security risk` • `vsa 2026 062` • `estimated 740 000` • `cve 2026 111760` • `malware code similarities` • `compromised autonomous agents` • `critical security vulnerability`
+`twitter whistleblower complaint` • `things iot products` • `sql server 53` • `execute arbitrary code` • `ai provider will` • `estimated 740 000` • `100 000 workspaces` • `national security risk` • `xcp ng nodes` • `social network x`
 
 ## 📄 Reports
 

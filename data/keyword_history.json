@@ -372,7 +372,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2896,
+      "count": 2897,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1186,7 +1186,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 163,
+      "count": 164,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1394,7 +1394,7 @@
       ]
     },
     "national security risk": {
-      "count": 544,
+      "count": 545,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -4239,7 +4239,7 @@
       ]
     },
     "poses significant risks": {
-      "count": 63,
+      "count": 64,
       "dates": [
         "2026-01-14",
         "2026-03-13",
@@ -32536,7 +32536,7 @@
       ]
     },
     "shinyhunters hacking group": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-09-29",
         "2026-11-04",
@@ -34730,7 +34730,7 @@
       ]
     },
     "ru money laundering": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-10-21",
         "2026-10-25",
@@ -36447,7 +36447,7 @@
       ]
     },
     "things iot products": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-11-06",
         "2026-11-07",
@@ -36821,19 +36821,19 @@
       ]
     },
     "ai provider will": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-11"
       ]
     },
     "misleading chatbot answers": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-11"
       ]
     },
     "sql server 53": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-11"
       ]
@@ -36845,19 +36845,19 @@
       ]
     },
     "xcp ng nodes": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-11"
       ]
     },
     "social network x": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-11"
       ]
     },
     "previously declared unaffected": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-11"
       ]
@@ -36869,19 +36869,19 @@
       ]
     },
     "massive drop comes": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-11"
       ]
     },
     "games landing pages": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-11"
       ]
     },
     "extortion group krebsonsecurity": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-11"
       ]
@@ -36891,20 +36891,33 @@
       "dates": [
         "2026-11-11"
       ]
+    },
+    "management rmm platform": {
+      "count": 1,
+      "dates": [
+        "2026-11-11"
+      ]
+    },
+    "third party provider": {
+      "count": 1,
+      "dates": [
+        "2026-11-11"
+      ]
+    },
+    "address public exploits": {
+      "count": 1,
+      "dates": [
+        "2026-11-11"
+      ]
+    },
+    "leaving hello messages": {
+      "count": 1,
+      "dates": [
+        "2026-11-11"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-18 19:58",
-      "articles": 48,
-      "top_keywords": [
-        "canadian cybersecurity firm",
-        "connectwise cloud backup",
-        "security experts warn",
-        "cloud based backup",
-        "us bankruptcy courts"
-      ]
-    },
     {
       "timestamp": "2026-10-18 22:16",
       "articles": 48,
@@ -37992,6 +38005,17 @@
         "sql server 53",
         "execute arbitrary code",
         "ai provider will"
+      ]
+    },
+    {
+      "timestamp": "2026-11-11 23:57",
+      "articles": 56,
+      "top_keywords": [
+        "management rmm platform",
+        "twitter whistleblower complaint",
+        "third party provider",
+        "things iot products",
+        "execute arbitrary code"
       ]
     }
   ]

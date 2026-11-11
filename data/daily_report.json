@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10 20:40",
+  "last_updated": "2026-11-11 01:39",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -9,61 +9,61 @@
     "october 10 2026",
     "2 55 1",
     "twitter whistleblower complaint",
-    "prioritize response actions",
+    "november patch tuesday",
     "critical security vulnerability",
-    "vsa 2026 062",
     "rest authentication passes",
+    "vsa 2026 062",
     "cve 2026 111760",
     "cve 2026 105134",
+    "campaign uses portuguese",
     "malware code similarities",
+    "compromised autonomous agents",
     "threat actor known",
     "things iot products",
+    "shinyhunters hacking group",
     "seize full control",
-    "ru money laundering",
-    "ransomware doesn't guarantee",
-    "python based implant",
-    "poses significant risks"
+    "ru money laundering"
   ],
   "trending": [
     {
       "keyword": "ios sandbox escape",
-      "mentions": 1
-    },
-    {
-      "keyword": "execute arbitrary commands",
-      "mentions": 30
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 694
-    },
-    {
-      "keyword": "october 10 2026",
-      "mentions": 1
-    },
-    {
-      "keyword": "2 55 1",
-      "mentions": 1
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2893
-    },
-    {
-      "keyword": "prioritize response actions",
       "mentions": 2
     },
     {
-      "keyword": "critical security vulnerability",
-      "mentions": 25
+      "keyword": "execute arbitrary commands",
+      "mentions": 31
     },
     {
-      "keyword": "vsa 2026 062",
+      "keyword": "sprawling phishing campaign",
+      "mentions": 695
+    },
+    {
+      "keyword": "october 10 2026",
+      "mentions": 2
+    },
+    {
+      "keyword": "2 55 1",
+      "mentions": 2
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2894
+    },
+    {
+      "keyword": "november patch tuesday",
       "mentions": 1
+    },
+    {
+      "keyword": "critical security vulnerability",
+      "mentions": 26
     },
     {
       "keyword": "rest authentication passes",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "vsa 2026 062",
+      "mentions": 2
     }
   ],
   "articles": [
@@ -165,6 +165,27 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Railway breach leads to $740,000 in fraudulent AI charges",
+      "link": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
+      "summary": "Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing credentials for up to 100,000 workspaces. [...]",
+      "published": "Tue, 10 Nov 2026 17:20:19 -0500",
+      "value_score": 28,
+      "value_signals": [
+        "Breach/leak",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
+      "link": "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/",
+      "summary": "Nitori, a major Japanese furniture and home accessories retailer, discovered that an attacker accessed a system on its network and may have stolen 37.62 million customer records. [...]",
+      "published": "Tue, 10 Nov 2026 15:54:55 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Microsoft releases Windows 10 KB5131096 extended security update",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/",
       "summary": "Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
@@ -237,24 +258,17 @@
       ]
     },
     {
-      "source": "BleepingComputer",
-      "title": "Ransomware recovery is now a client retention metric",
-      "link": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/",
-      "summary": "Recovering from ransomware doesn't guarantee an MSP will retain its clients, especially when delays, poor communication, and unexpected costs undermine trust. Kaseya examines how disconnected recovery tools create these problems and how integrated workflows can improve response times, transparency, and client retention. [...]",
-      "published": "Tue, 10 Nov 2026 10:01:11 -0500",
-      "value_score": 46,
+      "source": "Krebs on Security",
+      "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
+      "link": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
+      "summary": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday addresses 63 critical flaws -- including a zero-day in Microsoft Outlook -- and comes amid important security updates from other software makers, including Adobe, Apple, Google and Mozilla.",
+      "published": "Tue, 10 Nov 2026 21:55:03 +0000",
+      "value_score": 59,
       "value_signals": [
-        "Ransomware ×2"
+        "Zero-day",
+        "Patch/update ×3",
+        "High severity"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "SAP patches ICM2SHELL and PROXYGATE maximum severity flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/",
-      "summary": "SAP patched 35 vulnerabilities in its November 2026 security updates, including four maximum-severity issues affecting its NetWeaver, Web Dispatcher, and Gateway software. [...]",
-      "published": "Tue, 10 Nov 2026 07:07:03 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -335,11 +349,44 @@
       ]
     },
     {
-      "source": "Krebs on Security",
-      "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
-      "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
-      "summary": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle \"Rey,\" was detained as ShinyHunters was in the process of extorting a business unit recently divested by the global aerospace company Boeing, which manufactures the fleet of planes used by the employer of Rey's ",
-      "published": "Wed, 07 Oct 2026 13:48:45 +0000",
+      "source": "Dark Reading",
+      "title": "November Patch Tuesday: An Overflowing Cornucopia of CVEs",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves",
+      "summary": "Microsoft serves up an actively exploited Outlook zero-day, and a wave of critical Exchange, SharePoint, Windows Search, and LDAP bugs that exhausted defenders need to prioritize fast.",
+      "published": "Tue, 10 Nov 2026 22:26:51 GMT",
+      "value_score": 82,
+      "value_signals": [
+        "Zero-day",
+        "Active exploitation",
+        "Patch/update",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Artex: The AI Pen-Test Tool Hackers Turned Into a Weapon",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/artex-ai-pen-test-tool-hackers-weapon",
+      "summary": "Forks of the open source Artex framework, along with 45 similar pen-testing tools, remain capable of executing credential attacks and cloud breaches at machine speed across multiple industries.",
+      "published": "Tue, 10 Nov 2026 21:01:14 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "F-Secure Identifies 26 Ways AI Can Harm Consumers, and Where to Stop Them",
+      "link": "https://www.darkreading.com/application-security/f-secure-26-ways-ai-harm-consumers-where-to-stop-them",
+      "summary": "New AI Harms Taxonomy traces how harm moves through AI systems, from misleading chatbot answers to compromised autonomous agents, and identifies where defenses can intervene.",
+      "published": "Tue, 10 Nov 2026 20:41:45 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Checkmarx Appoints Kobi Sivilya as Chief Information Security Officer",
+      "link": "https://www.darkreading.com/cybersecurity-careers/checkmarx-appoints-kobi-sivilya-chief-information-security-officer",
+      "summary": "Sivilya brings deep cybersecurity and technology leadership to Checkmarx as AI transforms software development.",
+      "published": "Tue, 10 Nov 2026 20:35:34 GMT",
       "value_score": 10,
       "value_signals": []
     },
@@ -380,50 +427,6 @@
       "published": "Mon, 09 Nov 2026 23:06:22 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "CISA Announces Enhanced Reporting Form for Cyber Incidents",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/cisa-announces-enhanced-reporting-form-cyber-incidents",
-      "summary": "New questionnaire captures critical data and information that improves the agency’s ability to assess incidents, identify trends and prioritize response actions.",
-      "published": "Mon, 09 Nov 2026 21:38:20 GMT",
-      "value_score": 38,
-      "value_signals": [
-        "CISA/KEV",
-        "High severity"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Microsoft Fixes RCE Bug in Windows Paint After Weeks of Confusion",
-      "link": "https://www.darkreading.com/application-security/microsoft-rce-bug-windows-paint-confusion",
-      "summary": "Last month, Microsoft disclosed a vulnerability in Microsoft Paint, but messaging regarding a patch was unclear.",
-      "published": "Mon, 09 Nov 2026 21:12:24 GMT",
-      "value_score": 38,
-      "value_signals": [
-        "RCE",
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Black Hat India 2026 Makes a Landmark Debut in Bengaluru, Bringing the Global Cybersecurity Community to India",
-      "link": "https://www.darkreading.com/cybersecurity-operations/black-hat-india-2026-landmark-debut",
-      "summary": "Inaugural edition by Informa Markets in India brings together leading researchers, security practitioners and industry decision makers for four days of cutting-edge research, technical exchange and strategic dialogue.",
-      "published": "Mon, 09 Nov 2026 20:19:56 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Attackers Crash Claude's 'Office Party' Flaw to Run Malicious Code on Linux",
-      "link": "https://www.darkreading.com/endpoint-security/attackers-claude-office-party-flaw-malicious-code-linux",
-      "summary": "Attackers can exploit a flaw in Claude's document-processing tool by creating a temporary file that Anthropic's AI assistant can access and run on a user's machine.",
-      "published": "Mon, 09 Nov 2026 18:08:30 GMT",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "Security Week",

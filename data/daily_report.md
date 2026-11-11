@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-11-11 01:39 UTC  
+> **Last Updated:** 2026-11-11 08:44 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**ios sandbox escape** • **execute arbitrary commands** • **sprawling phishing campaign** • **october 10 2026** • **2 55 1** • **twitter whistleblower complaint** • **november patch tuesday** • **critical security vulnerability** • **rest authentication passes** • **vsa 2026 062** • **cve 2026 111760** • **cve 2026 105134** • **campaign uses portuguese** • **malware code similarities** • **compromised autonomous agents** • **threat actor known** • **things iot products** • **shinyhunters hacking group** • **seize full control** • **ru money laundering**
+**rest authentication passes** • **2 55 1** • **twitter whistleblower complaint** • **national security risk** • **vsa 2026 062** • **estimated 740 000** • **cve 2026 111760** • **malware code similarities** • **compromised autonomous agents** • **critical security vulnerability** • **november patch tuesday** • **ai provider will** • **authentication bypass flaw** • **things iot products** • **sprawling phishing campaign** • **shinyhunters hacking group** • **seize full control** • **ru money laundering** • **poses significant risks** • **misleading chatbot answers**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes](https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html)
+- [Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges](https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html)
+- [Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons](https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html)
+- [Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches](https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html)
 - [Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones](https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html)
 - [SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users](https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html)
 - [Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access](https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html)
 - [Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem](https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html)
-- [Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor](https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html)
-- [Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America](https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html)
-- [Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats](https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html)
-- [Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed](https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html)
 
 ### BleepingComputer
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Recently Patched Barracuda Vulnerabilities Exploited in Attacks](https://www.securityweek.com/recently-patched-barracuda-vulnerabilities-exploited-in-attacks/)
+- [Bluetooth, AirPlay Pairing Vulnerabilities Patched Across Apple Platforms](https://www.securityweek.com/bluetooth-airplay-pairing-vulnerabilities-patched-across-apple-platforms/)
 - [Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft](https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft/)
 - [Adobe Patches 110 Vulnerabilities Across 9 Products](https://www.securityweek.com/adobe-patches-110-vulnerabilities-across-9-products/)
 - [Software Transparency Is Changing: Allan Friedman on SBOM, AI BOMs and What Comes Next](https://www.securityweek.com/software-transparency-is-changing-allan-friedman-on-sbom-ai-boms-and-what-comes-next/)
 - [Google Widens Gemini 4 Carbon Access After AI Agents Verify Signal Code](https://www.securityweek.com/google-widens-gemini-4-carbon-access-after-ai-agents-verify-signal-code/)
 - [Today: CISO Forum Virtual Summit 2026 – Join Global Cybersecurity Leaders](https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders/)
 - [WhiteMatter Raises $20 Million in Series A Funding](https://www.securityweek.com/whitematter-raises-20-million-in-series-a-funding/)
-- [SAP Patches Critical ICM2SHELL, ProxyGate Vulnerabilities](https://www.securityweek.com/sap-patches-critical-icm2shell-proxygate-vulnerabilities/)
-- [Over a Dozen Organizations Hit in Qubole Supply Chain Attack](https://www.securityweek.com/over-a-dozen-organizations-hit-in-qubole-supply-chain-attack/)
 
 ### Threatpost
 

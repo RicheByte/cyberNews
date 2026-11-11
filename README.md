@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-11-11 01:39 UTC |
+| 🕐 Last Updated | 2026-11-11 08:44 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`ios sandbox escape` • `execute arbitrary commands` • `sprawling phishing campaign` • `october 10 2026` • `2 55 1` • `twitter whistleblower complaint` • `november patch tuesday` • `critical security vulnerability` • `rest authentication passes` • `vsa 2026 062`
+`rest authentication passes` • `2 55 1` • `twitter whistleblower complaint` • `national security risk` • `vsa 2026 062` • `estimated 740 000` • `cve 2026 111760` • `malware code similarities` • `compromised autonomous agents` • `critical security vulnerability`
 
 ## 📄 Reports
 

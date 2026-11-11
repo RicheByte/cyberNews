@@ -372,7 +372,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2894,
+      "count": 2895,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1393,7 +1393,7 @@
       ]
     },
     "national security risk": {
-      "count": 542,
+      "count": 543,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1505,7 +1505,8 @@
         "2026-10-29",
         "2026-10-31",
         "2026-11-01",
-        "2026-11-02"
+        "2026-11-02",
+        "2026-11-11"
       ]
     },
     "open source millions": {
@@ -1793,7 +1794,7 @@
       ]
     },
     "critical security vulnerability": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2025-12-23",
         "2025-12-24",
@@ -2178,7 +2179,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 695,
+      "count": 696,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2522,7 +2523,7 @@
       ]
     },
     "authentication bypass flaw": {
-      "count": 56,
+      "count": 57,
       "dates": [
         "2025-12-31",
         "2026-01-01",
@@ -2538,7 +2539,8 @@
         "2026-10-20",
         "2026-10-21",
         "2026-10-29",
-        "2026-10-30"
+        "2026-10-30",
+        "2026-11-11"
       ]
     },
     "bypass authentication mechanisms": {
@@ -4236,7 +4238,7 @@
       ]
     },
     "poses significant risks": {
-      "count": 61,
+      "count": 62,
       "dates": [
         "2026-01-14",
         "2026-03-13",
@@ -4250,7 +4252,8 @@
         "2026-11-07",
         "2026-11-08",
         "2026-11-09",
-        "2026-11-10"
+        "2026-11-10",
+        "2026-11-11"
       ]
     },
     "pose significant risks": {
@@ -32532,7 +32535,7 @@
       ]
     },
     "shinyhunters hacking group": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-29",
         "2026-11-04",
@@ -34726,7 +34729,7 @@
       ]
     },
     "ru money laundering": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-10-21",
         "2026-10-25",
@@ -35251,7 +35254,7 @@
       ]
     },
     "seize full control": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-10-24",
         "2026-10-25",
@@ -36443,7 +36446,7 @@
       ]
     },
     "things iot products": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-11-06",
         "2026-11-07",
@@ -36739,28 +36742,28 @@
       ]
     },
     "2 55 1": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-10",
         "2026-11-11"
       ]
     },
     "vsa 2026 062": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-10",
         "2026-11-11"
       ]
     },
     "rest authentication passes": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-10",
         "2026-11-11"
       ]
     },
     "cve 2026 111760": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-10",
         "2026-11-11"
@@ -36774,7 +36777,7 @@
       ]
     },
     "malware code similarities": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-10",
         "2026-11-11"
@@ -36793,7 +36796,7 @@
       ]
     },
     "november patch tuesday": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-11"
       ]
@@ -36805,6 +36808,24 @@
       ]
     },
     "compromised autonomous agents": {
+      "count": 2,
+      "dates": [
+        "2026-11-11"
+      ]
+    },
+    "estimated 740 000": {
+      "count": 1,
+      "dates": [
+        "2026-11-11"
+      ]
+    },
+    "ai provider will": {
+      "count": 1,
+      "dates": [
+        "2026-11-11"
+      ]
+    },
+    "misleading chatbot answers": {
       "count": 1,
       "dates": [
         "2026-11-11"
@@ -36812,17 +36833,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-18 13:43",
-      "articles": 48,
-      "top_keywords": [
-        "canadian cybersecurity firm",
-        "connectwise cloud backup",
-        "security experts warn",
-        "cloud based backup",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-10-18 17:02",
       "articles": 48,
@@ -37910,6 +37920,17 @@
         "sprawling phishing campaign",
         "october 10 2026",
         "2 55 1"
+      ]
+    },
+    {
+      "timestamp": "2026-11-11 08:44",
+      "articles": 56,
+      "top_keywords": [
+        "rest authentication passes",
+        "2 55 1",
+        "twitter whistleblower complaint",
+        "national security risk",
+        "vsa 2026 062"
       ]
     }
   ]

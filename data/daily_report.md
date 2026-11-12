@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-11-12 05:58 UTC  
+> **Last Updated:** 2026-11-12 14:50 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**management rmm platform** • **execute arbitrary code** • **twitter whistleblower complaint** • **third party provider** • **things iot products** • **big data system** • **address public exploits** • **rebuild cloud apps** • **shinyhunters hacking group** • **extortion group krebsonsecurity** • **xcp ng nodes** • **social network x** • **ru money laundering** • **previously declared unaffected** • **poses significant risks** • **november patch tuesday** • **national security risk** • **misleading chatbot answers** • **massive drop comes** • **leaving hello messages**
+**third party provider** • **hackers deploy malware** • **november patch tuesday** • **bypass screenconnect authentication** • **26 13 1** • **threat research team** • **ai agent might** • **twitter whistleblower complaint** • **n able patched** • **http 2 support** • **chameleonic cryptocurrency platform** • **shinyhunters hacking group** • **extortion group krebsonsecurity** • **guest os patch** • **fireworks ai hack** • **ai driven threats** • **fresh screenconnect campaign** • **big data system** • **things iot products** • **seize full control**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
-- [Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely](https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html)
-- [ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients](https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html)
-- [Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation](https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html)
-- [AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets](https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html)
-- [Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits](https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html)
-- [Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords](https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html)
-- [We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.](https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html)
-- [eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise](https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html)
+- [Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs](https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html)
+- [Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them](https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html)
+- [New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access](https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html)
+- [Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign](https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html)
+- [PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution](https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html)
+- [Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover](https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html)
+- [Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data](https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html)
+- [Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories](https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html)
 
 ### BleepingComputer
 
+- [Apify rotates API tokens, prompts 2FA resets after breach](https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/)
+- [Microsoft: Recent Windows updates cause SQL Server performance issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/)
+- [Microsoft confirms Windows security updates installation issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/)
+- [Hackers plant GSocket on Linux servers for persistent access](https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/)
 - [Baker Tilly notifies clients of data breach at third-party provider](https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/)
 - [Active ScreenConnect attacks breach MSPs, impact dozens of organizations](https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/)
 - [eMudhra revokes 8 more CA certificates after private key mishap](https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/)
 - [Notion says Fireworks breach exposed customer AI chat transcripts](https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/)
-- [Maersk confirms data breach as WhiteArmor ransomware demands $5 million](https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/)
-- [Hackers use AntiFox AI agents in AWS credential-theft attacks](https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/)
-- [eBPF Rootkits: Why Underground Actors Are Taking Notice](https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/)
-- [N-able releases security hotfixes for zero-day vulnerabilities](https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Inside an AI Attack Against a US Retailer](https://www.darkreading.com/cyberattacks-data-breaches/inside-ai-attack-us-retailer)
 - [Chinese AI Project Scouts Spies in Taiwan Chip Industry](https://www.darkreading.com/threat-intelligence/chinese-ai-project-scouts-spies-taiwan-chip-industry)
 - [Japan Pushes Emergency Funding for Cybersecurity as AI-Assisted Breaches Rise](https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches)
 - [Attackers Say 'Hello' to a Different Scale of Cloud Attack](https://www.darkreading.com/cloud-security/attackers-hello-scale-cloud-attack)
@@ -56,18 +57,17 @@
 - [N-able Takes N-central Platform Offline After Discovery of 33 Flaws](https://www.darkreading.com/endpoint-security/n-able-n-central-offline-33-flaws)
 - [November Patch Tuesday: An Overflowing Cornucopia of CVEs](https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves)
 - [Artex: The AI Pen-Test Tool Hackers Turned Into a Weapon](https://www.darkreading.com/cyberattacks-data-breaches/artex-ai-pen-test-tool-hackers-weapon)
-- [F-Secure Identifies 26 Ways AI Can Harm Consumers, and Where to Stop Them](https://www.darkreading.com/application-security/f-secure-26-ways-ai-harm-consumers-where-to-stop-them)
 
 ### Security Week
 
-- [Today: CISO Forum Virtual Summit 2026 Day 2 – Join Cybersecurity Leaders Online](https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders/)
-- [Critical Xen Orchestra Flaws Exploited in Attacks](https://www.securityweek.com/critical-xen-orchestra-flaws-exploited-in-attacks/)
-- [Asus, Zoom Release Security Patches](https://www.securityweek.com/asus-zoom-release-security-patches/)
-- [Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities](https://www.securityweek.com/citrix-ivanti-patch-critical-and-high-severity-vulnerabilities/)
-- [Finite State Raises $27 Million to Secure Software and Firmware in Connected Devices](https://www.securityweek.com/finite-state-raises-27-million-to-secure-software-and-firmware-in-connected-devices/)
-- [Fortinet Patches Nearly 100 Vulnerabilities](https://www.securityweek.com/fortinet-patches-nearly-100-vulnerabilities/)
-- [Bay Raises $50 Million to Control What Enterprise AI Agents Can Do](https://www.securityweek.com/bay-raises-50-million-to-control-what-enterprise-ai-agents-can-do/)
-- [Dreeze Emerges From Stealth With $33M to Rebuild Cloud Apps After Cyberattacks](https://www.securityweek.com/dreeze-emerges-from-stealth-with-33m-to-rebuild-cloud-apps-after-cyberattacks/)
+- [Chrome, Firefox Updates Patch Over 180 Vulnerabilities](https://www.securityweek.com/chrome-firefox-updates-patch-180-vulnerabilities/)
+- [Attacker Targets 60,000 GitHub Repositories in Credential Theft Campaign](https://www.securityweek.com/attacker-targets-60000-github-repositories-in-credential-theft-campaign/)
+- [Daylight Lands $80 Million for AI-Powered Security Operations](https://www.securityweek.com/daylight-lands-80-million-for-ai-powered-security-operations/)
+- [Notion Customer Data Compromised in Fireworks AI Hack](https://www.securityweek.com/notion-customer-data-compromised-in-fireworks-ai-hack/)
+- [Hackers Deploy Malware in Fresh ScreenConnect Campaign](https://www.securityweek.com/hackers-deploy-malware-in-fresh-screenconnect-campaign/)
+- [Hackers Target N-central Zero-Days as N-able Rushes Patches](https://www.securityweek.com/hackers-target-n-central-zero-days-as-n-able-rushes-patches/)
+- [Critical Red Hat Quay Vulnerability Could Expose Private Container Images](https://www.securityweek.com/critical-red-hat-quay-vulnerability-could-expose-private-container-images/)
+- [Maersk Confirms Data Theft Amid $5 Million Extortion Attempt](https://www.securityweek.com/maersk-confirms-data-theft-amid-5-million-extortion-attempt/)
 
 ### Threatpost
 

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-11-12 05:58 UTC |
+| 🕐 Last Updated | 2026-11-12 14:50 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`management rmm platform` • `execute arbitrary code` • `twitter whistleblower complaint` • `third party provider` • `things iot products` • `big data system` • `address public exploits` • `rebuild cloud apps` • `shinyhunters hacking group` • `extortion group krebsonsecurity`
+`third party provider` • `hackers deploy malware` • `november patch tuesday` • `bypass screenconnect authentication` • `26 13 1` • `threat research team` • `ai agent might` • `twitter whistleblower complaint` • `n able patched` • `http 2 support`
 
 ## 📄 Reports
 

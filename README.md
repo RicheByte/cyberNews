@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-11-11 23:57 UTC |
+| 🕐 Last Updated | 2026-11-12 05:58 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`management rmm platform` • `twitter whistleblower complaint` • `third party provider` • `things iot products` • `execute arbitrary code` • `address public exploits` • `ai provider will` • `shinyhunters hacking group` • `extortion group krebsonsecurity` • `xcp ng nodes`
+`management rmm platform` • `execute arbitrary code` • `twitter whistleblower complaint` • `third party provider` • `things iot products` • `big data system` • `address public exploits` • `rebuild cloud apps` • `shinyhunters hacking group` • `extortion group krebsonsecurity`
 
 ## 📄 Reports
 

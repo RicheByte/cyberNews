@@ -372,7 +372,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2899,
+      "count": 2900,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2183,7 +2183,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 696,
+      "count": 697,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2336,7 +2336,8 @@
         "2026-11-08",
         "2026-11-09",
         "2026-11-10",
-        "2026-11-11"
+        "2026-11-11",
+        "2026-11-12"
       ]
     },
     "model agnostic abstractions": {
@@ -33362,12 +33363,13 @@
       ]
     },
     "deploy cryptocurrency miners": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-10-07",
         "2026-10-08",
         "2026-10-19",
-        "2026-10-20"
+        "2026-10-20",
+        "2026-11-12"
       ]
     },
     "llm workers reach": {
@@ -34643,7 +34645,7 @@
       ]
     },
     "chameleonic cryptocurrency platform": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-10-20",
         "2026-10-21",
@@ -36938,7 +36940,7 @@
       ]
     },
     "big data system": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-12"
       ]
@@ -36950,7 +36952,7 @@
       ]
     },
     "hackers deploy malware": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-12"
       ]
@@ -36974,13 +36976,13 @@
       ]
     },
     "ai agent might": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-12"
       ]
     },
     "n able patched": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-12"
       ]
@@ -37008,20 +37010,81 @@
       "dates": [
         "2026-11-12"
       ]
+    },
+    "management applications installed": {
+      "count": 1,
+      "dates": [
+        "2026-11-12"
+      ]
+    },
+    "private container images": {
+      "count": 1,
+      "dates": [
+        "2026-11-12"
+      ]
+    },
+    "stealc malware operations": {
+      "count": 1,
+      "dates": [
+        "2026-11-12"
+      ]
+    },
+    "cve 2026 111497": {
+      "count": 1,
+      "dates": [
+        "2026-11-12"
+      ]
+    },
+    "october 21 2026": {
+      "count": 1,
+      "dates": [
+        "2026-11-12"
+      ]
+    },
+    "compromised allowing hackers": {
+      "count": 1,
+      "dates": [
+        "2026-11-12"
+      ]
+    },
+    "siemens ruggedcom ape1808": {
+      "count": 1,
+      "dates": [
+        "2026-11-12"
+      ]
+    },
+    "cve 2026 109619": {
+      "count": 1,
+      "dates": [
+        "2026-11-12"
+      ]
+    },
+    "cve 2026 109618": {
+      "count": 1,
+      "dates": [
+        "2026-11-12"
+      ]
+    },
+    "place right away": {
+      "count": 1,
+      "dates": [
+        "2026-11-12"
+      ]
+    },
+    "local windows user": {
+      "count": 1,
+      "dates": [
+        "2026-11-12"
+      ]
+    },
+    "http 2 module": {
+      "count": 1,
+      "dates": [
+        "2026-11-12"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-19 09:30",
-      "articles": 48,
-      "top_keywords": [
-        "canadian cybersecurity firm",
-        "security experts warn",
-        "taiwan research organizations",
-        "us bankruptcy courts",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-10-19 16:44",
       "articles": 48,
@@ -38109,6 +38172,17 @@
         "november patch tuesday",
         "bypass screenconnect authentication",
         "26 13 1"
+      ]
+    },
+    {
+      "timestamp": "2026-11-12 21:59",
+      "articles": 56,
+      "top_keywords": [
+        "management applications installed",
+        "private container images",
+        "hackers deploy malware",
+        "stealc malware operations",
+        "cve 2026 111497"
       ]
     }
   ]

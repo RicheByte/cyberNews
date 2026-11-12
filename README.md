@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-11-12 14:50 UTC |
+| 🕐 Last Updated | 2026-11-12 21:59 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`third party provider` • `hackers deploy malware` • `november patch tuesday` • `bypass screenconnect authentication` • `26 13 1` • `threat research team` • `ai agent might` • `twitter whistleblower complaint` • `n able patched` • `http 2 support`
+`management applications installed` • `private container images` • `hackers deploy malware` • `stealc malware operations` • `cve 2026 111497` • `n able patched` • `big data system` • `october 21 2026` • `compromised allowing hackers` • `siemens ruggedcom ape1808`
 
 ## 📄 Reports
 

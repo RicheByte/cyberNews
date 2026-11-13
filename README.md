@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-11-13 11:47 UTC |
+| 🕐 Last Updated | 2026-11-13 19:04 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`private container images` • `management applications installed` • `cve 2026 111497` • `siemens ruggedcom ape1808` • `twitter whistleblower complaint` • `steal cloud credentials` • `place right away` • `http 2 module` • `backdoor called tsga` • `400 million worth`
+`management applications installed` • `three malware tools` • `cve 2026 111497` • `released emergency hotfixes` • `global outage microsoft` • `siemens ruggedcom ape1808` • `twitter whistleblower complaint` • `things iot products` • `big data system` • `0x80041008 error codes`
 
 ## 📄 Reports
 

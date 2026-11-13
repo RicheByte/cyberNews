@@ -372,7 +372,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2902,
+      "count": 2903,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -18919,7 +18919,7 @@
       ]
     },
     "unknown threat actor": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-05-29",
         "2026-05-30",
@@ -36464,7 +36464,7 @@
       ]
     },
     "things iot products": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-11-06",
         "2026-11-07",
@@ -36472,7 +36472,8 @@
         "2026-11-09",
         "2026-11-10",
         "2026-11-11",
-        "2026-11-12"
+        "2026-11-12",
+        "2026-11-13"
       ]
     },
     "step change improvement": {
@@ -36946,7 +36947,7 @@
       ]
     },
     "big data system": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-11-12",
         "2026-11-13"
@@ -37021,7 +37022,7 @@
       ]
     },
     "management applications installed": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-12",
         "2026-11-13"
@@ -37042,7 +37043,7 @@
       ]
     },
     "cve 2026 111497": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-12",
         "2026-11-13"
@@ -37063,21 +37064,21 @@
       ]
     },
     "siemens ruggedcom ape1808": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-12",
         "2026-11-13"
       ]
     },
     "cve 2026 109619": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-12",
         "2026-11-13"
       ]
     },
     "cve 2026 109618": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-12",
         "2026-11-13"
@@ -37116,7 +37117,7 @@
       ]
     },
     "released emergency hotfixes": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-13"
       ]
@@ -37134,6 +37135,60 @@
       ]
     },
     "wipe esxi files": {
+      "count": 2,
+      "dates": [
+        "2026-11-13"
+      ]
+    },
+    "three malware tools": {
+      "count": 1,
+      "dates": [
+        "2026-11-13"
+      ]
+    },
+    "global outage microsoft": {
+      "count": 1,
+      "dates": [
+        "2026-11-13"
+      ]
+    },
+    "0x80041008 error codes": {
+      "count": 1,
+      "dates": [
+        "2026-11-13"
+      ]
+    },
+    "cve 2026 6460": {
+      "count": 1,
+      "dates": [
+        "2026-11-13"
+      ]
+    },
+    "november updates microsoft": {
+      "count": 1,
+      "dates": [
+        "2026-11-13"
+      ]
+    },
+    "vmware esxi hosts": {
+      "count": 1,
+      "dates": [
+        "2026-11-13"
+      ]
+    },
+    "trying different ways": {
+      "count": 1,
+      "dates": [
+        "2026-11-13"
+      ]
+    },
+    "ticket contains instructions": {
+      "count": 1,
+      "dates": [
+        "2026-11-13"
+      ]
+    },
+    "threat actors tied": {
       "count": 1,
       "dates": [
         "2026-11-13"
@@ -37141,17 +37196,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-20 00:53",
-      "articles": 48,
-      "top_keywords": [
-        "stealthy fortigate implant",
-        "rank math pro",
-        "range run code",
-        "deploy cryptocurrency miners",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-10-20 07:01",
       "articles": 48,
@@ -38239,6 +38283,17 @@
         "cve 2026 111497",
         "siemens ruggedcom ape1808",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-11-13 19:04",
+      "articles": 56,
+      "top_keywords": [
+        "management applications installed",
+        "three malware tools",
+        "cve 2026 111497",
+        "released emergency hotfixes",
+        "global outage microsoft"
       ]
     }
   ]

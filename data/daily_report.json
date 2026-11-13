@@ -1,72 +1,141 @@
 {
-  "last_updated": "2026-11-13 11:47",
+  "last_updated": "2026-11-13 19:04",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "private container images",
     "management applications installed",
+    "three malware tools",
     "cve 2026 111497",
+    "released emergency hotfixes",
+    "global outage microsoft",
     "siemens ruggedcom ape1808",
     "twitter whistleblower complaint",
-    "steal cloud credentials",
-    "place right away",
-    "http 2 module",
-    "backdoor called tsga",
-    "400 million worth",
+    "things iot products",
+    "big data system",
+    "0x80041008 error codes",
+    "cve 2026 6460",
     "cve 2026 109619",
     "cve 2026 109618",
-    "ai agent might",
-    "big data system",
-    "released emergency hotfixes",
-    "october 30 2026",
-    "october 21 2026",
-    "poc released hackers",
+    "november updates microsoft",
     "wipe esxi files",
-    "unknown threat actor"
+    "vmware esxi hosts",
+    "unknown threat actor",
+    "trying different ways",
+    "ticket contains instructions",
+    "threat actors tied"
   ],
   "trending": [
     {
-      "keyword": "private container images",
-      "mentions": 3
-    },
-    {
       "keyword": "management applications installed",
-      "mentions": 3
+      "mentions": 4
     },
     {
-      "keyword": "cve 2026 111497",
-      "mentions": 3
-    },
-    {
-      "keyword": "siemens ruggedcom ape1808",
-      "mentions": 3
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2902
-    },
-    {
-      "keyword": "steal cloud credentials",
-      "mentions": 5
-    },
-    {
-      "keyword": "place right away",
-      "mentions": 3
-    },
-    {
-      "keyword": "http 2 module",
-      "mentions": 3
-    },
-    {
-      "keyword": "backdoor called tsga",
+      "keyword": "three malware tools",
       "mentions": 1
     },
     {
-      "keyword": "400 million worth",
+      "keyword": "cve 2026 111497",
+      "mentions": 4
+    },
+    {
+      "keyword": "released emergency hotfixes",
       "mentions": 2
+    },
+    {
+      "keyword": "global outage microsoft",
+      "mentions": 1
+    },
+    {
+      "keyword": "siemens ruggedcom ape1808",
+      "mentions": 4
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2903
+    },
+    {
+      "keyword": "things iot products",
+      "mentions": 22
+    },
+    {
+      "keyword": "big data system",
+      "mentions": 6
+    },
+    {
+      "keyword": "0x80041008 error codes",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
+      "link": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
+      "summary": "A type confusion flaw in PostgreSQL lets a database user who can create objects run code on the server. Updates released yesterday fix it, along with 51 other security flaws. Full protection from this flaw also requires rebuilding any C-language extensions installed on the server. The flaw, tracked as CVE-2026-6460, has a CVSS score of 8.8. Any code run this way has the rights of the operating",
+      "published": "Fri, 13 Nov 2026 22:23:08 +0530",
+      "value_score": 56,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE",
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
+      "link": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
+      "summary": "Two attacks made public this week allow a malicious host to read data inside AMD SEV-SNP-protected virtual machines (VMs), which are built to keep the server's operator out. One of them, Mior, can also modify a VM's memory and fake the signed report confirming which software it runs. Both need control of the server's hypervisor, and Mior also needs control of the server's BIOS. Researchers",
+      "published": "Fri, 13 Nov 2026 20:57:05 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
+      "link": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) has established that threat actors tied to the Democratic People's Republic of Korea (DPRK aka North Korea) have stolen more than $400 million worth of cryptocurrency as part of a social engineering scheme codenamed FaceStealer in the last 18 months. As part of a coordinated set of actions announced by the U.S. government, the cloud-based",
+      "published": "Fri, 13 Nov 2026 19:58:58 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases",
+      "link": "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html",
+      "summary": "Three Trezor Safe 5 wallets bought from the reseller CryptoBilis contain an implant, an extra circuit board that can copy their recovery phrases, hardware wallet maker Trezor said yesterday. The implant reads the phrase from the wallet's screen and sends it over the mobile network to a server controlled by the attackers. The company examined one of the wallets in its lab, identified the other",
+      "published": "Fri, 13 Nov 2026 19:24:20 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "When an AI Agent Goes Wrong, Can You Stop It?",
+      "link": "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html",
+      "summary": "Suppose an AI agent is asked to sort support tickets and look up account details. A ticket contains instructions that lead the agent to export records to an unfamiliar destination. The agent can make the request because its identity has access to the records and its connected tools allow the action. That kind of scenario raises a response question: what does “stop the agent” actually mean? A",
+      "published": "Fri, 13 Nov 2026 17:22:31 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users",
+      "link": "https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html",
+      "summary": "A newly identified spying group used hacked equipment inside Asian mobile operators to intercept the calls and texts of selected people, mostly in Taiwan. Enea, a telecom and cybersecurity software company based in Stockholm, found the group's attack sources in at least six Asian countries and named it SilentAir this week. It assessed with high confidence that SilentAir is a state-level actor,",
+      "published": "Fri, 13 Nov 2026 16:40:40 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins",
+      "link": "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html",
+      "summary": "An international police operation took down servers behind Gootloader, CastleRAT and StealC this week. Criminals used the three malware tools to gain access to computers, steal passwords, and launch ransomware attacks. Police also seized about 6.4 million stolen logins belonging to more than 40,000 victims, according to Germany's Federal Criminal Police Office (BKA). Gootloader is a loader:",
+      "published": "Fri, 13 Nov 2026 16:25:03 +0530",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
@@ -81,80 +150,40 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html",
-      "summary": "N-able on Thursday said it's taking additional precautions in the wake of public disclosure of a new set of flaws tracked as 4EverAble2Shell and Agent2Shell. \"We are restricting certain N-central features and integrations,\" the company said in a Thursday update. \"These measures may affect some functionality, but we believe taking additional precautions while remediation is completed is the",
-      "published": "Fri, 13 Nov 2026 11:13:28 +0530",
-      "value_score": 24,
-      "value_signals": [
-        "Patch/update",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
-      "link": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
-      "summary": "Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what can they access? A suspicious login might belong to an employee. An unusual API call could come from a machine account. Or an AI agent might be accessing sensitive systems using permissions nobody",
-      "published": "Thu, 12 Nov 2026 23:37:15 +0530",
+      "source": "BleepingComputer",
+      "title": "German military drone operations disrupted by cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
+      "summary": "German defense technology company Quantum Systems confirmed that it detected an incident in late October that was part of an active cyberattack by \"hostile actors.\" [...]",
+      "published": "Fri, 13 Nov 2026 12:31:56 -0500",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories",
-      "link": "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html",
-      "summary": "A search result isn't always safe. An access request isn't always harmless. And a familiar account doesn't always mean a familiar person is using it. Simple things to remember. Yet a surprising amount of this week's trouble starts right there. Attackers are using fake websites, stolen access, and trusted tools to get into places they shouldn't be. AI is helping them build attacks faster, while",
-      "published": "Thu, 12 Nov 2026 23:32:51 +0530",
+      "source": "BleepingComputer",
+      "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
+      "link": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
+      "summary": "Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shell attacks that deployed data-wiping malware on VMware ESXi hosts. [...]",
+      "published": "Fri, 13 Nov 2026 11:21:43 -0500",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access",
-      "link": "https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html",
-      "summary": "Public exploit code released earlier this week claims that a local Windows user can gain SYSTEM privileges through the Common Log File System driver. The proof of concept, called SignDrop, targets a log-authentication feature added to the driver last year. It abuses how clfs.sys creates companion files when a privileged process opens a prepared log, using path redirection to take control of",
-      "published": "Thu, 12 Nov 2026 23:20:27 +0530",
-      "value_score": 51,
+      "source": "BleepingComputer",
+      "title": "How one AI agent exposed five critical enterprise security gaps",
+      "link": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
+      "summary": "An AI agent built to automate invoice processing could be manipulated into changing vendor bank details through a malicious email, without triggering traditional security alerts. Token Security examines five critical AI agent security gaps and shares practical guidance from industry security leaders on preventing them. [...]",
+      "published": "Fri, 13 Nov 2026 10:01:11 -0500",
+      "value_score": 26,
       "value_signals": [
-        "Zero-day",
-        "PoC available",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry",
-      "link": "https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html",
-      "summary": "A critical flaw in Red Hat Quay allows an attacker who can access a Quay registry to read and overwrite private container images in every repository. Quay enables anonymous access by default, and while it is enabled, the attacker needs no account. When it is off, anyone with a valid account can still exploit the flaw, Red Hat said yesterday. The company has released fixed builds for eight Quay",
-      "published": "Thu, 12 Nov 2026 21:57:01 +0530",
-      "value_score": 40,
-      "value_signals": [
-        "Patch/update",
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass",
-      "link": "https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html",
-      "summary": "Citrix has released patches for multiple critical security flaws impacting NetScaler ADC, Citrix NetScaler Gateway, and NetScaler Console that could lead to denial-of-service (DoS) or an authentication bypass. The critical vulnerabilities that impact NetScaler ADC and NetScaler Gateway are listed below - CVE-2026-120868 (CVSS score: 9.3) - A memory overflow vulnerability in Packet",
-      "published": "Thu, 12 Nov 2026 21:08:49 +0530",
-      "value_score": 74,
-      "value_signals": [
-        "CVE mentioned",
-        "Auth bypass ×2",
         "High severity ×2"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers",
-      "link": "https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html",
-      "summary": "Cybersecurity researchers have found that lookalike domains masquerading as artificial intelligence (AI) tools are being used to serve ClickFix-style lures, browser-hijacking malware, and a set of extensions that hijack user searches. This delivery pattern has been codenamed TypoPrompting by Island. \"AI-app lookalikes that turn an attempt to reach a familiar tool into a prompt to verify,",
-      "published": "Thu, 12 Nov 2026 20:45:40 +0530",
+      "source": "BleepingComputer",
+      "title": "Microsoft says November security updates cause printing issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/",
+      "summary": "Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting. [...]",
+      "published": "Fri, 13 Nov 2026 07:27:40 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -198,51 +227,6 @@
       "published": "Thu, 12 Nov 2026 17:53:10 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
-      "summary": "A new campaign dubbed 'wfx-loot' has unfolded on GitHub where threat actors used 4,837 compromised accounts to probe 61,764 repositories, open pull requests, and push secrets-stealing malware. [...]",
-      "published": "Thu, 12 Nov 2026 17:25:30 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
-      "summary": "Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide. [...]",
-      "published": "Thu, 12 Nov 2026 15:15:16 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
-      "link": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
-      "summary": "Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed \"4EverAble2Shell\" to compromise servers and deploy cryptocurrency miners, with researchers reporting at least 21 affected systems, including 19 running the company's latest security update. [...]",
-      "published": "Thu, 12 Nov 2026 14:51:16 -0500",
-      "value_score": 84,
-      "value_signals": [
-        "Zero-day ×2",
-        "PoC available",
-        "Patch/update",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
-      "summary": "A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE). [...]",
-      "published": "Thu, 12 Nov 2026 14:12:55 -0500",
-      "value_score": 72,
-      "value_signals": [
-        "RCE ×3",
-        "High severity ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -337,6 +321,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Attackers in Binance Breach Targeted Known Weakness, Missing Controls",
+      "link": "https://www.darkreading.com/cybersecurity-operations/attackers-binance-breach-targeted-weakness-missing-controls",
+      "summary": "Blockchain complexities, such as attacker-deployed sweepers, hobble security controls designed to limit the damage of an exchange compromise.",
+      "published": "Fri, 13 Nov 2026 13:00:00 GMT",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Getting Past the Post-Quantum Cryptography Discovery Phase",
       "link": "https://www.darkreading.com/cybersecurity-operations/getting-past-post-quantum-cryptography-discovery",
       "summary": "Most organizations haven't sorted out their cryptographic estate enough to even know where they'd start with post-quantum cryptography (PQC).",
@@ -403,11 +398,42 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Attackers Say 'Hello' to a Different Scale of Cloud Attack",
-      "link": "https://www.darkreading.com/cloud-security/attackers-hello-scale-cloud-attack",
-      "summary": "Researchers dubbed an attack chain \"Greeter\" after discovering that attackers deliberately covered their trail by leaving \"hello\" messages in logs.",
-      "published": "Wed, 11 Nov 2026 21:44:04 GMT",
+      "source": "Security Week",
+      "title": "In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach",
+      "link": "https://www.securityweek.com/in-other-news-new-cisa-director-nominee-connected-car-hacking-baker-tilly-data-breach/",
+      "summary": "Noteworthy stories that might have slipped under the radar: Siemens details security advisory policy, OpenAI Codex backdoor risk, Microsoft warns of model weight backdoors. The post In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach appeared first on SecurityWeek .",
+      "published": "Fri, 13 Nov 2026 15:20:00 +0000",
+      "value_score": 86,
+      "value_signals": [
+        "Breach/leak ×2",
+        "Backdoor",
+        "CISA/KEV ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Microsoft Struggles to Restore Email and Other Services in a Global Outage",
+      "link": "https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/",
+      "summary": "Microsoft is trying different ways to identify the cause of the problem and get its servers back online, using “a measured approach to identify and repair affected infrastructure.” The post Microsoft Struggles to Restore Email and Other Services in a Global Outage appeared first on SecurityWeek .",
+      "published": "Fri, 13 Nov 2026 13:47:42 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Apify Confirms Customer Data Accessed in Cyberattack",
+      "link": "https://www.securityweek.com/apify-confirms-customer-data-accessed-in-cyberattack/",
+      "summary": "The web scraping company says an intruder accessed customer accounts and obtained personal information or stored data. The post Apify Confirms Customer Data Accessed in Cyberattack appeared first on SecurityWeek .",
+      "published": "Fri, 13 Nov 2026 12:41:01 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "SilentAir Hackers Intercept Calls, SMS From Inside Mobile Networks",
+      "link": "https://www.securityweek.com/silentair-hackers-intercept-calls-sms-from-inside-mobile-networks/",
+      "summary": "Enea says SilentAir hijacked mobile network nodes to intercept calls and messages, with Taiwanese subscribers the primary targets. The post SilentAir Hackers Intercept Calls, SMS From Inside Mobile Networks appeared first on SecurityWeek .",
+      "published": "Fri, 13 Nov 2026 12:20:28 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -452,49 +478,6 @@
         "Zero-day ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "PHP2Shell Exploited in Destructive Check Point Gateway Attacks",
-      "link": "https://www.securityweek.com/php2shell-exploited-in-destructive-check-point-gateway-attacks/",
-      "summary": "PHP2Shell enabled initial compromise, while CVE-2026-123039 allowed attackers to elevate privileges to root. The post PHP2Shell Exploited in Destructive Check Point Gateway Attacks appeared first on SecurityWeek .",
-      "published": "Fri, 13 Nov 2026 07:39:04 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "CVE mentioned",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Hackers Exploit New N-central Zero-Day Hours After PoC Publication",
-      "link": "https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication/",
-      "summary": "Dubbed 4EverAble2Shell, the flaw could allow remote, unauthenticated attackers to execute code with root privileges. The post Hackers Exploit New N-central Zero-Day Hours After PoC Publication appeared first on SecurityWeek .",
-      "published": "Fri, 13 Nov 2026 07:20:50 +0000",
-      "value_score": 86,
-      "value_signals": [
-        "Zero-day ×2",
-        "PoC available ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen From Binance",
-      "link": "https://www.securityweek.com/fbi-says-us-seized-1-2-billion-worth-of-cryptocurrency-stolen-from-binance/",
-      "summary": "Also Thursday, the FBI blamed North Korea for a separate social engineering scheme that officials say resulted in the theft of $400 million worth of cryptocurrency. The post FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen From Binance appeared first on SecurityWeek .",
-      "published": "Fri, 13 Nov 2026 02:28:21 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Microsoft 365 Outage Disrupts Outlook, Exchange Online and Teams",
-      "link": "https://www.securityweek.com/microsoft-365-outage-disrupts-outlook-exchange-online-and-teams/",
-      "summary": "Microsoft says failed server health checks disrupted Outlook and other Microsoft 365 services. The company is still investigating the cause and has disclosed no evidence of a cyberattack. The post Microsoft 365 Outage Disrupts Outlook, Exchange Online and Teams appeared first on SecurityWeek .",
-      "published": "Thu, 12 Nov 2026 20:55:30 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

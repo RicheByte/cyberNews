@@ -372,7 +372,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2901,
+      "count": 2902,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -18919,7 +18919,7 @@
       ]
     },
     "unknown threat actor": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2026-05-29",
         "2026-05-30",
@@ -18932,7 +18932,8 @@
         "2026-06-30",
         "2026-07-01",
         "2026-10-26",
-        "2026-10-27"
+        "2026-10-27",
+        "2026-11-13"
       ]
     },
     "protect user data": {
@@ -30904,7 +30905,7 @@
       ]
     },
     "steal cloud credentials": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-09-14",
         "2026-09-15",
@@ -36945,7 +36946,7 @@
       ]
     },
     "big data system": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-11-12",
         "2026-11-13"
@@ -36983,7 +36984,7 @@
       ]
     },
     "ai agent might": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-12",
         "2026-11-13"
@@ -37020,14 +37021,14 @@
       ]
     },
     "management applications installed": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-12",
         "2026-11-13"
       ]
     },
     "private container images": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-12",
         "2026-11-13"
@@ -37041,14 +37042,14 @@
       ]
     },
     "cve 2026 111497": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-12",
         "2026-11-13"
       ]
     },
     "october 21 2026": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-12",
         "2026-11-13"
@@ -37062,28 +37063,28 @@
       ]
     },
     "siemens ruggedcom ape1808": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-12",
         "2026-11-13"
       ]
     },
     "cve 2026 109619": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-12",
         "2026-11-13"
       ]
     },
     "cve 2026 109618": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-12",
         "2026-11-13"
       ]
     },
     "place right away": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-12",
         "2026-11-13"
@@ -37096,13 +37097,43 @@
       ]
     },
     "http 2 module": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-12",
         "2026-11-13"
       ]
     },
     "400 million worth": {
+      "count": 2,
+      "dates": [
+        "2026-11-13"
+      ]
+    },
+    "backdoor called tsga": {
+      "count": 1,
+      "dates": [
+        "2026-11-13"
+      ]
+    },
+    "released emergency hotfixes": {
+      "count": 1,
+      "dates": [
+        "2026-11-13"
+      ]
+    },
+    "october 30 2026": {
+      "count": 1,
+      "dates": [
+        "2026-11-13"
+      ]
+    },
+    "poc released hackers": {
+      "count": 1,
+      "dates": [
+        "2026-11-13"
+      ]
+    },
+    "wipe esxi files": {
       "count": 1,
       "dates": [
         "2026-11-13"
@@ -37110,17 +37141,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-19 21:55",
-      "articles": 48,
-      "top_keywords": [
-        "stealthy fortigate implant",
-        "rank math pro",
-        "range run code",
-        "deploy cryptocurrency miners",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-10-20 00:53",
       "articles": 48,
@@ -38208,6 +38228,17 @@
         "hackers deploy malware",
         "stealc malware operations",
         "big data system"
+      ]
+    },
+    {
+      "timestamp": "2026-11-13 11:47",
+      "articles": 56,
+      "top_keywords": [
+        "private container images",
+        "management applications installed",
+        "cve 2026 111497",
+        "siemens ruggedcom ape1808",
+        "twitter whistleblower complaint"
       ]
     }
   ]

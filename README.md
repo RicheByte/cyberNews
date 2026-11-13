@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-11-13 02:30 UTC |
+| 🕐 Last Updated | 2026-11-13 11:47 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`management applications installed` • `private container images` • `hackers deploy malware` • `stealc malware operations` • `big data system` • `400 million worth` • `cve 2026 111497` • `compromised allowing hackers` • `steal cloud credentials` • `siemens ruggedcom ape1808`
+`private container images` • `management applications installed` • `cve 2026 111497` • `siemens ruggedcom ape1808` • `twitter whistleblower complaint` • `steal cloud credentials` • `place right away` • `http 2 module` • `backdoor called tsga` • `400 million worth`
 
 ## 📄 Reports
 

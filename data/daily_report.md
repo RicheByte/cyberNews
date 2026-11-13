@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-11-13 02:30 UTC  
+> **Last Updated:** 2026-11-13 11:47 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**management applications installed** • **private container images** • **hackers deploy malware** • **stealc malware operations** • **big data system** • **400 million worth** • **cve 2026 111497** • **compromised allowing hackers** • **steal cloud credentials** • **siemens ruggedcom ape1808** • **twitter whistleblower complaint** • **place right away** • **ai agent might** • **cve 2026 109619** • **cve 2026 109618** • **sprawling phishing campaign** • **http 2 module** • **gain system privileges** • **october 21 2026** • **frequent attack vector**
+**private container images** • **management applications installed** • **cve 2026 111497** • **siemens ruggedcom ape1808** • **twitter whistleblower complaint** • **steal cloud credentials** • **place right away** • **http 2 module** • **backdoor called tsga** • **400 million worth** • **cve 2026 109619** • **cve 2026 109618** • **ai agent might** • **big data system** • **released emergency hotfixes** • **october 30 2026** • **october 21 2026** • **poc released hackers** • **wipe esxi files** • **unknown threat actor**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files](https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html)
+- [Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2](https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html)
 - [Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them](https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html)
 - [ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories](https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html)
 - [New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access](https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html)
 - [Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry](https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html)
 - [Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass](https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html)
 - [186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers](https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html)
-- [SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths](https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html)
-- [Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs](https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html)
 
 ### BleepingComputer
 
+- [Check Point warns of zero-day flaw exploited for root access](https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/)
+- [Microsoft confirms Windows activation failures after November updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/)
+- [Police arrest 354 suspects in dark web cybercrime crackdown](https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/)
 - [New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks](https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/)
 - [Hackers compromise 4,800 GitHub accounts to steal cloud credentials](https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/)
 - [Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide](https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/)
 - [New N-able "4EverAble2Shell" zero-day exploited hours after PoC released](https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/)
 - [Apache HTTP Server patches critical HTTP/2 remote code execution flaw](https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/)
-- [New Windows SignDrop zero-day gives hackers SYSTEM privileges](https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/)
-- [Police dismantle Gootloader, CastleRAT, StealC malware infrastructure](https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/)
-- [Your Endpoint Management Platform Could Be Your Biggest Security Risk](https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Getting Past the Post-Quantum Cryptography Discovery Phase](https://www.darkreading.com/cybersecurity-operations/getting-past-post-quantum-cryptography-discovery)
 - [Cyber Experts Weigh In: How to Fight Artex &amp; AntiFox](https://www.darkreading.com/cybersecurity-operations/cyber-experts-fight-artex-antifox)
 - [Extortion Group Luna Moth Flits Into Law Firms a Second Time](https://www.darkreading.com/data-privacy/extortion-luna-moth-law-firms-second-time)
 - [Inside an AI Attack Against a US Retailer](https://www.darkreading.com/cyberattacks-data-breaches/inside-ai-attack-us-retailer)
@@ -56,18 +57,17 @@
 - [Japan Pushes Emergency Funding for Cybersecurity as AI-Assisted Breaches Rise](https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches)
 - [AIを活用したサイバー攻撃の増加を受け、日本がサイバーセキュリティへの緊急資金拠出を推進](https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches-japanese)
 - [Attackers Say 'Hello' to a Different Scale of Cloud Attack](https://www.darkreading.com/cloud-security/attackers-hello-scale-cloud-attack)
-- [AI Raises the Stakes for Cyber Resilience](https://www.darkreading.com/cyber-risk/ai-raises-stakes-cyber-resilience)
 
 ### Security Week
 
+- [Law Enforcement Disrupts Gootloader, CastleRAT, and StealC Infrastructure](https://www.securityweek.com/law-enforcement-disrupts-gootloader-castlerat-and-stealc-infrastructure/)
+- [Citrix Patches 10 Critical NetScaler Vulnerabilities](https://www.securityweek.com/citrix-patches-10-critical-netscaler-vulnerabilities/)
+- [OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools](https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/)
+- [Nightmare Eclipse Drops Windows Zero-Day Exploit ‘SignDrop’](https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/)
+- [PHP2Shell Exploited in Destructive Check Point Gateway Attacks](https://www.securityweek.com/php2shell-exploited-in-destructive-check-point-gateway-attacks/)
+- [Hackers Exploit New N-central Zero-Day Hours After PoC Publication](https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication/)
 - [FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen From Binance](https://www.securityweek.com/fbi-says-us-seized-1-2-billion-worth-of-cryptocurrency-stolen-from-binance/)
 - [Microsoft 365 Outage Disrupts Outlook, Exchange Online and Teams](https://www.securityweek.com/microsoft-365-outage-disrupts-outlook-exchange-online-and-teams/)
-- [Apache Patches Critical HTTP Server RCE Found by Anthropic, Google](https://www.securityweek.com/apache-patches-critical-http-server-rce-found-by-anthropic-google/)
-- [Chrome, Firefox Updates Patch Over 180 Vulnerabilities](https://www.securityweek.com/chrome-firefox-updates-patch-180-vulnerabilities/)
-- [Attacker Targets 60,000 GitHub Repositories in Credential Theft Campaign](https://www.securityweek.com/attacker-targets-60000-github-repositories-in-credential-theft-campaign/)
-- [Daylight Lands $80 Million for AI-Powered Security Operations](https://www.securityweek.com/daylight-lands-80-million-for-ai-powered-security-operations/)
-- [Notion Customer Data Compromised in Fireworks AI Hack](https://www.securityweek.com/notion-customer-data-compromised-in-fireworks-ai-hack/)
-- [Hackers Deploy Malware in Fresh ScreenConnect Campaign](https://www.securityweek.com/hackers-deploy-malware-in-fresh-screenconnect-campaign/)
 
 ### Threatpost
 

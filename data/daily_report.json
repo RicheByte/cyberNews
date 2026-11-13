@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12 21:59",
+  "last_updated": "2026-11-13 02:30",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,63 +7,63 @@
     "private container images",
     "hackers deploy malware",
     "stealc malware operations",
-    "cve 2026 111497",
-    "n able patched",
     "big data system",
-    "october 21 2026",
+    "400 million worth",
+    "cve 2026 111497",
     "compromised allowing hackers",
+    "steal cloud credentials",
     "siemens ruggedcom ape1808",
-    "cve 2026 109619",
-    "cve 2026 109618",
     "twitter whistleblower complaint",
     "place right away",
-    "deploy cryptocurrency miners",
-    "chameleonic cryptocurrency platform",
     "ai agent might",
+    "cve 2026 109619",
+    "cve 2026 109618",
     "sprawling phishing campaign",
-    "local windows user",
-    "http 2 module"
+    "http 2 module",
+    "gain system privileges",
+    "october 21 2026",
+    "frequent attack vector"
   ],
   "trending": [
     {
       "keyword": "management applications installed",
-      "mentions": 1
-    },
-    {
-      "keyword": "private container images",
-      "mentions": 1
-    },
-    {
-      "keyword": "hackers deploy malware",
       "mentions": 2
     },
     {
+      "keyword": "private container images",
+      "mentions": 2
+    },
+    {
+      "keyword": "hackers deploy malware",
+      "mentions": 3
+    },
+    {
       "keyword": "stealc malware operations",
-      "mentions": 1
-    },
-    {
-      "keyword": "cve 2026 111497",
-      "mentions": 1
-    },
-    {
-      "keyword": "n able patched",
       "mentions": 2
     },
     {
       "keyword": "big data system",
-      "mentions": 3
+      "mentions": 4
     },
     {
-      "keyword": "october 21 2026",
+      "keyword": "400 million worth",
       "mentions": 1
+    },
+    {
+      "keyword": "cve 2026 111497",
+      "mentions": 2
     },
     {
       "keyword": "compromised allowing hackers",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "steal cloud credentials",
+      "mentions": 4
     },
     {
       "keyword": "siemens ruggedcom ape1808",
-      "mentions": 1
+      "mentions": 2
     }
   ],
   "articles": [
@@ -160,6 +160,24 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
+      "summary": "A new worm-like malware toolkit named SCKit was deployed in the recent ScreenConnect attacks targeting managed service providers (MSPs), designed to spread from infected customer devices to MSP technicians' computers and compromise additional managed networks. [...]",
+      "published": "Thu, 12 Nov 2026 17:53:10 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
+      "summary": "A new campaign dubbed 'wfx-loot' has unfolded on GitHub where threat actors used 4,837 compromised accounts to probe 61,764 repositories, open pull requests, and push secrets-stealing malware. [...]",
+      "published": "Thu, 12 Nov 2026 17:25:30 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
       "link": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
       "summary": "Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide. [...]",
@@ -223,29 +241,6 @@
       "published": "Thu, 12 Nov 2026 10:00:10 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Apify rotates API tokens, prompts 2FA resets after breach",
-      "link": "https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/",
-      "summary": "Apify has rotated critical internal secrets and revoked some third-party OAuth connections after detecting unauthorized access to its internal systems. [...]",
-      "published": "Thu, 12 Nov 2026 09:36:47 -0500",
-      "value_score": 30,
-      "value_signals": [
-        "Breach/leak",
-        "High severity"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft: Recent Windows updates cause SQL Server performance issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/",
-      "summary": "Microsoft has confirmed that Windows updates released since the October 2026 Patch Tuesday are causing SQL Server performance and stability issues. [...]",
-      "published": "Thu, 12 Nov 2026 07:11:11 -0500",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -389,6 +384,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "AIを活用したサイバー攻撃の増加を受け、日本がサイバーセキュリティへの緊急資金拠出を推進",
+      "link": "https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches-japanese",
+      "summary": "この対策パッケージには、官民合同のサイバー対応チーム、経済省が主導するAI専門チーム、および政府の新たな能動的サイバー防衛権限の行使に関する裁量の拡大が含まれている。",
+      "published": "Wed, 11 Nov 2026 22:14:44 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Attackers Say 'Hello' to a Different Scale of Cloud Attack",
       "link": "https://www.darkreading.com/cloud-security/attackers-hello-scale-cloud-attack",
       "summary": "Researchers dubbed an attack chain \"Greeter\" after discovering that attackers deliberately covered their trail by leaving \"hello\" messages in logs.",
@@ -406,15 +410,13 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "N-able Takes N-central Platform Offline After Discovery of 33 Flaws",
-      "link": "https://www.darkreading.com/endpoint-security/n-able-n-central-offline-33-flaws",
-      "summary": "The RMM provider also released a hotfix as a recommended mitigation to address public exploits for the alleged zero-days, which allow for attacker takeover.",
-      "published": "Wed, 11 Nov 2026 20:05:18 GMT",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
+      "source": "Security Week",
+      "title": "FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen From Binance",
+      "link": "https://www.securityweek.com/fbi-says-us-seized-1-2-billion-worth-of-cryptocurrency-stolen-from-binance/",
+      "summary": "Also Thursday, the FBI blamed North Korea for a separate social engineering scheme that officials say resulted in the theft of $400 million worth of cryptocurrency. The post FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen From Binance appeared first on SecurityWeek .",
+      "published": "Fri, 13 Nov 2026 02:28:21 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -486,15 +488,6 @@
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Hackers Target N-central Zero-Days as N-able Rushes Patches",
-      "link": "https://www.securityweek.com/hackers-target-n-central-zero-days-as-n-able-rushes-patches/",
-      "summary": "The malicious activity started shortly after a researcher dropped over 30 zero-days. N-able patched the unauthenticated ones. The post Hackers Target N-central Zero-Days as N-able Rushes Patches appeared first on SecurityWeek .",
-      "published": "Thu, 12 Nov 2026 09:39:55 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

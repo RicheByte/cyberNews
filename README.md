@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-11-12 21:59 UTC |
+| 🕐 Last Updated | 2026-11-13 02:30 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`management applications installed` • `private container images` • `hackers deploy malware` • `stealc malware operations` • `cve 2026 111497` • `n able patched` • `big data system` • `october 21 2026` • `compromised allowing hackers` • `siemens ruggedcom ape1808`
+`management applications installed` • `private container images` • `hackers deploy malware` • `stealc malware operations` • `big data system` • `400 million worth` • `cve 2026 111497` • `compromised allowing hackers` • `steal cloud credentials` • `siemens ruggedcom ape1808`
 
 ## 📄 Reports
 

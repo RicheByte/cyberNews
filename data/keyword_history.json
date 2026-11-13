@@ -1,6 +1,5 @@
 {
   "dates": [
-    "2026-10-14",
     "2026-10-15",
     "2026-10-16",
     "2026-10-17",
@@ -29,7 +28,8 @@
     "2026-11-09",
     "2026-11-10",
     "2026-11-11",
-    "2026-11-12"
+    "2026-11-12",
+    "2026-11-13"
   ],
   "keywords": {
     "five cybersecurity predictions": {
@@ -372,7 +372,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2900,
+      "count": 2901,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -704,7 +704,8 @@
         "2026-11-09",
         "2026-11-10",
         "2026-11-11",
-        "2026-11-12"
+        "2026-11-12",
+        "2026-11-13"
       ]
     },
     "supposed wayward package": {
@@ -2183,7 +2184,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 697,
+      "count": 698,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2337,7 +2338,8 @@
         "2026-11-09",
         "2026-11-10",
         "2026-11-11",
-        "2026-11-12"
+        "2026-11-12",
+        "2026-11-13"
       ]
     },
     "model agnostic abstractions": {
@@ -12520,7 +12522,7 @@
       ]
     },
     "frequent attack vector": {
-      "count": 57,
+      "count": 58,
       "dates": [
         "2026-03-26",
         "2026-03-29",
@@ -12537,7 +12539,8 @@
         "2026-06-04",
         "2026-06-15",
         "2026-06-16",
-        "2026-11-03"
+        "2026-11-03",
+        "2026-11-13"
       ]
     },
     "things get shaky": {
@@ -15366,14 +15369,15 @@
       ]
     },
     "gain system privileges": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-04-23",
         "2026-04-24",
         "2026-05-21",
         "2026-05-22",
         "2026-08-12",
-        "2026-08-13"
+        "2026-08-13",
+        "2026-11-13"
       ]
     },
     "feels familiar like": {
@@ -30900,10 +30904,11 @@
       ]
     },
     "steal cloud credentials": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-09-14",
-        "2026-09-15"
+        "2026-09-15",
+        "2026-11-13"
       ]
     },
     "silently dropping writes": {
@@ -36940,9 +36945,10 @@
       ]
     },
     "big data system": {
-      "count": 3,
+      "count": 4,
       "dates": [
-        "2026-11-12"
+        "2026-11-12",
+        "2026-11-13"
       ]
     },
     "rebuild cloud apps": {
@@ -36952,9 +36958,10 @@
       ]
     },
     "hackers deploy malware": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-11-12"
+        "2026-11-12",
+        "2026-11-13"
       ]
     },
     "bypass screenconnect authentication": {
@@ -36976,9 +36983,10 @@
       ]
     },
     "ai agent might": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-11-12"
+        "2026-11-12",
+        "2026-11-13"
       ]
     },
     "n able patched": {
@@ -37012,63 +37020,73 @@
       ]
     },
     "management applications installed": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-11-12"
+        "2026-11-12",
+        "2026-11-13"
       ]
     },
     "private container images": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-11-12"
+        "2026-11-12",
+        "2026-11-13"
       ]
     },
     "stealc malware operations": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-11-12"
+        "2026-11-12",
+        "2026-11-13"
       ]
     },
     "cve 2026 111497": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-11-12"
+        "2026-11-12",
+        "2026-11-13"
       ]
     },
     "october 21 2026": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-11-12"
+        "2026-11-12",
+        "2026-11-13"
       ]
     },
     "compromised allowing hackers": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-11-12"
+        "2026-11-12",
+        "2026-11-13"
       ]
     },
     "siemens ruggedcom ape1808": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-11-12"
+        "2026-11-12",
+        "2026-11-13"
       ]
     },
     "cve 2026 109619": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-11-12"
+        "2026-11-12",
+        "2026-11-13"
       ]
     },
     "cve 2026 109618": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-11-12"
+        "2026-11-12",
+        "2026-11-13"
       ]
     },
     "place right away": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-11-12"
+        "2026-11-12",
+        "2026-11-13"
       ]
     },
     "local windows user": {
@@ -37078,24 +37096,20 @@
       ]
     },
     "http 2 module": {
+      "count": 2,
+      "dates": [
+        "2026-11-12",
+        "2026-11-13"
+      ]
+    },
+    "400 million worth": {
       "count": 1,
       "dates": [
-        "2026-11-12"
+        "2026-11-13"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-19 16:44",
-      "articles": 48,
-      "top_keywords": [
-        "stealthy fortigate implant",
-        "exploit paths exist",
-        "twitter whistleblower complaint",
-        "service everyone trusts",
-        "manipulate search results"
-      ]
-    },
     {
       "timestamp": "2026-10-19 21:55",
       "articles": 48,
@@ -38183,6 +38197,17 @@
         "hackers deploy malware",
         "stealc malware operations",
         "cve 2026 111497"
+      ]
+    },
+    {
+      "timestamp": "2026-11-13 02:30",
+      "articles": 56,
+      "top_keywords": [
+        "management applications installed",
+        "private container images",
+        "hackers deploy malware",
+        "stealc malware operations",
+        "big data system"
       ]
     }
   ]

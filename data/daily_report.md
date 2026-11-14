@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-11-13 19:04 UTC  
+> **Last Updated:** 2026-11-14 00:36 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**management applications installed** • **three malware tools** • **cve 2026 111497** • **released emergency hotfixes** • **global outage microsoft** • **siemens ruggedcom ape1808** • **twitter whistleblower complaint** • **things iot products** • **big data system** • **0x80041008 error codes** • **cve 2026 6460** • **cve 2026 109619** • **cve 2026 109618** • **november updates microsoft** • **wipe esxi files** • **vmware esxi hosts** • **unknown threat actor** • **trying different ways** • **ticket contains instructions** • **threat actors tied**
+**management applications installed** • **cve 2026 111497** • **released emergency hotfixes** • **added advanced analysis** • **global outage microsoft** • **siemens ruggedcom ape1808** • **twitter whistleblower complaint** • **three malware tools** • **things iot products** • **big data system** • **0x80041008 error codes** • **cve 2026 6460** • **cve 2026 109619** • **cve 2026 109618** • **november updates microsoft** • **type confusion flaw** • **wipe esxi files** • **vmware esxi hosts** • **unknown threat actor** • **trying different ways**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Trezor confirms crypto-stealing implants in three wallets, releases fix](https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/)
 - [German military drone operations disrupted by cyberattack](https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/)
 - [Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper](https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/)
 - [How one AI agent exposed five critical enterprise security gaps](https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/)
@@ -34,7 +35,6 @@
 - [Check Point warns of zero-day flaw exploited for root access](https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/)
 - [Microsoft confirms Windows activation failures after November updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/)
 - [Police arrest 354 suspects in dark web cybercrime crackdown](https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/)
-- [New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks](https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [ArcticRAT Cybercrime Gang Profiles Victim Finances With AI](https://www.darkreading.com/mobile-security/arcticrat-cybercrime-gang-profiles-victim-finances-ai)
 - [Attackers in Binance Breach Targeted Known Weakness, Missing Controls](https://www.darkreading.com/cybersecurity-operations/attackers-binance-breach-targeted-weakness-missing-controls)
 - [Getting Past the Post-Quantum Cryptography Discovery Phase](https://www.darkreading.com/cybersecurity-operations/getting-past-post-quantum-cryptography-discovery)
 - [Cyber Experts Weigh In: How to Fight Artex &amp; AntiFox](https://www.darkreading.com/cybersecurity-operations/cyber-experts-fight-artex-antifox)
@@ -56,10 +57,10 @@
 - [Inside an AI Attack Against a US Retailer](https://www.darkreading.com/cyberattacks-data-breaches/inside-ai-attack-us-retailer)
 - [Chinese AI Project Scouts Spies in Taiwan Chip Industry](https://www.darkreading.com/threat-intelligence/chinese-ai-project-scouts-spies-taiwan-chip-industry)
 - [Japan Pushes Emergency Funding for Cybersecurity as AI-Assisted Breaches Rise](https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches)
-- [AIを活用したサイバー攻撃の増加を受け、日本がサイバーセキュリティへの緊急資金拠出を推進](https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches-japanese)
 
 ### Security Week
 
+- [FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’](https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/)
 - [In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach](https://www.securityweek.com/in-other-news-new-cisa-director-nominee-connected-car-hacking-baker-tilly-data-breach/)
 - [Microsoft Struggles to Restore Email and Other Services in a Global Outage](https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/)
 - [Apify Confirms Customer Data Accessed in Cyberattack](https://www.securityweek.com/apify-confirms-customer-data-accessed-in-cyberattack/)
@@ -67,7 +68,6 @@
 - [Law Enforcement Disrupts Gootloader, CastleRAT, and StealC Infrastructure](https://www.securityweek.com/law-enforcement-disrupts-gootloader-castlerat-and-stealc-infrastructure/)
 - [Citrix Patches 10 Critical NetScaler Vulnerabilities](https://www.securityweek.com/citrix-patches-10-critical-netscaler-vulnerabilities/)
 - [OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools](https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/)
-- [Nightmare Eclipse Drops Windows Zero-Day Exploit ‘SignDrop’](https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/)
 
 ### Threatpost
 
@@ -82,6 +82,7 @@
 
 ### CISA Alerts
 
+- [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog)
 - [Siemens Desigo, Gridscale](https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-02)
 - [Siemens RUGGEDCOM APE1808](https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-05)
 - [Siemens RUGGEDCOM APE1808](https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-04)
@@ -89,7 +90,6 @@
 - [Siemens Industrial Edge Management](https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-03)
 - [CISA Adds Six Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog)
 - [CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/09/cisa-adds-four-known-exploited-vulnerabilities-catalog)
-- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog)
 
 ---
 

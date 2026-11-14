@@ -1,15 +1,16 @@
 {
-  "last_updated": "2026-11-13 19:04",
+  "last_updated": "2026-11-14 00:36",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "management applications installed",
-    "three malware tools",
     "cve 2026 111497",
     "released emergency hotfixes",
+    "added advanced analysis",
     "global outage microsoft",
     "siemens ruggedcom ape1808",
     "twitter whistleblower complaint",
+    "three malware tools",
     "things iot products",
     "big data system",
     "0x80041008 error codes",
@@ -17,53 +18,52 @@
     "cve 2026 109619",
     "cve 2026 109618",
     "november updates microsoft",
+    "type confusion flaw",
     "wipe esxi files",
     "vmware esxi hosts",
     "unknown threat actor",
-    "trying different ways",
-    "ticket contains instructions",
-    "threat actors tied"
+    "trying different ways"
   ],
   "trending": [
     {
       "keyword": "management applications installed",
-      "mentions": 4
-    },
-    {
-      "keyword": "three malware tools",
-      "mentions": 1
+      "mentions": 5
     },
     {
       "keyword": "cve 2026 111497",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "released emergency hotfixes",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "added advanced analysis",
+      "mentions": 1
     },
     {
       "keyword": "global outage microsoft",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "siemens ruggedcom ape1808",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2903
+      "mentions": 2904
+    },
+    {
+      "keyword": "three malware tools",
+      "mentions": 2
     },
     {
       "keyword": "things iot products",
-      "mentions": 22
+      "mentions": 23
     },
     {
       "keyword": "big data system",
-      "mentions": 6
-    },
-    {
-      "keyword": "0x80041008 error codes",
-      "mentions": 1
+      "mentions": 7
     }
   ],
   "articles": [
@@ -151,6 +151,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
+      "link": "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/",
+      "summary": "Cryptocurrency hardware wallet maker Trezor has confirmed that three Safe 5 devices sold by Southeast Asian reseller CryptoBilis contained malicious hardware implants designed to steal wallet recovery phrases and send them to attackers over cellular networks. [...]",
+      "published": "Fri, 13 Nov 2026 14:38:36 -0500",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "German military drone operations disrupted by cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
       "summary": "German defense technology company Quantum Systems confirmed that it detected an incident in late October that was part of an active cyberattack by \"hostile actors.\" [...]",
@@ -216,15 +227,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/",
       "summary": "Authorities arrested 354 suspects in a joint international operation targeting vendors and buyers on the Archetyp, Nemesis, Tor2Door, Bohemia, and Kingdom dark web marketplaces. [...]",
       "published": "Fri, 13 Nov 2026 03:34:20 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
-      "summary": "A new worm-like malware toolkit named SCKit was deployed in the recent ScreenConnect attacks targeting managed service providers (MSPs), designed to spread from infected customer devices to MSP technicians' computers and compromise additional managed networks. [...]",
-      "published": "Thu, 12 Nov 2026 17:53:10 -0500",
       "value_score": 10,
       "value_signals": []
     },
@@ -321,6 +323,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "ArcticRAT Cybercrime Gang Profiles Victim Finances With AI",
+      "link": "https://www.darkreading.com/mobile-security/arcticrat-cybercrime-gang-profiles-victim-finances-ai",
+      "summary": "The Android malware has expanded from focusing on crypto theft to full device control, and the attackers have added advanced analysis of stolen information.",
+      "published": "Fri, 13 Nov 2026 20:20:27 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Attackers in Binance Breach Targeted Known Weakness, Missing Controls",
       "link": "https://www.darkreading.com/cybersecurity-operations/attackers-binance-breach-targeted-weakness-missing-controls",
       "summary": "Blockchain complexities, such as attacker-deployed sweepers, hobble security controls designed to limit the damage of an exchange compromise.",
@@ -389,11 +400,11 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "AIを活用したサイバー攻撃の増加を受け、日本がサイバーセキュリティへの緊急資金拠出を推進",
-      "link": "https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches-japanese",
-      "summary": "この対策パッケージには、官民合同のサイバー対応チーム、経済省が主導するAI専門チーム、および政府の新たな能動的サイバー防衛権限の行使に関する裁量の拡大が含まれている。",
-      "published": "Wed, 11 Nov 2026 22:14:44 GMT",
+      "source": "Security Week",
+      "title": "FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’",
+      "link": "https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/",
+      "summary": "Federal officials have yet to say what caused the communications disruption or whether they are investigating a possible cyberattack. The post FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’ appeared first on SecurityWeek .",
+      "published": "Fri, 13 Nov 2026 21:33:27 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -466,18 +477,6 @@
       "published": "Fri, 13 Nov 2026 09:21:01 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Nightmare Eclipse Drops Windows Zero-Day Exploit ‘SignDrop’",
-      "link": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/",
-      "summary": "It abuses CLFS and Windows Defender to trigger arbitrary file creation in the context of the antimalware process. The post Nightmare Eclipse Drops Windows Zero-Day Exploit ‘SignDrop’ appeared first on SecurityWeek .",
-      "published": "Fri, 13 Nov 2026 08:50:36 +0000",
-      "value_score": 66,
-      "value_signals": [
-        "Zero-day ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",
@@ -561,6 +560,22 @@
       "published": "Mon, 22 Aug 2022 13:59:06 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-114713 UnrealIRCd Improper Neutralization of Delimiters Vulnerability CVE-2026-123039 Check Point Multiple Products Incorrect Permission Assignment for Critical Resource Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive ",
+      "published": "Fri, 13 Nov 26 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×2",
+        "CISA/KEV ×5",
+        "High severity",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
     },
     {
       "source": "CISA Alerts",
@@ -655,20 +670,6 @@
         "CVE mentioned ×4",
         "CISA/KEV ×5",
         "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-19868 SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements fo",
-      "published": "Fri, 06 Nov 26 12:00:00 +0000",
-      "value_score": 99,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "CISA/KEV ×4",
         "Exploit wording"
       ]
     }

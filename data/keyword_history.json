@@ -372,7 +372,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2904,
+      "count": 2905,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -18920,7 +18920,7 @@
       ]
     },
     "unknown threat actor": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-05-29",
         "2026-05-30",
@@ -36466,7 +36466,7 @@
       ]
     },
     "things iot products": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-11-06",
         "2026-11-07",
@@ -36950,7 +36950,7 @@
       ]
     },
     "big data system": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-11-12",
         "2026-11-13",
@@ -37026,7 +37026,7 @@
       ]
     },
     "management applications installed": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-11-12",
         "2026-11-13",
@@ -37048,7 +37048,7 @@
       ]
     },
     "cve 2026 111497": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-11-12",
         "2026-11-13",
@@ -37070,7 +37070,7 @@
       ]
     },
     "siemens ruggedcom ape1808": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-11-12",
         "2026-11-13",
@@ -37078,7 +37078,7 @@
       ]
     },
     "cve 2026 109619": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-11-12",
         "2026-11-13",
@@ -37086,7 +37086,7 @@
       ]
     },
     "cve 2026 109618": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-11-12",
         "2026-11-13",
@@ -37126,7 +37126,7 @@
       ]
     },
     "released emergency hotfixes": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-13",
         "2026-11-14"
@@ -37145,56 +37145,56 @@
       ]
     },
     "wipe esxi files": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-13",
         "2026-11-14"
       ]
     },
     "three malware tools": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-13",
         "2026-11-14"
       ]
     },
     "global outage microsoft": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-13",
         "2026-11-14"
       ]
     },
     "0x80041008 error codes": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-13",
         "2026-11-14"
       ]
     },
     "cve 2026 6460": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-13",
         "2026-11-14"
       ]
     },
     "november updates microsoft": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-13",
         "2026-11-14"
       ]
     },
     "vmware esxi hosts": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-13",
         "2026-11-14"
       ]
     },
     "trying different ways": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-13",
         "2026-11-14"
@@ -37213,30 +37213,19 @@
       ]
     },
     "added advanced analysis": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-14"
       ]
     },
     "type confusion flaw": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-14"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-20 13:13",
-      "articles": 48,
-      "top_keywords": [
-        "steal secrets stored",
-        "executive conference room",
-        "treat ai agents",
-        "stealing mobile call",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-10-20 18:15",
       "articles": 48,
@@ -38317,6 +38306,17 @@
     },
     {
       "timestamp": "2026-11-14 00:36",
+      "articles": 56,
+      "top_keywords": [
+        "management applications installed",
+        "cve 2026 111497",
+        "released emergency hotfixes",
+        "added advanced analysis",
+        "global outage microsoft"
+      ]
+    },
+    {
+      "timestamp": "2026-11-14 08:28",
       "articles": 56,
       "top_keywords": [
         "management applications installed",

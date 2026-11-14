@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-11-14 00:36 UTC  
+> **Last Updated:** 2026-11-14 08:28 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 

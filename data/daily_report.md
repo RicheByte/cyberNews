@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-11-14 16:18 UTC  
+> **Last Updated:** 2026-11-14 21:53 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**management applications installed** • **cve 2026 111497** • **released emergency hotfixes** • **siemens ruggedcom ape1808** • **big data system** • **global outage microsoft** • **twitter whistleblower complaint** • **three malware tools** • **things iot products** • **0x80041008 error codes** • **added advanced analysis** • **cve 2026 6460** • **cve 2026 109619** • **cve 2026 109618** • **type confusion flaw** • **nationwide faa outage** • **november updates microsoft** • **vmware esxi hosts** • **trying different ways** • **ticket contains instructions**
+**management applications installed** • **cve 2026 111497** • **released emergency hotfixes** • **siemens ruggedcom ape1808** • **big data system** • **twitter whistleblower complaint** • **three malware tools** • **things iot products** • **global outage microsoft** • **added advanced analysis** • **cve 2026 6460** • **cve 2026 109619** • **cve 2026 109618** • **type confusion flaw** • **nationwide faa outage** • **vmware esxi hosts** • **trying different ways** • **ticket contains instructions** • **threat actors tied** • **sprawling phishing campaign**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Cursor confirms security breach led to malicious Claude Code extension](https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/)
 - [US disrupts North Korean campaign behind $400 million crypto theft](https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/)
 - [Trezor confirms crypto-stealing implants in three wallets, releases fix](https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/)
 - [German military drone operations disrupted by cyberattack](https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/)
@@ -34,7 +35,6 @@
 - [How one AI agent exposed five critical enterprise security gaps](https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/)
 - [Microsoft says November security updates cause printing issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/)
 - [Check Point warns of zero-day flaw exploited for root access](https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/)
-- [Microsoft confirms Windows activation failures after November updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/)
 
 ### Krebs on Security
 

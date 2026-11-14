@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14 16:18",
+  "last_updated": "2026-11-14 21:53",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -8,61 +8,61 @@
     "released emergency hotfixes",
     "siemens ruggedcom ape1808",
     "big data system",
-    "global outage microsoft",
     "twitter whistleblower complaint",
     "three malware tools",
     "things iot products",
-    "0x80041008 error codes",
+    "global outage microsoft",
     "added advanced analysis",
     "cve 2026 6460",
     "cve 2026 109619",
     "cve 2026 109618",
     "type confusion flaw",
     "nationwide faa outage",
-    "november updates microsoft",
     "vmware esxi hosts",
     "trying different ways",
-    "ticket contains instructions"
+    "ticket contains instructions",
+    "threat actors tied",
+    "sprawling phishing campaign"
   ],
   "trending": [
     {
       "keyword": "management applications installed",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "cve 2026 111497",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "released emergency hotfixes",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "siemens ruggedcom ape1808",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "big data system",
-      "mentions": 9
-    },
-    {
-      "keyword": "global outage microsoft",
-      "mentions": 4
+      "mentions": 10
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2906
+      "mentions": 2907
     },
     {
       "keyword": "three malware tools",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "things iot products",
-      "mentions": 25
+      "mentions": 26
     },
     {
-      "keyword": "0x80041008 error codes",
+      "keyword": "global outage microsoft",
+      "mentions": 5
+    },
+    {
+      "keyword": "added advanced analysis",
       "mentions": 4
     }
   ],
@@ -151,6 +151,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Cursor confirms security breach led to malicious Claude Code extension",
+      "link": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+      "summary": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI. [...]",
+      "published": "Sat, 14 Nov 2026 12:27:25 -0500",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "US disrupts North Korean campaign behind $400 million crypto theft",
       "link": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
       "summary": "The U.S. government has disrupted a North Korean social engineering campaign called 'FaceStealer', responsible for stealing more than $400 million in cryptocurrency. [...]",
@@ -217,17 +228,6 @@
       "value_signals": [
         "Zero-day",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft confirms Windows activation failures after November updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/",
-      "summary": "Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes. [...]",
-      "published": "Fri, 13 Nov 2026 04:36:18 -0500",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
       ]
     },
     {

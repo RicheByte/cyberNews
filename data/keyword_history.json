@@ -372,7 +372,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2906,
+      "count": 2907,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2185,7 +2185,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 698,
+      "count": 699,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2340,7 +2340,8 @@
         "2026-11-10",
         "2026-11-11",
         "2026-11-12",
-        "2026-11-13"
+        "2026-11-13",
+        "2026-11-14"
       ]
     },
     "model agnostic abstractions": {
@@ -36466,7 +36467,7 @@
       ]
     },
     "things iot products": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-11-06",
         "2026-11-07",
@@ -36950,7 +36951,7 @@
       ]
     },
     "big data system": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-11-12",
         "2026-11-13",
@@ -37026,7 +37027,7 @@
       ]
     },
     "management applications installed": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-11-12",
         "2026-11-13",
@@ -37048,7 +37049,7 @@
       ]
     },
     "cve 2026 111497": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-11-12",
         "2026-11-13",
@@ -37070,7 +37071,7 @@
       ]
     },
     "siemens ruggedcom ape1808": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-11-12",
         "2026-11-13",
@@ -37078,7 +37079,7 @@
       ]
     },
     "cve 2026 109619": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-11-12",
         "2026-11-13",
@@ -37086,7 +37087,7 @@
       ]
     },
     "cve 2026 109618": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-11-12",
         "2026-11-13",
@@ -37126,7 +37127,7 @@
       ]
     },
     "released emergency hotfixes": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-11-13",
         "2026-11-14"
@@ -37152,14 +37153,14 @@
       ]
     },
     "three malware tools": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-11-13",
         "2026-11-14"
       ]
     },
     "global outage microsoft": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-11-13",
         "2026-11-14"
@@ -37173,7 +37174,7 @@
       ]
     },
     "cve 2026 6460": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-11-13",
         "2026-11-14"
@@ -37187,63 +37188,53 @@
       ]
     },
     "vmware esxi hosts": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-11-13",
         "2026-11-14"
       ]
     },
     "trying different ways": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-11-13",
         "2026-11-14"
       ]
     },
     "ticket contains instructions": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-13",
         "2026-11-14"
       ]
     },
     "threat actors tied": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-11-13"
+        "2026-11-13",
+        "2026-11-14"
       ]
     },
     "added advanced analysis": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-14"
       ]
     },
     "type confusion flaw": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-14"
       ]
     },
     "nationwide faa outage": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-14"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-20 22:53",
-      "articles": 48,
-      "top_keywords": [
-        "authentication bypass flaw",
-        "stealing mobile call",
-        "hacker handle rey",
-        "twitter whistleblower complaint",
-        "manipulate search results"
-      ]
-    },
     {
       "timestamp": "2026-10-21 02:58",
       "articles": 48,
@@ -38324,6 +38315,17 @@
     },
     {
       "timestamp": "2026-11-14 16:18",
+      "articles": 56,
+      "top_keywords": [
+        "management applications installed",
+        "cve 2026 111497",
+        "released emergency hotfixes",
+        "siemens ruggedcom ape1808",
+        "big data system"
+      ]
+    },
+    {
+      "timestamp": "2026-11-14 21:53",
       "articles": 56,
       "top_keywords": [
         "management applications installed",

@@ -1,72 +1,85 @@
 {
-  "last_updated": "2026-11-14 08:28",
+  "last_updated": "2026-11-14 16:18",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "management applications installed",
     "cve 2026 111497",
     "released emergency hotfixes",
-    "added advanced analysis",
-    "global outage microsoft",
     "siemens ruggedcom ape1808",
+    "big data system",
+    "global outage microsoft",
     "twitter whistleblower complaint",
     "three malware tools",
     "things iot products",
-    "big data system",
     "0x80041008 error codes",
+    "added advanced analysis",
     "cve 2026 6460",
     "cve 2026 109619",
     "cve 2026 109618",
-    "november updates microsoft",
     "type confusion flaw",
-    "wipe esxi files",
+    "nationwide faa outage",
+    "november updates microsoft",
     "vmware esxi hosts",
-    "unknown threat actor",
-    "trying different ways"
+    "trying different ways",
+    "ticket contains instructions"
   ],
   "trending": [
     {
       "keyword": "management applications installed",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "cve 2026 111497",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "released emergency hotfixes",
-      "mentions": 4
-    },
-    {
-      "keyword": "added advanced analysis",
-      "mentions": 2
-    },
-    {
-      "keyword": "global outage microsoft",
-      "mentions": 3
+      "mentions": 5
     },
     {
       "keyword": "siemens ruggedcom ape1808",
-      "mentions": 6
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2905
-    },
-    {
-      "keyword": "three malware tools",
-      "mentions": 3
-    },
-    {
-      "keyword": "things iot products",
-      "mentions": 24
+      "mentions": 7
     },
     {
       "keyword": "big data system",
-      "mentions": 8
+      "mentions": 9
+    },
+    {
+      "keyword": "global outage microsoft",
+      "mentions": 4
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2906
+    },
+    {
+      "keyword": "three malware tools",
+      "mentions": 4
+    },
+    {
+      "keyword": "things iot products",
+      "mentions": 25
+    },
+    {
+      "keyword": "0x80041008 error codes",
+      "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+      "link": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability, tracked as CVE-2026-114713 (CVSS score: 8.6), is a case of improper neutralization of delimiters",
+      "published": "Sat, 14 Nov 2026 18:08:35 +0530",
+      "value_score": 74,
+      "value_signals": [
+        "CVE mentioned",
+        "CISA/KEV ×3",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
@@ -137,17 +150,13 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
-      "summary": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unreported local privilege escalation flaw in Gaia OS to deploy a backdoor called TSGA. The activity, detailed by Check Point, began on October 30, 2026, and targeted Israeli organizations, with a broader follow-up",
-      "published": "Fri, 13 Nov 2026 13:35:49 +0530",
-      "value_score": 52,
-      "value_signals": [
-        "Privilege escalation",
-        "Backdoor ×2",
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "US disrupts North Korean campaign behind $400 million crypto theft",
+      "link": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
+      "summary": "The U.S. government has disrupted a North Korean social engineering campaign called 'FaceStealer', responsible for stealing more than $400 million in cryptocurrency. [...]",
+      "published": "Sat, 14 Nov 2026 10:15:49 -0500",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -220,15 +229,6 @@
       "value_signals": [
         "Patch/update"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Police arrest 354 suspects in dark web cybercrime crackdown",
-      "link": "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/",
-      "summary": "Authorities arrested 354 suspects in a joint international operation targeting vendors and buyers on the Archetyp, Nemesis, Tor2Door, Bohemia, and Kingdom dark web marketplaces. [...]",
-      "published": "Fri, 13 Nov 2026 03:34:20 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -401,6 +401,37 @@
     },
     {
       "source": "Security Week",
+      "title": "Is AI Making Us Worse at Cybersecurity?",
+      "link": "https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/",
+      "summary": "Overreliance on AI could erode the creativity, clear communication, and critical thinking security teams need when there’s no playbook. The post Is AI Making Us Worse at Cybersecurity? appeared first on SecurityWeek .",
+      "published": "Sat, 14 Nov 2026 14:00:00 +0000",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Apple Reveals How Secure Exclaves Shield Camera and Microphone Data",
+      "link": "https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/",
+      "summary": "The tech giant has detailed the architecture designed to isolate ambient sensor data from the main OS on HomeView and new iPhones. The post Apple Reveals How Secure Exclaves Shield Camera and Microphone Data appeared first on SecurityWeek .",
+      "published": "Sat, 14 Nov 2026 11:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update",
+      "link": "https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/",
+      "summary": "Officials say there is no evidence of a cyberattack behind the nationwide FAA outage, which may have been caused by a software update. The post No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update appeared first on SecurityWeek .",
+      "published": "Sat, 14 Nov 2026 08:40:22 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×3"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’",
       "link": "https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/",
       "summary": "Federal officials have yet to say what caused the communications disruption or whether they are investigating a possible cyberattack. The post FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’ appeared first on SecurityWeek .",
@@ -445,36 +476,6 @@
       "link": "https://www.securityweek.com/silentair-hackers-intercept-calls-sms-from-inside-mobile-networks/",
       "summary": "Enea says SilentAir hijacked mobile network nodes to intercept calls and messages, with Taiwanese subscribers the primary targets. The post SilentAir Hackers Intercept Calls, SMS From Inside Mobile Networks appeared first on SecurityWeek .",
       "published": "Fri, 13 Nov 2026 12:20:28 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Law Enforcement Disrupts Gootloader, CastleRAT, and StealC Infrastructure",
-      "link": "https://www.securityweek.com/law-enforcement-disrupts-gootloader-castlerat-and-stealc-infrastructure/",
-      "summary": "Investigators seized 235 servers and 257 domains, along with 6.4 million victim credentials as part of Operation Endgame. The post Law Enforcement Disrupts Gootloader, CastleRAT, and StealC Infrastructure appeared first on SecurityWeek .",
-      "published": "Fri, 13 Nov 2026 10:48:40 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Citrix Patches 10 Critical NetScaler Vulnerabilities",
-      "link": "https://www.securityweek.com/citrix-patches-10-critical-netscaler-vulnerabilities/",
-      "summary": "Successful exploitation could lead to unexpected behavior or denial-of-service (DoS) conditions. The post Citrix Patches 10 Critical NetScaler Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Fri, 13 Nov 2026 09:36:56 +0000",
-      "value_score": 32,
-      "value_signals": [
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools",
-      "link": "https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/",
-      "summary": "Daybreak Red Team pentests web applications with AI agents, while Defense Factory investigates security findings and prepares patches. The post OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools appeared first on SecurityWeek .",
-      "published": "Fri, 13 Nov 2026 09:21:01 +0000",
       "value_score": 10,
       "value_signals": []
     },

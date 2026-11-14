@@ -372,7 +372,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2905,
+      "count": 2906,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -36466,7 +36466,7 @@
       ]
     },
     "things iot products": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-11-06",
         "2026-11-07",
@@ -36950,7 +36950,7 @@
       ]
     },
     "big data system": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-11-12",
         "2026-11-13",
@@ -37026,7 +37026,7 @@
       ]
     },
     "management applications installed": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-11-12",
         "2026-11-13",
@@ -37048,7 +37048,7 @@
       ]
     },
     "cve 2026 111497": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-11-12",
         "2026-11-13",
@@ -37070,7 +37070,7 @@
       ]
     },
     "siemens ruggedcom ape1808": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-11-12",
         "2026-11-13",
@@ -37078,7 +37078,7 @@
       ]
     },
     "cve 2026 109619": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-11-12",
         "2026-11-13",
@@ -37086,7 +37086,7 @@
       ]
     },
     "cve 2026 109618": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-11-12",
         "2026-11-13",
@@ -37126,7 +37126,7 @@
       ]
     },
     "released emergency hotfixes": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-11-13",
         "2026-11-14"
@@ -37152,58 +37152,59 @@
       ]
     },
     "three malware tools": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-13",
         "2026-11-14"
       ]
     },
     "global outage microsoft": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-13",
         "2026-11-14"
       ]
     },
     "0x80041008 error codes": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-13",
         "2026-11-14"
       ]
     },
     "cve 2026 6460": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-13",
         "2026-11-14"
       ]
     },
     "november updates microsoft": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-13",
         "2026-11-14"
       ]
     },
     "vmware esxi hosts": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-13",
         "2026-11-14"
       ]
     },
     "trying different ways": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-13",
         "2026-11-14"
       ]
     },
     "ticket contains instructions": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-11-13"
+        "2026-11-13",
+        "2026-11-14"
       ]
     },
     "threat actors tied": {
@@ -37213,30 +37214,25 @@
       ]
     },
     "added advanced analysis": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-14"
       ]
     },
     "type confusion flaw": {
-      "count": 2,
+      "count": 3,
+      "dates": [
+        "2026-11-14"
+      ]
+    },
+    "nationwide faa outage": {
+      "count": 1,
       "dates": [
         "2026-11-14"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-20 18:15",
-      "articles": 48,
-      "top_keywords": [
-        "authentication bypass flaw",
-        "aomei backupper compromised",
-        "stealing mobile call",
-        "hacker handle rey",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-10-20 22:53",
       "articles": 48,
@@ -38324,6 +38320,17 @@
         "released emergency hotfixes",
         "added advanced analysis",
         "global outage microsoft"
+      ]
+    },
+    {
+      "timestamp": "2026-11-14 16:18",
+      "articles": 56,
+      "top_keywords": [
+        "management applications installed",
+        "cve 2026 111497",
+        "released emergency hotfixes",
+        "siemens ruggedcom ape1808",
+        "big data system"
       ]
     }
   ]

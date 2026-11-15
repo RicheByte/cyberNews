@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-11-15 16:44 UTC  
+> **Last Updated:** 2026-11-15 22:23 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**management applications installed** • **cve 2026 111497** • **siemens ruggedcom ape1808** • **big data system** • **twitter whistleblower complaint** • **things iot products** • **global outage microsoft** • **fined 805 million** • **added advanced analysis** • **cve 2026 6460** • **cve 2026 109619** • **cve 2026 109618** • **nationwide faa outage** • **type confusion flaw** • **personal employee data** • **vmware esxi hosts** • **users phone galleries** • **trying different ways** • **ticket contains instructions** • **threat actors tied**
+**management applications installed** • **cve 2026 111497** • **siemens ruggedcom ape1808** • **big data system** • **twitter whistleblower complaint** • **things iot products** • **fined 805 million** • **added advanced analysis** • **cve 2026 6460** • **cve 2026 109619** • **cve 2026 109618** • **nationwide faa outage** • **global outage microsoft** • **type confusion flaw** • **personal employee data** • **vmware esxi hosts** • **users phone galleries** • **trying different ways** • **ticket contains instructions** • **threat actors tied**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [FBI warns ARTEX AI hacking tool is powering global cyberattacks](https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/)
 - [TSMC employee data breach linked to cloud provider](https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/)
 - [Cursor confirms security breach led to malicious Claude Code extension](https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/)
 - [US disrupts North Korean campaign behind $400 million crypto theft](https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/)
@@ -34,7 +35,6 @@
 - [German military drone operations disrupted by cyberattack](https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/)
 - [Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper](https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/)
 - [How one AI agent exposed five critical enterprise security gaps](https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/)
-- [Microsoft says November security updates cause printing issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/)
 
 ### Krebs on Security
 

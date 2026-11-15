@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15 16:44",
+  "last_updated": "2026-11-15 22:23",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -9,13 +9,13 @@
     "big data system",
     "twitter whistleblower complaint",
     "things iot products",
-    "global outage microsoft",
     "fined 805 million",
     "added advanced analysis",
     "cve 2026 6460",
     "cve 2026 109619",
     "cve 2026 109618",
     "nationwide faa outage",
+    "global outage microsoft",
     "type confusion flaw",
     "personal employee data",
     "vmware esxi hosts",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "management applications installed",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "cve 2026 111497",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "siemens ruggedcom ape1808",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "big data system",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2910
+      "mentions": 2911
     },
     {
       "keyword": "things iot products",
-      "mentions": 29
-    },
-    {
-      "keyword": "global outage microsoft",
-      "mentions": 8
+      "mentions": 30
     },
     {
       "keyword": "fined 805 million",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "added advanced analysis",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "cve 2026 6460",
-      "mentions": 8
+      "mentions": 9
+    },
+    {
+      "keyword": "cve 2026 109619",
+      "mentions": 12
     }
   ],
   "articles": [
@@ -152,6 +152,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
+      "summary": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments. [...]",
+      "published": "Sun, 15 Nov 2026 13:29:53 -0500",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "TSMC employee data breach linked to cloud provider",
       "link": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
       "summary": "Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of information allegedly stolen from the company up for auction. [...]",
@@ -220,15 +231,6 @@
       "value_signals": [
         "High severity ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft says November security updates cause printing issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/",
-      "summary": "Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting. [...]",
-      "published": "Fri, 13 Nov 2026 07:27:40 -0500",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

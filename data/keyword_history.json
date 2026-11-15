@@ -372,7 +372,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2909,
+      "count": 2910,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -36469,7 +36469,7 @@
       ]
     },
     "things iot products": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-11-06",
         "2026-11-07",
@@ -36954,7 +36954,7 @@
       ]
     },
     "big data system": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-11-12",
         "2026-11-13",
@@ -37031,7 +37031,7 @@
       ]
     },
     "management applications installed": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-11-12",
         "2026-11-13",
@@ -37054,7 +37054,7 @@
       ]
     },
     "cve 2026 111497": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-11-12",
         "2026-11-13",
@@ -37077,7 +37077,7 @@
       ]
     },
     "siemens ruggedcom ape1808": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-11-12",
         "2026-11-13",
@@ -37086,7 +37086,7 @@
       ]
     },
     "cve 2026 109619": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-11-12",
         "2026-11-13",
@@ -37095,7 +37095,7 @@
       ]
     },
     "cve 2026 109618": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-11-12",
         "2026-11-13",
@@ -37171,7 +37171,7 @@
       ]
     },
     "global outage microsoft": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-11-13",
         "2026-11-14",
@@ -37186,7 +37186,7 @@
       ]
     },
     "cve 2026 6460": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-11-13",
         "2026-11-14",
@@ -37201,7 +37201,7 @@
       ]
     },
     "vmware esxi hosts": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-11-13",
         "2026-11-14",
@@ -37209,7 +37209,7 @@
       ]
     },
     "trying different ways": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-11-13",
         "2026-11-14",
@@ -37217,7 +37217,7 @@
       ]
     },
     "ticket contains instructions": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-11-13",
         "2026-11-14",
@@ -37225,7 +37225,7 @@
       ]
     },
     "threat actors tied": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-11-13",
         "2026-11-14",
@@ -37233,39 +37233,46 @@
       ]
     },
     "added advanced analysis": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-11-14",
         "2026-11-15"
       ]
     },
     "type confusion flaw": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-11-14",
         "2026-11-15"
       ]
     },
     "nationwide faa outage": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-11-14",
+        "2026-11-15"
+      ]
+    },
+    "fined 805 million": {
+      "count": 1,
+      "dates": [
+        "2026-11-15"
+      ]
+    },
+    "personal employee data": {
+      "count": 1,
+      "dates": [
+        "2026-11-15"
+      ]
+    },
+    "users phone galleries": {
+      "count": 1,
+      "dates": [
         "2026-11-15"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-21 14:48",
-      "articles": 48,
-      "top_keywords": [
-        "memory bugs account",
-        "popular wordpress backup",
-        "china defends deepseek",
-        "july attackers hijacked",
-        "chinese speaking attacker"
-      ]
-    },
     {
       "timestamp": "2026-10-21 19:52",
       "articles": 48,
@@ -38353,6 +38360,17 @@
         "released emergency hotfixes",
         "siemens ruggedcom ape1808",
         "big data system"
+      ]
+    },
+    {
+      "timestamp": "2026-11-15 16:44",
+      "articles": 56,
+      "top_keywords": [
+        "management applications installed",
+        "cve 2026 111497",
+        "siemens ruggedcom ape1808",
+        "big data system",
+        "twitter whistleblower complaint"
       ]
     }
   ]

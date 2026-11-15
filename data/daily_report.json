@@ -1,72 +1,93 @@
 {
-  "last_updated": "2026-11-15 08:43",
+  "last_updated": "2026-11-15 16:44",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "management applications installed",
     "cve 2026 111497",
-    "released emergency hotfixes",
     "siemens ruggedcom ape1808",
     "big data system",
     "twitter whistleblower complaint",
-    "three malware tools",
     "things iot products",
     "global outage microsoft",
+    "fined 805 million",
     "added advanced analysis",
     "cve 2026 6460",
     "cve 2026 109619",
     "cve 2026 109618",
-    "type confusion flaw",
     "nationwide faa outage",
+    "type confusion flaw",
+    "personal employee data",
     "vmware esxi hosts",
+    "users phone galleries",
     "trying different ways",
     "ticket contains instructions",
-    "threat actors tied",
-    "sprawling phishing campaign"
+    "threat actors tied"
   ],
   "trending": [
     {
       "keyword": "management applications installed",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "cve 2026 111497",
-      "mentions": 10
-    },
-    {
-      "keyword": "released emergency hotfixes",
-      "mentions": 8
+      "mentions": 11
     },
     {
       "keyword": "siemens ruggedcom ape1808",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "big data system",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2909
-    },
-    {
-      "keyword": "three malware tools",
-      "mentions": 7
+      "mentions": 2910
     },
     {
       "keyword": "things iot products",
-      "mentions": 28
+      "mentions": 29
     },
     {
       "keyword": "global outage microsoft",
-      "mentions": 7
+      "mentions": 8
+    },
+    {
+      "keyword": "fined 805 million",
+      "mentions": 1
     },
     {
       "keyword": "added advanced analysis",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "cve 2026 6460",
+      "mentions": 8
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
+      "link": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
+      "summary": "Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post. The Garante, Italy's data protection authority, found that the feature was enabled by default and that the app accessed Italian users' photos, videos, and related metadata without their explicit consent. The company has 60 days to",
+      "published": "Sun, 15 Nov 2026 16:57:31 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
+      "link": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
+      "summary": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI. \"An attacker obtained an access key we had issued to Fireworks,\" Cursor said in a Friday update. \"The key was exposed by Fireworks, and the attacker used it to copy data from a read-only",
+      "published": "Sun, 15 Nov 2026 13:52:04 +0530",
+      "value_score": 30,
+      "value_signals": [
+        "Patch/update",
+        "Breach/leak"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
@@ -130,23 +151,14 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users",
-      "link": "https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html",
-      "summary": "A newly identified spying group used hacked equipment inside Asian mobile operators to intercept the calls and texts of selected people, mostly in Taiwan. Enea, a telecom and cybersecurity software company based in Stockholm, found the group's attack sources in at least six Asian countries and named it SilentAir this week. It assessed with high confidence that SilentAir is a state-level actor,",
-      "published": "Fri, 13 Nov 2026 16:40:40 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins",
-      "link": "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html",
-      "summary": "An international police operation took down servers behind Gootloader, CastleRAT and StealC this week. Criminals used the three malware tools to gain access to computers, steal passwords, and launch ransomware attacks. Police also seized about 6.4 million stolen logins belonging to more than 40,000 victims, according to Germany's Federal Criminal Police Office (BKA). Gootloader is a loader:",
-      "published": "Fri, 13 Nov 2026 16:25:03 +0530",
-      "value_score": 28,
+      "source": "BleepingComputer",
+      "title": "TSMC employee data breach linked to cloud provider",
+      "link": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
+      "summary": "Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of information allegedly stolen from the company up for auction. [...]",
+      "published": "Sun, 15 Nov 2026 10:23:48 -0500",
+      "value_score": 22,
       "value_signals": [
-        "Ransomware"
+        "Breach/leak"
       ]
     },
     {
@@ -217,18 +229,6 @@
       "published": "Fri, 13 Nov 2026 07:27:40 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Check Point warns of zero-day flaw exploited for root access",
-      "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
-      "summary": "Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and establish persistence on vulnerable devices since late October. [...]",
-      "published": "Fri, 13 Nov 2026 05:44:22 -0500",
-      "value_score": 41,
-      "value_signals": [
-        "Zero-day",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -401,6 +401,24 @@
     },
     {
       "source": "Security Week",
+      "title": "Pentagon Renames CDAO ‘Super Intelligence Office’",
+      "link": "https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/",
+      "summary": "The move follows President Trump’s order to replace “artificial intelligence” with “super intelligence” in executive branch communications. The post Pentagon Renames CDAO ‘Super Intelligence Office’ appeared first on SecurityWeek .",
+      "published": "Sun, 15 Nov 2026 12:51:33 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Meta Fined $887 Million in Italy Over Android Gallery Photos and Videos on Facebook",
+      "link": "https://www.securityweek.com/meta-fined-887-million-in-italy-over-android-gallery-photos-and-videos-on-facebook/",
+      "summary": "The directive protects smartphones as part of a person’s private sphere and requires “free and informed consent” for such access, the authority said. The post Meta Fined $887 Million in Italy Over Android Gallery Photos and Videos on Facebook appeared first on SecurityWeek .",
+      "published": "Sat, 14 Nov 2026 19:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Is AI Making Us Worse at Cybersecurity?",
       "link": "https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/",
       "summary": "Overreliance on AI could erode the creativity, clear communication, and critical thinking security teams need when there’s no playbook. The post Is AI Making Us Worse at Cybersecurity? appeared first on SecurityWeek .",
@@ -458,24 +476,6 @@
       "link": "https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/",
       "summary": "Microsoft is trying different ways to identify the cause of the problem and get its servers back online, using “a measured approach to identify and repair affected infrastructure.” The post Microsoft Struggles to Restore Email and Other Services in a Global Outage appeared first on SecurityWeek .",
       "published": "Fri, 13 Nov 2026 13:47:42 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Apify Confirms Customer Data Accessed in Cyberattack",
-      "link": "https://www.securityweek.com/apify-confirms-customer-data-accessed-in-cyberattack/",
-      "summary": "The web scraping company says an intruder accessed customer accounts and obtained personal information or stored data. The post Apify Confirms Customer Data Accessed in Cyberattack appeared first on SecurityWeek .",
-      "published": "Fri, 13 Nov 2026 12:41:01 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "SilentAir Hackers Intercept Calls, SMS From Inside Mobile Networks",
-      "link": "https://www.securityweek.com/silentair-hackers-intercept-calls-sms-from-inside-mobile-networks/",
-      "summary": "Enea says SilentAir hijacked mobile network nodes to intercept calls and messages, with Taiwanese subscribers the primary targets. The post SilentAir Hackers Intercept Calls, SMS From Inside Mobile Networks appeared first on SecurityWeek .",
-      "published": "Fri, 13 Nov 2026 12:20:28 +0000",
       "value_score": 10,
       "value_signals": []
     },

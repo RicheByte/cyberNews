@@ -372,7 +372,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2913,
+      "count": 2914,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2187,7 +2187,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 702,
+      "count": 703,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -37035,7 +37035,7 @@
       ]
     },
     "management applications installed": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-11-12",
         "2026-11-13",
@@ -37059,7 +37059,7 @@
       ]
     },
     "cve 2026 111497": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-11-12",
         "2026-11-13",
@@ -37083,7 +37083,7 @@
       ]
     },
     "siemens ruggedcom ape1808": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-11-12",
         "2026-11-13",
@@ -37093,7 +37093,7 @@
       ]
     },
     "cve 2026 109619": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-11-12",
         "2026-11-13",
@@ -37103,7 +37103,7 @@
       ]
     },
     "cve 2026 109618": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-11-12",
         "2026-11-13",
@@ -37248,7 +37248,7 @@
       ]
     },
     "added advanced analysis": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-11-14",
         "2026-11-15",
@@ -37293,13 +37293,13 @@
       ]
     },
     "telegram widgets hit": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-16"
       ]
     },
     "7z dll file": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-16"
       ]
@@ -37317,13 +37317,13 @@
       ]
     },
     "server ircop privileges": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-16"
       ]
     },
     "rust based orchestrator": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-16"
       ]
@@ -37347,6 +37347,48 @@
       ]
     },
     "cve 2026 114713": {
+      "count": 2,
+      "dates": [
+        "2026-11-16"
+      ]
+    },
+    "trump administration moves": {
+      "count": 1,
+      "dates": [
+        "2026-11-16"
+      ]
+    },
+    "targeted advanced manufacturing": {
+      "count": 1,
+      "dates": [
+        "2026-11-16"
+      ]
+    },
+    "non privileged accounts": {
+      "count": 1,
+      "dates": [
+        "2026-11-16"
+      ]
+    },
+    "tandem threat actors": {
+      "count": 1,
+      "dates": [
+        "2026-11-16"
+      ]
+    },
+    "real world organizations": {
+      "count": 1,
+      "dates": [
+        "2026-11-16"
+      ]
+    },
+    "next 14 months": {
+      "count": 1,
+      "dates": [
+        "2026-11-16"
+      ]
+    },
+    "automate vulnerability discovery": {
       "count": 1,
       "dates": [
         "2026-11-16"
@@ -37354,17 +37396,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-22 09:05",
-      "articles": 48,
-      "top_keywords": [
-        "google hardens chrome",
-        "1 400 people",
-        "push malicious code",
-        "memory bugs account",
-        "developer's github account"
-      ]
-    },
     {
       "timestamp": "2026-10-22 14:48",
       "articles": 48,
@@ -38452,6 +38483,17 @@
         "7z dll file",
         "sprawling phishing campaign",
         "fined 805 million"
+      ]
+    },
+    {
+      "timestamp": "2026-11-16 23:56",
+      "articles": 56,
+      "top_keywords": [
+        "telegram widgets hit",
+        "trump administration moves",
+        "management applications installed",
+        "7z dll file",
+        "cve 2026 111497"
       ]
     }
   ]

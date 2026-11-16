@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-11-16 04:24 UTC |
+| 🕐 Last Updated | 2026-11-16 14:32 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`management applications installed` • `cve 2026 111497` • `siemens ruggedcom ape1808` • `big data system` • `twitter whistleblower complaint` • `things iot products` • `fined 805 million` • `added advanced analysis` • `cve 2026 6460` • `cve 2026 109619`
+`telegram widgets hit` • `management applications installed` • `7z dll file` • `sprawling phishing campaign` • `fined 805 million` • `fable 5 2` • `cve 2026 111497` • `tor anonymity network` • `siemens ruggedcom ape1808` • `twitter whistleblower complaint`
 
 ## 📄 Reports
 

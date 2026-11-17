@@ -1,72 +1,94 @@
 {
-  "last_updated": "2026-11-16 23:56",
+  "last_updated": "2026-11-17 06:36",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "telegram widgets hit",
     "trump administration moves",
-    "management applications installed",
     "7z dll file",
+    "management applications installed",
     "cve 2026 111497",
     "added advanced analysis",
     "siemens ruggedcom ape1808",
     "twitter whistleblower complaint",
     "targeted advanced manufacturing",
     "sprawling phishing campaign",
-    "server ircop privileges",
-    "rust based orchestrator",
     "non privileged accounts",
-    "tandem threat actors",
+    "next 14 months",
     "cve 2026 114713",
     "cve 2026 109619",
     "cve 2026 109618",
     "real world organizations",
-    "next 14 months",
-    "automate vulnerability discovery"
+    "october 21 2026",
+    "user tell it's",
+    "toolkit called sansar",
+    "things iot products"
   ],
   "trending": [
     {
       "keyword": "telegram widgets hit",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "trump administration moves",
-      "mentions": 1
-    },
-    {
-      "keyword": "management applications installed",
-      "mentions": 15
-    },
-    {
-      "keyword": "7z dll file",
       "mentions": 2
     },
     {
+      "keyword": "7z dll file",
+      "mentions": 3
+    },
+    {
+      "keyword": "management applications installed",
+      "mentions": 16
+    },
+    {
       "keyword": "cve 2026 111497",
-      "mentions": 15
+      "mentions": 16
     },
     {
       "keyword": "added advanced analysis",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "siemens ruggedcom ape1808",
-      "mentions": 15
+      "mentions": 16
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2914
+      "mentions": 2915
     },
     {
       "keyword": "targeted advanced manufacturing",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 703
+      "mentions": 704
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
+      "link": "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html",
+      "summary": "ConnectWise on Monday said it completed its investigation into unauthorized access targeting partner ScreenConnect environments, and recommended customers to ensure that the technician client is running version 26.6.5 or later. The company said additional activity targeting on-premises environments continues to be reported where the identified third-party extensions remain enabled, and",
+      "published": "Tue, 17 Nov 2026 11:59:27 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
+      "link": "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html",
+      "summary": "N-able has released a new security update to address additional critical security flaws impacting N-central. Describing N-central 2026.4 Hotfix 3 as a critical security update, the company said it includes a number of security patches and fixes that enhance the security of the Remote Monitoring and Management (RMM) and Unified Endpoint Management (UEM) platform. \"HF3 builds on the",
+      "published": "Tue, 17 Nov 2026 10:30:34 +0530",
+      "value_score": 48,
+      "value_signals": [
+        "Patch/update ×2",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
@@ -128,24 +150,15 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server",
-      "link": "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html",
-      "summary": "An investigation into suspicious activity within a Russian software developer's network has uncovered a months-long compromise of its development infrastructure and a software code-signing server. The activity, documented by Kaspersky's ICS CERT team after it was contacted by the affected developer in June 2025, has been attributed to a threat actor named BO Team (aka Black Owl, Hoody Hyena,",
-      "published": "Mon, 16 Nov 2026 12:23:34 +0530",
+      "source": "BleepingComputer",
+      "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+      "link": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
+      "summary": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors to scripts designed to steal cryptocurrency and payment information and exploit vulnerabilities in iOS devices. [...]",
+      "published": "Mon, 16 Nov 2026 21:12:17 -0500",
       "value_score": 16,
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
-      "link": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
-      "summary": "Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post. The Garante, Italy's data protection authority, found that the feature was enabled by default and that the app accessed Italian users' photos, videos, and related metadata without their explicit consent. The company has 60 days to",
-      "published": "Sun, 15 Nov 2026 16:57:31 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -216,17 +229,6 @@
       "published": "Mon, 16 Nov 2026 10:01:11 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Google warns that fully-automated AI attacks are coming soon",
-      "link": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
-      "summary": "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, accelerating attacks to machine speed. [...]",
-      "published": "Mon, 16 Nov 2026 09:00:00 -0500",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",

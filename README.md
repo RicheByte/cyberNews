@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-11-17 06:36 UTC |
+| 🕐 Last Updated | 2026-11-17 17:17 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`telegram widgets hit` • `trump administration moves` • `7z dll file` • `management applications installed` • `cve 2026 111497` • `added advanced analysis` • `siemens ruggedcom ape1808` • `twitter whistleblower complaint` • `targeted advanced manufacturing` • `sprawling phishing campaign`
+`net client library` • `pretxt emerges stealth` • `siemens ruggedcom ape1808` • `networking multi tool` • `artificial intelligence ai` • `v8 2 contains` • `test takers turn` • `stealing 25 million` • `previously undocumented backdoors` • `next 14 months`
 
 ## 📄 Reports
 

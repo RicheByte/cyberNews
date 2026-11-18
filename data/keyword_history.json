@@ -216,7 +216,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 831,
+      "count": 832,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -369,7 +369,8 @@
         "2026-10-30",
         "2026-11-02",
         "2026-11-03",
-        "2026-11-17"
+        "2026-11-17",
+        "2026-11-18"
       ]
     },
     "twitter whistleblower complaint": {
@@ -1193,7 +1194,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 166,
+      "count": 167,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2190,7 +2191,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 706,
+      "count": 707,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -35024,7 +35025,7 @@
       ]
     },
     "net client library": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-10-22",
         "2026-10-23",
@@ -37380,10 +37381,11 @@
       ]
     },
     "targeted advanced manufacturing": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-16",
-        "2026-11-17"
+        "2026-11-17",
+        "2026-11-18"
       ]
     },
     "non privileged accounts": {
@@ -37407,7 +37409,7 @@
       ]
     },
     "next 14 months": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-11-16",
         "2026-11-17",
@@ -37433,7 +37435,7 @@
       ]
     },
     "pretxt emerges stealth": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-17",
         "2026-11-18"
@@ -37522,31 +37524,31 @@
       ]
     },
     "docker hub images": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-18"
       ]
     },
     "remotely execute code": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-18"
       ]
     },
     "inject arbitrary code": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-18"
       ]
     },
     "multi stage intrusions": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-18"
       ]
     },
     "human rights organizations": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-18"
       ]
@@ -37580,20 +37582,57 @@
       "dates": [
         "2026-11-18"
       ]
+    },
+    "classified communications network": {
+      "count": 1,
+      "dates": [
+        "2026-11-18"
+      ]
+    },
+    "google owned wiz": {
+      "count": 1,
+      "dates": [
+        "2026-11-18"
+      ]
+    },
+    "x86 64 intel": {
+      "count": 1,
+      "dates": [
+        "2026-11-18"
+      ]
+    },
+    "obtain sensitive information": {
+      "count": 1,
+      "dates": [
+        "2026-11-18"
+      ]
+    },
+    "november 17 2026": {
+      "count": 1,
+      "dates": [
+        "2026-11-18"
+      ]
+    },
+    "manipulate network communications": {
+      "count": 1,
+      "dates": [
+        "2026-11-18"
+      ]
+    },
+    "release security patches": {
+      "count": 1,
+      "dates": [
+        "2026-11-18"
+      ]
+    },
+    "november 2026 cspu": {
+      "count": 1,
+      "dates": [
+        "2026-11-18"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-23 03:00",
-      "articles": 56,
-      "top_keywords": [
-        "hacked litellm release",
-        "net client library",
-        "node js integration",
-        "global crackdown interpol",
-        "flaw lets anyone"
-      ]
-    },
     {
       "timestamp": "2026-10-23 09:00",
       "articles": 56,
@@ -38680,6 +38719,17 @@
         "pretxt emerges stealth",
         "docker hub images",
         "defensive cybersecurity led",
+        "execute arbitrary code"
+      ]
+    },
+    {
+      "timestamp": "2026-11-18 09:38",
+      "articles": 56,
+      "top_keywords": [
+        "net client library",
+        "pretxt emerges stealth",
+        "docker hub images",
+        "classified communications network",
         "execute arbitrary code"
       ]
     }

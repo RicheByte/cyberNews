@@ -1,72 +1,104 @@
 {
-  "last_updated": "2026-11-18 00:23",
+  "last_updated": "2026-11-18 09:38",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "net client library",
     "pretxt emerges stealth",
     "docker hub images",
-    "defensive cybersecurity led",
+    "classified communications network",
     "execute arbitrary code",
-    "networking multi tool",
-    "previously undocumented backdoors",
+    "google owned wiz",
+    "x86 64 intel",
+    "targeted advanced manufacturing",
+    "sprawling phishing campaign",
+    "obtain sensitive information",
     "next 14 months",
-    "dorsett controls infoscan",
+    "multi stage intrusions",
+    "november 17 2026",
     "remotely execute code",
     "inject arbitrary code",
-    "multi stage intrusions",
+    "manipulate network communications",
+    "release security patches",
     "human rights organizations",
-    "customers websites load",
-    "sprawling phishing campaign",
-    "run code outside",
-    "x t format",
-    "train foundation models",
-    "third party platform",
-    "stole personal health"
+    "november 2026 cspu",
+    "windows operating systems"
   ],
   "trending": [
     {
       "keyword": "net client library",
-      "mentions": 31
+      "mentions": 32
     },
     {
       "keyword": "pretxt emerges stealth",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "docker hub images",
+      "mentions": 2
+    },
+    {
+      "keyword": "classified communications network",
       "mentions": 1
     },
     {
-      "keyword": "defensive cybersecurity led",
-      "mentions": 2
-    },
-    {
       "keyword": "execute arbitrary code",
-      "mentions": 166
+      "mentions": 167
     },
     {
-      "keyword": "networking multi tool",
-      "mentions": 2
+      "keyword": "google owned wiz",
+      "mentions": 1
     },
     {
-      "keyword": "previously undocumented backdoors",
-      "mentions": 2
+      "keyword": "x86 64 intel",
+      "mentions": 1
     },
     {
-      "keyword": "next 14 months",
-      "mentions": 4
+      "keyword": "targeted advanced manufacturing",
+      "mentions": 3
     },
     {
-      "keyword": "dorsett controls infoscan",
-      "mentions": 2
+      "keyword": "sprawling phishing campaign",
+      "mentions": 707
     },
     {
-      "keyword": "remotely execute code",
+      "keyword": "obtain sensitive information",
       "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
+      "link": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
+      "summary": "Threat actors have compromised Microsoft's agent-framework package to push a credential stealer, according to reports from Aikido, Chainguard, Endor Labs, OX Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz. The malicious versions, 1.26.1 and 1.26.2, were published 33 minutes apart on November 17, 2026, and are designed to run a credential stealer on every Python start. As of",
+      "published": "Wed, 18 Nov 2026 12:15:26 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
+      "link": "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html",
+      "summary": "The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of linked intrusions resulting in third-party compromise. Google's Mandiant and Threat Intelligence Group (GTIG) said it investigated a 2026 compromise at a U.S.-based organization in which the adversary leveraged",
+      "published": "Wed, 18 Nov 2026 11:28:04 +0530",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
+      "link": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
+      "summary": "A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says Calif, the security research firm that disclosed it this week. The flaw is present in Java 17.0.6 and later, and the vulnerable code runs only on x86-64 Intel and AMD chips that support the AVX-512 VBMI feature. Tracked as",
+      "published": "Wed, 18 Nov 2026 09:57:41 +0530",
+      "value_score": 48,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
@@ -124,33 +156,22 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels",
-      "link": "https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html",
-      "summary": "Government sectors in Asia and Africa have been targeted by an active cyber intrusion campaign that delivers to previously undocumented backdoors that leverage legitimate services like Microsoft SharePoint and GitHub for command‑and‑control (C2). The activity has been codenamed Operation ShadowCloud by Kaspersky. The Russian cybersecurity company said it identified the campaign in early 2026.",
-      "published": "Tue, 17 Nov 2026 16:50:18 +0530",
+      "source": "BleepingComputer",
+      "title": "Microsoft announces Windows Server 2028 with hardened security",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
+      "summary": "Microsoft has announced Windows Server 2028, the next major release of its server operating system, at the Ignite 2026 conference on Tuesday. [...]",
+      "published": "Wed, 18 Nov 2026 04:24:31 -0500",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks",
-      "link": "https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html",
-      "summary": "Apple on Monday introduced new controls that allow Mac users to give more granular access to data they give to apps, including those that use artificial intelligence (AI) agents. The changes, currently previewed in macOS 27.3 beta 2, relate to increased transparency and more options for two of its APIs: Device Control and Data Access, and Full Disk Access. \"Before granting an app such",
-      "published": "Tue, 17 Nov 2026 16:37:31 +0530",
+      "source": "BleepingComputer",
+      "title": "British Scattered Spider hacker sentenced to 6 years in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/",
+      "summary": "A leader of the Scattered Spider cybercrime collective has been sentenced to six years in prison in the United States for stealing millions in cryptocurrency and conspiring to hack a dozen companies. [...]",
+      "published": "Wed, 18 Nov 2026 03:24:18 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
-      "link": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html",
-      "summary": "An attacker exploited a flaw in Optimizely Web Experimentation to plant malicious code in some of the scripts that customers' websites load from the service, Optimizely said early today. Visitors to sites run by at least 178 organizations, including CNN, the BBC and Zoom, received the code yesterday, according to Report URI, a firm that monitors the scripts websites run. The code was built to",
-      "published": "Tue, 17 Nov 2026 12:42:13 +0530",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -216,23 +237,14 @@
       ]
     },
     {
-      "source": "BleepingComputer",
-      "title": "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool",
-      "link": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
-      "summary": "Flipper Devices, the company behind the popular Flipper Zero pentesting device, has launched a crowdfunding campaign for Flipper One, a portable Linux computer and networking multi-tool. [...]",
-      "published": "Tue, 17 Nov 2026 11:00:00 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
-      "summary": "Huntress researchers break down how EvilTokens, Knight Office, and Kali365 capture and replay M365 tokens, plus how defenders can detect and contain them. [...]",
-      "published": "Tue, 17 Nov 2026 10:01:11 -0500",
-      "value_score": 18,
+      "source": "Krebs on Security",
+      "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
+      "link": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
+      "summary": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize user experiences and test out new features. Experts say the incident, which saw data-stealing malicious software silently injected into sites like the BBC, CNN, Equifax, Ledger and Zoom, was exacerbated by the reality that few popular websites enforce strict rules on the sources ",
+      "published": "Wed, 18 Nov 2026 02:52:04 +0000",
+      "value_score": 16,
       "value_signals": [
-        "Phishing"
+        "Exploit wording"
       ]
     },
     {
@@ -313,17 +325,6 @@
       "value_score": 28,
       "value_signals": [
         "Ransomware"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Microsoft Patches More Than 1,400 Security Flaws",
-      "link": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
-      "summary": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond.",
-      "published": "Tue, 13 Oct 2026 23:24:53 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×3"
       ]
     },
     {
@@ -409,6 +410,39 @@
     },
     {
       "source": "Security Week",
+      "title": "Oracle Patches 950 Vulnerabilities With November 2026 CSPU",
+      "link": "https://www.securityweek.com/oracle-patches-640-vulnerabilities-with-november-2026-cspu/",
+      "summary": "Over 300 patches address unauthenticated, remotely exploitable flaws, while 62 fix critical-severity flaws. The post Oracle Patches 950 Vulnerabilities With November 2026 CSPU appeared first on SecurityWeek .",
+      "published": "Wed, 18 Nov 2026 08:47:18 +0000",
+      "value_score": 32,
+      "value_signals": [
+        "Patch/update",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Java4Shell Vulnerability Puts Many Enterprise Applications at Risk of Takeover",
+      "link": "https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover/",
+      "summary": "Calif demonstrated remote code execution in Jira, Jenkins and Keycloak, while VulnCheck says real-world RCE requires per-target work The post Java4Shell Vulnerability Puts Many Enterprise Applications at Risk of Takeover appeared first on SecurityWeek .",
+      "published": "Wed, 18 Nov 2026 07:43:34 +0000",
+      "value_score": 50,
+      "value_signals": [
+        "RCE ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Classified Communications Network at the National Security Agency Goes Down, Defense Official Says",
+      "link": "https://www.securityweek.com/classified-communications-network-at-the-national-security-agency-goes-down-defense-official-says/",
+      "summary": "The problem disrupted the operations of NSANet, a classified internal network used by employees of the agency. The post Classified Communications Network at the National Security Agency Goes Down, Defense Official Says appeared first on SecurityWeek .",
+      "published": "Wed, 18 Nov 2026 02:15:07 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says",
       "link": "https://www.securityweek.com/ai-framework-autonomously-weaponized-flaws-in-real-attacks-google-says/",
       "summary": "Threat actors are deploying multi-agent offensive frameworks to increase the velocity of multi-stage intrusions. The post AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says appeared first on SecurityWeek .",
@@ -454,38 +488,6 @@
       "value_score": 34,
       "value_signals": [
         "CVE mentioned",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Access Dental Management Data Breach Impacts Over 340,000",
-      "link": "https://www.securityweek.com/access-dental-management-data-breach-impacts-over-340000/",
-      "summary": "Hackers breached Access Dental’s network and stole personal, health, and insurance information. The post Access Dental Management Data Breach Impacts Over 340,000 appeared first on SecurityWeek .",
-      "published": "Tue, 17 Nov 2026 12:59:04 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Corma Receives $125 Million to Train Foundation Models for Defensive Cybersecurity",
-      "link": "https://www.securityweek.com/corma-receives-125-million-to-train-foundation-models-for-defensive-cybersecurity/",
-      "summary": "Led by NEA and supported by existing investors, the funding brings the company’s valuation to $1 billion. The post Corma Receives $125 Million to Train Foundation Models for Defensive Cybersecurity appeared first on SecurityWeek .",
-      "published": "Tue, 17 Nov 2026 12:51:54 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "N-able Kills Legacy APIs, Patches 17 N-central Zero-Days",
-      "link": "https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days/",
-      "summary": "The patches target recently disclosed zero-days, as well as vulnerabilities already exploited in the wild. The post N-able Kills Legacy APIs, Patches 17 N-central Zero-Days appeared first on SecurityWeek .",
-      "published": "Tue, 17 Nov 2026 12:28:45 +0000",
-      "value_score": 41,
-      "value_signals": [
-        "Active exploitation",
         "Exploit wording"
       ]
     },

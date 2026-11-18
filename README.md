@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-11-18 00:23 UTC |
+| 🕐 Last Updated | 2026-11-18 09:38 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`net client library` • `pretxt emerges stealth` • `docker hub images` • `defensive cybersecurity led` • `execute arbitrary code` • `networking multi tool` • `previously undocumented backdoors` • `next 14 months` • `dorsett controls infoscan` • `remotely execute code`
+`net client library` • `pretxt emerges stealth` • `docker hub images` • `classified communications network` • `execute arbitrary code` • `google owned wiz` • `x86 64 intel` • `targeted advanced manufacturing` • `sprawling phishing campaign` • `obtain sensitive information`
 
 ## 📄 Reports
 

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-11-17 17:17 UTC |
+| 🕐 Last Updated | 2026-11-18 00:23 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`net client library` • `pretxt emerges stealth` • `siemens ruggedcom ape1808` • `networking multi tool` • `artificial intelligence ai` • `v8 2 contains` • `test takers turn` • `stealing 25 million` • `previously undocumented backdoors` • `next 14 months`
+`net client library` • `pretxt emerges stealth` • `docker hub images` • `defensive cybersecurity led` • `execute arbitrary code` • `networking multi tool` • `previously undocumented backdoors` • `next 14 months` • `dorsett controls infoscan` • `remotely execute code`
 
 ## 📄 Reports
 

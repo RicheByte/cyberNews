@@ -1,6 +1,5 @@
 {
   "dates": [
-    "2026-10-19",
     "2026-10-20",
     "2026-10-21",
     "2026-10-22",
@@ -29,7 +28,8 @@
     "2026-11-14",
     "2026-11-15",
     "2026-11-16",
-    "2026-11-17"
+    "2026-11-17",
+    "2026-11-18"
   ],
   "keywords": {
     "five cybersecurity predictions": {
@@ -1193,7 +1193,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 165,
+      "count": 166,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1231,7 +1231,8 @@
         "2026-10-30",
         "2026-10-31",
         "2026-11-11",
-        "2026-11-12"
+        "2026-11-12",
+        "2026-11-18"
       ]
     },
     "france arrests latvian": {
@@ -2189,7 +2190,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 705,
+      "count": 706,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2348,7 +2349,8 @@
         "2026-11-14",
         "2026-11-15",
         "2026-11-16",
-        "2026-11-17"
+        "2026-11-17",
+        "2026-11-18"
       ]
     },
     "model agnostic abstractions": {
@@ -27975,10 +27977,11 @@
       ]
     },
     "third party platform": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-08-18",
-        "2026-08-19"
+        "2026-08-19",
+        "2026-11-18"
       ]
     },
     "reverse socks relays": {
@@ -35021,7 +35024,7 @@
       ]
     },
     "net client library": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-10-22",
         "2026-10-23",
@@ -35030,7 +35033,8 @@
         "2026-10-26",
         "2026-10-27",
         "2026-10-28",
-        "2026-11-17"
+        "2026-11-17",
+        "2026-11-18"
       ]
     },
     "node js integration": {
@@ -37403,10 +37407,11 @@
       ]
     },
     "next 14 months": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-16",
-        "2026-11-17"
+        "2026-11-17",
+        "2026-11-18"
       ]
     },
     "automate vulnerability discovery": {
@@ -37428,15 +37433,17 @@
       ]
     },
     "pretxt emerges stealth": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-11-17"
+        "2026-11-17",
+        "2026-11-18"
       ]
     },
     "networking multi tool": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-11-17"
+        "2026-11-17",
+        "2026-11-18"
       ]
     },
     "v8 2 contains": {
@@ -37458,15 +37465,17 @@
       ]
     },
     "previously undocumented backdoors": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-11-17"
+        "2026-11-17",
+        "2026-11-18"
       ]
     },
     "dorsett controls infoscan": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-11-17"
+        "2026-11-17",
+        "2026-11-18"
       ]
     },
     "court clears brothers": {
@@ -37500,9 +37509,10 @@
       ]
     },
     "defensive cybersecurity led": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-11-17"
+        "2026-11-17",
+        "2026-11-18"
       ]
     },
     "siemens meta iot2050": {
@@ -37510,20 +37520,69 @@
       "dates": [
         "2026-11-17"
       ]
+    },
+    "docker hub images": {
+      "count": 1,
+      "dates": [
+        "2026-11-18"
+      ]
+    },
+    "remotely execute code": {
+      "count": 1,
+      "dates": [
+        "2026-11-18"
+      ]
+    },
+    "inject arbitrary code": {
+      "count": 1,
+      "dates": [
+        "2026-11-18"
+      ]
+    },
+    "multi stage intrusions": {
+      "count": 1,
+      "dates": [
+        "2026-11-18"
+      ]
+    },
+    "human rights organizations": {
+      "count": 1,
+      "dates": [
+        "2026-11-18"
+      ]
+    },
+    "customers websites load": {
+      "count": 1,
+      "dates": [
+        "2026-11-18"
+      ]
+    },
+    "run code outside": {
+      "count": 1,
+      "dates": [
+        "2026-11-18"
+      ]
+    },
+    "x t format": {
+      "count": 1,
+      "dates": [
+        "2026-11-18"
+      ]
+    },
+    "train foundation models": {
+      "count": 1,
+      "dates": [
+        "2026-11-18"
+      ]
+    },
+    "stole personal health": {
+      "count": 1,
+      "dates": [
+        "2026-11-18"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-22 22:55",
-      "articles": 56,
-      "top_keywords": [
-        "hacked litellm release",
-        "net client library",
-        "node js integration",
-        "global crackdown interpol",
-        "flaw lets anyone"
-      ]
-    },
     {
       "timestamp": "2026-10-23 03:00",
       "articles": 56,
@@ -38611,6 +38670,17 @@
         "siemens ruggedcom ape1808",
         "networking multi tool",
         "artificial intelligence ai"
+      ]
+    },
+    {
+      "timestamp": "2026-11-18 00:23",
+      "articles": 56,
+      "top_keywords": [
+        "net client library",
+        "pretxt emerges stealth",
+        "docker hub images",
+        "defensive cybersecurity led",
+        "execute arbitrary code"
       ]
     }
   ]

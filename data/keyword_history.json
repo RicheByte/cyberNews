@@ -374,7 +374,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2915,
+      "count": 2916,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -711,7 +711,8 @@
         "2026-11-14",
         "2026-11-15",
         "2026-11-16",
-        "2026-11-17"
+        "2026-11-17",
+        "2026-11-18"
       ]
     },
     "supposed wayward package": {
@@ -1014,7 +1015,7 @@
       ]
     },
     "remote code execution": {
-      "count": 531,
+      "count": 532,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1117,7 +1118,8 @@
         "2026-10-30",
         "2026-10-31",
         "2026-11-01",
-        "2026-11-02"
+        "2026-11-02",
+        "2026-11-18"
       ]
     },
     "attacker remotely control": {
@@ -1194,7 +1196,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 167,
+      "count": 168,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2191,7 +2193,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 707,
+      "count": 708,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -5457,7 +5459,7 @@
       ]
     },
     "authentication bypass vulnerability": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2026-01-22",
         "2026-01-23",
@@ -5470,7 +5472,8 @@
         "2026-11-01",
         "2026-11-02",
         "2026-11-03",
-        "2026-11-04"
+        "2026-11-04",
+        "2026-11-18"
       ]
     },
     "us tech concern": {
@@ -20114,14 +20117,15 @@
       ]
     },
     "stronger identity verification": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-06-10",
         "2026-06-11",
         "2026-08-25",
         "2026-08-26",
         "2026-09-09",
-        "2026-09-10"
+        "2026-09-10",
+        "2026-11-18"
       ]
     },
     "infostealers turn millions": {
@@ -21211,11 +21215,12 @@
       ]
     },
     "allow unauthenticated attackers": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-06-20",
         "2026-06-21",
-        "2026-06-22"
+        "2026-06-22",
+        "2026-11-18"
       ]
     },
     "framework that's known": {
@@ -27978,7 +27983,7 @@
       ]
     },
     "third party platform": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-08-18",
         "2026-08-19",
@@ -35025,7 +35030,7 @@
       ]
     },
     "net client library": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-10-22",
         "2026-10-23",
@@ -37409,7 +37414,7 @@
       ]
     },
     "next 14 months": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-11-16",
         "2026-11-17",
@@ -37487,9 +37492,10 @@
       ]
     },
     "cause memory corruption": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-11-17"
+        "2026-11-17",
+        "2026-11-18"
       ]
     },
     "various siemens products": {
@@ -37524,7 +37530,7 @@
       ]
     },
     "docker hub images": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-18"
       ]
@@ -37536,7 +37542,7 @@
       ]
     },
     "inject arbitrary code": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-18"
       ]
@@ -37566,7 +37572,7 @@
       ]
     },
     "x t format": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-18"
       ]
@@ -37590,7 +37596,7 @@
       ]
     },
     "google owned wiz": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-18"
       ]
@@ -37608,7 +37614,7 @@
       ]
     },
     "november 17 2026": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-18"
       ]
@@ -37630,20 +37636,33 @@
       "dates": [
         "2026-11-18"
       ]
+    },
+    "russian apt poses": {
+      "count": 1,
+      "dates": [
+        "2026-11-18"
+      ]
+    },
+    "open source implementation": {
+      "count": 1,
+      "dates": [
+        "2026-11-18"
+      ]
+    },
+    "gain code execution": {
+      "count": 1,
+      "dates": [
+        "2026-11-18"
+      ]
+    },
+    "access cursor data": {
+      "count": 1,
+      "dates": [
+        "2026-11-18"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-23 09:00",
-      "articles": 56,
-      "top_keywords": [
-        "net client library",
-        "11 million impacted",
-        "hacked litellm release",
-        "node js disclosed",
-        "iran s prince"
-      ]
-    },
     {
       "timestamp": "2026-10-23 14:35",
       "articles": 56,
@@ -38731,6 +38750,17 @@
         "docker hub images",
         "classified communications network",
         "execute arbitrary code"
+      ]
+    },
+    {
+      "timestamp": "2026-11-18 18:35",
+      "articles": 56,
+      "top_keywords": [
+        "stronger identity verification",
+        "docker hub images",
+        "net client library",
+        "russian apt poses",
+        "cause memory corruption"
       ]
     }
   ]

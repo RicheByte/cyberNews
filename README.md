@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-11-18 09:38 UTC |
+| 🕐 Last Updated | 2026-11-18 18:35 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`net client library` • `pretxt emerges stealth` • `docker hub images` • `classified communications network` • `execute arbitrary code` • `google owned wiz` • `x86 64 intel` • `targeted advanced manufacturing` • `sprawling phishing campaign` • `obtain sensitive information`
+`stronger identity verification` • `docker hub images` • `net client library` • `russian apt poses` • `cause memory corruption` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `open source implementation` • `november 17 2026` • `next 14 months`
 
 ## 📄 Reports
 

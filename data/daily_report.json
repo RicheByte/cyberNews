@@ -1,72 +1,111 @@
 {
-  "last_updated": "2026-11-18 18:35",
+  "last_updated": "2026-11-19 01:37",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "stronger identity verification",
-    "docker hub images",
     "net client library",
     "russian apt poses",
     "cause memory corruption",
+    "1 26 2",
+    "40 5 million",
+    "xml rpc endpoint",
     "twitter whistleblower complaint",
-    "sprawling phishing campaign",
-    "open source implementation",
-    "november 17 2026",
-    "next 14 months",
-    "google owned wiz",
-    "authentication bypass vulnerability",
+    "130 companies tangled",
     "inject arbitrary code",
     "execute arbitrary code",
+    "vulnerabilities vulncheck added",
     "remote code execution",
     "gain code execution",
-    "access cursor data",
-    "allow unauthenticated attackers",
+    "shinyhunters hacking group",
+    "extortion group krebsonsecurity",
     "x t format",
-    "third party platform"
+    "third party platform",
+    "things iot products",
+    "technical report shared"
   ],
   "trending": [
     {
       "keyword": "stronger identity verification",
-      "mentions": 21
-    },
-    {
-      "keyword": "docker hub images",
-      "mentions": 3
+      "mentions": 22
     },
     {
       "keyword": "net client library",
-      "mentions": 33
+      "mentions": 34
     },
     {
       "keyword": "russian apt poses",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "cause memory corruption",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2916
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 708
-    },
-    {
-      "keyword": "open source implementation",
+      "keyword": "1 26 2",
       "mentions": 1
     },
     {
-      "keyword": "november 17 2026",
-      "mentions": 2
+      "keyword": "40 5 million",
+      "mentions": 1
     },
     {
-      "keyword": "next 14 months",
-      "mentions": 6
+      "keyword": "xml rpc endpoint",
+      "mentions": 1
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2917
+    },
+    {
+      "keyword": "130 companies tangled",
+      "mentions": 461
+    },
+    {
+      "keyword": "inject arbitrary code",
+      "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
+      "link": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
+      "summary": "A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in. The decade-old flaw, CVE-2026-123007, dubbed \"nginx2root,\" has been present in NGINX's open-source code since version 1.9.5, released on September 22, 2015. Fixed versions 1.31.9 and 1.30.7 came out today. F5, the company behind NGINX, says attackers can run code where",
+      "published": "Thu, 19 Nov 2026 00:01:17 +0530",
+      "value_score": 36,
+      "value_signals": [
+        "CVE mentioned",
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
+      "link": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
+      "summary": "Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts. Each flaw needs a specific setup on a virtual server: an iRule that uses a particular command, or an APM policy that includes two particular kinds of agent. F5, which makes BIG-IP, disclosed the flaws today and says they",
+      "published": "Wed, 18 Nov 2026 23:45:39 +0530",
+      "value_score": 46,
+      "value_signals": [
+        "RCE",
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
+      "link": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
+      "summary": "A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF) The vulnerability, tracked as CVE-2026-129448 (CVSS score: 9.8), is a case of unauthenticated deserialization in the XML-RPC endpoint that could lead to remote code execution. \"Deserialization of Untrusted",
+      "published": "Wed, 18 Nov 2026 22:40:45 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation",
+        "RCE ×2",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
@@ -121,43 +160,35 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers",
-      "link": "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting Perforce Puppet, an enterprise infrastructure-as-code (IaC) and configuration management platform, to its Known Exploited Vulnerabilities (KEV) catalog, citing reports of active exploitation. The vulnerability, tracked as CVE-2026-115731 (CVSS score: 9.4), is a case of",
-      "published": "Wed, 18 Nov 2026 13:54:31 +0530",
-      "value_score": 100,
+      "source": "BleepingComputer",
+      "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
+      "link": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
+      "summary": "Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28 companies worldwide. [...]",
+      "published": "Wed, 18 Nov 2026 18:08:33 -0500",
+      "value_score": 46,
       "value_signals": [
-        "CVE mentioned",
-        "RCE",
-        "CISA/KEV ×3",
-        "High severity ×2",
-        "Exploit wording"
+        "Ransomware ×2"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution",
-      "link": "https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged organizations to immediately patch a newly disclosed critical security flaw impacting Oracle Java. The flaw, tracked as CVE-2026-114938 (CVSS score: 8.1), refers to a case of out-of-bounds write that can lead to denial-of-service (DoS) or remote code execution under certain conditions. \"This critical memory-corruption",
-      "published": "Wed, 18 Nov 2026 13:54:23 +0530",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE ×2",
-        "Patch/update",
-        "CISA/KEV ×2",
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
-      "link": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
-      "summary": "Threat actors have compromised Microsoft's agent-framework package to push a credential stealer, according to reports from Aikido, Chainguard, Endor Labs, OX Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz. The malicious versions, 1.26.1 and 1.26.2, were published 33 minutes apart on November 17, 2026, and are designed to run a credential stealer on every Python start. As of",
-      "published": "Wed, 18 Nov 2026 12:15:26 +0530",
+      "source": "BleepingComputer",
+      "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
+      "link": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
+      "summary": "Coinbase says it blocked $4.7 million in cryptocurrency transfers to scammers promoting a fake giveaway using an AI-generated deepfake of Elon Musk during a Tesla livestream that attracted more than 500,000 viewers. [...]",
+      "published": "Wed, 18 Nov 2026 15:49:32 -0500",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
+      "link": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
+      "summary": "A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland. [...]",
+      "published": "Wed, 18 Nov 2026 14:39:33 -0500",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -207,38 +238,6 @@
       "published": "Wed, 18 Nov 2026 04:24:31 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "British Scattered Spider hacker sentenced to 6 years in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/",
-      "summary": "A leader of the Scattered Spider cybercrime collective has been sentenced to six years in prison in the United States for stealing millions in cryptocurrency and conspiring to hack a dozen companies. [...]",
-      "published": "Wed, 18 Nov 2026 03:24:18 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
-      "summary": "A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, including Jenkins, Atlassian Jira, Confluence, and Keycloak. [...]",
-      "published": "Tue, 17 Nov 2026 18:04:21 -0500",
-      "value_score": 46,
-      "value_signals": [
-        "RCE",
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
-      "link": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
-      "summary": "Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds of publication. [...]",
-      "published": "Tue, 17 Nov 2026 16:27:17 -0500",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -333,6 +332,37 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Russia's Cold Relic APT Turns One Cloud Breach Into Another",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another",
+      "summary": "The Russia-linked threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks.",
+      "published": "Wed, 18 Nov 2026 21:59:46 GMT",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Strike Graph Launches Integration AI to Automate Continuous Compliance Evidence Using Any Existing Tool",
+      "link": "https://www.darkreading.com/cyber-risk/strike-graph-launches-integration-ai-to-automate-continuous-compliance-evidence-using-any-existing-tool",
+      "summary": "New agentic AI solution leverages APIs to collect compliance evidence from systems and applies it to over 30 frameworks with no duplicate work.",
+      "published": "Wed, 18 Nov 2026 20:45:49 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks",
+      "link": "https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups",
+      "summary": "Analysis of 20 Iranian state-sponsored threat groups details how espionage, ransomware, and hacktivism intersect in state-backed cyber campaigns.",
+      "published": "Wed, 18 Nov 2026 20:38:42 GMT",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Java4Shell Flaw Threatens Global Enterprises, Java Application Ecosystem",
       "link": "https://www.darkreading.com/vulnerabilities-threats/java4shell-flaw-threatens-global-java-application-ecosystem",
       "summary": "Discovered using AI, the memory corruption vulnerability affects the OpenJDK runtime and could allow unauthenticated attackers to take over systems.",
@@ -380,36 +410,6 @@
       "value_score": 22,
       "value_signals": [
         "Breach/leak"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Grok Bots Attempt to Access Corporate Data Without User Approval",
-      "link": "https://www.darkreading.com/application-security/grok-bots-corporate-data-without-user-approval",
-      "summary": "Two AI agents, separately over a five-day period, autonomously tried to access connected applications, including Google Calendar, Gmail, Slack, and GitHub, without account owner permission.",
-      "published": "Tue, 17 Nov 2026 13:12:56 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Google Project Zero Slashes Bug Disclosure Deadlines, Splitting Experts",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/google-project-zero-bug-disclosure-deadlines",
-      "summary": "One of the oldest running bug disclosure programs announced it would shorten public disclosure timelines to vendors from 120 days to 30 over the next 14 months.",
-      "published": "Mon, 16 Nov 2026 22:08:20 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Ransomware Attacks Increase Behind AI, but Payments Decline",
-      "link": "https://www.darkreading.com/threat-intelligence/ransomware-attacks-increase-ai-payments-decline",
-      "summary": "Large language models and other AI systems allow a growing number of ransomware groups to create convincing phishing emails and identify sensitive data quickly.",
-      "published": "Mon, 16 Nov 2026 19:56:05 GMT",
-      "value_score": 54,
-      "value_signals": [
-        "Ransomware ×2",
-        "Phishing"
       ]
     },
     {
@@ -576,6 +576,21 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2024-10441 Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerability CVE-2026-40217 BerriAI LiteLLM Unprotected Alternate Channel Vulnerability CVE-2026-90436 Apache Axis Unsafe Reflection Vulnerability CVE-2026-90817 Vanderbilt University Research Electronic Data Capture (REDCap) Code Injection Vulnerability These types of vu",
+      "published": "Wed, 18 Nov 26 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×4",
+        "CISA/KEV ×5",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "Siemens ROS#",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06",
       "summary": "View CSAF Summary ROS# before version 2.3.1 contains a code injection vulnerability that could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program. Siemens has released a new version for ROS# and recommends to update to the latest version. The following versions of Siemens ROS# are affected: ROS# vers:intdot/<2.3.1 (CVE-2026-109097) CVSS Vendor Equipment v3 8.2 Siemens ROS# 1 Vulnerability Improper Control of Ge",
@@ -665,19 +680,6 @@
         "Source boost: CISA Alerts",
         "CVE mentioned",
         "Patch/update"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Siemens SIMATIC",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-08",
-      "summary": "View CSAF Summary The products listed below contain an authentication bypass vulnerability that could allow an on-path attacker to take over the session of a legitimate user and execute arbitrary code with the privileges of the victim user. Siemens is preparing fixes and recommends specific mitigations for products where fixes are not or not yet available. The following versions of Siemens SIMATIC are affected: SIMATIC BATCH V9.1 vers:all/* (CVE-2026-58114) SIMATIC Information Server 2020 vers:a",
-      "published": "Tue, 17 Nov 26 12:00:00 +0000",
-      "value_score": 68,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "Auth bypass"
       ]
     }
   ],

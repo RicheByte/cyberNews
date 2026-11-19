@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-11-18 18:35 UTC |
+| 🕐 Last Updated | 2026-11-19 01:37 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`stronger identity verification` • `docker hub images` • `net client library` • `russian apt poses` • `cause memory corruption` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `open source implementation` • `november 17 2026` • `next 14 months`
+`stronger identity verification` • `net client library` • `russian apt poses` • `cause memory corruption` • `1 26 2` • `40 5 million` • `xml rpc endpoint` • `twitter whistleblower complaint` • `130 companies tangled` • `inject arbitrary code`
 
 ## 📄 Reports
 

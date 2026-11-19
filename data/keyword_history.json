@@ -374,7 +374,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2918,
+      "count": 2919,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1016,7 +1016,7 @@
       ]
     },
     "remote code execution": {
-      "count": 534,
+      "count": 535,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1198,7 +1198,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 170,
+      "count": 171,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2196,7 +2196,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 708,
+      "count": 709,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2356,7 +2356,8 @@
         "2026-11-15",
         "2026-11-16",
         "2026-11-17",
-        "2026-11-18"
+        "2026-11-18",
+        "2026-11-19"
       ]
     },
     "model agnostic abstractions": {
@@ -4420,13 +4421,14 @@
       ]
     },
     "third party applications": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-14",
         "2026-01-15",
         "2026-08-29",
         "2026-08-30",
-        "2026-08-31"
+        "2026-08-31",
+        "2026-11-19"
       ]
     },
     "stack space exhaustion": {
@@ -32577,7 +32579,7 @@
       ]
     },
     "shinyhunters hacking group": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-09-29",
         "2026-11-04",
@@ -34775,7 +34777,7 @@
       ]
     },
     "ru money laundering": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-10-21",
         "2026-10-25",
@@ -34789,7 +34791,8 @@
         "2026-11-09",
         "2026-11-10",
         "2026-11-11",
-        "2026-11-12"
+        "2026-11-12",
+        "2026-11-19"
       ]
     },
     "memory bugs account": {
@@ -35040,7 +35043,7 @@
       ]
     },
     "net client library": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-10-22",
         "2026-10-23",
@@ -36944,7 +36947,7 @@
       ]
     },
     "extortion group krebsonsecurity": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-11-11",
         "2026-11-12",
@@ -37492,10 +37495,11 @@
       ]
     },
     "dorsett controls infoscan": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-17",
-        "2026-11-18"
+        "2026-11-18",
+        "2026-11-19"
       ]
     },
     "court clears brothers": {
@@ -37587,7 +37591,7 @@
       ]
     },
     "x t format": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-11-18",
         "2026-11-19"
@@ -37716,6 +37720,54 @@
       ]
     },
     "gentlemen ransomware group": {
+      "count": 2,
+      "dates": [
+        "2026-11-19"
+      ]
+    },
+    "service memory corruption": {
+      "count": 1,
+      "dates": [
+        "2026-11-19"
+      ]
+    },
+    "simatic s7 webs": {
+      "count": 1,
+      "dates": [
+        "2026-11-19"
+      ]
+    },
+    "advisory published today": {
+      "count": 1,
+      "dates": [
+        "2026-11-19"
+      ]
+    },
+    "suitable gadget chain": {
+      "count": 1,
+      "dates": [
+        "2026-11-19"
+      ]
+    },
+    "separate oracle chain": {
+      "count": 1,
+      "dates": [
+        "2026-11-19"
+      ]
+    },
+    "exploits published yesterday": {
+      "count": 1,
+      "dates": [
+        "2026-11-19"
+      ]
+    },
+    "small businesses alike": {
+      "count": 1,
+      "dates": [
+        "2026-11-19"
+      ]
+    },
+    "ruby releases fixes": {
       "count": 1,
       "dates": [
         "2026-11-19"
@@ -37723,17 +37775,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-23 22:50",
-      "articles": 56,
-      "top_keywords": [
-        "net client library",
-        "quanum lsm system",
-        "11 million impacted",
-        "execute malicious code",
-        "web applications configured"
-      ]
-    },
     {
       "timestamp": "2026-10-24 02:57",
       "articles": 56,
@@ -38821,6 +38862,17 @@
         "palo alto networks",
         "cause memory corruption",
         "execute arbitrary code"
+      ]
+    },
+    {
+      "timestamp": "2026-11-19 18:46",
+      "articles": 56,
+      "top_keywords": [
+        "net client library",
+        "service memory corruption",
+        "remote code execution",
+        "simatic s7 webs",
+        "gentlemen ransomware group"
       ]
     }
   ]

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-11-19 09:45 UTC |
+| 🕐 Last Updated | 2026-11-19 18:46 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`net client library` • `stronger identity verification` • `palo alto networks` • `cause memory corruption` • `execute arbitrary code` • `remote code execution` • `russian apt poses` • `inject arbitrary code` • `gain code execution` • `xml rpc endpoint`
+`net client library` • `service memory corruption` • `remote code execution` • `simatic s7 webs` • `gentlemen ransomware group` • `twitter whistleblower complaint` • `dorsett controls infoscan` • `advisory published today` • `execute arbitrary code` • `suitable gadget chain`
 
 ## 📄 Reports
 

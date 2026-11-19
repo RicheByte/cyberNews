@@ -374,7 +374,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2917,
+      "count": 2918,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1016,7 +1016,7 @@
       ]
     },
     "remote code execution": {
-      "count": 533,
+      "count": 534,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1198,7 +1198,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 169,
+      "count": 170,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2975,7 +2975,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 461,
+      "count": 462,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -8515,13 +8515,14 @@
       ]
     },
     "palo alto networks": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-02-18",
         "2026-02-19",
         "2026-05-06",
         "2026-07-22",
-        "2026-07-23"
+        "2026-07-23",
+        "2026-11-19"
       ]
     },
     "darknet drug ring": {
@@ -10880,13 +10881,14 @@
       ]
     },
     "code injection vulnerability": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-11",
         "2026-03-12",
         "2026-04-07",
         "2026-09-26",
-        "2026-09-28"
+        "2026-09-28",
+        "2026-11-19"
       ]
     },
     "royal thai police": {
@@ -20121,7 +20123,7 @@
       ]
     },
     "stronger identity verification": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-06-10",
         "2026-06-11",
@@ -32575,7 +32577,7 @@
       ]
     },
     "shinyhunters hacking group": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-09-29",
         "2026-11-04",
@@ -35038,7 +35040,7 @@
       ]
     },
     "net client library": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-10-22",
         "2026-10-23",
@@ -36942,7 +36944,7 @@
       ]
     },
     "extortion group krebsonsecurity": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-11-11",
         "2026-11-12",
@@ -37503,7 +37505,7 @@
       ]
     },
     "cause memory corruption": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-17",
         "2026-11-18",
@@ -37554,7 +37556,7 @@
       ]
     },
     "inject arbitrary code": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-11-18",
         "2026-11-19"
@@ -37585,7 +37587,7 @@
       ]
     },
     "x t format": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-18",
         "2026-11-19"
@@ -37652,7 +37654,7 @@
       ]
     },
     "russian apt poses": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-18",
         "2026-11-19"
@@ -37665,7 +37667,7 @@
       ]
     },
     "gain code execution": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-18",
         "2026-11-19"
@@ -37684,13 +37686,13 @@
       ]
     },
     "40 5 million": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-19"
       ]
     },
     "xml rpc endpoint": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-19"
       ]
@@ -37700,20 +37702,27 @@
       "dates": [
         "2026-11-19"
       ]
+    },
+    "file hash changes": {
+      "count": 1,
+      "dates": [
+        "2026-11-19"
+      ]
+    },
+    "4 5 billion": {
+      "count": 1,
+      "dates": [
+        "2026-11-19"
+      ]
+    },
+    "gentlemen ransomware group": {
+      "count": 1,
+      "dates": [
+        "2026-11-19"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-23 19:43",
-      "articles": 56,
-      "top_keywords": [
-        "net client library",
-        "11 million impacted",
-        "quanum lsm system",
-        "web applications configured",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-10-23 22:50",
       "articles": 56,
@@ -38801,6 +38810,17 @@
         "russian apt poses",
         "cause memory corruption",
         "1 26 2"
+      ]
+    },
+    {
+      "timestamp": "2026-11-19 09:45",
+      "articles": 56,
+      "top_keywords": [
+        "net client library",
+        "stronger identity verification",
+        "palo alto networks",
+        "cause memory corruption",
+        "execute arbitrary code"
       ]
     }
   ]

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-11-19 01:37 UTC |
+| 🕐 Last Updated | 2026-11-19 09:45 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`stronger identity verification` • `net client library` • `russian apt poses` • `cause memory corruption` • `1 26 2` • `40 5 million` • `xml rpc endpoint` • `twitter whistleblower complaint` • `130 companies tangled` • `inject arbitrary code`
+`net client library` • `stronger identity verification` • `palo alto networks` • `cause memory corruption` • `execute arbitrary code` • `remote code execution` • `russian apt poses` • `inject arbitrary code` • `gain code execution` • `xml rpc endpoint`
 
 ## 📄 Reports
 

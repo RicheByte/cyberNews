@@ -374,7 +374,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2920,
+      "count": 2921,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1017,7 +1017,7 @@
       ]
     },
     "remote code execution": {
-      "count": 536,
+      "count": 537,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1200,7 +1200,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 172,
+      "count": 173,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2199,7 +2199,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 710,
+      "count": 711,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -32583,7 +32583,7 @@
       ]
     },
     "shinyhunters hacking group": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-09-29",
         "2026-11-04",
@@ -34782,7 +34782,7 @@
       ]
     },
     "ru money laundering": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-10-21",
         "2026-10-25",
@@ -35049,7 +35049,7 @@
       ]
     },
     "net client library": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-10-22",
         "2026-10-23",
@@ -36954,7 +36954,7 @@
       ]
     },
     "extortion group krebsonsecurity": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-11-11",
         "2026-11-12",
@@ -37503,7 +37503,7 @@
       ]
     },
     "dorsett controls infoscan": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-11-17",
         "2026-11-18",
@@ -37600,7 +37600,7 @@
       ]
     },
     "x t format": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-11-18",
         "2026-11-19",
@@ -37736,27 +37736,28 @@
       ]
     },
     "service memory corruption": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-11-19"
+        "2026-11-19",
+        "2026-11-20"
       ]
     },
     "simatic s7 webs": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-19",
         "2026-11-20"
       ]
     },
     "advisory published today": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-19",
         "2026-11-20"
       ]
     },
     "suitable gadget chain": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-19",
         "2026-11-20"
@@ -37794,7 +37795,7 @@
       ]
     },
     "chinese linked hackers": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-20"
       ]
@@ -37806,7 +37807,7 @@
       ]
     },
     "organization's esx hosts": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-20"
       ]
@@ -37822,20 +37823,33 @@
       "dates": [
         "2026-11-20"
       ]
+    },
+    "early september 2026": {
+      "count": 1,
+      "dates": [
+        "2026-11-20"
+      ]
+    },
+    "vmware directory service": {
+      "count": 1,
+      "dates": [
+        "2026-11-20"
+      ]
+    },
+    "third party providers": {
+      "count": 1,
+      "dates": [
+        "2026-11-20"
+      ]
+    },
+    "spamexperts hosted cloud": {
+      "count": 1,
+      "dates": [
+        "2026-11-20"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-24 08:34",
-      "articles": 56,
-      "top_keywords": [
-        "net client library",
-        "quanum lsm system",
-        "11 million impacted",
-        "execute malicious code",
-        "web applications configured"
-      ]
-    },
     {
       "timestamp": "2026-10-24 13:47",
       "articles": 56,
@@ -38923,6 +38937,17 @@
         "simatic s7 webs",
         "hackers steal data",
         "chinese linked hackers"
+      ]
+    },
+    {
+      "timestamp": "2026-11-20 09:32",
+      "articles": 56,
+      "top_keywords": [
+        "net client library",
+        "simatic s7 webs",
+        "chinese linked hackers",
+        "twitter whistleblower complaint",
+        "suitable gadget chain"
       ]
     }
   ]

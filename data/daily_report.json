@@ -1,72 +1,107 @@
 {
-  "last_updated": "2026-11-20 01:35",
+  "last_updated": "2026-11-20 09:32",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "net client library",
-    "remote code execution",
     "simatic s7 webs",
-    "hackers steal data",
     "chinese linked hackers",
     "twitter whistleblower complaint",
     "suitable gadget chain",
+    "early september 2026",
     "dorsett controls infoscan",
     "advisory published today",
-    "execute arbitrary code",
+    "remote code execution",
     "shinyhunters hacking group",
     "extortion group krebsonsecurity",
+    "execute arbitrary code",
     "x t format",
+    "vmware directory service",
+    "third party providers",
     "sprawling phishing campaign",
-    "ruby releases fixes",
+    "spamexperts hosted cloud",
+    "service memory corruption",
     "ru money laundering",
-    "regular expression engine",
-    "organization's esx hosts",
-    "nothing looks strange",
-    "navigating vulnerability hysteria"
+    "organization's esx hosts"
   ],
   "trending": [
     {
       "keyword": "net client library",
-      "mentions": 37
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 536
+      "mentions": 38
     },
     {
       "keyword": "simatic s7 webs",
-      "mentions": 2
-    },
-    {
-      "keyword": "hackers steal data",
-      "mentions": 1
+      "mentions": 3
     },
     {
       "keyword": "chinese linked hackers",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2920
+      "mentions": 2921
     },
     {
       "keyword": "suitable gadget chain",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "early september 2026",
+      "mentions": 1
     },
     {
       "keyword": "dorsett controls infoscan",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "advisory published today",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "execute arbitrary code",
-      "mentions": 172
+      "keyword": "remote code execution",
+      "mentions": 537
+    },
+    {
+      "keyword": "shinyhunters hacking group",
+      "mentions": 13
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
+      "link": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
+      "summary": "Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS. \"ROMULUS likely operates as a delivery service, distributing CNCMachineRMS and Legion Loader through separate chains while retaining ClickFix and signed binary sideloading techniques,\" Blackpoint",
+      "published": "Fri, 20 Nov 2026 12:41:39 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
+      "link": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
+      "summary": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026. The vulnerability, tracked as CVE-2026-123890 (CVSS score: 9.8), is a case of authentication bypass in the VMware Directory Service that could be exploited to gain unauthorized",
+      "published": "Fri, 20 Nov 2026 12:03:31 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day ×2",
+        "Auth bypass",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
+      "link": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
+      "summary": "A newly disclosed unpatched zero-day technique called FastUnlock lets someone with physical access to a locked Windows computer start programs without signing in. Whoever uses it gets only a limited account, not administrator control of the machine. The method was posted yesterday by a researcher who uses the handles MSNightmare and Nightmare Eclipse, and the endpoint-security firm ThreatLocker",
+      "published": "Fri, 20 Nov 2026 11:00:01 +0530",
+      "value_score": 35,
+      "value_signals": [
+        "Zero-day"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
@@ -105,12 +140,13 @@
     },
     {
       "source": "The Hacker News",
-      "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
+      "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
       "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
       "summary": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today. Fixed versions are out for all supported branches, and the company lists no workaround. vCenter is the central console for managing an organization's ESX hosts and virtual machines. The",
       "published": "Thu, 19 Nov 2026 20:41:06 +0530",
-      "value_score": 34,
+      "value_score": 59,
       "value_signals": [
+        "Zero-day",
         "Patch/update",
         "High severity ×2"
       ]
@@ -129,40 +165,14 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Everything Is a Web Application, Including Your Firewall",
-      "link": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
-      "summary": "One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, against PAN-OS management interfaces exposed to the internet. Both flaws let anyone execute code on the web server without authentication. The disclosure itself went a little wrong.",
-      "published": "Thu, 19 Nov 2026 17:22:23 +0530",
-      "value_score": 60,
+      "source": "BleepingComputer",
+      "title": "Windows 11 KB5132057 update released with 28 changes and fixes",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/",
+      "summary": "Microsoft released the KB5132057 November Windows 11 preview update, which comes with 28 changes, including improvements to Windows Search, Windows Hello, and the Run dialog. [...]",
+      "published": "Fri, 20 Nov 2026 04:25:35 -0500",
+      "value_score": 26,
       "value_signals": [
-        "CVE mentioned ×2",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
-      "link": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
-      "summary": "N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces and APIs. \"We have taken steps to mitigate the threat and are continuing to harden our services to reduce the risk of recurrence,\" N-able said. \"The investigation is ongoing, but at this time we",
-      "published": "Thu, 19 Nov 2026 15:01:26 +0530",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
-      "link": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
-      "summary": "Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown that crafted input can run code on the machine. \"We are aware of PoCs that prove some of them can be used to trigger remote code execution,\" the maintainers said. The project released fixed versions",
-      "published": "Thu, 19 Nov 2026 14:12:11 +0530",
-      "value_score": 64,
-      "value_signals": [
-        "RCE ×2",
-        "Patch/update",
-        "Exploit wording"
+        "Patch/update ×2"
       ]
     },
     {
@@ -247,19 +257,6 @@
       "value_score": 26,
       "value_signals": [
         "High severity ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
-      "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
-      "summary": "The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]",
-      "published": "Thu, 19 Nov 2026 08:08:08 -0500",
-      "value_score": 72,
-      "value_signals": [
-        "RCE ×2",
-        "High severity ×2",
-        "Exploit wording"
       ]
     },
     {
@@ -434,6 +431,26 @@
     },
     {
       "source": "Security Week",
+      "title": "N-able Blames Service Disruption on Cyberattack",
+      "link": "https://www.securityweek.com/n-able-blames-service-disruption-on-cyberattack/",
+      "summary": "The incident affected Mail Assure and SpamExperts Hosted Cloud and could have led to credential theft. The post N-able Blames Service Disruption on Cyberattack appeared first on SecurityWeek .",
+      "published": "Fri, 20 Nov 2026 09:08:35 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak",
+      "link": "https://www.securityweek.com/jpmorgan-visa-mastercard-cite-third-party-incidents-amid-data-leak/",
+      "summary": "The companies point to third-party providers after the N0n extortion group leaked data allegedly tied to their customers. The post JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak appeared first on SecurityWeek .",
+      "published": "Fri, 20 Nov 2026 07:35:46 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT",
       "link": "https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/",
       "summary": "Google says a China-linked espionage group exploited a critical VMware vCenter authentication bypass before Broadcom released a patch. The post Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT appeared first on SecurityWeek .",
@@ -502,29 +519,6 @@
       "value_signals": [
         "High severity ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "The Governance Gap in Open-Weight AI and What to Do About It",
-      "link": "https://www.securityweek.com/the-governance-gap-in-open-weight-ai-and-what-to-do-about-it/",
-      "summary": "Lower costs, data privacy, and greater control are driving open-weight AI adoption, but many organizations are not addressing the risks that come with it. The post The Governance Gap in Open-Weight AI and What to Do About It appeared first on SecurityWeek .",
-      "published": "Thu, 19 Nov 2026 12:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Splunk Patches Nearly 140 Flaws Across Three Core Products",
-      "link": "https://www.securityweek.com/splunk-patches-nearly-140-flaws-across-three-core-products/",
-      "summary": "The security updates resolve critical and high-severity issues leading to authentication bypass, remote code execution, and privilege escalation. The post Splunk Patches Nearly 140 Flaws Across Three Core Products appeared first on SecurityWeek .",
-      "published": "Thu, 19 Nov 2026 10:41:05 +0000",
-      "value_score": 65,
-      "value_signals": [
-        "RCE",
-        "Privilege escalation",
-        "Auth bypass",
-        "High severity"
       ]
     },
     {

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-11-20 01:35 UTC |
+| 🕐 Last Updated | 2026-11-20 09:32 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`net client library` • `remote code execution` • `simatic s7 webs` • `hackers steal data` • `chinese linked hackers` • `twitter whistleblower complaint` • `suitable gadget chain` • `dorsett controls infoscan` • `advisory published today` • `execute arbitrary code`
+`net client library` • `simatic s7 webs` • `chinese linked hackers` • `twitter whistleblower complaint` • `suitable gadget chain` • `early september 2026` • `dorsett controls infoscan` • `advisory published today` • `remote code execution` • `shinyhunters hacking group`
 
 ## 📄 Reports
 

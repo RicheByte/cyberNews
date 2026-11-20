@@ -374,7 +374,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2921,
+      "count": 2922,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1200,7 +1200,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 173,
+      "count": 174,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1412,7 +1412,7 @@
       ]
     },
     "national security risk": {
-      "count": 546,
+      "count": 547,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1526,7 +1526,8 @@
         "2026-11-01",
         "2026-11-02",
         "2026-11-11",
-        "2026-11-12"
+        "2026-11-12",
+        "2026-11-20"
       ]
     },
     "open source millions": {
@@ -2199,7 +2200,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 711,
+      "count": 712,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -22851,12 +22852,13 @@
       ]
     },
     "windows 11 26h2": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-07-07",
         "2026-07-08",
         "2026-09-29",
-        "2026-10-01"
+        "2026-10-01",
+        "2026-11-20"
       ]
     },
     "open source packages": {
@@ -32583,7 +32585,7 @@
       ]
     },
     "shinyhunters hacking group": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-09-29",
         "2026-11-04",
@@ -35049,7 +35051,7 @@
       ]
     },
     "net client library": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-10-22",
         "2026-10-23",
@@ -36954,7 +36956,7 @@
       ]
     },
     "extortion group krebsonsecurity": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-11-11",
         "2026-11-12",
@@ -37600,7 +37602,7 @@
       ]
     },
     "x t format": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-11-18",
         "2026-11-19",
@@ -37743,7 +37745,7 @@
       ]
     },
     "simatic s7 webs": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-19",
         "2026-11-20"
@@ -37795,7 +37797,7 @@
       ]
     },
     "chinese linked hackers": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-20"
       ]
@@ -37825,19 +37827,19 @@
       ]
     },
     "early september 2026": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-20"
       ]
     },
     "vmware directory service": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-20"
       ]
     },
     "third party providers": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-20"
       ]
@@ -37847,20 +37849,45 @@
       "dates": [
         "2026-11-20"
       ]
+    },
+    "tracking company passwords": {
+      "count": 1,
+      "dates": [
+        "2026-11-20"
+      ]
+    },
+    "cve 2026 23871": {
+      "count": 1,
+      "dates": [
+        "2026-11-20"
+      ]
+    },
+    "cve 2026 132825": {
+      "count": 1,
+      "dates": [
+        "2026-11-20"
+      ]
+    },
+    "make scam messages": {
+      "count": 1,
+      "dates": [
+        "2026-11-20"
+      ]
+    },
+    "soc security leaders": {
+      "count": 1,
+      "dates": [
+        "2026-11-20"
+      ]
+    },
+    "late october 2026": {
+      "count": 1,
+      "dates": [
+        "2026-11-20"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-24 13:47",
-      "articles": 56,
-      "top_keywords": [
-        "net client library",
-        "11 million impacted",
-        "quanum lsm system",
-        "twitter whistleblower complaint",
-        "stealing mobile call"
-      ]
-    },
     {
       "timestamp": "2026-10-24 17:09",
       "articles": 56,
@@ -38948,6 +38975,17 @@
         "chinese linked hackers",
         "twitter whistleblower complaint",
         "suitable gadget chain"
+      ]
+    },
+    {
+      "timestamp": "2026-11-20 18:13",
+      "articles": 56,
+      "top_keywords": [
+        "net client library",
+        "execute arbitrary code",
+        "tracking company passwords",
+        "simatic s7 webs",
+        "national security risk"
       ]
     }
   ]

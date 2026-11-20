@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-11-19 18:46",
+  "last_updated": "2026-11-20 01:35",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "net client library",
-    "service memory corruption",
     "remote code execution",
     "simatic s7 webs",
-    "gentlemen ransomware group",
+    "hackers steal data",
+    "chinese linked hackers",
     "twitter whistleblower complaint",
+    "suitable gadget chain",
     "dorsett controls infoscan",
     "advisory published today",
     "execute arbitrary code",
-    "suitable gadget chain",
-    "separate oracle chain",
     "shinyhunters hacking group",
     "extortion group krebsonsecurity",
-    "exploits published yesterday",
     "x t format",
-    "third party applications",
     "sprawling phishing campaign",
-    "small businesses alike",
     "ruby releases fixes",
-    "ru money laundering"
+    "ru money laundering",
+    "regular expression engine",
+    "organization's esx hosts",
+    "nothing looks strange",
+    "navigating vulnerability hysteria"
   ],
   "trending": [
     {
       "keyword": "net client library",
-      "mentions": 36
-    },
-    {
-      "keyword": "service memory corruption",
-      "mentions": 1
+      "mentions": 37
     },
     {
       "keyword": "remote code execution",
-      "mentions": 535
+      "mentions": 536
     },
     {
       "keyword": "simatic s7 webs",
-      "mentions": 1
-    },
-    {
-      "keyword": "gentlemen ransomware group",
       "mentions": 2
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2919
-    },
-    {
-      "keyword": "dorsett controls infoscan",
-      "mentions": 3
-    },
-    {
-      "keyword": "advisory published today",
+      "keyword": "hackers steal data",
       "mentions": 1
     },
     {
-      "keyword": "execute arbitrary code",
-      "mentions": 171
+      "keyword": "chinese linked hackers",
+      "mentions": 1
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2920
     },
     {
       "keyword": "suitable gadget chain",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "dorsett controls infoscan",
+      "mentions": 4
+    },
+    {
+      "keyword": "advisory published today",
+      "mentions": 2
+    },
+    {
+      "keyword": "execute arbitrary code",
+      "mentions": 172
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
+      "link": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
+      "summary": "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem. This week's stories show how ordinary things are being used to steal data, spread malware, and get people to hand over access. There's another shift worth watching. AI is making some attacks easier",
+      "published": "Fri, 20 Nov 2026 00:17:58 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
@@ -157,15 +166,39 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
-      "link": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
-      "summary": "Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has shown, by reaching memory-corruption bugs in the engine code behind ordinary SQL. The exploits, published yesterday, are the researcher's proofs of concept against PostgreSQL, MySQL and ClickHouse, plus a separate Oracle chain that needs no",
-      "published": "Thu, 19 Nov 2026 13:44:00 +0530",
-      "value_score": 36,
+      "source": "BleepingComputer",
+      "title": "VMware patches vCenter zero-day exploited in attacks since September",
+      "link": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+      "summary": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
+      "published": "Thu, 19 Nov 2026 19:26:25 -0500",
+      "value_score": 97,
       "value_signals": [
-        "RCE",
+        "Zero-day ×2",
+        "Auth bypass",
+        "Patch/update",
+        "High severity",
         "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
+      "summary": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...]",
+      "published": "Thu, 19 Nov 2026 17:25:42 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "ASUS warns of critical hard-coded key flaw in Control Center Express",
+      "link": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",
+      "summary": "ASUS released Control Center Express v1.7.29 to fix three critical vulnerabilities that could let remote attackers gain administrative control of the management console and the devices it manages. [...]",
+      "published": "Thu, 19 Nov 2026 16:15:59 -0500",
+      "value_score": 34,
+      "value_signals": [
+        "Patch/update",
+        "High severity ×2"
       ]
     },
     {
@@ -227,36 +260,6 @@
         "RCE ×2",
         "High severity ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/",
-      "summary": "Microsoft is developing a new Edge security feature to reduce the attack surface by disabling the WebGL, WebGL2, and WebGPU APIs. [...]",
-      "published": "Thu, 19 Nov 2026 06:46:00 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft confirms app installation, launch issues after hotpatch",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/",
-      "summary": "Microsoft has shared a workaround for installation and launch issues affecting Office and third-party applications after installing this month's Windows 11 hotpatch. [...]",
-      "published": "Thu, 19 Nov 2026 05:35:05 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "NVIDIA investigating Gentlemen ransomware breach claims",
-      "link": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
-      "summary": "NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site. [...]",
-      "published": "Thu, 19 Nov 2026 04:23:21 -0500",
-      "value_score": 70,
-      "value_signals": [
-        "Ransomware ×2",
-        "Breach/leak ×3"
       ]
     },
     {
@@ -352,6 +355,47 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering",
+      "link": "https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering",
+      "summary": "Companies deploying AI agents have the illusion of control, but several incidents demonstrate that businesses need to be ready to enforce directions.",
+      "published": "Thu, 19 Nov 2026 22:40:03 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Second Norwegian Energy Company Breached in Two Days",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached",
+      "summary": "No specific link has been drawn between the two incidents, though they certainly sing the same notes.",
+      "published": "Thu, 19 Nov 2026 20:14:15 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Critical PHP Flaws Allow Code Execution, But Don't Panic 'PHP2Shell'-Style",
+      "link": "https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell",
+      "summary": "November's monthly security release patches seven critical PHP flaws that should be addressed ASAP, though experts say exploitability varies and depends heavily on configuration.",
+      "published": "Thu, 19 Nov 2026 19:57:31 GMT",
+      "value_score": 32,
+      "value_signals": [
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Navigating Vulnerability Hysteria in the AI Era",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era",
+      "summary": "This installment of the Reporters' Notebook video series examines the fallout from recent high-severity flaw disclosures, exploring how fears of AI-assisted exploits trigger widespread panic, operational disruptions, and growing warning fatigue.",
+      "published": "Thu, 19 Nov 2026 19:46:44 GMT",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Why Holiday Security Can't Wait for Black Friday",
       "link": "https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday",
       "summary": "Bot-driven fraud and holiday social engineering attacks stretch across many weeks, straining security teams and small businesses alike.",
@@ -389,44 +433,19 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks",
-      "link": "https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups",
-      "summary": "Analysis of 20 Iranian state-sponsored threat groups details how espionage, ransomware, and hacktivism intersect in state-backed cyber campaigns.",
-      "published": "Wed, 18 Nov 2026 20:38:42 GMT",
-      "value_score": 28,
+      "source": "Security Week",
+      "title": "Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT",
+      "link": "https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/",
+      "summary": "Google says a China-linked espionage group exploited a critical VMware vCenter authentication bypass before Broadcom released a patch. The post Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT appeared first on SecurityWeek .",
+      "published": "Thu, 19 Nov 2026 19:21:06 +0000",
+      "value_score": 97,
       "value_signals": [
-        "Ransomware"
+        "Zero-day ×2",
+        "Auth bypass",
+        "Patch/update",
+        "High severity",
+        "Exploit wording"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Java4Shell Flaw Threatens Global Enterprises, Java Application Ecosystem",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/java4shell-flaw-threatens-global-java-application-ecosystem",
-      "summary": "Discovered using AI, the memory corruption vulnerability affects the OpenJDK runtime and could allow unauthenticated attackers to take over systems.",
-      "published": "Wed, 18 Nov 2026 16:54:52 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Major Brazilian Signature Apps Enable RCE &amp; Fraud",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/major-brazilian-signature-app-rce-fraud",
-      "summary": "Government-sanctioned authentication middleware is used for exceptionally important legal documents, yet it's often rife with RCE bugs.",
-      "published": "Wed, 18 Nov 2026 14:00:00 GMT",
-      "value_score": 50,
-      "value_signals": [
-        "RCE ×2"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Optimizely Malware Attacks Highlight Third-Party Vendor Risks",
-      "link": "https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks",
-      "summary": "At least 178 organizations, including several major brands, unwittingly exposed website visitors to hydra-like malware via a third-party platform.",
-      "published": "Tue, 17 Nov 2026 22:34:22 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -506,19 +525,6 @@
         "Privilege escalation",
         "Auth bypass",
         "High severity"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "F5 Patches Critical NGINX2Root Flaws as PoC Exploits Go Public",
-      "link": "https://www.securityweek.com/f5-patches-critical-nginx2root-flaws-as-poc-exploits-go-public/",
-      "summary": "The five NGINX2Root vulnerabilities could allow remote, unauthenticated attackers to execute arbitrary code. The post F5 Patches Critical NGINX2Root Flaws as PoC Exploits Go Public appeared first on SecurityWeek .",
-      "published": "Thu, 19 Nov 2026 10:26:51 +0000",
-      "value_score": 52,
-      "value_signals": [
-        "PoC available ×2",
-        "High severity ×2",
-        "Exploit wording"
       ]
     },
     {

@@ -374,7 +374,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2925,
+      "count": 2926,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1201,7 +1201,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 177,
+      "count": 178,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1414,7 +1414,7 @@
       ]
     },
     "national security risk": {
-      "count": 550,
+      "count": 551,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2203,7 +2203,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 715,
+      "count": 716,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -34778,7 +34778,7 @@
       ]
     },
     "federal investigators pursuing": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-21",
         "2026-11-21"
@@ -37609,7 +37609,7 @@
       ]
     },
     "x t format": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-11-18",
         "2026-11-19",
@@ -37654,7 +37654,7 @@
       ]
     },
     "november 17 2026": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-11-18",
         "2026-11-21"
@@ -37857,28 +37857,28 @@
       ]
     },
     "spamexperts hosted cloud": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-11-20",
         "2026-11-21"
       ]
     },
     "tracking company passwords": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-11-20",
         "2026-11-21"
       ]
     },
     "cve 2026 23871": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-11-20",
         "2026-11-21"
       ]
     },
     "cve 2026 132825": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-11-20",
         "2026-11-21"
@@ -37898,7 +37898,7 @@
       ]
     },
     "late october 2026": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-11-20",
         "2026-11-21"
@@ -37911,42 +37911,48 @@
       ]
     },
     "talking cloud security": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-21"
       ]
     },
     "security words matter": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-21"
       ]
     },
     "broadcom vmware vcenter": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-21"
       ]
     },
     "write files outside": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-21"
       ]
     },
     "morgan chase warned": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-21"
       ]
     },
     "approval prompt researchers": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-21"
       ]
     },
     "will restrict screenshots": {
+      "count": 2,
+      "dates": [
+        "2026-11-21"
+      ]
+    },
+    "tested rollback plans": {
       "count": 1,
       "dates": [
         "2026-11-21"
@@ -37954,17 +37960,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-25 03:14",
-      "articles": 56,
-      "top_keywords": [
-        "net client library",
-        "11 million impacted",
-        "quanum lsm system",
-        "twitter whistleblower complaint",
-        "stealing mobile call"
-      ]
-    },
     {
       "timestamp": "2026-10-25 08:53",
       "articles": 56,
@@ -39045,6 +39040,17 @@
     },
     {
       "timestamp": "2026-11-21 17:02",
+      "articles": 56,
+      "top_keywords": [
+        "tracking company passwords",
+        "broadcom vmware vcenter",
+        "november 17 2026",
+        "cve 2026 23871",
+        "cve 2026 132825"
+      ]
+    },
+    {
+      "timestamp": "2026-11-21 22:41",
       "articles": 56,
       "top_keywords": [
         "tracking company passwords",

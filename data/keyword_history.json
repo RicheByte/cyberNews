@@ -374,7 +374,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2923,
+      "count": 2924,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1201,7 +1201,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 175,
+      "count": 176,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1414,7 +1414,7 @@
       ]
     },
     "national security risk": {
-      "count": 548,
+      "count": 549,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2203,7 +2203,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 713,
+      "count": 714,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -22856,7 +22856,7 @@
       ]
     },
     "windows 11 26h2": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-07-07",
         "2026-07-08",
@@ -27459,7 +27459,7 @@
       ]
     },
     "vmware vcenter server": {
-      "count": 60,
+      "count": 61,
       "dates": [
         "2026-08-12",
         "2026-08-13",
@@ -37608,7 +37608,7 @@
       ]
     },
     "x t format": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-11-18",
         "2026-11-19",
@@ -37653,7 +37653,7 @@
       ]
     },
     "november 17 2026": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-18",
         "2026-11-21"
@@ -37835,49 +37835,49 @@
       ]
     },
     "early september 2026": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-20",
         "2026-11-21"
       ]
     },
     "vmware directory service": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-20",
         "2026-11-21"
       ]
     },
     "third party providers": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-20",
         "2026-11-21"
       ]
     },
     "spamexperts hosted cloud": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-20",
         "2026-11-21"
       ]
     },
     "tracking company passwords": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-20",
         "2026-11-21"
       ]
     },
     "cve 2026 23871": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-20",
         "2026-11-21"
       ]
     },
     "cve 2026 132825": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-20",
         "2026-11-21"
@@ -37890,50 +37890,39 @@
       ]
     },
     "soc security leaders": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-20",
         "2026-11-21"
       ]
     },
     "late october 2026": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-20",
         "2026-11-21"
       ]
     },
     "recent a16z survey": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-21"
       ]
     },
     "talking cloud security": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-21"
       ]
     },
     "security words matter": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-21"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-24 20:04",
-      "articles": 56,
-      "top_keywords": [
-        "net client library",
-        "11 million impacted",
-        "quanum lsm system",
-        "twitter whistleblower complaint",
-        "stealing mobile call"
-      ]
-    },
     {
       "timestamp": "2026-10-24 23:56",
       "articles": 56,
@@ -39014,6 +39003,17 @@
     },
     {
       "timestamp": "2026-11-21 01:01",
+      "articles": 56,
+      "top_keywords": [
+        "tracking company passwords",
+        "soc security leaders",
+        "national security risk",
+        "november 17 2026",
+        "execute arbitrary code"
+      ]
+    },
+    {
+      "timestamp": "2026-11-21 09:05",
       "articles": 56,
       "top_keywords": [
         "tracking company passwords",

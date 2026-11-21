@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-11-21 09:05 UTC  
+> **Last Updated:** 2026-11-21 17:02 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**tracking company passwords** • **soc security leaders** • **national security risk** • **november 17 2026** • **execute arbitrary code** • **windows 11 26h2** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **recent a16z survey** • **cve 2026 23871** • **cve 2026 132825** • **talking cloud security** • **vmware vcenter server** • **vmware directory service** • **spamexperts hosted cloud** • **security words matter** • **late october 2026** • **early september 2026** • **x t format** • **third party providers**
+**tracking company passwords** • **broadcom vmware vcenter** • **november 17 2026** • **cve 2026 23871** • **cve 2026 132825** • **write files outside** • **twitter whistleblower complaint** • **talking cloud security** • **sprawling phishing campaign** • **morgan chase warned** • **federal investigators pursuing** • **execute arbitrary code** • **approval prompt researchers** • **late october 2026** • **spamexperts hosted cloud** • **security words matter** • **national security risk** • **x t format** • **windows 11 26h2** • **will restrict screenshots**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats](https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html)
+- [GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys](https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html)
+- [Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access](https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html)
+- [Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS](https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html)
+- [Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge](https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html)
 - [WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams](https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html)
 - [Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control](https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html)
 - [Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts](https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html)
-- [The Path to AI Autonomy in the SOC](https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html)
-- [SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws](https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html)
-- [Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network](https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html)
-- [China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data](https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html)
-- [ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs](https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html)
 
 ### BleepingComputer
 
+- [BADBOX botnet returns with record-breaking 40 billion daily ad requests](https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/)
+- [FBI reportedly hacked again, this time targeting nationwide police database](https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/)
 - [Bell Canada says 'agentic' hacker stole enterprise customer data](https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/)
 - [Hackers use autonomous AI tool Cairn to find zero-day, take over server](https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/)
 - [Vendor data breach exposes Chase, Visa, Mastercard customer info](https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/)
 - [Still tracking company passwords in spreadsheets? You’re flying blind.](https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/)
 - [N-able says recent security breach led to major service outage](https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/)
 - [Microsoft now automatically installs Windows 11 26H2 on unmanaged devices](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/)
-- [F5 releases emergency patches for critical BIG-IP RCE flaws](https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/)
-- [Windows 11 KB5132057 update released with 28 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day](https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/)
 - [WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign](https://www.securityweek.com/whatsapp-fixes-flaw-uncovered-while-disrupting-scam-campaign/)
 - [In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New Nightmare Eclipse Exploit](https://www.securityweek.com/in-other-news-norwegian-energy-firm-cyberattacks-supercomputer-hack-new-nightmare-eclipse-exploit/)
 - [Industry Reactions to Major Outages and AI Patching Debate: Feedback Friday](https://www.securityweek.com/industry-reactions-to-major-outages-and-ai-patching-questions-feedback-friday/)
@@ -67,7 +68,6 @@
 - [European Commission Confirms AI-Assisted Cyberattack Disrupted Services](https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/)
 - [Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE](https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/)
 - [N-able Blames Service Disruption on Cyberattack](https://www.securityweek.com/n-able-blames-service-disruption-on-cyberattack/)
-- [JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak](https://www.securityweek.com/jpmorgan-visa-mastercard-cite-third-party-incidents-amid-data-leak/)
 
 ### Threatpost
 

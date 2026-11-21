@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-11-21 09:05 UTC |
+| 🕐 Last Updated | 2026-11-21 17:02 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`tracking company passwords` • `soc security leaders` • `national security risk` • `november 17 2026` • `execute arbitrary code` • `windows 11 26h2` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `recent a16z survey` • `cve 2026 23871`
+`tracking company passwords` • `broadcom vmware vcenter` • `november 17 2026` • `cve 2026 23871` • `cve 2026 132825` • `write files outside` • `twitter whistleblower complaint` • `talking cloud security` • `sprawling phishing campaign` • `morgan chase warned`
 
 ## 📄 Reports
 

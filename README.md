@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-11-22 13:55 UTC |
+| 🕐 Last Updated | 2026-11-22 20:33 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`tracking company passwords` • `broadcom vmware vcenter` • `november 17 2026` • `cve 2026 23871` • `talking cloud security` • `national security risk` • `write files outside` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `service memory corruption`
+`broadcom vmware vcenter` • `talking cloud security` • `november 17 2026` • `cve 2026 23871` • `national security risk` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `service memory corruption` • `federal investigators pursuing` • `prevent ai assistants`
 
 ## 📄 Reports
 

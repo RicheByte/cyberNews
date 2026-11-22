@@ -374,7 +374,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2928,
+      "count": 2929,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1415,7 +1415,7 @@
       ]
     },
     "national security risk": {
-      "count": 553,
+      "count": 554,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2205,7 +2205,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 718,
+      "count": 719,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -32594,7 +32594,7 @@
       ]
     },
     "shinyhunters hacking group": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-09-29",
         "2026-11-04",
@@ -34782,7 +34782,7 @@
       ]
     },
     "federal investigators pursuing": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-10-21",
         "2026-11-21",
@@ -37614,7 +37614,7 @@
       ]
     },
     "x t format": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-11-18",
         "2026-11-19",
@@ -37660,7 +37660,7 @@
       ]
     },
     "november 17 2026": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-11-18",
         "2026-11-21",
@@ -37754,7 +37754,7 @@
       ]
     },
     "service memory corruption": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-11-19",
         "2026-11-20",
@@ -37880,7 +37880,7 @@
       ]
     },
     "cve 2026 23871": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-11-20",
         "2026-11-21",
@@ -37922,28 +37922,28 @@
       ]
     },
     "talking cloud security": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-11-21",
         "2026-11-22"
       ]
     },
     "security words matter": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-11-21",
         "2026-11-22"
       ]
     },
     "broadcom vmware vcenter": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-11-21",
         "2026-11-22"
       ]
     },
     "write files outside": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-11-21",
         "2026-11-22"
@@ -37971,14 +37971,14 @@
       ]
     },
     "tested rollback plans": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-21",
         "2026-11-22"
       ]
     },
     "server's storage folder": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-22"
       ]
@@ -37990,12 +37990,30 @@
       ]
     },
     "ai assistant attempting": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-22"
       ]
     },
     "program's security sandbox": {
+      "count": 2,
+      "dates": [
+        "2026-11-22"
+      ]
+    },
+    "prevent ai assistants": {
+      "count": 1,
+      "dates": [
+        "2026-11-22"
+      ]
+    },
+    "cvv security codes": {
+      "count": 1,
+      "dates": [
+        "2026-11-22"
+      ]
+    },
+    "provision telecommunications circuits": {
       "count": 1,
       "dates": [
         "2026-11-22"
@@ -38003,17 +38021,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-25 18:40",
-      "articles": 56,
-      "top_keywords": [
-        "net client library",
-        "customer's downloads folder",
-        "11 million impacted",
-        "quanum lsm system",
-        "single hacked device"
-      ]
-    },
     {
       "timestamp": "2026-10-25 22:14",
       "articles": 56,
@@ -39101,6 +39108,17 @@
         "november 17 2026",
         "cve 2026 23871",
         "talking cloud security"
+      ]
+    },
+    {
+      "timestamp": "2026-11-22 20:33",
+      "articles": 56,
+      "top_keywords": [
+        "broadcom vmware vcenter",
+        "talking cloud security",
+        "november 17 2026",
+        "cve 2026 23871",
+        "national security risk"
       ]
     }
   ]

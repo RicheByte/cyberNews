@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-11-22 13:55",
+  "last_updated": "2026-11-22 20:33",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "tracking company passwords",
     "broadcom vmware vcenter",
+    "talking cloud security",
     "november 17 2026",
     "cve 2026 23871",
-    "talking cloud security",
     "national security risk",
-    "write files outside",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
     "service memory corruption",
-    "morgan chase warned",
     "federal investigators pursuing",
-    "centralized password management",
+    "prevent ai assistants",
     "ai assistant attempting",
     "security words matter",
     "program's security sandbox",
+    "cvv security codes",
     "x t format",
-    "will restrict screenshots",
+    "write files outside",
     "tested rollback plans",
-    "shinyhunters hacking group"
+    "shinyhunters hacking group",
+    "server's storage folder",
+    "provision telecommunications circuits"
   ],
   "trending": [
     {
-      "keyword": "tracking company passwords",
-      "mentions": 7
-    },
-    {
       "keyword": "broadcom vmware vcenter",
-      "mentions": 4
-    },
-    {
-      "keyword": "november 17 2026",
-      "mentions": 8
-    },
-    {
-      "keyword": "cve 2026 23871",
-      "mentions": 7
+      "mentions": 5
     },
     {
       "keyword": "talking cloud security",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "november 17 2026",
+      "mentions": 9
+    },
+    {
+      "keyword": "cve 2026 23871",
+      "mentions": 8
     },
     {
       "keyword": "national security risk",
-      "mentions": 553
-    },
-    {
-      "keyword": "write files outside",
-      "mentions": 4
+      "mentions": 554
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2928
+      "mentions": 2929
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 718
+      "mentions": 719
     },
     {
       "keyword": "service memory corruption",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "federal investigators pursuing",
+      "mentions": 6
+    },
+    {
+      "keyword": "prevent ai assistants",
+      "mentions": 1
     }
   ],
   "articles": [
@@ -157,6 +157,37 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
+      "summary": "GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and reverse shells giving remote access to infected devices. [...]",
+      "published": "Sun, 22 Nov 2026 13:45:37 -0500",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
+      "link": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
+      "summary": "E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes. [...]",
+      "published": "Sun, 22 Nov 2026 10:43:04 -0500",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
+      "link": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/",
+      "summary": "Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices. [...]",
+      "published": "Sun, 22 Nov 2026 10:15:25 -0500",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
       "link": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
       "summary": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]",
@@ -204,37 +235,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
       "summary": "Bell Canada has confirmed that an \"agentic\" threat actor breached its systems on November 17, 2026, and stole enterprise customer data, including information from a system used to order and provision telecommunications circuits. [...]",
       "published": "Fri, 20 Nov 2026 13:51:43 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
-      "summary": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
-      "published": "Fri, 20 Nov 2026 12:30:00 -0500",
-      "value_score": 35,
-      "value_signals": [
-        "Zero-day"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
-      "link": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
-      "summary": "J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]",
-      "published": "Fri, 20 Nov 2026 10:58:06 -0500",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Still tracking company passwords in spreadsheets? You’re flying blind.",
-      "link": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
-      "summary": "Tracking company passwords in spreadsheets can leave IT administrators unaware of weak, reused, or compromised credentials stored and shared outside approved systems. NordPass explains how centralized password management can improve credential visibility, identify security risks, and simplify secure password sharing. [...]",
-      "published": "Fri, 20 Nov 2026 10:00:10 -0500",
       "value_score": 10,
       "value_signals": []
     },

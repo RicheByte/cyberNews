@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-11-21 22:41",
+  "last_updated": "2026-11-22 04:42",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "cve 2026 23871",
     "tracking company passwords",
     "broadcom vmware vcenter",
     "november 17 2026",
-    "cve 2026 23871",
-    "cve 2026 132825",
+    "national security risk",
+    "talking cloud security",
     "write files outside",
     "twitter whistleblower complaint",
-    "talking cloud security",
     "sprawling phishing campaign",
     "morgan chase warned",
     "federal investigators pursuing",
-    "execute arbitrary code",
     "approval prompt researchers",
     "late october 2026",
-    "spamexperts hosted cloud",
     "security words matter",
-    "national security risk",
     "x t format",
     "will restrict screenshots",
-    "tested rollback plans"
+    "tested rollback plans",
+    "shinyhunters hacking group",
+    "service memory corruption",
+    "server's storage folder"
   ],
   "trending": [
     {
-      "keyword": "tracking company passwords",
-      "mentions": 5
-    },
-    {
-      "keyword": "broadcom vmware vcenter",
-      "mentions": 2
-    },
-    {
-      "keyword": "november 17 2026",
+      "keyword": "cve 2026 23871",
       "mentions": 6
     },
     {
-      "keyword": "cve 2026 23871",
-      "mentions": 5
+      "keyword": "tracking company passwords",
+      "mentions": 6
     },
     {
-      "keyword": "cve 2026 132825",
+      "keyword": "broadcom vmware vcenter",
+      "mentions": 3
+    },
+    {
+      "keyword": "november 17 2026",
+      "mentions": 7
+    },
+    {
+      "keyword": "national security risk",
+      "mentions": 552
+    },
+    {
+      "keyword": "talking cloud security",
       "mentions": 5
     },
     {
       "keyword": "write files outside",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2926
-    },
-    {
-      "keyword": "talking cloud security",
-      "mentions": 4
+      "mentions": 2927
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 716
+      "mentions": 717
     },
     {
       "keyword": "morgan chase warned",
-      "mentions": 2
+      "mentions": 3
     }
   ],
   "articles": [
@@ -159,6 +159,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+      "link": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+      "summary": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]",
+      "published": "Sat, 21 Nov 2026 17:59:58 -0500",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
       "summary": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information. [...]",
@@ -228,17 +239,6 @@
       "published": "Fri, 20 Nov 2026 10:00:10 -0500",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "N-able says recent security breach led to major service outage",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/",
-      "summary": "N-able says attackers who breached one of its servers have caused a major outage affecting Mail Assure and SpamExperts Hosted Cloud services worldwide. [...]",
-      "published": "Fri, 20 Nov 2026 08:18:36 -0500",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -412,6 +412,24 @@
     },
     {
       "source": "Security Week",
+      "title": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says",
+      "link": "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/",
+      "summary": "The FBI is investigating an apparent hack of a national law enforcement database that it maintains. The post FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says appeared first on SecurityWeek .",
+      "published": "Sun, 22 Nov 2026 00:53:02 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "President Trump Taps Kirsten Davies as National Cyber Director",
+      "link": "https://www.securityweek.com/president-trump-taps-kirsten-davies-as-national-cyber-director/",
+      "summary": "White House says the battle-tested cyber leader will drive an America First cyber strategy. The post President Trump Taps Kirsten Davies as National Cyber Director appeared first on SecurityWeek .",
+      "published": "Sat, 21 Nov 2026 13:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day",
       "link": "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/",
       "summary": "A threat actor used autonomous Cairn AI agents to discover and exploit a critical MONAI Label vulnerability. The post Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day appeared first on SecurityWeek .",
@@ -475,27 +493,6 @@
       "value_signals": [
         "Breach/leak"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE",
-      "link": "https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/",
-      "summary": "Tracked as CVE-2026-132825, the bug is a heap-based buffer overflow that could lead to remote code execution (RCE). The post Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE appeared first on SecurityWeek .",
-      "published": "Fri, 20 Nov 2026 10:34:10 +0000",
-      "value_score": 68,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE ×4"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "N-able Blames Service Disruption on Cyberattack",
-      "link": "https://www.securityweek.com/n-able-blames-service-disruption-on-cyberattack/",
-      "summary": "The incident affected Mail Assure and SpamExperts Hosted Cloud and could have led to credential theft. The post N-able Blames Service Disruption on Cyberattack appeared first on SecurityWeek .",
-      "published": "Fri, 20 Nov 2026 09:08:35 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

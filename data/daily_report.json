@@ -1,72 +1,92 @@
 {
-  "last_updated": "2026-11-22 04:42",
+  "last_updated": "2026-11-22 13:55",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "cve 2026 23871",
     "tracking company passwords",
     "broadcom vmware vcenter",
     "november 17 2026",
-    "national security risk",
+    "cve 2026 23871",
     "talking cloud security",
+    "national security risk",
     "write files outside",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
+    "service memory corruption",
     "morgan chase warned",
     "federal investigators pursuing",
-    "approval prompt researchers",
-    "late october 2026",
+    "centralized password management",
+    "ai assistant attempting",
     "security words matter",
+    "program's security sandbox",
     "x t format",
     "will restrict screenshots",
     "tested rollback plans",
-    "shinyhunters hacking group",
-    "service memory corruption",
-    "server's storage folder"
+    "shinyhunters hacking group"
   ],
   "trending": [
     {
-      "keyword": "cve 2026 23871",
-      "mentions": 6
-    },
-    {
       "keyword": "tracking company passwords",
-      "mentions": 6
-    },
-    {
-      "keyword": "broadcom vmware vcenter",
-      "mentions": 3
-    },
-    {
-      "keyword": "november 17 2026",
       "mentions": 7
     },
     {
-      "keyword": "national security risk",
-      "mentions": 552
+      "keyword": "broadcom vmware vcenter",
+      "mentions": 4
+    },
+    {
+      "keyword": "november 17 2026",
+      "mentions": 8
+    },
+    {
+      "keyword": "cve 2026 23871",
+      "mentions": 7
     },
     {
       "keyword": "talking cloud security",
-      "mentions": 5
+      "mentions": 6
+    },
+    {
+      "keyword": "national security risk",
+      "mentions": 553
     },
     {
       "keyword": "write files outside",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2927
+      "mentions": 2928
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 717
+      "mentions": 718
     },
     {
-      "keyword": "morgan chase warned",
-      "mentions": 3
+      "keyword": "service memory corruption",
+      "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+      "link": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+      "summary": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week. Some of the stolen requests were flagged as Zero Data Retention, the setting that is supposed to mean a prompt is never stored. OpenRouter, a gateway that routes customers' AI requests to a pool of",
+      "published": "Sun, 22 Nov 2026 10:36:55 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+      "link": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+      "summary": "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it. Ghostscript is the interpreter that many Linux servers use to convert uploaded PDFs, PostScript files, and images into other formats, often without the application calling it directly. Security firm pwn.ai showed this week that ordinary upload,",
+      "published": "Sun, 22 Nov 2026 10:33:41 +0530",
+      "value_score": 30,
+      "value_signals": [
+        "RCE"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
@@ -133,28 +153,6 @@
       "value_signals": [
         "CVE mentioned",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
-      "link": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
-      "summary": "Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at scale. Dutch mobile security company ThreatFabric said it discovered the threat in late October 2026 during an investigation into an NFC-relay banking Trojan. \"Bazuka is a full malware framework,",
-      "published": "Fri, 20 Nov 2026 22:28:16 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
-      "link": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
-      "summary": "A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server's memory from inside a virtual machine of their own on DigitalOcean. On a shared server, that memory can include other customers' virtual machines. The flaw, tracked as CVE-2026-99312, affects only hosts with AMD processors and nested virtualization enabled. Fixed kernels shipped",
-      "published": "Fri, 20 Nov 2026 17:50:00 +0530",
-      "value_score": 62,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "Patch/update",
-        "Multiple CVEs"
       ]
     },
     {

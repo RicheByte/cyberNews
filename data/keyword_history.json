@@ -374,7 +374,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2927,
+      "count": 2928,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1415,7 +1415,7 @@
       ]
     },
     "national security risk": {
-      "count": 552,
+      "count": 553,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2205,7 +2205,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 717,
+      "count": 718,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -32594,7 +32594,7 @@
       ]
     },
     "shinyhunters hacking group": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-09-29",
         "2026-11-04",
@@ -34782,7 +34782,7 @@
       ]
     },
     "federal investigators pursuing": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-10-21",
         "2026-11-21",
@@ -37614,7 +37614,7 @@
       ]
     },
     "x t format": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-11-18",
         "2026-11-19",
@@ -37660,7 +37660,7 @@
       ]
     },
     "november 17 2026": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-11-18",
         "2026-11-21",
@@ -37754,7 +37754,7 @@
       ]
     },
     "service memory corruption": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-19",
         "2026-11-20",
@@ -37872,7 +37872,7 @@
       ]
     },
     "tracking company passwords": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-11-20",
         "2026-11-21",
@@ -37880,7 +37880,7 @@
       ]
     },
     "cve 2026 23871": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-11-20",
         "2026-11-21",
@@ -37922,35 +37922,35 @@
       ]
     },
     "talking cloud security": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-11-21",
         "2026-11-22"
       ]
     },
     "security words matter": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-11-21",
         "2026-11-22"
       ]
     },
     "broadcom vmware vcenter": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-21",
         "2026-11-22"
       ]
     },
     "write files outside": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-21",
         "2026-11-22"
       ]
     },
     "morgan chase warned": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-21",
         "2026-11-22"
@@ -37964,14 +37964,14 @@
       ]
     },
     "will restrict screenshots": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-21",
         "2026-11-22"
       ]
     },
     "tested rollback plans": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-21",
         "2026-11-22"
@@ -37982,20 +37982,27 @@
       "dates": [
         "2026-11-22"
       ]
+    },
+    "centralized password management": {
+      "count": 1,
+      "dates": [
+        "2026-11-22"
+      ]
+    },
+    "ai assistant attempting": {
+      "count": 1,
+      "dates": [
+        "2026-11-22"
+      ]
+    },
+    "program's security sandbox": {
+      "count": 1,
+      "dates": [
+        "2026-11-22"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-25 14:03",
-      "articles": 56,
-      "top_keywords": [
-        "net client library",
-        "11 million impacted",
-        "quanum lsm system",
-        "twitter whistleblower complaint",
-        "stealing mobile call"
-      ]
-    },
     {
       "timestamp": "2026-10-25 18:40",
       "articles": 56,
@@ -39083,6 +39090,17 @@
         "broadcom vmware vcenter",
         "november 17 2026",
         "national security risk"
+      ]
+    },
+    {
+      "timestamp": "2026-11-22 13:55",
+      "articles": 56,
+      "top_keywords": [
+        "tracking company passwords",
+        "broadcom vmware vcenter",
+        "november 17 2026",
+        "cve 2026 23871",
+        "talking cloud security"
       ]
     }
   ]

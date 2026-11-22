@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-11-22 04:42 UTC  
+> **Last Updated:** 2026-11-22 13:55 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cve 2026 23871** • **tracking company passwords** • **broadcom vmware vcenter** • **november 17 2026** • **national security risk** • **talking cloud security** • **write files outside** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **morgan chase warned** • **federal investigators pursuing** • **approval prompt researchers** • **late october 2026** • **security words matter** • **x t format** • **will restrict screenshots** • **tested rollback plans** • **shinyhunters hacking group** • **service memory corruption** • **server's storage folder**
+**tracking company passwords** • **broadcom vmware vcenter** • **november 17 2026** • **cve 2026 23871** • **talking cloud security** • **national security risk** • **write files outside** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **service memory corruption** • **morgan chase warned** • **federal investigators pursuing** • **centralized password management** • **ai assistant attempting** • **security words matter** • **program's security sandbox** • **x t format** • **will restrict screenshots** • **tested rollback plans** • **shinyhunters hacking group**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms](https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html)
+- [Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps](https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html)
 - [A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats](https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html)
 - [GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys](https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html)
 - [Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access](https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html)
 - [Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS](https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html)
 - [Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge](https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html)
 - [WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams](https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html)
-- [Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control](https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html)
-- [Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts](https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html)
 
 ### BleepingComputer
 

@@ -374,7 +374,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2930,
+      "count": 2931,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1416,7 +1416,7 @@
       ]
     },
     "national security risk": {
-      "count": 555,
+      "count": 556,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2207,7 +2207,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 720,
+      "count": 721,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -37619,7 +37619,7 @@
       ]
     },
     "x t format": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-11-18",
         "2026-11-19",
@@ -37761,7 +37761,7 @@
       ]
     },
     "service memory corruption": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-11-19",
         "2026-11-20",
@@ -37873,10 +37873,11 @@
       ]
     },
     "spamexperts hosted cloud": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-11-20",
-        "2026-11-21"
+        "2026-11-21",
+        "2026-11-23"
       ]
     },
     "tracking company passwords": {
@@ -37931,7 +37932,7 @@
       ]
     },
     "talking cloud security": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-11-21",
         "2026-11-22",
@@ -38019,7 +38020,7 @@
       ]
     },
     "prevent ai assistants": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-22",
         "2026-11-23"
@@ -38038,20 +38039,81 @@
         "2026-11-22",
         "2026-11-23"
       ]
+    },
+    "cve 2026 134624": {
+      "count": 1,
+      "dates": [
+        "2026-11-23"
+      ]
+    },
+    "managed service providers": {
+      "count": 1,
+      "dates": [
+        "2026-11-23"
+      ]
+    },
+    "2 3 1": {
+      "count": 1,
+      "dates": [
+        "2026-11-23"
+      ]
+    },
+    "keeping agents within": {
+      "count": 1,
+      "dates": [
+        "2026-11-23"
+      ]
+    },
+    "clear disciplined communication": {
+      "count": 1,
+      "dates": [
+        "2026-11-23"
+      ]
+    },
+    "chief technology officer": {
+      "count": 1,
+      "dates": [
+        "2026-11-23"
+      ]
+    },
+    "november 12 2026": {
+      "count": 1,
+      "dates": [
+        "2026-11-23"
+      ]
+    },
+    "email filtering service": {
+      "count": 1,
+      "dates": [
+        "2026-11-23"
+      ]
+    },
+    "unauthorized financial transactions": {
+      "count": 1,
+      "dates": [
+        "2026-11-23"
+      ]
+    },
+    "restore data locked": {
+      "count": 1,
+      "dates": [
+        "2026-11-23"
+      ]
+    },
+    "jensen huang's resignation": {
+      "count": 1,
+      "dates": [
+        "2026-11-23"
+      ]
+    },
+    "ignite technical conference": {
+      "count": 1,
+      "dates": [
+        "2026-11-23"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-26 02:49",
-      "articles": 56,
-      "top_keywords": [
-        "net client library",
-        "customer's downloads folder",
-        "11 million impacted",
-        "quanum lsm system",
-        "single hacked device"
-      ]
-    },
     {
       "timestamp": "2026-10-26 09:35",
       "articles": 56,
@@ -39139,6 +39201,17 @@
         "cve 2026 23871",
         "talking cloud security",
         "national security risk"
+      ]
+    },
+    {
+      "timestamp": "2026-11-23 13:56",
+      "articles": 56,
+      "top_keywords": [
+        "cve 2026 134624",
+        "managed service providers",
+        "2 3 1",
+        "prevent ai assistants",
+        "twitter whistleblower complaint"
       ]
     }
   ]

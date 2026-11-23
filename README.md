@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-11-23 02:07 UTC |
+| 🕐 Last Updated | 2026-11-23 13:56 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`broadcom vmware vcenter` • `november 17 2026` • `cve 2026 23871` • `talking cloud security` • `national security risk` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `service memory corruption` • `federal investigators pursuing` • `prevent ai assistants`
+`cve 2026 134624` • `managed service providers` • `2 3 1` • `prevent ai assistants` • `twitter whistleblower complaint` • `spamexperts hosted cloud` • `keeping agents within` • `clear disciplined communication` • `chief technology officer` • `talking cloud security`
 
 ## 📄 Reports
 

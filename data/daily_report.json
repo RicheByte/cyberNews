@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-22 20:33",
+  "last_updated": "2026-11-23 02:07",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "broadcom vmware vcenter",
-    "talking cloud security",
     "november 17 2026",
     "cve 2026 23871",
+    "talking cloud security",
     "national security risk",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "broadcom vmware vcenter",
-      "mentions": 5
-    },
-    {
-      "keyword": "talking cloud security",
-      "mentions": 7
+      "mentions": 6
     },
     {
       "keyword": "november 17 2026",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "cve 2026 23871",
+      "mentions": 9
+    },
+    {
+      "keyword": "talking cloud security",
       "mentions": 8
     },
     {
       "keyword": "national security risk",
-      "mentions": 554
+      "mentions": 555
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2929
+      "mentions": 2930
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 719
+      "mentions": 720
     },
     {
       "keyword": "service memory corruption",
-      "mentions": 5
-    },
-    {
-      "keyword": "federal investigators pursuing",
       "mentions": 6
     },
     {
+      "keyword": "federal investigators pursuing",
+      "mentions": 7
+    },
+    {
       "keyword": "prevent ai assistants",
-      "mentions": 1
+      "mentions": 2
     }
   ],
   "articles": [
@@ -360,6 +360,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Microsoft Debuts Offensive, Defensive Security Tools for the AI Era",
+      "link": "https://www.darkreading.com/endpoint-security/microsoft-offense-defense-ai-security-tools",
+      "summary": "Microsoft announces new AI agent security tools and transparency standards to protect enterprise systems at its Ignite technical conference.",
+      "published": "Fri, 20 Nov 2026 13:51:30 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering",
       "link": "https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering",
       "summary": "Companies deploying AI agents have the illusion of control, but several incidents demonstrate that businesses need to be ready to enforce directions.",
@@ -398,15 +407,6 @@
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Why Holiday Security Can't Wait for Black Friday",
-      "link": "https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday",
-      "summary": "Bot-driven fraud and holiday social engineering attacks stretch across many weeks, straining security teams and small businesses alike.",
-      "published": "Thu, 19 Nov 2026 14:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

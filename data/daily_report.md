@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-11-22 20:33 UTC  
+> **Last Updated:** 2026-11-23 02:07 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**broadcom vmware vcenter** • **talking cloud security** • **november 17 2026** • **cve 2026 23871** • **national security risk** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **service memory corruption** • **federal investigators pursuing** • **prevent ai assistants** • **ai assistant attempting** • **security words matter** • **program's security sandbox** • **cvv security codes** • **x t format** • **write files outside** • **tested rollback plans** • **shinyhunters hacking group** • **server's storage folder** • **provision telecommunications circuits**
+**broadcom vmware vcenter** • **november 17 2026** • **cve 2026 23871** • **talking cloud security** • **national security risk** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **service memory corruption** • **federal investigators pursuing** • **prevent ai assistants** • **ai assistant attempting** • **security words matter** • **program's security sandbox** • **cvv security codes** • **x t format** • **write files outside** • **tested rollback plans** • **shinyhunters hacking group** • **server's storage folder** • **provision telecommunications circuits**
 
 ---
 
@@ -52,11 +52,11 @@
 - [China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day](https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day)
 - [In Security, Words Matter as Much as Tools, Maybe More](https://www.darkreading.com/cybersecurity-operations/security-words-matter)
 - [What We Missed: Nvidia CEO Scandal Rocks AI Industry](https://www.darkreading.com/cyber-risk/what-we-missed-nvidia-ceo-scandal-rocks-ai-industry)
+- [Microsoft Debuts Offensive, Defensive Security Tools for the AI Era](https://www.darkreading.com/endpoint-security/microsoft-offense-defense-ai-security-tools)
 - [Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering](https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering)
 - [Second Norwegian Energy Company Breached in 2 Days](https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached)
 - [Critical PHP Flaws Allow Code Execution, but Don't Panic 'PHP2Shell'-Style](https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell)
 - [Navigating Vulnerability Hysteria in the AI Era](https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era)
-- [Why Holiday Security Can't Wait for Black Friday](https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday)
 
 ### Security Week
 

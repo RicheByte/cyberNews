@@ -1,72 +1,116 @@
 {
-  "last_updated": "2026-11-24 01:28",
+  "last_updated": "2026-11-24 11:55",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "2 3 1",
-    "managed service providers",
-    "hackers steal 70k",
-    "cve 2026 134624",
     "azure flaw exploited",
     "twitter whistleblower complaint",
     "session overwrite operation",
-    "chief technology officer",
-    "november 12 2026",
-    "helping steal millions",
     "service memory corruption",
-    "email filtering service",
+    "retrieve customer records",
+    "helping steal millions",
+    "hackers steal 70k",
+    "code injection vulnerability",
+    "windows operating systems",
+    "ai upstart called",
     "ai agents zip",
+    "whmcs's shopping cart",
     "week's stories show",
-    "unauthorized financial transactions",
     "threat actor breached",
     "things iot products",
     "sprawling phishing campaign",
-    "spamexperts hosted cloud",
-    "shared responsibility problem"
+    "shared responsibility problem",
+    "rising geopolitical tensions",
+    "pose significant risks"
   ],
   "trending": [
     {
       "keyword": "2 3 1",
+      "mentions": 3
+    },
+    {
+      "keyword": "azure flaw exploited",
       "mentions": 2
     },
     {
-      "keyword": "managed service providers",
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2933
+    },
+    {
+      "keyword": "session overwrite operation",
+      "mentions": 2
+    },
+    {
+      "keyword": "service memory corruption",
+      "mentions": 9
+    },
+    {
+      "keyword": "retrieve customer records",
+      "mentions": 1
+    },
+    {
+      "keyword": "helping steal millions",
       "mentions": 2
     },
     {
       "keyword": "hackers steal 70k",
-      "mentions": 1
-    },
-    {
-      "keyword": "cve 2026 134624",
       "mentions": 2
     },
     {
-      "keyword": "azure flaw exploited",
-      "mentions": 1
+      "keyword": "code injection vulnerability",
+      "mentions": 12
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2932
-    },
-    {
-      "keyword": "session overwrite operation",
-      "mentions": 1
-    },
-    {
-      "keyword": "chief technology officer",
-      "mentions": 2
-    },
-    {
-      "keyword": "november 12 2026",
-      "mentions": 2
-    },
-    {
-      "keyword": "helping steal millions",
-      "mentions": 1
+      "keyword": "windows operating systems",
+      "mentions": 833
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets",
+      "link": "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html",
+      "summary": "Norway's National Security Authority (NSM) has disclosed that it became aware of a security vulnerability in Microsoft's Azure API Management (APIM) that has affected multiple businesses in the country, including energy companies Equinor and Skagerak Energi. \"An unknown actor has been actively looking for access tokens, secrets, and named values ​​in APIM,\" NSM said. \"It is still uncertain how",
+      "published": "Tue, 24 Nov 2026 16:14:49 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login",
+      "link": "https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html",
+      "summary": "A flaw in WHMCS's shopping cart, the billing and automation platform many web hosting companies use to run their businesses, could allow anyone on the internet to retrieve customer records and administrator password hashes from an installation's database. No login is needed. The company disclosed the SQL injection yesterday along with two other flaws that need a logged-in client, and released",
+      "published": "Tue, 24 Nov 2026 14:04:20 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching",
+      "link": "https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html",
+      "summary": "OpenAI and Cisco have teamed up to launch Shirudo (meaning \"shield\" in Japanese), an open-source Linux runtime that allows artificial intelligence (AI) agents to defend systems without downtime. \"It lets agents write dynamic eBPF controls to shield systems from exploits, giving defenders more time to test and roll out patches,\" OpenAI said in a post on X. The AI upstart called the initiative a",
+      "published": "Tue, 24 Nov 2026 11:32:57 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added two flaws impacting N-able MailAssure and MONAI Label to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The critical vulnerabilities are listed below - CVE-2026-134624 (CVSS score: 9.3) - A server-side request forgery (SSRF) vulnerability in N-able MailAssure's LDAP",
+      "published": "Tue, 24 Nov 2026 11:32:45 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day",
+        "CISA/KEV ×3",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
@@ -112,55 +156,6 @@
         "High severity ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation",
-      "link": "https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html",
-      "summary": "N-able yesterday disclosed a critical flaw it found while investigating the breach of its Mail Assure and SpamExperts Hosted Cloud, an email filtering service it runs for managed service providers. The bug, tracked as CVE-2026-134624, is a server-side request forgery (SSRF) flaw. It allowed a user with high-level API access to open connections to internal systems of the user's choosing on the",
-      "published": "Mon, 23 Nov 2026 17:58:09 +0530",
-      "value_score": 68,
-      "value_signals": [
-        "CVE mentioned",
-        "Breach/leak ×2",
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html",
-      "summary": "Cybersecurity researchers have urged users to discontinue using a legacy ASP.NET anti-CSRF library named Idunno.AntiCsrf (\"Idunno.AntiCsrf.dll\") following the discovery of a critical vulnerability that has been exploited in the wild. The vulnerability, tracked as CVE-2026-131914, carries a CVSS score of 9.3 out of 10.0. The issue affects versions 0.9.1.0 and 0.9.1 Beta, and relates to an",
-      "published": "Mon, 23 Nov 2026 14:41:56 +0530",
-      "value_score": 95,
-      "value_signals": [
-        "CVE mentioned",
-        "Active exploitation",
-        "RCE",
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices",
-      "link": "https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html",
-      "summary": "Hackers exploited a vulnerability in GL.iNet's GoodCloud remote management service to install malware on some customer routers and KVM devices, the maker of travel routers and remote-access KVM hardware said in a security notice updated today. The company identified and fixed the flaw on Friday and blocked the access the attacker used, so devices can no longer be infected through this route.",
-      "published": "Mon, 23 Nov 2026 14:34:08 +0530",
-      "value_score": 24,
-      "value_signals": [
-        "Patch/update",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "AI-Assisted Cyber Attacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms",
-      "link": "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html",
-      "summary": "The Indian Computer Emergency Response Team (CERT-In) has warned that threat actors are carrying out artificial intelligence (AI)-assisted cyber attacks targeting information and communication technology (ICT) assets in the country. This unsanctioned activity has resulted in unauthorized financial transactions at banking and financial services entities, as well as technology service providers",
-      "published": "Mon, 23 Nov 2026 13:54:15 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -416,6 +411,37 @@
     },
     {
       "source": "Security Week",
+      "title": "1.5 Million Impacted by Data Breach at South Korean Electric Company KEPCO",
+      "link": "https://www.securityweek.com/1-5-million-impacted-by-data-breach-at-south-korean-electric-company-kepco/",
+      "summary": "Hackers stole personal information from the company’s customer portal and supplier relationship management platform. The post 1.5 Million Impacted by Data Breach at South Korean Electric Company KEPCO appeared first on SecurityWeek .",
+      "published": "Tue, 24 Nov 2026 11:50:21 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Elecbrakes Bluetooth Vulnerabilities Expose Trailers to Forced Braking",
+      "link": "https://www.securityweek.com/elecbrakes-bluetooth-vulnerabilities-expose-trailers-to-forced-braking/",
+      "summary": "Critical Bluetooth flaws in Elecbrakes controllers could let nearby attackers force trailer braking, potentially causing accidents. The post Elecbrakes Bluetooth Vulnerabilities Expose Trailers to Forced Braking appeared first on SecurityWeek .",
+      "published": "Tue, 24 Nov 2026 10:44:44 +0000",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine",
+      "link": "https://www.securityweek.com/peninsula-energy-halts-trading-after-cyber-incident-hits-us-uranium-mine/",
+      "summary": "The company told the ASX that a cybersecurity incident at its Wyoming uranium project would temporarily affect operations. The post Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine appeared first on SecurityWeek .",
+      "published": "Tue, 24 Nov 2026 10:35:04 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Azure Flaw Exploited to Target Secrets at Norwegian Energy Firms",
       "link": "https://www.securityweek.com/azure-flaw-exploited-to-target-secrets-at-norwegian-energy-firms/",
       "summary": "Microsoft closed an Azure API Management flaw exploited to target secrets at Norwegian energy companies, with other sectors also affected. The post Azure Flaw Exploited to Target Secrets at Norwegian Energy Firms appeared first on SecurityWeek .",
@@ -427,9 +453,9 @@
     },
     {
       "source": "Security Week",
-      "title": "N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack",
+      "title": "N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack",
       "link": "https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/",
-      "summary": "The company has restored access to the affected services and continues to monitor the affected environments. The post N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack appeared first on SecurityWeek .",
+      "summary": "The company has restored access to the affected services and continues to monitor the affected environments. The post N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack appeared first on SecurityWeek .",
       "published": "Mon, 23 Nov 2026 15:06:49 +0000",
       "value_score": 26,
       "value_signals": [
@@ -462,36 +488,6 @@
       "link": "https://www.securityweek.com/ai-inference-providers-failed-to-detect-hacking-and-prompt-theft-says-dragos/",
       "summary": "Dragos uncovered undetected intrusions at three AI inference providers using nearly two million prompts sent to AI services. The post AI Inference Providers Failed to Detect Hacking and Prompt Theft, Says Dragos appeared first on SecurityWeek .",
       "published": "Mon, 23 Nov 2026 12:16:20 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "BadBox 3.0 Ad Fraud Operation Generating 40 Billion Daily Bid Requests Disrupted",
-      "link": "https://www.securityweek.com/badbox-3-0-ad-fraud-operation-generating-40-billion-daily-bid-requests-disrupted/",
-      "summary": "Backdoors on low-cost consumer devices served modules for ad fraud and for turning devices into residential proxies. The post BadBox 3.0 Ad Fraud Operation Generating 40 Billion Daily Bid Requests Disrupted appeared first on SecurityWeek .",
-      "published": "Mon, 23 Nov 2026 11:44:18 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "SAP NetWeaver, Cisco Expressway Flaws Exploited in Attacks",
-      "link": "https://www.securityweek.com/sap-netweaver-cisco-expressway-flaws-exploited-in-attacks/",
-      "summary": "Threat actors could exploit them to leak or modify server information and to execute commands as root. The post SAP NetWeaver, Cisco Expressway Flaws Exploited in Attacks appeared first on SecurityWeek .",
-      "published": "Mon, 23 Nov 2026 11:35:15 +0000",
-      "value_score": 28,
-      "value_signals": [
-        "Breach/leak",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "CrowdStrike to Acquire Zscaler in $43.9 Billion Deal",
-      "link": "https://www.securityweek.com/crowdstrike-to-acquire-zscaler-in-43-9-billion-deal/",
-      "summary": "CrowdStrike expects the combined company to have more than $10 billion in annual recurring revenue. The post CrowdStrike to Acquire Zscaler in $43.9 Billion Deal appeared first on SecurityWeek .",
-      "published": "Mon, 23 Nov 2026 11:31:44 +0000",
       "value_score": 10,
       "value_signals": []
     },

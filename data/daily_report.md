@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-11-24 01:28 UTC  
+> **Last Updated:** 2026-11-24 11:55 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**2 3 1** • **managed service providers** • **hackers steal 70k** • **cve 2026 134624** • **azure flaw exploited** • **twitter whistleblower complaint** • **session overwrite operation** • **chief technology officer** • **november 12 2026** • **helping steal millions** • **service memory corruption** • **email filtering service** • **ai agents zip** • **week's stories show** • **unauthorized financial transactions** • **threat actor breached** • **things iot products** • **sprawling phishing campaign** • **spamexperts hosted cloud** • **shared responsibility problem**
+**2 3 1** • **azure flaw exploited** • **twitter whistleblower complaint** • **session overwrite operation** • **service memory corruption** • **retrieve customer records** • **helping steal millions** • **hackers steal 70k** • **code injection vulnerability** • **windows operating systems** • **ai upstart called** • **ai agents zip** • **whmcs's shopping cart** • **week's stories show** • **threat actor breached** • **things iot products** • **sprawling phishing campaign** • **shared responsibility problem** • **rising geopolitical tensions** • **pose significant risks**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets](https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html)
+- [WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login](https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html)
+- [OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching](https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html)
+- [Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day](https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html)
 - [Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access](https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html)
 - [⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble](https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html)
 - [Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions](https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html)
 - [Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning](https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html)
-- [N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation](https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html)
-- [Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE](https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html)
-- [Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices](https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html)
-- [AI-Assisted Cyber Attacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms](https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html)
 
 ### BleepingComputer
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [1.5 Million Impacted by Data Breach at South Korean Electric Company KEPCO](https://www.securityweek.com/1-5-million-impacted-by-data-breach-at-south-korean-electric-company-kepco/)
+- [Elecbrakes Bluetooth Vulnerabilities Expose Trailers to Forced Braking](https://www.securityweek.com/elecbrakes-bluetooth-vulnerabilities-expose-trailers-to-forced-braking/)
+- [Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine](https://www.securityweek.com/peninsula-energy-halts-trading-after-cyber-incident-hits-us-uranium-mine/)
 - [Azure Flaw Exploited to Target Secrets at Norwegian Energy Firms](https://www.securityweek.com/azure-flaw-exploited-to-target-secrets-at-norwegian-energy-firms/)
-- [N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack](https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/)
+- [N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack](https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/)
 - [phpAfterShell Vulnerability Revives PHP2Shell’s Attack Path](https://www.securityweek.com/phpaftershell-vulnerability-revives-php2shells-attack-path/)
 - [GL.iNet Routers, KVMs Compromised via Remote Management Service Flaw](https://www.securityweek.com/gl-inet-routers-kvms-compromised-via-remote-management-service-flaw/)
 - [AI Inference Providers Failed to Detect Hacking and Prompt Theft, Says Dragos](https://www.securityweek.com/ai-inference-providers-failed-to-detect-hacking-and-prompt-theft-says-dragos/)
-- [BadBox 3.0 Ad Fraud Operation Generating 40 Billion Daily Bid Requests Disrupted](https://www.securityweek.com/badbox-3-0-ad-fraud-operation-generating-40-billion-daily-bid-requests-disrupted/)
-- [SAP NetWeaver, Cisco Expressway Flaws Exploited in Attacks](https://www.securityweek.com/sap-netweaver-cisco-expressway-flaws-exploited-in-attacks/)
-- [CrowdStrike to Acquire Zscaler in $43.9 Billion Deal](https://www.securityweek.com/crowdstrike-to-acquire-zscaler-in-43-9-billion-deal/)
 
 ### Threatpost
 

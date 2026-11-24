@@ -216,7 +216,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 832,
+      "count": 833,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -370,11 +370,12 @@
         "2026-11-02",
         "2026-11-03",
         "2026-11-17",
-        "2026-11-18"
+        "2026-11-18",
+        "2026-11-24"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2932,
+      "count": 2933,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2208,7 +2209,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 722,
+      "count": 723,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -4302,7 +4303,7 @@
       ]
     },
     "pose significant risks": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-01-14",
         "2026-02-09",
@@ -4312,7 +4313,8 @@
         "2026-11-07",
         "2026-11-08",
         "2026-11-09",
-        "2026-11-10"
+        "2026-11-10",
+        "2026-11-24"
       ]
     },
     "dire critical rating": {
@@ -10900,14 +10902,15 @@
       ]
     },
     "code injection vulnerability": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-03-11",
         "2026-03-12",
         "2026-04-07",
         "2026-09-26",
         "2026-09-28",
-        "2026-11-19"
+        "2026-11-19",
+        "2026-11-24"
       ]
     },
     "royal thai police": {
@@ -36528,7 +36531,7 @@
       ]
     },
     "things iot products": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-11-06",
         "2026-11-07",
@@ -37764,7 +37767,7 @@
       ]
     },
     "service memory corruption": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-11-19",
         "2026-11-20",
@@ -38060,7 +38063,7 @@
       ]
     },
     "2 3 1": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-23",
         "2026-11-24"
@@ -38125,48 +38128,72 @@
       ]
     },
     "hackers steal 70k": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-24"
       ]
     },
     "azure flaw exploited": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-24"
       ]
     },
     "session overwrite operation": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-24"
       ]
     },
     "helping steal millions": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-24"
       ]
     },
     "ai agents zip": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-24"
       ]
     },
     "week's stories show": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-24"
       ]
     },
     "threat actor breached": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-24"
       ]
     },
     "shared responsibility problem": {
+      "count": 2,
+      "dates": [
+        "2026-11-24"
+      ]
+    },
+    "retrieve customer records": {
+      "count": 1,
+      "dates": [
+        "2026-11-24"
+      ]
+    },
+    "ai upstart called": {
+      "count": 1,
+      "dates": [
+        "2026-11-24"
+      ]
+    },
+    "whmcs's shopping cart": {
+      "count": 1,
+      "dates": [
+        "2026-11-24"
+      ]
+    },
+    "rising geopolitical tensions": {
       "count": 1,
       "dates": [
         "2026-11-24"
@@ -38174,17 +38201,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-26 16:24",
-      "articles": 56,
-      "top_keywords": [
-        "net client library",
-        "drained 400 000",
-        "cryptocurrency investment scam",
-        "execute malicious code",
-        "single hacked device"
-      ]
-    },
     {
       "timestamp": "2026-10-26 22:11",
       "articles": 56,
@@ -39272,6 +39288,17 @@
         "hackers steal 70k",
         "cve 2026 134624",
         "azure flaw exploited"
+      ]
+    },
+    {
+      "timestamp": "2026-11-24 11:55",
+      "articles": 56,
+      "top_keywords": [
+        "2 3 1",
+        "azure flaw exploited",
+        "twitter whistleblower complaint",
+        "session overwrite operation",
+        "service memory corruption"
       ]
     }
   ]

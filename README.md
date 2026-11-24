@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-11-24 11:55 UTC |
+| 🕐 Last Updated | 2026-11-24 21:51 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`2 3 1` • `azure flaw exploited` • `twitter whistleblower complaint` • `session overwrite operation` • `service memory corruption` • `retrieve customer records` • `helping steal millions` • `hackers steal 70k` • `code injection vulnerability` • `windows operating systems`
+`spot cloud platform` • `faster threat analysis` • `cyberattack investigation names` • `retrieve customer records` • `extortion group krebsonsecurity` • `cvss scoring system` • `twitter whistleblower complaint` • `service memory corruption` • `net framework loads` • `google researcher shows`
 
 ## 📄 Reports
 

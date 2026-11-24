@@ -375,7 +375,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2933,
+      "count": 2934,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2688,7 +2688,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 123,
+      "count": 124,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -2716,7 +2716,8 @@
         "2026-08-24",
         "2026-08-25",
         "2026-08-28",
-        "2026-10-06"
+        "2026-10-06",
+        "2026-11-24"
       ]
     },
     "cybercrime looks like": {
@@ -2994,7 +2995,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 462,
+      "count": 463,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -3065,7 +3066,8 @@
         "2026-11-04",
         "2026-11-09",
         "2026-11-10",
-        "2026-11-19"
+        "2026-11-19",
+        "2026-11-24"
       ]
     },
     "corporate data stolen": {
@@ -3659,7 +3661,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 366,
+      "count": 367,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3724,7 +3726,8 @@
         "2026-10-21",
         "2026-10-27",
         "2026-10-28",
-        "2026-10-29"
+        "2026-10-29",
+        "2026-11-24"
       ]
     },
     "authenticated remote attacker": {
@@ -32602,7 +32605,7 @@
       ]
     },
     "shinyhunters hacking group": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-09-29",
         "2026-11-04",
@@ -32611,7 +32614,8 @@
         "2026-11-19",
         "2026-11-20",
         "2026-11-22",
-        "2026-11-23"
+        "2026-11-23",
+        "2026-11-24"
       ]
     },
     "stealing mobile call": {
@@ -36531,7 +36535,7 @@
       ]
     },
     "things iot products": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-11-06",
         "2026-11-07",
@@ -36979,12 +36983,13 @@
       ]
     },
     "extortion group krebsonsecurity": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-11-11",
         "2026-11-12",
         "2026-11-19",
-        "2026-11-20"
+        "2026-11-20",
+        "2026-11-24"
       ]
     },
     "defense strategies defining": {
@@ -37767,7 +37772,7 @@
       ]
     },
     "service memory corruption": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-11-19",
         "2026-11-20",
@@ -38176,7 +38181,7 @@
       ]
     },
     "retrieve customer records": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-24"
       ]
@@ -38188,7 +38193,7 @@
       ]
     },
     "whmcs's shopping cart": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-24"
       ]
@@ -38198,20 +38203,69 @@
       "dates": [
         "2026-11-24"
       ]
+    },
+    "spot cloud platform": {
+      "count": 1,
+      "dates": [
+        "2026-11-24"
+      ]
+    },
+    "faster threat analysis": {
+      "count": 1,
+      "dates": [
+        "2026-11-24"
+      ]
+    },
+    "cyberattack investigation names": {
+      "count": 1,
+      "dates": [
+        "2026-11-24"
+      ]
+    },
+    "net framework loads": {
+      "count": 1,
+      "dates": [
+        "2026-11-24"
+      ]
+    },
+    "google researcher shows": {
+      "count": 1,
+      "dates": [
+        "2026-11-24"
+      ]
+    },
+    "released rackspace shuts": {
+      "count": 1,
+      "dates": [
+        "2026-11-24"
+      ]
+    },
+    "ai assisted cyberattack": {
+      "count": 1,
+      "dates": [
+        "2026-11-24"
+      ]
+    },
+    "vmware vcenter hit": {
+      "count": 1,
+      "dates": [
+        "2026-11-24"
+      ]
+    },
+    "yet production ready": {
+      "count": 1,
+      "dates": [
+        "2026-11-24"
+      ]
+    },
+    "unnecessary escalations continue": {
+      "count": 1,
+      "dates": [
+        "2026-11-24"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-26 22:11",
-      "articles": 56,
-      "top_keywords": [
-        "net client library",
-        "ransomware cybersecurity researchers",
-        "steal cloud secrets",
-        "drained 400 000",
-        "forced password resets"
-      ]
-    },
     {
       "timestamp": "2026-10-27 03:22",
       "articles": 56,
@@ -39299,6 +39353,17 @@
         "twitter whistleblower complaint",
         "session overwrite operation",
         "service memory corruption"
+      ]
+    },
+    {
+      "timestamp": "2026-11-24 21:51",
+      "articles": 56,
+      "top_keywords": [
+        "spot cloud platform",
+        "faster threat analysis",
+        "cyberattack investigation names",
+        "retrieve customer records",
+        "extortion group krebsonsecurity"
       ]
     }
   ]

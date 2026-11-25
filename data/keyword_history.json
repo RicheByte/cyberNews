@@ -375,7 +375,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2935,
+      "count": 2936,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1419,7 +1419,7 @@
       ]
     },
     "national security risk": {
-      "count": 556,
+      "count": 557,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1537,7 +1537,8 @@
         "2026-11-20",
         "2026-11-21",
         "2026-11-22",
-        "2026-11-23"
+        "2026-11-23",
+        "2026-11-25"
       ]
     },
     "open source millions": {
@@ -18970,7 +18971,7 @@
       ]
     },
     "unknown threat actor": {
-      "count": 46,
+      "count": 47,
       "dates": [
         "2026-05-29",
         "2026-05-30",
@@ -18985,7 +18986,8 @@
         "2026-10-26",
         "2026-10-27",
         "2026-11-13",
-        "2026-11-14"
+        "2026-11-14",
+        "2026-11-25"
       ]
     },
     "protect user data": {
@@ -37288,10 +37290,11 @@
       ]
     },
     "november updates microsoft": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-11-13",
-        "2026-11-14"
+        "2026-11-14",
+        "2026-11-25"
       ]
     },
     "vmware esxi hosts": {
@@ -38214,7 +38217,7 @@
       ]
     },
     "spot cloud platform": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-24",
         "2026-11-25"
@@ -38289,6 +38292,90 @@
       ]
     },
     "customized softether vpn": {
+      "count": 2,
+      "dates": [
+        "2026-11-25"
+      ]
+    },
+    "drupal flaw found": {
+      "count": 1,
+      "dates": [
+        "2026-11-25"
+      ]
+    },
+    "revoke will break": {
+      "count": 1,
+      "dates": [
+        "2026-11-25"
+      ]
+    },
+    "cve 2026 120705": {
+      "count": 1,
+      "dates": [
+        "2026-11-25"
+      ]
+    },
+    "critical unpatched flaw": {
+      "count": 1,
+      "dates": [
+        "2026-11-25"
+      ]
+    },
+    "november 27 2026": {
+      "count": 1,
+      "dates": [
+        "2026-11-25"
+      ]
+    },
+    "microsoft 365 customers": {
+      "count": 1,
+      "dates": [
+        "2026-11-25"
+      ]
+    },
+    "fake recruitment campaign": {
+      "count": 1,
+      "dates": [
+        "2026-11-25"
+      ]
+    },
+    "danfoss refrigeration controllers": {
+      "count": 1,
+      "dates": [
+        "2026-11-25"
+      ]
+    },
+    "security breach rackspace": {
+      "count": 1,
+      "dates": [
+        "2026-11-25"
+      ]
+    },
+    "october 9 2026": {
+      "count": 1,
+      "dates": [
+        "2026-11-25"
+      ]
+    },
+    "chief information security": {
+      "count": 1,
+      "dates": [
+        "2026-11-25"
+      ]
+    },
+    "valid secrets discovered": {
+      "count": 1,
+      "dates": [
+        "2026-11-25"
+      ]
+    },
+    "secrets giving customers": {
+      "count": 1,
+      "dates": [
+        "2026-11-25"
+      ]
+    },
+    "critical secrets prioritize": {
       "count": 1,
       "dates": [
         "2026-11-25"
@@ -38296,17 +38383,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-27 09:31",
-      "articles": 56,
-      "top_keywords": [
-        "net client library",
-        "forced password resets",
-        "cybersecurity issue forces",
-        "php2shell exploitation moves",
-        "steal cloud secrets"
-      ]
-    },
     {
       "timestamp": "2026-10-27 15:39",
       "articles": 56,
@@ -39394,6 +39470,17 @@
         "faster threat analysis",
         "retrieve customer records",
         "extortion group krebsonsecurity"
+      ]
+    },
+    {
+      "timestamp": "2026-11-25 16:40",
+      "articles": 56,
+      "top_keywords": [
+        "drupal flaw found",
+        "spot cloud platform",
+        "revoke will break",
+        "cve 2026 120705",
+        "november updates microsoft"
       ]
     }
   ]

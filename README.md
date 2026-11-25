@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-11-25 04:44 UTC |
+| 🕐 Last Updated | 2026-11-25 16:40 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`spot cloud platform` • `cyberattack investigation names` • `faster threat analysis` • `retrieve customer records` • `extortion group krebsonsecurity` • `unclassified cia system` • `twitter whistleblower complaint` • `net framework loads` • `google researcher shows` • `cvss scoring system`
+`drupal flaw found` • `spot cloud platform` • `revoke will break` • `cve 2026 120705` • `november updates microsoft` • `critical unpatched flaw` • `november 27 2026` • `unknown threat actor` • `twitter whistleblower complaint` • `microsoft 365 customers`
 
 ## 📄 Reports
 

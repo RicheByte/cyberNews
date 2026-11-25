@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-11-24 21:51",
+  "last_updated": "2026-11-25 04:44",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "spot cloud platform",
-    "faster threat analysis",
     "cyberattack investigation names",
+    "faster threat analysis",
     "retrieve customer records",
     "extortion group krebsonsecurity",
-    "cvss scoring system",
+    "unclassified cia system",
     "twitter whistleblower complaint",
-    "service memory corruption",
     "net framework loads",
     "google researcher shows",
+    "cvss scoring system",
+    "customized softether vpn",
     "arbitrary code execution",
+    "ai assisted cyberattack",
     "130 companies tangled",
     "released rackspace shuts",
-    "ai assisted cyberattack",
-    "vmware vcenter hit",
     "shinyhunters hacking group",
     "yet production ready",
     "whmcs's shopping cart",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "spot cloud platform",
-      "mentions": 1
-    },
-    {
-      "keyword": "faster threat analysis",
-      "mentions": 1
-    },
-    {
-      "keyword": "cyberattack investigation names",
-      "mentions": 1
-    },
-    {
-      "keyword": "retrieve customer records",
       "mentions": 2
     },
     {
-      "keyword": "extortion group krebsonsecurity",
-      "mentions": 11
+      "keyword": "cyberattack investigation names",
+      "mentions": 2
     },
     {
-      "keyword": "cvss scoring system",
-      "mentions": 124
+      "keyword": "faster threat analysis",
+      "mentions": 2
+    },
+    {
+      "keyword": "retrieve customer records",
+      "mentions": 3
+    },
+    {
+      "keyword": "extortion group krebsonsecurity",
+      "mentions": 12
+    },
+    {
+      "keyword": "unclassified cia system",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2934
-    },
-    {
-      "keyword": "service memory corruption",
-      "mentions": 10
+      "mentions": 2935
     },
     {
       "keyword": "net framework loads",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "google researcher shows",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "cvss scoring system",
+      "mentions": 125
     }
   ],
   "articles": [
@@ -328,6 +328,33 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Cyber Insurers See New Divide: AI Defense 'Haves' &amp; 'Have Nots'",
+      "link": "https://www.darkreading.com/cybersecurity-operations/cyber-insurers-see-new-ai-divide",
+      "summary": "Dark Reading Confidential Episode 23: Cyber insurers share their view of the AI-driven threat landscape and how mounting challenges are putting pressure on both sides of the policy, leaving the current model unsustainable.",
+      "published": "Wed, 25 Nov 2026 15:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Satellites Have a Ground-Level Cybersecurity Problem",
+      "link": "https://www.darkreading.com/cyber-risk/satellites-ground-level-cybersecurity-problem",
+      "summary": "Weaknesses in the ground-based infrastructure supporting satellite services are becoming more consequential as a new space race gathers pace.",
+      "published": "Tue, 24 Nov 2026 22:05:34 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Webworm APT Slithers Into Networks With Customized SoftEther VPN",
+      "link": "https://www.darkreading.com/perimeter/webworm-slithers-customized-softether-vpn",
+      "summary": "The China-aligned espionage group rebuilt the open source VPN software from source, stripping out the artifacts that would normally expose it to defenders.",
+      "published": "Tue, 24 Nov 2026 21:48:06 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "'God Mode' Flaws Could Wreak Border-Control Havoc",
       "link": "https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc",
       "summary": "Attackers could have disrupted traveler entry into Nigeria, Ethiopia, Zambia, Sri Lanka, Fiji, and Ghana via several vulnerabilities in their online visa and immigration systems.",
@@ -376,36 +403,13 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "AI Agents Zip From Flaw Discovery to Root Access in 11 Minutes",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agents-flaw-discovery-root-access-11-minutes",
-      "summary": "A China-nexus actor used the Cairn penetration testing tool in attacks against East Asian universities, exploiting a zero-day in a medical imaging app.",
-      "published": "Mon, 23 Nov 2026 16:17:21 GMT",
-      "value_score": 41,
-      "value_signals": [
-        "Zero-day",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "How Security Vendors Are Tackling Access-Control Challenges for AI Agents",
-      "link": "https://www.darkreading.com/identity-access-management-security/ai-agents-bring-enterprises-new-access-control-challenges",
-      "summary": "Identity, runtime, and development controls are converging as enterprises look for ways to keep agents within their assigned jobs. But vendors' approaches vary, so CISOs face a choice.",
-      "published": "Sat, 21 Nov 2026 01:31:23 GMT",
+      "source": "Security Week",
+      "title": "An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says",
+      "link": "https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/",
+      "summary": "It was not clear what specific information was compromised or who was responsible. The post An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says appeared first on SecurityWeek .",
+      "published": "Tue, 24 Nov 2026 22:41:58 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day",
-      "summary": "During the last wave of major VMware vCenter security updates, a China-nexus threat group likely already had its next zero-day up its sleeve.",
-      "published": "Fri, 20 Nov 2026 21:03:27 GMT",
-      "value_score": 60,
-      "value_signals": [
-        "Zero-day ×2"
-      ]
     },
     {
       "source": "Security Week",
@@ -481,15 +485,6 @@
       "value_signals": [
         "High severity"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine",
-      "link": "https://www.securityweek.com/peninsula-energy-halts-trading-after-cyber-incident-hits-us-uranium-mine/",
-      "summary": "The company told the ASX that a cybersecurity incident at its Wyoming uranium project would temporarily affect operations. The post Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine appeared first on SecurityWeek .",
-      "published": "Tue, 24 Nov 2026 10:35:04 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",
@@ -576,13 +571,18 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "Schneider Electric EcoStruxure Power Build Rapsody software",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02",
-      "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure™ Power Build Rapsody product. The EcoStruxure™ Power Build Rapsody is used to enter or import the single line diagram, to get the extensive bill of material of your switchboard, including all devices, connection items, and mounting components. Failure to apply the remediations provided below may risk memory corruption, heap-based buffer overflow, and/or stack-based buffer overflow, which could result in local att",
+      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-131914 Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability CVE-2026-132165 Drupal Core Remote Code Execution Vulnerability CVE-2026-132224 Optimizely Web Experimentation External Control of Critical State Data Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to ",
       "published": "Tue, 24 Nov 26 12:00:00 +0000",
-      "value_score": 35,
+      "value_score": 100,
       "value_signals": [
-        "Source boost: CISA Alerts"
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×3",
+        "RCE",
+        "CISA/KEV ×5",
+        "High severity",
+        "Multiple CVEs"
       ]
     },
     {
@@ -597,6 +597,17 @@
         "CVE mentioned",
         "High severity",
         "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Schneider Electric EcoStruxure Power Build Rapsody software",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02",
+      "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure™ Power Build Rapsody product. The EcoStruxure™ Power Build Rapsody is used to enter or import the single line diagram, to get the extensive bill of material of your switchboard, including all devices, connection items, and mounting components. Failure to apply the remediations provided below may risk memory corruption, heap-based buffer overflow, and/or stack-based buffer overflow, which could result in local att",
+      "published": "Tue, 24 Nov 26 12:00:00 +0000",
+      "value_score": 35,
+      "value_signals": [
+        "Source boost: CISA Alerts"
       ]
     },
     {
@@ -663,20 +674,6 @@
       "title": "Autonomy Logic OpenPLC Runtime",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01",
       "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow several unauthenticated admin accounts to be created. The following versions of Autonomy Logic OpenPLC Runtime are affected: OpenPLC Runtime <=4.2.4 (CVE-2026-126088) CVSS Vendor Equipment v3 8.1 Autonomy Logic OpenPLC Runtime 1 Vulnerability Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition') Background Critical Infrastructure Sectors: Critical Manufacturing, Energy, Transportatio",
-      "published": "Thu, 19 Nov 26 12:00:00 +0000",
-      "value_score": 75,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "libumqtt",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial of service, memory corruption, or information disclosure. The following versions of libumqtt are affected: libumqtt <=1.1.1 (CVE-2026-125132) CVSS Vendor Equipment v3 8.6 libumqtt libumqtt 1 Vulnerability Integer Underflow (Wrap or Wraparound) Background Critical Infrastructure Sectors: Critical Manufacturing, Energy, Information Technology, Transportation Systems, Water and Wastewater",
       "published": "Thu, 19 Nov 26 12:00:00 +0000",
       "value_score": 75,
       "value_signals": [

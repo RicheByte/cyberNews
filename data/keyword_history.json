@@ -375,7 +375,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2937,
+      "count": 2938,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1207,7 +1207,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 179,
+      "count": 180,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1421,7 +1421,7 @@
       ]
     },
     "national security risk": {
-      "count": 558,
+      "count": 559,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -3668,7 +3668,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 369,
+      "count": 370,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -38130,9 +38130,10 @@
       ]
     },
     "restore data locked": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-11-23"
+        "2026-11-23",
+        "2026-11-26"
       ]
     },
     "jensen huang's resignation": {
@@ -38297,7 +38298,7 @@
       ]
     },
     "customized softether vpn": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-25",
         "2026-11-26"
@@ -38311,42 +38312,42 @@
       ]
     },
     "revoke will break": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-25",
         "2026-11-26"
       ]
     },
     "cve 2026 120705": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-25",
         "2026-11-26"
       ]
     },
     "critical unpatched flaw": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-25",
         "2026-11-26"
       ]
     },
     "november 27 2026": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-25",
         "2026-11-26"
       ]
     },
     "microsoft 365 customers": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-25",
         "2026-11-26"
       ]
     },
     "fake recruitment campaign": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-25",
         "2026-11-26"
@@ -38400,7 +38401,7 @@
       ]
     },
     "steal customer data": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-26"
       ]
@@ -38410,20 +38411,51 @@
       "dates": [
         "2026-11-26"
       ]
+    },
+    "targeting cypriot organizations": {
+      "count": 1,
+      "dates": [
+        "2026-11-26"
+      ]
+    },
+    "attackers already exploiting": {
+      "count": 1,
+      "dates": [
+        "2026-11-26"
+      ]
+    },
+    "drupal security team": {
+      "count": 1,
+      "dates": [
+        "2026-11-26"
+      ]
+    },
+    "source code stolen": {
+      "count": 1,
+      "dates": [
+        "2026-11-26"
+      ]
+    },
+    "mitel micollab vulnerabilities": {
+      "count": 1,
+      "dates": [
+        "2026-11-26"
+      ]
+    },
+    "steal customer records": {
+      "count": 1,
+      "dates": [
+        "2026-11-26"
+      ]
+    },
+    "western carolina university": {
+      "count": 1,
+      "dates": [
+        "2026-11-26"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-27 20:21",
-      "articles": 56,
-      "top_keywords": [
-        "net client library",
-        "hpe patches dozens",
-        "525 000 people",
-        "malicious cyber actors",
-        "exploited coregraphics flaw"
-      ]
-    },
     {
       "timestamp": "2026-10-28 00:54",
       "articles": 56,
@@ -39511,6 +39543,17 @@
         "cve 2026 120705",
         "critical unpatched flaw",
         "unknown threat actor"
+      ]
+    },
+    {
+      "timestamp": "2026-11-26 10:20",
+      "articles": 56,
+      "top_keywords": [
+        "revoke will break",
+        "cve 2026 120705",
+        "critical unpatched flaw",
+        "targeting cypriot organizations",
+        "attackers already exploiting"
       ]
     }
   ]

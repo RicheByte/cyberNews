@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-11-26 01:28 UTC  
+> **Last Updated:** 2026-11-26 10:20 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**drupal flaw found** • **revoke will break** • **cve 2026 120705** • **critical unpatched flaw** • **unknown threat actor** • **twitter whistleblower complaint** • **steal customer data** • **fake recruitment campaign** • **danfoss refrigeration controllers** • **customized softether vpn** • **valid secrets discovered** • **critical secrets prioritize** • **october 9 2026** • **november 27 2026** • **microsoft 365 customers** • **national security risk** • **chief information security** • **execute arbitrary code** • **arbitrary code execution** • **triage misses 46**
+**revoke will break** • **cve 2026 120705** • **critical unpatched flaw** • **targeting cypriot organizations** • **attackers already exploiting** • **twitter whistleblower complaint** • **steal customer data** • **fake recruitment campaign** • **customized softether vpn** • **drupal security team** • **source code stolen** • **restore data locked** • **november 27 2026** • **execute arbitrary code** • **arbitrary code execution** • **mitel micollab vulnerabilities** • **steal customer records** • **microsoft 365 customers** • **national security risk** • **western carolina university**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation](https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html)
+- [Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products](https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html)
+- [1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach](https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html)
+- [13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps](https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html)
 - [Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains](https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html)
 - [U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion](https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html)
 - [Credential Remediation Is Slow When You Don’t Know What Will Break](https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html)
 - [Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation](https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html)
-- [Ex-OpenAI Employee Accused of Bugging Company Offices Granted $1 Million Bail](https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html)
-- [Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers](https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html)
-- [Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign](https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html)
-- [Com-Affiliated Hackers Hijack Cloud Accounts via Vishing for Data Theft and Extortion](https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html)
 
 ### BleepingComputer
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Cyprus Becomes Espionage Target for Iranian Hackers](https://www.darkreading.com/cyberattacks-data-breaches/cyprus-espionage-target-iranian-hackers)
 - [Attackers Target .NET Developers With Poisoned Job Assessments](https://www.darkreading.com/threat-intelligence/attackers-net-developers-poisoned-job-assessments)
 - [It's a Bot World. We're Just Living in It](https://www.darkreading.com/cyber-risk/bot-world-just-living)
 - [Cyber Insurers See New Divide: AI Defense 'Haves' &amp; 'Have Nots'](https://www.darkreading.com/cybersecurity-operations/cyber-insurers-see-new-ai-divide)
@@ -56,18 +57,17 @@
 - [Satellites Have a Ground-Level Cybersecurity Problem](https://www.darkreading.com/cyber-risk/satellites-ground-level-cybersecurity-problem)
 - [Webworm APT Slithers Into Networks With Customized SoftEther VPN](https://www.darkreading.com/perimeter/webworm-slithers-customized-softether-vpn)
 - ['God Mode' Flaws Could Wreak Border-Control Havoc](https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc)
-- [How Southeastern University Got a Handle on Its Data](https://www.darkreading.com/cybersecurity-operations/how-southeastern-university-handle-data)
 
 ### Security Week
 
+- [Drupal Installer Patch Left a Gap Attackers Are Already Exploiting](https://www.securityweek.com/drupal-installer-patch-left-a-gap-attackers-are-already-exploiting/)
+- [1Password Breach Exposes Customer Data, Internal Source Code](https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code/)
 - [Two Newly Disclosed GeoServer Vulnerabilities Under Attack](https://www.securityweek.com/two-newly-disclosed-geoserver-vulnerabilities-under-attack/)
 - [ShinyHunters Claims Comeback, New Inception Group Rejects Alleged Ties](https://www.securityweek.com/shinyhunters-claims-comeback-new-inception-group-rejects-alleged-ties/)
 - [US Treasury’s FinCEN Disconnects Systems Following Cyber Incident](https://www.securityweek.com/us-treasurys-fincen-disconnects-systems-following-cyber-incident/)
 - [Ground Truth: CISO Matt Martin on Building a Real Security Program Without an Enterprise Budget](https://www.securityweek.com/ground-truth-ciso-matt-martin-on-building-a-real-security-program-without-an-enterprise-budget/)
 - [Plagiarism Checker Turnitin Investigating Cyberattack](https://www.securityweek.com/plagiarism-checker-turnitin-investigating-cyberattack/)
 - [Hackers Exploit Unpatched Flaw in Defunct Idunno AntiCsrf Library](https://www.securityweek.com/hackers-exploit-unpatched-flaw-in-defunct-idunno-anticsrf-library/)
-- [Palo Alto Networks Patches Fragnesia Flaw Used to Root Firewalls](https://www.securityweek.com/palo-alto-networks-patches-fragnesia-flaw-used-to-root-firewalls/)
-- [Drupal Flaw Found by Anthropic Scanner Exploited in Attacks](https://www.securityweek.com/drupal-flaw-found-by-anthropic-scanner-exploited-in-attacks/)
 
 ### Threatpost
 

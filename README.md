@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-11-26 01:28 UTC |
+| 🕐 Last Updated | 2026-11-26 10:20 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`drupal flaw found` • `revoke will break` • `cve 2026 120705` • `critical unpatched flaw` • `unknown threat actor` • `twitter whistleblower complaint` • `steal customer data` • `fake recruitment campaign` • `danfoss refrigeration controllers` • `customized softether vpn`
+`revoke will break` • `cve 2026 120705` • `critical unpatched flaw` • `targeting cypriot organizations` • `attackers already exploiting` • `twitter whistleblower complaint` • `steal customer data` • `fake recruitment campaign` • `customized softether vpn` • `drupal security team`
 
 ## 📄 Reports
 

@@ -375,7 +375,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2938,
+      "count": 2939,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1207,7 +1207,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 180,
+      "count": 181,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -3668,7 +3668,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 370,
+      "count": 371,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -7232,7 +7232,7 @@
       ]
     },
     "execute arbitrary commands": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -7245,7 +7245,8 @@
         "2026-06-26",
         "2026-09-15",
         "2026-11-10",
-        "2026-11-11"
+        "2026-11-11",
+        "2026-11-26"
       ]
     },
     "arbitrary system commands": {
@@ -12090,14 +12091,15 @@
       ]
     },
     "threat actors behind": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-03-21",
         "2026-03-22",
         "2026-03-23",
         "2026-04-02",
         "2026-04-03",
-        "2026-10-14"
+        "2026-10-14",
+        "2026-11-26"
       ]
     },
     "achieve code execution": {
@@ -36547,7 +36549,7 @@
       ]
     },
     "things iot products": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-11-06",
         "2026-11-07",
@@ -36563,7 +36565,8 @@
         "2026-11-17",
         "2026-11-19",
         "2026-11-24",
-        "2026-11-25"
+        "2026-11-25",
+        "2026-11-26"
       ]
     },
     "step change improvement": {
@@ -38130,7 +38133,7 @@
       ]
     },
     "restore data locked": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-23",
         "2026-11-26"
@@ -38319,7 +38322,7 @@
       ]
     },
     "cve 2026 120705": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-25",
         "2026-11-26"
@@ -38347,7 +38350,7 @@
       ]
     },
     "fake recruitment campaign": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-25",
         "2026-11-26"
@@ -38401,7 +38404,7 @@
       ]
     },
     "steal customer data": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-26"
       ]
@@ -38413,13 +38416,13 @@
       ]
     },
     "targeting cypriot organizations": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-26"
       ]
     },
     "attackers already exploiting": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-26"
       ]
@@ -38431,19 +38434,19 @@
       ]
     },
     "source code stolen": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-26"
       ]
     },
     "mitel micollab vulnerabilities": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-26"
       ]
     },
     "steal customer records": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-26"
       ]
@@ -38453,20 +38456,39 @@
       "dates": [
         "2026-11-26"
       ]
+    },
+    "steal corporate google": {
+      "count": 1,
+      "dates": [
+        "2026-11-26"
+      ]
+    },
+    "cve 2026 103406": {
+      "count": 1,
+      "dates": [
+        "2026-11-26"
+      ]
+    },
+    "look perfectly fine": {
+      "count": 1,
+      "dates": [
+        "2026-11-26"
+      ]
+    },
+    "critical infrastructure sector": {
+      "count": 1,
+      "dates": [
+        "2026-11-26"
+      ]
+    },
+    "took immediate steps": {
+      "count": 1,
+      "dates": [
+        "2026-11-26"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-28 00:54",
-      "articles": 56,
-      "top_keywords": [
-        "canadian cybersecurity firm",
-        "net client library",
-        "hpe patches dozens",
-        "prolific data theft",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-10-28 07:50",
       "articles": 56,
@@ -39554,6 +39576,17 @@
         "critical unpatched flaw",
         "targeting cypriot organizations",
         "attackers already exploiting"
+      ]
+    },
+    {
+      "timestamp": "2026-11-26 20:50",
+      "articles": 56,
+      "top_keywords": [
+        "steal corporate google",
+        "attackers already exploiting",
+        "targeting cypriot organizations",
+        "cve 2026 120705",
+        "cve 2026 103406"
       ]
     }
   ]

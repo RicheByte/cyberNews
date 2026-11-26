@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-11-26 10:20 UTC |
+| 🕐 Last Updated | 2026-11-26 20:50 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`revoke will break` • `cve 2026 120705` • `critical unpatched flaw` • `targeting cypriot organizations` • `attackers already exploiting` • `twitter whistleblower complaint` • `steal customer data` • `fake recruitment campaign` • `customized softether vpn` • `drupal security team`
+`steal corporate google` • `attackers already exploiting` • `targeting cypriot organizations` • `cve 2026 120705` • `cve 2026 103406` • `twitter whistleblower complaint` • `threat actors behind` • `steal customer data` • `look perfectly fine` • `execute arbitrary commands`
 
 ## 📄 Reports
 

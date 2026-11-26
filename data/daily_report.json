@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-11-25 16:40",
+  "last_updated": "2026-11-26 01:28",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "drupal flaw found",
-    "spot cloud platform",
     "revoke will break",
     "cve 2026 120705",
-    "november updates microsoft",
     "critical unpatched flaw",
-    "november 27 2026",
     "unknown threat actor",
     "twitter whistleblower complaint",
-    "microsoft 365 customers",
+    "steal customer data",
     "fake recruitment campaign",
     "danfoss refrigeration controllers",
     "customized softether vpn",
-    "security breach rackspace",
+    "valid secrets discovered",
+    "critical secrets prioritize",
     "october 9 2026",
+    "november 27 2026",
+    "microsoft 365 customers",
     "national security risk",
     "chief information security",
-    "valid secrets discovered",
-    "secrets giving customers",
-    "critical secrets prioritize"
+    "execute arbitrary code",
+    "arbitrary code execution",
+    "triage misses 46"
   ],
   "trending": [
     {
       "keyword": "drupal flaw found",
-      "mentions": 1
-    },
-    {
-      "keyword": "spot cloud platform",
-      "mentions": 3
+      "mentions": 2
     },
     {
       "keyword": "revoke will break",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "cve 2026 120705",
-      "mentions": 1
-    },
-    {
-      "keyword": "november updates microsoft",
-      "mentions": 5
+      "mentions": 2
     },
     {
       "keyword": "critical unpatched flaw",
-      "mentions": 1
-    },
-    {
-      "keyword": "november 27 2026",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "unknown threat actor",
-      "mentions": 47
+      "mentions": 48
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2936
+      "mentions": 2937
     },
     {
-      "keyword": "microsoft 365 customers",
+      "keyword": "steal customer data",
       "mentions": 1
+    },
+    {
+      "keyword": "fake recruitment campaign",
+      "mentions": 2
+    },
+    {
+      "keyword": "danfoss refrigeration controllers",
+      "mentions": 2
+    },
+    {
+      "keyword": "customized softether vpn",
+      "mentions": 3
     }
   ],
   "articles": [
@@ -158,6 +158,39 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
+      "summary": "Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet. [...]",
+      "published": "Wed, 25 Nov 2026 17:05:09 -0500",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "1Password customer data stolen after employee GitHub account breach",
+      "link": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
+      "summary": "1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data. [...]",
+      "published": "Wed, 25 Nov 2026 16:33:33 -0500",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
+      "summary": "Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector. [...]",
+      "published": "Wed, 25 Nov 2026 14:39:31 -0500",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning about a critical vulnerability in Danfoss AK-SM 8xxA Series controllers used by food retailers to manage commercial refrigeration, HVAC, and lighting systems. [...]",
@@ -209,37 +242,6 @@
         "RCE",
         "High severity ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft confirms authentication issues after November updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/",
-      "summary": "Microsoft has confirmed that customers may experience authentication issues after installing November security updates that address a high-severity remote code execution vulnerability. [...]",
-      "published": "Wed, 25 Nov 2026 04:02:57 -0500",
-      "value_score": 30,
-      "value_signals": [
-        "RCE"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers reportedly breached CIA intelligence analysis system",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
-      "summary": "Unknown attackers have reportedly breached an open-source intelligence analysis system at the US Central Intelligence Agency (CIA) [...]",
-      "published": "Wed, 25 Nov 2026 02:45:03 -0500",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Rackspace shuts down Spot cloud platform after security breach",
-      "link": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
-      "summary": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and download their data. [...]",
-      "published": "Tue, 24 Nov 2026 16:37:30 -0500",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
       ]
     },
     {
@@ -572,6 +574,34 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "CISA Adds 10 Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/11/25/cisa-adds-10-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added 10 new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2023-25914 Danfoss AK-SM 800A Series Path Traversal Vulnerability CVE-2023-25915 Danfoss AK-SM 800A Series Improper Input Validation Vulnerability CVE-2025-41450 Danfoss AK-SM 800A Series Improper Authentication Vulnerability CVE-2026-103406 Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor and Session Smart Router OS Command Injection Vulnerab",
+      "published": "Wed, 25 Nov 26 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×4",
+        "CISA/KEV ×5",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "AutomationDirect C-More EA9 Programming Software",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow attackers to corrupt application memory and cause instability or a crash, potentially leading to arbitrary code execution, if a user is convinced to open a malicious file. The following versions of AutomationDirect C-More EA9 Programming Software are affected: C-More EA9 Programming Software <=V6.80 (CVE-2026-127280) CVSS Vendor Equipment v3 7.8 AutomationDirect C-More EA9 Programming Software 1 Vulnerability Heap-based ",
+      "published": "Tue, 24 Nov 26 12:00:00 +0000",
+      "value_score": 59,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-131914 Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability CVE-2026-132165 Drupal Core Remote Code Execution Vulnerability CVE-2026-132224 Optimizely Web Experimentation External Control of Critical State Data Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to ",
@@ -588,20 +618,6 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "Danfoss AK-SM 8xxA Series",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code with webserver privileges. The following versions of Danfoss AK-SM 8xxA Series are affected: AK-SM8xxA <=5.4.0 (CVE-2026-129713) CVSS Vendor Equipment v3 9.8 Danfoss AK-SM8xxA 1 Vulnerability Stack-based Buffer Overflow Background Critical Infrastructure Sectors: Commercial Facilities Countries/Areas Deployed: Worldwide Company Headquarters Location: Denmark Vulnerabilities CVE-2026-",
-      "published": "Tue, 24 Nov 26 12:00:00 +0000",
-      "value_score": 67,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
       "title": "Schneider Electric EcoStruxure Power Build Rapsody software",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02",
       "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure™ Power Build Rapsody product. The EcoStruxure™ Power Build Rapsody is used to enter or import the single line diagram, to get the extensive bill of material of your switchboard, including all devices, connection items, and mounting components. Failure to apply the remediations provided below may risk memory corruption, heap-based buffer overflow, and/or stack-based buffer overflow, which could result in local att",
@@ -613,14 +629,15 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "AutomationDirect C-More EA9 Programming Software",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow attackers to corrupt application memory and cause instability or a crash, potentially leading to arbitrary code execution, if a user is convinced to open a malicious file. The following versions of AutomationDirect C-More EA9 Programming Software are affected: C-More EA9 Programming Software <=V6.80 (CVE-2026-127280) CVSS Vendor Equipment v3 7.8 AutomationDirect C-More EA9 Programming Software 1 Vulnerability Heap-based ",
+      "title": "Danfoss AK-SM 8xxA Series",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code with webserver privileges. The following versions of Danfoss AK-SM 8xxA Series are affected: AK-SM8xxA <=5.4.0 (CVE-2026-129713) CVSS Vendor Equipment v3 9.8 Danfoss AK-SM8xxA 1 Vulnerability Stack-based Buffer Overflow Background Critical Infrastructure Sectors: Commercial Facilities Countries/Areas Deployed: Worldwide Company Headquarters Location: Denmark Vulnerabilities CVE-2026-",
       "published": "Tue, 24 Nov 26 12:00:00 +0000",
-      "value_score": 59,
+      "value_score": 67,
       "value_signals": [
         "Source boost: CISA Alerts",
         "CVE mentioned",
+        "High severity",
         "Exploit wording"
       ]
     },
@@ -667,20 +684,6 @@
         "CVE mentioned ×7",
         "High severity",
         "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Autonomy Logic OpenPLC Runtime",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow several unauthenticated admin accounts to be created. The following versions of Autonomy Logic OpenPLC Runtime are affected: OpenPLC Runtime <=4.2.4 (CVE-2026-126088) CVSS Vendor Equipment v3 8.1 Autonomy Logic OpenPLC Runtime 1 Vulnerability Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition') Background Critical Infrastructure Sectors: Critical Manufacturing, Energy, Transportatio",
-      "published": "Thu, 19 Nov 26 12:00:00 +0000",
-      "value_score": 75,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "High severity ×2",
         "Exploit wording"
       ]
     }

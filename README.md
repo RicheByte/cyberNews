@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-11-25 16:40 UTC |
+| 🕐 Last Updated | 2026-11-26 01:28 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`drupal flaw found` • `spot cloud platform` • `revoke will break` • `cve 2026 120705` • `november updates microsoft` • `critical unpatched flaw` • `november 27 2026` • `unknown threat actor` • `twitter whistleblower complaint` • `microsoft 365 customers`
+`drupal flaw found` • `revoke will break` • `cve 2026 120705` • `critical unpatched flaw` • `unknown threat actor` • `twitter whistleblower complaint` • `steal customer data` • `fake recruitment campaign` • `danfoss refrigeration controllers` • `customized softether vpn`
 
 ## 📄 Reports
 

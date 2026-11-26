@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-11-25 16:40 UTC  
+> **Last Updated:** 2026-11-26 01:28 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**drupal flaw found** • **spot cloud platform** • **revoke will break** • **cve 2026 120705** • **november updates microsoft** • **critical unpatched flaw** • **november 27 2026** • **unknown threat actor** • **twitter whistleblower complaint** • **microsoft 365 customers** • **fake recruitment campaign** • **danfoss refrigeration controllers** • **customized softether vpn** • **security breach rackspace** • **october 9 2026** • **national security risk** • **chief information security** • **valid secrets discovered** • **secrets giving customers** • **critical secrets prioritize**
+**drupal flaw found** • **revoke will break** • **cve 2026 120705** • **critical unpatched flaw** • **unknown threat actor** • **twitter whistleblower complaint** • **steal customer data** • **fake recruitment campaign** • **danfoss refrigeration controllers** • **customized softether vpn** • **valid secrets discovered** • **critical secrets prioritize** • **october 9 2026** • **november 27 2026** • **microsoft 365 customers** • **national security risk** • **chief information security** • **execute arbitrary code** • **arbitrary code execution** • **triage misses 46**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks](https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/)
+- [1Password customer data stolen after employee GitHub account breach](https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/)
+- [Italy and Switzerland warn of autonomous AI-driven cyberattacks](https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/)
 - [CISA warns of critical unpatched flaw in Danfoss refrigeration controllers](https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/)
 - [More Pentests Without More Pentesters: Where AI Safely Helps](https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/)
 - [InfraTrust warns of exploited supply chain flaws in network appliances](https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/)
 - [Microsoft fixes Microsoft 365 bug blocking access to Office apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/)
 - [Hackers now exploit critical Drupal RCE flaw to hijack sites](https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/)
-- [Microsoft confirms authentication issues after November updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/)
-- [Hackers reportedly breached CIA intelligence analysis system](https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/)
-- [Rackspace shuts down Spot cloud platform after security breach](https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/)
 
 ### Krebs on Security
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
-- [CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog)
-- [Danfoss AK-SM 8xxA Series](https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03)
-- [Schneider Electric EcoStruxure Power Build Rapsody software](https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02)
+- [CISA Adds 10 Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/25/cisa-adds-10-known-exploited-vulnerabilities-catalog)
 - [AutomationDirect C-More EA9 Programming Software](https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01)
+- [CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog)
+- [Schneider Electric EcoStruxure Power Build Rapsody software](https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02)
+- [Danfoss AK-SM 8xxA Series](https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03)
 - [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog)
 - [CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog)
 - [Elecbrakes EB2, VM1, ELBC2000](https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02)
-- [Autonomy Logic OpenPLC Runtime](https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01)
 
 ---
 

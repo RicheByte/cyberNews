@@ -375,7 +375,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2941,
+      "count": 2942,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1208,7 +1208,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 183,
+      "count": 184,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -3670,7 +3670,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 373,
+      "count": 374,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -11226,9 +11226,10 @@
       ]
     },
     "potential data breach": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-03-13"
+        "2026-03-13",
+        "2026-11-27"
       ]
     },
     "wild affecting skia": {
@@ -12095,7 +12096,7 @@
       ]
     },
     "threat actors behind": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-03-21",
         "2026-03-22",
@@ -32623,7 +32624,7 @@
       ]
     },
     "shinyhunters hacking group": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-09-29",
         "2026-11-04",
@@ -32634,7 +32635,8 @@
         "2026-11-22",
         "2026-11-23",
         "2026-11-24",
-        "2026-11-25"
+        "2026-11-25",
+        "2026-11-27"
       ]
     },
     "stealing mobile call": {
@@ -36555,7 +36557,7 @@
       ]
     },
     "things iot products": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2026-11-06",
         "2026-11-07",
@@ -38140,7 +38142,7 @@
       ]
     },
     "restore data locked": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-11-23",
         "2026-11-26",
@@ -38359,7 +38361,7 @@
       ]
     },
     "fake recruitment campaign": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-11-25",
         "2026-11-26",
@@ -38488,7 +38490,7 @@
       ]
     },
     "look perfectly fine": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-11-26",
         "2026-11-27"
@@ -38509,31 +38511,31 @@
       ]
     },
     "server operating system": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-27"
       ]
     },
     "crash potentially leading": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-27"
       ]
     },
     "second critical vulnerability": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-27"
       ]
     },
     "threat actor leveraged": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-27"
       ]
     },
     "next major release": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-27"
       ]
@@ -38551,7 +38553,7 @@
       ]
     },
     "corrupt application memory": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-11-27"
       ]
@@ -38563,6 +38565,24 @@
       ]
     },
     "alter source code": {
+      "count": 2,
+      "dates": [
+        "2026-11-27"
+      ]
+    },
+    "live offering 50": {
+      "count": 1,
+      "dates": [
+        "2026-11-27"
+      ]
+    },
+    "untrusted data vulnera": {
+      "count": 1,
+      "dates": [
+        "2026-11-27"
+      ]
+    },
+    "exceptional conditions vulnerability": {
       "count": 1,
       "dates": [
         "2026-11-27"
@@ -38570,17 +38590,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-28 20:43",
-      "articles": 56,
-      "top_keywords": [
-        "malicious cyber actors",
-        "tls flaws found",
-        "php flaws known",
-        "twitter whistleblower complaint",
-        "service dos condition"
-      ]
-    },
     {
       "timestamp": "2026-10-29 01:28",
       "articles": 56,
@@ -39668,6 +39677,17 @@
         "server operating system",
         "look perfectly fine",
         "crash potentially leading"
+      ]
+    },
+    {
+      "timestamp": "2026-11-27 22:26",
+      "articles": 56,
+      "top_keywords": [
+        "shinyhunters hacking group",
+        "twitter whistleblower complaint",
+        "things iot products",
+        "server operating system",
+        "look perfectly fine"
       ]
     }
   ]

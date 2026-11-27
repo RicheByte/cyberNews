@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-11-27 13:24 UTC |
+| 🕐 Last Updated | 2026-11-27 22:26 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`twitter whistleblower complaint` • `things iot products` • `server operating system` • `look perfectly fine` • `crash potentially leading` • `second critical vulnerability` • `threat actors behind` • `threat actor leveraged` • `steal corporate google` • `next major release`
+`shinyhunters hacking group` • `twitter whistleblower complaint` • `things iot products` • `server operating system` • `look perfectly fine` • `live offering 50` • `crash potentially leading` • `untrusted data vulnera` • `restore data locked` • `potential data breach`
 
 ## 📄 Reports
 

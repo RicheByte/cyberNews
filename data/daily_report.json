@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26 20:50",
+  "last_updated": "2026-11-27 03:54",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -12,11 +12,11 @@
     "threat actors behind",
     "steal customer data",
     "look perfectly fine",
+    "critical infrastructure sector",
     "execute arbitrary commands",
     "execute arbitrary code",
     "arbitrary code execution",
     "restore data locked",
-    "critical infrastructure sector",
     "fake recruitment campaign",
     "mitel micollab vulnerabilities",
     "steal customer records",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "steal corporate google",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "attackers already exploiting",
-      "mentions": 2
-    },
-    {
-      "keyword": "targeting cypriot organizations",
-      "mentions": 2
-    },
-    {
-      "keyword": "cve 2026 120705",
-      "mentions": 4
-    },
-    {
-      "keyword": "cve 2026 103406",
-      "mentions": 1
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2939
-    },
-    {
-      "keyword": "threat actors behind",
-      "mentions": 37
-    },
-    {
-      "keyword": "steal customer data",
       "mentions": 3
     },
     {
-      "keyword": "look perfectly fine",
-      "mentions": 1
+      "keyword": "targeting cypriot organizations",
+      "mentions": 3
     },
     {
-      "keyword": "execute arbitrary commands",
-      "mentions": 32
+      "keyword": "cve 2026 120705",
+      "mentions": 5
+    },
+    {
+      "keyword": "cve 2026 103406",
+      "mentions": 2
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2940
+    },
+    {
+      "keyword": "threat actors behind",
+      "mentions": 38
+    },
+    {
+      "keyword": "steal customer data",
+      "mentions": 4
+    },
+    {
+      "keyword": "look perfectly fine",
+      "mentions": 2
+    },
+    {
+      "keyword": "critical infrastructure sector",
+      "mentions": 2
     }
   ],
   "articles": [
@@ -160,6 +160,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
+      "summary": "OpenAI confirmed that it fixed a 'bug' that incorrectly discounted GPT-6.2 usage, which means you'll now hit GPT usage limits 40% faster than before. [...]",
+      "published": "Thu, 26 Nov 2026 16:06:22 -0500",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "NordVPN Black Friday Deal: Get 78% off VPN plans in 2026",
       "link": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/",
       "summary": "NordVPN's 2026 Black Friday and Cyber Monday deal is now live, offering savings of up to 78% on VPN subscriptions, plus three extra months of protection. [...]",
@@ -230,18 +241,6 @@
       "value_score": 18,
       "value_signals": [
         "High severity"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning about a critical vulnerability in Danfoss AK-SM 8xxA Series controllers used by food retailers to manage commercial refrigeration, HVAC, and lighting systems. [...]",
-      "published": "Wed, 25 Nov 2026 11:13:40 -0500",
-      "value_score": 66,
-      "value_signals": [
-        "CISA/KEV ×2",
-        "High severity ×2"
       ]
     },
     {

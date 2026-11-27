@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-11-26 20:50 UTC |
+| 🕐 Last Updated | 2026-11-27 03:54 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`steal corporate google` • `attackers already exploiting` • `targeting cypriot organizations` • `cve 2026 120705` • `cve 2026 103406` • `twitter whistleblower complaint` • `threat actors behind` • `steal customer data` • `look perfectly fine` • `execute arbitrary commands`
+`steal corporate google` • `attackers already exploiting` • `targeting cypriot organizations` • `cve 2026 120705` • `cve 2026 103406` • `twitter whistleblower complaint` • `threat actors behind` • `steal customer data` • `look perfectly fine` • `critical infrastructure sector`
 
 ## 📄 Reports
 

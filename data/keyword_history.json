@@ -375,7 +375,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2940,
+      "count": 2941,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1208,7 +1208,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 182,
+      "count": 183,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -3670,7 +3670,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 372,
+      "count": 373,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -12095,7 +12095,7 @@
       ]
     },
     "threat actors behind": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-03-21",
         "2026-03-22",
@@ -35170,10 +35170,11 @@
       ]
     },
     "detecting suspicious activity": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-10-22",
-        "2026-10-23"
+        "2026-10-23",
+        "2026-11-27"
       ]
     },
     "11 million impacted": {
@@ -36554,7 +36555,7 @@
       ]
     },
     "things iot products": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-11-06",
         "2026-11-07",
@@ -38139,7 +38140,7 @@
       ]
     },
     "restore data locked": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-11-23",
         "2026-11-26",
@@ -38358,7 +38359,7 @@
       ]
     },
     "fake recruitment campaign": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-11-25",
         "2026-11-26",
@@ -38473,7 +38474,7 @@
       ]
     },
     "steal corporate google": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-26",
         "2026-11-27"
@@ -38487,7 +38488,7 @@
       ]
     },
     "look perfectly fine": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-11-26",
         "2026-11-27"
@@ -38506,20 +38507,69 @@
         "2026-11-26",
         "2026-11-27"
       ]
+    },
+    "server operating system": {
+      "count": 1,
+      "dates": [
+        "2026-11-27"
+      ]
+    },
+    "crash potentially leading": {
+      "count": 1,
+      "dates": [
+        "2026-11-27"
+      ]
+    },
+    "second critical vulnerability": {
+      "count": 1,
+      "dates": [
+        "2026-11-27"
+      ]
+    },
+    "threat actor leveraged": {
+      "count": 1,
+      "dates": [
+        "2026-11-27"
+      ]
+    },
+    "next major release": {
+      "count": 1,
+      "dates": [
+        "2026-11-27"
+      ]
+    },
+    "microsoft store application": {
+      "count": 1,
+      "dates": [
+        "2026-11-27"
+      ]
+    },
+    "detected suspicious activity": {
+      "count": 1,
+      "dates": [
+        "2026-11-27"
+      ]
+    },
+    "corrupt application memory": {
+      "count": 1,
+      "dates": [
+        "2026-11-27"
+      ]
+    },
+    "emergency hotpatch update": {
+      "count": 1,
+      "dates": [
+        "2026-11-27"
+      ]
+    },
+    "alter source code": {
+      "count": 1,
+      "dates": [
+        "2026-11-27"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-10-28 14:46",
-      "articles": 56,
-      "top_keywords": [
-        "net client library",
-        "tls flaws found",
-        "malicious cyber actors",
-        "php flaws known",
-        "web management interfaces"
-      ]
-    },
     {
       "timestamp": "2026-10-28 20:43",
       "articles": 56,
@@ -39607,6 +39657,17 @@
         "targeting cypriot organizations",
         "cve 2026 120705",
         "cve 2026 103406"
+      ]
+    },
+    {
+      "timestamp": "2026-11-27 13:24",
+      "articles": 56,
+      "top_keywords": [
+        "twitter whistleblower complaint",
+        "things iot products",
+        "server operating system",
+        "look perfectly fine",
+        "crash potentially leading"
       ]
     }
   ]

@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-11-28 05:57",
+  "last_updated": "2026-11-28 15:08",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "shinyhunters hacking group",
     "twitter whistleblower complaint",
+    "threat actor leveraged",
     "things iot products",
     "server operating system",
     "look perfectly fine",
     "live offering 50",
+    "fake recruitment campaign",
     "crash potentially leading",
     "untrusted data vulnera",
     "restore data locked",
     "potential data breach",
-    "threat actors behind",
-    "threat actor leveraged",
-    "next major release",
     "corrupt application memory",
     "second critical vulnerability",
     "exceptional conditions vulnerability",
-    "fake recruitment campaign",
     "execute arbitrary code",
     "arbitrary code execution",
-    "alter source code"
+    "alter source code",
+    "extortion group krebsonsecurity",
+    "attackers already exploiting"
   ],
   "trending": [
     {
       "keyword": "shinyhunters hacking group",
-      "mentions": 22
+      "mentions": 23
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2943
+      "mentions": 2944
+    },
+    {
+      "keyword": "threat actor leveraged",
+      "mentions": 4
     },
     {
       "keyword": "things iot products",
-      "mentions": 43
+      "mentions": 44
     },
     {
       "keyword": "server operating system",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "look perfectly fine",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "live offering 50",
-      "mentions": 2
-    },
-    {
-      "keyword": "crash potentially leading",
       "mentions": 3
     },
     {
+      "keyword": "fake recruitment campaign",
+      "mentions": 9
+    },
+    {
+      "keyword": "crash potentially leading",
+      "mentions": 4
+    },
+    {
       "keyword": "untrusted data vulnera",
-      "mentions": 2
-    },
-    {
-      "keyword": "restore data locked",
-      "mentions": 7
-    },
-    {
-      "keyword": "potential data breach",
       "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "pCloud Password Manager Hit by Cyber Attack Involving Email Address Exposure and Login Attempts",
+      "link": "https://thehackernews.com/2026/11/pcloud-password-manager-hit-by-cyber.html",
+      "summary": "Cross-platform password manager pCloud Pass has confirmed it was targeted by a cyber attack after users reported seeing unknown devices being connected to their accounts. \"A cyber attack targeting pCloud Pass occurred, which was promptly contained by the pCloud team,\" the Swiss company said in response to a number of posts on Reddit. \"Unfortunately, a small number of pCloud Pass user email",
+      "published": "Sat, 28 Nov 2026 13:38:11 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign",
@@ -138,15 +147,6 @@
       "link": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
       "summary": "A website can look perfectly fine to the person running it. Log out, visit the same page, and things might look different. Something similar is happening with browser extensions, where even the way you find and install one can change what it does. Checking whether software works as expected only tells you so much. Then there’s the question of who gets to use what. Stolen logins are opening",
       "published": "Fri, 27 Nov 2026 01:09:57 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
-      "link": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
-      "summary": "The threat actors behind the PolinRider campaign have compromised over 7,600 GitHub repositories, in some cases planting a Python loader capable of delivering next-stage payloads, as evidence emerges that the activity may have started as far back as February 2025. \"These are real developers, not throwaway accounts,\" Apiiro researcher Shmulik Cohen said. \"6,541 of the 7,609 repos (86%) belong",
-      "published": "Thu, 26 Nov 2026 20:43:41 +0530",
       "value_score": 10,
       "value_signals": []
     },

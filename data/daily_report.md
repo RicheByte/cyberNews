@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-11-28 05:57 UTC  
+> **Last Updated:** 2026-11-28 15:08 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**shinyhunters hacking group** • **twitter whistleblower complaint** • **things iot products** • **server operating system** • **look perfectly fine** • **live offering 50** • **crash potentially leading** • **untrusted data vulnera** • **restore data locked** • **potential data breach** • **threat actors behind** • **threat actor leveraged** • **next major release** • **corrupt application memory** • **second critical vulnerability** • **exceptional conditions vulnerability** • **fake recruitment campaign** • **execute arbitrary code** • **arbitrary code execution** • **alter source code**
+**shinyhunters hacking group** • **twitter whistleblower complaint** • **threat actor leveraged** • **things iot products** • **server operating system** • **look perfectly fine** • **live offering 50** • **fake recruitment campaign** • **crash potentially leading** • **untrusted data vulnera** • **restore data locked** • **potential data breach** • **corrupt application memory** • **second critical vulnerability** • **exceptional conditions vulnerability** • **execute arbitrary code** • **arbitrary code execution** • **alter source code** • **extortion group krebsonsecurity** • **attackers already exploiting**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [pCloud Password Manager Hit by Cyber Attack Involving Email Address Exposure and Login Attempts](https://thehackernews.com/2026/11/pcloud-password-manager-hit-by-cyber.html)
 - [Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign](https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html)
 - [Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control](https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html)
 - [How to Keep Your Security Picture Current When Attackers Move at AI Speed](https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html)
@@ -23,7 +24,6 @@
 - [Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators](https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html)
 - [Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access](https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html)
 - [ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories](https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html)
-- [North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware](https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html)
 
 ### BleepingComputer
 
